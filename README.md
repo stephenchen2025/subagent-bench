@@ -10,9 +10,10 @@ scores the same as one that returns a precise, calibrated one — the orchestrat
 recovers, and the metric never sees the difference. HANDOFF measures that
 difference.
 
-**Status:** v0.5. The three example tasks emit as Harbor task directories, all
-six scoring axes are implemented, and the F10 handback runs end to end against
-the real mini-swe-agent — 110 tests, no API key required.
+**Status:** v0.6. The three example tasks emit as Harbor task directories, all
+six scoring axes are implemented, and the F10 handback runs end to end inside a
+real Harbor `run()` driving a real mini-swe-agent — 122 tests, no API key
+required.
 
 ## Read this first
 
@@ -51,6 +52,7 @@ Three ideas carry it:
 make install && make test    # 110 tests, no API key needed
 make demo                    # score two subagents that did identical work
 make tasks                   # emit Harbor task directories into build/harbor
+make test-harbor             # 12 more, against real harbor (needs Python >=3.12)
 ```
 
 ## What the scorers see
@@ -119,7 +121,10 @@ inside a single Harbor trial. `harness/handback.py` does it, and the end-to-end
 test scores a subagent that holds its ground at 1.00 and one that capitulates to
 an incorrect pushback at 0.00.
 
-The mini-swe-agent half is verified against the installed package (2.4.6) with a
-scripted model — no API key, no network. What is left needs things this
-environment does not have: Harbor itself, which is not on PyPI, and an API key to
-run the frozen consumer and a real model for real.
+Both halves are verified against the real packages — harbor 0.22.0 and
+mini-swe-agent 2.4.6 — with a scripted model and a fake environment, so no API
+key and no network. Harbor is not on PyPI and needs Python >= 3.12; `make
+test-harbor` prints the one-time setup.
+
+What is left needs what this environment does not have: an API key, and a
+container runtime for a real trial.

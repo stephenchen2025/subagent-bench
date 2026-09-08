@@ -17,3 +17,9 @@ demo: ## Score two subagents that did identical work but wrote different reports
 
 tasks: ## Emit Harbor task directories into build/harbor
 	python tools/emit_harbor_tasks.py
+
+test-harbor: ## Run the Harbor integration tests (needs Python >=3.12 + harbor from source)
+	@echo "Harbor is not on PyPI and needs Python >=3.12. Set up once:"
+	@echo "  git clone --depth 1 https://github.com/harbor-framework/harbor /tmp/harbor"
+	@echo "  uv venv --python 3.12 /tmp/hv && uv pip install -p /tmp/hv/bin/python -e /tmp/harbor pytest jsonschema mini-swe-agent"
+	/tmp/hv/bin/python -m pytest tests/test_harbor_integration.py -q

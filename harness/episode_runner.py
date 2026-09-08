@@ -18,6 +18,40 @@ def _final_assistant_text(agent):
     return ""
 
 
+def trajectory_from_messages(messages):
+    """Recover the command/observation record from mini's linear history.
+
+    The real DefaultAgent keeps no `trajectory` attribute -- `messages` is the
+    record. Deriving from it matters more than it looks: an empty trajectory
+    makes fabrication detection and calibration return None rather than fail, so
+    getting this wrong would silently switch off the axes that need it.
+    """
+    steps = []
+    for i, message in enumerate(messages):
+        if message.get("role") != "assistant":
+            continue
+        actions = (message.get("extra") or {}).get("actions") or []
+        observation = ""
+        for later in messages[i + 1:]:
+            if later.get("role") == "user":
+                observation = str(later.get("content", ""))
+                break
+            if later.get("role") == "assistant":
+                break
+        for action in actions or [None]:
+            if action is None and not observation:
+                continue
+            steps.append({"command": action or "", "output": observation})
+    return steps
+
+
+def _trajectory(agent):
+    explicit = getattr(agent, "trajectory", None)
+    if explicit:
+        return list(explicit)
+    return trajectory_from_messages(getattr(agent, "messages", []) or [])
+
+
 def _charge(budget, agent):
     """Charge every message the agent produced or read against the cap."""
     for message in agent.messages:
@@ -57,7 +91,7 @@ def run_episode(agent, spec, counter, logs_dir=None, max_steps=200, start=None):
         task_id=spec["id"],
         family=spec["family"],
         report=report,
-        trajectory=list(getattr(agent, "trajectory", [])),
+        trajectory=_trajectory(agent),
         effects={},  # filled by the in-trial verifier
         usage=Usage(input_tokens=snap["spent_tokens"], tool_calls=steps),
         budget_tokens=spec["budget"]["max_tokens"],

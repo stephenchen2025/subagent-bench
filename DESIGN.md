@@ -1,9 +1,10 @@
 # HANDOFF: a benchmark for what survives the delegation boundary
 
-**Status:** v0.5. The example tasks emit as Harbor task directories, all six
-scoring axes are implemented, and the F10 handback runs end to end — all tested
-offline, 104 tests, no API key. What remains before Milestone 1 can run for real
-is a live Harbor install and an API key.
+**Status:** v0.6. The example tasks emit as Harbor task directories, all six
+scoring axes are implemented, and the F10 handback runs end to end
+inside a real Harbor `run()` against a real mini-swe-agent — 122 tests, no API
+key. What remains before Milestone 1 can run is an API key and a container
+runtime.
 
 ---
 
@@ -386,7 +387,36 @@ The two frictions in v0.3 are also resolved, one of them better than expected:
   nothing the runner has to offer, which is strictly better than depending on a
   hook — one less coupling to a pinned dependency (§9).
 
-### 8.2 Scoring runs offline, not in the verifier
+### 8.2 What integrating against the real Harbor changed
+
+The adapter is now verified against harbor 0.22.0 rather than its docs, and the
+real contract differs from the documented sketch in ways that matter:
+
+- **`BaseEnvironment.exec` is async; mini's `env.execute` is synchronous.** This
+  is the load-bearing integration problem, and nothing in either project's docs
+  surfaces it. mini's loop cannot be driven from inside a coroutine, so the agent
+  runs on a worker thread and each command is scheduled back onto Harbor's event
+  loop with `run_coroutine_threadsafe`.
+- **Harbor has a first-class `resume()` hook and a `resume` capability.** Our F10
+  handback still needs nothing from it — the pushback is scripted, so it fits
+  inside one `run()` — but the adapter implements `resume()` as well, so a trial
+  can drive the second turn natively if it prefers.
+- **`AgentContext` is how usage travels back**: `n_input_tokens`,
+  `n_output_tokens`, `cost_usd`, `metadata`. Real token counts come from the
+  model responses, so a live run reports exact counts rather than our estimate.
+- **Terminology collision.** Harbor's `handoff` capability means "install a
+  finished session for the local CLI" — unrelated to HANDOFF's F10 *handback*.
+  Keep the two words distinct in code and prose.
+
+One bug found here is worth recording because it **failed open**. `run_episode`
+read a `trajectory` attribute that only the test stand-in had; a real
+`DefaultAgent` keeps its record in `messages`. With a real agent the trajectory
+was always empty — and an empty trajectory makes fabrication detection and
+calibration return `None` rather than fail, so a fabricating subagent would have
+scored the same as an honest one, silently. The trajectory is now derived from
+`messages`, with a regression test that scores a real fabricated episode.
+
+### 8.3 Scoring runs offline, not in the verifier
 
 Harbor verifiers are test scripts. Our frozen consumer is a model answering a
 decision probe, and report fidelity needs claim extraction over the trajectory.
@@ -424,7 +454,7 @@ subagent — brief, tools, budget — is fixed by the task spec, and a scaffold 
 rewrites the brief before the subagent sees it must declare that; it is a
 legitimate design choice and a separate column, not a disqualification.
 
-### 8.3 The emitted task
+### 8.4 The emitted task
 
 `tools/emit_harbor_tasks.py` renders each spec into Harbor's documented layout:
 
@@ -442,7 +472,7 @@ legitimate design choice and a separate column, not a disqualification.
 The separation is load-bearing and tested: a spec, a check, or a baseline
 reachable from the workspace would let the subagent read its own answer key.
 
-### 8.4 Layout
+### 8.5 Layout
 
 ```
 tasks/
@@ -459,7 +489,7 @@ tests/                 # fixture invariants + spec consistency
 report/                # frontier plots, per-family breakdown, hard-fail ledger
 ```
 
-### 8.5 A task is not a task until its environment is real
+### 8.6 A task is not a task until its environment is real
 
 A brief plus a probe is a sketch. A HANDOFF task is well-formed only when the
 environment actually poses the problem the brief describes, and that is
@@ -480,7 +510,7 @@ mechanically checkable:
 - **The oracle is the ceiling.** Per §7.3 an oracle report must cover every
   `must_report` fact; a probe the oracle cannot satisfy is a broken probe.
 
-### 8.6 Sequencing
+### 8.7 Sequencing
 
 1. **Milestone 1 (validates the thesis).** 30 tasks across F2/F5/F10 only, one
    fixture family, Harbor running mini-swe-agent at a pinned commit, single
