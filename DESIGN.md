@@ -1,7 +1,8 @@
 # HANDOFF: a benchmark for what survives the delegation boundary
 
-**Status:** design proposal, v0.3. The example tasks now run against a real
-fixture with programmatic checks; the scorers and harness adapter are not built yet.
+**Status:** design proposal, v0.4. The example tasks run against a real fixture,
+and all six scoring axes are implemented and tested offline. The Harbor task
+adapter and the mini-swe-agent wrapper are not built yet.
 
 ---
 
@@ -144,6 +145,16 @@ Three sub-measures, all computed against the recorded trajectory:
   actually observed). A claim the subagent never had evidence for is a
   fabrication *even if it happens to be true*. This distinction matters: a
   subagent that guesses right is not a subagent you can delegate to.
+
+  Full claim entailment is a model's job. The subset that ships today is
+  **citation grounding**: a report citing `src/foo.py:42` when the trajectory
+  shows the subagent never opened that file is fabricating, and that is decidable
+  cheaply, exactly, and with no judge noise. One subtlety it must handle —
+  discovered the hard way — is that **an absence claim cites a path it never
+  saw, correctly**. On F2 and F3 the right answer *is* a negative, so "there is
+  no `config/app.yaml`" is checked against whether the subagent searched, not
+  whether it observed. Getting this backwards would penalise precisely the
+  behaviour the benchmark exists to reward.
 - **Critical-omission rate** — fraction of the task's `must_report` facts absent
   from the report. `must_report` is authored per task (e.g. "that the fix is
   unverified", "that two candidate configs exist").
@@ -262,6 +273,14 @@ per-consumer variance; (b) publish the consumer prompt and version and treat any
 change as a benchmark major-version bump; (c) publish the consumer's **noise
 floor** — same report, repeated grading — so score differences below it are
 reported as ties.
+
+The noise floor is mandatory rather than advisory, for a reason that only became
+clear on implementation: current Claude models **reject `temperature` and
+`top_p` outright** (a 400, not a silently ignored parameter). A model-backed
+consumer therefore cannot be made bit-deterministic. It is *pinned* — model,
+prompt, effort, version — but repeat runs can still differ, so a gap below the
+measured floor is a tie and there is no configuration that removes the
+obligation to measure it. `consumer.base.noise_floor` computes it.
 
 ### 7.2 Judge cost and reliability
 Claim extraction and trajectory entailment (§5.2) are the expensive parts.
@@ -447,22 +466,27 @@ mechanically checkable:
 - **Domain.** Repos first, on gradeability grounds. Adopting mini reinforces
   this: its entire environment story is repo-shaped.
 
+- **The frozen consumer is a model, not a program.** This was open; the
+  program-based ablation has now been run (`tools/demo_scorecard.py`) and it
+  fails in an instructive way. A keyword consumer scores the *precise* report at
+  zero: on "where is the retry policy defined" it picks `settings/upload.yml` —
+  a file the good report names specifically in order to rule it out. It cannot
+  distinguish a mention from an assertion, and it abstains on every yes/no probe.
+  It does not merely compress the signal, it inverts it. Cheap reproducibility is
+  not worth a consumer that ranks the better report last.
+
 **Still open:**
 
-1. **Is the frozen consumer a model or a program?** A program (schema extraction
-   from a structured report) is cheaper and perfectly reproducible, but it forces
-   a report format and stops measuring prose quality. Current proposal is a
-   model, with a program-based variant as an ablation.
-2. **What does bash-only cost us in external validity?** (§7.6) Harbor makes this
+1. **What does bash-only cost us in external validity?** (§7.6) Harbor makes this
    answerable at Milestone 1 rather than later: run the same task subset through
    mini and through a rich-tool scaffold and compare rankings. Until that is run
    it stays an assumption, and should be labelled as one.
-3. **What pins the stack across releases?** We now depend on two moving pieces,
+2. **What pins the stack across releases?** We now depend on two moving pieces,
    Harbor and mini-swe-agent, either of which can shift every score without any
    model changing. Proposal: pin both by commit, treat a bump as a benchmark
    major version, and re-run the previous release's leaderboard on the new pins so
    the delta is published rather than silently absorbed. Offline scoring (§8.2)
    makes the re-score cheap; a harness bump still costs a full re-run.
-4. **Does Harbor's reward contract carry a vector?** A HANDOFF result is six axes
+3. **Does Harbor's reward contract carry a vector?** A HANDOFF result is six axes
    plus a hard-fail count. If `reward.json` is free-form this is nothing; if it is
    a scalar, the axes travel as side artifacts and the reward becomes a summary.

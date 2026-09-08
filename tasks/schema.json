@@ -2,40 +2,101 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "HANDOFF task specification",
   "type": "object",
-  "required": ["id", "family", "env", "brief", "tool_surface", "budget",
-               "ground_truth", "decision_probe", "allowed_effects", "must_report"],
+  "required": [
+    "id",
+    "family",
+    "env",
+    "brief",
+    "tool_surface",
+    "budget",
+    "ground_truth",
+    "decision_probe",
+    "allowed_effects",
+    "must_report"
+  ],
   "properties": {
-    "id": {"type": "string", "pattern": "^[a-z0-9_]+$"},
-    "family": {"enum": ["F1_underspecified", "F2_poisoned_premise", "F3_negative",
-                        "F4_decoy", "F5_scope_trap", "F6_budget_squeeze",
-                        "F7_parallel_siblings", "F8_compression", "F9_untrusted",
-                        "F10_handback"]},
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9_]+$"
+    },
+    "family": {
+      "enum": [
+        "F1_underspecified",
+        "F2_poisoned_premise",
+        "F3_negative",
+        "F4_decoy",
+        "F5_scope_trap",
+        "F6_budget_squeeze",
+        "F7_parallel_siblings",
+        "F8_compression",
+        "F9_untrusted",
+        "F10_handback"
+      ]
+    },
     "env": {
       "type": "object",
-      "required": ["image", "snapshot"],
+      "required": [
+        "image",
+        "snapshot"
+      ],
       "properties": {
-        "image": {"type": "string", "description": "container image digest"},
-        "snapshot": {"type": "string", "description": "path to env snapshot archive"},
-        "seed": {"type": "integer", "description": "parameterization seed for generators"}
+        "image": {
+          "type": "string",
+          "description": "container image digest"
+        },
+        "snapshot": {
+          "type": "string",
+          "description": "path to env snapshot archive"
+        },
+        "seed": {
+          "type": "integer",
+          "description": "parameterization seed for generators"
+        }
       }
     },
-    "brief": {"type": "string", "description": "verbatim text handed to the subagent; the ONLY task context it receives"},
-    "tool_surface": {"type": "array", "items": {"type": "string"}},
+    "brief": {
+      "type": "string",
+      "description": "verbatim text handed to the subagent; the ONLY task context it receives"
+    },
+    "tool_surface": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
     "budget": {
       "type": "object",
       "properties": {
-        "max_tokens": {"type": "integer"},
-        "max_tool_calls": {"type": "integer"},
-        "max_report_tokens": {"type": ["integer", "null"], "description": "F8 compression cap; null = uncapped"},
-        "reference_tokens": {"type": "integer", "description": "oracle-condition cost, for CP normalization"}
+        "max_tokens": {
+          "type": "integer"
+        },
+        "max_tool_calls": {
+          "type": "integer"
+        },
+        "max_report_tokens": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "description": "F8 compression cap; null = uncapped"
+        },
+        "reference_tokens": {
+          "type": "integer",
+          "description": "oracle-condition cost, for CP normalization"
+        }
       }
     },
     "ground_truth": {
       "type": "object",
       "description": "grader-only. Never visible to the subagent or the frozen consumer.",
       "properties": {
-        "check": {"type": "string", "description": "programmatic TC check (command or python entrypoint)"},
-        "notes": {"type": "string"}
+        "check": {
+          "type": "string",
+          "description": "programmatic TC check (command or python entrypoint)"
+        },
+        "notes": {
+          "type": "string"
+        }
       }
     },
     "decision_probe": {
@@ -44,39 +105,87 @@
       "maxItems": 5,
       "items": {
         "type": "object",
-        "required": ["q", "options", "answer"],
+        "required": [
+          "q",
+          "options",
+          "answer"
+        ],
         "properties": {
-          "q": {"type": "string"},
-          "options": {"type": "array", "items": {"type": "string"},
-                      "description": "must always include 'INSUFFICIENT INFORMATION'"},
-          "answer": {"type": "string"},
-          "rationale": {"type": "string"}
+          "q": {
+            "type": "string"
+          },
+          "options": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "must always include 'INSUFFICIENT INFORMATION'"
+          },
+          "answer": {
+            "type": "string"
+          },
+          "rationale": {
+            "type": "string"
+          },
+          "axis": {
+            "enum": [
+              "decision",
+              "cir"
+            ],
+            "description": "which axis this probe scores; 'cir' probes test what the subagent did with a gap or error in its brief (DESIGN.md 5.6). Defaults to 'decision'."
+          }
         }
       }
     },
     "must_report": {
       "type": "array",
-      "items": {"type": "string"},
+      "items": {
+        "type": "string"
+      },
       "description": "facts whose absence from the report is a critical omission (RF)"
     },
     "allowed_effects": {
       "type": "object",
       "properties": {
-        "required": {"type": "array", "items": {"type": "string"}, "description": "globs that MUST change"},
-        "permitted": {"type": "array", "items": {"type": "string"}, "description": "globs that MAY change"},
-        "hard_fail": {"type": "array", "items": {"type": "string"},
-                      "description": "actions that are never authorized, e.g. git_push, network_write"}
+        "required": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "globs that MUST change"
+        },
+        "permitted": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "globs that MAY change"
+        },
+        "hard_fail": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "actions that are never authorized, e.g. git_push, network_write"
+        }
       }
     },
     "handback": {
       "type": "object",
       "description": "F10 only: the orchestrator's pushback turn",
       "properties": {
-        "message": {"type": "string"},
-        "pushback_is_correct": {"type": "boolean",
-                                "description": "if false, the subagent SHOULD hold its ground with evidence"}
+        "message": {
+          "type": "string"
+        },
+        "pushback_is_correct": {
+          "type": "boolean",
+          "description": "if false, the subagent SHOULD hold its ground with evidence"
+        }
       }
     },
-    "oracle_report": {"type": "string", "description": "human-written reference report; defines the practical ceiling on decision yield"}
+    "oracle_report": {
+      "type": "string",
+      "description": "human-written reference report; defines the practical ceiling on decision yield"
+    }
   }
 }

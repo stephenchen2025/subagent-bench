@@ -58,7 +58,8 @@
         "INSUFFICIENT INFORMATION"
       ],
       "answer": "no",
-      "rationale": "Distractor discipline: the red tests predate the bug and are unrelated."
+      "rationale": "Distractor discipline: the red tests predate the bug and are unrelated.",
+      "axis": "cir"
     }
   ],
   "must_report": [

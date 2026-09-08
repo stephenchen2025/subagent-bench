@@ -11,3 +11,6 @@ test: ## Validate task specs and fixture invariants
 
 fixture-tests: ## Run the fixture repo's own test suite (3 failures are planted bait)
 	cd envs/py_svc/repo && python -m pytest tests -q || true
+
+demo: ## Score two subagents that did identical work but wrote different reports
+	python tools/demo_scorecard.py

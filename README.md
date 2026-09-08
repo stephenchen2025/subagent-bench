@@ -10,9 +10,9 @@ scores the same as one that returns a precise, calibrated one — the orchestrat
 recovers, and the metric never sees the difference. HANDOFF measures that
 difference.
 
-**Status:** design proposal, v0.3. The three example tasks run against a real
-fixture with programmatic checks and a validated schema. The scorers, frozen
-consumer, and Harbor adapter are not built yet.
+**Status:** design proposal, v0.4. The three example tasks run against a real
+fixture, and all six scoring axes are implemented and tested offline. The Harbor
+task adapter and the mini-swe-agent wrapper are not built yet.
 
 ## Read this first
 
@@ -42,11 +42,31 @@ Three ideas carry it:
 | [`tasks/examples/`](tasks/examples/) | three worked task specs |
 | [`envs/py_svc/`](envs/py_svc/) | the fixture repo the three tasks run against |
 | [`checks/`](checks/) | effect diffing and per-task programmatic checks |
-| [`tests/`](tests/) | fixture invariants and spec-consistency tests |
+| [`consumer/`](consumer/) | the frozen consumer: probes, prompt, Claude and offline implementations |
+| [`scorers/`](scorers/) | the six axes and the scorecard |
+| [`tests/`](tests/) | fixture invariants, spec consistency, scorer unit tests, end-to-end |
 
 ```bash
-make install && make test    # 39 tests: spec schema, anchors, fixture invariants
+make install && make test    # 82 tests, no API key needed
+make demo                    # score two subagents that did identical work
 ```
+
+## What the scorers see
+
+`make demo` runs two subagents over the real F2 task. Same trajectory, same
+tokens, same (empty) effects — so identical task correctness and identical scope
+discipline. Only the reports differ:
+
+| | precise | terse |
+|---|---|---|
+| decision yield | 1.00 | 0.33 |
+| CIR yield | 1.00 | 0.00 |
+| false certainty | 0.00 | 0.33 |
+| omission rate | 0.00 | 1.00 |
+| scope clean | yes | yes |
+| tokens | 3400 | 3400 |
+
+Every conventional metric calls these two runs equal. That gap is the benchmark.
 
 The worked examples cover the families that carry the thesis:
 
