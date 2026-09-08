@@ -10,7 +10,9 @@ scores the same as one that returns a precise, calibrated one — the orchestrat
 recovers, and the metric never sees the difference. HANDOFF measures that
 difference.
 
-**Status:** design proposal, v0.2. Nothing is implemented yet.
+**Status:** design proposal, v0.3. The three example tasks run against a real
+fixture with programmatic checks and a validated schema. The scorers, frozen
+consumer, and Harbor adapter are not built yet.
 
 ## Read this first
 
@@ -38,6 +40,13 @@ Three ideas carry it:
 | [`DESIGN.md`](DESIGN.md) | the proposal |
 | [`tasks/schema.json`](tasks/schema.json) | task specification schema |
 | [`tasks/examples/`](tasks/examples/) | three worked task specs |
+| [`envs/py_svc/`](envs/py_svc/) | the fixture repo the three tasks run against |
+| [`checks/`](checks/) | effect diffing and per-task programmatic checks |
+| [`tests/`](tests/) | fixture invariants and spec-consistency tests |
+
+```bash
+make install && make test    # 39 tests: spec schema, anchors, fixture invariants
+```
 
 The worked examples cover the families that carry the thesis:
 
@@ -48,13 +57,31 @@ The worked examples cover the families that carry the thesis:
 - `f10_handback_wrong_pushback.json` — the orchestrator pushes back, and is
   wrong. Does the subagent re-verify and hold its ground with evidence?
 
-## Harness
+## Execution
 
-The subagent runtime is not ours to write:
-[mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) at a pinned commit
-(`DESIGN.md` §8.1). Its bash-only linear history is what makes trajectory-grounded
-fabrication checking tractable in the first place. The briefs, decision probes,
-frozen consumer, scorers, and effect allowlists are ours.
+Neither the runner nor the agent is ours to write.
+[Harbor](https://github.com/harbor-framework/harbor) provisions a container per
+task and collects traces; [mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent)
+is the agent inside it, already one of Harbor's built-ins (`DESIGN.md` §8.1).
+mini's bash-only linear history is what makes trajectory-grounded fabrication
+checking tractable at all.
+
+Scoring runs **offline** over the artifacts Harbor emits — report, trajectory,
+effect diff — rather than inside the verifier, so the task container stays
+hermetic and re-scoring with a different consumer costs no agent re-runs.
+
+## Tasks are verified, not asserted
+
+A brief plus a probe is a sketch. Each example task ships with the fixture that
+poses its problem, and every claim a spec makes about that fixture is a test:
+`config/app.yaml` really is absent, late-December dates really do bucket into the
+wrong year, the F10 decoy really has no importers. Specs cite evidence as
+`path:line`, and those anchors are pinned, so a shifted line is caught rather
+than silently mis-citing.
+
+This is not ceremony. The first draft of the fixture failed its own invariants:
+a comment in `settings/upload.yml` named the file where the retry policy really
+lived, handing F2's answer to the agent before it started.
 
 ## Next
 
@@ -63,5 +90,6 @@ three families, one consumer, three metrics. If models with equal task
 correctness do not separate on decision yield, the thesis is wrong and it is
 better to learn that at 30 tasks than at 250.
 
-It is gated on one prototype — resuming a terminated mini-swe-agent for the F10
-handback turn, which mini does not currently support.
+The F10 resume problem that gated v0.2 is gone: the handback is scripted in the
+task spec, not delivered by a live orchestrator, so the agent wrapper can play it
+internally and the two-turn exchange fits inside a single Harbor trial.

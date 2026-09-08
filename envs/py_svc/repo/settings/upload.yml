@@ -1,0 +1,10 @@
+# Upload service settings.
+upload:
+  endpoint: "https://storage.internal/v1/objects"
+  chunk_size_bytes: 4194304
+  timeout_seconds: 30
+  concurrency: 8
+
+logging:
+  level: INFO
+  format: json

@@ -1,6 +1,7 @@
 # HANDOFF: a benchmark for what survives the delegation boundary
 
-**Status:** design proposal, v0.2. Nothing here is implemented yet.
+**Status:** design proposal, v0.3. The example tasks now run against a real
+fixture with programmatic checks; the scorers and harness adapter are not built yet.
 
 ---
 
@@ -280,11 +281,11 @@ threads; every task is a parameterized generator, not a fixed instance; a held-
 out split is regenerated per release and never published.
 
 ### 7.5 Scaffold fairness
-Subagent systems differ in scaffolding. The participation contract (§8.3)
+Subagent systems differ in scaffolding. The participation contract (§8.2)
 fixes what is supplied — brief, tools, budget — and forbids the harness from
-injecting task-specific hints. Systems that alter the brief before the subagent sees it
-must declare it; that's a legitimate design choice and a separate leaderboard
-column, not a disqualification.
+injecting task-specific hints. A scaffold that alters the brief before the
+subagent sees it must declare it: a legitimate design choice and a separate
+leaderboard column, not a disqualification.
 
 ### 7.6 Harness modality
 The reference harness (§8.1) gives the subagent a single tool: bash in a
@@ -293,97 +294,141 @@ web. If delegation behaviour differs across those two regimes, Milestone 1
 results may not transfer to how subagents actually ship. We accept this for
 Milestone 1: the thesis question — do models at matched task correctness
 separate on decision yield? — has no obvious dependence on tool modality. But it
-is a stated limitation, not a solved problem, and it is the main argument for
-the system-level track, which evaluates real scaffolds as they are.
+is a stated limitation, not a solved problem. Adopting Harbor (§8.1) makes it
+measurable rather than merely acknowledged: the same task set can be run against
+Claude Code, Codex CLI and OpenHands, and the gap between their rankings and
+mini's is the size of the caveat.
 
 ---
 
 ## 8. Build plan
 
-### 8.1 Reference harness: mini-swe-agent
+### 8.1 Execution layer: Harbor running mini-swe-agent
 
-The subagent runtime is not ours to write. Milestone 1 uses
-[mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) at a pinned commit
-as the fixed reference harness. It replaces the agent loop and the sandboxing —
-genuinely the commodity part — and leaves us the briefs, decision probes, frozen
-consumer, scorers and effect allowlists, which are where the benchmark actually
-lives.
+Neither the runner nor the agent is ours to write.
+[Harbor](https://github.com/harbor-framework/harbor) — the framework behind
+Terminal-Bench — provisions a fresh container per task, injects the agent, runs
+trials in parallel, and collects traces.
+[mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) is one of its
+built-in agents. So the two are not alternatives: Harbor is the runner, mini is
+the agent inside it, and HANDOFF is a task set plus a scorer.
 
-Why it fits better than a bespoke harness:
+What that buys us:
 
-- **Gradeable trajectories.** mini keeps a completely linear history — every step
-  appends to the message list — and the agent's only tool is bash. So every
-  observation the subagent ever had is a bash output in a flat list, which is the
-  cleanest possible input to the unsupported-claim check in §5.2. A rich
-  tool-calling agent would force us to normalise heterogeneous observation
+- **The commodity layer disappears.** Container provisioning, agent injection,
+  parallel execution, trace collection and result aggregation are all Harbor's.
+  `envs/` shrinks to fixture definitions; the bespoke runner goes away entirely.
+- **Gradeable trajectories.** mini keeps a completely linear history and its only
+  tool is bash, so every observation the subagent had is a bash output in a flat
+  list — the cleanest possible input to the unsupported-claim check in §5.2. A
+  rich tool-calling agent would force us to normalise heterogeneous observation
   schemas before entailment could run at all.
-- **Near-free scope discipline.** Actions execute via `subprocess.run` inside a
-  container, so every side effect passes through a logged command. Hard-fail
-  detection (§5.4) becomes a grep over the command log; the effect diff is a
-  filesystem diff.
-- **Tool surface by construction.** `tool_surface` is enforced by what is
-  installed in the container image rather than by an allowlist of tool names.
-  You cannot call a binary that is not there — stricter than the schema's
-  original intent.
-- **Config, not fork.** Prompts are Jinja2 (`system_template`,
-  `instance_template`), so the brief and the report contract are template
-  changes. `step_limit` and `wall_time_limit_seconds` give budget enforcement.
-- **Auditable and model-agnostic.** A ~100-line core loop, any provider, citable
-  at a commit — "the harness is fixed" becomes a claim a reviewer can check.
+- **Tool surface by construction.** `tool_surface` is enforced by what the image
+  installs, not by an allowlist of tool names. You cannot call a binary that is
+  not there.
+- **Cross-scaffold comparison at Milestone 1.** Harbor also runs Claude Code,
+  Codex CLI and OpenHands against the same tasks. That is exactly the experiment
+  §9 previously deferred to a future track — and it matters, because the Harbor
+  work reports native scaffolds beating the minimal mini-swe-agent scaffold on
+  the same models. The modality caveat in §7.6 is real, and Harbor is the
+  instrument for pricing it.
 
-Three things it does not give us, in rough order of risk:
+**F10 needs nothing from Harbor.** Harbor runs a single `run()` per trial and
+documents no resumption, which looked like a blocker for the handback turn. It
+is not: the pushback is *scripted* — it lives in the task spec as
+`handback.message`, not in a live orchestrator — so the agent wrapper delivers it
+internally and the whole two-turn exchange fits inside one `run()`. This was the
+largest open risk in v0.2 and it collapses to a wrapper detail.
 
-1. **No resumption.** Once the agent reaches an exit message, `run()` cannot be
-   continued — and F10 needs exactly that, since the handback is a second turn.
-   `messages` is a plain list and trajectories are serialised, so this should be
-   a subclass: rehydrate the messages, drop the exit entry, append the pushback
-   as a user turn, keep stepping. **Prototype this before authoring F10 tasks.**
-   It is the cheapest available check on whether F10 is as affordable as assumed,
-   and F10 carries half the thesis.
-2. **No shared-state parallelism.** F7 needs N agents over one mutable state — a
-   shared volume plus conflict detection. Ours to build.
-3. **Dollar-denominated budgets.** mini's `cost_limit` defaults to 3.0 USD.
-   **`DY@B` must be enforced in tokens, never dollars.** A dollar budget buys a
-   cheap model more steps than an expensive one at nominally equal budget, which
-   conflates model price with delegation skill — precisely the confound the
-   metric exists to remove. Use our own token accounting, with `step_limit` as a
-   backstop.
+Two frictions remain. Harbor verifiers write a reward to
+`/logs/verifier/reward.{txt,json}`, and a HANDOFF result is six axes plus a
+hard-fail count rather than a scalar; whether `reward.json` accepts arbitrary
+structure is unconfirmed. And scope discipline needs a pre-run filesystem
+snapshot, so it depends on a setup hook we have not yet verified Harbor exposes.
 
-### 8.2 Layout
+### 8.2 Scoring runs offline, not in the verifier
+
+Harbor verifiers are test scripts. Our frozen consumer is a model answering a
+decision probe, and report fidelity needs claim extraction over the trajectory.
+Rather than give a verifier container network access and API keys, **Harbor emits
+artifacts and the scorers run offline over them**:
+
+```
+Harbor trial  ->  report + trajectory + effect diff  ->  offline scorers  ->  six axes
+```
+
+This keeps the task container hermetic, and it has a second payoff that matters
+more than it first appears: §7.1 requires a consumer ensemble and a published
+noise floor, and §9 requires re-scoring when a pin moves. Offline scoring means
+all of that costs zero agent re-runs.
+
+What stays programmatic and inside the trial: the workspace effect diff for
+scope discipline (§5.4), and any task-specific ground-truth assertion. On F5 that
+is half the task's correctness — the brief forbids edits, so a mutated workspace
+is a provable failure with no model involved. On F2 and F10, correctness is a
+property of the report, and it belongs to the consumer.
+
+The artifact triple is also the participation contract. Milestone 1 is
+model-level — one runner, one agent, many models — so entering is just naming a
+model id. A foreign scaffold entering the system-level track must emit the same
+triple:
+
+```
+Episode = (report, trajectory, effect diff)
+```
+
+The trajectory is the hard requirement. A system that returns only a report can
+be scored on task correctness and decision yield, but not on fabrication or
+calibration, and is marked as such on the leaderboard. What is supplied to the
+subagent — brief, tools, budget — is fixed by the task spec, and a scaffold that
+rewrites the brief before the subagent sees it must declare that; it is a
+legitimate design choice and a separate column, not a disqualification.
+
+### 8.3 Layout
 
 ```
 tasks/
   schema.json          # task spec schema
-  examples/            # hand-written seeds, one per family
+  examples/            # worked task specs
   generators/          # procedural parameterization
-envs/                  # container images + effect diffing
-harness/               # mini-swe-agent pin, templates, resume subclass, token budgeter
+envs/                  # fixture repos + Dockerfiles (py_svc ships today)
+checks/                # per-task programmatic checks + effect diffing
 consumer/              # frozen consumer: prompt, version pin, probe runner
 scorers/               # tc, rf, cal, sd, cp, cir
+harness/               # Harbor task adapter, mini agent wrapper, token budgeter
+tools/                 # spec validation
+tests/                 # fixture invariants + spec consistency
 report/                # frontier plots, per-family breakdown, hard-fail ledger
 ```
 
-### 8.3 Participation contract
+### 8.4 A task is not a task until its environment is real
 
-Milestone 1 is model-level — one harness, many models — so participating is just
-naming a model id. The system-level track (§9) admits foreign scaffolds, and
-there the contract is an episode record:
+A brief plus a probe is a sketch. A HANDOFF task is well-formed only when the
+environment actually poses the problem the brief describes, and that is
+mechanically checkable:
 
-```
-Episode = (report, trajectory, usage)
-```
+- **Fixture invariants.** Every claim a spec makes about its environment is a
+  test. `config/app.yaml` really is absent; December really does bucket into the
+  wrong year; the F10 decoy really has no importers; the bait tests really are
+  red. If a fixture edit breaks a task's premise, the suite fails rather than the
+  task going quietly unsolvable.
+- **Pinned anchors.** Specs cite evidence as `path:line`. Those anchors are
+  pinned to the code they are supposed to point at, so a shifted line number is
+  caught instead of silently mis-citing.
+- **Nothing in the workspace may name a defect.** A comment saying where the bug
+  lives destroys the task. This is enforced, not trusted — the first draft of the
+  py_svc fixture failed it, with a settings-file comment that handed the agent
+  F2's answer outright.
+- **The oracle is the ceiling.** Per §7.3 an oracle report must cover every
+  `must_report` fact; a probe the oracle cannot satisfy is a broken probe.
 
-The trajectory is the one hard constraint on participation: a system that returns
-only a report can be scored on task correctness and decision yield, but not on
-fabrication or calibration, and is marked as such on the leaderboard.
-
-### 8.4 Sequencing
+### 8.5 Sequencing
 
 1. **Milestone 1 (validates the thesis).** 30 tasks across F2/F5/F10 only, one
-   environment type, mini-swe-agent at a pinned commit, single frozen consumer,
-   TC + decision yield + SD. Goal: show that models with equal TC separate on
-   decision yield. If they don't separate, the whole design is wrong and we stop
-   here. Gate: the F10 resume prototype (§8.1) lands first.
+   fixture family, Harbor running mini-swe-agent at a pinned commit, single
+   frozen consumer, TC + decision yield + SD. Goal: show that models with equal
+   TC separate on decision yield. If they don't separate, the whole design is
+   wrong and we stop here.
 2. **Milestone 2.** Add trajectory-grounded RF and CAL; add the consumer
    ensemble; publish the noise floor.
 3. **Milestone 3.** Full 10 families, ~250 tasks, procedural generators,
@@ -408,12 +453,16 @@ fabrication or calibration, and is marked as such on the leaderboard.
    from a structured report) is cheaper and perfectly reproducible, but it forces
    a report format and stops measuring prose quality. Current proposal is a
    model, with a program-based variant as an ablation.
-2. **What does bash-only cost us in external validity?** (§7.6) Cheapest probe:
-   once the system-level track exists, run a shared task subset through both mini
-   and a rich-tool scaffold and compare the rankings. Until then this is an
-   assumption, not a finding, and should be labelled as one.
-3. **What pins the harness across releases?** Adopting an external dependency
-   means a mini-swe-agent version bump can move every score without any model
-   changing. Proposal: pin by commit, treat a bump as a benchmark major version,
-   and re-run the previous release's leaderboard on the new pin so the delta is
-   published rather than silently absorbed.
+2. **What does bash-only cost us in external validity?** (§7.6) Harbor makes this
+   answerable at Milestone 1 rather than later: run the same task subset through
+   mini and through a rich-tool scaffold and compare rankings. Until that is run
+   it stays an assumption, and should be labelled as one.
+3. **What pins the stack across releases?** We now depend on two moving pieces,
+   Harbor and mini-swe-agent, either of which can shift every score without any
+   model changing. Proposal: pin both by commit, treat a bump as a benchmark
+   major version, and re-run the previous release's leaderboard on the new pins so
+   the delta is published rather than silently absorbed. Offline scoring (§8.2)
+   makes the re-score cheap; a harness bump still costs a full re-run.
+4. **Does Harbor's reward contract carry a vector?** A HANDOFF result is six axes
+   plus a hard-fail count. If `reward.json` is free-form this is nothing; if it is
+   a scalar, the axes travel as side artifacts and the reward becomes a summary.
