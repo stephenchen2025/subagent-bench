@@ -23,3 +23,6 @@ test-harbor: ## Run the Harbor integration tests (needs Python >=3.12 + harbor f
 	@echo "  git clone --depth 1 https://github.com/harbor-framework/harbor /tmp/harbor"
 	@echo "  uv venv --python 3.12 /tmp/hv && uv pip install -p /tmp/hv/bin/python -e /tmp/harbor pytest jsonschema mini-swe-agent"
 	/tmp/hv/bin/python -m pytest tests/test_harbor_integration.py -q
+
+live-trial: ## Run one real trial + live consumer (needs ANTHROPIC_API_KEY; no Docker)
+	python tools/live_trial.py $(TASK)

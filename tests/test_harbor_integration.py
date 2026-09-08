@@ -232,3 +232,22 @@ def test_fabrication_is_caught_on_a_real_agents_trajectory(tmp_path):
     assert row["unsupported_claim_rate"] == 1.0
     assert row["unsupported_citations"] == ["src/cache/bloom.py:77"]
     assert row["decision_yield"] == 0.0
+
+
+def test_bridge_unwraps_mini_v2_action_dicts():
+    """mini v2 hands execute() a {"command": ...} dict; Harbor's exec wants a str."""
+    async def scenario():
+        env = FakeHarborEnv(["ok"])
+        bridge = HarborEnvBridge(env, asyncio.get_running_loop())
+        await asyncio.to_thread(bridge.execute, {"command": "ls -la"})
+        return env, bridge
+
+    env, bridge = asyncio.run(scenario())
+    assert env.calls == [("ls -la", "/workspace")]
+    assert bridge.commands == ["ls -la"]
+
+
+def test_bridge_still_accepts_a_bare_string():
+    assert HarborEnvBridge.command_of("ls") == "ls"
+    assert HarborEnvBridge.command_of({"command": "ls"}) == "ls"
+    assert HarborEnvBridge.command_of(None) == ""

@@ -126,5 +126,21 @@ mini-swe-agent 2.4.6 — with a scripted model and a fake environment, so no API
 key and no network. Harbor is not on PyPI and needs Python >= 3.12; `make
 test-harbor` prints the one-time setup.
 
-What is left needs what this environment does not have: an API key, and a
-container runtime for a real trial.
+## Running it live
+
+A full benchmark run needs a container: every Harbor environment is a container
+or a cloud sandbox, and this repo's scope discipline assumes a fixture image.
+
+A *first* live trial needs neither. `make live-trial` runs mini-swe-agent's
+LocalEnvironment in a subprocess against a copy of the fixture and scores the
+report with the live frozen consumer, so `ANTHROPIC_API_KEY` is the only
+prerequisite:
+
+```bash
+make live-trial              # or: make live-trial TASK=f10_handback_false_correction
+```
+
+It answers the questions only a real call can: whether a model follows the report
+contract, what a trajectory actually costs, and what the consumer's noise floor
+is. It is a wiring check, not a result — LocalEnvironment is not a sandbox, and
+the tool surface is the host's rather than the image's.

@@ -39,9 +39,13 @@ def trajectory_from_messages(messages):
             if later.get("role") == "assistant":
                 break
         for action in actions or [None]:
-            if action is None and not observation:
+            command = (
+                action.get("command", "") if isinstance(action, dict)
+                else str(action or "")
+            )
+            if not command and not observation:
                 continue
-            steps.append({"command": action or "", "output": observation})
+            steps.append({"command": command, "output": observation})
     return steps
 
 

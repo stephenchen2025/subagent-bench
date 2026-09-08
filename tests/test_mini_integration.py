@@ -44,8 +44,9 @@ class ScriptedModel:
                  "extra": {"exit_status": "Submitted", "submission": ""}}
             )
         text, action = item
-        return {"role": "assistant", "content": text,
-                "extra": {"actions": [action] if action else []}}
+        # Real mini v2 emits action dicts, not bare strings.
+        actions = [{"command": action}] if action else []
+        return {"role": "assistant", "content": text, "extra": {"actions": actions}}
 
     def format_message(self, role, content):
         return {"role": role, "content": content}
@@ -67,7 +68,7 @@ class ScriptedEnv:
         self.executed = []
 
     def execute(self, action, **kwargs):
-        self.executed.append(action)
+        self.executed.append(action.get("command") if isinstance(action, dict) else action)
         out = self._outputs.pop(0) if self._outputs else ""
         return {"output": out, "returncode": 0}
 

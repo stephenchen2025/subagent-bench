@@ -44,11 +44,19 @@ class HarborEnvBridge:
         self._timeout_sec = timeout_sec
         self.commands = []
 
-    def execute(self, action, **kwargs):
-        self.commands.append(action)
+    @staticmethod
+    def command_of(action):
+        """mini v2 passes an action dict; older shapes and tests pass a string."""
+        if isinstance(action, dict):
+            return action.get("command", "")
+        return str(action or "")
+
+    def execute(self, action, cwd="", **kwargs):
+        command = self.command_of(action)
+        self.commands.append(command)
         future = asyncio.run_coroutine_threadsafe(
             self._environment.exec(
-                action, cwd=self._cwd, timeout_sec=self._timeout_sec
+                command, cwd=cwd or self._cwd, timeout_sec=self._timeout_sec
             ),
             self._loop,
         )
