@@ -11,3 +11,6 @@ venv/
 runs/
 trajectories/
 *.jsonl
+
+# emitted Harbor task directories
+build/

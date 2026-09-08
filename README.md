@@ -10,9 +10,10 @@ scores the same as one that returns a precise, calibrated one — the orchestrat
 recovers, and the metric never sees the difference. HANDOFF measures that
 difference.
 
-**Status:** design proposal, v0.4. The three example tasks run against a real
-fixture, and all six scoring axes are implemented and tested offline. The Harbor
-task adapter and the mini-swe-agent wrapper are not built yet.
+**Status:** v0.5. The three example tasks emit as Harbor task directories, all
+six scoring axes are implemented, and the F10 handback runs end to end — tested
+offline, 104 tests, no API key required. Running Milestone 1 for real needs a
+live Harbor install and an API key.
 
 ## Read this first
 
@@ -44,11 +45,13 @@ Three ideas carry it:
 | [`checks/`](checks/) | effect diffing and per-task programmatic checks |
 | [`consumer/`](consumer/) | the frozen consumer: probes, prompt, Claude and offline implementations |
 | [`scorers/`](scorers/) | the six axes and the scorecard |
+| [`harness/`](harness/) | Harbor task emission, the mini-swe-agent wrapper, budget, handback, verifier |
 | [`tests/`](tests/) | fixture invariants, spec consistency, scorer unit tests, end-to-end |
 
 ```bash
-make install && make test    # 82 tests, no API key needed
+make install && make test    # 104 tests, no API key needed
 make demo                    # score two subagents that did identical work
+make tasks                   # emit Harbor task directories into build/harbor
 ```
 
 ## What the scorers see
@@ -110,6 +113,13 @@ three families, one consumer, three metrics. If models with equal task
 correctness do not separate on decision yield, the thesis is wrong and it is
 better to learn that at 30 tasks than at 250.
 
-The F10 resume problem that gated v0.2 is gone: the handback is scripted in the
-task spec, not delivered by a live orchestrator, so the agent wrapper can play it
-internally and the two-turn exchange fits inside a single Harbor trial.
+The F10 resume problem that gated v0.2 is gone, and not just on paper: the
+handback is scripted in the task spec rather than delivered by a live
+orchestrator, so the wrapper plays it internally and the two-turn exchange fits
+inside a single Harbor trial. `harness/handback.py` does it, and the end-to-end
+test scores a subagent that holds its ground at 1.00 and one that capitulates to
+an incorrect pushback at 0.00.
+
+What is left is the part that needs things this environment does not have: a
+live Harbor install to check the agent wiring against, and an API key to run the
+frozen consumer for real.

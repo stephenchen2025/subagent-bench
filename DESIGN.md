@@ -1,8 +1,9 @@
 # HANDOFF: a benchmark for what survives the delegation boundary
 
-**Status:** design proposal, v0.4. The example tasks run against a real fixture,
-and all six scoring axes are implemented and tested offline. The Harbor task
-adapter and the mini-swe-agent wrapper are not built yet.
+**Status:** v0.5. The example tasks emit as Harbor task directories, all six
+scoring axes are implemented, and the F10 handback runs end to end — all tested
+offline, 104 tests, no API key. What remains before Milestone 1 can run for real
+is a live Harbor install and an API key.
 
 ---
 
@@ -352,18 +353,28 @@ What that buys us:
   the same models. The modality caveat in §7.6 is real, and Harbor is the
   instrument for pricing it.
 
-**F10 needs nothing from Harbor.** Harbor runs a single `run()` per trial and
-documents no resumption, which looked like a blocker for the handback turn. It
-is not: the pushback is *scripted* — it lives in the task spec as
-`handback.message`, not in a live orchestrator — so the agent wrapper delivers it
-internally and the whole two-turn exchange fits inside one `run()`. This was the
-largest open risk in v0.2 and it collapses to a wrapper detail.
+**F10 needs nothing from Harbor — confirmed by building it.** Harbor runs a
+single `run()` per trial and mini cannot resume past its exit message, which
+looked like the largest open risk in v0.2. It is not one: the pushback is
+*scripted*, living in the task spec as `handback.message` rather than on a wire,
+so the wrapper delivers it itself. `harness/handback.py` lifts mini's internal
+exit marker out of the history, appends the pushback as a user turn, and steps to
+the second exit. The whole exchange fits in one trial. Tested end to end against
+a scripted agent, with held-ground and capitulation scripts scoring 1.0 and 0.0.
 
-Two frictions remain. Harbor verifiers write a reward to
-`/logs/verifier/reward.{txt,json}`, and a HANDOFF result is six axes plus a
-hard-fail count rather than a scalar; whether `reward.json` accepts arbitrary
-structure is unconfirmed. And scope discipline needs a pre-run filesystem
-snapshot, so it depends on a setup hook we have not yet verified Harbor exposes.
+The two frictions in v0.3 are also resolved, one of them better than expected:
+
+- **The scalar reward.** Harbor's `reward.txt` cannot carry six axes, so it does
+  not try to. It reports the part that *is* scalar-shaped at trial time — did
+  this trial produce a scorable episode, and was scope respected — and says so in
+  `reward.json`. The axes travel as artifacts to the offline scorers. A scalar
+  reward and a vector result stop competing.
+- **The pre-run snapshot.** Scope discipline needs a pristine baseline to diff
+  against, which looked like it required a Harbor setup hook we could not
+  confirm exists. It does not: the baseline is computed **at image build time**
+  and baked into the image outside the workspace. Effect diffing now depends on
+  nothing the runner has to offer, which is strictly better than depending on a
+  hook — one less coupling to a pinned dependency (§9).
 
 ### 8.2 Scoring runs offline, not in the verifier
 
@@ -403,7 +414,25 @@ subagent — brief, tools, budget — is fixed by the task spec, and a scaffold 
 rewrites the brief before the subagent sees it must declare that; it is a
 legitimate design choice and a separate column, not a disqualification.
 
-### 8.3 Layout
+### 8.3 The emitted task
+
+`tools/emit_harbor_tasks.py` renders each spec into Harbor's documented layout:
+
+```
+<task_id>/
+  task.toml               timeouts, resources, HANDOFF metadata
+  instruction.md          the brief, verbatim -- the ONLY task context the subagent gets
+  environment/
+    Dockerfile            fixture image + baked-in baseline
+    repo/                 the workspace the agent sees
+    _handoff/             checks, spec, scorers -> /opt/handoff, never in the workspace
+  tests/test.sh           writes /logs/verifier/reward.txt
+```
+
+The separation is load-bearing and tested: a spec, a check, or a baseline
+reachable from the workspace would let the subagent read its own answer key.
+
+### 8.4 Layout
 
 ```
 tasks/
@@ -420,7 +449,7 @@ tests/                 # fixture invariants + spec consistency
 report/                # frontier plots, per-family breakdown, hard-fail ledger
 ```
 
-### 8.4 A task is not a task until its environment is real
+### 8.5 A task is not a task until its environment is real
 
 A brief plus a probe is a sketch. A HANDOFF task is well-formed only when the
 environment actually poses the problem the brief describes, and that is
@@ -441,7 +470,7 @@ mechanically checkable:
 - **The oracle is the ceiling.** Per §7.3 an oracle report must cover every
   `must_report` fact; a probe the oracle cannot satisfy is a broken probe.
 
-### 8.5 Sequencing
+### 8.6 Sequencing
 
 1. **Milestone 1 (validates the thesis).** 30 tasks across F2/F5/F10 only, one
    fixture family, Harbor running mini-swe-agent at a pinned commit, single
@@ -487,6 +516,8 @@ mechanically checkable:
    major version, and re-run the previous release's leaderboard on the new pins so
    the delta is published rather than silently absorbed. Offline scoring (§8.2)
    makes the re-score cheap; a harness bump still costs a full re-run.
-3. **Does Harbor's reward contract carry a vector?** A HANDOFF result is six axes
-   plus a hard-fail count. If `reward.json` is free-form this is nothing; if it is
-   a scalar, the axes travel as side artifacts and the reward becomes a summary.
+3. **Which model backs the frozen consumer, and at what effort?** Pinned today
+   to `claude-opus-5` at effort `high`. The cheaper-model question is real — the
+   consumer runs once per episode per ensemble member — but it cannot be settled
+   without measuring agreement against the pinned consumer on a task set that
+   does not exist yet.

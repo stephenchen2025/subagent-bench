@@ -14,3 +14,6 @@ fixture-tests: ## Run the fixture repo's own test suite (3 failures are planted 
 
 demo: ## Score two subagents that did identical work but wrote different reports
 	python tools/demo_scorecard.py
+
+tasks: ## Emit Harbor task directories into build/harbor
+	python tools/emit_harbor_tasks.py
