@@ -10,9 +10,10 @@ scores the same as one that returns a precise, calibrated one — the orchestrat
 recovers, and the metric never sees the difference. HANDOFF measures that
 difference.
 
-**Status:** v0.6. The three example tasks emit as Harbor task directories, all
+**Status:** v0.7. The three example tasks emit as Harbor task directories, all
 six scoring axes are implemented, and the F10 handback runs end to end inside a
-real Harbor `run()` driving a real mini-swe-agent — 122 tests, no API key
+real Harbor `run()` driving a real mini-swe-agent. The 30-task Milestone 1 set
+generates and validates offline in about four seconds — 137 tests, no API key
 required.
 
 ## Read this first
@@ -46,11 +47,13 @@ Three ideas carry it:
 | [`consumer/`](consumer/) | the frozen consumer: probes, prompt, Claude and offline implementations |
 | [`scorers/`](scorers/) | the six axes and the scorecard |
 | [`harness/`](harness/) | Harbor task emission, the mini-swe-agent wrapper, budget, handback, verifier |
+| [`tasks/generators/`](tasks/generators/) | parameterised task generators + the behavioural gate |
 | [`tests/`](tests/) | fixture invariants, spec consistency, scorer unit tests, end-to-end |
 
 ```bash
 make install && make test    # 110 tests, no API key needed
 make demo                    # score two subagents that did identical work
+make generate                # generate + validate the 30-task Milestone 1 set
 make tasks                   # emit Harbor task directories into build/harbor
 make test-harbor             # 12 more, against real harbor (needs Python >=3.12)
 ```

@@ -1,10 +1,10 @@
 # HANDOFF: a benchmark for what survives the delegation boundary
 
-**Status:** v0.6. The example tasks emit as Harbor task directories, all six
+**Status:** v0.7. The example tasks emit as Harbor task directories, all six
 scoring axes are implemented, and the F10 handback runs end to end
-inside a real Harbor `run()` against a real mini-swe-agent — 122 tests, no API
-key. What remains before Milestone 1 can run is an API key and a container
-runtime.
+inside a real Harbor `run()` against a real mini-swe-agent, and the 30-task
+Milestone 1 set generates and validates offline — 137 tests, no API key. What
+remains is an API key and a container runtime.
 
 ---
 
@@ -489,7 +489,37 @@ tests/                 # fixture invariants + spec consistency
 report/                # frontier plots, per-family breakdown, hard-fail ledger
 ```
 
-### 8.6 A task is not a task until its environment is real
+### 8.6 Generated tasks
+
+Milestone 1 needs 30 tasks and hand-authoring 30 fixtures does not scale, so
+each family is a parameterised generator over py_svc rather than a fixed
+instance (§7.4). One seed yields a variant with different paths, identifiers and
+values, but the same planted defect and the same delegation contract.
+
+Two properties make the output trustworthy:
+
+- **Anchors are located after generation, not written by hand.** A spec's
+  `path:line` citations are found by content search once the fixture exists, so
+  they are true by construction and cannot drift from it.
+- **A behavioural gate, not just a textual one.** Invariants confirm the text is
+  where the spec claims. That is not sufficient: renaming a function or a field
+  can leave every string in place and still break the defect. Each variant is
+  therefore executed before it ships — the F5 bucket really must return
+  `2025-12` for `2024-12-30` and `2024-12` for mid-month, the F10 decoy really
+  must drop a row the live path keeps. A variant that fails is rejected, not
+  published.
+
+The generators are the artifact; the generated set is not committed, and a
+manifest of seeds makes any set reproducible from this repo alone. Duplicate
+parameter draws are discarded — identical fixtures are duplicate work dressed up
+as coverage.
+
+Note that the briefs within a family are largely identical, by design. The
+delegation contract is what is being measured, so it is held constant while the
+environment underneath it moves; contamination resistance comes from the
+environment, not from paraphrasing the request.
+
+### 8.7 A task is not a task until its environment is real
 
 A brief plus a probe is a sketch. A HANDOFF task is well-formed only when the
 environment actually poses the problem the brief describes, and that is
@@ -510,11 +540,12 @@ mechanically checkable:
 - **The oracle is the ceiling.** Per §7.3 an oracle report must cover every
   `must_report` fact; a probe the oracle cannot satisfy is a broken probe.
 
-### 8.7 Sequencing
+### 8.8 Sequencing
 
-1. **Milestone 1 (validates the thesis).** 30 tasks across F2/F5/F10 only, one
-   fixture family, Harbor running mini-swe-agent at a pinned commit, single
-   frozen consumer, TC + decision yield + SD. Goal: show that models with equal
+1. **Milestone 1 (validates the thesis).** 30 tasks across F2/F5/F10 only — these
+   now generate and validate in about four seconds — one fixture family, Harbor
+   running mini-swe-agent at a pinned commit, single frozen consumer, TC +
+   decision yield + SD. Goal: show that models with equal
    TC separate on decision yield. If they don't separate, the whole design is
    wrong and we stop here.
 2. **Milestone 2.** Add trajectory-grounded RF and CAL; add the consumer

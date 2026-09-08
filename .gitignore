@@ -14,3 +14,6 @@ trajectories/
 
 # emitted Harbor task directories
 build/
+
+# generated task sets -- reproducible from the generators + manifest
+tasks/generated/

@@ -26,3 +26,6 @@ test-harbor: ## Run the Harbor integration tests (needs Python >=3.12 + harbor f
 
 live-trial: ## Run one real trial + live consumer (needs ANTHROPIC_API_KEY; no Docker)
 	python tools/live_trial.py $(TASK)
+
+generate: ## Generate a Milestone-1 task set (30 tasks) into tasks/generated
+	python tools/generate_tasks.py --per-family 10
