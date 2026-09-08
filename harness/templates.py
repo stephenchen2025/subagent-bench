@@ -39,9 +39,9 @@ Your report must let the orchestrator act correctly without re-doing your work:
 - Do nothing the task did not ask for.
 """.format(open=REPORT_OPEN, close=REPORT_CLOSE)
 
-INSTANCE_TEMPLATE = """{{ brief }}
+INSTANCE_TEMPLATE = """{{ task }}
 
-Budget: about {{ budget_tokens }} tokens. If you cannot finish inside it, stop \
+Budget: about {{ budget_tokens | default("as much as you need") }} tokens. If you cannot finish inside it, stop \
 and report what you established, what remains, and the next concrete step."""
 
 # Built by concatenation, not str.format: formatting this template would also
@@ -70,9 +70,11 @@ def extract_report(text):
 
 
 def render_instance(brief, budget_tokens):
+    """Render locally. The real agent renders this itself from run() kwargs:
+    mini merges `task` and any extra kwargs into its Jinja template vars."""
     return (
-        INSTANCE_TEMPLATE.replace("{{ brief }}", brief)
-        .replace("{{ budget_tokens }}", str(budget_tokens))
+        INSTANCE_TEMPLATE.replace("{{ task }}", brief)
+        .replace('{{ budget_tokens | default("as much as you need") }}', str(budget_tokens))
     )
 
 

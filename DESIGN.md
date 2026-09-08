@@ -353,11 +353,21 @@ What that buys us:
   the same models. The modality caveat in §7.6 is real, and Harbor is the
   instrument for pricing it.
 
-**F10 needs nothing from Harbor — confirmed by building it.** Harbor runs a
-single `run()` per trial and mini cannot resume past its exit message, which
-looked like the largest open risk in v0.2. It is not one: the pushback is
-*scripted*, living in the task spec as `handback.message` rather than on a wire,
-so the wrapper delivers it itself. `harness/handback.py` lifts mini's internal
+**F10 needs nothing from Harbor — confirmed against the real agent.** The
+handback now runs against an installed mini-swe-agent 2.4.6 with a scripted
+model, no API key involved, and that surfaced a bug a stand-in could never have:
+mini signals termination by *raising* `InterruptAgentFlow` carrying the exit
+message, which its own `run()` catches. A resume loop that only calls `step()`
+sees the agent's normal exit escape as an exception. `run_to_exit` now mirrors
+that handling, duck-typed so it needs no mini import.
+
+ Harbor runs a
+Harbor runs a single `run()` per trial, and mini's `run()` **resets `messages`**
+before looping — so a second `run()` discards the first turn, which is what makes
+resumption look impossible. It is not: the history mini leaves behind is a plain
+list, so the wrapper appends to it and steps on. The pushback is *scripted*,
+living in the task spec as `handback.message` rather than on a wire, so the
+wrapper delivers it itself. `harness/handback.py` lifts mini's internal
 exit marker out of the history, appends the pushback as a user turn, and steps to
 the second exit. The whole exchange fits in one trial. Tested end to end against
 a scripted agent, with held-ground and capitulation scripts scoring 1.0 and 0.0.

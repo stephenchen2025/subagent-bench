@@ -32,7 +32,20 @@ def run_to_exit(agent, max_steps=200):
     while not at_exit(agent):
         if steps >= max_steps:
             raise AgentStalled(f"no exit after {max_steps} steps")
-        agent.step()
+        try:
+            agent.step()
+        except Exception as exc:  # noqa: BLE001 - re-raised unless it carries messages
+            # mini raises InterruptAgentFlow (and its LimitsExceeded /
+            # FormatError subclasses) to end or redirect a turn, carrying the
+            # messages to append. Duck-typed so this needs no mini import.
+            carried = getattr(exc, "messages", None)
+            if carried is None:
+                raise
+            add = getattr(agent, "add_messages", None)
+            if add is not None:
+                add(*carried)
+            else:
+                agent.messages.extend(carried)
         steps += 1
     return steps
 
@@ -65,20 +78,45 @@ class HandbackResult:
         return self.first_report.strip() != self.final_report.strip()
 
 
-def play(agent, pushback_message, max_steps=200):
-    """Run the agent, deliver the scripted pushback, run it again.
+def resume_with(agent, pushback_message, max_steps=200):
+    """Deliver the pushback to an agent that has already exited, and step on.
 
-    The exit marker is lifted out of the history before the pushback is
-    appended: it is mini's internal terminator, not something to show a model.
+    mini's `run()` resets `messages` and loops to exit, so a second `run()` would
+    throw the first turn away. Resuming instead means appending to the history it
+    left behind -- which works because that history is a plain list.
+
+    The exit marker is lifted out first: it is mini's internal terminator, not a
+    conversational turn to show a model.
     """
-    steps_before = run_to_exit(agent, max_steps)
+    if not at_exit(agent):
+        raise ValueError("agent has not exited; nothing to resume from")
     first_report = extract_report(_final_text(agent))
-
     exit_marker = agent.messages.pop()
-    agent.messages.append(
-        {"role": "user", "content": render_handback(pushback_message)}
-    )
+    message = {"role": "user", "content": render_handback(pushback_message)}
+    if hasattr(agent, "add_messages"):
+        agent.add_messages(message)
+    else:
+        agent.messages.append(message)
     steps_after = run_to_exit(agent, max_steps)
+    return first_report, exit_marker, steps_after
+
+
+def play(agent, pushback_message, max_steps=200, start=None):
+    """Run the first turn, deliver the scripted pushback, run the second.
+
+    `start` runs turn one. For a real mini agent that is `agent.run(task=...)`,
+    which initialises the history from the templates; the default just steps,
+    which suits an agent whose history is already primed.
+    """
+    if start is not None:
+        start()
+        steps_before = 0
+    else:
+        steps_before = run_to_exit(agent, max_steps)
+
+    first_report, exit_marker, steps_after = resume_with(
+        agent, pushback_message, max_steps
+    )
 
     return HandbackResult(
         first_report=first_report,

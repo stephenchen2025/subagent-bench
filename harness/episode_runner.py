@@ -27,7 +27,7 @@ def _charge(budget, agent):
     return budget
 
 
-def run_episode(agent, spec, counter, logs_dir=None, max_steps=200):
+def run_episode(agent, spec, counter, logs_dir=None, max_steps=200, start=None):
     """Run the agent over one task spec; return (Episode, HandbackResult|None).
 
     An F10 spec carries a scripted pushback, so the two-turn exchange happens
@@ -38,12 +38,16 @@ def run_episode(agent, spec, counter, logs_dir=None, max_steps=200):
     pushback = (spec.get("handback") or {}).get("message")
 
     if pushback:
-        result = handback.play(agent, pushback, max_steps=max_steps)
+        result = handback.play(agent, pushback, max_steps=max_steps, start=start)
         report = result.final_report
         steps = result.steps_before + result.steps_after
     else:
         result = None
-        steps = handback.run_to_exit(agent, max_steps=max_steps)
+        if start is not None:
+            start()
+            steps = 0
+        else:
+            steps = handback.run_to_exit(agent, max_steps=max_steps)
         report = extract_report(_final_assistant_text(agent))
 
     _charge(budget, agent)

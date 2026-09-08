@@ -11,9 +11,8 @@ recovers, and the metric never sees the difference. HANDOFF measures that
 difference.
 
 **Status:** v0.5. The three example tasks emit as Harbor task directories, all
-six scoring axes are implemented, and the F10 handback runs end to end — tested
-offline, 104 tests, no API key required. Running Milestone 1 for real needs a
-live Harbor install and an API key.
+six scoring axes are implemented, and the F10 handback runs end to end against
+the real mini-swe-agent — 110 tests, no API key required.
 
 ## Read this first
 
@@ -49,7 +48,7 @@ Three ideas carry it:
 | [`tests/`](tests/) | fixture invariants, spec consistency, scorer unit tests, end-to-end |
 
 ```bash
-make install && make test    # 104 tests, no API key needed
+make install && make test    # 110 tests, no API key needed
 make demo                    # score two subagents that did identical work
 make tasks                   # emit Harbor task directories into build/harbor
 ```
@@ -120,6 +119,7 @@ inside a single Harbor trial. `harness/handback.py` does it, and the end-to-end
 test scores a subagent that holds its ground at 1.00 and one that capitulates to
 an incorrect pushback at 0.00.
 
-What is left is the part that needs things this environment does not have: a
-live Harbor install to check the agent wiring against, and an API key to run the
-frozen consumer for real.
+The mini-swe-agent half is verified against the installed package (2.4.6) with a
+scripted model — no API key, no network. What is left needs things this
+environment does not have: Harbor itself, which is not on PyPI, and an API key to
+run the frozen consumer and a real model for real.
