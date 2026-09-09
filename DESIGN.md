@@ -1,11 +1,11 @@
 # HANDOFF: a benchmark for what survives the delegation boundary
 
-**Status:** v0.9. The example tasks emit as Harbor task directories, all six
+**Status:** v0.10. The example tasks emit as Harbor task directories, all six
 scoring axes are implemented, and the F10 handback runs end to end
 inside a real Harbor `run()` against a real mini-swe-agent, and the 30-task
 Milestone 1 set generates, validates and runs end to end through the scorers and
-the report, and a real, resumable, cost-guarded multi-model runner exists —
-158 tests, no API key. The only thing standing between this and a real result
+the report, and a real, resumable, cost-guarded, noise-floor-gated multi-model runner
+exists — 166 tests, no API key. The only thing standing between this and a real result
 is `ANTHROPIC_API_KEY`; a separate environment bug that would have blocked
 every real run regardless (a missing `cffi` breaking `litellm`) was found and
 fixed at zero cost.
@@ -600,8 +600,26 @@ correct reconstruction of a handed-back episode's *final* report rather than
 its pre-pushback draft, and the comparison writer that names the falsification
 outcome plainly when models do not separate.
 
+A second look at the runner after it landed found a real compliance gap against
+this document's own §7.1: it never measured a noise floor. §7.1 requires
+publishing one and treating a gap below it as a tie, not a finding -- and the
+first version of `comparison.md` called two models "separated" whenever their
+yield gap cleared a flat 0.05, with no relationship to the actual consumer
+noise on this run. A 0.06 gap would have been announced as a result; if the
+measured floor on that run were 0.10, it would have been a tie. `main` now
+builds one shared consumer instance (scoring and noise-floor judging must use
+the literal same one, or a difference between them confounds "the model
+changed" with "the consumer did"), samples a few of each model's own completed
+episodes, re-judges each with the SAME report multiple times, and gates
+`comparison.md`'s verdict on the larger of the two models' measured spreads
+rather than a constant. An unmeasured floor still renders a verdict, but labels
+it provisional rather than silently reusing the flat threshold as if it meant
+something. `--noise-floor-sample 0` disables it for a cheap first pass; the
+cost is small -- roughly 3 x 3 extra consumer judgments per model at the
+defaults, no agent runs -- against what a mis-called result would cost.
+
 Exercising the real (non-injected) path as far as possible without a key found
-a live blocker unrelated to the key entirely: `import litellm` panicked deep
+a second, unrelated blocker: `import litellm` panicked deep
 inside `cryptography`'s Rust bindings, because `cffi` was missing from this
 environment. Every real run -- the live trial, Milestone 1, all of it -- would
 have failed on this before ever reaching an API call, and the failure mode

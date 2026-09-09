@@ -10,7 +10,7 @@ scores the same as one that returns a precise, calibrated one — the orchestrat
 recovers, and the metric never sees the difference. HANDOFF measures that
 difference.
 
-**Status:** v0.9. The three example tasks emit as Harbor task directories, all
+**Status:** v0.10. The three example tasks emit as Harbor task directories, all
 six scoring axes are implemented, and the F10 handback runs end to end inside a
 real Harbor `run()` driving a real mini-swe-agent. The 30-task Milestone 1 set
 generates, validates, and runs end to end through the scorers and the report. A
@@ -183,6 +183,13 @@ different consumer, or after a scorer fix, stays free. Output lands in
 plainly whether the models separated on decision yield — the outcome that
 decides whether Milestone 1 validates the design or falsifies it (DESIGN.md
 §8.10).
+
+Before calling two models "separated", it measures a **noise floor**: the
+frozen consumer can't be made bit-deterministic, so it re-judges a small sample
+of each model's own reports and refuses to call a yield gap real unless it
+clears that measured spread (DESIGN.md §7.1). `--noise-floor-sample 0` skips
+this for a cheap first pass — at the cost of losing the only thing that tells a
+real gap from consumer noise.
 
 One environment-specific note, in case it recurs: `import litellm` can panic
 inside `cryptography`'s Rust bindings if `cffi` is missing, with no hint that

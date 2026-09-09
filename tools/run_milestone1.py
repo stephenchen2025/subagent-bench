@@ -23,6 +23,13 @@ Design choices that matter for a real run:
   time, each in a fresh copy of its fixture. That means scope discipline runs
   on the host filesystem, not inside an image -- adequate for the thesis
   test, not a substitute for a real Harbor run before anything is published.
+- **Noise-floor gated.** The frozen consumer cannot be made bit-deterministic
+  (current Claude models reject temperature/top_p), so before comparison.md
+  calls two models "separated" it measures how much a SINGLE model's judged
+  yield moves on repeat judging of the same reports and refuses to call a gap
+  real unless it clears that measured floor (DESIGN.md 7.1). Skippable with
+  --noise-floor-sample 0 for a cheap first pass, at the cost of losing the only
+  thing that tells a real gap from consumer noise.
 """
 
 import argparse
@@ -162,11 +169,12 @@ def score_all(models, consumer=None, specs=None):
     return per_model
 
 
-def main(argv=None, run_one_fn=run_one, consumer=None, out_dir=None, require_key=True):
-    """`run_one_fn`, `consumer`, `out_dir` and `require_key` are injectable so
-    this whole orchestration -- resumability, the cost cap, scoring, the
-    comparison writer -- can be exercised in tests with no network and no key.
-    A real invocation uses every default."""
+def main(argv=None, run_one_fn=run_one, consumer=None, out_dir=None, require_key=True,
+         noise_floor_fn=None):
+    """`run_one_fn`, `consumer`, `out_dir`, `require_key` and `noise_floor_fn` are
+    injectable so this whole orchestration -- resumability, the cost cap,
+    scoring, the noise floor, the comparison writer -- can be exercised in
+    tests with no network and no key. A real invocation uses every default."""
     global OUT
     if out_dir is not None:
         OUT = Path(out_dir)
@@ -176,6 +184,11 @@ def main(argv=None, run_one_fn=run_one, consumer=None, out_dir=None, require_key
     parser.add_argument("--max-cost-usd", type=float, default=20.0)
     parser.add_argument("--score-only", action="store_true",
                         help="Skip running episodes; score whatever is already on disk.")
+    parser.add_argument("--noise-floor-sample", type=int, default=3,
+                        help="Episodes per model to re-judge for the noise floor. "
+                             "0 disables it (DESIGN.md 7.1 -- not recommended).")
+    parser.add_argument("--noise-floor-repeats", type=int, default=3,
+                        help="Re-judgments per sampled episode.")
     args = parser.parse_args(argv)
     models = [m.strip() for m in args.models.split(",") if m.strip()]
 
@@ -224,27 +237,99 @@ def main(argv=None, run_one_fn=run_one, consumer=None, out_dir=None, require_key
         except Exception:  # noqa: BLE001 - fall back to score_all's own disk lookup
             specs_for_scoring = None
 
+    # Built once, before scoring, and shared with the noise-floor step below --
+    # both must judge with the literal same consumer instance, or a difference
+    # between them would confound "the model changed" with "the consumer did".
+    if consumer is None and any(
+        (OUT / "episodes" / m.replace("/", "_")).exists() for m in models
+    ):
+        from consumer.claude import ClaudeConsumer
+
+        consumer = ClaudeConsumer()
+
     print("\nScoring...")
     per_model = score_all(models, consumer=consumer, specs=specs_for_scoring)
     from report.render import markdown
 
+    noise_floors = {}
+    if args.noise_floor_sample > 0 and consumer is not None:
+        # Resolved here, not as a default argument value, because
+        # measure_noise_floor is defined later in this file.
+        noise_floor_fn = noise_floor_fn or measure_noise_floor
+        for model in per_model:
+            noise_floors[model] = noise_floor_fn(
+                model, consumer, specs_for_scoring or {},
+                sample_size=args.noise_floor_sample, repeats=args.noise_floor_repeats,
+            )
+
     for model, card in per_model.items():
-        note = f"Milestone 1 -- real model ({model}), real frozen consumer, generated tasks."
+        floor = noise_floors.get(model)
+        floor_note = (
+            f" Noise floor: sampled {floor['sampled']}, mean spread {floor['mean_spread']:.3f}."
+            if floor else " Noise floor not measured."
+        )
+        note = (f"Milestone 1 -- real model ({model}), real frozen consumer, "
+                f"generated tasks.{floor_note}")
         (OUT / f"{model.replace('/', '_')}.md").write_text(
             markdown(card, title=f"HANDOFF Milestone 1 -- {model}", note=note)
         )
         dy = card["dy_at_budget"]
         print(f"  {model:20} yield {card['decision_yield']:.2f}  "
               f"AUROC {card['calibration']['auroc']}  "
-              + "  ".join(f"{k}={v}" for k, v in dy.items()))
+              + "  ".join(f"{k}={v}" for k, v in dy.items())
+              + (f"  noise-floor={floor['mean_spread']:.3f}" if floor else ""))
 
     if len(per_model) >= 2:
-        _write_comparison(per_model, out_dir=OUT)
+        _write_comparison(per_model, out_dir=OUT, noise_floors=noise_floors)
     print(f"\nreports in {OUT}")
     return per_model
 
 
-def _write_comparison(per_model, out_dir=None):
+def measure_noise_floor(model, consumer, specs, sample_size=3, repeats=3, seed=0):
+    """How much this model's judged yield moves on repeat judging alone.
+
+    Samples up to `sample_size` of the model's own completed episodes and
+    re-judges each `repeats` times with the SAME consumer and SAME report --
+    the only thing that can vary is the consumer's own non-determinism. Returns
+    None if there is nothing on disk to sample, which callers must treat as
+    "unmeasured", not "zero".
+    """
+    import random
+
+    from consumer.base import noise_floor
+    from consumer.probe import Probe
+
+    model_dir = OUT / "episodes" / model.replace("/", "_")
+    paths = sorted(model_dir.glob("*.json")) if model_dir.exists() else []
+    if not paths or sample_size <= 0:
+        return None
+
+    rng = random.Random(seed)
+    sample = rng.sample(paths, min(sample_size, len(paths)))
+    floors = []
+    for path in sample:
+        record = json.loads(path.read_text())
+        spec = specs.get(record["task_id"]) if specs else None
+        if spec is None:
+            continue
+        probes = [Probe.from_spec(p) for p in spec["decision_probe"]]
+        report = (
+            record["handback"]["final_report"] if record["handback"] else record["report"]
+        )
+        floors.append(noise_floor(consumer, report, probes, repeats=repeats))
+
+    if not floors:
+        return None
+    return {
+        "sampled": len(floors),
+        "repeats": repeats,
+        "mean_spread": sum(f["decision_yield_spread"] for f in floors) / len(floors),
+        "max_spread": max(f["decision_yield_spread"] for f in floors),
+        "per_episode": floors,
+    }
+
+
+def _write_comparison(per_model, out_dir=None, noise_floors=None):
     """The thesis check itself: do models separate on decision yield?"""
     out_dir = out_dir if out_dir is not None else OUT
     lines = ["# Milestone 1 -- model comparison", "",
@@ -258,11 +343,53 @@ def _write_comparison(per_model, out_dir=None):
             f"| {model} | {card['decision_yield']:.3f} | {card['cir_yield']} | "
             f"{card['false_certainty']} | {cal if cal is None else f'{cal:.3f}'} |"
         )
+    noise_floors = noise_floors or {}
+    if noise_floors:
+        lines += ["", "## Noise floor", "",
+                  "Measured by re-judging each model's own reports with the same "
+                  "consumer, holding the report fixed (DESIGN.md 7.1). A yield gap "
+                  "smaller than this is not attributable to the report -- it is "
+                  "consumer noise.", "",
+                  "| model | sampled | repeats | mean spread |", "|---|---|---|---|"]
+        for model, floor in noise_floors.items():
+            if floor is None:
+                lines.append(f"| {model} | - | - | unmeasured |")
+            else:
+                lines.append(
+                    f"| {model} | {floor['sampled']} | {floor['repeats']} | "
+                    f"{floor['mean_spread']:.3f} |"
+                )
+        lines.append("")
+
     yields = {m: c["decision_yield"] for m, c in per_model.items() if c["decision_yield"] is not None}
-    if len(yields) >= 2 and max(yields.values()) - min(yields.values()) < 0.05:
-        lines += ["", "**Models did not separate on decision yield at this sample size.** "
-                 "Per DESIGN.md 8.9, that is the signal to stop and revisit the design "
-                 "before authoring more tasks -- not a result to average past."]
+    if len(yields) >= 2:
+        gap = max(yields.values()) - min(yields.values())
+        measured = [f["mean_spread"] for f in noise_floors.values() if f is not None]
+        if measured:
+            floor = max(measured)
+            verdict = (
+                "**Models did not separate: the yield gap "
+                f"({gap:.3f}) does not clear the measured noise floor ({floor:.3f}).**"
+                if gap <= floor else
+                f"Yield gap ({gap:.3f}) clears the measured noise floor ({floor:.3f})."
+            )
+        else:
+            floor = 0.05
+            verdict = (
+                "**Models did not separate on decision yield at this sample size "
+                f"(gap {gap:.3f} < {floor:.2f}). Noise floor was not measured -- this "
+                "is a fallback threshold, not a measured one.**"
+                if gap < floor else
+                f"Yield gap ({gap:.3f}) exceeds the fallback threshold ({floor:.2f}); "
+                "noise floor was not measured, so treat this as provisional."
+            )
+        if "did not separate" in verdict:
+            lines += ["", verdict, "",
+                     "Per DESIGN.md 8.9, failing to separate is the signal to stop and "
+                     "revisit the design before authoring more tasks -- not a result to "
+                     "average past."]
+        else:
+            lines += ["", verdict]
     (out_dir / "comparison.md").write_text("\n".join(lines) + "\n")
 
 
