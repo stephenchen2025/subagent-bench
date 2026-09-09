@@ -1,11 +1,14 @@
 # HANDOFF: a benchmark for what survives the delegation boundary
 
-**Status:** v0.8. The example tasks emit as Harbor task directories, all six
+**Status:** v0.9. The example tasks emit as Harbor task directories, all six
 scoring axes are implemented, and the F10 handback runs end to end
 inside a real Harbor `run()` against a real mini-swe-agent, and the 30-task
 Milestone 1 set generates, validates and runs end to end through the scorers and
-the report — 148 tests, no API key. What remains is an API key and a container
-runtime.
+the report, and a real, resumable, cost-guarded multi-model runner exists —
+158 tests, no API key. The only thing standing between this and a real result
+is `ANTHROPIC_API_KEY`; a separate environment bug that would have blocked
+every real run regardless (a missing `cffi` breaking `litellm`) was found and
+fixed at zero cost.
 
 ---
 
@@ -579,7 +582,35 @@ overclaim is credited. And the thorough system is worth *nothing* at a budget it
 cannot fit inside -- which is why the headline is `DY@B` and never a bare
 average.
 
-### 8.9 Sequencing
+### 8.9 The Milestone 1 runner, and the environment bug it caught for free
+
+`tools/run_milestone1.py` is the real thing: N models over the generated
+30-task set, resumable, cost-guarded. Every completed `(model, task_id)`
+episode is written to disk immediately, so an interrupted run costs nothing to
+restart. The dollar cap is checked against mini's own running total *before*
+each episode, not mid-response -- there is no mid-response kill switch -- so it
+can overshoot by up to one episode's cost, never more, and that is documented
+rather than left to be discovered mid-run. `--score-only` re-scores whatever is
+on disk with no model calls at all, which is how a consumer-version bump gets
+re-run cheaply.
+
+Its `run_one_fn` and `consumer` are both injectable, which is what let all of
+this be tested before it ever touches a key: resumability, the cost cap,
+correct reconstruction of a handed-back episode's *final* report rather than
+its pre-pushback draft, and the comparison writer that names the falsification
+outcome plainly when models do not separate.
+
+Exercising the real (non-injected) path as far as possible without a key found
+a live blocker unrelated to the key entirely: `import litellm` panicked deep
+inside `cryptography`'s Rust bindings, because `cffi` was missing from this
+environment. Every real run -- the live trial, Milestone 1, all of it -- would
+have failed on this before ever reaching an API call, and the failure mode
+(`pyo3_runtime.PanicException`) gives no hint that the fix is `pip install
+cffi`. Fixed, pinned in `requirements-dev.txt`, and confirmed the only
+remaining failure is a clean `AuthenticationError` -- there is nothing else
+between a key and a real result.
+
+### 8.10 Sequencing
 
 1. **Milestone 1 (validates the thesis).** 30 tasks across F2/F5/F10 only — these
    now generate and validate in about four seconds — one fixture family, Harbor

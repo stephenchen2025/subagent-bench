@@ -10,11 +10,12 @@ scores the same as one that returns a precise, calibrated one — the orchestrat
 recovers, and the metric never sees the difference. HANDOFF measures that
 difference.
 
-**Status:** v0.8. The three example tasks emit as Harbor task directories, all
+**Status:** v0.9. The three example tasks emit as Harbor task directories, all
 six scoring axes are implemented, and the F10 handback runs end to end inside a
 real Harbor `run()` driving a real mini-swe-agent. The 30-task Milestone 1 set
-generates, validates, and runs end to end through the scorers and the report —
-148 tests, no API key required.
+generates, validates, and runs end to end through the scorers and the report. A
+real, resumable, cost-guarded runner exists for the actual Milestone 1
+evaluation — 158 tests, no API key required.
 
 ## Read this first
 
@@ -49,6 +50,7 @@ Three ideas carry it:
 | [`harness/`](harness/) | Harbor task emission, the mini-swe-agent wrapper, budget, handback, verifier |
 | [`tasks/generators/`](tasks/generators/) | parameterised task generators + the behavioural gate |
 | [`report/`](report/) | scorecard → report, frontier first |
+| [`tools/run_milestone1.py`](tools/run_milestone1.py) | resumable, cost-guarded multi-model Milestone 1 runner |
 | [`tests/`](tests/) | fixture invariants, spec consistency, scorer unit tests, end-to-end |
 
 ```bash
@@ -56,6 +58,7 @@ make install && make test    # 110 tests, no API key needed
 make demo                    # score two subagents that did identical work
 make generate                # generate + validate the 30-task Milestone 1 set
 make dry-run                 # rehearse the whole pipeline: 270 episodes, no model
+make milestone1               # the real thing (needs ANTHROPIC_API_KEY)
 make tasks                   # emit Harbor task directories into build/harbor
 make test-harbor             # 12 more, against real harbor (needs Python >=3.12)
 ```
@@ -163,3 +166,24 @@ It answers the questions only a real call can: whether a model follows the repor
 contract, what a trajectory actually costs, and what the consumer's noise floor
 is. It is a wiring check, not a result — LocalEnvironment is not a sandbox, and
 the tool surface is the host's rather than the image's.
+
+**The real thing** is `tools/run_milestone1.py` — the falsification test itself,
+run for real:
+
+```bash
+make milestone1               # both default models, $20 cost cap, resumable
+python tools/run_milestone1.py --models claude-opus-5,claude-sonnet-5,claude-haiku-4-5
+```
+
+Every completed episode is written to disk immediately, so an interrupted run
+costs nothing to restart — rerun the same command. `--score-only` re-scores
+whatever is on disk with no model calls, which is how re-scoring with a
+different consumer, or after a scorer fix, stays free. Output lands in
+`build/milestone1/`: one report per model, plus `comparison.md`, which states
+plainly whether the models separated on decision yield — the outcome that
+decides whether Milestone 1 validates the design or falsifies it (DESIGN.md
+§8.10).
+
+One environment-specific note, in case it recurs: `import litellm` can panic
+inside `cryptography`'s Rust bindings if `cffi` is missing, with no hint that
+`cffi` is the actual problem. Fixed here; `requirements-dev.txt` pins it.

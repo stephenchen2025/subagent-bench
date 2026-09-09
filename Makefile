@@ -32,3 +32,6 @@ generate: ## Generate a Milestone-1 task set (30 tasks) into tasks/generated
 
 dry-run: ## Rehearse the whole pipeline at Milestone-1 scale (no model, no key)
 	python tools/dry_run.py
+
+milestone1: ## Run Milestone 1 for real: both default models, resumable, cost-guarded
+	python tools/run_milestone1.py

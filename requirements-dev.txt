@@ -1,3 +1,6 @@
 jsonschema>=4.0
 pytest>=8.0
 mini-swe-agent>=2.4.6
+cffi>=1.16  # litellm's transitive OCI provider chain needs this; missing it makes
+            # `import litellm` panic deep inside cryptography's rust bindings
+anthropic>=0.40  # the frozen consumer
