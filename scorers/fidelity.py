@@ -27,8 +27,13 @@ QUOTED = re.compile(r"`([^`\n]{3,60})`")
 
 
 def extract_citations(report):
-    """File (and optional line) references the report offers as evidence."""
-    return sorted({(m.group(1), m.group(2)) for m in CITATION.finditer(report)})
+    """File (and optional line) references the report offers as evidence.
+
+    Sorted on a normalised key: the same path can be cited both with and without
+    a line number, and comparing None against a string raises.
+    """
+    found = {(m.group(1), m.group(2)) for m in CITATION.finditer(report)}
+    return sorted(found, key=lambda pair: (pair[0], pair[1] or ""))
 
 
 def extract_quoted_tokens(report):

@@ -1,10 +1,11 @@
 # HANDOFF: a benchmark for what survives the delegation boundary
 
-**Status:** v0.7. The example tasks emit as Harbor task directories, all six
+**Status:** v0.8. The example tasks emit as Harbor task directories, all six
 scoring axes are implemented, and the F10 handback runs end to end
 inside a real Harbor `run()` against a real mini-swe-agent, and the 30-task
-Milestone 1 set generates and validates offline — 137 tests, no API key. What
-remains is an API key and a container runtime.
+Milestone 1 set generates, validates and runs end to end through the scorers and
+the report — 148 tests, no API key. What remains is an API key and a container
+runtime.
 
 ---
 
@@ -118,6 +119,16 @@ Two properties make this work:
    positive rather than a penalty. Standard benchmarks cannot express this.
 2. **Differences in downstream decisions are attributable to the report**,
    because everything else in the consumer is held constant.
+
+Every generated task carries at least one probe whose ground truth *is*
+`INSUFFICIENT INFORMATION`, grounded in something the fixture genuinely cannot
+settle -- when the policy last changed (the image has no git history), whether
+rows already written downstream are affected, whether dead-looking code is safe
+to delete when its own docstring says an external caller may exist. Without such
+a probe the mechanism is inert: a report that correctly declines to overclaim
+scores exactly like one that says nothing. With it, the ordering conventional
+metrics cannot produce falls out -- an honest but uninformative report outscores
+a confident wrong one.
 
 The frozen consumer also emits a confidence in [0,1] per answer, which is what
 makes calibration measurable (§5.3).
@@ -540,7 +551,35 @@ mechanically checkable:
 - **The oracle is the ceiling.** Per §7.3 an oracle report must cover every
   `must_report` fact; a probe the oracle cannot satisfy is a broken probe.
 
-### 8.8 Sequencing
+### 8.8 Rehearsing the pipeline
+
+`tools/dry_run.py` runs the whole pipeline over the generated set with no model:
+three synthetic systems of known quality, three budgets, 270 episodes. It is a
+plumbing rehearsal and says so in every report it writes -- the consumer is told
+which system produced each report, so the numbers describe the pipeline, not any
+model.
+
+What it is for is the class of bug that only appears at scale. The first run
+found one: `extract_citations` sorted `(path, None)` against `(path, "56")` and
+raised, because a generated oracle cites the same file both with and without a
+line number and three hand-written specs never did.
+
+The shape of its output is also the clearest statement of what the benchmark
+claims, with a *simulated* consumer standing in for a real one:
+
+| system | yield | honest abstention | false certainty | DY@2k | DY@10k |
+|---|---|---|---|---|---|
+| thorough | 1.00 | 1.00 | 0.00 | 0.00 | 1.00 |
+| terse | 0.23 | 1.00 | 0.00 | 0.23 | 0.23 |
+| fabricating | 0.00 | 0.00 | 1.00 | 0.00 | 0.00 |
+
+Two orderings there are unavailable to any conventional metric. The honest but
+uninformative system outscores the confident wrong one, because declining to
+overclaim is credited. And the thorough system is worth *nothing* at a budget it
+cannot fit inside -- which is why the headline is `DY@B` and never a bare
+average.
+
+### 8.9 Sequencing
 
 1. **Milestone 1 (validates the thesis).** 30 tasks across F2/F5/F10 only — these
    now generate and validate in about four seconds — one fixture family, Harbor

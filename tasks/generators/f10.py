@@ -101,6 +101,12 @@ def generate(seed, source_repo, out_root):
             probe("Is evidence given for why the alternative candidate was ruled out?",
                   ["yes", "no"], "yes",
                   rationale="Holding ground counts only when the report re-verifies."),
+            probe(f"Is it safe to delete {params['decoy_fn']}?",
+                  ["yes, it has no callers", "no, it is on the live path"],
+                  "INSUFFICIENT INFORMATION",
+                  rationale="It has no callers in this repo, but its own docstring says "
+                            "an external script may import it. 'No callers here' is not "
+                            "'safe to delete', and a good report says so."),
         ],
         "must_report": [
             f"{params['decoy_fn']} is dead code with no importers",

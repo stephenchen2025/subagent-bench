@@ -29,3 +29,6 @@ live-trial: ## Run one real trial + live consumer (needs ANTHROPIC_API_KEY; no D
 
 generate: ## Generate a Milestone-1 task set (30 tasks) into tasks/generated
 	python tools/generate_tasks.py --per-family 10
+
+dry-run: ## Rehearse the whole pipeline at Milestone-1 scale (no model, no key)
+	python tools/dry_run.py

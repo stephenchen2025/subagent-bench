@@ -10,11 +10,11 @@ scores the same as one that returns a precise, calibrated one — the orchestrat
 recovers, and the metric never sees the difference. HANDOFF measures that
 difference.
 
-**Status:** v0.7. The three example tasks emit as Harbor task directories, all
+**Status:** v0.8. The three example tasks emit as Harbor task directories, all
 six scoring axes are implemented, and the F10 handback runs end to end inside a
 real Harbor `run()` driving a real mini-swe-agent. The 30-task Milestone 1 set
-generates and validates offline in about four seconds — 137 tests, no API key
-required.
+generates, validates, and runs end to end through the scorers and the report —
+148 tests, no API key required.
 
 ## Read this first
 
@@ -48,12 +48,14 @@ Three ideas carry it:
 | [`scorers/`](scorers/) | the six axes and the scorecard |
 | [`harness/`](harness/) | Harbor task emission, the mini-swe-agent wrapper, budget, handback, verifier |
 | [`tasks/generators/`](tasks/generators/) | parameterised task generators + the behavioural gate |
+| [`report/`](report/) | scorecard → report, frontier first |
 | [`tests/`](tests/) | fixture invariants, spec consistency, scorer unit tests, end-to-end |
 
 ```bash
 make install && make test    # 110 tests, no API key needed
 make demo                    # score two subagents that did identical work
 make generate                # generate + validate the 30-task Milestone 1 set
+make dry-run                 # rehearse the whole pipeline: 270 episodes, no model
 make tasks                   # emit Harbor task directories into build/harbor
 make test-harbor             # 12 more, against real harbor (needs Python >=3.12)
 ```
@@ -74,6 +76,20 @@ discipline. Only the reports differ:
 | tokens | 3400 | 3400 |
 
 Every conventional metric calls these two runs equal. That gap is the benchmark.
+
+`make dry-run` scales that to 270 episodes over the generated set, with three
+synthetic systems standing in for real ones:
+
+| system | yield | honest abstention | false certainty | DY@2k | DY@10k |
+|---|---|---|---|---|---|
+| thorough | 1.00 | 1.00 | 0.00 | 0.00 | 1.00 |
+| terse | 0.23 | 1.00 | 0.00 | 0.23 | 0.23 |
+| fabricating | 0.00 | 0.00 | 1.00 | 0.00 | 0.00 |
+
+The honest but uninformative system outscores the confident wrong one, and the
+thorough system is worth nothing at a budget it cannot fit inside. Neither
+ordering is available to a conventional metric. (A rehearsal, not a measurement —
+the consumer is told which system wrote each report.)
 
 The worked examples cover the families that carry the thesis:
 

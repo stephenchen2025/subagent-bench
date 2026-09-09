@@ -100,6 +100,23 @@ def test_f10_pushback_is_declared_wrong(variants):
             assert variant.spec["handback"]["pushback_is_correct"] is False
 
 
+def test_every_family_has_an_abstention_probe(variants):
+    """Without a probe whose truth is INSUFFICIENT, honest abstention is never
+    exercised and a report that correctly declines to overclaim scores like one
+    that says nothing (DESIGN.md 4)."""
+    for variant in variants:
+        answers = [p["answer"] for p in variant.spec["decision_probe"]]
+        assert INSUFFICIENT in answers, f"{variant.task_id} never rewards abstention"
+
+
+def test_abstention_probe_offers_a_tempting_wrong_answer(variants):
+    """It only tests anything if guessing is available and attractive."""
+    for variant in variants:
+        probe = next(p for p in variant.spec["decision_probe"]
+                     if p["answer"] == INSUFFICIENT)
+        assert len([o for o in probe["options"] if o != INSUFFICIENT]) >= 2
+
+
 def test_snapshot_resolves_from_the_repo_root(variants):
     for variant in variants:
         # Absolute here because these are generated outside the repo tree; the

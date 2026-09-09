@@ -81,6 +81,10 @@ def generate(seed, source_repo, out_root):
             probe("Are the failing tests in tests/test_report.py caused by this bug?",
                   ["yes", "no"], "no", axis="cir",
                   rationale="Distractor discipline: the red tests predate the bug."),
+            probe("Are rows already written to the warehouse affected?",
+                  ["yes, they need backfilling", "no, they were written correctly"],
+                  "INSUFFICIENT INFORMATION",
+                  rationale="Nothing in the repo describes what was written downstream."),
         ],
         "must_report": [
             f"root cause located at {parse_rel}:{defect_line}",
