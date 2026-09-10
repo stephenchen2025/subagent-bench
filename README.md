@@ -184,6 +184,14 @@ plainly whether the models separated on decision yield — the outcome that
 decides whether Milestone 1 validates the design or falsifies it (DESIGN.md
 §8.10).
 
+If the environment running Claude Code doesn't inject `ANTHROPIC_API_KEY` as a
+shell variable, run it as a GitHub Action instead:
+[`.github/workflows/milestone1.yml`](.github/workflows/milestone1.yml). Add an
+`ANTHROPIC_API_KEY` repository secret (Settings → Secrets and variables →
+Actions), then trigger it manually from the Actions tab (`workflow_dispatch`
+— it never runs on push, since it makes real, billed API calls). Results land
+as a downloadable `milestone1-results` artifact.
+
 Before calling two models "separated", it measures a **noise floor**: the
 frozen consumer can't be made bit-deterministic, so it re-judges a small sample
 of each model's own reports and refuses to call a yield gap real unless it
