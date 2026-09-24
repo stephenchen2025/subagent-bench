@@ -14,6 +14,78 @@ AGENT_VERSION = "0.1.0"
 LOGS = "/logs"
 
 
+NO_ACTION_NUDGE = (
+    "Your reply had no tool call and no report. Use the bash tool to run a "
+    "command, or, if you are done, reply without a tool call and end with your "
+    "report between {open} and {close}."
+)
+
+
+def _response_text(format_error):
+    """The assistant text mini parsed and threw away when it raised FormatError.
+
+    mini's tool-calling model persists the raw response on the error message's
+    `extra` -- either a model_dump dict or, if dumping failed, a repr string.
+    """
+    if not format_error.messages:
+        return ""
+    response = (format_error.messages[0].get("extra") or {}).get("response")
+    if not isinstance(response, dict):
+        return ""
+    try:
+        return response["choices"][0]["message"].get("content") or ""
+    except (KeyError, IndexError, TypeError, AttributeError):
+        return ""
+
+
+_AGENT_CLASS = None
+
+
+def _handoff_agent_class():
+    """DefaultAgent, with a final report accepted as the way to finish.
+
+    mini 2.4.6's default (tool-calling) model treats any reply without a tool
+    call as a FormatError: the text is discarded and the model is told "Every
+    response MUST include at least one tool call". The HANDOFF contract is the
+    opposite -- the deliverable IS a text reply -- so a reply carrying a
+    delimited report is recorded as an assistant turn and ends the episode with
+    Submitted. A reply with neither a tool call nor a report still counts as a
+    format error, with a nudge that names both ways forward.
+    """
+    global _AGENT_CLASS
+    if _AGENT_CLASS is not None:
+        return _AGENT_CLASS
+
+    from minisweagent.agents.default import DefaultAgent
+    from minisweagent.exceptions import FormatError, Submitted
+
+    from harness.templates import REPORT_CLOSE, REPORT_OPEN, extract_report
+
+    class HandoffDefaultAgent(DefaultAgent):
+        def query(self):
+            try:
+                return super().query()
+            except FormatError as exc:
+                text = _response_text(exc)
+                report = extract_report(text)
+                if not report:
+                    if exc.messages and "No tool calls found" in str(exc.messages[0].get("content", "")):
+                        exc.messages[0]["content"] = NO_ACTION_NUDGE.format(
+                            open=REPORT_OPEN, close=REPORT_CLOSE
+                        )
+                    raise
+                # run() only charges a FormatError's cost; this is no longer one.
+                self.cost += exc.messages[0].get("extra", {}).get("cost", 0.0)
+                self.add_messages({"role": "assistant", "content": text})
+                raise Submitted(
+                    {"role": "exit", "content": report,
+                     "extra": {"exit_status": "Submitted", "submission": report}}
+                ) from None
+
+    _AGENT_CLASS = HandoffDefaultAgent
+    return _AGENT_CLASS
+
+
 def build_mini_agent(model, environment, step_limit=0):
     """Construct mini-swe-agent configured with the HANDOFF report contract.
 
@@ -23,37 +95,9 @@ def build_mini_agent(model, environment, step_limit=0):
     budgets here are token-denominated, and a dollar cap would buy a cheap model
     more work than an expensive one at nominally equal budget.
     """
-    from minisweagent.agents.default import DefaultAgent
-    from minisweagent.exceptions import FormatError, Submitted
+    from harness.templates import INSTANCE_TEMPLATE, SYSTEM_TEMPLATE
 
-    from harness.templates import INSTANCE_TEMPLATE, SYSTEM_TEMPLATE, extract_report
-
-    class ReportingAgent(DefaultAgent):
-        """DefaultAgent that accepts a tool-free final report as the exit.
-
-        mini 2.4.6's LitellmModel is tool-calling: a reply with no tool call
-        raises FormatError, and the rejected reply's text is dropped from
-        `messages`. Our contract ends with exactly such a reply -- the report --
-        so without this the report is never kept, the agent is told to call a
-        tool, and the episode burns steps until the step limit.
-        """
-
-        def query(self):
-            try:
-                return super().query()
-            except FormatError as exc:
-                text = _rejected_text(exc)
-                if not extract_report(text):
-                    raise
-                # run() only charges a FormatError's cost when it catches one.
-                self.cost += exc.messages[0].get("extra", {}).get("cost", 0.0)
-                raise Submitted(
-                    {"role": "assistant", "content": text},
-                    {"role": "exit", "content": "Submitted",
-                     "extra": {"exit_status": "Submitted", "submission": ""}},
-                ) from exc
-
-    return ReportingAgent(
+    return _handoff_agent_class()(
         model,
         environment,
         system_template=SYSTEM_TEMPLATE,
@@ -61,22 +105,6 @@ def build_mini_agent(model, environment, step_limit=0):
         step_limit=step_limit,
         cost_limit=0.0,
     )
-
-
-def _rejected_text(exc):
-    """The assistant text of a reply mini rejected with FormatError.
-
-    mini persists the raw response under `extra["response"]`: a model_dump()
-    dict normally, a repr() string if dumping failed (then nothing to recover).
-    """
-    extra = (exc.messages[0] if exc.messages else {}).get("extra") or {}
-    response = extra.get("response")
-    if not isinstance(response, dict):
-        return ""
-    try:
-        return response["choices"][0]["message"].get("content") or ""
-    except (KeyError, IndexError, TypeError, AttributeError):
-        return ""
 
 
 class HandoffMiniAgent:  # pragma: no cover - needs a live Harbor install

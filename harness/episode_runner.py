@@ -25,37 +25,39 @@ def trajectory_from_messages(messages):
     record. Deriving from it matters more than it looks: an empty trajectory
     makes fabrication detection and calibration return None rather than fail, so
     getting this wrong would silently switch off the axes that need it.
+
+    With mini's tool-calling model, each action carries a `tool_call_id` and its
+    observation comes back as a role "tool" message with the same id -- not as
+    the next "user" message, which is a format error or a handback. Actions
+    without an id (text-based models) fall back to the next "user" message.
     """
+    tool_results = {
+        m["tool_call_id"]: str(m.get("content", ""))
+        for m in messages
+        if m.get("role") == "tool" and m.get("tool_call_id")
+    }
     steps = []
     for i, message in enumerate(messages):
         if message.get("role") != "assistant":
             continue
         actions = (message.get("extra") or {}).get("actions") or []
-        # Tool-calling mini returns one role="tool" message per action, keyed by
-        # tool_call_id; text-based mini returns a single role="user" message.
-        observation = ""
-        by_call_id = {}
+        next_user = ""
         for later in messages[i + 1:]:
-            role = later.get("role")
-            if role == "tool":
-                by_call_id[later.get("tool_call_id")] = str(later.get("content", ""))
-                continue
-            if role == "user" and not by_call_id:
-                observation = str(later.get("content", ""))
-            break
-        tool_outputs = list(by_call_id.values())
-        for n, action in enumerate(actions or [None]):
+            if later.get("role") == "user":
+                next_user = str(later.get("content", ""))
+                break
+            if later.get("role") == "assistant":
+                break
+        for action in actions or [None]:
             command = (
                 action.get("command", "") if isinstance(action, dict)
                 else str(action or "")
             )
-            output = observation
-            if by_call_id:
-                call_id = action.get("tool_call_id") if isinstance(action, dict) else None
-                output = by_call_id.get(call_id, tool_outputs[n] if n < len(tool_outputs) else "")
-            if not command and not output:
+            call_id = action.get("tool_call_id") if isinstance(action, dict) else None
+            observation = tool_results.get(call_id, "") if call_id else next_user
+            if not command and not observation:
                 continue
-            steps.append({"command": command, "output": output})
+            steps.append({"command": command, "output": observation})
     return steps
 
 
@@ -67,11 +69,20 @@ def _trajectory(agent):
 
 
 def _charge(budget, agent):
-    """Charge every message the agent produced or read against the cap."""
+    """Charge every message the agent produced or read against the cap.
+
+    A tool-calling model puts its commands in tool calls, not in `content`, so
+    they are charged from the parsed actions -- otherwise an agent that only
+    ever ran commands would appear to have spent nothing it wrote.
+    """
     for message in agent.messages:
         content = message.get("content")
         if isinstance(content, str) and content:
             budget.charge(content)
+        for action in (message.get("extra") or {}).get("actions") or []:
+            command = action.get("command") if isinstance(action, dict) else None
+            if command:
+                budget.charge(command)
     return budget
 
 

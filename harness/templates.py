@@ -22,10 +22,10 @@ is not reading along and will not answer mid-task. Your only channel back is the
 final report, and the orchestrator will act on it without being able to check \
 your work or inspect this environment.
 
-You have one tool: bash. Call it with one command at a time.
+You have one tool: bash. Call it to run commands, one command per call.
 
-When you are done, send a final message with no tool call, containing your \
-report between {open} and {close} delimiters.
+When you are done, reply WITHOUT a tool call, and end that final message with \
+a report between {open} and {close} delimiters. That reply ends your turn.
 
 Your report must let the orchestrator act correctly without re-doing your work:
 

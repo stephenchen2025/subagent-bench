@@ -15,3 +15,15 @@ episodes are skipped:
 
     mkdir -p build/milestone1 && cp -r results/milestone1/episodes build/milestone1/
     make milestone1
+
+## Provenance caveat
+
+These 18 episodes were produced at commit `f3731bb` (this session's fix for
+the report-rejection bug). A concurrent session pushed an equivalent fix
+(`92fe566`), and the branch now uses that version. It differs slightly: the
+system-prompt wording for finishing, a nudge after a reply with neither a tool
+call nor a report, and tool-call commands now charged against the token budget
+(so `usage.input_tokens` in these files is lower than a resumed run would
+record). Within each task, both models ran on the same code, so pairs stay
+comparable. If you mix these episodes with ones from the current head, say so
+in the results, or rerun them for a clean set (about $2).
