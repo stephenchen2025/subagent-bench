@@ -156,7 +156,9 @@ or a cloud sandbox, and this repo's scope discipline assumes a fixture image.
 A *first* live trial needs neither. `make live-trial` runs mini-swe-agent's
 LocalEnvironment in a subprocess against a copy of the fixture and scores the
 report with the live frozen consumer, so `ANTHROPIC_API_KEY` is the only
-prerequisite:
+prerequisite. If the environment reserves that name and won't pass it through,
+set `HANDOFF_ANTHROPIC_API_KEY` instead; both runners accept it
+(`tools/api_key.py`):
 
 ```bash
 make live-trial              # or: make live-trial TASK=f10_handback_false_correction

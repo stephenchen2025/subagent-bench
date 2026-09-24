@@ -49,14 +49,10 @@ OUT = ROOT / "build" / "milestone1"
 
 
 def _require_key():
-    import os
+    from tools.api_key import MISSING, resolve_api_key
 
-    if not os.environ.get("ANTHROPIC_API_KEY"):
-        sys.exit(
-            "ANTHROPIC_API_KEY is not set. Set it in this project's environment\n"
-            "config (not in a shell here, and never in a chat transcript); it is\n"
-            "injected at container start, so a new session will have it."
-        )
+    if not resolve_api_key():
+        sys.exit(MISSING)
 
 
 def _episode_path(model, task_id):
@@ -190,6 +186,11 @@ def main(argv=None, run_one_fn=run_one, consumer=None, out_dir=None, require_key
     parser.add_argument("--noise-floor-repeats", type=int, default=3,
                         help="Re-judgments per sampled episode.")
     args = parser.parse_args(argv)
+    # Even --score-only builds the live consumer, so promote an alternate-name
+    # key here rather than only inside _require_key.
+    from tools.api_key import resolve_api_key
+
+    resolve_api_key()
     models = [m.strip() for m in args.models.split(",") if m.strip()]
 
     specs_for_scoring = None

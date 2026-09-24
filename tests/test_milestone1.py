@@ -313,3 +313,29 @@ def test_consumer_is_shared_between_scoring_and_noise_floor(specs, tmp_path, mon
     m1.main(["--models", "modelA"], run_one_fn=_fake_run_one(lambda m: True),
             consumer=tracker, out_dir=tmp_path, require_key=False)
     assert len(set(seen_ids)) == 1, "scoring and noise-floor judging used different consumers"
+
+
+def test_alternate_key_name_is_promoted(monkeypatch):
+    """Hosted environments may reserve ANTHROPIC_API_KEY; the alternate name must work."""
+    import os
+
+    from tools import api_key
+
+    monkeypatch.delenv("ANTHROPIC_API_KEY", raising=False)
+    monkeypatch.delenv(api_key.ALT_NAME, raising=False)
+    assert not api_key.resolve_api_key()
+
+    monkeypatch.setenv(api_key.ALT_NAME, "sk-alt")
+    assert api_key.resolve_api_key()
+    assert os.environ["ANTHROPIC_API_KEY"] == "sk-alt"
+
+
+def test_primary_key_name_wins_over_alternate(monkeypatch):
+    import os
+
+    from tools import api_key
+
+    monkeypatch.setenv("ANTHROPIC_API_KEY", "sk-primary")
+    monkeypatch.setenv(api_key.ALT_NAME, "sk-alt")
+    assert api_key.resolve_api_key()
+    assert os.environ["ANTHROPIC_API_KEY"] == "sk-primary"

@@ -7,7 +7,8 @@ This is the cheapest way to learn the things only a real call can teach -- does 
 model follow the report contract, what does a trajectory actually cost, and what
 is the consumer's noise floor. It deliberately needs neither Docker nor Harbor:
 mini-swe-agent's LocalEnvironment runs the agent in a subprocess against a COPY
-of the fixture, so the only prerequisite is ANTHROPIC_API_KEY.
+of the fixture, so the only prerequisite is ANTHROPIC_API_KEY (or
+HANDOFF_ANTHROPIC_API_KEY; see tools/api_key.py).
 
 A real container is still required for a real benchmark run -- LocalEnvironment
 is not a sandbox, and the tool surface is the host's, not the image's (DESIGN.md
@@ -15,7 +16,6 @@ is not a sandbox, and the tool surface is the host's, not the image's (DESIGN.md
 """
 
 import json
-import os
 import shutil
 import sys
 import tempfile
@@ -29,13 +29,10 @@ STEP_LIMIT = 25
 
 
 def main():
-    if not os.environ.get("ANTHROPIC_API_KEY"):
-        sys.exit(
-            "ANTHROPIC_API_KEY is not set.\n"
-            "Set it in this project's environment config (not in a shell here, and\n"
-            "never in a chat transcript); it is injected at container start, so a\n"
-            "new session will have it."
-        )
+    from tools.api_key import MISSING, resolve_api_key
+
+    if not resolve_api_key():
+        sys.exit(MISSING)
 
     task_id = sys.argv[1] if len(sys.argv) > 1 else "f2_retry_config_ghost"
     spec = next(
