@@ -18,6 +18,7 @@ dollar totals mini reports, and can overshoot by at most one run.
 
 import argparse
 import json
+import os
 import sys
 from pathlib import Path
 
@@ -50,6 +51,13 @@ def main(argv=None):
     parser.add_argument("--latency", default="2", help="svcctl latency in seconds (P family)")
     parser.add_argument("--out", default=str(ROOT / "build" / "orch-live"))
     args = parser.parse_args(argv)
+
+    # Claude Code sessions may withhold ANTHROPIC_API_KEY from the container, so
+    # the key can also be supplied under a name the platform leaves alone.
+    if not os.environ.get("ANTHROPIC_API_KEY") and os.environ.get("ORCH_ANTHROPIC_API_KEY"):
+        os.environ["ANTHROPIC_API_KEY"] = os.environ["ORCH_ANTHROPIC_API_KEY"]
+    if not os.environ.get("ANTHROPIC_API_KEY"):
+        sys.exit("no API key: set ANTHROPIC_API_KEY (or ORCH_ANTHROPIC_API_KEY) in the environment")
 
     from minisweagent.models import get_model
 
