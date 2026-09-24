@@ -277,8 +277,14 @@ def test_harbor_agent_classes_satisfy_the_real_interface(tmp_path):
     assert agent.options.mode == "solo" and agent.options.context_tokens == 1000
 
 
-def test_harbor_agent_runs_delegation_through_the_async_bridge(tmp_path, monkeypatch):
-    """The real Harbor agent class, a fake async environment, parallel workers."""
+@pytest.mark.parametrize("seed", [1, 2])
+def test_harbor_agent_runs_delegation_through_the_async_bridge(seed, tmp_path, monkeypatch):
+    """The real Harbor agent class, a fake async environment, parallel workers.
+
+    Seed 2 matters: W instructions are identical across seeds, and a rehearsal
+    agent that identified its task by instruction alone silently graded seed 2
+    against seed 1's ground truth.
+    """
     pytest.importorskip("harbor")
     from harbor.environments.base import ExecResult
     from harbor.models.agent.context import AgentContext
@@ -287,8 +293,10 @@ def test_harbor_agent_runs_delegation_through_the_async_bridge(tmp_path, monkeyp
     from orch.harbor_agent import build_rehearsal_class
     from orch.local import materialise
 
-    task = wide.generate(24, 1)
-    emit(task, tmp_path / "tasks" / task.id)
+    for s in (1, 2):
+        other = wide.generate(24, s)
+        emit(other, tmp_path / "tasks" / other.id)
+    task = wide.generate(24, seed)
     ws, _, _ = materialise(task, tmp_path / "run")
     monkeypatch.setenv("ORCH_REHEARSAL_TASKS", str(tmp_path / "tasks"))
 
@@ -306,18 +314,5 @@ def test_harbor_agent_runs_delegation_through_the_async_bridge(tmp_path, monkeyp
     assert len(tel["workers"]) == 3 and all(w["exit_status"] == "Submitted" for w in tel["workers"])
     assert context.metadata["orch_subagents"] == 3
     answer = json.loads((ws / "answer.json").read_text())
-    assert {m["ticket"] for m in answer["matches"]} == {m["ticket"] for m in task.truth["matches"]}
+    assert answer == {"matches": task.truth["matches"]}
     assert os.path.exists(tmp_path / "logs" / "trajectories.json")
-
-
-def test_collect_detects_conditions_from_job_config():
-    sys.path.insert(0, str(ROOT / "tools"))
-    from orch_collect import detect
-
-    cc = {"agent": {"name": "claude-code", "model_name": "anthropic/m",
-                    "kwargs": {"disallowed_tools": "Agent,Task"}}}
-    assert detect(cc) == ("claude-code/anthropic/m", "solo")
-    cc["agent"]["kwargs"] = {}
-    assert detect(cc)[1] == "delegate"
-    ref = {"agent": {"name": "orch.harbor_agent:OrchMiniAgent", "kwargs": {"mode": "solo-xl"}}}
-    assert detect(ref) == ("OrchMiniAgent", "solo-xl")

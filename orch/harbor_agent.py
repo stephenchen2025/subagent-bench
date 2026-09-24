@@ -19,6 +19,8 @@ where `tools/orch_collect.py` finds them next to the verifier's reward.json.
 
 import asyncio
 import functools
+import hashlib
+import json
 import os
 import tomllib
 from pathlib import Path
@@ -144,7 +146,7 @@ def build_rehearsal_class():
             return AGENT_NAME + "-rehearsal"
 
         async def run(self, instruction, environment, context):
-            task = _find_task(instruction)
+            task = await _find_task(instruction, environment)
             mode, lead, worker_factory = policies.build(self.options.system, task)
             self.options.mode = mode
             self._lead = lead
@@ -155,13 +157,33 @@ def build_rehearsal_class():
             lead, self._lead = getattr(self, "_lead", None), None
             return lead if lead is not None else self._model_factory()
 
-    def _find_task(instruction):
+    async def _find_task(instruction, environment):
+        """The task this trial is running, identified from what the agent can see.
+
+        Instructions alone are not unique: every W task of one size has the
+        same instruction whatever its seed. When several tasks match, the
+        workspace's file listing and contents settle it.
+        """
         root = Path(os.environ["ORCH_REHEARSAL_TASKS"])
+        candidates = []
         for toml_path in sorted(root.glob("*/task.toml")):
             if (toml_path.parent / "instruction.md").read_text() == instruction:
                 meta = tomllib.loads(toml_path.read_text())["metadata"]
-                return FAMILIES[meta["family"]].generate(meta["size"], meta["seed"])
-        raise LookupError("no emitted task matches this instruction")
+                candidates.append(FAMILIES[meta["family"]].generate(meta["size"], meta["seed"]))
+        if len(candidates) > 1:
+            listing = await environment.exec(
+                "find . -type f ! -name answer.json | sed 's#^./##' | sort | xargs -r md5sum",
+                cwd="/workspace",
+            )
+            seen = set((getattr(listing, "stdout", "") or "").split())
+            candidates = [t for t in candidates if all(
+                hashlib.md5(text.encode()).hexdigest() in seen for text in t.files.values())]
+        # Seeds that happen to produce the same task are interchangeable.
+        distinct = {json.dumps([t.files, t.truth], sort_keys=True): t for t in candidates}
+        candidates = list(distinct.values())
+        if len(candidates) != 1:
+            raise LookupError(f"{len(candidates)} emitted tasks match this trial")
+        return candidates[0]
 
     return OrchRehearsalAgent
 
