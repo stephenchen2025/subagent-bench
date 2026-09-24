@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300" role="img" aria-label="P: score vs size">
+<style>text{font:12px system-ui,sans-serif;fill:#52514e}.t{font-weight:600;fill:#0b0b0b}.g{stroke:#e8e7e4;stroke-width:1}.a{stroke:#c3c2b7;stroke-width:1}rect.bg{fill:#fcfcfb}circle{stroke:#fcfcfb !important;stroke-width:2}.s0{stroke:#2a78d6;fill:#2a78d6}.s1{stroke:#eb6834;fill:#eb6834}.s2{stroke:#1baf7a;fill:#1baf7a}.s3{stroke:#eda100;fill:#eda100}.s4{stroke:#e87ba4;fill:#e87ba4}.s5{stroke:#008300;fill:#008300}@media (prefers-color-scheme: dark){text{fill:#c3c2b7}.t{fill:#ffffff}.g{stroke:#2f2f2d}.a{stroke:#52514e}rect.bg{fill:#1a1a19}circle{stroke:#1a1a19 !important}.s0{stroke:#3987e5;fill:#3987e5}.s1{stroke:#d95926;fill:#d95926}.s2{stroke:#199e70;fill:#199e70}.s3{stroke:#c98500;fill:#c98500}.s4{stroke:#d55181;fill:#d55181}.s5{stroke:#008300;fill:#008300}}</style>
+<rect class="bg" width="600" height="300" rx="6"/>
+<text class="t" x="48" y="22">P: score vs size</text>
+<line class="g" x1="48" x2="400" y1="256.0" y2="256.0"/>
+<text x="40" y="260.0" text-anchor="end">0.00</text>
+<line class="g" x1="48" x2="400" y1="201.0" y2="201.0"/>
+<text x="40" y="205.0" text-anchor="end">0.25</text>
+<line class="g" x1="48" x2="400" y1="146.0" y2="146.0"/>
+<text x="40" y="150.0" text-anchor="end">0.50</text>
+<line class="g" x1="48" x2="400" y1="91.0" y2="91.0"/>
+<text x="40" y="95.0" text-anchor="end">0.75</text>
+<line class="g" x1="48" x2="400" y1="36.0" y2="36.0"/>
+<text x="40" y="40.0" text-anchor="end">1.00</text>
+<text x="48.0" y="274" text-anchor="middle">3</text>
+<text x="224.0" y="274" text-anchor="middle">10</text>
+<text x="400.0" y="274" text-anchor="middle">20</text>
+<text x="224.0" y="292" text-anchor="middle">services (K)</text>
+<line class="a" x1="48" x2="400" y1="256" y2="256"/>
+<path class="s1" d="M48.0,36.0 L224.0,36.0 L400.0,36.0" fill="none" stroke-width="2" stroke-dasharray="2 4" stroke-linejoin="round" stroke-linecap="round" style="fill:none"/>
+<circle class="s1" cx="48.0" cy="36.0" r="4"><title>solo-xl at 3: 1.00</title></circle>
+<circle class="s1" cx="224.0" cy="36.0" r="4"><title>solo-xl at 10: 1.00</title></circle>
+<circle class="s1" cx="400.0" cy="36.0" r="4"><title>solo-xl at 20: 1.00</title></circle>
+<path class="s2" d="M48.0,36.0 L224.0,36.0 L400.0,36.0" fill="none" stroke-width="2" stroke-dasharray="6 4" stroke-linejoin="round" stroke-linecap="round" style="fill:none"/>
+<circle class="s2" cx="48.0" cy="36.0" r="4"><title>oracle-split at 3: 1.00</title></circle>
+<circle class="s2" cx="224.0" cy="36.0" r="4"><title>oracle-split at 10: 1.00</title></circle>
+<circle class="s2" cx="400.0" cy="36.0" r="4"><title>oracle-split at 20: 1.00</title></circle>
+<path class="s0" d="M48.0,36.0 L224.0,36.0 L400.0,146.0" fill="none" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" style="fill:none"/>
+<circle class="s0" cx="48.0" cy="36.0" r="4"><title>solo at 3: 1.00</title></circle>
+<circle class="s0" cx="224.0" cy="36.0" r="4"><title>solo at 10: 1.00</title></circle>
+<circle class="s0" cx="400.0" cy="146.0" r="4"><title>solo at 20: 0.50</title></circle>
+<path class="s3" d="M48.0,36.0 L224.0,36.0 L400.0,80.0" fill="none" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" style="fill:none"/>
+<circle class="s3" cx="48.0" cy="36.0" r="4"><title>delegate:eager at 3: 1.00</title></circle>
+<circle class="s3" cx="224.0" cy="36.0" r="4"><title>delegate:eager at 10: 1.00</title></circle>
+<circle class="s3" cx="400.0" cy="80.0" r="4"><title>delegate:eager at 20: 0.80</title></circle>
+<path class="s4" d="M48.0,36.0 L224.0,36.0 L400.0,36.0" fill="none" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" style="fill:none"/>
+<circle class="s4" cx="48.0" cy="36.0" r="4"><title>delegate:judicious at 3: 1.00</title></circle>
+<circle class="s4" cx="224.0" cy="36.0" r="4"><title>delegate:judicious at 10: 1.00</title></circle>
+<circle class="s4" cx="400.0" cy="36.0" r="4"><title>delegate:judicious at 20: 1.00</title></circle>
+<path class="s5" d="M48.0,36.0 L224.0,124.0 L400.0,124.0" fill="none" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" style="fill:none"/>
+<circle class="s5" cx="48.0" cy="36.0" r="4"><title>delegate:sloppy at 3: 1.00</title></circle>
+<circle class="s5" cx="224.0" cy="124.0" r="4"><title>delegate:sloppy at 10: 0.60</title></circle>
+<circle class="s5" cx="400.0" cy="124.0" r="4"><title>delegate:sloppy at 20: 0.60</title></circle>
+<text x="410" y="40.0"><tspan class="s1" style="stroke:none">■</tspan> solo-xl (dotted) 1.00</text>
+<text x="410" y="54.0"><tspan class="s2" style="stroke:none">■</tspan> oracle-split (dashed) 1.00</text>
+<text x="410" y="68.0"><tspan class="s4" style="stroke:none">■</tspan> delegate:judicious 1.00</text>
+<text x="410" y="84.0"><tspan class="s3" style="stroke:none">■</tspan> delegate:eager 0.80</text>
+<text x="410" y="128.0"><tspan class="s5" style="stroke:none">■</tspan> delegate:sloppy 0.60</text>
+<text x="410" y="150.0"><tspan class="s0" style="stroke:none">■</tspan> solo 0.50</text>
+</svg>

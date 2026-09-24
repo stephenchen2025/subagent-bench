@@ -54,7 +54,8 @@ detects system and condition from the job config; force them with
 `JOBDIR=system:condition`. For a first live look without Docker, `make orch-run
 MODELS=anthropic/claude-sonnet-5` runs the same conditions on local temp copies.
 
-Status: everything above is verified against harbor 0.23.0 in Docker with no
+Status: the task set is checked in at `datasets/orch-v0.1`, and rehearsal and
+validation results are in [`results/`](results/). Everything above is verified against harbor 0.23.0 in Docker with no
 API key. The Harbor oracle scores 1.0 on every task, and the reference harness
 runs parallel workers in real containers under scripted policies. **No real
 model has been run yet.** See ORCHESTRATOR.md §8.
