@@ -1,0 +1,11 @@
+Ledger page P-7334
+
+account      amount   see page
+Vance          +129   P-1319
+Grant          +233   P-6559
+Baker          +565   P-4540
+Moreau         -654   P-6553
+Jensen         -570   P-8318
+Ibarra         +830   P-2165
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,12 @@
+Ledger page P-9452
+
+account      amount   see page
+Nakamura       -867   P-6774
+Silva          -816   P-6362
+Xu             +867   P-1371
+Hughes         -659   P-7987
+Rahman         +496   P-4898
+Zhou           +777   P-3252
+Jensen         +408   P-4226
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,11 @@
+Ledger page P-8308
+
+account      amount   see page
+Moreau         -329   P-7254
+Xu             +468   P-5044
+Vance          -294   P-6427
+Silva           -28   P-7729
+Nakamura        +53   P-3147
+Ibarra          +37   P-6641
+
+Follow the entry with the largest debit (the most negative amount).

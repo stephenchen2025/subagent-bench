@@ -1,0 +1,12 @@
+Ledger page P-3205
+
+account      amount   see page
+Silva          +888   P-4687
+Eriksen        +119   P-1786
+Weber          -820   P-1101
+Quinn           +40   P-7294
+Zhou           +314   P-3226
+Vance          +833   P-8706
+Fofana         +247   P-6654
+
+Follow the credit belonging to the account that comes first alphabetically.

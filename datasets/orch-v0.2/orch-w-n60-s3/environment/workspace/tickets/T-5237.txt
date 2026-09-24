@@ -1,0 +1,71 @@
+Ticket T-5237
+Customer: Diego Alvarez
+Orders on file: ORD-78939, ORD-37916, ORD-21524, ORD-64774
+Opened: 2026-02-19 via web form
+
+Order details:
+ORD-78939  placed 2026-01-06  status: in transit  total: $173.65
+  payment method: card ending 9271  ship to: 850 Cedar Rd
+  - water filter pitcher x1
+  - replacement filter cartridge, 3-pack x1
+  - carabiner set x1
+  - travel pouch x3
+ORD-37916  placed 2026-03-01  status: delivered  total: $57.83
+  payment method: card ending 3021  ship to: 155 Elm St
+  - blender x1
+  - spare battery pack x2
+  - stainless water bottle, 750ml x2
+  - microfiber cloth x3
+ORD-21524  placed 2026-07-08  status: delivered  total: $343.78
+  payment method: card ending 2564  ship to: 645 Mill Ave
+  - noise-cancelling headphones x1
+  - stainless water bottle, 750ml x3
+  - extended warranty, 2 years x2
+  - spare battery pack x2
+ORD-64774  placed 2026-02-18  status: delivered  total: $248.42
+  payment method: card ending 3161  ship to: 38 Cedar Lane
+  - wool blanket x1
+  - travel pouch x1
+  - USB-C charging cable (2m) x3
+  - stainless water bottle, 750ml x3
+  - spare battery pack x1
+
+--- message 1 from Diego Alvarez ---
+The carry-on suitcase from ORD-78939 arrived with a scratch on the side. Can I get a replacement? The box for ORD-21524 was a bit crushed but the contents were fine. The wool blanket itself is great, for what it's worth. I'm happy to send screenshots if that helps.
+
+Best regards,
+Diego Alvarez
+
+--- message 2 from Luis (support) ---
+I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-21524 to the address on file. For ORD-21524, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Diego Alvarez ---
+Is there a way to combine loyalty points from ORD-21524 with my next purchase? My earlier order ORD-64774 arrived fine, no complaints there. I've been a customer for a few years and usually everything goes smoothly. I tried the chat widget first but it kept disconnecting.
+
+Diego Alvarez
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Luis (support) ---
+I've updated your shipping address on file. Our warehouse shows ORD-64774 left on schedule. I've added a note to your account so the next agent has the context. Loyalty points post about a week after an order is delivered.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Diego Alvarez ---
+I tried the chat widget first but it kept disconnecting. Is there a way to combine loyalty points from ORD-64774 with my next purchase? I'm happy to send screenshots if that helps. The blender itself is great, for what it's worth.
+
+Thanks,
+Diego Alvarez
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Luis (support) ---
+I've resent the confirmation email for ORD-64774 to the address on file. For ORD-21524, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context. I can see all the orders on your account, including ORD-78939.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,11 @@
+Ledger page P-9943
+
+account      amount   see page
+Rahman         -262   P-4824
+Moreau          +59   P-9352
+Young          +542   P-7324
+Abbott         +403   P-1108
+Ibarra         +364   P-5167
+Hughes         +315   P-8743
+
+Follow the debit belonging to the account that comes last alphabetically.

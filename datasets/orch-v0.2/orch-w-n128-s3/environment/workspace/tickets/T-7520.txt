@@ -1,0 +1,69 @@
+Ticket T-7520
+Customer: Noah Fischer
+Orders on file: ORD-43616, ORD-45069, ORD-14243, ORD-98262
+Opened: 2026-04-18 via web form
+
+Order details:
+ORD-43616  placed 2026-01-04  status: returned  total: $407.96
+  payment method: card ending 9008  ship to: 847 Oak Lane
+  - noise-cancelling headphones x1
+  - extended warranty, 2 years x1
+  - carabiner set x3
+  - replacement filter cartridge, 3-pack x1
+  - microfiber cloth x1
+ORD-45069  placed 2026-05-28  status: returned  total: $309.67
+  payment method: card ending 7037  ship to: 813 Oak Rd
+  - espresso grinder x1
+  - spare battery pack x1
+  - replacement filter cartridge, 3-pack x1
+ORD-14243  placed 2026-06-11  status: delivered  total: $82.75
+  payment method: card ending 8588  ship to: 546 Mill Rd
+  - desk lamp x1
+  - carabiner set x2
+  - stainless water bottle, 750ml x1
+ORD-98262  placed 2026-07-06  status: delivered  total: $147.78
+  payment method: card ending 6664  ship to: 713 Harbor Ave
+  - bike light set x1
+  - microfiber cloth x2
+  - spare battery pack x1
+  - stainless water bottle, 750ml x1
+  - carabiner set x3
+
+--- message 1 from Noah Fischer ---
+How do I reset my password? The reset link keeps expiring. My earlier order ORD-14243 arrived fine, no complaints there. I changed my shipping address last month, so please double-check you have the new one. My partner placed ORD-98262 on our shared account, in case that matters.
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Marcus (support) ---
+Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-98262 left on schedule. Let me know if anything else looks off. If you need an invoice for ORD-43616, you can download it from the Orders page.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Noah Fischer ---
+I'm travelling next week, so email is the best way to reach me. Tracking for ORD-14243 hasn't updated since Tuesday. My earlier order ORD-98262 arrived fine, no complaints there. I'm happy to send screenshots if that helps.
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Marcus (support) ---
+I've updated your shipping address on file. Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble. Loyalty points post about a week after an order is delivered.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Noah Fischer ---
+I'd rather not call; the hold times last time were very long. The wool blanket itself is great, for what it's worth. The box for ORD-43616 was a bit crushed but the contents were fine. Could you also tell me whether ORD-43616 qualifies for the extended return window?
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Marcus (support) ---
+I've updated your shipping address on file. I can see all the orders on your account, including ORD-43616. Let me know if anything else looks off. Loyalty points post about a week after an order is delivered.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

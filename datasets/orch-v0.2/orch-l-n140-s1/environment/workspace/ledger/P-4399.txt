@@ -1,0 +1,10 @@
+Ledger page P-4399
+
+account      amount   see page
+Zhou           -444   P-5788
+Grant          -455   P-2610
+Nakamura       +458   P-2748
+Silva          -659   P-7835
+Park           +766   P-7835
+
+Follow the entry with the second-largest amount.

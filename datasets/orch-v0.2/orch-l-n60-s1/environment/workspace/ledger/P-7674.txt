@@ -1,0 +1,11 @@
+Ledger page P-7674
+
+account      amount   see page
+Dunn           +329   P-4728
+Hughes         -638   P-3672
+Castillo       +862   P-2083
+Baker          +263   P-6165
+Young          -275   P-3653
+Park           -566   P-2544
+
+Follow the debit belonging to the account that comes last alphabetically.

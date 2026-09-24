@@ -1,0 +1,11 @@
+Ledger page P-2281
+
+account      amount   see page
+Kowalski        -19   P-2780
+Dunn           -675   P-4898
+Abbott         +191   P-6595
+Weber          +403   P-8335
+Vance          +177   P-2366
+Ibarra         -398   P-9218
+
+Follow the entry with the second-largest amount.

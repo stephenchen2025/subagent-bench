@@ -1,0 +1,10 @@
+Ledger page P-9258
+
+account      amount   see page
+Xu             +124   P-9148
+Fofana         -658   P-7882
+Silva          -823   P-1676
+Weber          +555   P-1519
+Umar           -229   P-8273
+
+Follow the entry with the second-largest amount.

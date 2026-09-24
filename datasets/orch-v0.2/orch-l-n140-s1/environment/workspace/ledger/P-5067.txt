@@ -1,0 +1,12 @@
+Ledger page P-5067
+
+account      amount   see page
+Osei           +886   P-6670
+Zhou           +859   P-4360
+Abbott         +159   P-2068
+Moreau         -780   P-4373
+Lambert         +49   P-7755
+Park           -422   P-9114
+Quinn          +512   P-5985
+
+Follow the entry with the second-largest amount.

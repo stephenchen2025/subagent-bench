@@ -1,0 +1,11 @@
+Ledger page P-1200
+
+account      amount   see page
+Zhou           -218   P-9964
+Castillo       -676   P-9456
+Nakamura       -365   P-8160
+Park           +664   P-1575
+Eriksen         -45   P-3683
+Umar           -880   P-6945
+
+Follow the entry with the second-largest amount.

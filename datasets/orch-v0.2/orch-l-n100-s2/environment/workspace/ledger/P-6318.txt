@@ -1,0 +1,12 @@
+Ledger page P-6318
+
+account      amount   see page
+Lambert        -353   P-9632
+Silva          -828   P-5476
+Xu             +237   P-5731
+Osei           +157   P-5179
+Hughes         -207   P-4151
+Zhou           -519   P-5934
+Moreau         +893   P-2413
+
+Follow the debit belonging to the account that comes last alphabetically.

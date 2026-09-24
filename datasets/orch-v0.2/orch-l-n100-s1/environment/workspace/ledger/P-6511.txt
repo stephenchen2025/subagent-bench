@@ -1,0 +1,12 @@
+Ledger page P-6511
+
+account      amount   see page
+Umar           +541   P-3351
+Park           +598   P-2518
+Xu             +193   P-9337
+Kowalski       +714   P-8509
+Weber          -615   P-7063
+Zhou           -892   P-1853
+Silva          -511   P-9855
+
+Follow the entry with the largest credit.

@@ -1,0 +1,11 @@
+Ledger page P-8043
+
+account      amount   see page
+Weber          -870   P-8954
+Tanaka         -156   P-1538
+Dunn            -22   P-4133
+Jensen         +308   P-5983
+Umar           +333   P-8351
+Fofana         +454   P-7644
+
+Follow the entry with the largest debit (the most negative amount).

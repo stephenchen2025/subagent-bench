@@ -1,0 +1,68 @@
+Ticket T-1383
+Customer: Hana Sato
+Orders on file: ORD-32424, ORD-35828, ORD-75280, ORD-41920
+Opened: 2026-05-09 via chat transcript
+
+Order details:
+ORD-32424  placed 2026-03-14  status: delivered  total: $376.55
+  payment method: card ending 1572  ship to: 965 Mill Lane
+  - carry-on suitcase x1
+  - gift wrap x3
+  - extended warranty, 2 years x3
+  - microfiber cloth x2
+ORD-35828  placed 2026-05-21  status: in transit  total: $111.62
+  payment method: card ending 7633  ship to: 38 Cedar Lane
+  - mechanical keyboard x1
+  - merino socks, size M x1
+  - spare battery pack x2
+ORD-75280  placed 2026-05-14  status: delivered  total: $366.26
+  payment method: card ending 5516  ship to: 928 Cedar Lane
+  - blender x1
+  - travel pouch x1
+  - carabiner set x1
+ORD-41920  placed 2026-04-16  status: label created  total: $192.37
+  payment method: card ending 4428  ship to: 153 Mill St
+  - rain jacket x1
+  - replacement filter cartridge, 3-pack x3
+  - spare battery pack x2
+  - microfiber cloth x1
+
+--- message 1 from Hana Sato ---
+I need to change the delivery address for ORD-75280 before it ships. Is there a way to combine loyalty points from ORD-35828 with my next purchase? I've been a customer for a few years and usually everything goes smoothly. I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Hana Sato
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Rosa (support) ---
+Thanks for reaching out, and sorry for the trouble. Loyalty points post about a week after an order is delivered. If you need an invoice for ORD-41920, you can download it from the Orders page. Let me know if anything else looks off.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Hana Sato ---
+Not your fault, but my gym billed me twice this month, which is why I'm nervous about ORD-32424. Everything on your side looks like a single charge, I just wanted to confirm the delivery date. I tried the chat widget first but it kept disconnecting. Is there a way to combine loyalty points from ORD-75280 with my next purchase?
+
+Hana Sato
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Rosa (support) ---
+Our warehouse shows ORD-41920 left on schedule. Let me know if anything else looks off. Loyalty points post about a week after an order is delivered.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Hana Sato ---
+I'd rather not call; the hold times last time were very long. Tracking for ORD-75280 hasn't updated since Tuesday. I'm travelling next week, so email is the best way to reach me. Your app logged me out twice while I was looking at this, which didn't help.
+
+Best regards,
+Hana Sato
+
+--- message 6 from Rosa (support) ---
+Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble. I've resent the confirmation email for ORD-75280 to the address on file. I can see all the orders on your account, including ORD-35828.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

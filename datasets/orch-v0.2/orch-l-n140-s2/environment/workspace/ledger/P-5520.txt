@@ -1,0 +1,11 @@
+Ledger page P-5520
+
+account      amount   see page
+Zhou           -402   P-3277
+Castillo       +610   P-4259
+Fofana         +613   P-2426
+Jensen         +839   P-3780
+Quinn          +383   P-6021
+Baker           -78   P-9366
+
+Follow the entry whose amount is closest to zero.

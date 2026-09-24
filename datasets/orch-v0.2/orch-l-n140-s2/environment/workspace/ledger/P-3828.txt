@@ -1,0 +1,12 @@
+Ledger page P-3828
+
+account      amount   see page
+Umar           +754   P-8845
+Kowalski       -697   P-8864
+Baker          -628   P-1757
+Weber          +147   P-4287
+Jensen         -719   P-6656
+Ibarra         +267   P-4802
+Nakamura        -56   P-4719
+
+Follow the entry whose amount is closest to zero.

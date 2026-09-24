@@ -1,0 +1,10 @@
+Ledger page P-7969
+
+account      amount   see page
+Hughes          +24   P-9632
+Umar           +333   P-4102
+Fofana         -364   P-7755
+Grant           +97   P-2723
+Xu             -754   P-4315
+
+Follow the entry with the second-largest amount.

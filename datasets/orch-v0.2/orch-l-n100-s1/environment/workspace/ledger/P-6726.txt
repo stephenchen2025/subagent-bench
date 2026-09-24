@@ -1,0 +1,10 @@
+Ledger page P-6726
+
+account      amount   see page
+Fofana         +797   P-7609
+Silva          +796   P-8953
+Zhou           -181   P-5699
+Baker           -83   P-5830
+Eriksen        +172   P-8742
+
+Follow the entry with the largest debit (the most negative amount).

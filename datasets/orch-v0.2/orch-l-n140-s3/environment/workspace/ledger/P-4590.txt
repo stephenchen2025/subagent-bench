@@ -1,0 +1,12 @@
+Ledger page P-4590
+
+account      amount   see page
+Moreau         -456   P-9286
+Silva          -526   P-4793
+Vance          -343   P-8381
+Eriksen        +193   P-3203
+Park           +564   P-2349
+Umar           +638   P-9932
+Kowalski       -886   P-7610
+
+Follow the credit belonging to the account that comes first alphabetically.

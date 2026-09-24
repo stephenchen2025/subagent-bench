@@ -1,0 +1,11 @@
+Ledger page P-9847
+
+account      amount   see page
+Rahman         +699   P-5093
+Ibarra         +824   P-1614
+Abbott         -802   P-6445
+Zhou           -197   P-6615
+Dunn           -243   P-6656
+Baker          +308   P-3606
+
+Follow the credit belonging to the account that comes first alphabetically.

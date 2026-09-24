@@ -1,0 +1,11 @@
+Ledger page P-3301
+
+account      amount   see page
+Vance          -152   P-1211
+Moreau         -556   P-2077
+Dunn           -225   P-8255
+Castillo        -91   P-6722
+Park           +481   P-1166
+Young          +215   P-2046
+
+Follow the entry with the second-largest amount.

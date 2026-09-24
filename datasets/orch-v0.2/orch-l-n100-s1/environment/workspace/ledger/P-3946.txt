@@ -1,0 +1,11 @@
+Ledger page P-3946
+
+account      amount   see page
+Jensen         -455   P-9408
+Osei           -355   P-2848
+Castillo       +597   P-3258
+Eriksen        -745   P-5817
+Rahman          -50   P-4970
+Abbott         +277   P-9723
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,12 @@
+Ledger page P-4337
+
+account      amount   see page
+Silva           -59   P-2535
+Castillo       -774   P-9065
+Vance          -449   P-1522
+Lambert        +291   P-8290
+Baker          +243   P-2190
+Zhou            +54   P-1920
+Park           +743   P-7118
+
+Follow the entry with the largest debit (the most negative amount).

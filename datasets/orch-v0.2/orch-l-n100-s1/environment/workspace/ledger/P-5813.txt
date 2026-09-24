@@ -1,0 +1,10 @@
+Ledger page P-5813
+
+account      amount   see page
+Xu             +202   P-4481
+Baker          +283   P-1660
+Weber          -562   P-7598
+Rahman         +494   P-1660
+Castillo        -13   P-5874
+
+Follow the credit belonging to the account that comes first alphabetically.

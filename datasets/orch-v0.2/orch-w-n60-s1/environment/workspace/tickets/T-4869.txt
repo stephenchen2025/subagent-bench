@@ -1,0 +1,112 @@
+Ticket T-4869
+Customer: Noah Fischer
+Orders on file: ORD-97977, ORD-56545, ORD-76499, ORD-85280
+Opened: 2026-03-06 via email
+
+Order details:
+ORD-97977  placed 2026-03-04  status: delivered  total: $177.49
+  payment method: card ending 7839  ship to: 114 Elm Rd
+  - carry-on suitcase x1
+  - extended warranty, 2 years x2
+  - replacement filter cartridge, 3-pack x2
+  - gift wrap x1
+ORD-56545  placed 2026-08-19  status: delivered  total: $131.67
+  payment method: card ending 8886  ship to: 511 Oak Rd
+  - wool blanket x1
+  - microfiber cloth x2
+  - extended warranty, 2 years x3
+  - stainless water bottle, 750ml x3
+ORD-76499  placed 2026-02-06  status: delivered  total: $330.38
+  payment method: card ending 1225  ship to: 997 Mill St
+  - yoga mat x1
+  - merino socks, size M x2
+  - spare battery pack x1
+  - extended warranty, 2 years x1
+ORD-85280  placed 2026-06-26  status: returned  total: $316.30
+  payment method: card ending 1189  ship to: 460 Oak Ave
+  - desk lamp x1
+  - travel pouch x3
+  - gift wrap x3
+  - extended warranty, 2 years x1
+
+--- message 1 from Noah Fischer ---
+The trail running shoes from ORD-97977 arrived with a scratch on the side. Can I get a replacement? I've been a customer for a few years and usually everything goes smoothly. The box for ORD-97977 was a bit crushed but the contents were fine. I'm happy to send screenshots if that helps.
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Pete (support) ---
+Our warehouse shows ORD-76499 left on schedule. I've updated your shipping address on file. I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Noah Fischer ---
+I think I might have been charged twice for ORD-56545, but one of the lines on my online banking still says pending, so I'm not sure yet. I tried the chat widget first but it kept disconnecting. My partner placed ORD-76499 on our shared account, in case that matters.
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Pete (support) ---
+Screenshots aren't necessary, but thank you for offering. I've added a note to your account so the next agent has the context. Our warehouse shows ORD-76499 left on schedule.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Noah Fischer ---
+Update: the second line has now posted, it's no longer pending. So both payments for ORD-56545 actually went through. I've been a customer for a few years and usually everything goes smoothly. I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Pete (support) ---
+Screenshots aren't necessary, but thank you for offering. I've updated your shipping address on file. Loyalty points post about a week after an order is delivered.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Pete (support) ---
+I've checked with our payments team: both captures for ORD-56545 settled, so you were genuinely charged twice. I've issued a refund for the second one; it should show within 3-5 business days. Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Noah Fischer ---
+Is there a way to combine loyalty points from ORD-76499 with my next purchase? Could you also tell me whether ORD-97977 qualifies for the extended return window? The camping stove itself is great, for what it's worth.
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 9 from Noah Fischer ---
+I'm travelling next week, so email is the best way to reach me. Tracking for ORD-97977 hasn't updated since Tuesday. Your app logged me out twice while I was looking at this, which didn't help. Could you also tell me whether ORD-85280 qualifies for the extended return window?
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 10 from Pete (support) ---
+If you need an invoice for ORD-85280, you can download it from the Orders page. Let me know if anything else looks off. Our warehouse shows ORD-97977 left on schedule. I've updated your shipping address on file.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 11 from Noah Fischer ---
+The confirmation email for ORD-97977 went to my spam folder, so I only just saw it. The desk lamp itself is great, for what it's worth. Is there a way to combine loyalty points from ORD-76499 with my next purchase? Tracking for ORD-85280 hasn't updated since Tuesday.
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 12 from Pete (support) ---
+I've updated your shipping address on file. If you need an invoice for ORD-97977, you can download it from the Orders page. Our warehouse shows ORD-85280 left on schedule. Screenshots aren't necessary, but thank you for offering.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

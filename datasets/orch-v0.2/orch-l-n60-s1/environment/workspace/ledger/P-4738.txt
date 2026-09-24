@@ -1,0 +1,10 @@
+Ledger page P-4738
+
+account      amount   see page
+Abbott         +543   P-6160
+Eriksen        +177   P-7200
+Silva          -546   P-9708
+Jensen         -312   P-2588
+Lambert        +315   P-1386
+
+Follow the credit belonging to the account that comes first alphabetically.

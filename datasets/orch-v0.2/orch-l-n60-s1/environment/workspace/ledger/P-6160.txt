@@ -1,0 +1,12 @@
+Ledger page P-6160
+
+account      amount   see page
+Jensen         +551   P-8213
+Baker          +217   P-6264
+Osei           -750   P-2728
+Grant          +653   P-7547
+Moreau         -803   P-2544
+Vance          +146   P-1230
+Zhou           -376   P-1566
+
+Follow the entry with the largest credit.

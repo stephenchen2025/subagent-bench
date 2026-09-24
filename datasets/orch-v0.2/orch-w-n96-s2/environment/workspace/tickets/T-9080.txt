@@ -1,0 +1,81 @@
+Ticket T-9080
+Customer: Hana Sato
+Orders on file: ORD-46683, ORD-81840, ORD-43075, ORD-54834
+Opened: 2026-01-23 via web form
+
+Order details:
+ORD-46683  placed 2026-03-05  status: in transit  total: $162.21
+  payment method: card ending 6414  ship to: 588 Oak St
+  - rain jacket x1
+  - spare battery pack x2
+  - travel pouch x2
+ORD-81840  placed 2026-04-24  status: delivered  total: $393.04
+  payment method: card ending 8413  ship to: 484 Oak St
+  - bike light set x1
+  - spare battery pack x1
+  - gift wrap x1
+ORD-43075  placed 2026-01-19  status: label created  total: $102.05
+  payment method: card ending 1069  ship to: 153 Harbor St
+  - rain jacket x1
+  - travel pouch x2
+  - USB-C charging cable (2m) x3
+ORD-54834  placed 2026-04-25  status: delivered  total: $91.99
+  payment method: card ending 3675  ship to: 410 Oak St
+  - standing desk x1
+  - gift wrap x3
+  - extended warranty, 2 years x1
+
+--- message 1 from Hana Sato ---
+How do I reset my password? The reset link keeps expiring. Could you also tell me whether ORD-43075 qualifies for the extended return window? My partner placed ORD-43075 on our shared account, in case that matters. My earlier order ORD-81840 arrived fine, no complaints there.
+
+Thanks,
+Hana Sato
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Keiko (support) ---
+Our warehouse shows ORD-81840 left on schedule. I've resent the confirmation email for ORD-43075 to the address on file. For ORD-43075, the return window is 30 days from delivery. If you need an invoice for ORD-43075, you can download it from the Orders page.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Hana Sato ---
+I see two charges on my statement this week, one for ORD-54834 and one for ORD-43075. Both are correct -- I ordered twice on purpose -- but could you send me the invoices for my expense report? I'm travelling next week, so email is the best way to reach me. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Hana Sato
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Keiko (support) ---
+I can see all the orders on your account, including ORD-46683. If you need an invoice for ORD-46683, you can download it from the Orders page. I've updated your shipping address on file.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Hana Sato ---
+I've been a customer for a few years and usually everything goes smoothly. Tracking for ORD-81840 hasn't updated since Tuesday. The confirmation email for ORD-46683 went to my spam folder, so I only just saw it. The bike light set itself is great, for what it's worth.
+
+Thanks,
+Hana Sato
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Keiko (support) ---
+I've resent the confirmation email for ORD-46683 to the address on file. Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off. Loyalty points post about a week after an order is delivered.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Hana Sato ---
+My earlier order ORD-43075 arrived fine, no complaints there. Your app logged me out twice while I was looking at this, which didn't help. Is there a way to combine loyalty points from ORD-46683 with my next purchase? I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Hana Sato
+
+--- message 8 from Keiko (support) ---
+Loyalty points post about a week after an order is delivered. If you need an invoice for ORD-43075, you can download it from the Orders page. Let me know if anything else looks off. I can see all the orders on your account, including ORD-46683.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

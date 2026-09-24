@@ -1,0 +1,10 @@
+Ledger page P-1235
+
+account      amount   see page
+Kowalski       +563   P-2928
+Ibarra         -809   P-2178
+Jensen         -756   P-2515
+Umar           -435   P-8934
+Eriksen        +232   P-3364
+
+Follow the entry whose amount is closest to zero.

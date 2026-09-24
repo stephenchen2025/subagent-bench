@@ -1,0 +1,11 @@
+Ledger page P-6171
+
+account      amount   see page
+Zhou           -216   P-2985
+Kowalski       -503   P-5008
+Baker          -386   P-7315
+Lambert        +190   P-8129
+Vance          -814   P-2387
+Quinn          -852   P-9105
+
+Follow the entry with the second-largest amount.

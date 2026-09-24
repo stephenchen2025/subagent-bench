@@ -1,0 +1,10 @@
+Ledger page P-8846
+
+account      amount   see page
+Quinn          -506   P-4307
+Kowalski       +229   P-7696
+Jensen          -79   P-3659
+Nakamura       -598   P-1567
+Dunn           +338   P-2814
+
+Follow the entry whose amount is closest to zero.

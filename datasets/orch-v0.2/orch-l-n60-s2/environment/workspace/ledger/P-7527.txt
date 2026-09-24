@@ -1,0 +1,11 @@
+Ledger page P-7527
+
+account      amount   see page
+Park           +456   P-9680
+Rahman          -66   P-4880
+Fofana         -416   P-7317
+Ibarra         +882   P-7523
+Vance          -309   P-3260
+Tanaka         -284   P-5136
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,11 @@
+Ledger page P-2917
+
+account      amount   see page
+Vance          -386   P-9309
+Rahman          -92   P-7562
+Osei           -514   P-6859
+Young          -341   P-2858
+Kowalski       +263   P-7931
+Moreau         +150   P-9923
+
+Follow the entry whose amount is closest to zero.

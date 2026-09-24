@@ -1,0 +1,10 @@
+Ledger page P-5389
+
+account      amount   see page
+Rahman         -169   P-1224
+Weber          -206   P-3834
+Hughes         +882   P-2080
+Baker          -783   P-5345
+Zhou            +20   P-2771
+
+Follow the entry with the largest debit (the most negative amount).

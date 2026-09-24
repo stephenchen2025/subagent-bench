@@ -1,0 +1,97 @@
+Ticket T-6339
+Customer: Aisha Karim
+Orders on file: ORD-91002, ORD-72697, ORD-22534, ORD-88558
+Opened: 2026-06-11 via email
+
+Order details:
+ORD-91002  placed 2026-01-26  status: in transit  total: $185.17
+  payment method: card ending 8865  ship to: 406 Oak Ave
+  - wool blanket x1
+  - spare battery pack x2
+  - stainless water bottle, 750ml x2
+ORD-72697  placed 2026-04-10  status: in transit  total: $292.29
+  payment method: card ending 1804  ship to: 202 Oak Rd
+  - espresso grinder x1
+  - microfiber cloth x3
+  - replacement filter cartridge, 3-pack x1
+  - gift wrap x2
+  - carabiner set x3
+ORD-22534  placed 2026-05-04  status: delivered  total: $247.69
+  payment method: card ending 3124  ship to: 88 Oak Lane
+  - standing desk x1
+  - microfiber cloth x2
+  - gift wrap x3
+ORD-88558  placed 2026-07-04  status: returned  total: $354.33
+  payment method: card ending 9670  ship to: 326 Harbor Ave
+  - standing desk x1
+  - travel pouch x3
+  - stainless water bottle, 750ml x3
+  - carabiner set x3
+  - spare battery pack x3
+
+--- message 1 from Aisha Karim ---
+The noise-cancelling headphones from ORD-91002 arrived with a scratch on the side. Can I get a replacement? The box for ORD-88558 was a bit crushed but the contents were fine. I tried the chat widget first but it kept disconnecting. My earlier order ORD-88558 arrived fine, no complaints there.
+
+Aisha Karim
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Marcus (support) ---
+Our warehouse shows ORD-91002 left on schedule. Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering. I've added a note to your account so the next agent has the context.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Aisha Karim ---
+Something looks off with ORD-72697: I see what might be a second payment. My earlier order ORD-22534 arrived fine, no complaints there. I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Aisha Karim
+
+--- message 4 from Marcus (support) ---
+Our warehouse shows ORD-88558 left on schedule. Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Aisha Karim ---
+Update: the second line has now posted, it's no longer pending. So both payments for ORD-72697 actually went through. I'd rather not call; the hold times last time were very long. My earlier order ORD-91002 arrived fine, no complaints there.
+
+Thanks,
+Aisha Karim
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Marcus (support) ---
+If you need an invoice for ORD-22534, you can download it from the Orders page. Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Marcus (support) ---
+Confirmed on our side -- ORD-72697 was captured twice by a retry in our checkout. One refund of $93.13 is on its way to you. I've added a note to your account so the next agent has the context. Let me know if anything else looks off.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Aisha Karim ---
+I'm travelling next week, so email is the best way to reach me. I'd rather not call; the hold times last time were very long. The standing desk itself is great, for what it's worth.
+
+Thanks,
+Aisha Karim
+Sent from my phone -- please excuse typos.
+
+--- message 9 from Aisha Karim ---
+Your app logged me out twice while I was looking at this, which didn't help. I've been a customer for a few years and usually everything goes smoothly. I'm travelling next week, so email is the best way to reach me. I'm happy to send screenshots if that helps.
+
+Best regards,
+Aisha Karim
+
+--- message 10 from Marcus (support) ---
+Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier. Let me know if anything else looks off. I've resent the confirmation email for ORD-22534 to the address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

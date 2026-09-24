@@ -1,0 +1,11 @@
+Ledger page P-4853
+
+account      amount   see page
+Vance          -529   P-7047
+Jensen         -382   P-4621
+Tanaka         -800   P-7597
+Kowalski       +885   P-5991
+Castillo       +471   P-7573
+Zhou           +102   P-9821
+
+Follow the entry with the second-largest amount.

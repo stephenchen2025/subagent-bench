@@ -1,0 +1,11 @@
+Ledger page P-5679
+
+account      amount   see page
+Weber          +200   P-6411
+Silva          +207   P-2420
+Young          -582   P-5696
+Vance          -350   P-4886
+Baker          +133   P-4465
+Quinn          -119   P-9602
+
+Follow the debit belonging to the account that comes last alphabetically.

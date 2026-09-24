@@ -1,0 +1,11 @@
+Ledger page P-6722
+
+account      amount   see page
+Rahman         +733   P-5516
+Umar           +232   P-9632
+Fofana         -727   P-3247
+Lambert        -411   P-4607
+Xu             -769   P-4360
+Abbott         -465   P-7464
+
+Follow the credit belonging to the account that comes first alphabetically.

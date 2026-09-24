@@ -1,0 +1,11 @@
+Ledger page P-8282
+
+account      amount   see page
+Hughes         +359   P-2426
+Park           +415   P-4560
+Silva          +871   P-2560
+Jensen         -200   P-2640
+Vance          -289   P-9976
+Quinn          -737   P-5226
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,54 @@
+Ticket T-8496
+Customer: Ines Duarte
+Orders on file: ORD-83878, ORD-80201, ORD-48919, ORD-29408
+Opened: 2026-08-22 via chat transcript
+
+Order details:
+ORD-83878  placed 2026-03-28  status: label created  total: $386.76
+  payment method: card ending 8644  ship to: 570 Cedar Lane
+  - rain jacket x1
+  - travel pouch x2
+  - spare battery pack x2
+ORD-80201  placed 2026-08-07  status: delivered  total: $336.83
+  payment method: card ending 9047  ship to: 707 Mill Ave
+  - standing desk x1
+  - extended warranty, 2 years x2
+  - travel pouch x3
+ORD-48919  placed 2026-08-27  status: returned  total: $173.63
+  payment method: card ending 8350  ship to: 525 Oak Ave
+  - standing desk x1
+  - spare battery pack x3
+  - stainless water bottle, 750ml x3
+ORD-29408  placed 2026-02-25  status: in transit  total: $435.15
+  payment method: card ending 2389  ship to: 553 Harbor Lane
+  - bike light set x1
+  - gift wrap x3
+  - extended warranty, 2 years x1
+  - USB-C charging cable (2m) x3
+  - spare battery pack x3
+
+--- message 1 from Ines Duarte ---
+I need to change the delivery address for ORD-29408 before it ships. Your app logged me out twice while I was looking at this, which didn't help. The box for ORD-29408 was a bit crushed but the contents were fine. I've been a customer for a few years and usually everything goes smoothly.
+
+Ines Duarte
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Luis (support) ---
+Loyalty points post about a week after an order is delivered. Let me know if anything else looks off. I can see all the orders on your account, including ORD-29408. For ORD-48919, the return window is 30 days from delivery.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ines Duarte ---
+My partner placed ORD-48919 on our shared account, in case that matters. I'm happy to send screenshots if that helps. I'd rather not call; the hold times last time were very long. Is there a way to combine loyalty points from ORD-29408 with my next purchase?
+
+Ines Duarte
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Luis (support) ---
+I've added a note to your account so the next agent has the context. Screenshots aren't necessary, but thank you for offering. Our warehouse shows ORD-80201 left on schedule. Loyalty points post about a week after an order is delivered.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

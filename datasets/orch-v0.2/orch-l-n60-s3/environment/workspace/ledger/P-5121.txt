@@ -1,0 +1,11 @@
+Ledger page P-5121
+
+account      amount   see page
+Silva          -657   P-1930
+Ibarra         +748   P-7491
+Hughes         -561   P-3041
+Quinn          +863   P-9986
+Nakamura       +131   P-1036
+Osei           +648   P-1267
+
+Follow the entry whose amount is closest to zero.

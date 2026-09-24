@@ -1,0 +1,11 @@
+Ledger page P-5242
+
+account      amount   see page
+Ibarra         +154   P-9455
+Silva          +891   P-4826
+Umar           +560   P-8864
+Quinn          +837   P-8845
+Nakamura       -449   P-4105
+Eriksen        +870   P-9328
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,12 @@
+Ledger page P-2617
+
+account      amount   see page
+Xu             -832   P-1693
+Jensen         +496   P-6634
+Tanaka         -142   P-9427
+Quinn            +3   P-4593
+Ibarra         -599   P-2057
+Baker          +331   P-9697
+Silva          -811   P-2195
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,12 @@
+Ledger page P-6654
+
+account      amount   see page
+Quinn           +97   P-1779
+Park           -604   P-2693
+Kowalski       -730   P-6572
+Jensen         -842   P-7375
+Tanaka         -694   P-6857
+Dunn           -699   P-1934
+Abbott          +60   P-2495
+
+Follow the debit belonging to the account that comes last alphabetically.

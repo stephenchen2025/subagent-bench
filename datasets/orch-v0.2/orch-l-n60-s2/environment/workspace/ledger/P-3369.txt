@@ -1,0 +1,11 @@
+Ledger page P-3369
+
+account      amount   see page
+Vance          -526   P-7256
+Umar           -439   P-7424
+Grant           -35   P-7256
+Ibarra         +773   P-4429
+Tanaka          +29   P-3179
+Abbott         +433   P-1746
+
+Follow the credit belonging to the account that comes first alphabetically.

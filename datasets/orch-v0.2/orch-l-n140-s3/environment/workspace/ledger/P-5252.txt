@@ -1,0 +1,11 @@
+Ledger page P-5252
+
+account      amount   see page
+Vance          -137   P-7941
+Zhou           +295   P-3289
+Umar           +133   P-4653
+Quinn           +85   P-1151
+Moreau         +131   P-9610
+Hughes         +263   P-2859
+
+Follow the entry whose amount is closest to zero.

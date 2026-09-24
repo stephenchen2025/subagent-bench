@@ -1,0 +1,12 @@
+Ledger page P-2648
+
+account      amount   see page
+Kowalski       -735   P-6885
+Fofana         +560   P-6171
+Jensen         +580   P-3913
+Lambert        -184   P-6996
+Osei           -743   P-9214
+Baker          -630   P-4828
+Abbott         -223   P-9647
+
+Follow the entry with the largest credit.

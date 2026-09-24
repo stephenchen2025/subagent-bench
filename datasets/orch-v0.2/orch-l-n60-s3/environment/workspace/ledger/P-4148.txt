@@ -1,0 +1,11 @@
+Ledger page P-4148
+
+account      amount   see page
+Weber          +659   P-7302
+Kowalski       -339   P-6941
+Silva           -71   P-3367
+Dunn           -863   P-9986
+Moreau         -644   P-2402
+Castillo       -354   P-2820
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,93 @@
+Ticket T-2906
+Customer: Aisha Karim
+Orders on file: ORD-77471, ORD-44973, ORD-72985, ORD-99725
+Opened: 2026-02-28 via web form
+
+Order details:
+ORD-77471  placed 2026-06-04  status: label created  total: $183.68
+  payment method: card ending 7911  ship to: 857 Elm St
+  - yoga mat x1
+  - extended warranty, 2 years x2
+  - microfiber cloth x3
+ORD-44973  placed 2026-08-03  status: returned  total: $202.38
+  payment method: card ending 4312  ship to: 944 Mill Lane
+  - carry-on suitcase x1
+  - microfiber cloth x1
+  - carabiner set x3
+ORD-72985  placed 2026-07-09  status: label created  total: $84.32
+  payment method: card ending 1424  ship to: 811 Mill St
+  - rain jacket x1
+  - merino socks, size M x3
+  - gift wrap x2
+  - stainless water bottle, 750ml x2
+  - travel pouch x2
+ORD-99725  placed 2026-07-13  status: in transit  total: $419.60
+  payment method: card ending 3605  ship to: 763 Harbor St
+  - trail running shoes x1
+  - extended warranty, 2 years x2
+  - microfiber cloth x1
+
+--- message 1 from Aisha Karim ---
+The camping stove from ORD-77471 arrived with a scratch on the side. Can I get a replacement? Is there a way to combine loyalty points from ORD-99725 with my next purchase? The standing desk itself is great, for what it's worth. I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Aisha Karim
+
+--- message 2 from Arjun (support) ---
+Our warehouse shows ORD-99725 left on schedule. For ORD-99725, the return window is 30 days from delivery. I can see all the orders on your account, including ORD-77471. Loyalty points post about a week after an order is delivered.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Aisha Karim ---
+The checkout page for ORD-44973 timed out. If I try to pay again, will I end up being charged twice? My partner placed ORD-77471 on our shared account, in case that matters. The box for ORD-99725 was a bit crushed but the contents were fine.
+
+Aisha Karim
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Arjun (support) ---
+I've updated your shipping address on file. For ORD-77471, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Arjun (support) ---
+Retrying is safe. Our system blocks a second capture on ORD-44973, so a double charge can't happen. For ORD-77471, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Aisha Karim ---
+The confirmation email for ORD-77471 went to my spam folder, so I only just saw it. Tracking for ORD-72985 hasn't updated since Tuesday. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Aisha Karim
+
+--- message 7 from Aisha Karim ---
+I'm happy to send screenshots if that helps. I've been a customer for a few years and usually everything goes smoothly. The confirmation email for ORD-77471 went to my spam folder, so I only just saw it. My earlier order ORD-77471 arrived fine, no complaints there.
+
+Best regards,
+Aisha Karim
+
+--- message 8 from Arjun (support) ---
+I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier. I've resent the confirmation email for ORD-77471 to the address on file. If you need an invoice for ORD-77471, you can download it from the Orders page.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Aisha Karim ---
+I'm happy to send screenshots if that helps. My earlier order ORD-77471 arrived fine, no complaints there. I'd rather not call; the hold times last time were very long. The confirmation email for ORD-77471 went to my spam folder, so I only just saw it.
+
+Best regards,
+Aisha Karim
+
+--- message 10 from Arjun (support) ---
+I've resent the confirmation email for ORD-77471 to the address on file. Our warehouse shows ORD-77471 left on schedule. I can see all the orders on your account, including ORD-77471. Loyalty points post about a week after an order is delivered.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

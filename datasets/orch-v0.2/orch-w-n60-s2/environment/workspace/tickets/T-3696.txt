@@ -1,0 +1,56 @@
+Ticket T-3696
+Customer: Ben Carter
+Orders on file: ORD-84686, ORD-77266, ORD-43115, ORD-24551
+Opened: 2026-05-05 via chat transcript
+
+Order details:
+ORD-84686  placed 2026-07-16  status: delivered  total: $121.40
+  payment method: card ending 7543  ship to: 466 Oak Ave
+  - blender x1
+  - gift wrap x2
+  - merino socks, size M x2
+ORD-77266  placed 2026-03-14  status: returned  total: $189.81
+  payment method: card ending 5577  ship to: 706 Elm Lane
+  - blender x1
+  - spare battery pack x2
+  - replacement filter cartridge, 3-pack x3
+  - travel pouch x1
+ORD-43115  placed 2026-08-27  status: label created  total: $48.33
+  payment method: card ending 1050  ship to: 56 Harbor Lane
+  - camping stove x1
+  - gift wrap x1
+  - replacement filter cartridge, 3-pack x1
+  - carabiner set x1
+  - extended warranty, 2 years x1
+ORD-24551  placed 2026-08-27  status: returned  total: $383.29
+  payment method: card ending 7489  ship to: 817 Mill St
+  - blender x1
+  - microfiber cloth x2
+  - stainless water bottle, 750ml x3
+
+--- message 1 from Ben Carter ---
+How do I reset my password? The reset link keeps expiring. The camping stove itself is great, for what it's worth. My partner placed ORD-84686 on our shared account, in case that matters. The confirmation email for ORD-43115 went to my spam folder, so I only just saw it.
+
+Ben Carter
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Luis (support) ---
+Screenshots aren't necessary, but thank you for offering. I've added a note to your account so the next agent has the context. Let me know if anything else looks off. I've resent the confirmation email for ORD-24551 to the address on file.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ben Carter ---
+Your app logged me out twice while I was looking at this, which didn't help. I've been a customer for a few years and usually everything goes smoothly. Is there a way to combine loyalty points from ORD-84686 with my next purchase? The box for ORD-84686 was a bit crushed but the contents were fine.
+
+Thanks,
+Ben Carter
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Luis (support) ---
+If you need an invoice for ORD-24551, you can download it from the Orders page. I've resent the confirmation email for ORD-43115 to the address on file. Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

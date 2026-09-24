@@ -1,0 +1,11 @@
+Ledger page P-5516
+
+account      amount   see page
+Abbott         -320   P-6525
+Grant          +427   P-1934
+Baker          -119   P-2126
+Jensen         -185   P-2884
+Silva          -610   P-3952
+Vance          -271   P-5863
+
+Follow the entry with the largest debit (the most negative amount).

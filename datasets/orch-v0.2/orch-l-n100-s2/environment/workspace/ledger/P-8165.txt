@@ -1,0 +1,11 @@
+Ledger page P-8165
+
+account      amount   see page
+Tanaka         -611   P-2928
+Jensen         -321   P-7353
+Weber          -758   P-9169
+Dunn            +82   P-8854
+Abbott         +244   P-5710
+Xu             +465   P-7989
+
+Follow the entry with the largest credit.

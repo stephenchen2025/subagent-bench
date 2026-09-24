@@ -1,0 +1,66 @@
+Ticket T-9924
+Customer: Amara Nwosu
+Orders on file: ORD-64238, ORD-86770, ORD-17437, ORD-91525
+Opened: 2026-04-22 via email
+
+Order details:
+ORD-64238  placed 2026-07-15  status: label created  total: $407.38
+  payment method: card ending 7881  ship to: 599 Cedar Lane
+  - camping stove x1
+  - carabiner set x1
+  - USB-C charging cable (2m) x1
+  - extended warranty, 2 years x2
+ORD-86770  placed 2026-01-01  status: delivered  total: $428.19
+  payment method: card ending 8098  ship to: 946 Elm Ave
+  - wool blanket x1
+  - extended warranty, 2 years x1
+  - carabiner set x2
+ORD-17437  placed 2026-06-28  status: delivered  total: $272.69
+  payment method: card ending 7610  ship to: 846 Elm Lane
+  - blender x1
+  - stainless water bottle, 750ml x1
+  - gift wrap x2
+ORD-91525  placed 2026-06-17  status: in transit  total: $253.38
+  payment method: card ending 9305  ship to: 45 Mill Rd
+  - blender x1
+  - travel pouch x3
+  - extended warranty, 2 years x2
+
+--- message 1 from Amara Nwosu ---
+The noise-cancelling headphones from ORD-17437 arrived with a scratch on the side. Can I get a replacement? I'm travelling next week, so email is the best way to reach me. The box for ORD-64238 was a bit crushed but the contents were fine. Could you also tell me whether ORD-17437 qualifies for the extended return window?
+
+Best regards,
+Amara Nwosu
+
+--- message 2 from Marcus (support) ---
+Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-64238, you can download it from the Orders page. I've resent the confirmation email for ORD-64238 to the address on file. Tracking updates can lag by a day or two with this carrier.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Amara Nwosu ---
+Could you also tell me whether ORD-17437 qualifies for the extended return window? Tracking for ORD-64238 hasn't updated since Tuesday. I'd rather not call; the hold times last time were very long. I'm happy to send screenshots if that helps.
+
+Amara Nwosu
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Marcus (support) ---
+I've resent the confirmation email for ORD-17437 to the address on file. If you need an invoice for ORD-17437, you can download it from the Orders page. Loyalty points post about a week after an order is delivered. Thanks for reaching out, and sorry for the trouble.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Amara Nwosu ---
+Tracking for ORD-17437 hasn't updated since Tuesday. I tried the chat widget first but it kept disconnecting. My partner placed ORD-17437 on our shared account, in case that matters. The box for ORD-86770 was a bit crushed but the contents were fine.
+
+Best regards,
+Amara Nwosu
+
+--- message 6 from Marcus (support) ---
+I can see all the orders on your account, including ORD-17437. Let me know if anything else looks off. For ORD-86770, the return window is 30 days from delivery. Loyalty points post about a week after an order is delivered.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

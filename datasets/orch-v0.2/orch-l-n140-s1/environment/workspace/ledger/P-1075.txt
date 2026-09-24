@@ -1,0 +1,11 @@
+Ledger page P-1075
+
+account      amount   see page
+Castillo       -268   P-4515
+Young          +216   P-8046
+Umar           +599   P-1820
+Ibarra         -774   P-7569
+Zhou           +852   P-3753
+Silva          +292   P-4327
+
+Follow the debit belonging to the account that comes last alphabetically.

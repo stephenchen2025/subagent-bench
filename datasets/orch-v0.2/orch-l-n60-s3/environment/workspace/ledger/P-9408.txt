@@ -1,0 +1,11 @@
+Ledger page P-9408
+
+account      amount   see page
+Xu             -131   P-1781
+Silva          +593   P-2618
+Quinn          +428   P-2768
+Dunn           +743   P-6178
+Rahman         -499   P-3041
+Vance          -562   P-1773
+
+Follow the debit belonging to the account that comes last alphabetically.

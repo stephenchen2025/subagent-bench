@@ -1,0 +1,11 @@
+Ledger page P-1749
+
+account      amount   see page
+Hughes         -228   P-3172
+Jensen          +54   P-6700
+Umar            +47   P-9683
+Zhou           +771   P-1599
+Ibarra          +58   P-4429
+Kowalski       +758   P-7013
+
+Follow the debit belonging to the account that comes last alphabetically.

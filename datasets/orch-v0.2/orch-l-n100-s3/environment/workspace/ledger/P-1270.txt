@@ -1,0 +1,10 @@
+Ledger page P-1270
+
+account      amount   see page
+Tanaka         -754   P-9024
+Jensen         +342   P-8976
+Fofana         -711   P-8816
+Lambert        -363   P-7987
+Silva           +84   P-5661
+
+Follow the entry with the largest debit (the most negative amount).

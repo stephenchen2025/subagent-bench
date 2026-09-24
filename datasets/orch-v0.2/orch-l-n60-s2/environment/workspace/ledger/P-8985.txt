@@ -1,0 +1,11 @@
+Ledger page P-8985
+
+account      amount   see page
+Castillo       +444   P-1331
+Vance          +740   P-7369
+Xu             +393   P-7795
+Hughes         -645   P-5223
+Baker          +442   P-1032
+Weber           -58   P-7013
+
+Follow the entry with the largest credit.

@@ -1,0 +1,10 @@
+Ledger page P-9150
+
+account      amount   see page
+Fofana         +113   P-2704
+Jensen         -509   P-3574
+Castillo       -746   P-8071
+Tanaka         +211   P-6557
+Zhou           +767   P-7760
+
+Follow the entry with the largest debit (the most negative amount).

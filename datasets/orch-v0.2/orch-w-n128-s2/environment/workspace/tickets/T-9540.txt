@@ -1,0 +1,89 @@
+Ticket T-9540
+Customer: Samir Patel
+Orders on file: ORD-49059, ORD-53205, ORD-97746, ORD-25401
+Opened: 2026-04-22 via web form
+
+Order details:
+ORD-49059  placed 2026-08-05  status: delivered  total: $129.53
+  payment method: card ending 9782  ship to: 150 Oak St
+  - camping stove x1
+  - USB-C charging cable (2m) x2
+  - spare battery pack x3
+  - extended warranty, 2 years x2
+ORD-53205  placed 2026-01-15  status: returned  total: $297.10
+  payment method: card ending 4378  ship to: 614 Harbor Lane
+  - bike light set x1
+  - replacement filter cartridge, 3-pack x1
+  - travel pouch x1
+ORD-97746  placed 2026-07-26  status: delivered  total: $379.07
+  payment method: card ending 1691  ship to: 26 Harbor Lane
+  - water filter pitcher x1
+  - extended warranty, 2 years x3
+  - USB-C charging cable (2m) x1
+  - stainless water bottle, 750ml x2
+ORD-25401  placed 2026-08-23  status: returned  total: $90.93
+  payment method: card ending 7893  ship to: 34 Elm Rd
+  - trail running shoes x1
+  - merino socks, size M x1
+  - gift wrap x2
+
+--- message 1 from Samir Patel ---
+Can I use a gift card on ORD-53205, or is it too late? Is there a way to combine loyalty points from ORD-25401 with my next purchase? Tracking for ORD-25401 hasn't updated since Tuesday. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Samir Patel
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Keiko (support) ---
+I've updated your shipping address on file. Loyalty points post about a week after an order is delivered. I can see all the orders on your account, including ORD-97746. For ORD-53205, the return window is 30 days from delivery.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Samir Patel ---
+I was billed twice for ORD-49059 -- same amount, same day. I've been a customer for a few years and usually everything goes smoothly. The confirmation email for ORD-53205 went to my spam folder, so I only just saw it.
+
+Best regards,
+Samir Patel
+
+--- message 4 from Keiko (support) ---
+If you need an invoice for ORD-25401, you can download it from the Orders page. I can see all the orders on your account, including ORD-97746. Loyalty points post about a week after an order is delivered.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Keiko (support) ---
+You're right, and I'm sorry. Our records show ORD-49059 was settled two times. I've refunded the duplicate. Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Samir Patel ---
+The confirmation email for ORD-53205 went to my spam folder, so I only just saw it. Could you also tell me whether ORD-97746 qualifies for the extended return window? My earlier order ORD-53205 arrived fine, no complaints there. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Samir Patel
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Keiko (support) ---
+Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble. I've resent the confirmation email for ORD-53205 to the address on file. Loyalty points post about a week after an order is delivered.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Samir Patel ---
+I changed my shipping address last month, so please double-check you have the new one. I tried the chat widget first but it kept disconnecting. Is there a way to combine loyalty points from ORD-97746 with my next purchase? Tracking for ORD-97746 hasn't updated since Tuesday.
+
+Best regards,
+Samir Patel
+
+--- message 9 from Keiko (support) ---
+Loyalty points post about a week after an order is delivered. Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble. I've resent the confirmation email for ORD-53205 to the address on file.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

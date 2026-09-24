@@ -1,0 +1,11 @@
+Ledger page P-5159
+
+account      amount   see page
+Hughes         -127   P-4925
+Ibarra         +336   P-8278
+Moreau         +673   P-1655
+Park           -399   P-9301
+Dunn           +866   P-7254
+Grant          -306   P-6841
+
+Follow the credit belonging to the account that comes first alphabetically.

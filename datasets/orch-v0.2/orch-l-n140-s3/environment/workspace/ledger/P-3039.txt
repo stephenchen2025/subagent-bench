@@ -1,0 +1,12 @@
+Ledger page P-3039
+
+account      amount   see page
+Quinn          -267   P-5128
+Young          +374   P-8244
+Baker          +816   P-3026
+Abbott         -723   P-3879
+Rahman         +663   P-2232
+Jensen          +71   P-7812
+Zhou           +236   P-8777
+
+Follow the entry whose amount is closest to zero.

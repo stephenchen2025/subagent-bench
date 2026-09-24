@@ -1,0 +1,11 @@
+Ledger page P-7457
+
+account      amount   see page
+Rahman         +497   P-8428
+Young          +828   P-2880
+Dunn           -417   P-2723
+Hughes         +171   P-9653
+Weber           +63   P-4810
+Abbott         -127   P-1679
+
+Follow the debit belonging to the account that comes last alphabetically.

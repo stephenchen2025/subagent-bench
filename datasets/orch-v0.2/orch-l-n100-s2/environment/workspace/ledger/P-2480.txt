@@ -1,0 +1,11 @@
+Ledger page P-2480
+
+account      amount   see page
+Abbott         -137   P-7222
+Park           -249   P-4623
+Weber           -28   P-2190
+Jensen         +477   P-2077
+Hughes         -692   P-1406
+Rahman         -777   P-4360
+
+Follow the entry with the second-largest amount.

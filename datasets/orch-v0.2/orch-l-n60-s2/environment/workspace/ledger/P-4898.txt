@@ -1,0 +1,12 @@
+Ledger page P-4898
+
+account      amount   see page
+Baker           +35   P-2745
+Zhou           -811   P-5014
+Ibarra         +667   P-1332
+Tanaka         +592   P-6962
+Hughes         +290   P-9525
+Umar           -898   P-7097
+Eriksen        -874   P-3475
+
+Follow the entry with the second-largest amount.

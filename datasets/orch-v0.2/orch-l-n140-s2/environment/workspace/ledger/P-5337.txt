@@ -1,0 +1,10 @@
+Ledger page P-5337
+
+account      amount   see page
+Lambert        +103   P-5945
+Umar           -221   P-5854
+Moreau         +732   P-1653
+Fofana         -240   P-8493
+Abbott         +529   P-1108
+
+Follow the debit belonging to the account that comes last alphabetically.

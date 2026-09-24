@@ -1,0 +1,12 @@
+Ledger page P-8913
+
+account      amount   see page
+Baker          +864   P-9337
+Osei             -5   P-5118
+Young          -361   P-2228
+Quinn           -51   P-5973
+Jensen         -511   P-3473
+Rahman         -395   P-8935
+Dunn           -659   P-8896
+
+Follow the entry with the second-largest amount.

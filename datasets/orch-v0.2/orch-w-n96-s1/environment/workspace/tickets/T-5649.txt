@@ -1,0 +1,80 @@
+Ticket T-5649
+Customer: Priya Raman
+Orders on file: ORD-36550, ORD-24059, ORD-22173, ORD-29141
+Opened: 2026-06-04 via web form
+
+Order details:
+ORD-36550  placed 2026-02-09  status: in transit  total: $74.79
+  payment method: card ending 3715  ship to: 114 Cedar Lane
+  - rain jacket x1
+  - travel pouch x2
+  - replacement filter cartridge, 3-pack x3
+  - gift wrap x2
+  - USB-C charging cable (2m) x2
+ORD-24059  placed 2026-05-23  status: returned  total: $246.21
+  payment method: card ending 4746  ship to: 497 Elm Rd
+  - carry-on suitcase x1
+  - extended warranty, 2 years x2
+  - microfiber cloth x2
+  - carabiner set x1
+ORD-22173  placed 2026-05-14  status: in transit  total: $23.38
+  payment method: card ending 3767  ship to: 170 Mill Rd
+  - blender x1
+  - spare battery pack x1
+  - stainless water bottle, 750ml x1
+  - carabiner set x3
+ORD-29141  placed 2026-08-06  status: in transit  total: $150.21
+  payment method: card ending 7615  ship to: 434 Elm Lane
+  - bike light set x1
+  - spare battery pack x2
+  - USB-C charging cable (2m) x2
+  - stainless water bottle, 750ml x1
+  - microfiber cloth x2
+
+--- message 1 from Priya Raman ---
+I'd like to return the camping stove from ORD-22173; it's the wrong size. I changed my shipping address last month, so please double-check you have the new one. I'd rather not call; the hold times last time were very long. The confirmation email for ORD-29141 went to my spam folder, so I only just saw it.
+
+Thanks,
+Priya Raman
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Arjun (support) ---
+Tracking updates can lag by a day or two with this carrier. Loyalty points post about a week after an order is delivered. I can see all the orders on your account, including ORD-29141. For ORD-22173, the return window is 30 days from delivery.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Priya Raman ---
+My card was charged two times for order ORD-24059. I'm travelling next week, so email is the best way to reach me. The mechanical keyboard itself is great, for what it's worth.
+
+Thanks,
+Priya Raman
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Arjun (support) ---
+Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-22173 to the address on file. Thanks for reaching out, and sorry for the trouble.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Arjun (support) ---
+Confirmed on our side -- ORD-24059 was captured twice by a retry in our checkout. One refund of $421.65 is on its way to you. Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Priya Raman ---
+I'm travelling next week, so email is the best way to reach me. Tracking for ORD-22173 hasn't updated since Tuesday. My earlier order ORD-29141 arrived fine, no complaints there. Your app logged me out twice while I was looking at this, which didn't help.
+
+Priya Raman
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Arjun (support) ---
+I've added a note to your account so the next agent has the context. Our warehouse shows ORD-22173 left on schedule. Tracking updates can lag by a day or two with this carrier. For ORD-36550, the return window is 30 days from delivery.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

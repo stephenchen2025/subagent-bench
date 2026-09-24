@@ -1,0 +1,11 @@
+Ledger page P-3452
+
+account      amount   see page
+Park           -558   P-8489
+Jensen         -577   P-7093
+Weber          -194   P-4279
+Grant          +150   P-5075
+Kowalski       +693   P-1149
+Silva          +126   P-9617
+
+Follow the entry with the second-largest amount.

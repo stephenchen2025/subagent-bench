@@ -1,0 +1,11 @@
+Ledger page P-6406
+
+account      amount   see page
+Young          -741   P-3264
+Castillo       -389   P-4853
+Vance          +668   P-8229
+Jensen         -111   P-4621
+Silva          -888   P-7211
+Hughes          -53   P-8278
+
+Follow the credit belonging to the account that comes first alphabetically.

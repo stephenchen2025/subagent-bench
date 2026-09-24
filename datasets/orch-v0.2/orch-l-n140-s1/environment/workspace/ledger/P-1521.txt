@@ -1,0 +1,10 @@
+Ledger page P-1521
+
+account      amount   see page
+Nakamura       +680   P-8856
+Moreau         -303   P-3519
+Xu             +676   P-5733
+Weber           +61   P-2311
+Hughes         -339   P-1536
+
+Follow the entry with the second-largest amount.

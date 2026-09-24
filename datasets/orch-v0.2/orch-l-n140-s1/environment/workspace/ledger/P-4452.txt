@@ -1,0 +1,12 @@
+Ledger page P-4452
+
+account      amount   see page
+Rahman         +212   P-4197
+Nakamura       +214   P-5320
+Grant          +718   P-7446
+Kowalski       -342   P-4588
+Eriksen        -716   P-1340
+Park           -183   P-3148
+Young          +630   P-3926
+
+Follow the credit belonging to the account that comes first alphabetically.

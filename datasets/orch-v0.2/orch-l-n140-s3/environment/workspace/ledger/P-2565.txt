@@ -1,0 +1,12 @@
+Ledger page P-2565
+
+account      amount   see page
+Abbott         -364   P-1001
+Park           +858   P-4038
+Silva           +78   P-3236
+Rahman          +99   P-6129
+Moreau         +218   P-9346
+Quinn          +499   P-2859
+Xu             -667   P-9427
+
+Follow the entry with the largest debit (the most negative amount).

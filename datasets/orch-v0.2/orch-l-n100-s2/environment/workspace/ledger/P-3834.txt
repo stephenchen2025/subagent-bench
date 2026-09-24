@@ -1,0 +1,11 @@
+Ledger page P-3834
+
+account      amount   see page
+Nakamura       +391   P-6065
+Umar           +706   P-4151
+Kowalski         -1   P-8857
+Castillo        -36   P-2941
+Rahman         +591   P-4086
+Xu             -771   P-4263
+
+Follow the credit belonging to the account that comes first alphabetically.

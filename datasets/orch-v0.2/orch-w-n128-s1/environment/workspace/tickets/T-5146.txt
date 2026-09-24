@@ -1,0 +1,85 @@
+Ticket T-5146
+Customer: Noah Fischer
+Orders on file: ORD-63250, ORD-19673, ORD-67213, ORD-87921
+Opened: 2026-08-14 via web form
+
+Order details:
+ORD-63250  placed 2026-08-24  status: delivered  total: $360.32
+  payment method: card ending 4415  ship to: 523 Harbor Rd
+  - espresso grinder x1
+  - gift wrap x3
+  - travel pouch x1
+  - replacement filter cartridge, 3-pack x1
+  - microfiber cloth x2
+ORD-19673  placed 2026-02-21  status: delivered  total: $29.85
+  payment method: card ending 3847  ship to: 492 Mill St
+  - noise-cancelling headphones x1
+  - merino socks, size M x2
+  - replacement filter cartridge, 3-pack x3
+  - extended warranty, 2 years x1
+ORD-67213  placed 2026-07-20  status: returned  total: $393.53
+  payment method: card ending 3936  ship to: 129 Oak Ave
+  - camping stove x1
+  - stainless water bottle, 750ml x1
+  - spare battery pack x1
+  - extended warranty, 2 years x3
+ORD-87921  placed 2026-07-21  status: delivered  total: $337.26
+  payment method: card ending 5259  ship to: 34 Oak Rd
+  - rain jacket x1
+  - microfiber cloth x2
+  - spare battery pack x3
+  - merino socks, size M x3
+  - travel pouch x2
+
+--- message 1 from Noah Fischer ---
+I'd like to return the water filter pitcher from ORD-67213; it's the wrong size. I tried the chat widget first but it kept disconnecting. The yoga mat itself is great, for what it's worth. Your app logged me out twice while I was looking at this, which didn't help.
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Arjun (support) ---
+Loyalty points post about a week after an order is delivered. I've updated your shipping address on file. I can see all the orders on your account, including ORD-19673. Let me know if anything else looks off.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Noah Fischer ---
+Unrelated, but my bank double-charged me at a coffee shop last week, so I'm checking every line carefully now. Anyway, my actual question is about delivery for ORD-87921. Tracking for ORD-67213 hasn't updated since Tuesday. The water filter pitcher itself is great, for what it's worth.
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Arjun (support) ---
+For ORD-19673, the return window is 30 days from delivery. I can see all the orders on your account, including ORD-63250. Screenshots aren't necessary, but thank you for offering.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Noah Fischer ---
+My earlier order ORD-19673 arrived fine, no complaints there. The box for ORD-67213 was a bit crushed but the contents were fine. Could you also tell me whether ORD-67213 qualifies for the extended return window? I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Noah Fischer
+
+--- message 6 from Arjun (support) ---
+Loyalty points post about a week after an order is delivered. I can see all the orders on your account, including ORD-63250. I've updated your shipping address on file. Let me know if anything else looks off.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Noah Fischer ---
+Your app logged me out twice while I was looking at this, which didn't help. Tracking for ORD-19673 hasn't updated since Tuesday. I'd rather not call; the hold times last time were very long. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Noah Fischer
+
+--- message 8 from Arjun (support) ---
+Our warehouse shows ORD-19673 left on schedule. Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off. I've resent the confirmation email for ORD-67213 to the address on file.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

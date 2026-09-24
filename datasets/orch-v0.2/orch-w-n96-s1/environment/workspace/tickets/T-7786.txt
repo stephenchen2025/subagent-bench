@@ -1,0 +1,74 @@
+Ticket T-7786
+Customer: Diego Alvarez
+Orders on file: ORD-93463, ORD-20097, ORD-91933, ORD-92710
+Opened: 2026-01-28 via email
+
+Order details:
+ORD-93463  placed 2026-06-02  status: returned  total: $336.71
+  payment method: card ending 6082  ship to: 839 Cedar Lane
+  - yoga mat x1
+  - microfiber cloth x3
+  - carabiner set x2
+  - spare battery pack x3
+  - USB-C charging cable (2m) x2
+ORD-20097  placed 2026-07-21  status: delivered  total: $212.95
+  payment method: card ending 6779  ship to: 483 Cedar Rd
+  - blender x1
+  - carabiner set x1
+  - merino socks, size M x1
+  - stainless water bottle, 750ml x2
+ORD-91933  placed 2026-06-11  status: in transit  total: $226.61
+  payment method: card ending 7138  ship to: 556 Mill St
+  - rain jacket x1
+  - microfiber cloth x1
+  - spare battery pack x3
+  - extended warranty, 2 years x2
+ORD-92710  placed 2026-08-09  status: delivered  total: $119.22
+  payment method: card ending 7585  ship to: 453 Harbor Ave
+  - standing desk x1
+  - USB-C charging cable (2m) x2
+  - replacement filter cartridge, 3-pack x3
+  - merino socks, size M x2
+  - microfiber cloth x2
+
+--- message 1 from Diego Alvarez ---
+I need to change the delivery address for ORD-20097 before it ships. I'm happy to send screenshots if that helps. Could you also tell me whether ORD-20097 qualifies for the extended return window? Is there a way to combine loyalty points from ORD-20097 with my next purchase?
+
+Thanks,
+Diego Alvarez
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Rosa (support) ---
+I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-93463 to the address on file. I can see all the orders on your account, including ORD-20097. Screenshots aren't necessary, but thank you for offering.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Diego Alvarez ---
+Your app logged me out twice while I was looking at this, which didn't help. I've been a customer for a few years and usually everything goes smoothly. I'm happy to send screenshots if that helps. The box for ORD-20097 was a bit crushed but the contents were fine.
+
+Thanks,
+Diego Alvarez
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Rosa (support) ---
+Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-20097 left on schedule. If you need an invoice for ORD-93463, you can download it from the Orders page. Screenshots aren't necessary, but thank you for offering.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Diego Alvarez ---
+My earlier order ORD-93463 arrived fine, no complaints there. Your app logged me out twice while I was looking at this, which didn't help. I changed my shipping address last month, so please double-check you have the new one. Could you also tell me whether ORD-20097 qualifies for the extended return window?
+
+Thanks,
+Diego Alvarez
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Rosa (support) ---
+Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier. I've updated your shipping address on file. Our warehouse shows ORD-93463 left on schedule.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

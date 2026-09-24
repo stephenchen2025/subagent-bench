@@ -1,0 +1,12 @@
+Ledger page P-3326
+
+account      amount   see page
+Fofana         -371   P-6378
+Nakamura        -19   P-5136
+Osei           -825   P-3914
+Baker          -673   P-9916
+Ibarra         -159   P-7523
+Castillo        +26   P-3232
+Hughes         -431   P-7424
+
+Follow the entry with the second-largest amount.

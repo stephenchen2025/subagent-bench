@@ -1,0 +1,81 @@
+Ticket T-3726
+Customer: Aisha Karim
+Orders on file: ORD-82798, ORD-76731, ORD-90427, ORD-51336
+Opened: 2026-01-04 via chat transcript
+
+Order details:
+ORD-82798  placed 2026-04-19  status: delivered  total: $362.85
+  payment method: card ending 9336  ship to: 545 Oak St
+  - blender x1
+  - gift wrap x3
+  - spare battery pack x1
+ORD-76731  placed 2026-08-28  status: returned  total: $79.11
+  payment method: card ending 2212  ship to: 29 Oak St
+  - mechanical keyboard x1
+  - replacement filter cartridge, 3-pack x1
+  - extended warranty, 2 years x1
+ORD-90427  placed 2026-07-02  status: in transit  total: $357.71
+  payment method: card ending 7066  ship to: 54 Harbor Ave
+  - yoga mat x1
+  - replacement filter cartridge, 3-pack x3
+  - stainless water bottle, 750ml x3
+  - gift wrap x2
+  - extended warranty, 2 years x1
+ORD-51336  placed 2026-04-16  status: label created  total: $81.72
+  payment method: card ending 4968  ship to: 643 Elm Lane
+  - espresso grinder x1
+  - microfiber cloth x3
+  - USB-C charging cable (2m) x1
+
+--- message 1 from Aisha Karim ---
+Can I use a gift card on ORD-51336, or is it too late? I'm happy to send screenshots if that helps. Could you also tell me whether ORD-51336 qualifies for the extended return window? Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Aisha Karim
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Marcus (support) ---
+I can see all the orders on your account, including ORD-51336. I've resent the confirmation email for ORD-51336 to the address on file. Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Aisha Karim ---
+Unrelated, but my online banking double-charged me at a coffee shop last week, so I'm checking every line carefully now. Anyway, my actual question is about delivery for ORD-76731. Tracking for ORD-82798 hasn't updated since Tuesday. The standing desk itself is great, for what it's worth.
+
+Best regards,
+Aisha Karim
+
+--- message 4 from Marcus (support) ---
+Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-90427 left on schedule.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Aisha Karim ---
+The box for ORD-82798 was a bit crushed but the contents were fine. I tried the chat widget first but it kept disconnecting. My partner placed ORD-51336 on our shared account, in case that matters. Tracking for ORD-51336 hasn't updated since Tuesday.
+
+Best regards,
+Aisha Karim
+
+--- message 6 from Marcus (support) ---
+Screenshots aren't necessary, but thank you for offering. Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context. For ORD-82798, the return window is 30 days from delivery.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Aisha Karim ---
+My earlier order ORD-82798 arrived fine, no complaints there. Is there a way to combine loyalty points from ORD-82798 with my next purchase? The espresso grinder itself is great, for what it's worth. My partner placed ORD-90427 on our shared account, in case that matters.
+
+Best regards,
+Aisha Karim
+
+--- message 8 from Marcus (support) ---
+Our warehouse shows ORD-51336 left on schedule. I've updated your shipping address on file. Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

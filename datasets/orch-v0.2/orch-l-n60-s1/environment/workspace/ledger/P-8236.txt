@@ -1,0 +1,11 @@
+Ledger page P-8236
+
+account      amount   see page
+Castillo       -243   P-8318
+Baker          +217   P-6342
+Silva          -246   P-5226
+Lambert        -857   P-8236
+Grant          +810   P-2855
+Weber          -572   P-7614
+
+Follow the credit belonging to the account that comes first alphabetically.

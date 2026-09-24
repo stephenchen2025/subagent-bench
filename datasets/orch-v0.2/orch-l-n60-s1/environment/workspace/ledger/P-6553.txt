@@ -1,0 +1,12 @@
+Ledger page P-6553
+
+account      amount   see page
+Lambert        -603   P-2361
+Ibarra         +384   P-4852
+Rahman         +553   P-1567
+Park           -575   P-8823
+Tanaka         -618   P-6020
+Umar           +312   P-4275
+Weber          +164   P-8657
+
+Follow the credit belonging to the account that comes first alphabetically.

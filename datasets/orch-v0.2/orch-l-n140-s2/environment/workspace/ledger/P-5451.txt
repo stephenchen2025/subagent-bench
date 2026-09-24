@@ -1,0 +1,10 @@
+Ledger page P-5451
+
+account      amount   see page
+Hughes         -663   P-8264
+Grant          +503   P-6433
+Quinn          +187   P-2019
+Xu             +559   P-1412
+Lambert        +844   P-9923
+
+Follow the entry whose amount is closest to zero.

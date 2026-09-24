@@ -1,0 +1,11 @@
+Ledger page P-3026
+
+account      amount   see page
+Jensen          -87   P-9305
+Grant          -568   P-1757
+Quinn          -801   P-2031
+Umar           -319   P-3828
+Osei           +641   P-8010
+Park           -605   P-4963
+
+Follow the entry with the largest debit (the most negative amount).

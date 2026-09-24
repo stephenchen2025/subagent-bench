@@ -1,0 +1,10 @@
+Ledger page P-8817
+
+account      amount   see page
+Nakamura       -689   P-3659
+Tanaka         -377   P-7667
+Silva          -484   P-8282
+Kowalski       -535   P-6824
+Young          +607   P-8874
+
+Follow the entry with the largest credit.

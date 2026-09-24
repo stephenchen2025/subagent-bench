@@ -1,0 +1,12 @@
+Ledger page P-8619
+
+account      amount   see page
+Xu             +707   P-2178
+Hughes         -212   P-1235
+Park           -117   P-1382
+Young          -305   P-1695
+Weber          +524   P-9213
+Zhou           +267   P-2495
+Castillo       +598   P-6914
+
+Follow the entry whose amount is closest to zero.

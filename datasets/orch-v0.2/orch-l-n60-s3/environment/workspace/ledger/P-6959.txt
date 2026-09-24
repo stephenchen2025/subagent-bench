@@ -1,0 +1,10 @@
+Ledger page P-6959
+
+account      amount   see page
+Abbott         +347   P-1723
+Baker          +322   P-5485
+Xu             -196   P-4371
+Silva          -265   P-9770
+Rahman         +435   P-3510
+
+Follow the entry with the largest credit.

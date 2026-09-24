@@ -1,0 +1,12 @@
+Ledger page P-3044
+
+account      amount   see page
+Castillo       +522   P-2263
+Nakamura       +891   P-9346
+Lambert        -178   P-1001
+Weber          +165   P-8826
+Osei           +517   P-4173
+Abbott         +487   P-7500
+Zhou           +171   P-4343
+
+Follow the entry whose amount is closest to zero.

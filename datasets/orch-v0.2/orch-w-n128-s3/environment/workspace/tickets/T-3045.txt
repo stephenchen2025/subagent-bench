@@ -1,0 +1,77 @@
+Ticket T-3045
+Customer: Felix Wagner
+Orders on file: ORD-98473, ORD-95483, ORD-80028, ORD-79818
+Opened: 2026-08-06 via web form
+
+Order details:
+ORD-98473  placed 2026-05-22  status: label created  total: $171.28
+  payment method: card ending 9151  ship to: 697 Elm Ave
+  - bike light set x1
+  - carabiner set x3
+  - microfiber cloth x3
+  - USB-C charging cable (2m) x2
+  - travel pouch x1
+ORD-95483  placed 2026-05-04  status: delivered  total: $99.17
+  payment method: card ending 8462  ship to: 29 Mill Ave
+  - espresso grinder x1
+  - stainless water bottle, 750ml x2
+  - USB-C charging cable (2m) x3
+  - travel pouch x1
+ORD-80028  placed 2026-05-21  status: in transit  total: $184.54
+  payment method: card ending 1031  ship to: 137 Cedar Ave
+  - noise-cancelling headphones x1
+  - USB-C charging cable (2m) x1
+  - microfiber cloth x3
+  - stainless water bottle, 750ml x1
+  - spare battery pack x2
+ORD-79818  placed 2026-08-26  status: delivered  total: $123.54
+  payment method: card ending 4413  ship to: 260 Mill Lane
+  - standing desk x1
+  - carabiner set x2
+  - travel pouch x3
+
+--- message 1 from Felix Wagner ---
+Where is my refund for ORD-98473? You said 5 days and it has been 8. I'm happy to send screenshots if that helps. I tried the chat widget first but it kept disconnecting. I'm travelling next week, so email is the best way to reach me.
+
+Felix Wagner
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Rosa (support) ---
+If you need an invoice for ORD-98473, you can download it from the Orders page. Thanks for reaching out, and sorry for the trouble. I've updated your shipping address on file. Screenshots aren't necessary, but thank you for offering.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Felix Wagner ---
+Before I retry the payment on ORD-80028 -- is there any risk of a double charge? I'd rather not call; the hold times last time were very long. My partner placed ORD-79818 on our shared account, in case that matters.
+
+Felix Wagner
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Rosa (support) ---
+I've resent the confirmation email for ORD-98473 to the address on file. If you need an invoice for ORD-98473, you can download it from the Orders page. Thanks for reaching out, and sorry for the trouble.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Rosa (support) ---
+Retrying is safe. Our system blocks a second capture on ORD-80028, so a double charge can't happen. Loyalty points post about a week after an order is delivered. If you need an invoice for ORD-98473, you can download it from the Orders page.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Felix Wagner ---
+Could you also tell me whether ORD-98473 qualifies for the extended return window? Is there a way to combine loyalty points from ORD-79818 with my next purchase? I'm happy to send screenshots if that helps. I tried the chat widget first but it kept disconnecting.
+
+Felix Wagner
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Rosa (support) ---
+Let me know if anything else looks off. I can see all the orders on your account, including ORD-98473. For ORD-95483, the return window is 30 days from delivery. I've updated your shipping address on file.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

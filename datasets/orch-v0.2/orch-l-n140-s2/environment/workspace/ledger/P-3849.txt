@@ -1,0 +1,10 @@
+Ledger page P-3849
+
+account      amount   see page
+Quinn          +818   P-6654
+Fofana         +439   P-6839
+Dunn           +138   P-1825
+Baker          +411   P-5242
+Grant          -733   P-4112
+
+Follow the entry with the largest credit.

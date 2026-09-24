@@ -1,0 +1,10 @@
+Ledger page P-8717
+
+account      amount   see page
+Moreau         +235   P-5287
+Osei           -493   P-8145
+Vance          -290   P-7553
+Weber          -581   P-6572
+Grant          -474   P-2884
+
+Follow the credit belonging to the account that comes first alphabetically.

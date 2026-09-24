@@ -1,0 +1,12 @@
+Ledger page P-5070
+
+account      amount   see page
+Vance          -624   P-7537
+Rahman         +469   P-4371
+Tanaka          -29   P-1502
+Baker          +680   P-1930
+Park           +810   P-3623
+Nakamura       -574   P-3047
+Moreau         +522   P-2917
+
+Follow the entry with the second-largest amount.

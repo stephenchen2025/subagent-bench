@@ -1,0 +1,86 @@
+Ticket T-6902
+Customer: Diego Alvarez
+Orders on file: ORD-97202, ORD-21932, ORD-97298, ORD-32966
+Opened: 2026-05-13 via web form
+
+Order details:
+ORD-97202  placed 2026-01-14  status: in transit  total: $44.12
+  payment method: card ending 6805  ship to: 336 Oak Rd
+  - cast iron skillet x1
+  - microfiber cloth x1
+  - gift wrap x1
+  - carabiner set x1
+  - merino socks, size M x3
+ORD-21932  placed 2026-07-12  status: delivered  total: $436.75
+  payment method: card ending 8741  ship to: 618 Oak St
+  - standing desk x1
+  - travel pouch x1
+  - extended warranty, 2 years x1
+  - stainless water bottle, 750ml x3
+ORD-97298  placed 2026-05-23  status: delivered  total: $298.36
+  payment method: card ending 7645  ship to: 140 Mill St
+  - noise-cancelling headphones x1
+  - carabiner set x2
+  - merino socks, size M x1
+ORD-32966  placed 2026-01-06  status: delivered  total: $60.25
+  payment method: card ending 9294  ship to: 327 Elm Lane
+  - cast iron skillet x1
+  - stainless water bottle, 750ml x3
+  - extended warranty, 2 years x3
+  - replacement filter cartridge, 3-pack x2
+  - carabiner set x3
+
+--- message 1 from Diego Alvarez ---
+The noise-cancelling headphones from ORD-97202 arrived with a scratch on the side. Can I get a replacement? My earlier order ORD-97298 arrived fine, no complaints there. The box for ORD-32966 was a bit crushed but the contents were fine. My partner placed ORD-97202 on our shared account, in case that matters.
+
+Best regards,
+Diego Alvarez
+
+--- message 2 from Keiko (support) ---
+If you need an invoice for ORD-97202, you can download it from the Orders page. I've resent the confirmation email for ORD-97202 to the address on file. For ORD-32966, the return window is 30 days from delivery. Let me know if anything else looks off.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Diego Alvarez ---
+Something looks off with ORD-21932: I see what might be a second payment. Could you also tell me whether ORD-97298 qualifies for the extended return window? Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Diego Alvarez
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Keiko (support) ---
+I've resent the confirmation email for ORD-32966 to the address on file. For ORD-97298, the return window is 30 days from delivery. Tracking updates can lag by a day or two with this carrier.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Diego Alvarez ---
+Just checked again -- both charges for ORD-21932 are settled now, not pending. I've been a customer for a few years and usually everything goes smoothly. The mechanical keyboard itself is great, for what it's worth.
+
+Thanks,
+Diego Alvarez
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Keiko (support) ---
+I've checked with our payments team: both captures for ORD-21932 settled, so you were genuinely charged twice. I've issued a refund for the second one; it should show within 3-5 business days. Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Diego Alvarez ---
+My earlier order ORD-97298 arrived fine, no complaints there. Your app logged me out twice while I was looking at this, which didn't help. Is there a way to combine loyalty points from ORD-97298 with my next purchase? The yoga mat itself is great, for what it's worth.
+
+Thanks,
+Diego Alvarez
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Keiko (support) ---
+Loyalty points post about a week after an order is delivered. I can see all the orders on your account, including ORD-97202. I've updated your shipping address on file. Let me know if anything else looks off.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

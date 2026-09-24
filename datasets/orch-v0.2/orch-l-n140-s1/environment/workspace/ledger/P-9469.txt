@@ -1,0 +1,11 @@
+Ledger page P-9469
+
+account      amount   see page
+Castillo       +127   P-4075
+Quinn          -287   P-1075
+Osei           +889   P-4305
+Dunn           +634   P-2610
+Park           +828   P-5215
+Rahman          -29   P-5336
+
+Follow the debit belonging to the account that comes last alphabetically.

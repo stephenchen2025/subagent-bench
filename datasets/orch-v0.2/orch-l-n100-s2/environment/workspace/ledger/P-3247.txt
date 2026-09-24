@@ -1,0 +1,12 @@
+Ledger page P-3247
+
+account      amount   see page
+Tanaka         -372   P-4704
+Osei           -697   P-1195
+Abbott         +610   P-1235
+Grant          +739   P-5642
+Jensen         +120   P-5476
+Silva          -598   P-7278
+Zhou           +421   P-4952
+
+Follow the entry with the largest debit (the most negative amount).

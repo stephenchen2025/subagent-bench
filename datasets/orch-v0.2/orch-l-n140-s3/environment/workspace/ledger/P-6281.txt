@@ -1,0 +1,10 @@
+Ledger page P-6281
+
+account      amount   see page
+Fofana         -893   P-9312
+Ibarra         -715   P-4309
+Abbott         -700   P-8278
+Rahman         -596   P-1928
+Weber          +132   P-6427
+
+Follow the entry with the second-largest amount.

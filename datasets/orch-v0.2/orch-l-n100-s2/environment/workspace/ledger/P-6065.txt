@@ -1,0 +1,10 @@
+Ledger page P-6065
+
+account      amount   see page
+Baker          +610   P-2073
+Osei           +771   P-3292
+Jensen         -341   P-9838
+Kowalski       +654   P-8832
+Abbott         -178   P-3955
+
+Follow the entry with the largest credit.

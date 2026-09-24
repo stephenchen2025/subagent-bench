@@ -1,0 +1,11 @@
+Ledger page P-8290
+
+account      amount   see page
+Grant          +646   P-1934
+Young          -778   P-9421
+Jensen         -340   P-5991
+Umar           +642   P-3029
+Tanaka         +447   P-5626
+Abbott         -224   P-3130
+
+Follow the debit belonging to the account that comes last alphabetically.

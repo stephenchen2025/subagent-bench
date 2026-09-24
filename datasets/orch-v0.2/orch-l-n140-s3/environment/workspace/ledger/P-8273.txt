@@ -1,0 +1,10 @@
+Ledger page P-8273
+
+account      amount   see page
+Weber          +331   P-4118
+Rahman         -423   P-6280
+Nakamura       +757   P-9312
+Castillo       +297   P-7037
+Baker          -876   P-9923
+
+Follow the entry with the largest credit.

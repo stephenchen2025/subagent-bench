@@ -1,0 +1,12 @@
+Ledger page P-8108
+
+account      amount   see page
+Umar           -426   P-5209
+Lambert        -296   P-5960
+Nakamura       +333   P-6207
+Grant          -460   P-1677
+Jensen         -858   P-6196
+Fofana         +886   P-9454
+Silva          +651   P-2776
+
+Follow the entry with the second-largest amount.

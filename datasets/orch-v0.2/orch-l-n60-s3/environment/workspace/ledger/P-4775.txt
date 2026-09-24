@@ -1,0 +1,10 @@
+Ledger page P-4775
+
+account      amount   see page
+Nakamura       +746   P-3230
+Castillo       -747   P-2277
+Abbott         -639   P-2402
+Eriksen        -690   P-1648
+Lambert        -880   P-5925
+
+Follow the credit belonging to the account that comes first alphabetically.

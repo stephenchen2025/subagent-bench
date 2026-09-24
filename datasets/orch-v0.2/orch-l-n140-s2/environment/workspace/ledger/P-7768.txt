@@ -1,0 +1,11 @@
+Ledger page P-7768
+
+account      amount   see page
+Lambert        -509   P-8443
+Hughes         -262   P-8328
+Baker          +546   P-4316
+Xu             +127   P-1122
+Jensen         +401   P-3548
+Abbott         -882   P-4963
+
+Follow the entry with the largest credit.

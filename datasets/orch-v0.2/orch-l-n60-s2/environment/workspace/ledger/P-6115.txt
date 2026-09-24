@@ -1,0 +1,10 @@
+Ledger page P-6115
+
+account      amount   see page
+Baker          +329   P-2643
+Tanaka         -316   P-7424
+Ibarra         -509   P-8187
+Lambert        -145   P-3369
+Kowalski       -536   P-8410
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,10 @@
+Ledger page P-5727
+
+account      amount   see page
+Jensen         +563   P-7664
+Umar           -252   P-9359
+Silva          -585   P-7759
+Fofana         -820   P-1299
+Hughes         -436   P-9452
+
+Follow the entry with the largest debit (the most negative amount).

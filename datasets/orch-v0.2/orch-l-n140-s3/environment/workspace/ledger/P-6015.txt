@@ -1,0 +1,11 @@
+Ledger page P-6015
+
+account      amount   see page
+Jensen         -429   P-2698
+Fofana         -755   P-5120
+Lambert        +121   P-6581
+Quinn          +447   P-1579
+Dunn           -775   P-9705
+Umar           +697   P-9080
+
+Follow the entry with the largest debit (the most negative amount).

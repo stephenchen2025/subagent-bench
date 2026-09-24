@@ -1,0 +1,10 @@
+Ledger page P-9443
+
+account      amount   see page
+Kowalski       -362   P-8621
+Jensen         +267   P-3417
+Umar           +449   P-8816
+Zhou           +333   P-1597
+Abbott         +712   P-5733
+
+Follow the entry whose amount is closest to zero.

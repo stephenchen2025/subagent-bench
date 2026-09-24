@@ -1,0 +1,12 @@
+Ledger page P-8854
+
+account      amount   see page
+Lambert        +287   P-6065
+Silva          -342   P-9169
+Fofana         -582   P-5156
+Dunn           +356   P-4334
+Park           -873   P-8165
+Castillo       +399   P-3608
+Vance          -257   P-9568
+
+Follow the credit belonging to the account that comes first alphabetically.

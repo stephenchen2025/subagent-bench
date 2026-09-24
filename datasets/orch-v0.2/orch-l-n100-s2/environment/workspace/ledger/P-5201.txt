@@ -1,0 +1,10 @@
+Ledger page P-5201
+
+account      amount   see page
+Kowalski       -456   P-2286
+Osei           +654   P-4751
+Castillo       +777   P-1920
+Dunn           +172   P-7970
+Moreau         -828   P-6025
+
+Follow the entry with the second-largest amount.

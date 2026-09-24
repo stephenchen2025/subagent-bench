@@ -1,0 +1,12 @@
+Ledger page P-5886
+
+account      amount   see page
+Lambert        -755   P-6470
+Young          +483   P-1920
+Kowalski       +693   P-8834
+Tanaka         +881   P-6318
+Jensen         +280   P-6525
+Grant          +463   P-2046
+Baker          +861   P-7970
+
+Follow the credit belonging to the account that comes first alphabetically.

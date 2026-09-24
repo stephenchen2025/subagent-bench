@@ -1,0 +1,11 @@
+Ledger page P-1670
+
+account      amount   see page
+Osei           +806   P-2246
+Kowalski       +464   P-5497
+Ibarra         +660   P-9257
+Dunn           +152   P-2779
+Jensen         +227   P-6821
+Weber          -553   P-4327
+
+Follow the entry with the second-largest amount.

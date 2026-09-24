@@ -1,0 +1,12 @@
+Ledger page P-2583
+
+account      amount   see page
+Osei            +64   P-7487
+Park           -481   P-9584
+Hughes         +671   P-7037
+Young          +141   P-6194
+Ibarra         +500   P-4731
+Lambert        -466   P-2425
+Castillo       -263   P-4111
+
+Follow the debit belonging to the account that comes last alphabetically.

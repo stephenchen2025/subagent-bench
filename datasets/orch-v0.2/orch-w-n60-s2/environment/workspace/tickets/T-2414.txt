@@ -1,0 +1,58 @@
+Ticket T-2414
+Customer: Samir Patel
+Orders on file: ORD-28646, ORD-65292, ORD-61768, ORD-52895
+Opened: 2026-04-01 via web form
+
+Order details:
+ORD-28646  placed 2026-06-17  status: in transit  total: $480.39
+  payment method: card ending 3786  ship to: 89 Elm Lane
+  - blender x1
+  - replacement filter cartridge, 3-pack x3
+  - USB-C charging cable (2m) x3
+ORD-65292  placed 2026-03-07  status: label created  total: $442.60
+  payment method: card ending 2058  ship to: 946 Mill Rd
+  - rain jacket x1
+  - USB-C charging cable (2m) x2
+  - carabiner set x2
+  - travel pouch x3
+  - microfiber cloth x3
+ORD-61768  placed 2026-08-09  status: delivered  total: $214.14
+  payment method: card ending 5032  ship to: 94 Elm St
+  - noise-cancelling headphones x1
+  - spare battery pack x2
+  - travel pouch x3
+  - merino socks, size M x1
+ORD-52895  placed 2026-06-24  status: label created  total: $178.61
+  payment method: card ending 5652  ship to: 43 Oak Rd
+  - standing desk x1
+  - stainless water bottle, 750ml x3
+  - USB-C charging cable (2m) x1
+  - replacement filter cartridge, 3-pack x1
+  - spare battery pack x1
+
+--- message 1 from Samir Patel ---
+The cast iron skillet from ORD-61768 arrived with a scratch on the side. Can I get a replacement? Tracking for ORD-61768 hasn't updated since Tuesday. I'd rather not call; the hold times last time were very long. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Samir Patel
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Dana (support) ---
+Loyalty points post about a week after an order is delivered. For ORD-65292, the return window is 30 days from delivery. I've updated your shipping address on file. I've resent the confirmation email for ORD-61768 to the address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Samir Patel ---
+I'm happy to send screenshots if that helps. My partner placed ORD-28646 on our shared account, in case that matters. Is there a way to combine loyalty points from ORD-65292 with my next purchase? My earlier order ORD-65292 arrived fine, no complaints there.
+
+Samir Patel
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Dana (support) ---
+I've resent the confirmation email for ORD-28646 to the address on file. I can see all the orders on your account, including ORD-28646. I've updated your shipping address on file. If you need an invoice for ORD-61768, you can download it from the Orders page.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

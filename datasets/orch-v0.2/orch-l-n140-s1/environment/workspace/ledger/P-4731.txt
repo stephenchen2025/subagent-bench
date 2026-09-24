@@ -1,0 +1,10 @@
+Ledger page P-4731
+
+account      amount   see page
+Umar           -869   P-8727
+Fofana         -391   P-2378
+Abbott         +391   P-9113
+Dunn           -647   P-5128
+Tanaka         +805   P-4379
+
+Follow the entry with the second-largest amount.

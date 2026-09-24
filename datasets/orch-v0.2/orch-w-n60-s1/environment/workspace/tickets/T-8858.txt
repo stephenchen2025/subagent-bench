@@ -1,0 +1,95 @@
+Ticket T-8858
+Customer: Mateo Silva
+Orders on file: ORD-50920, ORD-87393, ORD-34972, ORD-87271
+Opened: 2026-04-08 via chat transcript
+
+Order details:
+ORD-50920  placed 2026-03-07  status: in transit  total: $202.32
+  payment method: card ending 7681  ship to: 834 Oak Ave
+  - bike light set x1
+  - microfiber cloth x3
+  - USB-C charging cable (2m) x3
+  - carabiner set x3
+  - stainless water bottle, 750ml x3
+ORD-87393  placed 2026-07-19  status: label created  total: $148.28
+  payment method: card ending 7271  ship to: 623 Oak Ave
+  - carry-on suitcase x1
+  - carabiner set x3
+  - merino socks, size M x2
+ORD-34972  placed 2026-07-26  status: delivered  total: $344.51
+  payment method: card ending 5778  ship to: 648 Mill Lane
+  - noise-cancelling headphones x1
+  - microfiber cloth x2
+  - stainless water bottle, 750ml x3
+ORD-87271  placed 2026-07-07  status: delivered  total: $119.97
+  payment method: card ending 6272  ship to: 616 Cedar Ave
+  - cast iron skillet x1
+  - stainless water bottle, 750ml x3
+  - spare battery pack x2
+  - carabiner set x1
+
+--- message 1 from Mateo Silva ---
+Where is my refund for ORD-50920? You said 5 days and it has been 8. I've been a customer for a few years and usually everything goes smoothly. Could you also tell me whether ORD-87393 qualifies for the extended return window? I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Mateo Silva
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Keiko (support) ---
+If you need an invoice for ORD-87393, you can download it from the Orders page. Let me know if anything else looks off. I've added a note to your account so the next agent has the context. Loyalty points post about a week after an order is delivered.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Mateo Silva ---
+The payment for ORD-34972 went through, and then about an hour later it went through again. I'm happy to send screenshots if that helps. Tracking for ORD-50920 hasn't updated since Tuesday.
+
+Best regards,
+Mateo Silva
+
+--- message 4 from Keiko (support) ---
+For ORD-50920, the return window is 30 days from delivery. Tracking updates can lag by a day or two with this carrier. I can see all the orders on your account, including ORD-87271.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Keiko (support) ---
+I looked into ORD-34972: the second line is a pre-authorization hold from when the first card attempt was declined. It was never captured and it's already been released, so you were only charged once. Let me know if anything else looks off. I've added a note to your account so the next agent has the context.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Mateo Silva ---
+Thanks, I see it now: one payment for ORD-34972, the other one disappeared. All good. I tried the chat widget first but it kept disconnecting. The trail running shoes itself is great, for what it's worth.
+
+Best regards,
+Mateo Silva
+
+--- message 7 from Mateo Silva ---
+Your app logged me out twice while I was looking at this, which didn't help. Tracking for ORD-87271 hasn't updated since Tuesday. I'm travelling next week, so email is the best way to reach me. Could you also tell me whether ORD-50920 qualifies for the extended return window?
+
+Best regards,
+Mateo Silva
+
+--- message 8 from Keiko (support) ---
+Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context. Our warehouse shows ORD-87271 left on schedule. Tracking updates can lag by a day or two with this carrier.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Mateo Silva ---
+I tried the chat widget first but it kept disconnecting. Tracking for ORD-87393 hasn't updated since Tuesday. I'm happy to send screenshots if that helps. I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Mateo Silva
+
+--- message 10 from Keiko (support) ---
+If you need an invoice for ORD-87271, you can download it from the Orders page. I've updated your shipping address on file. Loyalty points post about a week after an order is delivered. Screenshots aren't necessary, but thank you for offering.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

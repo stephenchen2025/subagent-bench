@@ -1,0 +1,12 @@
+Ledger page P-3830
+
+account      amount   see page
+Xu               -6   P-3230
+Quinn          +332   P-5847
+Jensen         -544   P-7196
+Rahman         -391   P-2618
+Kowalski       +546   P-7302
+Dunn           -306   P-3022
+Castillo       +375   P-7083
+
+Follow the entry with the largest credit.

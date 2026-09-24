@@ -1,0 +1,11 @@
+Ledger page P-9548
+
+account      amount   see page
+Weber          -730   P-1328
+Park            -46   P-6069
+Castillo        -90   P-3722
+Eriksen        +401   P-3574
+Dunn           -797   P-9616
+Young          +322   P-6952
+
+Follow the debit belonging to the account that comes last alphabetically.

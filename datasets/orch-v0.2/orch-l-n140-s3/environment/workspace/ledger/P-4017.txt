@@ -1,0 +1,12 @@
+Ledger page P-4017
+
+account      amount   see page
+Weber          -656   P-2224
+Osei           -895   P-3655
+Eriksen        -306   P-6494
+Moreau         -232   P-5661
+Dunn           +485   P-9221
+Nakamura       +786   P-2588
+Hughes         +252   P-3644
+
+Follow the entry with the largest credit.

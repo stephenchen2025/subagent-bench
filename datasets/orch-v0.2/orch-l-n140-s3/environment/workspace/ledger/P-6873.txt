@@ -1,0 +1,10 @@
+Ledger page P-6873
+
+account      amount   see page
+Weber          -526   P-4038
+Baker          -448   P-6873
+Kowalski       -618   P-1974
+Eriksen        +442   P-9821
+Abbott         -164   P-3604
+
+Follow the entry with the second-largest amount.

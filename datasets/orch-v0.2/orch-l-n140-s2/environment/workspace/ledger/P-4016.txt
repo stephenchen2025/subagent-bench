@@ -1,0 +1,12 @@
+Ledger page P-4016
+
+account      amount   see page
+Umar           +306   P-6445
+Young          -586   P-1433
+Ibarra         +334   P-7705
+Vance          +646   P-7361
+Moreau          +37   P-6824
+Silva          -390   P-2837
+Weber          -637   P-3095
+
+Follow the debit belonging to the account that comes last alphabetically.

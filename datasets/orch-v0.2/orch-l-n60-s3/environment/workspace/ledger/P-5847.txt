@@ -1,0 +1,12 @@
+Ledger page P-5847
+
+account      amount   see page
+Osei            +85   P-1036
+Weber          +589   P-8793
+Abbott         +820   P-8357
+Park           +440   P-1387
+Eriksen        -429   P-3011
+Rahman         -639   P-2329
+Nakamura       +852   P-1330
+
+Follow the entry whose amount is closest to zero.

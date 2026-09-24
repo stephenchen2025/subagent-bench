@@ -1,0 +1,10 @@
+Ledger page P-2304
+
+account      amount   see page
+Silva          +674   P-3054
+Nakamura       +775   P-2705
+Tanaka         +543   P-1825
+Fofana         -783   P-3743
+Lambert        +131   P-8427
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,11 @@
+Ledger page P-1863
+
+account      amount   see page
+Hughes           -2   P-1082
+Young          -811   P-4334
+Jensen         +317   P-6857
+Ibarra         +269   P-1695
+Nakamura       +719   P-8619
+Lambert        +209   P-5940
+
+Follow the entry with the largest debit (the most negative amount).

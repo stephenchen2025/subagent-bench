@@ -1,0 +1,11 @@
+Ledger page P-7071
+
+account      amount   see page
+Ibarra          +58   P-2774
+Weber          +239   P-8428
+Tanaka         +812   P-9647
+Fofana         +460   P-3192
+Moreau           +3   P-8742
+Castillo       -790   P-2972
+
+Follow the entry whose amount is closest to zero.

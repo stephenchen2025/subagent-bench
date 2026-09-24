@@ -1,0 +1,57 @@
+Ticket T-8313
+Customer: Avery Lin
+Orders on file: ORD-48425, ORD-45739, ORD-75242, ORD-56607
+Opened: 2026-07-03 via email
+
+Order details:
+ORD-48425  placed 2026-08-27  status: in transit  total: $289.77
+  payment method: card ending 9259  ship to: 93 Mill Ave
+  - carry-on suitcase x1
+  - travel pouch x2
+  - microfiber cloth x3
+  - merino socks, size M x1
+ORD-45739  placed 2026-04-08  status: label created  total: $246.70
+  payment method: card ending 9298  ship to: 920 Mill Rd
+  - yoga mat x1
+  - spare battery pack x2
+  - travel pouch x1
+  - USB-C charging cable (2m) x3
+ORD-75242  placed 2026-04-19  status: returned  total: $279.92
+  payment method: card ending 5627  ship to: 883 Cedar Rd
+  - water filter pitcher x1
+  - merino socks, size M x3
+  - replacement filter cartridge, 3-pack x2
+ORD-56607  placed 2026-05-02  status: in transit  total: $273.27
+  payment method: card ending 2448  ship to: 643 Harbor Rd
+  - desk lamp x1
+  - gift wrap x3
+  - travel pouch x1
+  - stainless water bottle, 750ml x2
+  - spare battery pack x1
+
+--- message 1 from Avery Lin ---
+I need to change the delivery address for ORD-48425 before it ships. I tried the chat widget first but it kept disconnecting. The confirmation email for ORD-48425 went to my spam folder, so I only just saw it. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Avery Lin
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Dana (support) ---
+Let me know if anything else looks off. I've added a note to your account so the next agent has the context. I can see all the orders on your account, including ORD-48425. Tracking updates can lag by a day or two with this carrier.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Avery Lin ---
+I'm happy to send screenshots if that helps. I'd rather not call; the hold times last time were very long. The rain jacket itself is great, for what it's worth. I'm travelling next week, so email is the best way to reach me.
+
+Avery Lin
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Dana (support) ---
+Thanks for reaching out, and sorry for the trouble. Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context. Loyalty points post about a week after an order is delivered.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,12 @@
+Ledger page P-2109
+
+account      amount   see page
+Rahman         -435   P-4853
+Castillo       -774   P-7941
+Hughes         -179   P-4038
+Dunn           -268   P-3221
+Ibarra         +115   P-3147
+Zhou           -212   P-3745
+Lambert         +63   P-5782
+
+Follow the debit belonging to the account that comes last alphabetically.

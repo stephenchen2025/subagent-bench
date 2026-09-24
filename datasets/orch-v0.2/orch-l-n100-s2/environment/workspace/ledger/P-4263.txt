@@ -1,0 +1,11 @@
+Ledger page P-4263
+
+account      amount   see page
+Rahman         -389   P-9478
+Nakamura       -430   P-7996
+Abbott         +419   P-5516
+Weber          +899   P-5076
+Dunn            -79   P-6954
+Moreau         -310   P-2863
+
+Follow the debit belonging to the account that comes last alphabetically.

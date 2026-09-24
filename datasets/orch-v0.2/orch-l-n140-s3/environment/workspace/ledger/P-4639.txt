@@ -1,0 +1,11 @@
+Ledger page P-4639
+
+account      amount   see page
+Park           +321   P-6427
+Eriksen         -20   P-4064
+Fofana         +795   P-9548
+Dunn           -822   P-2991
+Tanaka         -194   P-1851
+Rahman         +171   P-2263
+
+Follow the entry with the largest debit (the most negative amount).

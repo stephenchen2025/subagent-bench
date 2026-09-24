@@ -1,0 +1,12 @@
+Ledger page P-8121
+
+account      amount   see page
+Tanaka         +334   P-8489
+Xu             -155   P-2360
+Osei           +405   P-8913
+Young          -334   P-1853
+Zhou           -595   P-1853
+Castillo        +35   P-9408
+Fofana         -360   P-4094
+
+Follow the entry with the largest credit.

@@ -1,0 +1,10 @@
+Ledger page P-3585
+
+account      amount   see page
+Hughes         +628   P-3218
+Eriksen        -152   P-3784
+Kowalski       -455   P-3585
+Park           -624   P-8443
+Lambert        -884   P-7855
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,11 @@
+Ledger page P-1920
+
+account      amount   see page
+Zhou           +288   P-9066
+Vance          -727   P-8857
+Abbott         +160   P-1378
+Rahman         -785   P-1731
+Ibarra          -32   P-8023
+Fofana         -382   P-2777
+
+Follow the entry with the largest debit (the most negative amount).

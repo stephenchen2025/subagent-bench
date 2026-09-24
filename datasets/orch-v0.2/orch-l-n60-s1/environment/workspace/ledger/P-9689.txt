@@ -1,0 +1,11 @@
+Ledger page P-9689
+
+account      amount   see page
+Eriksen        -121   P-7893
+Nakamura       +788   P-7146
+Abbott         -760   P-7334
+Zhou           -284   P-8823
+Baker          -752   P-6048
+Ibarra          +59   P-3672
+
+Follow the debit belonging to the account that comes last alphabetically.

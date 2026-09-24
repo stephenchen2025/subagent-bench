@@ -1,0 +1,10 @@
+Ledger page P-2721
+
+account      amount   see page
+Dunn            -44   P-9690
+Hughes         -282   P-4810
+Xu             +467   P-5734
+Kowalski       -884   P-2311
+Tanaka         -729   P-2702
+
+Follow the entry with the largest credit.

@@ -1,0 +1,11 @@
+Ledger page P-2861
+
+account      amount   see page
+Park             +8   P-2927
+Fofana         -275   P-9498
+Kowalski       +446   P-4808
+Lambert        +796   P-5570
+Hughes         -298   P-4354
+Rahman         -387   P-8078
+
+Follow the debit belonging to the account that comes last alphabetically.

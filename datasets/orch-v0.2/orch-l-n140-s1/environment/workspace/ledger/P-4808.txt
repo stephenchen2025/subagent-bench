@@ -1,0 +1,10 @@
+Ledger page P-4808
+
+account      amount   see page
+Castillo       -546   P-4657
+Vance          +801   P-2278
+Nakamura       +649   P-1384
+Baker          -216   P-6691
+Dunn           +104   P-9584
+
+Follow the credit belonging to the account that comes first alphabetically.

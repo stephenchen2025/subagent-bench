@@ -1,0 +1,11 @@
+Ledger page P-7262
+
+account      amount   see page
+Fofana         +110   P-1612
+Ibarra         -406   P-3360
+Eriksen        +192   P-2458
+Park           +284   P-1925
+Lambert        +475   P-5019
+Abbott         +337   P-6581
+
+Follow the credit belonging to the account that comes first alphabetically.

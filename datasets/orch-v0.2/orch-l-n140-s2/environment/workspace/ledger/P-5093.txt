@@ -1,0 +1,11 @@
+Ledger page P-5093
+
+account      amount   see page
+Baker          +117   P-2852
+Quinn          -283   P-6824
+Hughes         +169   P-7270
+Ibarra         -877   P-1764
+Weber            +6   P-5777
+Castillo       +103   P-4202
+
+Follow the entry whose amount is closest to zero.

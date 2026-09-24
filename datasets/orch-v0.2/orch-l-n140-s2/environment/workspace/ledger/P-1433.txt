@@ -1,0 +1,12 @@
+Ledger page P-1433
+
+account      amount   see page
+Osei           +109   P-7868
+Abbott         -228   P-8937
+Zhou           +541   P-7331
+Quinn          -493   P-5039
+Young          -550   P-4112
+Rahman         +357   P-8629
+Ibarra         +452   P-4512
+
+Follow the debit belonging to the account that comes last alphabetically.

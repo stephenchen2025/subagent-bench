@@ -1,0 +1,12 @@
+Ledger page P-7200
+
+account      amount   see page
+Dunn           -437   P-8282
+Ibarra         +824   P-4728
+Vance          -879   P-7854
+Rahman         -284   P-7674
+Nakamura       +609   P-5258
+Castillo       +167   P-8823
+Baker          +646   P-4403
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,10 @@
+Ledger page P-5483
+
+account      amount   see page
+Dunn           +468   P-9882
+Hughes          -12   P-6553
+Castillo       -846   P-2640
+Fofana         -705   P-6639
+Kowalski       -156   P-1264
+
+Follow the entry with the largest debit (the most negative amount).

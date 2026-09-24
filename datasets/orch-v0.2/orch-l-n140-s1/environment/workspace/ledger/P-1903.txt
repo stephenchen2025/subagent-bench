@@ -1,0 +1,11 @@
+Ledger page P-1903
+
+account      amount   see page
+Moreau         +808   P-6365
+Abbott         -890   P-6359
+Vance          +338   P-2606
+Lambert          +9   P-9351
+Hughes         -668   P-5535
+Rahman          -94   P-2429
+
+Follow the entry with the second-largest amount.

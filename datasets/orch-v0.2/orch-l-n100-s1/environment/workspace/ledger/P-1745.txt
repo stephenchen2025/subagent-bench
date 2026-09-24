@@ -1,0 +1,12 @@
+Ledger page P-1745
+
+account      amount   see page
+Abbott         +257   P-9386
+Weber           +16   P-4847
+Kowalski        -78   P-7930
+Rahman          -74   P-3218
+Fofana         +169   P-6196
+Umar           +353   P-2808
+Quinn          +394   P-2098
+
+Follow the entry with the largest credit.

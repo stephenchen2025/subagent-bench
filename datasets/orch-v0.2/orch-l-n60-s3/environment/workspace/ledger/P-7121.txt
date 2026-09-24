@@ -1,0 +1,12 @@
+Ledger page P-7121
+
+account      amount   see page
+Kowalski       -682   P-1855
+Grant          +633   P-5925
+Abbott         +751   P-3658
+Nakamura       -461   P-2011
+Fofana         -751   P-5802
+Castillo       -327   P-8715
+Dunn            -43   P-3506
+
+Follow the entry with the second-largest amount.

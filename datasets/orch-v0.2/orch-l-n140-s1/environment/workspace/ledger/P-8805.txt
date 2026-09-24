@@ -1,0 +1,11 @@
+Ledger page P-8805
+
+account      amount   see page
+Eriksen        +158   P-1469
+Quinn          +418   P-2687
+Fofana         +443   P-2278
+Lambert        +581   P-3084
+Abbott          -36   P-3387
+Vance          +607   P-4037
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,55 @@
+Ticket T-1722
+Customer: Chloe Martin
+Orders on file: ORD-63792, ORD-95808, ORD-17794, ORD-70399
+Opened: 2026-06-11 via chat transcript
+
+Order details:
+ORD-63792  placed 2026-01-26  status: delivered  total: $168.57
+  payment method: card ending 8980  ship to: 371 Oak St
+  - wool blanket x1
+  - USB-C charging cable (2m) x1
+  - travel pouch x2
+ORD-95808  placed 2026-07-07  status: delivered  total: $388.19
+  payment method: card ending 6589  ship to: 573 Oak St
+  - trail running shoes x1
+  - stainless water bottle, 750ml x2
+  - extended warranty, 2 years x3
+  - microfiber cloth x3
+ORD-17794  placed 2026-08-13  status: label created  total: $439.24
+  payment method: card ending 4222  ship to: 795 Elm Ave
+  - camping stove x1
+  - extended warranty, 2 years x3
+  - spare battery pack x2
+ORD-70399  placed 2026-03-28  status: delivered  total: $84.88
+  payment method: card ending 5352  ship to: 336 Mill Ave
+  - bike light set x1
+  - stainless water bottle, 750ml x3
+  - gift wrap x1
+  - replacement filter cartridge, 3-pack x3
+  - USB-C charging cable (2m) x1
+
+--- message 1 from Chloe Martin ---
+I need to change the delivery address for ORD-17794 before it ships. The confirmation email for ORD-63792 went to my spam folder, so I only just saw it. The wool blanket itself is great, for what it's worth. Could you also tell me whether ORD-17794 qualifies for the extended return window?
+
+Chloe Martin
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Marcus (support) ---
+Our warehouse shows ORD-17794 left on schedule. I've updated your shipping address on file. If you need an invoice for ORD-17794, you can download it from the Orders page. Thanks for reaching out, and sorry for the trouble.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Chloe Martin ---
+The noise-cancelling headphones itself is great, for what it's worth. Is there a way to combine loyalty points from ORD-63792 with my next purchase? I tried the chat widget first but it kept disconnecting. Could you also tell me whether ORD-17794 qualifies for the extended return window?
+
+Best regards,
+Chloe Martin
+
+--- message 4 from Marcus (support) ---
+I've updated your shipping address on file. Tracking updates can lag by a day or two with this carrier. Loyalty points post about a week after an order is delivered. If you need an invoice for ORD-70399, you can download it from the Orders page.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

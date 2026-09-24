@@ -1,0 +1,12 @@
+Ledger page P-9214
+
+account      amount   see page
+Rahman         +408   P-8187
+Nakamura       +635   P-9730
+Hughes         -676   P-6700
+Vance          +784   P-7424
+Kowalski       +820   P-9719
+Park           +523   P-3340
+Umar           +249   P-6115
+
+Follow the entry whose amount is closest to zero.

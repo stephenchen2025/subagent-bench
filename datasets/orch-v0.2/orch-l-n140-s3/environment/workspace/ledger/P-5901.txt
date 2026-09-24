@@ -1,0 +1,11 @@
+Ledger page P-5901
+
+account      amount   see page
+Castillo       +444   P-9456
+Hughes         +133   P-7941
+Zhou            +29   P-3306
+Weber          +151   P-3810
+Osei           -779   P-8273
+Xu             -511   P-1925
+
+Follow the entry with the second-largest amount.

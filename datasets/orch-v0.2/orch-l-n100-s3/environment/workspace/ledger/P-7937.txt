@@ -1,0 +1,12 @@
+Ledger page P-7937
+
+account      amount   see page
+Ibarra          -83   P-2184
+Weber          +122   P-2779
+Zhou           -200   P-8326
+Jensen         +314   P-4142
+Grant          -879   P-6952
+Umar           -864   P-2000
+Young          -710   P-9548
+
+Follow the entry with the largest debit (the most negative amount).

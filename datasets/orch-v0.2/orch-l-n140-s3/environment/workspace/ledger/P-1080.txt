@@ -1,0 +1,11 @@
+Ledger page P-1080
+
+account      amount   see page
+Dunn           -566   P-3663
+Osei           -344   P-6406
+Abbott         -204   P-9678
+Umar           +406   P-8020
+Baker          +842   P-3948
+Eriksen        +640   P-3147
+
+Follow the entry with the largest credit.

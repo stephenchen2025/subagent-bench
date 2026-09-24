@@ -1,0 +1,10 @@
+Ledger page P-9282
+
+account      amount   see page
+Zhou           +724   P-2985
+Osei           -168   P-3594
+Vance          -302   P-5228
+Moreau         +547   P-6653
+Dunn           +760   P-1315
+
+Follow the credit belonging to the account that comes first alphabetically.

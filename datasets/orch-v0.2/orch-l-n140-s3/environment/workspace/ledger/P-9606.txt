@@ -1,0 +1,10 @@
+Ledger page P-9606
+
+account      amount   see page
+Jensen         +562   P-2991
+Weber          -393   P-8910
+Kowalski       +821   P-2919
+Dunn           -455   P-3408
+Eriksen         -21   P-6651
+
+Follow the entry with the largest debit (the most negative amount).

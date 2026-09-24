@@ -1,0 +1,11 @@
+Ledger page P-3608
+
+account      amount   see page
+Kowalski       -367   P-2777
+Hughes         -572   P-1934
+Silva            +8   P-5476
+Umar           +657   P-1779
+Quinn          +589   P-5961
+Moreau         +777   P-9538
+
+Follow the entry whose amount is closest to zero.

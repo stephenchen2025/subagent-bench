@@ -1,0 +1,11 @@
+Ledger page P-3606
+
+account      amount   see page
+Zhou           +818   P-5722
+Dunn           +186   P-7488
+Umar           -303   P-6117
+Vance          +304   P-7946
+Quinn          +338   P-4151
+Castillo       -282   P-7331
+
+Follow the entry with the largest credit.

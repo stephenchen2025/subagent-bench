@@ -1,0 +1,104 @@
+Ticket T-7951
+Customer: Oskar Berg
+Orders on file: ORD-57259, ORD-37617, ORD-91367, ORD-34758
+Opened: 2026-02-15 via chat transcript
+
+Order details:
+ORD-57259  placed 2026-08-25  status: returned  total: $341.77
+  payment method: card ending 3446  ship to: 318 Elm Ave
+  - mechanical keyboard x1
+  - gift wrap x3
+  - travel pouch x2
+  - carabiner set x3
+ORD-37617  placed 2026-07-08  status: returned  total: $101.64
+  payment method: card ending 9397  ship to: 714 Elm Lane
+  - noise-cancelling headphones x1
+  - extended warranty, 2 years x3
+  - stainless water bottle, 750ml x3
+ORD-91367  placed 2026-07-23  status: delivered  total: $273.74
+  payment method: card ending 9346  ship to: 493 Mill St
+  - standing desk x1
+  - extended warranty, 2 years x2
+  - travel pouch x1
+  - spare battery pack x1
+  - replacement filter cartridge, 3-pack x1
+ORD-34758  placed 2026-01-14  status: returned  total: $205.07
+  payment method: card ending 1687  ship to: 818 Harbor Ave
+  - trail running shoes x1
+  - travel pouch x1
+  - spare battery pack x1
+  - carabiner set x1
+  - extended warranty, 2 years x3
+
+--- message 1 from Oskar Berg ---
+I need to change the delivery address for ORD-91367 before it ships. I've been a customer for a few years and usually everything goes smoothly. I'm happy to send screenshots if that helps. I tried the chat widget first but it kept disconnecting.
+
+Oskar Berg
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Fatima (support) ---
+Let me know if anything else looks off. For ORD-91367, the return window is 30 days from delivery. Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-91367, you can download it from the Orders page.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Oskar Berg ---
+The payment for ORD-57259 went through, and then about an hour later it went through again. I'd rather not call; the hold times last time were very long. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Oskar Berg
+
+--- message 4 from Fatima (support) ---
+Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-34758 to the address on file. Tracking updates can lag by a day or two with this carrier.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Fatima (support) ---
+Our payment logs show a single capture for ORD-57259. The extra line you saw was an authorization that expired on its own -- no money was taken for it. I've resent the confirmation email for ORD-34758 to the address on file. If you need an invoice for ORD-37617, you can download it from the Orders page.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Oskar Berg ---
+I changed my shipping address last month, so please double-check you have the new one. My partner placed ORD-34758 on our shared account, in case that matters. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Oskar Berg
+
+--- message 7 from Oskar Berg ---
+Oh, you're right -- I checked the card app this morning and the second line is gone. Only one charge. Sorry for the false alarm! The noise-cancelling headphones itself is great, for what it's worth. The box for ORD-34758 was a bit crushed but the contents were fine.
+
+Thanks,
+Oskar Berg
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Oskar Berg ---
+Your app logged me out twice while I was looking at this, which didn't help. Could you also tell me whether ORD-34758 qualifies for the extended return window? Is there a way to combine loyalty points from ORD-37617 with my next purchase? I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Oskar Berg
+Sent from my phone -- please excuse typos.
+
+--- message 9 from Fatima (support) ---
+Tracking updates can lag by a day or two with this carrier. I can see all the orders on your account, including ORD-37617. I've updated your shipping address on file. For ORD-91367, the return window is 30 days from delivery.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 10 from Oskar Berg ---
+The confirmation email for ORD-37617 went to my spam folder, so I only just saw it. Could you also tell me whether ORD-91367 qualifies for the extended return window? My earlier order ORD-91367 arrived fine, no complaints there. I changed my shipping address last month, so please double-check you have the new one.
+
+Oskar Berg
+(Please reply by email rather than phone if possible.)
+
+--- message 11 from Fatima (support) ---
+I've updated your shipping address on file. Screenshots aren't necessary, but thank you for offering. For ORD-37617, the return window is 30 days from delivery. I've resent the confirmation email for ORD-37617 to the address on file.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

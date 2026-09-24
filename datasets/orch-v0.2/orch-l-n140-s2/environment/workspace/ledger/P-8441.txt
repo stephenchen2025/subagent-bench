@@ -1,0 +1,10 @@
+Ledger page P-8441
+
+account      amount   see page
+Dunn           +446   P-1653
+Zhou           -739   P-1287
+Eriksen         +14   P-9208
+Abbott         -502   P-1649
+Vance          +896   P-2245
+
+Follow the entry whose amount is closest to zero.

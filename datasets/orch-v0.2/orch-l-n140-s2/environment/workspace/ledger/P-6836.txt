@@ -1,0 +1,11 @@
+Ledger page P-6836
+
+account      amount   see page
+Fofana         +808   P-5574
+Vance          -699   P-5757
+Xu             -252   P-5345
+Jensen         -227   P-9077
+Zhou           +630   P-7869
+Osei            -47   P-1122
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,84 @@
+Ticket T-4697
+Customer: Noah Fischer
+Orders on file: ORD-92945, ORD-87995, ORD-29296, ORD-11167
+Opened: 2026-04-27 via chat transcript
+
+Order details:
+ORD-92945  placed 2026-07-08  status: delivered  total: $59.06
+  payment method: card ending 4366  ship to: 476 Cedar Ave
+  - desk lamp x1
+  - replacement filter cartridge, 3-pack x2
+  - microfiber cloth x1
+ORD-87995  placed 2026-04-27  status: delivered  total: $218.74
+  payment method: card ending 5894  ship to: 444 Elm St
+  - yoga mat x1
+  - USB-C charging cable (2m) x3
+  - microfiber cloth x2
+  - spare battery pack x1
+  - travel pouch x1
+ORD-29296  placed 2026-04-02  status: in transit  total: $334.55
+  payment method: card ending 4478  ship to: 616 Mill Rd
+  - standing desk x1
+  - travel pouch x2
+  - gift wrap x1
+  - extended warranty, 2 years x1
+ORD-11167  placed 2026-08-18  status: delivered  total: $367.12
+  payment method: card ending 2024  ship to: 77 Harbor Lane
+  - espresso grinder x1
+  - merino socks, size M x3
+  - extended warranty, 2 years x2
+  - gift wrap x2
+
+--- message 1 from Noah Fischer ---
+The mechanical keyboard from ORD-29296 arrived with a scratch on the side. Can I get a replacement? Tracking for ORD-11167 hasn't updated since Tuesday. Your app logged me out twice while I was looking at this, which didn't help. Is there a way to combine loyalty points from ORD-87995 with my next purchase?
+
+Best regards,
+Noah Fischer
+
+--- message 2 from Arjun (support) ---
+For ORD-87995, the return window is 30 days from delivery. Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering. I've added a note to your account so the next agent has the context.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Noah Fischer ---
+I see two charges on the card app this week, one for ORD-92945 and one for ORD-29296. Both are correct -- I ordered twice on purpose -- but could you send me the invoices for my expense report? I'm travelling next week, so email is the best way to reach me. Tracking for ORD-87995 hasn't updated since Tuesday.
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Arjun (support) ---
+Let me know if anything else looks off. For ORD-29296, the return window is 30 days from delivery. I've updated your shipping address on file.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Noah Fischer ---
+Could you also tell me whether ORD-29296 qualifies for the extended return window? The box for ORD-87995 was a bit crushed but the contents were fine. I'm happy to send screenshots if that helps. My earlier order ORD-11167 arrived fine, no complaints there.
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Arjun (support) ---
+I've added a note to your account so the next agent has the context. Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-29296.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Noah Fischer ---
+The box for ORD-87995 was a bit crushed but the contents were fine. Tracking for ORD-11167 hasn't updated since Tuesday. Could you also tell me whether ORD-11167 qualifies for the extended return window? I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Arjun (support) ---
+I can see all the orders on your account, including ORD-29296. If you need an invoice for ORD-29296, you can download it from the Orders page. I've resent the confirmation email for ORD-29296 to the address on file. I've added a note to your account so the next agent has the context.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

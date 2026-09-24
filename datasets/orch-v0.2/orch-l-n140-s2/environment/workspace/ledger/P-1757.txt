@@ -1,0 +1,10 @@
+Ledger page P-1757
+
+account      amount   see page
+Moreau         -282   P-1265
+Baker          +666   P-6064
+Nakamura       +616   P-6654
+Rahman         -126   P-3665
+Zhou           +796   P-2031
+
+Follow the credit belonging to the account that comes first alphabetically.

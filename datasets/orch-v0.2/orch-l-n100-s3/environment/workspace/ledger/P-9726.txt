@@ -1,0 +1,11 @@
+Ledger page P-9726
+
+account      amount   see page
+Zhou           -822   P-9150
+Ibarra          -14   P-8276
+Osei           +817   P-2898
+Hughes          -34   P-7282
+Tanaka         +895   P-1613
+Grant          +572   P-5727
+
+Follow the entry with the second-largest amount.

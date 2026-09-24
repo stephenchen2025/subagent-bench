@@ -1,0 +1,11 @@
+Ledger page P-6021
+
+account      amount   see page
+Park           -604   P-2638
+Baker           +64   P-7346
+Ibarra         -250   P-2837
+Fofana         +630   P-5388
+Nakamura       +467   P-6305
+Vance          -816   P-8937
+
+Follow the entry with the second-largest amount.

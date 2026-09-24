@@ -1,0 +1,61 @@
+Ticket T-5612
+Customer: Amara Nwosu
+Orders on file: ORD-17294, ORD-52987, ORD-39975, ORD-75932
+Opened: 2026-03-04 via web form
+
+Order details:
+ORD-17294  placed 2026-07-08  status: delivered  total: $89.72
+  payment method: card ending 7120  ship to: 10 Mill Lane
+  - desk lamp x1
+  - extended warranty, 2 years x1
+  - travel pouch x3
+ORD-52987  placed 2026-01-14  status: delivered  total: $167.38
+  payment method: card ending 1220  ship to: 798 Mill Ave
+  - camping stove x1
+  - carabiner set x3
+  - microfiber cloth x1
+  - extended warranty, 2 years x2
+ORD-39975  placed 2026-04-14  status: delivered  total: $56.84
+  payment method: card ending 7251  ship to: 803 Elm Ave
+  - carry-on suitcase x1
+  - spare battery pack x2
+  - gift wrap x1
+  - replacement filter cartridge, 3-pack x1
+ORD-75932  placed 2026-03-23  status: returned  total: $71.62
+  payment method: card ending 4099  ship to: 291 Elm Rd
+  - wool blanket x1
+  - USB-C charging cable (2m) x3
+  - merino socks, size M x3
+  - gift wrap x1
+
+--- message 1 from Amara Nwosu ---
+I'd like to return the rain jacket from ORD-52987; it's the wrong size. I'd rather not call; the hold times last time were very long. My partner placed ORD-52987 on our shared account, in case that matters. Tracking for ORD-17294 hasn't updated since Tuesday.
+
+Amara Nwosu
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Fatima (support) ---
+If you need an invoice for ORD-17294, you can download it from the Orders page. Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-52987 left on schedule.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Amara Nwosu ---
+Yes, there were two payments, but they're for two different orders (ORD-75932 and ORD-39975), so that's fine. I just need a receipt for each. I'd rather not call; the hold times last time were very long. Is there a way to combine loyalty points from ORD-39975 with my next purchase?
+
+Amara Nwosu
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Amara Nwosu ---
+Is there a way to combine loyalty points from ORD-52987 with my next purchase? I've been a customer for a few years and usually everything goes smoothly. I tried the chat widget first but it kept disconnecting. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Amara Nwosu
+
+--- message 5 from Fatima (support) ---
+I can see all the orders on your account, including ORD-17294. Let me know if anything else looks off. I've added a note to your account so the next agent has the context. Loyalty points post about a week after an order is delivered.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

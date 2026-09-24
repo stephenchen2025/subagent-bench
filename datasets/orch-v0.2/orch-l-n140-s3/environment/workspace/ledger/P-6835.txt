@@ -1,0 +1,10 @@
+Ledger page P-6835
+
+account      amount   see page
+Baker          +341   P-9821
+Park            +33   P-4744
+Fofana         -114   P-3044
+Weber          +805   P-4343
+Castillo       +709   P-8308
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,70 @@
+Ticket T-4060
+Customer: Leila Haddad
+Orders on file: ORD-39655, ORD-29568, ORD-37505, ORD-37850
+Opened: 2026-02-05 via chat transcript
+
+Order details:
+ORD-39655  placed 2026-08-12  status: returned  total: $290.36
+  payment method: card ending 4486  ship to: 387 Mill St
+  - camping stove x1
+  - extended warranty, 2 years x1
+  - microfiber cloth x3
+  - stainless water bottle, 750ml x2
+ORD-29568  placed 2026-01-06  status: delivered  total: $34.83
+  payment method: card ending 5545  ship to: 41 Cedar Rd
+  - wool blanket x1
+  - USB-C charging cable (2m) x1
+  - gift wrap x2
+  - travel pouch x2
+ORD-37505  placed 2026-01-05  status: delivered  total: $128.42
+  payment method: card ending 5363  ship to: 256 Mill Lane
+  - blender x1
+  - merino socks, size M x2
+  - travel pouch x3
+  - stainless water bottle, 750ml x3
+  - microfiber cloth x3
+ORD-37850  placed 2026-06-25  status: label created  total: $56.45
+  payment method: card ending 8846  ship to: 113 Cedar St
+  - water filter pitcher x1
+  - carabiner set x1
+  - extended warranty, 2 years x1
+  - merino socks, size M x1
+
+--- message 1 from Leila Haddad ---
+I'd like to return the rain jacket from ORD-29568; it's the wrong size. The confirmation email for ORD-29568 went to my spam folder, so I only just saw it. My partner placed ORD-29568 on our shared account, in case that matters. My earlier order ORD-29568 arrived fine, no complaints there.
+
+Best regards,
+Leila Haddad
+
+--- message 2 from Pete (support) ---
+Thanks for reaching out, and sorry for the trouble. Loyalty points post about a week after an order is delivered. I can see all the orders on your account, including ORD-39655. If you need an invoice for ORD-37850, you can download it from the Orders page.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Leila Haddad ---
+My partner placed ORD-37850 on our shared account, in case that matters. Tracking for ORD-37850 hasn't updated since Tuesday. I've been a customer for a few years and usually everything goes smoothly. The confirmation email for ORD-29568 went to my spam folder, so I only just saw it.
+
+Best regards,
+Leila Haddad
+
+--- message 4 from Pete (support) ---
+Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context. I can see all the orders on your account, including ORD-29568. If you need an invoice for ORD-37850, you can download it from the Orders page.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Leila Haddad ---
+The standing desk itself is great, for what it's worth. Tracking for ORD-29568 hasn't updated since Tuesday. My earlier order ORD-29568 arrived fine, no complaints there. I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Leila Haddad
+
+--- message 6 from Pete (support) ---
+Screenshots aren't necessary, but thank you for offering. Our warehouse shows ORD-37850 left on schedule. I can see all the orders on your account, including ORD-37850. Let me know if anything else looks off.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

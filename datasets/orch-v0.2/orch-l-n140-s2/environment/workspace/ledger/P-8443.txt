@@ -1,0 +1,10 @@
+Ledger page P-8443
+
+account      amount   see page
+Ibarra          -10   P-8815
+Vance          +595   P-7793
+Weber          +824   P-5122
+Lambert        +816   P-1433
+Silva          -625   P-4602
+
+Follow the entry with the largest credit.

@@ -1,0 +1,58 @@
+Ticket T-3694
+Customer: Leila Haddad
+Orders on file: ORD-91067, ORD-37143, ORD-61027, ORD-37964
+Opened: 2026-02-09 via web form
+
+Order details:
+ORD-91067  placed 2026-08-17  status: returned  total: $436.77
+  payment method: card ending 5813  ship to: 318 Oak Lane
+  - blender x1
+  - travel pouch x2
+  - USB-C charging cable (2m) x3
+  - microfiber cloth x1
+  - replacement filter cartridge, 3-pack x2
+ORD-37143  placed 2026-06-27  status: label created  total: $179.89
+  payment method: card ending 3884  ship to: 284 Elm Ave
+  - carry-on suitcase x1
+  - replacement filter cartridge, 3-pack x1
+  - carabiner set x1
+  - spare battery pack x3
+  - merino socks, size M x1
+ORD-61027  placed 2026-01-08  status: returned  total: $447.29
+  payment method: card ending 5679  ship to: 375 Mill St
+  - carry-on suitcase x1
+  - travel pouch x2
+  - spare battery pack x3
+ORD-37964  placed 2026-04-21  status: in transit  total: $317.13
+  payment method: card ending 1517  ship to: 343 Cedar St
+  - desk lamp x1
+  - carabiner set x3
+  - spare battery pack x3
+  - travel pouch x3
+  - replacement filter cartridge, 3-pack x3
+
+--- message 1 from Leila Haddad ---
+The espresso grinder from ORD-61027 arrived with a scratch on the side. Can I get a replacement? Tracking for ORD-61027 hasn't updated since Tuesday. I'm happy to send screenshots if that helps. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Leila Haddad
+
+--- message 2 from Fatima (support) ---
+For ORD-61027, the return window is 30 days from delivery. If you need an invoice for ORD-37964, you can download it from the Orders page. I've resent the confirmation email for ORD-37143 to the address on file. I can see all the orders on your account, including ORD-37143.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Leila Haddad ---
+I changed my shipping address last month, so please double-check you have the new one. Could you also tell me whether ORD-61027 qualifies for the extended return window? My earlier order ORD-37964 arrived fine, no complaints there. The confirmation email for ORD-61027 went to my spam folder, so I only just saw it.
+
+Best regards,
+Leila Haddad
+
+--- message 4 from Fatima (support) ---
+I've resent the confirmation email for ORD-37143 to the address on file. For ORD-37964, the return window is 30 days from delivery. Our warehouse shows ORD-37143 left on schedule. I've updated your shipping address on file.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

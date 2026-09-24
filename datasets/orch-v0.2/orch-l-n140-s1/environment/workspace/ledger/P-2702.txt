@@ -1,0 +1,10 @@
+Ledger page P-2702
+
+account      amount   see page
+Kowalski       +408   P-2675
+Hughes         -218   P-7084
+Nakamura       +327   P-7601
+Dunn           +468   P-6810
+Rahman         +696   P-6828
+
+Follow the entry with the largest credit.

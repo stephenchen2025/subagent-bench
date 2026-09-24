@@ -1,0 +1,12 @@
+Ledger page P-9722
+
+account      amount   see page
+Quinn          -404   P-9743
+Grant           +38   P-4154
+Park           +431   P-2793
+Rahman         +194   P-2301
+Kowalski       -505   P-4665
+Dunn           -297   P-5999
+Lambert        +888   P-8160
+
+Follow the credit belonging to the account that comes first alphabetically.

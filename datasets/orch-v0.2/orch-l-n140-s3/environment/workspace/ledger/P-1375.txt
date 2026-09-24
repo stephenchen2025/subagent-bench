@@ -1,0 +1,12 @@
+Ledger page P-1375
+
+account      amount   see page
+Lambert        +521   P-4793
+Weber          +406   P-3879
+Castillo       +755   P-9986
+Abbott         -668   P-2420
+Tanaka         +295   P-3557
+Grant          -399   P-7793
+Silva          +177   P-2565
+
+Follow the entry whose amount is closest to zero.

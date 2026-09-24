@@ -1,0 +1,12 @@
+Ledger page P-4963
+
+account      amount   see page
+Vance          -180   P-5894
+Rahman         +494   P-1713
+Umar           +712   P-3277
+Xu             -304   P-6232
+Park           -280   P-4998
+Castillo       +353   P-3896
+Jensen         -666   P-3410
+
+Follow the entry with the largest credit.

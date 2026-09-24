@@ -1,0 +1,12 @@
+Ledger page P-1387
+
+account      amount   see page
+Abbott         +298   P-8953
+Umar            -73   P-8953
+Fofana         +548   P-1621
+Kowalski       +259   P-5445
+Lambert        +204   P-3230
+Park           -660   P-1267
+Jensen         +158   P-3506
+
+Follow the entry with the largest credit.

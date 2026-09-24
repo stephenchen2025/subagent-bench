@@ -1,0 +1,11 @@
+Ledger page P-6987
+
+account      amount   see page
+Ibarra         -123   P-2034
+Hughes         +508   P-9897
+Zhou           +184   P-4636
+Silva          +367   P-5739
+Xu             -574   P-4636
+Baker          +549   P-9028
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,11 @@
+Ledger page P-8497
+
+account      amount   see page
+Tanaka         +362   P-9110
+Xu             -290   P-4687
+Moreau         +522   P-2245
+Hughes         +580   P-2944
+Eriksen         -91   P-3026
+Dunn            -70   P-1614
+
+Follow the entry with the largest credit.

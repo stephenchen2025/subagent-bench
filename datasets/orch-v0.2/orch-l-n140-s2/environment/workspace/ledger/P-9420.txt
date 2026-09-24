@@ -1,0 +1,12 @@
+Ledger page P-9420
+
+account      amount   see page
+Fofana         +356   P-7865
+Xu             +853   P-8440
+Eriksen        +753   P-4602
+Umar           -100   P-2245
+Young          +210   P-9200
+Weber          -479   P-8815
+Baker          +596   P-9920
+
+Follow the entry with the largest debit (the most negative amount).

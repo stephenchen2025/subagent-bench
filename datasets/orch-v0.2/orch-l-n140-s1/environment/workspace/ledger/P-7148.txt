@@ -1,0 +1,12 @@
+Ledger page P-7148
+
+account      amount   see page
+Jensen         +523   P-2985
+Dunn           +179   P-6757
+Eriksen         -34   P-2338
+Kowalski       +571   P-4535
+Nakamura       +175   P-5107
+Tanaka         -124   P-8127
+Grant          -240   P-4810
+
+Follow the entry with the largest credit.

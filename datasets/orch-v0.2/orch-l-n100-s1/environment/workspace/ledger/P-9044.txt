@@ -1,0 +1,10 @@
+Ledger page P-9044
+
+account      amount   see page
+Baker          -689   P-4481
+Moreau         +580   P-8121
+Nakamura       -858   P-9765
+Quinn           -82   P-6171
+Silva          +412   P-1481
+
+Follow the credit belonging to the account that comes first alphabetically.

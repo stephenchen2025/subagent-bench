@@ -1,0 +1,12 @@
+Ledger page P-9221
+
+account      amount   see page
+Tanaka         +437   P-8937
+Lambert        -881   P-4720
+Kowalski       -322   P-9627
+Young          +441   P-8665
+Rahman         +699   P-7573
+Baker          -489   P-6634
+Moreau         -644   P-5183
+
+Follow the credit belonging to the account that comes first alphabetically.

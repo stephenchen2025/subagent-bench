@@ -1,0 +1,12 @@
+Ledger page P-1287
+
+account      amount   see page
+Castillo       +399   P-8073
+Quinn          -824   P-4567
+Abbott         -853   P-1759
+Dunn           +215   P-2777
+Fofana         -699   P-2777
+Xu             -614   P-5961
+Silva          -481   P-3199
+
+Follow the entry with the largest credit.

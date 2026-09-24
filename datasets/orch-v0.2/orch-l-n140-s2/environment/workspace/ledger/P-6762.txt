@@ -1,0 +1,10 @@
+Ledger page P-6762
+
+account      amount   see page
+Xu              -34   P-7862
+Grant           +97   P-2080
+Hughes         +122   P-2898
+Jensen         +404   P-5026
+Vance          +194   P-8981
+
+Follow the entry with the largest credit.

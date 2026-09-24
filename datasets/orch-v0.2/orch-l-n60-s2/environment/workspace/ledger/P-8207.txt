@@ -1,0 +1,12 @@
+Ledger page P-8207
+
+account      amount   see page
+Ibarra         -800   P-7317
+Osei           -620   P-3271
+Park           +358   P-6962
+Vance          +461   P-9624
+Umar           +478   P-9604
+Rahman         -140   P-6017
+Nakamura       -858   P-2847
+
+Follow the entry with the largest credit.

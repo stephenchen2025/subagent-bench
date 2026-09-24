@@ -1,0 +1,12 @@
+Ledger page P-2646
+
+account      amount   see page
+Quinn          +698   P-5729
+Tanaka          -62   P-2583
+Nakamura       +836   P-7197
+Dunn           +529   P-2425
+Zhou           +720   P-5480
+Weber          +294   P-5383
+Eriksen        +175   P-4111
+
+Follow the credit belonging to the account that comes first alphabetically.

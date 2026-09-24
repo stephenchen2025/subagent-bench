@@ -1,0 +1,11 @@
+Ledger page P-4236
+
+account      amount   see page
+Rahman         -537   P-8381
+Weber          +633   P-4397
+Lambert         +49   P-7931
+Kowalski       -653   P-9286
+Grant           -61   P-6667
+Jensen           +7   P-2649
+
+Follow the credit belonging to the account that comes first alphabetically.

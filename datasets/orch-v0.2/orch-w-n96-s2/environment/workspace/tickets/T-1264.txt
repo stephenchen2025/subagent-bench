@@ -1,0 +1,68 @@
+Ticket T-1264
+Customer: Elena Petrova
+Orders on file: ORD-98418, ORD-54163, ORD-33807, ORD-72046
+Opened: 2026-06-09 via email
+
+Order details:
+ORD-98418  placed 2026-07-15  status: delivered  total: $51.75
+  payment method: card ending 3224  ship to: 831 Mill Lane
+  - carry-on suitcase x1
+  - merino socks, size M x2
+  - stainless water bottle, 750ml x3
+  - microfiber cloth x1
+  - replacement filter cartridge, 3-pack x2
+ORD-54163  placed 2026-05-19  status: returned  total: $191.82
+  payment method: card ending 9617  ship to: 75 Mill Ave
+  - camping stove x1
+  - merino socks, size M x3
+  - stainless water bottle, 750ml x1
+ORD-33807  placed 2026-03-14  status: delivered  total: $410.30
+  payment method: card ending 6737  ship to: 179 Harbor Lane
+  - noise-cancelling headphones x1
+  - gift wrap x1
+  - replacement filter cartridge, 3-pack x2
+  - stainless water bottle, 750ml x3
+ORD-72046  placed 2026-05-17  status: in transit  total: $323.40
+  payment method: card ending 5336  ship to: 193 Harbor Rd
+  - cast iron skillet x1
+  - stainless water bottle, 750ml x2
+  - carabiner set x1
+
+--- message 1 from Elena Petrova ---
+The noise-cancelling headphones from ORD-72046 arrived with a scratch on the side. Can I get a replacement? I'm travelling next week, so email is the best way to reach me. My partner placed ORD-54163 on our shared account, in case that matters. I'm happy to send screenshots if that helps.
+
+Best regards,
+Elena Petrova
+
+--- message 2 from Marcus (support) ---
+Our warehouse shows ORD-54163 left on schedule. Tracking updates can lag by a day or two with this carrier. I've resent the confirmation email for ORD-72046 to the address on file. I've updated your shipping address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Elena Petrova ---
+I'd rather not call; the hold times last time were very long. The confirmation email for ORD-54163 went to my spam folder, so I only just saw it. I've been a customer for a few years and usually everything goes smoothly. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Elena Petrova
+
+--- message 4 from Marcus (support) ---
+I've added a note to your account so the next agent has the context. If you need an invoice for ORD-33807, you can download it from the Orders page. I've updated your shipping address on file. Let me know if anything else looks off.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Elena Petrova ---
+I'm travelling next week, so email is the best way to reach me. I'd rather not call; the hold times last time were very long. The box for ORD-54163 was a bit crushed but the contents were fine. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Elena Petrova
+
+--- message 6 from Marcus (support) ---
+Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-54163. I've updated your shipping address on file. For ORD-33807, the return window is 30 days from delivery.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

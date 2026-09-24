@@ -1,0 +1,11 @@
+Ledger page P-7083
+
+account      amount   see page
+Abbott         -612   P-5991
+Silva          +748   P-6749
+Zhou            +62   P-6484
+Jensen         +113   P-9874
+Young          +392   P-7635
+Park           -589   P-1141
+
+Follow the entry with the largest credit.

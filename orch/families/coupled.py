@@ -1,31 +1,31 @@
-"""C -- coupled change. Looks parallel; isn't.
+"""C -- coupled views. Decomposes cleanly, but only behind a contract.
 
-Add a `priority` field to a small job system. The instruction names every file
-that must change and specifies the behaviour at the edges: how `submit` is
-called, what `next_job` returns, what the API and CLI show. It says nothing about
-how priority is stored in the job record. Every module reads and writes the same
-records, so that representation is a decision the modules must share.
+Add job priorities to a small job system, then make each of M "views" (email
+digest, pager line, dashboard tile, ...) show a job's priority the way its own
+spec in docs/views/<view>.md says. The views are independent of each other and
+the instruction lists them, so the work splits naturally: a few views per
+worker. At M=40 the specs, modules and the code written for them overflow a 32k window, and a
+solo agent needs well over 100 steps.
 
-One agent makes that decision once, without noticing it made it. Isolated workers
-each make it separately: one stores `"priority": "high"`, another sorts on
-`record.get("prio", 1)`. Each module is locally reasonable; the hidden
-integration test fails. This is Cognition's Flappy Bird failure, and the 37% of
-MAST failures that are inter-agent misalignment, in a form a verifier can check.
+The catch: every view reads the job record the producer writes, and the
+instruction deliberately says nothing about how priority is stored in it. One
+agent makes that choice once without noticing. Isolated workers each make it
+separately -- one stores "priority": "high", another reads record.get("prio", 1)
+-- and each view is locally correct while the integration checks fail. That is
+Cognition's Flappy Bird failure, and MAST's inter-agent misalignment.
 
-Delegation is not forbidden. A lead that fixes the representation first and
-puts it in every brief passes. The label is `solo` because the cheapest correct
-policy is not to delegate at all.
+So the right policy is to delegate *behind a contract*: fix the record format
+first and put it in every brief. The oracle plan does exactly that. Delegating
+without it is the failure this family exists to catch.
 """
 
 import json
 
-from orch.task import SOLO, OrchTask, rng_for, task_id
+from orch.task import DELEGATE, OrchTask, rng_for, task_id
 
 FAMILY = "C"
-SIZES = (4, 7)
-
-CORE = ("producer", "scheduler", "api", "cli")
-EXTRA = ("exporter", "metrics", "archive")
+SIZES = (20, 30, 40)
+VIEWS_PER_WORKER = 3
 
 LEVELS = ("low", "normal", "high")
 # Representations a worker might pick. Each is internally consistent; mixing
@@ -42,6 +42,8 @@ ENCODINGS = {
     "rank": {"low": 0, "normal": 1, "high": 2},
     "rank_inv": {"low": 2, "normal": 1, "high": 0},
 }
+CONTRACT = ("Store priority in the job record under the key 'priority' as one of the "
+            "strings 'low', 'normal' or 'high'. A record without that key is 'normal'.")
 
 STORE = '''"""Append-only JSON-lines job store.
 
@@ -92,9 +94,98 @@ class Store:
         return record
 '''
 
-# --- baseline modules (before the feature) -------------------------------------
+VIEW_NAMES = [
+    "email_digest", "slack_alert", "sms_brief", "dashboard_tile", "pager_line", "audit_row",
+    "csv_line", "rss_item", "webhook_payload", "kanban_card", "cli_table", "weekly_report",
+    "status_badge", "ops_ticker", "mobile_push", "tv_wall", "chat_bot", "voice_prompt",
+    "calendar_note", "log_line", "json_feed", "html_row", "markdown_list", "jira_comment",
+    "teams_card", "discord_embed", "grafana_note", "sheet_row", "printer_slip", "kiosk_screen",
+    "watch_face", "desktop_toast", "email_subject", "invoice_note", "archive_label",
+    "qa_checklist", "oncall_digest", "wiki_table", "exec_summary", "sla_board",
+]
 
-BASE = {
+# How each view shows a level. Tokens are delimited by one space, so a check can
+# tell "*" from "**".
+STYLES = {
+    "bracket": {"high": "[HIGH]", "normal": "[NORMAL]", "low": "[LOW]"},
+    "p_number": {"high": "P1", "normal": "P2", "low": "P3"},
+    "stars": {"high": "***", "normal": "**", "low": "*"},
+    "bangs": {"high": "!!!", "normal": "!!", "low": "!"},
+    "color": {"high": "color=red", "normal": "color=amber", "low": "color=green"},
+    "word": {"high": "priority:high", "normal": "priority:normal", "low": "priority:low"},
+    "level": {"high": "level=3", "normal": "level=2", "low": "level=1"},
+    "arrows": {"high": "^^", "normal": "--", "low": "vv"},
+    "urgency": {"high": "URGENT", "normal": "ROUTINE", "low": "DEFERRABLE"},
+}
+# (python expression over `record`, human description)
+LAYOUTS = [
+    ("f\"{record['id']} | {record['name']} | {record['state']}\"", "id | name | state"),
+    ("f\"{record['name']} ({record['id']}) is {record['state']}\"", "name (id) is state"),
+    ("f\"{record['state'].upper()}: {record['name']} [{record['id']}]\"", "STATE: name [id]"),
+    ("f\"{record['id']}: {record['name']} -- {record['state']}\"", "id: name -- state"),
+    ("f\"job {record['id']} / {record['name']} / {record['state']}\"", "job id / name / state"),
+]
+AUDIENCES = [
+    "the on-call engineer who is paged at night", "the finance team's weekly review",
+    "customer support leads", "the platform team's wall display", "release managers",
+    "auditors reviewing job history", "the executive summary email", "mobile users",
+]
+HISTORY = [
+    "Switched from a fixed-width layout after complaints about truncation on small screens.",
+    "Added the state column; before that the view only showed the job name.",
+    "Moved from the legacy notifier into views/ as part of the views consolidation.",
+    "Owners asked that the format stay stable because downstream parsers depend on it.",
+    "Localisation was considered and deferred; everything is English for now.",
+    "A request to add colours in the terminal was declined to keep output plain text.",
+    "Renamed from its old module name; the old name is gone.",
+    "The layout was reviewed with the design team; keep separators exactly as they are.",
+]
+
+
+EXAMPLE_JOBS = ["nightly-backup", "invoice-run", "reindex-search", "rotate-keys",
+                "send-digest", "purge-cache", "export-ledger", "resize-images",
+                "sync-inventory", "compact-logs", "renew-certs", "rebuild-feed"]
+
+
+def _example_line(params, job_id, name, state, level):
+    record = {"id": job_id, "name": name, "state": state}
+    base = eval("lambda record: " + LAYOUTS[params["layout"]][0])(record)  # noqa: S307
+    token = STYLES[params["style"]][level]
+    return f"{token} {base}" if params["position"] == "prefix" else f"{base} {token}"
+
+
+def _view_params(rng, size):
+    names = rng.sample(VIEW_NAMES, size)
+    styles = list(STYLES)
+    views = {}
+    for i, name in enumerate(names):
+        views[name] = {
+            "style": styles[i] if i < len(styles) else rng.choice(styles),
+            "position": rng.choice(["prefix", "suffix"]),
+            "layout": rng.randrange(len(LAYOUTS)),
+            "audience": rng.choice(AUDIENCES),
+            "history": rng.sample(HISTORY, 8),
+            "examples": [(f"job-{rng.randint(1, 999):04d}", rng.choice(EXAMPLE_JOBS),
+                          rng.choice(["pending", "running", "done", "failed"]),
+                          rng.choice(LEVELS)) for _ in range(14)],
+        }
+    return views
+
+
+def _codec(key, enc):
+    table = ENCODINGS[enc]
+    return (
+        f"_KEY = {key!r}\n"
+        f"_ENCODE = {json.dumps(table)}\n"
+        "_DECODE = {v: k for k, v in _ENCODE.items()}\n"
+        "_RANK = {'low': 0, 'normal': 1, 'high': 2}\n\n\n"
+        "def _priority(record):\n"
+        "    value = record.get(_KEY)\n"
+        "    return 'normal' if value is None else _DECODE.get(value, 'normal')\n"
+    )
+
+
+BASE_CORE = {
     "producer": '''"""Job submission."""
 
 
@@ -114,147 +205,11 @@ def next_job(store):
     job = min(pending, key=lambda r: r["created"])
     return store.update(job["id"], state="running")
 ''',
-    "api": '''"""Read-only API views."""
-
-FIELDS = ("id", "name", "state")
-
-
-def job_view(store, job_id):
-    record = store.get(job_id)
-    if record is None:
-        raise KeyError(job_id)
-    return {field: record[field] for field in FIELDS}
-''',
-    "cli": '''"""Terminal output."""
-
-
-def format_row(record):
-    return f"{record['id']}  {record['state']:<8} {record['name']}"
-''',
-    "exporter": '''"""CSV export."""
-import csv
-import io
-
-COLUMNS = ["id", "name", "state"]
-
-
-def export_csv(store):
-    out = io.StringIO()
-    writer = csv.writer(out)
-    writer.writerow(COLUMNS)
-    for record in store.all():
-        writer.writerow([record[c] for c in COLUMNS])
-    return out.getvalue()
-''',
-    "metrics": '''"""Counters for the dashboard."""
-from collections import Counter
-
-
-def counts_by_state(store):
-    return dict(Counter(r["state"] for r in store.all()))
-''',
-    "archive": '''"""Compact one-line archive format."""
-
-
-def pack(record):
-    return "|".join([record["id"], record["name"], record["state"], str(record["created"])])
-
-
-def unpack(line):
-    job_id, name, state, created = line.split("|")
-    return {"id": job_id, "name": name, "state": state, "created": int(created)}
-''',
 }
 
-VISIBLE_TEST = '''import os
-import sys
-import tempfile
-import unittest
 
-sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-
-from jobs import api, producer, scheduler  # noqa: E402
-from jobs.store import Store  # noqa: E402
-
-
-class TestJobs(unittest.TestCase):
-    def setUp(self):
-        self.store = Store(os.path.join(tempfile.mkdtemp(), "jobs.jsonl"))
-
-    def test_fifo(self):
-        a = producer.submit(self.store, "a")
-        b = producer.submit(self.store, "b")
-        self.assertEqual(scheduler.next_job(self.store)["id"], a)
-        self.assertEqual(scheduler.next_job(self.store)["id"], b)
-        self.assertIsNone(scheduler.next_job(self.store))
-
-    def test_view(self):
-        a = producer.submit(self.store, "build")
-        self.assertEqual(api.job_view(self.store, a)["name"], "build")
-
-
-if __name__ == "__main__":
-    unittest.main()
-'''
-
-CONTRACT = {
-    "producer": "`producer.submit(store, name, priority=\"normal\")` accepts `\"low\"`, "
-                "`\"normal\"` or `\"high\"` and raises `ValueError` for anything else. "
-                "Existing calls without `priority` keep working.",
-    "scheduler": "`scheduler.next_job(store)` returns the highest-priority pending job; "
-                 "ties go to the oldest.",
-    "api": "`api.job_view(store, job_id)` includes `\"priority\"`, with the value given at "
-           "submission (e.g. `\"high\"`).",
-    "cli": "`cli.format_row(record)` starts with the priority in capitals in brackets, "
-           "e.g. `[HIGH] job-0001  pending  build`.",
-    "exporter": "`exporter.export_csv(store)` has a `priority` column holding "
-                "`low`/`normal`/`high`.",
-    "metrics": "`metrics.counts_by_priority(store)` returns "
-               "`{\"low\": n, \"normal\": n, \"high\": n}`, all three keys always present.",
-    "archive": "`archive.unpack(archive.pack(record))` preserves the job's priority.",
-}
-
-INSTRUCTION = """\
-Add job priorities to the job system in `jobs/`.
-
-Required behaviour:
-
-{contract}
-
-Jobs submitted before this change have no priority. Treat them as `normal` everywhere.
-
-Files that need changes: {files}. `python -m unittest discover tests` must keep passing.
-"""
-
-
-CORE_CHECKS = ("check_order", "check_view", "check_cli", "check_invalid", "check_legacy",
-               "check_regression")
-EXTRA_CHECKS = {"exporter": "check_export", "metrics": "check_metrics", "archive": "check_archive"}
-
-
-def _items(size):
-    return list(CORE) + list(EXTRA[: size - len(CORE)])
-
-
-def _codec(key, enc):
-    table = ENCODINGS[enc]
-    return (
-        f"_KEY = {key!r}\n"
-        f"_ENCODE = {json.dumps(table)}\n"
-        "_DECODE = {v: k for k, v in _ENCODE.items()}\n"
-        "_RANK = {'low': 0, 'normal': 1, 'high': 2}\n\n\n"
-        "def _priority(record):\n"
-        "    value = record.get(_KEY)\n"
-        "    return 'normal' if value is None else _DECODE.get(value, 'normal')\n"
-    )
-
-
-def render_module(module, key="priority", enc="str"):
-    """A correct implementation of `module` under one record representation.
-
-    Used by the oracle solution (one representation everywhere) and by the
-    rehearsal's eager fan-out policy (a different one per worker).
-    """
+def render_core(module, key="priority", enc="str"):
+    """A correct producer or scheduler under one record representation."""
     codec = _codec(key, enc)
     if module == "producer":
         return (
@@ -278,70 +233,126 @@ def render_module(module, key="priority", enc="str"):
             "    job = min(pending, key=lambda r: (-_RANK[_priority(r)], r[\"created\"]))\n"
             "    return store.update(job[\"id\"], state=\"running\")\n"
         )
-    if module == "api":
-        return (
-            '"""Read-only API views."""\n' + codec + "\n"
-            "FIELDS = (\"id\", \"name\", \"state\")\n\n\n"
-            "def job_view(store, job_id):\n"
-            "    record = store.get(job_id)\n"
-            "    if record is None:\n"
-            "        raise KeyError(job_id)\n"
-            "    view = {field: record[field] for field in FIELDS}\n"
-            "    view[\"priority\"] = _priority(record)\n"
-            "    return view\n"
-        )
-    if module == "cli":
-        return (
-            '"""Terminal output."""\n' + codec + "\n\n"
-            "def format_row(record):\n"
-            "    tag = f\"[{_priority(record).upper()}]\"\n"
-            "    return f\"{tag} {record['id']}  {record['state']:<8} {record['name']}\"\n"
-        )
-    if module == "exporter":
-        return (
-            '"""CSV export."""\nimport csv\nimport io\n\n' + codec + "\n"
-            "COLUMNS = [\"id\", \"name\", \"state\", \"priority\"]\n\n\n"
-            "def export_csv(store):\n"
-            "    out = io.StringIO()\n"
-            "    writer = csv.writer(out)\n"
-            "    writer.writerow(COLUMNS)\n"
-            "    for record in store.all():\n"
-            "        writer.writerow([record[\"id\"], record[\"name\"], record[\"state\"],\n"
-            "                         _priority(record)])\n"
-            "    return out.getvalue()\n"
-        )
-    if module == "metrics":
-        return (
-            '"""Counters for the dashboard."""\nfrom collections import Counter\n\n' + codec + "\n\n"
-            "def counts_by_state(store):\n"
-            "    return dict(Counter(r[\"state\"] for r in store.all()))\n\n\n"
-            "def counts_by_priority(store):\n"
-            "    counts = {\"low\": 0, \"normal\": 0, \"high\": 0}\n"
-            "    for record in store.all():\n"
-            "        counts[_priority(record)] += 1\n"
-            "    return counts\n"
-        )
-    if module == "archive":
-        return (
-            '"""Compact one-line archive format."""\n' + codec + "\n\n"
-            "def pack(record):\n"
-            "    return \"|\".join([record[\"id\"], record[\"name\"], record[\"state\"],\n"
-            "                     str(record[\"created\"]), _priority(record)])\n\n\n"
-            "def unpack(line):\n"
-            "    job_id, name, state, created, priority = line.split(\"|\")\n"
-            "    return {\"id\": job_id, \"name\": name, \"state\": state,\n"
-            "            \"created\": int(created), _KEY: _ENCODE[priority]}\n"
-        )
     raise KeyError(module)
 
 
-# Hidden integration checks. Pure stdlib; imported by the verifier with the
-# workspace on sys.path. Each check is one point.
+def _title(name):
+    return name.replace("_", " ")
+
+
+def base_view(name, params):
+    expr = LAYOUTS[params["layout"]][0]
+    return (
+        f'"""The {_title(name)} view: one line per job, for {params["audience"]}."""\n\n\n'
+        "def render(record):\n"
+        f"    return {expr}\n"
+    )
+
+
+def render_view(name, params, key="priority", enc="str"):
+    """A correct implementation of one view under one record representation."""
+    expr = LAYOUTS[params["layout"]][0]
+    tokens = STYLES[params["style"]]
+    joined = 'f"{token} {base}"' if params["position"] == "prefix" else 'f"{base} {token}"'
+    return (
+        f'"""The {_title(name)} view: one line per job, for {params["audience"]}."""\n'
+        + _codec(key, enc) + "\n"
+        f"_TOKENS = {json.dumps(tokens)}\n\n\n"
+        "def render(record):\n"
+        f"    base = {expr}\n"
+        "    token = _TOKENS[_priority(record)]\n"
+        f"    return {joined}\n"
+    )
+
+
+def view_spec(name, params):
+    tokens = STYLES[params["style"]]
+    where = ("at the start of the line, followed by one space" if params["position"] == "prefix"
+             else "at the end of the line, after one space")
+    history = "\n".join(f"- {h}" for h in params["history"])
+    examples = "\n".join(
+        f"| {job} | {name} | {state} | {level} | `{_example_line(params, job, name, state, level)}` |"
+        for job, name, state, level in params["examples"])
+    return f"""# {_title(name).title()} view
+
+Module: `views/{name}.py`. Audience: {params["audience"]}.
+
+Current layout: `{LAYOUTS[params["layout"]][1]}`. Keep it exactly as it is; only
+add the priority marker described below.
+
+## Priority marker
+
+Show the job's priority {where}:
+
+| priority | marker |
+|---|---|
+| high | `{tokens["high"]}` |
+| normal | `{tokens["normal"]}` |
+| low | `{tokens["low"]}` |
+
+Jobs submitted before priorities existed have no priority and show the `normal` marker.
+
+## Examples
+
+Expected output once the marker is added:
+
+| id | name | state | priority | line |
+|---|---|---|---|---|
+{examples}
+
+## History
+
+{history}
+
+## Owners
+
+Questions about this view go to the team that consumes it ({params["audience"]}).
+Changes to the layout itself need their sign-off; adding the priority marker does not.
+"""
+
+
+VISIBLE_TEST = '''import importlib
+import os
+import sys
+import tempfile
+import unittest
+
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+from jobs import producer, scheduler  # noqa: E402
+from jobs.store import Store  # noqa: E402
+
+VIEWS = {views!r}
+
+
+class TestJobs(unittest.TestCase):
+    def setUp(self):
+        self.store = Store(os.path.join(tempfile.mkdtemp(), "jobs.jsonl"))
+
+    def test_fifo(self):
+        a = producer.submit(self.store, "a")
+        b = producer.submit(self.store, "b")
+        self.assertEqual(scheduler.next_job(self.store)["id"], a)
+        self.assertEqual(scheduler.next_job(self.store)["id"], b)
+
+    def test_views_show_id_and_name(self):
+        job = producer.submit(self.store, "build")
+        for view in VIEWS:
+            line = importlib.import_module(f"views.{{view}}").render(self.store.get(job))
+            self.assertIn(job, line)
+            self.assertIn("build", line)
+
+
+if __name__ == "__main__":
+    unittest.main()
+'''
+
 HIDDEN = '''"""Hidden integration checks for family C. One point each."""
-import csv
-import io
+import importlib
 import os
 import tempfile
+
+VIEWS = {views!r}
 
 
 def _fresh():
@@ -351,16 +362,16 @@ def _fresh():
 
 def _seed(store):
     from jobs import producer
-    ids = {}
-    ids["low"] = producer.submit(store, "lint", priority="low")
-    ids["normal1"] = producer.submit(store, "build", priority="normal")
-    ids["high"] = producer.submit(store, "deploy", priority="high")
-    ids["normal2"] = producer.submit(store, "test")
-    return ids
+    return {{
+        "low": producer.submit(store, "lint", priority="low"),
+        "normal": producer.submit(store, "build", priority="normal"),
+        "high": producer.submit(store, "deploy", priority="high"),
+        "default": producer.submit(store, "test"),
+    }}
 
 
 def _legacy(store):
-    store.put({"id": "job-0900", "name": "old", "created": store.tick(), "state": "pending"})
+    store.put({{"id": "job-0900", "name": "old", "created": store.tick(), "state": "pending"}})
     return "job-0900"
 
 
@@ -369,74 +380,26 @@ def check_order():
     store = _fresh()
     ids = _seed(store)
     got = [scheduler.next_job(store)["id"] for _ in range(4)]
-    assert got == [ids["high"], ids["normal1"], ids["normal2"], ids["low"]], got
-
-
-def check_view():
-    from jobs import api
-    store = _fresh()
-    ids = _seed(store)
-    for level, job in (("low", ids["low"]), ("high", ids["high"]), ("normal", ids["normal2"])):
-        assert api.job_view(store, job)["priority"] == level
-
-
-def check_cli():
-    from jobs import cli
-    store = _fresh()
-    ids = _seed(store)
-    assert cli.format_row(store.get(ids["high"])).startswith("[HIGH]")
-    assert cli.format_row(store.get(ids["low"])).startswith("[LOW]")
-    assert cli.format_row(store.get(ids["normal2"])).startswith("[NORMAL]")
+    assert got == [ids["high"], ids["normal"], ids["default"], ids["low"]], got
 
 
 def check_invalid():
     from jobs import producer
-    store = _fresh()
     try:
-        producer.submit(store, "x", priority="urgent")
+        producer.submit(_fresh(), "x", priority="urgent")
     except ValueError:
         return
     raise AssertionError("no ValueError")
 
 
-def check_legacy():
-    from jobs import api, cli, scheduler
+def check_legacy_order():
+    from jobs import scheduler
     store = _fresh()
     old = _legacy(store)
     ids = _seed(store)
-    assert api.job_view(store, old)["priority"] == "normal"
-    assert cli.format_row(store.get(old)).startswith("[NORMAL]")
     got = [scheduler.next_job(store)["id"] for _ in range(5)]
     assert got[0] == ids["high"] and got[-1] == ids["low"], got
-    assert got.index(old) < got.index(ids["normal1"]), got
-
-
-def check_export():
-    from jobs import exporter
-    store = _fresh()
-    ids = _seed(store)
-    rows = {r["id"]: r for r in csv.DictReader(io.StringIO(exporter.export_csv(store)))}
-    assert rows[ids["high"]]["priority"] == "high"
-    assert rows[ids["normal2"]]["priority"] == "normal"
-
-
-def check_metrics():
-    from jobs import metrics
-    store = _fresh()
-    _legacy(store)
-    _seed(store)
-    assert metrics.counts_by_priority(store) == {"low": 1, "normal": 3, "high": 1}
-
-
-def check_archive():
-    from jobs import api, archive, scheduler
-    store = _fresh()
-    ids = _seed(store)
-    other = _fresh()
-    for record in store.all():
-        other.put(archive.unpack(archive.pack(record)))
-    assert api.job_view(other, ids["high"])["priority"] == "high"
-    assert scheduler.next_job(other)["id"] == ids["high"]
+    assert got.index(old) < got.index(ids["normal"]), got
 
 
 def check_regression():
@@ -447,39 +410,135 @@ def check_regression():
                             capture_output=True, text=True)
     assert result.returncode == 0, result.stderr[-500:]
 
+
+def _view_check(name, spec):
+    base = eval("lambda record: " + spec["expr"])  # noqa: S307 -- our own layouts
+
+    def check():
+        view = importlib.import_module("views." + name)
+        store = _fresh()
+        old = _legacy(store)
+        ids = _seed(store)
+        cases = [(ids["high"], "high"), (ids["normal"], "normal"), (ids["low"], "low"),
+                 (ids["default"], "normal"), (old, "normal")]
+        for job, level in cases:
+            record = store.get(job)
+            line = view.render(record)
+            token = spec["tokens"][level]
+            if spec["position"] == "prefix":
+                assert line.startswith(token + " "), (line, token)
+                rest = line[len(token) + 1:]
+            else:
+                assert line.endswith(" " + token), (line, token)
+                rest = line[:-(len(token) + 1)]
+            assert rest == base(record), (rest, line)
+    return check
+
+
+for _name, _spec in VIEWS.items():
+    globals()["check_view_" + _name] = _view_check(_name, _spec)
 '''
+
+CORE_CHECKS = ("check_order", "check_invalid", "check_legacy_order", "check_regression")
+
+INSTRUCTION = """\
+Add job priorities to the job system, and show them in every view.
+
+1. `jobs/producer.py`: `submit(store, name, priority="normal")` accepts `"low"`,
+   `"normal"` or `"high"` and raises `ValueError` for anything else. Existing calls
+   without `priority` keep working.
+2. `jobs/scheduler.py`: `next_job(store)` returns the highest-priority pending job;
+   ties go to the oldest.
+3. Each of the {m} views below must show the job's priority exactly as its spec in
+   `docs/views/<view>.md` says. Nothing else about a view's output may change.
+
+Views: {views}.
+
+Jobs submitted before this change have no priority. Treat them as `normal`
+everywhere. `python -m unittest discover tests` must keep passing.
+"""
+
+WORKER_BRIEF = """\
+Add a priority marker to these views: {files}. For each view, the exact marker and
+where it goes are in its spec, `docs/views/<view>.md`. Change nothing else about a
+view's output, and edit no other files.
+
+Record contract: {contract}
+
+When you are done, run `python -m unittest discover tests` and report which views
+you changed and whether the tests pass.
+"""
+
+CORE_BRIEF = """\
+Add job priorities to `jobs/producer.py` and `jobs/scheduler.py`, and edit no other files.
+
+- `submit(store, name, priority="normal")` accepts "low", "normal" or "high" and raises
+  ValueError for anything else; existing calls without priority keep working.
+- `next_job(store)` returns the highest-priority pending job; ties go to the oldest.
+- Jobs without a priority count as "normal".
+
+Record contract: {contract}
+
+Run `python -m unittest discover tests` and report the result.
+"""
 
 
 def generate(size, seed):
-    if size not in SIZES:
-        raise ValueError(f"C sizes are {SIZES}")
+    if size < 8:
+        raise ValueError("C needs at least 8 views to be a long-horizon task")
     rng = rng_for(FAMILY, size, seed)
-    modules = _items(size)
-    files = {"jobs/__init__.py": "", "jobs/store.py": STORE, "tests/test_jobs.py": VISIBLE_TEST}
-    for module in CORE + EXTRA:
-        if module in modules:
-            files[f"jobs/{module}.py"] = BASE[module]
-    contract = "\n".join(f"- {CONTRACT[m]}" for m in modules)
-    checks = list(CORE_CHECKS) + [EXTRA_CHECKS[m] for m in modules if m in EXTRA]
+    views = _view_params(rng, size)
+    names = list(views)
+    files = {
+        "jobs/__init__.py": "",
+        "jobs/store.py": STORE,
+        "jobs/producer.py": BASE_CORE["producer"],
+        "jobs/scheduler.py": BASE_CORE["scheduler"],
+        "views/__init__.py": "",
+        "tests/test_jobs.py": VISIBLE_TEST.format(views=names),
+    }
+    for name, params in views.items():
+        files[f"views/{name}.py"] = base_view(name, params)
+        files[f"docs/views/{name}.md"] = view_spec(name, params)
+    hidden_views = {
+        n: {"tokens": STYLES[p["style"]], "position": p["position"],
+            "expr": LAYOUTS[p["layout"]][0]}
+        for n, p in views.items()
+    }
     solution = "".join(
-        f"cat > jobs/{m}.py <<'PYEOF'\n{render_module(m)}PYEOF\n" for m in modules
+        f"cat > jobs/{m}.py <<'PYEOF'\n{render_core(m)}PYEOF\n" for m in ("producer", "scheduler")
+    ) + "".join(
+        f"cat > views/{n}.py <<'PYEOF'\n{render_view(n, p)}PYEOF\n" for n, p in views.items()
     )
-    # Seed only perturbs file ordering in the instruction; C is a control family
-    # whose value is its shape, not contamination resistance.
-    order = list(modules)
-    rng.shuffle(order)
     return OrchTask(
         id=task_id(FAMILY, size, seed),
         family=FAMILY,
         size=size,
         seed=seed,
-        label=SOLO,
-        instruction=INSTRUCTION.format(
-            contract=contract, files=", ".join(f"`jobs/{m}.py`" for m in order)
-        ),
+        label=DELEGATE,
+        instruction=INSTRUCTION.format(m=size, views=", ".join(f"`{n}`" for n in names)),
         files=files,
-        truth={"checks": checks, "modules": modules},
+        truth={"checks": list(CORE_CHECKS) + [f"check_view_{n}" for n in names],
+               "views": views},
         solution=solution,
-        work_items=modules,
-        hidden_tests={"hidden_checks.py": HIDDEN},
+        work_items=names,
+        oracle_plan=plan(names),
+        hidden_tests={"hidden_checks.py": HIDDEN.format(views=hidden_views)},
     )
+
+
+def plan(names, contract=CONTRACT):
+    """The ideal decomposition: the core, then views in groups; the contract in every brief."""
+    groups = [names[i:i + VIEWS_PER_WORKER] for i in range(0, len(names), VIEWS_PER_WORKER)]
+    return [{"items": [], "brief": CORE_BRIEF.format(contract=contract)}] + [
+        {"items": g, "brief": WORKER_BRIEF.format(
+            files=", ".join(f"views/{n}.py" for n in g), contract=contract)}
+        for g in groups
+    ]
+
+
+def views_in(text):
+    """View names a brief or instruction mentions, in order."""
+    import re
+
+    return re.findall(r"views/(\w+)\.py", text)

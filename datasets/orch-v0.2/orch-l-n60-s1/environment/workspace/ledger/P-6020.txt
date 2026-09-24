@@ -1,0 +1,12 @@
+Ledger page P-6020
+
+account      amount   see page
+Fofana         +342   P-2957
+Xu             +323   P-9531
+Zhou           +722   P-9485
+Abbott         +601   P-3493
+Weber          -120   P-1567
+Hughes         +734   P-9840
+Young          +508   P-5880
+
+Follow the entry with the largest credit.

@@ -1,0 +1,10 @@
+Ledger page P-4890
+
+account      amount   see page
+Park           +658   P-9584
+Young          +844   P-7598
+Eriksen        +373   P-5195
+Jensen         +611   P-2311
+Dunn           -399   P-8470
+
+Follow the entry with the largest credit.

@@ -1,0 +1,72 @@
+Ticket T-7223
+Customer: Amara Nwosu
+Orders on file: ORD-54943, ORD-27303, ORD-41901, ORD-84946
+Opened: 2026-04-23 via chat transcript
+
+Order details:
+ORD-54943  placed 2026-05-27  status: delivered  total: $187.01
+  payment method: card ending 8550  ship to: 930 Harbor St
+  - espresso grinder x1
+  - merino socks, size M x2
+  - microfiber cloth x2
+  - gift wrap x2
+ORD-27303  placed 2026-01-07  status: returned  total: $82.95
+  payment method: card ending 5816  ship to: 155 Harbor Lane
+  - water filter pitcher x1
+  - microfiber cloth x3
+  - stainless water bottle, 750ml x2
+  - replacement filter cartridge, 3-pack x3
+  - travel pouch x3
+ORD-41901  placed 2026-01-02  status: label created  total: $469.12
+  payment method: card ending 3082  ship to: 707 Elm Lane
+  - carry-on suitcase x1
+  - travel pouch x1
+  - merino socks, size M x3
+  - microfiber cloth x2
+  - gift wrap x3
+ORD-84946  placed 2026-05-19  status: label created  total: $334.57
+  payment method: card ending 4363  ship to: 306 Mill Ave
+  - bike light set x1
+  - stainless water bottle, 750ml x1
+  - gift wrap x1
+  - replacement filter cartridge, 3-pack x2
+
+--- message 1 from Amara Nwosu ---
+How do I reset my password? The reset link keeps expiring. I'd rather not call; the hold times last time were very long. I'm happy to send screenshots if that helps. I changed my shipping address last month, so please double-check you have the new one.
+
+Amara Nwosu
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Luis (support) ---
+Thanks for reaching out, and sorry for the trouble. I've resent the confirmation email for ORD-27303 to the address on file. Our warehouse shows ORD-27303 left on schedule. Let me know if anything else looks off.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Amara Nwosu ---
+Unrelated, but my bank double-charged me at a coffee shop last week, so I'm checking every line carefully now. Anyway, my actual question is about delivery for ORD-41901. I tried the chat widget first but it kept disconnecting. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Amara Nwosu
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Luis (support) ---
+I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Amara Nwosu ---
+I've been a customer for a few years and usually everything goes smoothly. I'd rather not call; the hold times last time were very long. The confirmation email for ORD-27303 went to my spam folder, so I only just saw it. I'm travelling next week, so email is the best way to reach me.
+
+Amara Nwosu
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Luis (support) ---
+If you need an invoice for ORD-54943, you can download it from the Orders page. Screenshots aren't necessary, but thank you for offering. Our warehouse shows ORD-27303 left on schedule. I've resent the confirmation email for ORD-84946 to the address on file.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

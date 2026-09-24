@@ -1,0 +1,12 @@
+Ledger page P-3147
+
+account      amount   see page
+Baker          +443   P-3557
+Rahman         -547   P-4125
+Vance          +197   P-9905
+Castillo       +387   P-9124
+Quinn          -248   P-3879
+Fofana         -598   P-3733
+Osei           -609   P-3340
+
+Follow the entry with the largest credit.

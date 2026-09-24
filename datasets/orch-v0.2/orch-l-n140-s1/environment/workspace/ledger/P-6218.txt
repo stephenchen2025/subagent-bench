@@ -1,0 +1,12 @@
+Ledger page P-6218
+
+account      amount   see page
+Rahman         -328   P-1026
+Dunn           +897   P-4348
+Ibarra         -307   P-3839
+Lambert        -759   P-4808
+Vance          -222   P-5517
+Weber          +698   P-2861
+Nakamura       +452   P-4305
+
+Follow the entry whose amount is closest to zero.

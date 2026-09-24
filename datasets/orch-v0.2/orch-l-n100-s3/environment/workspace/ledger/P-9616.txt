@@ -1,0 +1,11 @@
+Ledger page P-9616
+
+account      amount   see page
+Jensen         +283   P-7013
+Baker          +896   P-2834
+Silva          +857   P-2283
+Lambert        -722   P-6398
+Hughes          +95   P-5313
+Xu             +585   P-1670
+
+Follow the debit belonging to the account that comes last alphabetically.

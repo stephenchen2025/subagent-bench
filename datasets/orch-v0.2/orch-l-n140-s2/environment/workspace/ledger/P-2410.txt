@@ -1,0 +1,12 @@
+Ledger page P-2410
+
+account      amount   see page
+Vance          -406   P-1101
+Quinn          -447   P-7869
+Grant            +7   P-5520
+Dunn           -899   P-1108
+Zhou           -455   P-5465
+Castillo       +686   P-2691
+Moreau         -390   P-7710
+
+Follow the entry with the largest credit.

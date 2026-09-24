@@ -1,0 +1,10 @@
+Ledger page P-6446
+
+account      amount   see page
+Umar           -331   P-9917
+Vance          +855   P-2426
+Young          -637   P-6264
+Quinn          +765   P-2083
+Park            +70   P-7854
+
+Follow the debit belonging to the account that comes last alphabetically.

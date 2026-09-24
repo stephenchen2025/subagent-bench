@@ -1,0 +1,12 @@
+Ledger page P-3494
+
+account      amount   see page
+Young          -148   P-9228
+Zhou           +202   P-5691
+Abbott         +699   P-7912
+Osei           +885   P-7614
+Baker          +281   P-6284
+Nakamura        +77   P-1117
+Ibarra         -182   P-4913
+
+Follow the credit belonging to the account that comes first alphabetically.

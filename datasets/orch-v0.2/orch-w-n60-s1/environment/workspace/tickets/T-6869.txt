@@ -1,0 +1,97 @@
+Ticket T-6869
+Customer: Noah Fischer
+Orders on file: ORD-52596, ORD-21849, ORD-80847, ORD-44913
+Opened: 2026-03-28 via email
+
+Order details:
+ORD-52596  placed 2026-01-25  status: delivered  total: $40.86
+  payment method: card ending 1668  ship to: 817 Oak Ave
+  - trail running shoes x1
+  - gift wrap x3
+  - merino socks, size M x3
+  - USB-C charging cable (2m) x1
+  - spare battery pack x2
+ORD-21849  placed 2026-02-27  status: delivered  total: $472.05
+  payment method: card ending 1838  ship to: 987 Elm Rd
+  - carry-on suitcase x1
+  - spare battery pack x1
+  - stainless water bottle, 750ml x1
+  - extended warranty, 2 years x1
+ORD-80847  placed 2026-07-10  status: returned  total: $99.26
+  payment method: card ending 5960  ship to: 707 Oak Lane
+  - standing desk x1
+  - travel pouch x3
+  - USB-C charging cable (2m) x3
+ORD-44913  placed 2026-03-10  status: delivered  total: $199.85
+  payment method: card ending 6361  ship to: 389 Harbor St
+  - wool blanket x1
+  - spare battery pack x2
+  - stainless water bottle, 750ml x2
+
+--- message 1 from Noah Fischer ---
+Where is my refund for ORD-80847? You said 5 days and it has been 8. I'm happy to send screenshots if that helps. Is there a way to combine loyalty points from ORD-80847 with my next purchase? I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Dana (support) ---
+If you need an invoice for ORD-80847, you can download it from the Orders page. I've resent the confirmation email for ORD-80847 to the address on file. Our warehouse shows ORD-80847 left on schedule. Let me know if anything else looks off.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Noah Fischer ---
+The payment for ORD-21849 went through, and then about an hour later it went through again. I changed my shipping address last month, so please double-check you have the new one. Is there a way to combine loyalty points from ORD-80847 with my next purchase?
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Dana (support) ---
+If you need an invoice for ORD-52596, you can download it from the Orders page. Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-52596.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Dana (support) ---
+Our payment logs show a single capture for ORD-21849. The extra line you saw was an authorization that expired on its own -- no money was taken for it. Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-52596 to the address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Noah Fischer ---
+Is there a way to combine loyalty points from ORD-52596 with my next purchase? I've been a customer for a few years and usually everything goes smoothly. Tracking for ORD-44913 hasn't updated since Tuesday.
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Noah Fischer ---
+Oh, you're right -- I checked my statement this morning and the second line is gone. Only one charge. Sorry for the false alarm! Tracking for ORD-44913 hasn't updated since Tuesday. I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Noah Fischer
+
+--- message 8 from Dana (support) ---
+Loyalty points post about a week after an order is delivered. If you need an invoice for ORD-80847, you can download it from the Orders page. Screenshots aren't necessary, but thank you for offering.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Noah Fischer ---
+I'm happy to send screenshots if that helps. The confirmation email for ORD-44913 went to my spam folder, so I only just saw it. The espresso grinder itself is great, for what it's worth. Tracking for ORD-80847 hasn't updated since Tuesday.
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 10 from Dana (support) ---
+If you need an invoice for ORD-52596, you can download it from the Orders page. I can see all the orders on your account, including ORD-52596. Tracking updates can lag by a day or two with this carrier. Let me know if anything else looks off.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

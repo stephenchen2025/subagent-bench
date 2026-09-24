@@ -1,0 +1,12 @@
+Ledger page P-2194
+
+account      amount   see page
+Lambert        +489   P-9946
+Hughes         -820   P-9337
+Silva           -39   P-5686
+Quinn          +470   P-9874
+Abbott         +592   P-7109
+Ibarra         -264   P-5225
+Osei           -389   P-7246
+
+Follow the entry with the largest debit (the most negative amount).

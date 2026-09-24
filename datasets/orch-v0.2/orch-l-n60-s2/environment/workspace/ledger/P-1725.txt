@@ -1,0 +1,11 @@
+Ledger page P-1725
+
+account      amount   see page
+Baker          -133   P-6378
+Grant          -832   P-2355
+Weber          -260   P-4846
+Eriksen        -223   P-1332
+Castillo       +780   P-8755
+Moreau         -775   P-4891
+
+Follow the entry whose amount is closest to zero.

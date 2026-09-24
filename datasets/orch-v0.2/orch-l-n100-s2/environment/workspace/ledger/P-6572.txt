@@ -1,0 +1,10 @@
+Ledger page P-6572
+
+account      amount   see page
+Ibarra         +613   P-6000
+Rahman         +839   P-4727
+Tanaka         -194   P-2989
+Jensen         -291   P-6017
+Hughes         -446   P-4727
+
+Follow the entry with the largest credit.

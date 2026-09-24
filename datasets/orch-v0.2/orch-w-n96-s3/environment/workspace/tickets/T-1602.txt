@@ -1,0 +1,54 @@
+Ticket T-1602
+Customer: Jordan Okafor
+Orders on file: ORD-21153, ORD-91392, ORD-23747, ORD-21856
+Opened: 2026-08-13 via email
+
+Order details:
+ORD-21153  placed 2026-03-23  status: delivered  total: $307.56
+  payment method: card ending 9380  ship to: 668 Harbor Lane
+  - rain jacket x1
+  - spare battery pack x3
+  - carabiner set x2
+ORD-91392  placed 2026-08-16  status: delivered  total: $398.84
+  payment method: card ending 4591  ship to: 792 Cedar Lane
+  - carry-on suitcase x1
+  - microfiber cloth x1
+  - replacement filter cartridge, 3-pack x1
+ORD-23747  placed 2026-04-27  status: label created  total: $477.05
+  payment method: card ending 1637  ship to: 336 Elm Rd
+  - blender x1
+  - carabiner set x1
+  - gift wrap x2
+  - spare battery pack x2
+ORD-21856  placed 2026-03-10  status: delivered  total: $425.69
+  payment method: card ending 6511  ship to: 126 Oak Lane
+  - mechanical keyboard x1
+  - replacement filter cartridge, 3-pack x3
+  - USB-C charging cable (2m) x3
+  - microfiber cloth x2
+
+--- message 1 from Jordan Okafor ---
+The rain jacket from ORD-21153 arrived with a scratch on the side. Can I get a replacement? Your app logged me out twice while I was looking at this, which didn't help. I've been a customer for a few years and usually everything goes smoothly. The confirmation email for ORD-21856 went to my spam folder, so I only just saw it.
+
+Best regards,
+Jordan Okafor
+
+--- message 2 from Rosa (support) ---
+I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier. Loyalty points post about a week after an order is delivered. I've updated your shipping address on file.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Jordan Okafor ---
+Your app logged me out twice while I was looking at this, which didn't help. The box for ORD-21153 was a bit crushed but the contents were fine. Is there a way to combine loyalty points from ORD-21153 with my next purchase? Could you also tell me whether ORD-21856 qualifies for the extended return window?
+
+Jordan Okafor
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Rosa (support) ---
+Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering. I've added a note to your account so the next agent has the context. If you need an invoice for ORD-21856, you can download it from the Orders page.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

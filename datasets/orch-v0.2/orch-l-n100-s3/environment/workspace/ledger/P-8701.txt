@@ -1,0 +1,11 @@
+Ledger page P-8701
+
+account      amount   see page
+Umar           -187   P-5069
+Moreau           -6   P-9554
+Hughes         +635   P-3284
+Silva           -88   P-8671
+Castillo       +347   P-7198
+Park           +302   P-1945
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,11 @@
+Ledger page P-4251
+
+account      amount   see page
+Baker          -523   P-2780
+Park           -715   P-8846
+Ibarra         +494   P-1317
+Castillo       +717   P-1783
+Hughes         -842   P-6362
+Kowalski       -477   P-9743
+
+Follow the entry with the second-largest amount.

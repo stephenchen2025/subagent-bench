@@ -1,0 +1,10 @@
+Ledger page P-2328
+
+account      amount   see page
+Vance          +189   P-1567
+Hughes         +890   P-6472
+Grant          -432   P-4912
+Osei           +501   P-6165
+Rahman         -731   P-5261
+
+Follow the entry whose amount is closest to zero.

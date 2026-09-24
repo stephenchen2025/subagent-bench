@@ -1,0 +1,12 @@
+Ledger page P-4925
+
+account      amount   see page
+Baker          -647   P-2917
+Quinn          +816   P-8547
+Eriksen        -481   P-4064
+Park           -262   P-1979
+Vance          +525   P-2232
+Abbott         -720   P-8991
+Castillo       -373   P-9749
+
+Follow the entry whose amount is closest to zero.

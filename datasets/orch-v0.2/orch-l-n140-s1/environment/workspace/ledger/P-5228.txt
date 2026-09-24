@@ -1,0 +1,11 @@
+Ledger page P-5228
+
+account      amount   see page
+Umar           +373   P-1630
+Rahman         -876   P-3407
+Dunn           -713   P-9134
+Abbott         +174   P-9114
+Baker           +97   P-3489
+Tanaka         +256   P-7714
+
+Follow the debit belonging to the account that comes last alphabetically.

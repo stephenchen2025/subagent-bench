@@ -1,0 +1,10 @@
+Ledger page P-8045
+
+account      amount   see page
+Hughes         +483   P-8439
+Castillo       -354   P-5201
+Baker          -620   P-2486
+Weber          +268   P-4635
+Young          +350   P-8393
+
+Follow the credit belonging to the account that comes first alphabetically.

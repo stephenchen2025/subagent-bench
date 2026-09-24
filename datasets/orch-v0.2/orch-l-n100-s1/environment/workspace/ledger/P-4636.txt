@@ -1,0 +1,11 @@
+Ledger page P-4636
+
+account      amount   see page
+Umar           -279   P-1576
+Silva          -312   P-4499
+Moreau         -467   P-4937
+Park           -612   P-4672
+Quinn          +350   P-1064
+Osei           +646   P-1720
+
+Follow the entry with the second-largest amount.

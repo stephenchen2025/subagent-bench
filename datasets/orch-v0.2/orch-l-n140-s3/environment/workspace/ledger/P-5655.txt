@@ -1,0 +1,10 @@
+Ledger page P-5655
+
+account      amount   see page
+Grant           +82   P-3408
+Kowalski       -358   P-2858
+Jensen         -728   P-9724
+Ibarra         -842   P-6482
+Park           +594   P-6186
+
+Follow the entry with the largest debit (the most negative amount).

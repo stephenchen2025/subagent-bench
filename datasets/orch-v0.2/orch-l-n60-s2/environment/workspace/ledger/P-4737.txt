@@ -1,0 +1,11 @@
+Ledger page P-4737
+
+account      amount   see page
+Quinn          +761   P-7097
+Baker          +388   P-2042
+Young          +109   P-7339
+Osei           +600   P-3833
+Tanaka         -277   P-7275
+Nakamura       +712   P-2138
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,74 @@
+Ticket T-2535
+Customer: Samir Patel
+Orders on file: ORD-24716, ORD-27930, ORD-76307, ORD-36762
+Opened: 2026-02-24 via email
+
+Order details:
+ORD-24716  placed 2026-01-28  status: delivered  total: $439.32
+  payment method: card ending 1178  ship to: 632 Harbor Ave
+  - rain jacket x1
+  - USB-C charging cable (2m) x1
+  - replacement filter cartridge, 3-pack x2
+ORD-27930  placed 2026-02-23  status: delivered  total: $107.87
+  payment method: card ending 2796  ship to: 540 Elm Rd
+  - mechanical keyboard x1
+  - microfiber cloth x3
+  - stainless water bottle, 750ml x3
+ORD-76307  placed 2026-01-09  status: in transit  total: $332.34
+  payment method: card ending 1943  ship to: 567 Elm St
+  - camping stove x1
+  - extended warranty, 2 years x3
+  - USB-C charging cable (2m) x1
+ORD-36762  placed 2026-05-23  status: delivered  total: $30.39
+  payment method: card ending 4394  ship to: 266 Mill Lane
+  - bike light set x1
+  - merino socks, size M x1
+  - travel pouch x2
+  - extended warranty, 2 years x2
+  - stainless water bottle, 750ml x2
+
+--- message 1 from Samir Patel ---
+I need to change the delivery address for ORD-24716 before it ships. Tracking for ORD-24716 hasn't updated since Tuesday. Your app logged me out twice while I was looking at this, which didn't help. The box for ORD-24716 was a bit crushed but the contents were fine.
+
+Best regards,
+Samir Patel
+
+--- message 2 from Arjun (support) ---
+If you need an invoice for ORD-76307, you can download it from the Orders page. I can see all the orders on your account, including ORD-76307. Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-76307 to the address on file.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Samir Patel ---
+I was billed twice for ORD-27930 -- same amount, same day. The confirmation email for ORD-76307 went to my spam folder, so I only just saw it. I'm happy to send screenshots if that helps.
+
+Best regards,
+Samir Patel
+
+--- message 4 from Samir Patel ---
+I'm travelling next week, so email is the best way to reach me. Is there a way to combine loyalty points from ORD-36762 with my next purchase? I've been a customer for a few years and usually everything goes smoothly. Tracking for ORD-24716 hasn't updated since Tuesday.
+
+Thanks,
+Samir Patel
+Sent from my phone -- please excuse typos.
+
+--- message 5 from Arjun (support) ---
+Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-36762 left on schedule. I've updated your shipping address on file. I've resent the confirmation email for ORD-76307 to the address on file.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Samir Patel ---
+I've been a customer for a few years and usually everything goes smoothly. My earlier order ORD-36762 arrived fine, no complaints there. The box for ORD-76307 was a bit crushed but the contents were fine. I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Samir Patel
+
+--- message 7 from Arjun (support) ---
+Let me know if anything else looks off. Tracking updates can lag by a day or two with this carrier. Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

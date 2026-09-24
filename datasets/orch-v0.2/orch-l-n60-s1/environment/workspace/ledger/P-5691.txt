@@ -1,0 +1,11 @@
+Ledger page P-5691
+
+account      amount   see page
+Grant          -687   P-1081
+Abbott         -691   P-2196
+Lambert         +98   P-2855
+Vance           -10   P-6684
+Quinn          +530   P-3390
+Dunn           +504   P-3264
+
+Follow the entry with the largest debit (the most negative amount).

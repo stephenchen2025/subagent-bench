@@ -1,0 +1,11 @@
+Ledger page P-8870
+
+account      amount   see page
+Umar           -181   P-2588
+Kowalski       -331   P-5662
+Baker          +558   P-5548
+Vance          -537   P-6427
+Park            +24   P-3340
+Rahman         +192   P-5193
+
+Follow the entry with the largest credit.

@@ -1,0 +1,10 @@
+Ledger page P-3187
+
+account      amount   see page
+Xu             -214   P-6153
+Baker          +841   P-2646
+Lambert        -813   P-1181
+Vance          -150   P-4011
+Young          +391   P-4354
+
+Follow the entry with the largest debit (the most negative amount).

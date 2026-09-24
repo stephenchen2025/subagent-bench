@@ -1,0 +1,12 @@
+Ledger page P-6320
+
+account      amount   see page
+Lambert        +610   P-6000
+Ibarra         -135   P-4635
+Kowalski        -97   P-6914
+Eriksen          -7   P-9847
+Nakamura       -156   P-3488
+Park           -207   P-4082
+Osei           +483   P-7693
+
+Follow the entry with the second-largest amount.

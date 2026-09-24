@@ -1,0 +1,11 @@
+Ledger page P-3727
+
+account      amount   see page
+Young           -85   P-6115
+Silva          +349   P-7795
+Dunn           +776   P-7795
+Jensen         +112   P-7523
+Zhou           +715   P-7146
+Grant          +504   P-6238
+
+Follow the debit belonging to the account that comes last alphabetically.

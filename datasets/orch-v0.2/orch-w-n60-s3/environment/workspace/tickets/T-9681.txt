@@ -1,0 +1,62 @@
+Ticket T-9681
+Customer: Jordan Okafor
+Orders on file: ORD-51028, ORD-74526, ORD-15708, ORD-97270
+Opened: 2026-05-11 via web form
+
+Order details:
+ORD-51028  placed 2026-03-16  status: label created  total: $54.26
+  payment method: card ending 7053  ship to: 527 Cedar Ave
+  - cast iron skillet x1
+  - extended warranty, 2 years x3
+  - spare battery pack x3
+  - stainless water bottle, 750ml x3
+ORD-74526  placed 2026-07-01  status: delivered  total: $140.12
+  payment method: card ending 8082  ship to: 345 Harbor St
+  - water filter pitcher x1
+  - spare battery pack x1
+  - replacement filter cartridge, 3-pack x3
+  - stainless water bottle, 750ml x2
+ORD-15708  placed 2026-03-28  status: returned  total: $437.90
+  payment method: card ending 7467  ship to: 784 Harbor Rd
+  - trail running shoes x1
+  - stainless water bottle, 750ml x1
+  - carabiner set x2
+ORD-97270  placed 2026-07-11  status: delivered  total: $23.03
+  payment method: card ending 3146  ship to: 30 Oak Lane
+  - bike light set x1
+  - merino socks, size M x3
+  - replacement filter cartridge, 3-pack x1
+  - carabiner set x2
+
+--- message 1 from Jordan Okafor ---
+I'd like to return the espresso grinder from ORD-74526; it's the wrong size. The bike light set itself is great, for what it's worth. I tried the chat widget first but it kept disconnecting. My earlier order ORD-51028 arrived fine, no complaints there.
+
+Jordan Okafor
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Keiko (support) ---
+Let me know if anything else looks off. Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-15708 to the address on file. For ORD-74526, the return window is 30 days from delivery.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Jordan Okafor ---
+Yes, there were two payments, but they're for two different orders (ORD-97270 and ORD-15708), so that's fine. I just need a receipt for each. Tracking for ORD-51028 hasn't updated since Tuesday. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Jordan Okafor
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Jordan Okafor ---
+Your app logged me out twice while I was looking at this, which didn't help. My earlier order ORD-15708 arrived fine, no complaints there. My partner placed ORD-15708 on our shared account, in case that matters. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Jordan Okafor
+
+--- message 5 from Keiko (support) ---
+I've updated your shipping address on file. Let me know if anything else looks off. I've added a note to your account so the next agent has the context. Thanks for reaching out, and sorry for the trouble.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

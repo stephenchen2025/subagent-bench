@@ -1,0 +1,59 @@
+Ticket T-6287
+Customer: Noah Fischer
+Orders on file: ORD-17610, ORD-48916, ORD-45839, ORD-61210
+Opened: 2026-03-04 via chat transcript
+
+Order details:
+ORD-17610  placed 2026-03-24  status: returned  total: $396.86
+  payment method: card ending 9540  ship to: 521 Oak Ave
+  - cast iron skillet x1
+  - gift wrap x1
+  - USB-C charging cable (2m) x3
+  - microfiber cloth x1
+  - merino socks, size M x3
+ORD-48916  placed 2026-06-07  status: returned  total: $162.34
+  payment method: card ending 1552  ship to: 758 Elm St
+  - blender x1
+  - travel pouch x3
+  - gift wrap x1
+  - USB-C charging cable (2m) x2
+  - spare battery pack x3
+ORD-45839  placed 2026-03-20  status: delivered  total: $179.43
+  payment method: card ending 2899  ship to: 907 Elm Ave
+  - standing desk x1
+  - travel pouch x3
+  - microfiber cloth x1
+  - spare battery pack x1
+  - merino socks, size M x1
+ORD-61210  placed 2026-07-03  status: delivered  total: $170.19
+  payment method: card ending 2781  ship to: 441 Harbor Rd
+  - trail running shoes x1
+  - carabiner set x2
+  - spare battery pack x1
+
+--- message 1 from Noah Fischer ---
+How do I reset my password? The reset link keeps expiring. Could you also tell me whether ORD-17610 qualifies for the extended return window? I'd rather not call; the hold times last time were very long. The water filter pitcher itself is great, for what it's worth.
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Arjun (support) ---
+I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-17610 to the address on file. Screenshots aren't necessary, but thank you for offering. Loyalty points post about a week after an order is delivered.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Noah Fischer ---
+Your app logged me out twice while I was looking at this, which didn't help. The confirmation email for ORD-17610 went to my spam folder, so I only just saw it. The box for ORD-61210 was a bit crushed but the contents were fine. Is there a way to combine loyalty points from ORD-61210 with my next purchase?
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Arjun (support) ---
+Thanks for reaching out, and sorry for the trouble. I've resent the confirmation email for ORD-45839 to the address on file. Let me know if anything else looks off. If you need an invoice for ORD-17610, you can download it from the Orders page.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

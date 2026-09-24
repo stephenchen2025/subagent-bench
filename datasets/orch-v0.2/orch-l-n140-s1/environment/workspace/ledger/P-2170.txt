@@ -1,0 +1,12 @@
+Ledger page P-2170
+
+account      amount   see page
+Tanaka         +260   P-2167
+Young          +438   P-5972
+Fofana         +796   P-1181
+Osei           -618   P-3340
+Silva          -353   P-7457
+Castillo       -831   P-7133
+Umar           -363   P-6211
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,10 @@
+Ledger page P-8381
+
+account      amount   see page
+Park           +591   P-1233
+Moreau         +597   P-5661
+Weber          +713   P-9481
+Osei           -679   P-3879
+Eriksen        +578   P-9188
+
+Follow the entry whose amount is closest to zero.

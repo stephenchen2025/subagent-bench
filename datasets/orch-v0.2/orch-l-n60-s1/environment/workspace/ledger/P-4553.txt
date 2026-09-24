@@ -1,0 +1,12 @@
+Ledger page P-4553
+
+account      amount   see page
+Nakamura        -63   P-8800
+Tanaka         -521   P-9531
+Ibarra         -124   P-6525
+Baker          +302   P-2957
+Xu              +85   P-8282
+Eriksen         +41   P-4240
+Fofana         +249   P-1261
+
+Follow the entry with the second-largest amount.

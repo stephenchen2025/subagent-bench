@@ -1,0 +1,12 @@
+Ledger page P-2007
+
+account      amount   see page
+Park             -2   P-4285
+Dunn           +501   P-3511
+Moreau         -568   P-9623
+Eriksen        -278   P-7193
+Jensen         +350   P-8191
+Xu              +64   P-1121
+Zhou           +479   P-7671
+
+Follow the entry with the largest credit.

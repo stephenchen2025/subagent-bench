@@ -1,0 +1,10 @@
+Ledger page P-1575
+
+account      amount   see page
+Tanaka         +374   P-3780
+Xu             -486   P-7115
+Rahman         -306   P-8706
+Castillo       -106   P-4906
+Jensen         -807   P-3836
+
+Follow the entry whose amount is closest to zero.

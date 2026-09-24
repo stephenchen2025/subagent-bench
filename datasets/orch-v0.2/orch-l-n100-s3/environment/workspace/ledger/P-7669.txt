@@ -1,0 +1,12 @@
+Ledger page P-7669
+
+account      amount   see page
+Fofana         +807   P-6853
+Tanaka         -577   P-2246
+Xu             +147   P-1270
+Abbott         -195   P-1315
+Eriksen        +885   P-3574
+Ibarra         -791   P-7760
+Grant          +345   P-4898
+
+Follow the entry with the second-largest amount.

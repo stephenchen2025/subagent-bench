@@ -1,0 +1,11 @@
+Ledger page P-9595
+
+account      amount   see page
+Ibarra         +780   P-9408
+Grant          -687   P-3888
+Hughes         +761   P-7465
+Eriksen        +375   P-8084
+Castillo       +577   P-5642
+Young          -884   P-5894
+
+Follow the entry with the largest credit.

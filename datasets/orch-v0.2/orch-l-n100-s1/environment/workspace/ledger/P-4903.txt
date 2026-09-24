@@ -1,0 +1,11 @@
+Ledger page P-4903
+
+account      amount   see page
+Moreau         -769   P-7949
+Abbott         +318   P-9568
+Baker          -592   P-7621
+Kowalski       -700   P-8935
+Xu             +184   P-5422
+Castillo       -624   P-5664
+
+Follow the entry with the largest debit (the most negative amount).

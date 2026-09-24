@@ -1,0 +1,12 @@
+Ledger page P-1979
+
+account      amount   see page
+Abbott         -348   P-4929
+Osei            +26   P-8244
+Umar           -175   P-4341
+Tanaka         +177   P-9084
+Kowalski       +206   P-3292
+Zhou           -429   P-1198
+Moreau         -610   P-1252
+
+Follow the entry with the largest credit.

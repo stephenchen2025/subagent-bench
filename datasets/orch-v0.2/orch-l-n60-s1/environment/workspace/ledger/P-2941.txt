@@ -1,0 +1,10 @@
+Ledger page P-2941
+
+account      amount   see page
+Grant          +734   P-2328
+Moreau         +487   P-6553
+Umar            +26   P-1525
+Xu             +364   P-7774
+Castillo        -46   P-9380
+
+Follow the entry with the largest debit (the most negative amount).

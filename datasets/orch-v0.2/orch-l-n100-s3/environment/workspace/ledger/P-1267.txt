@@ -1,0 +1,12 @@
+Ledger page P-1267
+
+account      amount   see page
+Fofana         -381   P-9084
+Xu             +451   P-4261
+Castillo       -239   P-6700
+Hughes         -668   P-9621
+Jensen         +753   P-2834
+Zhou           -771   P-1267
+Moreau         +747   P-4720
+
+Follow the entry with the largest credit.

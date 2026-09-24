@@ -1,0 +1,10 @@
+Ledger page P-4998
+
+account      amount   see page
+Tanaka          -72   P-5124
+Park           -282   P-3501
+Eriksen        +545   P-5122
+Osei           +884   P-3940
+Jensen         -403   P-6577
+
+Follow the entry with the largest debit (the most negative amount).

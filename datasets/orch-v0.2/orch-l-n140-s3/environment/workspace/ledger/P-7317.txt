@@ -1,0 +1,10 @@
+Ledger page P-7317
+
+account      amount   see page
+Zhou           +311   P-4281
+Park           -564   P-2900
+Eriksen        -507   P-9651
+Moreau         +282   P-8653
+Young          +398   P-1963
+
+Follow the entry with the second-largest amount.

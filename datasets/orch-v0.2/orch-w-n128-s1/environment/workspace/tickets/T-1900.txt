@@ -1,0 +1,78 @@
+Ticket T-1900
+Customer: Avery Lin
+Orders on file: ORD-75461, ORD-83819, ORD-31276, ORD-53846
+Opened: 2026-07-22 via chat transcript
+
+Order details:
+ORD-75461  placed 2026-04-26  status: delivered  total: $171.64
+  payment method: card ending 1087  ship to: 549 Mill Ave
+  - mechanical keyboard x1
+  - extended warranty, 2 years x3
+  - gift wrap x1
+  - USB-C charging cable (2m) x1
+ORD-83819  placed 2026-05-02  status: returned  total: $379.86
+  payment method: card ending 9671  ship to: 286 Oak Rd
+  - bike light set x1
+  - travel pouch x1
+  - microfiber cloth x1
+  - replacement filter cartridge, 3-pack x3
+  - gift wrap x3
+ORD-31276  placed 2026-06-06  status: delivered  total: $114.24
+  payment method: card ending 4412  ship to: 659 Elm Ave
+  - carry-on suitcase x1
+  - replacement filter cartridge, 3-pack x2
+  - merino socks, size M x3
+  - microfiber cloth x1
+  - spare battery pack x3
+ORD-53846  placed 2026-06-07  status: label created  total: $265.83
+  payment method: card ending 7643  ship to: 99 Cedar Lane
+  - cast iron skillet x1
+  - travel pouch x1
+  - stainless water bottle, 750ml x1
+  - carabiner set x3
+
+--- message 1 from Avery Lin ---
+I'd like to return the mechanical keyboard from ORD-75461; it's the wrong size. Tracking for ORD-75461 hasn't updated since Tuesday. I've been a customer for a few years and usually everything goes smoothly. The box for ORD-31276 was a bit crushed but the contents were fine.
+
+Avery Lin
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Dana (support) ---
+Thanks for reaching out, and sorry for the trouble. I've resent the confirmation email for ORD-75461 to the address on file. Loyalty points post about a week after an order is delivered. I've updated your shipping address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Avery Lin ---
+The checkout page for ORD-53846 timed out. If I try to pay again, will I end up being charged twice? My earlier order ORD-75461 arrived fine, no complaints there. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Avery Lin
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Dana (support) ---
+Retrying is safe. Our system blocks a second capture on ORD-53846, so a double charge can't happen. I've resent the confirmation email for ORD-75461 to the address on file. Screenshots aren't necessary, but thank you for offering.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Avery Lin ---
+I'm travelling next week, so email is the best way to reach me. The carry-on suitcase itself is great, for what it's worth. Your app logged me out twice while I was looking at this, which didn't help.
+
+Best regards,
+Avery Lin
+
+--- message 6 from Avery Lin ---
+I'm travelling next week, so email is the best way to reach me. I changed my shipping address last month, so please double-check you have the new one. The box for ORD-31276 was a bit crushed but the contents were fine. The confirmation email for ORD-75461 went to my spam folder, so I only just saw it.
+
+Best regards,
+Avery Lin
+
+--- message 7 from Dana (support) ---
+I've resent the confirmation email for ORD-83819 to the address on file. Let me know if anything else looks off. I can see all the orders on your account, including ORD-83819. I've updated your shipping address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

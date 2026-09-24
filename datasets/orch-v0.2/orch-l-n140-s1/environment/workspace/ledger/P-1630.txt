@@ -1,0 +1,11 @@
+Ledger page P-1630
+
+account      amount   see page
+Hughes         -473   P-4808
+Xu             -423   P-3943
+Vance          +834   P-4349
+Grant           +25   P-2721
+Eriksen         +29   P-1652
+Castillo       -547   P-3216
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,10 @@
+Ledger page P-4810
+
+account      amount   see page
+Quinn          +372   P-2429
+Vance          -620   P-6249
+Park            -50   P-9498
+Lambert        -751   P-2971
+Umar            -47   P-3990
+
+Follow the credit belonging to the account that comes first alphabetically.

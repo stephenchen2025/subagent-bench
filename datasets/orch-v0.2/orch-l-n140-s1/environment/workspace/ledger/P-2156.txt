@@ -1,0 +1,11 @@
+Ledger page P-2156
+
+account      amount   see page
+Hughes         +316   P-2927
+Grant          +812   P-5215
+Kowalski        +78   P-2235
+Dunn           -684   P-4603
+Eriksen        +153   P-9614
+Ibarra         +886   P-5172
+
+Follow the credit belonging to the account that comes first alphabetically.

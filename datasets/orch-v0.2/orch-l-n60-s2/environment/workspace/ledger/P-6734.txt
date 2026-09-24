@@ -1,0 +1,10 @@
+Ledger page P-6734
+
+account      amount   see page
+Silva          -138   P-4865
+Rahman         +555   P-2643
+Tanaka         +731   P-7830
+Vance          -598   P-7067
+Eriksen        -628   P-7464
+
+Follow the entry whose amount is closest to zero.

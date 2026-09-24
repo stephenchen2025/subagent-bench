@@ -1,0 +1,10 @@
+Ledger page P-8196
+
+account      amount   see page
+Young          -317   P-2068
+Baker          -251   P-1830
+Moreau          +44   P-9620
+Nakamura       -101   P-3990
+Hughes         +551   P-4478
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,10 @@
+Ledger page P-2280
+
+account      amount   see page
+Kowalski       -230   P-7598
+Dunn           -548   P-6988
+Abbott         +202   P-4535
+Weber          +128   P-5624
+Jensen         +555   P-9870
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,10 @@
+Ledger page P-7598
+
+account      amount   see page
+Moreau         -300   P-2417
+Dunn           -771   P-6691
+Young          +799   P-3387
+Vance          +362   P-1092
+Nakamura       +874   P-7487
+
+Follow the entry with the largest debit (the most negative amount).

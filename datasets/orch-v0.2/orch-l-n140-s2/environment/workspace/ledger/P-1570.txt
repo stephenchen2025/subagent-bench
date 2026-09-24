@@ -1,0 +1,11 @@
+Ledger page P-1570
+
+account      amount   see page
+Young          -726   P-3721
+Dunn           -761   P-7710
+Abbott         -522   P-9711
+Jensen         -287   P-4826
+Kowalski       +753   P-7793
+Rahman         +574   P-6627
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,96 @@
+Ticket T-5207
+Customer: Chloe Martin
+Orders on file: ORD-36544, ORD-25120, ORD-12965, ORD-57807
+Opened: 2026-06-16 via chat transcript
+
+Order details:
+ORD-36544  placed 2026-05-02  status: label created  total: $48.97
+  payment method: card ending 5945  ship to: 733 Harbor St
+  - cast iron skillet x1
+  - merino socks, size M x3
+  - microfiber cloth x2
+  - replacement filter cartridge, 3-pack x3
+  - carabiner set x3
+ORD-25120  placed 2026-02-02  status: returned  total: $229.86
+  payment method: card ending 6236  ship to: 744 Elm Lane
+  - rain jacket x1
+  - gift wrap x2
+  - USB-C charging cable (2m) x3
+  - merino socks, size M x3
+ORD-12965  placed 2026-01-24  status: delivered  total: $258.25
+  payment method: card ending 1867  ship to: 763 Cedar Lane
+  - desk lamp x1
+  - replacement filter cartridge, 3-pack x2
+  - microfiber cloth x2
+  - merino socks, size M x2
+  - travel pouch x1
+ORD-57807  placed 2026-07-02  status: label created  total: $405.72
+  payment method: card ending 7027  ship to: 106 Mill Rd
+  - cast iron skillet x1
+  - USB-C charging cable (2m) x3
+  - stainless water bottle, 750ml x1
+
+--- message 1 from Chloe Martin ---
+I'd like to return the wool blanket from ORD-12965; it's the wrong size. I tried the chat widget first but it kept disconnecting. I'm happy to send screenshots if that helps. I changed my shipping address last month, so please double-check you have the new one.
+
+Chloe Martin
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Fatima (support) ---
+Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble. For ORD-25120, the return window is 30 days from delivery. I've updated your shipping address on file.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Chloe Martin ---
+There's an extra line for ORD-57807 on my statement. It could just be a hold -- can you check? I'm travelling next week, so email is the best way to reach me. I'd rather not call; the hold times last time were very long.
+
+Chloe Martin
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Fatima (support) ---
+Tracking updates can lag by a day or two with this carrier. I've updated your shipping address on file. For ORD-36544, the return window is 30 days from delivery.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Chloe Martin ---
+Update: the second line has now posted, it's no longer pending. So both payments for ORD-57807 actually went through. I tried the chat widget first but it kept disconnecting. I'm happy to send screenshots if that helps.
+
+Best regards,
+Chloe Martin
+
+--- message 6 from Fatima (support) ---
+Our warehouse shows ORD-25120 left on schedule. Let me know if anything else looks off. Tracking updates can lag by a day or two with this carrier.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Fatima (support) ---
+You're right, and I'm sorry. Our records show ORD-57807 was settled two times. I've refunded the duplicate. For ORD-36544, the return window is 30 days from delivery. I can see all the orders on your account, including ORD-12965.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Chloe Martin ---
+I tried the chat widget first but it kept disconnecting. Your app logged me out twice while I was looking at this, which didn't help. I'm happy to send screenshots if that helps.
+
+Best regards,
+Chloe Martin
+
+--- message 9 from Chloe Martin ---
+My earlier order ORD-12965 arrived fine, no complaints there. The trail running shoes itself is great, for what it's worth. The box for ORD-36544 was a bit crushed but the contents were fine. I'm travelling next week, so email is the best way to reach me.
+
+Chloe Martin
+(Please reply by email rather than phone if possible.)
+
+--- message 10 from Fatima (support) ---
+I've updated your shipping address on file. Let me know if anything else looks off. If you need an invoice for ORD-25120, you can download it from the Orders page. Screenshots aren't necessary, but thank you for offering.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,12 @@
+Ledger page P-1592
+
+account      amount   see page
+Jensen         +428   P-8094
+Kowalski       -322   P-5616
+Umar            -68   P-4793
+Abbott         +482   P-9624
+Ibarra         +338   P-7339
+Moreau          +12   P-3914
+Baker          -893   P-3232
+
+Follow the entry whose amount is closest to zero.

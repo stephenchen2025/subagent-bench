@@ -1,0 +1,11 @@
+Ledger page P-4641
+
+account      amount   see page
+Eriksen        -592   P-6133
+Osei           -160   P-8571
+Grant          +557   P-8246
+Rahman         -816   P-2583
+Hughes         -694   P-4808
+Zhou            -72   P-2333
+
+Follow the entry with the largest credit.

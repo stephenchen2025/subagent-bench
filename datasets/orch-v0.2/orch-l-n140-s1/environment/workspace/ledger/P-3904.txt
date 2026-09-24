@@ -1,0 +1,10 @@
+Ledger page P-3904
+
+account      amount   see page
+Young          +242   P-5228
+Park           -670   P-6211
+Grant          +684   P-7546
+Weber          +307   P-3749
+Xu             -163   P-3395
+
+Follow the entry whose amount is closest to zero.

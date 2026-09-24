@@ -1,0 +1,11 @@
+Ledger page P-4473
+
+account      amount   see page
+Ibarra         +155   P-9351
+Xu             -306   P-9870
+Grant          -371   P-7835
+Dunn           -208   P-4229
+Park           +320   P-3407
+Young          +431   P-9279
+
+Follow the credit belonging to the account that comes first alphabetically.

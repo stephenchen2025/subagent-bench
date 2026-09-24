@@ -1,0 +1,12 @@
+Ledger page P-5564
+
+account      amount   see page
+Castillo        +86   P-3385
+Rahman         -840   P-4775
+Abbott         +783   P-3518
+Osei             +9   P-7407
+Vance          +681   P-4148
+Fofana         -574   P-7407
+Ibarra         +430   P-5081
+
+Follow the credit belonging to the account that comes first alphabetically.

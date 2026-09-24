@@ -1,0 +1,11 @@
+Ledger page P-2562
+
+account      amount   see page
+Silva           -56   P-2301
+Vance          +871   P-5365
+Kowalski       -320   P-2933
+Umar           +369   P-9964
+Tanaka         +477   P-6278
+Abbott         -226   P-8145
+
+Follow the debit belonging to the account that comes last alphabetically.

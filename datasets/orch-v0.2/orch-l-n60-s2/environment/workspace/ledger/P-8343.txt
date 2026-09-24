@@ -1,0 +1,12 @@
+Ledger page P-8343
+
+account      amount   see page
+Lambert        +865   P-5616
+Dunn           +513   P-8755
+Park           +562   P-4980
+Osei           -509   P-8959
+Tanaka          -31   P-9559
+Weber           +36   P-9525
+Castillo       -856   P-4737
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,12 @@
+Ledger page P-2801
+
+account      amount   see page
+Weber          -548   P-5983
+Tanaka         +269   P-4103
+Zhou            +45   P-6783
+Jensen         +192   P-4002
+Park           +853   P-9920
+Silva          -191   P-5027
+Castillo       -309   P-4259
+
+Follow the debit belonging to the account that comes last alphabetically.

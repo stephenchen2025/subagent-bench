@@ -1,0 +1,11 @@
+Ledger page P-3953
+
+account      amount   see page
+Vance          -769   P-2402
+Fofana         +833   P-5925
+Ibarra         +464   P-4469
+Abbott         -145   P-5121
+Eriksen        -231   P-7577
+Weber          -449   P-2820
+
+Follow the entry with the largest debit (the most negative amount).

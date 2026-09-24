@@ -1,0 +1,10 @@
+Ledger page P-5788
+
+account      amount   see page
+Ibarra         +798   P-6691
+Abbott         -699   P-2401
+Vance          -635   P-2167
+Zhou           +229   P-2156
+Lambert        +325   P-2971
+
+Follow the credit belonging to the account that comes first alphabetically.

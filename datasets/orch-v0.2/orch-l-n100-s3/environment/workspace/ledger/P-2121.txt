@@ -1,0 +1,10 @@
+Ledger page P-2121
+
+account      amount   see page
+Eriksen        +461   P-7664
+Umar            -43   P-2238
+Fofana         +354   P-1428
+Kowalski       +394   P-5170
+Ibarra         -837   P-5365
+
+Follow the entry whose amount is closest to zero.

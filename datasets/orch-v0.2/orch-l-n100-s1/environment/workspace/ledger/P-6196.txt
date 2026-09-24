@@ -1,0 +1,10 @@
+Ledger page P-6196
+
+account      amount   see page
+Abbott         -625   P-3473
+Eriksen        -570   P-8509
+Lambert        +230   P-9572
+Quinn          +775   P-8747
+Nakamura       +783   P-5817
+
+Follow the debit belonging to the account that comes last alphabetically.

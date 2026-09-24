@@ -1,0 +1,12 @@
+Ledger page P-2797
+
+account      amount   see page
+Umar           +447   P-6128
+Quinn          +569   P-1299
+Vance           -31   P-1536
+Hughes         -748   P-1963
+Zhou           +575   P-7987
+Dunn           -223   P-1414
+Kowalski       -307   P-7888
+
+Follow the entry whose amount is closest to zero.

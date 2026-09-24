@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
 """Run the orchestrator track for real: models x conditions x tasks, no Docker.
 
-    python tools/orch_run.py --models anthropic/claude-sonnet-5 --seeds 1 --max-cost 25
+    python tools/orch_run.py --models anthropic/claude-haiku-4-5-20251001 --seeds 1 --max-cost 25
 
 Uses mini-swe-agent's LocalEnvironment on a temp copy of each task (the same
 path the rehearsal takes), so ANTHROPIC_API_KEY is the only prerequisite. That
 is a first-run convenience, not a sandbox: a live model runs real commands on
 this machine. For anything beyond a first look, run the same tasks under Harbor:
 
-    harbor run -p datasets/orch-v0.1 -a orch.harbor_agent:OrchMiniAgent \\
-        -m anthropic/claude-sonnet-5 --ak mode=delegate
+    harbor run -p datasets/orch-v0.2 -a orch.harbor_agent:OrchMiniAgent \\
+        -m anthropic/claude-haiku-4-5-20251001 --ak mode=delegate
 
 Every completed run is written to disk as it finishes, so an interrupted run
 costs nothing to restart. The cost cap is checked before each run, from the

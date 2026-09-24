@@ -1,0 +1,12 @@
+Ledger page P-2378
+
+account      amount   see page
+Tanaka         -887   P-3690
+Park           +246   P-4921
+Weber           +80   P-7912
+Young          -381   P-3686
+Moreau         -305   P-3354
+Jensen         -708   P-4117
+Ibarra         +421   P-5480
+
+Follow the entry with the largest credit.

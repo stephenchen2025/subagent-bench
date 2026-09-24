@@ -1,0 +1,93 @@
+Ticket T-3754
+Customer: Ravi Iyer
+Orders on file: ORD-18735, ORD-19250, ORD-84300, ORD-80098
+Opened: 2026-03-24 via chat transcript
+
+Order details:
+ORD-18735  placed 2026-05-19  status: in transit  total: $139.50
+  payment method: card ending 7876  ship to: 979 Harbor Lane
+  - blender x1
+  - travel pouch x1
+  - microfiber cloth x1
+  - extended warranty, 2 years x2
+  - USB-C charging cable (2m) x2
+ORD-19250  placed 2026-07-25  status: delivered  total: $319.12
+  payment method: card ending 9515  ship to: 989 Oak Ave
+  - desk lamp x1
+  - spare battery pack x2
+  - stainless water bottle, 750ml x2
+  - extended warranty, 2 years x3
+ORD-84300  placed 2026-02-27  status: returned  total: $331.50
+  payment method: card ending 5326  ship to: 22 Oak Rd
+  - mechanical keyboard x1
+  - stainless water bottle, 750ml x1
+  - USB-C charging cable (2m) x2
+  - gift wrap x1
+ORD-80098  placed 2026-03-15  status: label created  total: $463.92
+  payment method: card ending 5217  ship to: 935 Oak Ave
+  - mechanical keyboard x1
+  - gift wrap x3
+  - extended warranty, 2 years x1
+  - travel pouch x2
+  - spare battery pack x3
+
+--- message 1 from Ravi Iyer ---
+Where is my refund for ORD-84300? You said 5 days and it has been 8. The water filter pitcher itself is great, for what it's worth. I'd rather not call; the hold times last time were very long. I've been a customer for a few years and usually everything goes smoothly.
+
+Ravi Iyer
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Dana (support) ---
+I've resent the confirmation email for ORD-19250 to the address on file. Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ravi Iyer ---
+The $168.44 for ORD-18735 came out of my account, and then the same $168.44 came out again the next morning. Could you also tell me whether ORD-80098 qualifies for the extended return window? I'm happy to send screenshots if that helps.
+
+Ravi Iyer
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Dana (support) ---
+You're right, and I'm sorry. Our records show ORD-18735 was settled two times. I've refunded the duplicate. I've updated your shipping address on file. I can see all the orders on your account, including ORD-19250.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Ravi Iyer ---
+My earlier order ORD-19250 arrived fine, no complaints there. I tried the chat widget first but it kept disconnecting. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Ravi Iyer
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Ravi Iyer ---
+I changed my shipping address last month, so please double-check you have the new one. Tracking for ORD-19250 hasn't updated since Tuesday. Could you also tell me whether ORD-80098 qualifies for the extended return window? I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Ravi Iyer
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Dana (support) ---
+I've resent the confirmation email for ORD-19250 to the address on file. For ORD-80098, the return window is 30 days from delivery. I can see all the orders on your account, including ORD-80098. Thanks for reaching out, and sorry for the trouble.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Ravi Iyer ---
+I'd rather not call; the hold times last time were very long. My partner placed ORD-19250 on our shared account, in case that matters. I tried the chat widget first but it kept disconnecting. Tracking for ORD-19250 hasn't updated since Tuesday.
+
+Thanks,
+Ravi Iyer
+Sent from my phone -- please excuse typos.
+
+--- message 9 from Dana (support) ---
+I can see all the orders on your account, including ORD-19250. Our warehouse shows ORD-84300 left on schedule. Loyalty points post about a week after an order is delivered. Let me know if anything else looks off.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

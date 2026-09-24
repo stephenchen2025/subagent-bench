@@ -1,0 +1,11 @@
+Ledger page P-2656
+
+account      amount   see page
+Abbott         -616   P-8124
+Nakamura       -871   P-2547
+Castillo       +326   P-3044
+Dunn           +692   P-8826
+Young          -112   P-8115
+Osei           +152   P-5456
+
+Follow the entry with the second-largest amount.

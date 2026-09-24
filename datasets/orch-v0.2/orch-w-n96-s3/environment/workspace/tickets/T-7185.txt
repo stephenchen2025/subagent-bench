@@ -1,0 +1,58 @@
+Ticket T-7185
+Customer: Ines Duarte
+Orders on file: ORD-24310, ORD-99119, ORD-74690, ORD-33103
+Opened: 2026-01-17 via email
+
+Order details:
+ORD-24310  placed 2026-04-11  status: returned  total: $180.23
+  payment method: card ending 7601  ship to: 903 Cedar Rd
+  - yoga mat x1
+  - extended warranty, 2 years x1
+  - gift wrap x3
+  - carabiner set x1
+ORD-99119  placed 2026-06-11  status: delivered  total: $58.65
+  payment method: card ending 8723  ship to: 389 Cedar St
+  - cast iron skillet x1
+  - gift wrap x3
+  - microfiber cloth x3
+  - carabiner set x2
+  - replacement filter cartridge, 3-pack x1
+ORD-74690  placed 2026-02-23  status: delivered  total: $386.32
+  payment method: card ending 7343  ship to: 938 Cedar St
+  - yoga mat x1
+  - spare battery pack x2
+  - stainless water bottle, 750ml x3
+  - microfiber cloth x3
+  - replacement filter cartridge, 3-pack x3
+ORD-33103  placed 2026-06-11  status: delivered  total: $386.36
+  payment method: card ending 2681  ship to: 238 Oak St
+  - noise-cancelling headphones x1
+  - replacement filter cartridge, 3-pack x1
+  - extended warranty, 2 years x1
+  - spare battery pack x1
+
+--- message 1 from Ines Duarte ---
+Can I use a gift card on ORD-99119, or is it too late? Tracking for ORD-24310 hasn't updated since Tuesday. I changed my shipping address last month, so please double-check you have the new one. I tried the chat widget first but it kept disconnecting.
+
+Ines Duarte
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Fatima (support) ---
+If you need an invoice for ORD-99119, you can download it from the Orders page. For ORD-24310, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering. I've added a note to your account so the next agent has the context.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ines Duarte ---
+I tried the chat widget first but it kept disconnecting. I'd rather not call; the hold times last time were very long. Could you also tell me whether ORD-33103 qualifies for the extended return window? I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Ines Duarte
+
+--- message 4 from Fatima (support) ---
+Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering. Our warehouse shows ORD-24310 left on schedule. For ORD-99119, the return window is 30 days from delivery.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

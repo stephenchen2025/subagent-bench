@@ -1,0 +1,10 @@
+Ledger page P-4878
+
+account      amount   see page
+Zhou           -152   P-4898
+Grant          -784   P-7400
+Lambert        +277   P-5485
+Abbott         +459   P-9536
+Weber          +111   P-5600
+
+Follow the entry with the largest debit (the most negative amount).

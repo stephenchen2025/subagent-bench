@@ -1,0 +1,99 @@
+Ticket T-1210
+Customer: Chloe Martin
+Orders on file: ORD-48704, ORD-16914, ORD-18355, ORD-10150
+Opened: 2026-01-14 via chat transcript
+
+Order details:
+ORD-48704  placed 2026-04-15  status: delivered  total: $478.03
+  payment method: card ending 8492  ship to: 188 Harbor Rd
+  - mechanical keyboard x1
+  - spare battery pack x3
+  - travel pouch x2
+  - stainless water bottle, 750ml x1
+  - carabiner set x1
+ORD-16914  placed 2026-07-27  status: label created  total: $224.25
+  payment method: card ending 1651  ship to: 188 Cedar Ave
+  - standing desk x1
+  - stainless water bottle, 750ml x2
+  - replacement filter cartridge, 3-pack x2
+  - travel pouch x3
+ORD-18355  placed 2026-01-28  status: in transit  total: $99.82
+  payment method: card ending 6132  ship to: 513 Elm St
+  - blender x1
+  - carabiner set x3
+  - gift wrap x2
+  - replacement filter cartridge, 3-pack x3
+  - merino socks, size M x2
+ORD-10150  placed 2026-01-03  status: delivered  total: $290.69
+  payment method: card ending 1325  ship to: 200 Harbor Ave
+  - mechanical keyboard x1
+  - microfiber cloth x1
+  - spare battery pack x1
+  - merino socks, size M x2
+
+--- message 1 from Chloe Martin ---
+I need to change the delivery address for ORD-48704 before it ships. The confirmation email for ORD-10150 went to my spam folder, so I only just saw it. I've been a customer for a few years and usually everything goes smoothly. The desk lamp itself is great, for what it's worth.
+
+Thanks,
+Chloe Martin
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Arjun (support) ---
+Our warehouse shows ORD-48704 left on schedule. I've resent the confirmation email for ORD-10150 to the address on file. Tracking updates can lag by a day or two with this carrier. Loyalty points post about a week after an order is delivered.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Chloe Martin ---
+There are two identical debits on my statement and both reference ORD-18355. I've been a customer for a few years and usually everything goes smoothly. Tracking for ORD-48704 hasn't updated since Tuesday.
+
+Chloe Martin
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Arjun (support) ---
+I can see all the orders on your account, including ORD-10150. Tracking updates can lag by a day or two with this carrier. Thanks for reaching out, and sorry for the trouble.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Arjun (support) ---
+Confirmed on our side -- ORD-18355 was captured twice by a retry in our checkout. One refund of $77.15 is on its way to you. Let me know if anything else looks off. I can see all the orders on your account, including ORD-10150.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Chloe Martin ---
+I'd rather not call; the hold times last time were very long. The confirmation email for ORD-48704 went to my spam folder, so I only just saw it. I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Chloe Martin
+
+--- message 7 from Chloe Martin ---
+Is there a way to combine loyalty points from ORD-16914 with my next purchase? Tracking for ORD-48704 hasn't updated since Tuesday. The box for ORD-48704 was a bit crushed but the contents were fine. Could you also tell me whether ORD-48704 qualifies for the extended return window?
+
+Best regards,
+Chloe Martin
+
+--- message 8 from Arjun (support) ---
+I've added a note to your account so the next agent has the context. If you need an invoice for ORD-10150, you can download it from the Orders page. Our warehouse shows ORD-16914 left on schedule. Let me know if anything else looks off.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Chloe Martin ---
+I'm happy to send screenshots if that helps. The confirmation email for ORD-16914 went to my spam folder, so I only just saw it. I'd rather not call; the hold times last time were very long. The rain jacket itself is great, for what it's worth.
+
+Thanks,
+Chloe Martin
+Sent from my phone -- please excuse typos.
+
+--- message 10 from Arjun (support) ---
+I've updated your shipping address on file. Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering. If you need an invoice for ORD-10150, you can download it from the Orders page.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

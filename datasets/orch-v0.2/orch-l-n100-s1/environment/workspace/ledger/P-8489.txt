@@ -1,0 +1,12 @@
+Ledger page P-8489
+
+account      amount   see page
+Tanaka         -267   P-9874
+Castillo       +602   P-1463
+Xu             +244   P-8565
+Hughes         +851   P-3449
+Abbott         +131   P-4481
+Nakamura       -446   P-8935
+Young          -778   P-2776
+
+Follow the credit belonging to the account that comes first alphabetically.

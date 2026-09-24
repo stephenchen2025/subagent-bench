@@ -1,0 +1,10 @@
+Ledger page P-8415
+
+account      amount   see page
+Castillo       +414   P-7488
+Osei           +255   P-6680
+Moreau         +646   P-9140
+Eriksen        -622   P-3095
+Grant          -852   P-2295
+
+Follow the entry with the second-largest amount.

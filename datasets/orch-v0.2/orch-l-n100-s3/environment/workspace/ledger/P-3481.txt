@@ -1,0 +1,12 @@
+Ledger page P-3481
+
+account      amount   see page
+Ibarra         -345   P-9726
+Moreau         +221   P-1500
+Castillo       +643   P-2898
+Park           -217   P-3301
+Eriksen        -419   P-9056
+Hughes         +278   P-3441
+Quinn          +619   P-3007
+
+Follow the credit belonging to the account that comes first alphabetically.

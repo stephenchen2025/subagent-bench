@@ -1,0 +1,54 @@
+Ticket T-5922
+Customer: Grace Mwangi
+Orders on file: ORD-72765, ORD-22444, ORD-96148, ORD-60214
+Opened: 2026-05-17 via chat transcript
+
+Order details:
+ORD-72765  placed 2026-02-22  status: in transit  total: $480.98
+  payment method: card ending 1527  ship to: 910 Oak Lane
+  - blender x1
+  - spare battery pack x3
+  - USB-C charging cable (2m) x1
+  - gift wrap x2
+ORD-22444  placed 2026-04-17  status: returned  total: $208.70
+  payment method: card ending 4570  ship to: 27 Cedar Rd
+  - espresso grinder x1
+  - microfiber cloth x3
+  - replacement filter cartridge, 3-pack x3
+ORD-96148  placed 2026-03-28  status: in transit  total: $356.59
+  payment method: card ending 4131  ship to: 428 Mill Lane
+  - mechanical keyboard x1
+  - carabiner set x2
+  - travel pouch x3
+  - replacement filter cartridge, 3-pack x3
+ORD-60214  placed 2026-03-22  status: label created  total: $140.91
+  payment method: card ending 8915  ship to: 575 Oak St
+  - bike light set x1
+  - replacement filter cartridge, 3-pack x1
+  - merino socks, size M x1
+
+--- message 1 from Grace Mwangi ---
+I'd like to return the yoga mat from ORD-22444; it's the wrong size. I've been a customer for a few years and usually everything goes smoothly. My partner placed ORD-72765 on our shared account, in case that matters. The cast iron skillet itself is great, for what it's worth.
+
+Grace Mwangi
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Arjun (support) ---
+I've updated your shipping address on file. For ORD-60214, the return window is 30 days from delivery. Our warehouse shows ORD-60214 left on schedule. Let me know if anything else looks off.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Grace Mwangi ---
+Your app logged me out twice while I was looking at this, which didn't help. The confirmation email for ORD-22444 went to my spam folder, so I only just saw it. The box for ORD-22444 was a bit crushed but the contents were fine. Tracking for ORD-60214 hasn't updated since Tuesday.
+
+Best regards,
+Grace Mwangi
+
+--- message 4 from Arjun (support) ---
+Let me know if anything else looks off. For ORD-22444, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering. If you need an invoice for ORD-72765, you can download it from the Orders page.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

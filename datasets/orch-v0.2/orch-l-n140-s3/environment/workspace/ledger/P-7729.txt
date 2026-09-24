@@ -1,0 +1,12 @@
+Ledger page P-7729
+
+account      amount   see page
+Dunn           -608   P-3599
+Xu             -685   P-1184
+Eriksen        -812   P-4993
+Silva          -160   P-2838
+Moreau         -547   P-9550
+Castillo       -705   P-5252
+Tanaka         +285   P-4466
+
+Follow the credit belonging to the account that comes first alphabetically.

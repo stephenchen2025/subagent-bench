@@ -1,0 +1,10 @@
+Ledger page P-7556
+
+account      amount   see page
+Rahman         -161   P-7774
+Kowalski        +52   P-2263
+Xu             +891   P-5513
+Abbott         -660   P-1117
+Hughes          +19   P-3390
+
+Follow the entry whose amount is closest to zero.

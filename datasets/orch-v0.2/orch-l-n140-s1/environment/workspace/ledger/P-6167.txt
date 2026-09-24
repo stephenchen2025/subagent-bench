@@ -1,0 +1,12 @@
+Ledger page P-6167
+
+account      amount   see page
+Osei           -185   P-2610
+Fofana         +852   P-9584
+Park           -856   P-8803
+Abbott         -764   P-1983
+Hughes         +220   P-1820
+Zhou           -484   P-2801
+Castillo       +182   P-5546
+
+Follow the credit belonging to the account that comes first alphabetically.

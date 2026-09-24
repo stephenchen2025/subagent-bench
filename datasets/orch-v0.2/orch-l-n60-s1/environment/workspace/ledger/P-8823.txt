@@ -1,0 +1,11 @@
+Ledger page P-8823
+
+account      amount   see page
+Umar           -110   P-9840
+Zhou           +876   P-8593
+Silva           +72   P-9882
+Kowalski       +668   P-3493
+Abbott         +189   P-3653
+Young          -355   P-5441
+
+Follow the entry with the largest credit.

@@ -1,0 +1,12 @@
+Ledger page P-9834
+
+account      amount   see page
+Park           -180   P-9620
+Moreau         +731   P-2583
+Jensen         -657   P-7338
+Hughes         -795   P-8431
+Zhou           +707   P-8753
+Ibarra          -43   P-6820
+Weber          -805   P-3552
+
+Follow the entry with the largest credit.

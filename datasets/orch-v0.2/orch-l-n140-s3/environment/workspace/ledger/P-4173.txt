@@ -1,0 +1,12 @@
+Ledger page P-4173
+
+account      amount   see page
+Dunn           -308   P-2858
+Hughes          +81   P-4656
+Vance          -487   P-7254
+Tanaka         -660   P-1460
+Baker          +861   P-1655
+Abbott         +798   P-8991
+Moreau         -129   P-3408
+
+Follow the entry with the largest credit.

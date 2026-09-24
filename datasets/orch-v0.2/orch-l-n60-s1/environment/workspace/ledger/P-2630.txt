@@ -1,0 +1,11 @@
+Ledger page P-2630
+
+account      amount   see page
+Moreau         +206   P-6020
+Kowalski       -684   P-5893
+Eriksen        +402   P-9917
+Umar           +377   P-2560
+Silva          -428   P-5226
+Hughes         -852   P-3152
+
+Follow the entry whose amount is closest to zero.

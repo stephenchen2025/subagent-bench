@@ -1,0 +1,10 @@
+Ledger page P-4115
+
+account      amount   see page
+Ibarra         +769   P-8503
+Weber          +109   P-8023
+Tanaka         -812   P-8805
+Umar           +110   P-1820
+Xu             -735   P-5320
+
+Follow the entry with the second-largest amount.

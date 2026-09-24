@@ -1,0 +1,10 @@
+Ledger page P-7314
+
+account      amount   see page
+Vance          -629   P-2196
+Zhou           +383   P-2523
+Quinn          -428   P-5465
+Nakamura        -58   P-5144
+Kowalski       -705   P-8441
+
+Follow the entry with the second-largest amount.

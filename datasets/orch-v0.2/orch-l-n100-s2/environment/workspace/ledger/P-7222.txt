@@ -1,0 +1,12 @@
+Ledger page P-7222
+
+account      amount   see page
+Jensen         -575   P-5073
+Dunn           +773   P-1821
+Kowalski       +196   P-8619
+Silva          -638   P-9344
+Zhou           -294   P-8919
+Eriksen        -754   P-7996
+Baker          -167   P-2486
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,12 @@
+Ledger page P-9337
+
+account      amount   see page
+Zhou           +781   P-3624
+Young          +364   P-2039
+Park           -525   P-6359
+Tanaka         +231   P-9837
+Moreau         +333   P-4847
+Quinn          -139   P-2779
+Silva          -819   P-6911
+
+Follow the entry with the largest debit (the most negative amount).

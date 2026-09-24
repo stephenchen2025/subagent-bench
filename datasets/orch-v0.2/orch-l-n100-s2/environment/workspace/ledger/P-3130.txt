@@ -1,0 +1,11 @@
+Ledger page P-3130
+
+account      amount   see page
+Park           -876   P-2928
+Xu             +687   P-7036
+Umar            -95   P-5076
+Osei           +333   P-3005
+Ibarra         +813   P-7375
+Baker          -618   P-1082
+
+Follow the credit belonging to the account that comes first alphabetically.

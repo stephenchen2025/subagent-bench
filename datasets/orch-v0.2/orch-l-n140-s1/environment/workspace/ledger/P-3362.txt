@@ -1,0 +1,11 @@
+Ledger page P-3362
+
+account      amount   see page
+Castillo       -878   P-4452
+Abbott         -429   P-5982
+Moreau         -900   P-7912
+Nakamura       -568   P-3336
+Xu             +463   P-1856
+Tanaka         -319   P-6183
+
+Follow the entry whose amount is closest to zero.

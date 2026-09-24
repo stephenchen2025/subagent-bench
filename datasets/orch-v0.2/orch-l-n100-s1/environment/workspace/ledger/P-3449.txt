@@ -1,0 +1,10 @@
+Ledger page P-3449
+
+account      amount   see page
+Nakamura       -421   P-8606
+Tanaka         -452   P-3321
+Abbott         +315   P-8121
+Ibarra         +819   P-9050
+Kowalski       +456   P-4502
+
+Follow the entry with the second-largest amount.

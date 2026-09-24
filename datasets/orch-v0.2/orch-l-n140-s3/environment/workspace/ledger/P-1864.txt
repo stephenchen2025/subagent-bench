@@ -1,0 +1,11 @@
+Ledger page P-1864
+
+account      amount   see page
+Umar           +417   P-8381
+Castillo        +48   P-8027
+Jensen         -590   P-9420
+Ibarra         -357   P-2917
+Abbott         +273   P-3219
+Nakamura       +591   P-6015
+
+Follow the entry whose amount is closest to zero.

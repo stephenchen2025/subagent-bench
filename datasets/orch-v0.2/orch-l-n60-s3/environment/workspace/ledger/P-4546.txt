@@ -1,0 +1,10 @@
+Ledger page P-4546
+
+account      amount   see page
+Castillo       +754   P-8793
+Silva          -455   P-9851
+Baker          -681   P-5445
+Lambert        -646   P-1870
+Vance          -692   P-1621
+
+Follow the credit belonging to the account that comes first alphabetically.

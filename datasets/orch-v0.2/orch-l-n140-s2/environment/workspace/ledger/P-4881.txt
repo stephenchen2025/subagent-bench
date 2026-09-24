@@ -1,0 +1,12 @@
+Ledger page P-4881
+
+account      amount   see page
+Lambert        -341   P-2523
+Moreau         -302   P-2705
+Jensen         +178   P-5991
+Vance          -547   P-2252
+Umar           -800   P-5619
+Zhou           +477   P-4422
+Abbott         -540   P-5706
+
+Follow the entry with the largest debit (the most negative amount).

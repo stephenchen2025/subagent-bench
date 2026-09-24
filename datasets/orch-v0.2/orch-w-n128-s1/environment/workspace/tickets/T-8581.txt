@@ -1,0 +1,66 @@
+Ticket T-8581
+Customer: Hana Sato
+Orders on file: ORD-10578, ORD-48678, ORD-12563, ORD-59160
+Opened: 2026-08-05 via web form
+
+Order details:
+ORD-10578  placed 2026-04-04  status: returned  total: $330.95
+  payment method: card ending 8566  ship to: 134 Cedar Rd
+  - wool blanket x1
+  - extended warranty, 2 years x1
+  - stainless water bottle, 750ml x1
+ORD-48678  placed 2026-02-19  status: label created  total: $229.91
+  payment method: card ending 1201  ship to: 649 Mill Ave
+  - noise-cancelling headphones x1
+  - extended warranty, 2 years x1
+  - merino socks, size M x2
+ORD-12563  placed 2026-03-13  status: returned  total: $366.31
+  payment method: card ending 3520  ship to: 635 Elm Rd
+  - blender x1
+  - spare battery pack x2
+  - stainless water bottle, 750ml x3
+ORD-59160  placed 2026-04-02  status: delivered  total: $364.69
+  payment method: card ending 4360  ship to: 562 Elm St
+  - wool blanket x1
+  - merino socks, size M x2
+  - USB-C charging cable (2m) x1
+
+--- message 1 from Hana Sato ---
+How do I reset my password? The reset link keeps expiring. I've been a customer for a few years and usually everything goes smoothly. I'm travelling next week, so email is the best way to reach me. I'm happy to send screenshots if that helps.
+
+Best regards,
+Hana Sato
+
+--- message 2 from Dana (support) ---
+Let me know if anything else looks off. Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-10578 left on schedule. I can see all the orders on your account, including ORD-12563.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Hana Sato ---
+My earlier order ORD-10578 arrived fine, no complaints there. I'm travelling next week, so email is the best way to reach me. The carry-on suitcase itself is great, for what it's worth. Tracking for ORD-48678 hasn't updated since Tuesday.
+
+Thanks,
+Hana Sato
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Dana (support) ---
+For ORD-48678, the return window is 30 days from delivery. Thanks for reaching out, and sorry for the trouble. I've updated your shipping address on file. I've added a note to your account so the next agent has the context.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Hana Sato ---
+I changed my shipping address last month, so please double-check you have the new one. I'd rather not call; the hold times last time were very long. I'm travelling next week, so email is the best way to reach me. Could you also tell me whether ORD-12563 qualifies for the extended return window?
+
+Best regards,
+Hana Sato
+
+--- message 6 from Dana (support) ---
+For ORD-48678, the return window is 30 days from delivery. If you need an invoice for ORD-48678, you can download it from the Orders page. Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

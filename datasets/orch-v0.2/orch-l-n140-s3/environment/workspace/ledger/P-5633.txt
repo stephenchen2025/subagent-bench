@@ -1,0 +1,12 @@
+Ledger page P-5633
+
+account      amount   see page
+Ibarra         -880   P-8186
+Tanaka         +771   P-9550
+Vance          +567   P-5655
+Baker          -488   P-9863
+Moreau         -870   P-9923
+Grant          +310   P-7967
+Hughes         -434   P-6427
+
+Follow the debit belonging to the account that comes last alphabetically.

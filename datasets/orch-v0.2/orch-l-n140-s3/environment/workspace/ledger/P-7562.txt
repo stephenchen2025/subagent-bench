@@ -1,0 +1,10 @@
+Ledger page P-7562
+
+account      amount   see page
+Rahman          -48   P-9301
+Umar           +685   P-4101
+Abbott         +851   P-9697
+Nakamura        -79   P-5491
+Quinn          +648   P-2565
+
+Follow the debit belonging to the account that comes last alphabetically.

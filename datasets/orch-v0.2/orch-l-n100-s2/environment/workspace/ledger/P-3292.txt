@@ -1,0 +1,11 @@
+Ledger page P-3292
+
+account      amount   see page
+Eriksen        -850   P-2535
+Hughes         +161   P-6032
+Dunn           +139   P-6703
+Grant          +260   P-1166
+Quinn          +100   P-3005
+Fofana         +387   P-3278
+
+Follow the entry whose amount is closest to zero.

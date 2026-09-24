@@ -1,0 +1,10 @@
+Ledger page P-9454
+
+account      amount   see page
+Xu             -832   P-6046
+Fofana         -685   P-8890
+Vance            -7   P-1991
+Lambert        +169   P-8194
+Park           +108   P-4006
+
+Follow the debit belonging to the account that comes last alphabetically.

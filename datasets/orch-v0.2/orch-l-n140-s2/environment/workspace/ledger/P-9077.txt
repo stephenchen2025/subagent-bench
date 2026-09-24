@@ -1,0 +1,12 @@
+Ledger page P-9077
+
+account      amount   see page
+Kowalski       -760   P-6305
+Tanaka          +65   P-6021
+Baker          +623   P-6064
+Moreau          -66   P-2852
+Umar            +44   P-5093
+Lambert        -681   P-6203
+Ibarra         -634   P-6746
+
+Follow the entry with the largest credit.

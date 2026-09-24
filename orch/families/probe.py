@@ -25,17 +25,22 @@ import base64
 import json
 import zlib
 
-from orch.task import DELEGATE, OPTIONAL, OrchTask, rng_for, task_id
+from orch.task import DELEGATE, OrchTask, rng_for, task_id
 
 FAMILY = "P"
-SIZES = (3, 10, 20)
-SERVICES_PER_WORKER = 2
+SIZES = (15, 25, 38)
+SERVICES_PER_WORKER = 3
 
 SERVICE_NAMES = [
     "ledger", "notifier", "authz", "search-indexer", "billing-sync", "media-resizer",
     "geo-lookup", "invoice-render", "session-store", "rate-limiter", "feed-builder",
     "export-worker", "catalog-api", "webhook-relay", "audit-trail", "quota-keeper",
     "thumbnailer", "payout-batch", "email-digest", "fraud-score",
+    "tax-calc", "sso-bridge", "cart-merge", "promo-engine", "inventory-sync",
+    "label-printer", "returns-desk", "shipment-tracker", "review-moderator",
+    "loyalty-points", "price-watch", "consent-log", "backup-rotator", "cdn-purger",
+    "ledger-archiver", "pdf-stamper", "sms-gateway", "chat-router", "survey-collector",
+    "dns-updater", "key-vault", "job-reaper", "cost-reporter", "schema-registry",
 ]
 
 # Each component: (name, catalogue description, incident-notes paraphrase).
@@ -275,7 +280,7 @@ def generate(size, seed):
         family=FAMILY,
         size=size,
         seed=seed,
-        label=OPTIONAL if size <= 3 else DELEGATE,
+        label=DELEGATE,
         instruction=INSTRUCTION.format(k=size, services=listed, menu=MENU),
         files={},
         truth={"services": truth},

@@ -1,0 +1,10 @@
+Ledger page P-4623
+
+account      amount   see page
+Castillo         +3   P-9478
+Young          -429   P-2807
+Abbott         +350   P-1378
+Osei           -142   P-3278
+Silva          +885   P-9241
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,10 @@
+Ledger page P-9366
+
+account      amount   see page
+Grant           +26   P-5794
+Park             +5   P-8454
+Young          -399   P-9920
+Umar           -354   P-9420
+Silva          +324   P-6706
+
+Follow the entry whose amount is closest to zero.

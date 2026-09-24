@@ -1,0 +1,69 @@
+Ticket T-3569
+Customer: Oskar Berg
+Orders on file: ORD-39956, ORD-91092, ORD-71735, ORD-18797
+Opened: 2026-08-23 via web form
+
+Order details:
+ORD-39956  placed 2026-08-17  status: delivered  total: $361.77
+  payment method: card ending 4981  ship to: 973 Harbor Rd
+  - camping stove x1
+  - replacement filter cartridge, 3-pack x1
+  - carabiner set x1
+  - stainless water bottle, 750ml x2
+  - USB-C charging cable (2m) x1
+ORD-91092  placed 2026-05-06  status: delivered  total: $102.96
+  payment method: card ending 5845  ship to: 752 Oak Lane
+  - rain jacket x1
+  - merino socks, size M x3
+  - USB-C charging cable (2m) x2
+  - carabiner set x3
+ORD-71735  placed 2026-07-19  status: in transit  total: $464.85
+  payment method: card ending 3640  ship to: 500 Elm St
+  - rain jacket x1
+  - USB-C charging cable (2m) x3
+  - merino socks, size M x2
+ORD-18797  placed 2026-08-20  status: returned  total: $319.61
+  payment method: card ending 9623  ship to: 813 Elm Ave
+  - espresso grinder x1
+  - extended warranty, 2 years x3
+  - replacement filter cartridge, 3-pack x3
+
+--- message 1 from Oskar Berg ---
+How do I reset my password? The reset link keeps expiring. My partner placed ORD-39956 on our shared account, in case that matters. I'd rather not call; the hold times last time were very long. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Oskar Berg
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Marcus (support) ---
+I've added a note to your account so the next agent has the context. Our warehouse shows ORD-71735 left on schedule. I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Oskar Berg ---
+Is there a way to combine loyalty points from ORD-39956 with my next purchase? I'd rather not call; the hold times last time were very long. I changed my shipping address last month, so please double-check you have the new one. The confirmation email for ORD-71735 went to my spam folder, so I only just saw it.
+
+Best regards,
+Oskar Berg
+
+--- message 4 from Marcus (support) ---
+Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering. Let me know if anything else looks off. I've updated your shipping address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Oskar Berg ---
+Could you also tell me whether ORD-91092 qualifies for the extended return window? I'd rather not call; the hold times last time were very long. Is there a way to combine loyalty points from ORD-71735 with my next purchase? Tracking for ORD-39956 hasn't updated since Tuesday.
+
+Oskar Berg
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Marcus (support) ---
+I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier. I've resent the confirmation email for ORD-71735 to the address on file. I've updated your shipping address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

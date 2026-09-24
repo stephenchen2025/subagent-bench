@@ -1,0 +1,12 @@
+Ledger page P-4354
+
+account      amount   see page
+Vance          -552   P-2912
+Grant          -354   P-6883
+Castillo       +460   P-3054
+Fofana         -219   P-9351
+Abbott         -115   P-7524
+Park           -492   P-2068
+Moreau         -314   P-8078
+
+Follow the entry with the largest credit.

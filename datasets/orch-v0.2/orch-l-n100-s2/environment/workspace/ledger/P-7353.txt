@@ -1,0 +1,12 @@
+Ledger page P-7353
+
+account      amount   see page
+Tanaka         +705   P-5642
+Kowalski       +597   P-5201
+Vance          -485   P-9251
+Umar           +229   P-7989
+Hughes         +271   P-3364
+Castillo       -369   P-6525
+Young          -115   P-4623
+
+Follow the entry with the largest credit.

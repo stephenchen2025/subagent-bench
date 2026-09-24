@@ -1,0 +1,10 @@
+Ledger page P-1837
+
+account      amount   see page
+Castillo       +743   P-2656
+Osei            -41   P-2368
+Xu             -676   P-9317
+Umar           -587   P-7391
+Tanaka         +294   P-9821
+
+Follow the credit belonging to the account that comes first alphabetically.

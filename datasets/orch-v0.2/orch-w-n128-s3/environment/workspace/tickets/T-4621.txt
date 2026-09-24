@@ -1,0 +1,68 @@
+Ticket T-4621
+Customer: Priya Raman
+Orders on file: ORD-95585, ORD-92150, ORD-38090, ORD-38636
+Opened: 2026-05-23 via chat transcript
+
+Order details:
+ORD-95585  placed 2026-07-21  status: in transit  total: $132.55
+  payment method: card ending 1905  ship to: 955 Oak St
+  - standing desk x1
+  - replacement filter cartridge, 3-pack x3
+  - gift wrap x1
+  - USB-C charging cable (2m) x1
+ORD-92150  placed 2026-03-11  status: in transit  total: $426.41
+  payment method: card ending 7881  ship to: 757 Harbor Lane
+  - blender x1
+  - microfiber cloth x3
+  - replacement filter cartridge, 3-pack x3
+ORD-38090  placed 2026-07-05  status: returned  total: $151.05
+  payment method: card ending 4367  ship to: 21 Elm Rd
+  - desk lamp x1
+  - merino socks, size M x1
+  - replacement filter cartridge, 3-pack x2
+  - microfiber cloth x1
+ORD-38636  placed 2026-07-21  status: delivered  total: $332.33
+  payment method: card ending 7866  ship to: 483 Cedar St
+  - desk lamp x1
+  - merino socks, size M x1
+  - USB-C charging cable (2m) x1
+
+--- message 1 from Priya Raman ---
+I'd like to return the yoga mat from ORD-38090; it's the wrong size. My partner placed ORD-95585 on our shared account, in case that matters. My earlier order ORD-38636 arrived fine, no complaints there. Is there a way to combine loyalty points from ORD-95585 with my next purchase?
+
+Best regards,
+Priya Raman
+
+--- message 2 from Dana (support) ---
+If you need an invoice for ORD-38636, you can download it from the Orders page. I've updated your shipping address on file. I've resent the confirmation email for ORD-95585 to the address on file. Loyalty points post about a week after an order is delivered.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Priya Raman ---
+I see two charges on my online banking this week, one for ORD-92150 and one for ORD-38090. Both are correct -- I ordered twice on purpose -- but could you send me the invoices for my expense report? I've been a customer for a few years and usually everything goes smoothly. Tracking for ORD-95585 hasn't updated since Tuesday.
+
+Priya Raman
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Dana (support) ---
+Screenshots aren't necessary, but thank you for offering. If you need an invoice for ORD-38090, you can download it from the Orders page. Tracking updates can lag by a day or two with this carrier.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Priya Raman ---
+My partner placed ORD-95585 on our shared account, in case that matters. The confirmation email for ORD-38636 went to my spam folder, so I only just saw it. The box for ORD-38090 was a bit crushed but the contents were fine. Could you also tell me whether ORD-38636 qualifies for the extended return window?
+
+Thanks,
+Priya Raman
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Dana (support) ---
+Thanks for reaching out, and sorry for the trouble. For ORD-38090, the return window is 30 days from delivery. Let me know if anything else looks off. I've resent the confirmation email for ORD-38636 to the address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

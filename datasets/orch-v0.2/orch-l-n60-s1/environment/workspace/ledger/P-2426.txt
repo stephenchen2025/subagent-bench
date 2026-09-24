@@ -1,0 +1,10 @@
+Ledger page P-2426
+
+account      amount   see page
+Castillo        -82   P-6264
+Quinn          +618   P-7912
+Osei           +615   P-2361
+Park           -766   P-9708
+Baker          -591   P-3324
+
+Follow the debit belonging to the account that comes last alphabetically.

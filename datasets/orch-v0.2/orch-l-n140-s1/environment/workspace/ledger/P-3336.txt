@@ -1,0 +1,12 @@
+Ledger page P-3336
+
+account      amount   see page
+Abbott         +617   P-1336
+Castillo       +436   P-9201
+Vance          +874   P-4117
+Nakamura       -304   P-5195
+Weber          +140   P-7653
+Ibarra         +583   P-5405
+Zhou           -580   P-6249
+
+Follow the credit belonging to the account that comes first alphabetically.

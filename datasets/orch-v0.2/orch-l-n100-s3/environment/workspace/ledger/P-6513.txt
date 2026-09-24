@@ -1,0 +1,10 @@
+Ledger page P-6513
+
+account      amount   see page
+Park           -198   P-7178
+Baker          +668   P-5661
+Fofana         +741   P-9743
+Umar           +443   P-7272
+Kowalski        -19   P-7069
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,10 @@
+Ledger page P-4535
+
+account      amount   see page
+Dunn           +553   P-2898
+Jensen          -28   P-9058
+Osei           +678   P-2409
+Quinn          -492   P-2779
+Umar           -623   P-2579
+
+Follow the debit belonging to the account that comes last alphabetically.

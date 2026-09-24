@@ -1,0 +1,12 @@
+Ledger page P-6297
+
+account      amount   see page
+Silva          +550   P-4236
+Kowalski       +321   P-2588
+Fofana         -308   P-3216
+Hughes         +674   P-6186
+Abbott         -599   P-8020
+Lambert        +413   P-8308
+Xu             -220   P-8384
+
+Follow the credit belonging to the account that comes first alphabetically.

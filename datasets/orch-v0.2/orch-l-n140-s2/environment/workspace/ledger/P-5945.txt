@@ -1,0 +1,12 @@
+Ledger page P-5945
+
+account      amount   see page
+Quinn          -829   P-6577
+Eriksen        -797   P-5124
+Grant          -537   P-5520
+Jensen         +646   P-5634
+Park           -203   P-8427
+Kowalski       -191   P-3010
+Baker           +57   P-1551
+
+Follow the entry with the largest credit.

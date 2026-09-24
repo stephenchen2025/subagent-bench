@@ -1,0 +1,10 @@
+Ledger page P-9980
+
+account      amount   see page
+Jensen         -229   P-9084
+Xu             +539   P-6221
+Silva          -616   P-7264
+Hughes          -74   P-3203
+Ibarra         -636   P-7848
+
+Follow the credit belonging to the account that comes first alphabetically.

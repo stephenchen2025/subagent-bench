@@ -1,0 +1,10 @@
+Ledger page P-1861
+
+account      amount   see page
+Eriksen        +627   P-2425
+Silva          -208   P-9469
+Nakamura       -236   P-1685
+Vance          -784   P-9351
+Tanaka         -150   P-2880
+
+Follow the entry with the second-largest amount.

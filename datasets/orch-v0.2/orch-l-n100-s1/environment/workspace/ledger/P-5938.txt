@@ -1,0 +1,12 @@
+Ledger page P-5938
+
+account      amount   see page
+Rahman         +502   P-6611
+Xu             -367   P-6184
+Fofana         -712   P-6833
+Dunn           +761   P-1857
+Young          +190   P-7246
+Hughes         +372   P-2848
+Nakamura       -202   P-8226
+
+Follow the entry with the largest credit.

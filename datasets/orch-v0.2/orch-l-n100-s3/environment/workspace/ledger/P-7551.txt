@@ -1,0 +1,11 @@
+Ledger page P-7551
+
+account      amount   see page
+Moreau         +387   P-7261
+Young          +384   P-5116
+Baker          +748   P-9257
+Hughes         -437   P-7050
+Park            +64   P-4799
+Abbott         -617   P-9068
+
+Follow the debit belonging to the account that comes last alphabetically.

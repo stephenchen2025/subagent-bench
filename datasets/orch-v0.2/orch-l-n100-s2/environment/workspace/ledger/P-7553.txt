@@ -1,0 +1,10 @@
+Ledger page P-7553
+
+account      amount   see page
+Eriksen         +20   P-9826
+Vance          +492   P-3608
+Castillo       -434   P-5461
+Osei           +748   P-6954
+Hughes         +641   P-2622
+
+Follow the entry whose amount is closest to zero.

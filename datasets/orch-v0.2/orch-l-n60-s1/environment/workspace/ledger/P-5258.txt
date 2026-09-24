@@ -1,0 +1,12 @@
+Ledger page P-5258
+
+account      amount   see page
+Grant          -424   P-4385
+Rahman         -851   P-5513
+Hughes         +133   P-6639
+Xu             -808   P-2855
+Zhou            -77   P-8213
+Osei           -730   P-1230
+Moreau         -154   P-2263
+
+Follow the entry whose amount is closest to zero.

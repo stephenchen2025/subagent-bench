@@ -1,0 +1,12 @@
+Ledger page P-1723
+
+account      amount   see page
+Hughes         -489   P-2820
+Grant          -415   P-4432
+Silva          +153   P-9934
+Vance           +70   P-8860
+Kowalski       +691   P-4661
+Abbott         +854   P-1373
+Moreau         +453   P-5044
+
+Follow the entry whose amount is closest to zero.

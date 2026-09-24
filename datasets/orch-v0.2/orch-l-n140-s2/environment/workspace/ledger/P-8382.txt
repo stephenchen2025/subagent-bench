@@ -1,0 +1,12 @@
+Ledger page P-8382
+
+account      amount   see page
+Jensen         +641   P-5499
+Dunn           -207   P-5777
+Fofana         +585   P-2044
+Grant          -214   P-6577
+Rahman         -140   P-4719
+Kowalski       -361   P-1786
+Castillo       +567   P-1287
+
+Follow the entry whose amount is closest to zero.

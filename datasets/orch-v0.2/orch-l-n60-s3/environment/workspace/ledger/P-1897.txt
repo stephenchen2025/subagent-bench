@@ -1,0 +1,11 @@
+Ledger page P-1897
+
+account      amount   see page
+Zhou           +895   P-3467
+Moreau         +849   P-4727
+Xu              +26   P-3569
+Umar             -6   P-1723
+Baker          +564   P-3818
+Kowalski        +85   P-7537
+
+Follow the credit belonging to the account that comes first alphabetically.

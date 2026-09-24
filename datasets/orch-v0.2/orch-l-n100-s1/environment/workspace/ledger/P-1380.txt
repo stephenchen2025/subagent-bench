@@ -1,0 +1,10 @@
+Ledger page P-1380
+
+account      amount   see page
+Lambert        +222   P-5259
+Abbott         -779   P-8683
+Zhou            -22   P-1660
+Kowalski       +245   P-1317
+Ibarra         +463   P-6368
+
+Follow the debit belonging to the account that comes last alphabetically.

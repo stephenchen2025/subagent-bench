@@ -1,0 +1,10 @@
+Ledger page P-9608
+
+account      amount   see page
+Zhou            -69   P-1547
+Ibarra          +57   P-8313
+Silva           +55   P-1557
+Jensen         -707   P-1270
+Quinn          -106   P-2933
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,12 @@
+Ledger page P-6557
+
+account      amount   see page
+Moreau         +681   P-2320
+Xu             -515   P-3860
+Grant          +837   P-2188
+Silva          -552   P-3722
+Eriksen        -770   P-5770
+Nakamura       +622   P-7288
+Kowalski       +328   P-8671
+
+Follow the entry with the second-largest amount.

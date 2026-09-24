@@ -1,0 +1,12 @@
+Ledger page P-1382
+
+account      amount   see page
+Osei           -574   P-8934
+Silva          +318   P-8934
+Castillo       -761   P-1382
+Rahman         -403   P-3006
+Lambert        -681   P-9421
+Park           +168   P-1759
+Zhou           -398   P-1731
+
+Follow the debit belonging to the account that comes last alphabetically.

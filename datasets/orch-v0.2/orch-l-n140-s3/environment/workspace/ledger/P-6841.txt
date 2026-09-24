@@ -1,0 +1,12 @@
+Ledger page P-6841
+
+account      amount   see page
+Ibarra         +515   P-9765
+Vance          +508   P-6297
+Weber          -615   P-1184
+Baker          -440   P-2232
+Park            +85   P-5159
+Jensen         -100   P-1670
+Dunn           +573   P-2919
+
+Follow the entry with the largest debit (the most negative amount).

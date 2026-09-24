@@ -1,0 +1,12 @@
+Ledger page P-9790
+
+account      amount   see page
+Moreau         +400   P-6698
+Weber          -824   P-7164
+Silva          +482   P-6034
+Park           -193   P-2529
+Nakamura       -777   P-8289
+Umar           -266   P-7275
+Rahman         +712   P-5220
+
+Follow the debit belonging to the account that comes last alphabetically.

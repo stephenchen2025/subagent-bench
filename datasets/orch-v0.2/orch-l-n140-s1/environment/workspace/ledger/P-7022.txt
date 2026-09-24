@@ -1,0 +1,12 @@
+Ledger page P-7022
+
+account      amount   see page
+Xu             +229   P-1026
+Tanaka         -460   P-3686
+Rahman         -530   P-4730
+Silva          -847   P-3904
+Quinn          +196   P-8409
+Ibarra         +381   P-9870
+Moreau         +613   P-4808
+
+Follow the entry with the largest credit.

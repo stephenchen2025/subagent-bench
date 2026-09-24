@@ -1,0 +1,10 @@
+Ledger page P-3573
+
+account      amount   see page
+Fofana         -766   P-6117
+Lambert        -238   P-3675
+Jensen         -168   P-2558
+Castillo        +35   P-9847
+Zhou           -550   P-7294
+
+Follow the entry with the second-largest amount.

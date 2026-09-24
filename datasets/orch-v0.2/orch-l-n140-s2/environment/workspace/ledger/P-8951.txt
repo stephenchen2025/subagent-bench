@@ -1,0 +1,11 @@
+Ledger page P-8951
+
+account      amount   see page
+Dunn           +444   P-9327
+Castillo        +81   P-6524
+Umar           -491   P-2837
+Jensen          -63   P-8034
+Tanaka         +489   P-1978
+Young          +448   P-4045
+
+Follow the credit belonging to the account that comes first alphabetically.

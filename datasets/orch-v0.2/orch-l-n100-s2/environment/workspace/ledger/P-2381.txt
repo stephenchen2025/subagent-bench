@@ -1,0 +1,12 @@
+Ledger page P-2381
+
+account      amount   see page
+Fofana          -60   P-3166
+Grant          -378   P-1211
+Umar           +888   P-2941
+Zhou           +837   P-9416
+Dunn           +508   P-5084
+Nakamura        -95   P-4062
+Moreau         -420   P-3608
+
+Follow the entry with the second-largest amount.

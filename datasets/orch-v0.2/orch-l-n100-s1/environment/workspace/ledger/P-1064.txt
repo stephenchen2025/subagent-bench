@@ -1,0 +1,11 @@
+Ledger page P-1064
+
+account      amount   see page
+Kowalski       -648   P-1132
+Osei           +241   P-1576
+Silva          +826   P-5820
+Park           +134   P-6726
+Castillo        +63   P-5817
+Jensen         +401   P-6196
+
+Follow the entry whose amount is closest to zero.

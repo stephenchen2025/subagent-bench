@@ -1,0 +1,11 @@
+Ledger page P-3721
+
+account      amount   see page
+Zhou           -134   P-1831
+Rahman         -551   P-1433
+Castillo        +12   P-5499
+Dunn           +157   P-3780
+Xu             +307   P-5008
+Weber          -638   P-8985
+
+Follow the entry with the second-largest amount.

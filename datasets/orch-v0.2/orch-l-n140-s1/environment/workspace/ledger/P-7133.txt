@@ -1,0 +1,11 @@
+Ledger page P-7133
+
+account      amount   see page
+Osei           -622   P-3943
+Kowalski       +742   P-5119
+Quinn          +640   P-2417
+Eriksen        +842   P-7378
+Tanaka         -527   P-6202
+Abbott         -654   P-4085
+
+Follow the entry with the largest credit.

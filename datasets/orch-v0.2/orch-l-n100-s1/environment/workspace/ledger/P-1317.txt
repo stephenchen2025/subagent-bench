@@ -1,0 +1,11 @@
+Ledger page P-1317
+
+account      amount   see page
+Dunn           +152   P-8911
+Ibarra         -418   P-6184
+Grant          -209   P-1841
+Quinn           -25   P-6368
+Zhou           -714   P-9572
+Rahman         -403   P-5686
+
+Follow the credit belonging to the account that comes first alphabetically.

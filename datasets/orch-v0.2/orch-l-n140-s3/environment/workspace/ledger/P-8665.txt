@@ -1,0 +1,11 @@
+Ledger page P-8665
+
+account      amount   see page
+Silva          -412   P-7362
+Castillo       -764   P-6268
+Umar           +283   P-7083
+Tanaka         +264   P-5975
+Weber          +828   P-8273
+Jensen         +899   P-3340
+
+Follow the entry with the second-largest amount.

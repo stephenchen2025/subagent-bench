@@ -1,0 +1,12 @@
+Ledger page P-5907
+
+account      amount   see page
+Baker          -606   P-9610
+Park           -855   P-9932
+Quinn          -694   P-5421
+Kowalski        +49   P-5901
+Young          -700   P-1184
+Fofana         +600   P-9788
+Silva          -195   P-4349
+
+Follow the entry with the largest credit.

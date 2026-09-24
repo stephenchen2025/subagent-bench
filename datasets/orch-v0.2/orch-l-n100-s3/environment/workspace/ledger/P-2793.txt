@@ -1,0 +1,10 @@
+Ledger page P-2793
+
+account      amount   see page
+Young          -240   P-1270
+Nakamura       +359   P-1459
+Baker          +763   P-4535
+Kowalski       -499   P-5429
+Park           -457   P-6136
+
+Follow the entry with the largest debit (the most negative amount).

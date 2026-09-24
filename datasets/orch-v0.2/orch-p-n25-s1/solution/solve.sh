@@ -1,0 +1,109 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cd /workspace
+cat > answer.json <<'EOF'
+{
+  "services": {
+    "feed-builder": {
+      "component": "blob-writer",
+      "cause": "config-typo"
+    },
+    "pdf-stamper": {
+      "component": "blob-writer",
+      "cause": "config-typo"
+    },
+    "cdn-purger": {
+      "component": "http-frontend",
+      "cause": "dns-failure"
+    },
+    "survey-collector": {
+      "component": "http-frontend",
+      "cause": "out-of-memory"
+    },
+    "job-reaper": {
+      "component": "token-refresher",
+      "cause": "dns-failure"
+    },
+    "dns-updater": {
+      "component": "cache-warmer",
+      "cause": "disk-full"
+    },
+    "session-store": {
+      "component": "schema-migrator",
+      "cause": "out-of-memory"
+    },
+    "authz": {
+      "component": "config-loader",
+      "cause": "dns-failure"
+    },
+    "cart-merge": {
+      "component": "blob-writer",
+      "cause": "dns-failure"
+    },
+    "sms-gateway": {
+      "component": "config-loader",
+      "cause": "disk-full"
+    },
+    "webhook-relay": {
+      "component": "metrics-shipper",
+      "cause": "config-typo"
+    },
+    "tax-calc": {
+      "component": "queue-consumer",
+      "cause": "dns-failure"
+    },
+    "email-digest": {
+      "component": "token-refresher",
+      "cause": "dns-failure"
+    },
+    "invoice-render": {
+      "component": "cache-warmer",
+      "cause": "dns-failure"
+    },
+    "sso-bridge": {
+      "component": "blob-writer",
+      "cause": "out-of-memory"
+    },
+    "loyalty-points": {
+      "component": "config-loader",
+      "cause": "expired-credential"
+    },
+    "returns-desk": {
+      "component": "schema-migrator",
+      "cause": "expired-credential"
+    },
+    "key-vault": {
+      "component": "schema-migrator",
+      "cause": "expired-credential"
+    },
+    "ledger": {
+      "component": "config-loader",
+      "cause": "expired-credential"
+    },
+    "search-indexer": {
+      "component": "token-refresher",
+      "cause": "out-of-memory"
+    },
+    "catalog-api": {
+      "component": "cache-warmer",
+      "cause": "config-typo"
+    },
+    "payout-batch": {
+      "component": "peer-resolver",
+      "cause": "config-typo"
+    },
+    "billing-sync": {
+      "component": "http-frontend",
+      "cause": "out-of-memory"
+    },
+    "export-worker": {
+      "component": "metrics-shipper",
+      "cause": "expired-credential"
+    },
+    "media-resizer": {
+      "component": "token-refresher",
+      "cause": "expired-credential"
+    }
+  }
+}
+EOF

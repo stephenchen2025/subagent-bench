@@ -1,0 +1,11 @@
+Ledger page P-8627
+
+account      amount   see page
+Rahman         -679   P-3497
+Baker          -496   P-1234
+Osei            -44   P-2966
+Silva          +576   P-8793
+Weber          +288   P-3066
+Fofana         -290   P-2917
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,12 @@
+Ledger page P-7391
+
+account      amount   see page
+Castillo       -773   P-5616
+Rahman         +795   P-1749
+Nakamura       -660   P-7830
+Zhou           +634   P-4793
+Lambert        -673   P-4768
+Hughes         +348   P-5003
+Weber          +852   P-7013
+
+Follow the entry with the second-largest amount.

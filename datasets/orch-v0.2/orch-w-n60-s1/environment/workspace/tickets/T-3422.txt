@@ -1,0 +1,82 @@
+Ticket T-3422
+Customer: Tomas Novak
+Orders on file: ORD-55755, ORD-40834, ORD-62363, ORD-79765
+Opened: 2026-07-06 via chat transcript
+
+Order details:
+ORD-55755  placed 2026-07-13  status: delivered  total: $102.69
+  payment method: card ending 1398  ship to: 581 Oak Rd
+  - desk lamp x1
+  - travel pouch x1
+  - gift wrap x2
+ORD-40834  placed 2026-04-19  status: in transit  total: $226.10
+  payment method: card ending 5605  ship to: 272 Mill Ave
+  - wool blanket x1
+  - USB-C charging cable (2m) x1
+  - spare battery pack x1
+ORD-62363  placed 2026-03-06  status: delivered  total: $392.01
+  payment method: card ending 6416  ship to: 115 Cedar Rd
+  - wool blanket x1
+  - gift wrap x2
+  - extended warranty, 2 years x3
+  - merino socks, size M x2
+ORD-79765  placed 2026-01-23  status: returned  total: $153.04
+  payment method: card ending 2246  ship to: 730 Elm Lane
+  - desk lamp x1
+  - travel pouch x1
+  - stainless water bottle, 750ml x3
+  - merino socks, size M x2
+
+--- message 1 from Tomas Novak ---
+I'd like to return the noise-cancelling headphones from ORD-55755; it's the wrong size. My partner placed ORD-62363 on our shared account, in case that matters. I changed my shipping address last month, so please double-check you have the new one. Tracking for ORD-62363 hasn't updated since Tuesday.
+
+Tomas Novak
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Pete (support) ---
+Our warehouse shows ORD-62363 left on schedule. I've added a note to your account so the next agent has the context. I can see all the orders on your account, including ORD-62363. I've updated your shipping address on file.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Tomas Novak ---
+You took the money for ORD-40834 a second time after it had already been paid. I'd rather not call; the hold times last time were very long. Could you also tell me whether ORD-62363 qualifies for the extended return window?
+
+Best regards,
+Tomas Novak
+
+--- message 4 from Pete (support) ---
+Tracking updates can lag by a day or two with this carrier. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-79765 left on schedule.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Tomas Novak ---
+The box for ORD-55755 was a bit crushed but the contents were fine. Tracking for ORD-79765 hasn't updated since Tuesday. My partner placed ORD-55755 on our shared account, in case that matters. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Tomas Novak
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Pete (support) ---
+Loyalty points post about a week after an order is delivered. Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off. Our warehouse shows ORD-79765 left on schedule.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Tomas Novak ---
+My partner placed ORD-62363 on our shared account, in case that matters. I tried the chat widget first but it kept disconnecting. My earlier order ORD-79765 arrived fine, no complaints there. Tracking for ORD-62363 hasn't updated since Tuesday.
+
+Thanks,
+Tomas Novak
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Pete (support) ---
+For ORD-55755, the return window is 30 days from delivery. Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-79765, you can download it from the Orders page.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

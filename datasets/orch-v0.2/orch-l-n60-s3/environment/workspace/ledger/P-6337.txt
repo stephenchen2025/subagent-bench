@@ -1,0 +1,12 @@
+Ledger page P-6337
+
+account      amount   see page
+Silva          -379   P-9874
+Eriksen        +645   P-9584
+Jensen         -103   P-5927
+Lambert        +397   P-7407
+Nakamura       -770   P-8793
+Tanaka          +83   P-2900
+Weber          -534   P-6046
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,12 @@
+Ledger page P-3989
+
+account      amount   see page
+Umar           -766   P-5985
+Fofana         +520   P-9183
+Osei           +731   P-5172
+Zhou           -570   P-4478
+Lambert        +433   P-5623
+Young           +97   P-6950
+Jensen         -136   P-9134
+
+Follow the credit belonging to the account that comes first alphabetically.

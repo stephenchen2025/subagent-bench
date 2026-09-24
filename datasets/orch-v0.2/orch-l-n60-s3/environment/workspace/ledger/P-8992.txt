@@ -1,0 +1,11 @@
+Ledger page P-8992
+
+account      amount   see page
+Jensen         +601   P-4006
+Quinn          +659   P-8020
+Baker          -569   P-7121
+Nakamura       +604   P-9536
+Xu              -48   P-9883
+Kowalski       +583   P-6337
+
+Follow the entry with the largest debit (the most negative amount).

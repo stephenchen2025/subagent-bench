@@ -1,0 +1,12 @@
+Ledger page P-4432
+
+account      amount   see page
+Castillo       +655   P-4661
+Tanaka         -524   P-5802
+Baker          +806   P-2768
+Ibarra         -588   P-9883
+Kowalski       +191   P-6178
+Eriksen        -900   P-4546
+Silva           +81   P-1254
+
+Follow the entry whose amount is closest to zero.

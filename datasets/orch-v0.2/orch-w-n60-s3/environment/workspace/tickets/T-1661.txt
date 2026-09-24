@@ -1,0 +1,84 @@
+Ticket T-1661
+Customer: Tomas Novak
+Orders on file: ORD-55735, ORD-57827, ORD-93729, ORD-94018
+Opened: 2026-03-02 via chat transcript
+
+Order details:
+ORD-55735  placed 2026-07-25  status: delivered  total: $82.35
+  payment method: card ending 8863  ship to: 132 Elm Lane
+  - mechanical keyboard x1
+  - stainless water bottle, 750ml x1
+  - spare battery pack x3
+  - microfiber cloth x3
+  - travel pouch x3
+ORD-57827  placed 2026-05-28  status: delivered  total: $301.13
+  payment method: card ending 1190  ship to: 562 Cedar Ave
+  - water filter pitcher x1
+  - replacement filter cartridge, 3-pack x3
+  - merino socks, size M x3
+  - spare battery pack x2
+ORD-93729  placed 2026-01-05  status: delivered  total: $391.78
+  payment method: card ending 3681  ship to: 352 Oak Lane
+  - camping stove x1
+  - travel pouch x2
+  - USB-C charging cable (2m) x2
+  - spare battery pack x3
+ORD-94018  placed 2026-03-12  status: delivered  total: $388.72
+  payment method: card ending 7668  ship to: 706 Elm St
+  - standing desk x1
+  - extended warranty, 2 years x2
+  - travel pouch x2
+
+--- message 1 from Tomas Novak ---
+Can I use a gift card on ORD-55735, or is it too late? Could you also tell me whether ORD-57827 qualifies for the extended return window? I'm happy to send screenshots if that helps. The box for ORD-94018 was a bit crushed but the contents were fine.
+
+Thanks,
+Tomas Novak
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Arjun (support) ---
+I've resent the confirmation email for ORD-94018 to the address on file. I've updated your shipping address on file. Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-94018 left on schedule.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Tomas Novak ---
+Before I retry the payment on ORD-93729 -- is there any risk of a double charge? Is there a way to combine loyalty points from ORD-94018 with my next purchase? The confirmation email for ORD-94018 went to my spam folder, so I only just saw it.
+
+Thanks,
+Tomas Novak
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Arjun (support) ---
+Screenshots aren't necessary, but thank you for offering. I've updated your shipping address on file. I've resent the confirmation email for ORD-55735 to the address on file.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Arjun (support) ---
+Retrying is safe. Our system blocks a second capture on ORD-93729, so a double charge can't happen. Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Tomas Novak ---
+I'm happy to send screenshots if that helps. I've been a customer for a few years and usually everything goes smoothly. I changed my shipping address last month, so please double-check you have the new one.
+
+Tomas Novak
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Tomas Novak ---
+Is there a way to combine loyalty points from ORD-57827 with my next purchase? Your app logged me out twice while I was looking at this, which didn't help. I tried the chat widget first but it kept disconnecting. I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Tomas Novak
+
+--- message 8 from Arjun (support) ---
+I've resent the confirmation email for ORD-94018 to the address on file. Thanks for reaching out, and sorry for the trouble. For ORD-57827, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

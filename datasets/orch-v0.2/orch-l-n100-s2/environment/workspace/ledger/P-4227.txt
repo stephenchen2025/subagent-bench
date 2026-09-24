@@ -1,0 +1,12 @@
+Ledger page P-4227
+
+account      amount   see page
+Baker          -398   P-7353
+Grant          +224   P-8834
+Hughes         -792   P-4184
+Weber          +549   P-8834
+Silva          +382   P-1287
+Moreau          +41   P-8625
+Castillo       +881   P-1821
+
+Follow the entry with the largest credit.

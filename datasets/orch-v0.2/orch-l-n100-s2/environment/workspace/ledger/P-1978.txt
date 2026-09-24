@@ -1,0 +1,12 @@
+Ledger page P-1978
+
+account      amount   see page
+Jensen         -720   P-1406
+Hughes         -490   P-8145
+Quinn          +434   P-9056
+Castillo       +649   P-4234
+Ibarra         -117   P-4910
+Nakamura       +255   P-2884
+Dunn            -52   P-9487
+
+Follow the entry with the largest debit (the most negative amount).

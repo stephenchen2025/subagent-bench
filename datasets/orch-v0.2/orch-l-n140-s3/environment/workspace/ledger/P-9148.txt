@@ -1,0 +1,12 @@
+Ledger page P-9148
+
+account      amount   see page
+Castillo       -846   P-5159
+Young          +388   P-5548
+Quinn          -831   P-1519
+Rahman         +809   P-1320
+Park           +572   P-6280
+Eriksen         -16   P-9976
+Tanaka         +592   P-9188
+
+Follow the entry with the largest credit.

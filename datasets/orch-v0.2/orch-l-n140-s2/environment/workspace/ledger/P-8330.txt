@@ -1,0 +1,10 @@
+Ledger page P-8330
+
+account      amount   see page
+Vance          +474   P-1385
+Castillo        +90   P-2926
+Nakamura       +789   P-1952
+Baker          +275   P-5983
+Jensen         -758   P-2252
+
+Follow the entry with the second-largest amount.

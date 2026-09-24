@@ -1,0 +1,12 @@
+Ledger page P-9228
+
+account      amount   see page
+Young          -646   P-4401
+Umar           -139   P-6037
+Lambert        +864   P-8222
+Tanaka         -283   P-4452
+Abbott         -400   P-6879
+Nakamura        +16   P-5982
+Kowalski       +346   P-2449
+
+Follow the entry with the second-largest amount.

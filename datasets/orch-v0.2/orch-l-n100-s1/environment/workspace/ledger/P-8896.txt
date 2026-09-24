@@ -1,0 +1,11 @@
+Ledger page P-8896
+
+account      amount   see page
+Park           -550   P-3307
+Weber          +616   P-2647
+Nakamura       -321   P-4213
+Tanaka         -610   P-8917
+Fofana         +544   P-8121
+Grant          +551   P-3629
+
+Follow the debit belonging to the account that comes last alphabetically.

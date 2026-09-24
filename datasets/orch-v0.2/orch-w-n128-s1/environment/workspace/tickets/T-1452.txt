@@ -1,0 +1,85 @@
+Ticket T-1452
+Customer: Maya Cohen
+Orders on file: ORD-82960, ORD-46118, ORD-72518, ORD-81856
+Opened: 2026-05-05 via chat transcript
+
+Order details:
+ORD-82960  placed 2026-02-28  status: delivered  total: $220.91
+  payment method: card ending 1059  ship to: 93 Cedar Rd
+  - noise-cancelling headphones x1
+  - extended warranty, 2 years x1
+  - replacement filter cartridge, 3-pack x1
+  - merino socks, size M x1
+ORD-46118  placed 2026-03-14  status: label created  total: $154.94
+  payment method: card ending 4724  ship to: 845 Cedar St
+  - desk lamp x1
+  - stainless water bottle, 750ml x3
+  - merino socks, size M x3
+  - USB-C charging cable (2m) x1
+ORD-72518  placed 2026-04-12  status: delivered  total: $337.99
+  payment method: card ending 3164  ship to: 144 Cedar St
+  - noise-cancelling headphones x1
+  - extended warranty, 2 years x2
+  - stainless water bottle, 750ml x1
+  - carabiner set x2
+ORD-81856  placed 2026-01-20  status: label created  total: $253.96
+  payment method: card ending 3836  ship to: 120 Mill St
+  - espresso grinder x1
+  - gift wrap x3
+  - USB-C charging cable (2m) x3
+  - merino socks, size M x1
+
+--- message 1 from Maya Cohen ---
+The cast iron skillet from ORD-46118 arrived with a scratch on the side. Can I get a replacement? The confirmation email for ORD-81856 went to my spam folder, so I only just saw it. Is there a way to combine loyalty points from ORD-82960 with my next purchase? Could you also tell me whether ORD-46118 qualifies for the extended return window?
+
+Thanks,
+Maya Cohen
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Pete (support) ---
+I've resent the confirmation email for ORD-82960 to the address on file. Let me know if anything else looks off. I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Maya Cohen ---
+I got two receipts for ORD-72518, and both amounts actually left my account. I tried the chat widget first but it kept disconnecting. The camping stove itself is great, for what it's worth.
+
+Best regards,
+Maya Cohen
+
+--- message 4 from Pete (support) ---
+I can see all the orders on your account, including ORD-81856. Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Pete (support) ---
+You're right, and I'm sorry. Our records show ORD-72518 was settled two times. I've refunded the duplicate. Tracking updates can lag by a day or two with this carrier. For ORD-81856, the return window is 30 days from delivery.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Maya Cohen ---
+I'm travelling next week, so email is the best way to reach me. Is there a way to combine loyalty points from ORD-46118 with my next purchase? The confirmation email for ORD-46118 went to my spam folder, so I only just saw it.
+
+Thanks,
+Maya Cohen
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Maya Cohen ---
+My partner placed ORD-82960 on our shared account, in case that matters. I'd rather not call; the hold times last time were very long. The box for ORD-46118 was a bit crushed but the contents were fine. I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Maya Cohen
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Pete (support) ---
+I can see all the orders on your account, including ORD-46118. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-82960 left on schedule. For ORD-82960, the return window is 30 days from delivery.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

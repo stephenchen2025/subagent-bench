@@ -1,0 +1,55 @@
+Ticket T-5759
+Customer: Chloe Martin
+Orders on file: ORD-39468, ORD-66770, ORD-62223, ORD-35011
+Opened: 2026-02-13 via email
+
+Order details:
+ORD-39468  placed 2026-01-25  status: delivered  total: $472.86
+  payment method: card ending 4114  ship to: 817 Oak Rd
+  - mechanical keyboard x1
+  - spare battery pack x2
+  - extended warranty, 2 years x2
+  - microfiber cloth x1
+  - USB-C charging cable (2m) x1
+ORD-66770  placed 2026-02-18  status: label created  total: $67.19
+  payment method: card ending 3345  ship to: 226 Elm Rd
+  - cast iron skillet x1
+  - stainless water bottle, 750ml x3
+  - merino socks, size M x2
+ORD-62223  placed 2026-07-07  status: in transit  total: $377.11
+  payment method: card ending 6600  ship to: 354 Harbor St
+  - blender x1
+  - travel pouch x3
+  - microfiber cloth x3
+  - extended warranty, 2 years x2
+ORD-35011  placed 2026-07-21  status: label created  total: $77.48
+  payment method: card ending 3887  ship to: 779 Elm Lane
+  - blender x1
+  - carabiner set x1
+  - merino socks, size M x1
+
+--- message 1 from Chloe Martin ---
+Can I use a gift card on ORD-62223, or is it too late? I'm travelling next week, so email is the best way to reach me. Tracking for ORD-39468 hasn't updated since Tuesday. Is there a way to combine loyalty points from ORD-35011 with my next purchase?
+
+Chloe Martin
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Arjun (support) ---
+Tracking updates can lag by a day or two with this carrier. Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering. Our warehouse shows ORD-35011 left on schedule.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Chloe Martin ---
+The noise-cancelling headphones itself is great, for what it's worth. I'm travelling next week, so email is the best way to reach me. Could you also tell me whether ORD-39468 qualifies for the extended return window? I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Chloe Martin
+
+--- message 4 from Arjun (support) ---
+Tracking updates can lag by a day or two with this carrier. Let me know if anything else looks off. I've resent the confirmation email for ORD-35011 to the address on file. For ORD-62223, the return window is 30 days from delivery.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

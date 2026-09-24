@@ -1,0 +1,12 @@
+Ledger page P-6512
+
+account      amount   see page
+Lambert         +66   P-6411
+Silva          +845   P-2689
+Hughes         +351   P-4639
+Ibarra         +177   P-9511
+Baker          -561   P-9790
+Moreau         +557   P-4660
+Vance          -235   P-3249
+
+Follow the entry with the largest credit.

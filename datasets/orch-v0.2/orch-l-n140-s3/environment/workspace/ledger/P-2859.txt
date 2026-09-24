@@ -1,0 +1,11 @@
+Ledger page P-2859
+
+account      amount   see page
+Rahman         -732   P-6280
+Park            -63   P-7729
+Xu             -105   P-3306
+Jensen         -245   P-8870
+Young          -872   P-7347
+Grant          +849   P-5696
+
+Follow the debit belonging to the account that comes last alphabetically.

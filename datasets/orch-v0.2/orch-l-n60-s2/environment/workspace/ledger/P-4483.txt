@@ -1,0 +1,10 @@
+Ledger page P-4483
+
+account      amount   see page
+Ibarra         -312   P-9559
+Jensen         -652   P-1032
+Vance          +206   P-2745
+Fofana         -434   P-7317
+Lambert        -305   P-6777
+
+Follow the entry with the second-largest amount.

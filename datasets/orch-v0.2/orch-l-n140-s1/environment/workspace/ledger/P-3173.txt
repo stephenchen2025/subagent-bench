@@ -1,0 +1,10 @@
+Ledger page P-3173
+
+account      amount   see page
+Zhou            -35   P-7402
+Tanaka         -638   P-3054
+Park           +548   P-2167
+Grant          +488   P-5140
+Ibarra         -142   P-9134
+
+Follow the entry with the largest credit.

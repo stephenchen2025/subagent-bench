@@ -1,0 +1,11 @@
+Ledger page P-3866
+
+account      amount   see page
+Castillo       +377   P-7595
+Rahman         -372   P-2814
+Nakamura       +897   P-1230
+Hughes         -672   P-9733
+Moreau         +388   P-7893
+Young          -122   P-4260
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,12 @@
+Ledger page P-3518
+
+account      amount   see page
+Nakamura       +891   P-2011
+Umar           +424   P-4252
+Castillo       +518   P-8869
+Moreau          +29   P-1930
+Grant          -359   P-4529
+Zhou           -472   P-7302
+Quinn          -869   P-1036
+
+Follow the debit belonging to the account that comes last alphabetically.

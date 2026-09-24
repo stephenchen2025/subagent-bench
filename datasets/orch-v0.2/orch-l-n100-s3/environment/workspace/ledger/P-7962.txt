@@ -1,0 +1,11 @@
+Ledger page P-7962
+
+account      amount   see page
+Tanaka         +857   P-5211
+Hughes         +795   P-7759
+Baker          +344   P-4251
+Osei           -549   P-6683
+Fofana         -243   P-2301
+Eriksen        -515   P-4722
+
+Follow the credit belonging to the account that comes first alphabetically.

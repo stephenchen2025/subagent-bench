@@ -1,0 +1,11 @@
+Ledger page P-5456
+
+account      amount   see page
+Zhou           +177   P-5765
+Grant          -393   P-5807
+Park           -808   P-5225
+Silva          +571   P-4735
+Tanaka         +595   P-9478
+Lambert         +32   P-2928
+
+Follow the entry with the largest credit.

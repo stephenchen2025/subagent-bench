@@ -1,0 +1,11 @@
+Ledger page P-3675
+
+account      amount   see page
+Dunn           +716   P-5987
+Quinn          -111   P-2558
+Jensen         +260   P-8486
+Osei           -529   P-5607
+Lambert        +123   P-4141
+Kowalski       +653   P-3940
+
+Follow the debit belonging to the account that comes last alphabetically.

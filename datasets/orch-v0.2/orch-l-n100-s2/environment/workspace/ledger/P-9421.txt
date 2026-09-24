@@ -1,0 +1,12 @@
+Ledger page P-9421
+
+account      amount   see page
+Osei            +99   P-3698
+Lambert        +327   P-5076
+Dunn           +766   P-9538
+Zhou           -435   P-2697
+Silva          -859   P-5769
+Abbott         +618   P-4086
+Moreau          +40   P-5287
+
+Follow the entry with the largest credit.

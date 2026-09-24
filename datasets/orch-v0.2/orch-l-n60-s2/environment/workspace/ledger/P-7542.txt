@@ -1,0 +1,12 @@
+Ledger page P-7542
+
+account      amount   see page
+Umar           -574   P-3326
+Moreau         +287   P-4880
+Nakamura       +284   P-1518
+Silva          -246   P-2355
+Dunn           -199   P-5014
+Osei           +136   P-6700
+Baker          -560   P-5756
+
+Follow the credit belonging to the account that comes first alphabetically.

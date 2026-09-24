@@ -1,0 +1,10 @@
+Ledger page P-6576
+
+account      amount   see page
+Tanaka         +748   P-2295
+Dunn           +574   P-3128
+Jensen         -266   P-2238
+Quinn          +163   P-4720
+Kowalski        +28   P-2973
+
+Follow the entry whose amount is closest to zero.

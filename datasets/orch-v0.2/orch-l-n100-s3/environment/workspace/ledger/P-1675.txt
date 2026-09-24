@@ -1,0 +1,11 @@
+Ledger page P-1675
+
+account      amount   see page
+Baker           -88   P-3583
+Young          -366   P-6018
+Hughes         +135   P-3270
+Weber          +501   P-6513
+Umar           -836   P-1846
+Castillo       +475   P-4261
+
+Follow the entry with the largest debit (the most negative amount).

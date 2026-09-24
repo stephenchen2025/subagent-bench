@@ -1,0 +1,12 @@
+Ledger page P-6008
+
+account      amount   see page
+Moreau         +540   P-5320
+Grant          +105   P-6828
+Fofana         -536   P-5119
+Lambert        +805   P-4713
+Eriksen        -799   P-9694
+Castillo       -353   P-6984
+Young          -863   P-1856
+
+Follow the entry whose amount is closest to zero.

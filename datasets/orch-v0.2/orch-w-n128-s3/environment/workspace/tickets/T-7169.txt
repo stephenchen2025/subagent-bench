@@ -1,0 +1,73 @@
+Ticket T-7169
+Customer: Sofia Rossi
+Orders on file: ORD-82010, ORD-23691, ORD-88483, ORD-35281
+Opened: 2026-06-26 via chat transcript
+
+Order details:
+ORD-82010  placed 2026-06-09  status: delivered  total: $309.50
+  payment method: card ending 4152  ship to: 926 Cedar Rd
+  - mechanical keyboard x1
+  - gift wrap x1
+  - spare battery pack x1
+  - merino socks, size M x1
+  - stainless water bottle, 750ml x1
+ORD-23691  placed 2026-04-10  status: delivered  total: $174.10
+  payment method: card ending 8481  ship to: 692 Harbor Lane
+  - water filter pitcher x1
+  - stainless water bottle, 750ml x2
+  - travel pouch x2
+  - replacement filter cartridge, 3-pack x1
+  - microfiber cloth x1
+ORD-88483  placed 2026-04-10  status: delivered  total: $186.61
+  payment method: card ending 5679  ship to: 594 Cedar St
+  - cast iron skillet x1
+  - carabiner set x2
+  - travel pouch x2
+  - extended warranty, 2 years x1
+  - spare battery pack x2
+ORD-35281  placed 2026-07-05  status: delivered  total: $152.18
+  payment method: card ending 2483  ship to: 890 Elm Lane
+  - trail running shoes x1
+  - merino socks, size M x1
+  - gift wrap x3
+  - USB-C charging cable (2m) x3
+
+--- message 1 from Sofia Rossi ---
+How do I reset my password? The reset link keeps expiring. Tracking for ORD-82010 hasn't updated since Tuesday. I've been a customer for a few years and usually everything goes smoothly. I tried the chat widget first but it kept disconnecting.
+
+Sofia Rossi
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Arjun (support) ---
+Loyalty points post about a week after an order is delivered. Let me know if anything else looks off. For ORD-82010, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Sofia Rossi ---
+Is there a way to combine loyalty points from ORD-23691 with my next purchase? I'm travelling next week, so email is the best way to reach me. Could you also tell me whether ORD-82010 qualifies for the extended return window? My partner placed ORD-82010 on our shared account, in case that matters.
+
+Thanks,
+Sofia Rossi
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Arjun (support) ---
+Let me know if anything else looks off. If you need an invoice for ORD-23691, you can download it from the Orders page. Screenshots aren't necessary, but thank you for offering. Our warehouse shows ORD-82010 left on schedule.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Sofia Rossi ---
+I'm travelling next week, so email is the best way to reach me. I've been a customer for a few years and usually everything goes smoothly. I'd rather not call; the hold times last time were very long. I'm happy to send screenshots if that helps.
+
+Sofia Rossi
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Arjun (support) ---
+Tracking updates can lag by a day or two with this carrier. Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering. For ORD-35281, the return window is 30 days from delivery.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

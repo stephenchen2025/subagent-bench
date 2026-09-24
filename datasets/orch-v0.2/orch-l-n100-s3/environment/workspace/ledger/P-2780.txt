@@ -1,0 +1,11 @@
+Ledger page P-2780
+
+account      amount   see page
+Vance          -898   P-7198
+Zhou           +105   P-3128
+Eriksen        +837   P-6398
+Nakamura       +878   P-3072
+Dunn           +778   P-6140
+Tanaka         -632   P-8558
+
+Follow the credit belonging to the account that comes first alphabetically.

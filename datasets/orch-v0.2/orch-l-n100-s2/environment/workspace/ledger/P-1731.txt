@@ -1,0 +1,12 @@
+Ledger page P-1731
+
+account      amount   see page
+Young           +33   P-6065
+Tanaka         +728   P-7869
+Kowalski       +864   P-8651
+Weber          -647   P-1934
+Xu             +485   P-4528
+Lambert         +21   P-8919
+Castillo       -153   P-9066
+
+Follow the entry with the largest credit.

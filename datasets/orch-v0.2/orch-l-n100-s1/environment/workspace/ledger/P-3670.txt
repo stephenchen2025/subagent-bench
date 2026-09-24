@@ -1,0 +1,12 @@
+Ledger page P-3670
+
+account      amount   see page
+Baker          -167   P-9568
+Eriksen        +531   P-5722
+Grant          +388   P-3449
+Castillo        +24   P-7240
+Young          +281   P-4873
+Tanaka         +410   P-2376
+Silva          -468   P-8896
+
+Follow the debit belonging to the account that comes last alphabetically.

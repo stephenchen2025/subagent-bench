@@ -1,0 +1,12 @@
+Ledger page P-6577
+
+account      amount   see page
+Young          +518   P-2304
+Nakamura        -50   P-9256
+Eriksen        -697   P-2771
+Weber          +675   P-3054
+Grant          +554   P-4074
+Baker          -304   P-7336
+Umar           +641   P-5836
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,11 @@
+Ledger page P-8123
+
+account      amount   see page
+Grant          -709   P-1519
+Abbott         -612   P-1519
+Vance          +347   P-2187
+Park            +11   P-1713
+Castillo       -797   P-9105
+Silva          -866   P-2917
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,56 @@
+Ticket T-9196
+Customer: Maya Cohen
+Orders on file: ORD-31202, ORD-70548, ORD-98223, ORD-29234
+Opened: 2026-06-13 via email
+
+Order details:
+ORD-31202  placed 2026-03-09  status: delivered  total: $172.92
+  payment method: card ending 3682  ship to: 517 Harbor Lane
+  - cast iron skillet x1
+  - microfiber cloth x1
+  - travel pouch x2
+  - gift wrap x1
+ORD-70548  placed 2026-01-03  status: delivered  total: $264.05
+  payment method: card ending 9615  ship to: 265 Cedar Ave
+  - water filter pitcher x1
+  - extended warranty, 2 years x2
+  - replacement filter cartridge, 3-pack x1
+  - microfiber cloth x3
+ORD-98223  placed 2026-01-09  status: in transit  total: $99.07
+  payment method: card ending 9183  ship to: 390 Elm Rd
+  - desk lamp x1
+  - travel pouch x2
+  - extended warranty, 2 years x2
+ORD-29234  placed 2026-06-18  status: delivered  total: $363.05
+  payment method: card ending 7394  ship to: 926 Cedar Lane
+  - yoga mat x1
+  - spare battery pack x2
+  - travel pouch x2
+  - stainless water bottle, 750ml x3
+
+--- message 1 from Maya Cohen ---
+Can I use a gift card on ORD-31202, or is it too late? The confirmation email for ORD-70548 went to my spam folder, so I only just saw it. The box for ORD-70548 was a bit crushed but the contents were fine. Is there a way to combine loyalty points from ORD-29234 with my next purchase?
+
+Thanks,
+Maya Cohen
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Dana (support) ---
+For ORD-29234, the return window is 30 days from delivery. I've updated your shipping address on file. If you need an invoice for ORD-31202, you can download it from the Orders page. Screenshots aren't necessary, but thank you for offering.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Maya Cohen ---
+I tried the chat widget first but it kept disconnecting. I'm travelling next week, so email is the best way to reach me. The confirmation email for ORD-29234 went to my spam folder, so I only just saw it. My earlier order ORD-31202 arrived fine, no complaints there.
+
+Best regards,
+Maya Cohen
+
+--- message 4 from Dana (support) ---
+I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering. Our warehouse shows ORD-70548 left on schedule.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

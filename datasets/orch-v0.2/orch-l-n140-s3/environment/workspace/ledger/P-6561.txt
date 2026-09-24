@@ -1,0 +1,10 @@
+Ledger page P-6561
+
+account      amount   see page
+Weber          -870   P-5261
+Kowalski       +696   P-1162
+Dunn           -488   P-5696
+Hughes         -554   P-3360
+Lambert        +356   P-9427
+
+Follow the debit belonging to the account that comes last alphabetically.

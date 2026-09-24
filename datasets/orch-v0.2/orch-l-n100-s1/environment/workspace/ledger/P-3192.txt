@@ -1,0 +1,11 @@
+Ledger page P-3192
+
+account      amount   see page
+Osei           +625   P-1149
+Quinn          +270   P-2116
+Xu             +772   P-1608
+Weber          +725   P-8733
+Grant          -269   P-9161
+Baker          -526   P-1064
+
+Follow the entry with the largest credit.

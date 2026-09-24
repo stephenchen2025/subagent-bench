@@ -1,0 +1,10 @@
+Ledger page P-9506
+
+account      amount   see page
+Eriksen        -124   P-8393
+Park           +334   P-6318
+Hughes         +532   P-8393
+Moreau         -147   P-9431
+Kowalski       +241   P-8619
+
+Follow the entry with the second-largest amount.

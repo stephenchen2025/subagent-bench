@@ -1,0 +1,12 @@
+Ledger page P-2086
+
+account      amount   see page
+Lambert         -48   P-8747
+Osei           -344   P-5699
+Nakamura        -52   P-8908
+Vance          +800   P-4903
+Ibarra         +542   P-3373
+Eriksen        -165   P-7240
+Umar           +376   P-7071
+
+Follow the entry with the largest credit.

@@ -1,0 +1,12 @@
+Ledger page P-1386
+
+account      amount   see page
+Grant          -209   P-6639
+Weber           +50   P-5143
+Abbott         +836   P-6031
+Osei            -78   P-5226
+Zhou           -492   P-9976
+Dunn           +548   P-2943
+Silva          -616   P-3494
+
+Follow the credit belonging to the account that comes first alphabetically.

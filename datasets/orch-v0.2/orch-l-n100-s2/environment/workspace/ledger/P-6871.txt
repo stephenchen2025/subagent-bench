@@ -1,0 +1,12 @@
+Ledger page P-6871
+
+account      amount   see page
+Osei           -799   P-1731
+Weber          +777   P-8535
+Dunn            -99   P-9478
+Grant          +551   P-5076
+Xu              +58   P-5076
+Baker          -327   P-8045
+Lambert        -597   P-2427
+
+Follow the credit belonging to the account that comes first alphabetically.

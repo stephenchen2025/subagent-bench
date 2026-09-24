@@ -1,0 +1,11 @@
+Ledger page P-5132
+
+account      amount   see page
+Moreau         -691   P-6234
+Lambert        -384   P-2989
+Vance          +791   P-8439
+Park           -753   P-2082
+Hughes         +384   P-2178
+Tanaka         -133   P-3952
+
+Follow the debit belonging to the account that comes last alphabetically.

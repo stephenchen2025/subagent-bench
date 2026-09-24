@@ -1,0 +1,11 @@
+Ledger page P-2930
+
+account      amount   see page
+Kowalski       -360   P-4878
+Silva          +783   P-2930
+Park           -272   P-2533
+Osei           +792   P-1345
+Weber          -346   P-1855
+Grant          -173   P-3830
+
+Follow the debit belonging to the account that comes last alphabetically.

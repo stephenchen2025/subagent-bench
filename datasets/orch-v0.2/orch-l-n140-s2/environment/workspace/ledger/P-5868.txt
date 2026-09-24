@@ -1,0 +1,12 @@
+Ledger page P-5868
+
+account      amount   see page
+Vance            +5   P-8441
+Ibarra         -612   P-5242
+Grant          -630   P-8706
+Baker          -659   P-8937
+Eriksen        -366   P-9617
+Rahman         -346   P-7324
+Fofana         -625   P-7920
+
+Follow the entry whose amount is closest to zero.

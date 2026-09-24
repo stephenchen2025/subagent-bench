@@ -1,0 +1,11 @@
+Ledger page P-2010
+
+account      amount   see page
+Osei           +894   P-7669
+Moreau          +66   P-7097
+Baker          +534   P-2331
+Tanaka         -162   P-2898
+Lambert        +671   P-5230
+Zhou           -121   P-9722
+
+Follow the entry whose amount is closest to zero.

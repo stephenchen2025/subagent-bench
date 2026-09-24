@@ -1,0 +1,11 @@
+Ledger page P-4768
+
+account      amount   see page
+Vance          +581   P-1489
+Young          +703   P-1845
+Silva           +73   P-7527
+Weber          +566   P-9790
+Dunn             -5   P-1126
+Grant          -443   P-4422
+
+Follow the entry with the largest credit.

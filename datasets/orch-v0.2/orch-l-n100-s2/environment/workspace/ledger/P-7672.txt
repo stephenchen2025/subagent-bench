@@ -1,0 +1,12 @@
+Ledger page P-7672
+
+account      amount   see page
+Eriksen        -510   P-9066
+Park           -815   P-6930
+Abbott         -274   P-8993
+Jensen         +180   P-1462
+Lambert        +403   P-1598
+Baker          -608   P-1211
+Fofana         +669   P-8619
+
+Follow the entry with the largest debit (the most negative amount).

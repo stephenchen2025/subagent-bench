@@ -1,0 +1,10 @@
+Ledger page P-9713
+
+account      amount   see page
+Young          +636   P-5132
+Park           -349   P-5940
+Abbott         +241   P-8176
+Tanaka         +402   P-2046
+Jensen         -754   P-6101
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,10 @@
+Ledger page P-2898
+
+account      amount   see page
+Quinn          +814   P-5987
+Dunn           -149   P-4512
+Eriksen        -572   P-7868
+Rahman         +559   P-1224
+Hughes         +570   P-1108
+
+Follow the entry whose amount is closest to zero.

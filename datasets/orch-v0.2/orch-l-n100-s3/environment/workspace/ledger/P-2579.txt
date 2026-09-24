@@ -1,0 +1,12 @@
+Ledger page P-2579
+
+account      amount   see page
+Xu             -866   P-8170
+Moreau         -310   P-1575
+Park           +761   P-2960
+Abbott         +701   P-1719
+Eriksen        -546   P-9058
+Fofana         -519   P-4665
+Lambert          -6   P-5363
+
+Follow the entry with the second-largest amount.

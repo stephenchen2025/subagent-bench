@@ -1,0 +1,12 @@
+Ledger page P-6268
+
+account      amount   see page
+Quinn          -497   P-5655
+Grant          +112   P-7391
+Fofana         +732   P-9072
+Tanaka         +436   P-4343
+Young          -137   P-2583
+Abbott         +455   P-5238
+Osei           -389   P-2195
+
+Follow the debit belonging to the account that comes last alphabetically.

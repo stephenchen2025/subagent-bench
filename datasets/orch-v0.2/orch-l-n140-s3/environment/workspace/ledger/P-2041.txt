@@ -1,0 +1,11 @@
+Ledger page P-2041
+
+account      amount   see page
+Castillo       -231   P-4656
+Lambert        -586   P-2263
+Umar           -422   P-1252
+Kowalski       +686   P-5782
+Eriksen        -264   P-2248
+Rahman         -471   P-5499
+
+Follow the entry whose amount is closest to zero.

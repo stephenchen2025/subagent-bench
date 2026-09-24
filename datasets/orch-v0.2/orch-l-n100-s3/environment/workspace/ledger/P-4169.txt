@@ -1,0 +1,12 @@
+Ledger page P-4169
+
+account      amount   see page
+Rahman         -316   P-6355
+Jensen         -812   P-6683
+Abbott         -796   P-7987
+Eriksen        +117   P-1605
+Baker           +16   P-6868
+Castillo       -576   P-3441
+Nakamura         +1   P-2998
+
+Follow the debit belonging to the account that comes last alphabetically.

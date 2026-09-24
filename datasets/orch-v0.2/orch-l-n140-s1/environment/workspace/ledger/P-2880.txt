@@ -1,0 +1,11 @@
+Ledger page P-2880
+
+account      amount   see page
+Grant           -48   P-2280
+Xu             -579   P-3340
+Park           +693   P-5788
+Young           +43   P-2708
+Silva          +280   P-1247
+Kowalski       -215   P-4113
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,75 @@
+Ticket T-2466
+Customer: Chloe Martin
+Orders on file: ORD-57720, ORD-11744, ORD-84373, ORD-15131
+Opened: 2026-08-09 via web form
+
+Order details:
+ORD-57720  placed 2026-06-22  status: delivered  total: $215.02
+  payment method: card ending 5127  ship to: 874 Mill Ave
+  - noise-cancelling headphones x1
+  - spare battery pack x3
+  - extended warranty, 2 years x2
+  - travel pouch x3
+ORD-11744  placed 2026-08-06  status: returned  total: $360.13
+  payment method: card ending 9145  ship to: 473 Harbor Lane
+  - cast iron skillet x1
+  - USB-C charging cable (2m) x1
+  - stainless water bottle, 750ml x1
+  - gift wrap x2
+  - carabiner set x1
+ORD-84373  placed 2026-04-28  status: delivered  total: $438.70
+  payment method: card ending 3277  ship to: 905 Elm Ave
+  - wool blanket x1
+  - microfiber cloth x1
+  - spare battery pack x2
+  - gift wrap x1
+  - travel pouch x3
+ORD-15131  placed 2026-05-21  status: returned  total: $437.82
+  payment method: card ending 6168  ship to: 125 Harbor Lane
+  - water filter pitcher x1
+  - travel pouch x2
+  - extended warranty, 2 years x2
+  - carabiner set x1
+  - stainless water bottle, 750ml x2
+
+--- message 1 from Chloe Martin ---
+I'd like to return the camping stove from ORD-15131; it's the wrong size. Could you also tell me whether ORD-15131 qualifies for the extended return window? The box for ORD-84373 was a bit crushed but the contents were fine. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Chloe Martin
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Pete (support) ---
+I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-57720, you can download it from the Orders page. I've resent the confirmation email for ORD-15131 to the address on file.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Chloe Martin ---
+Yes, there were two payments, but they're for two different orders (ORD-11744 and ORD-15131), so that's fine. I just need a receipt for each. I'd rather not call; the hold times last time were very long. I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Chloe Martin
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Pete (support) ---
+Our warehouse shows ORD-15131 left on schedule. Tracking updates can lag by a day or two with this carrier. Loyalty points post about a week after an order is delivered.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Chloe Martin ---
+I changed my shipping address last month, so please double-check you have the new one. Tracking for ORD-15131 hasn't updated since Tuesday. The box for ORD-15131 was a bit crushed but the contents were fine. My partner placed ORD-15131 on our shared account, in case that matters.
+
+Thanks,
+Chloe Martin
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Pete (support) ---
+Screenshots aren't necessary, but thank you for offering. For ORD-15131, the return window is 30 days from delivery. Our warehouse shows ORD-15131 left on schedule. I can see all the orders on your account, including ORD-15131.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

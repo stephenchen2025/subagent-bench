@@ -1,0 +1,12 @@
+Ledger page P-2790
+
+account      amount   see page
+Lambert        +659   P-7148
+Abbott         +370   P-3340
+Xu             +409   P-1536
+Rahman         -118   P-4348
+Quinn          -653   P-8772
+Fofana         -735   P-2235
+Moreau         +710   P-1861
+
+Follow the debit belonging to the account that comes last alphabetically.

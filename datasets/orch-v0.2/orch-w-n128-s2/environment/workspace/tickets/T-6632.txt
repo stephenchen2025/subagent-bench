@@ -1,0 +1,90 @@
+Ticket T-6632
+Customer: Liam O'Neill
+Orders on file: ORD-58146, ORD-35997, ORD-26036, ORD-93624
+Opened: 2026-07-09 via chat transcript
+
+Order details:
+ORD-58146  placed 2026-01-04  status: returned  total: $79.67
+  payment method: card ending 7636  ship to: 620 Cedar St
+  - yoga mat x1
+  - merino socks, size M x3
+  - extended warranty, 2 years x1
+  - USB-C charging cable (2m) x2
+  - travel pouch x2
+ORD-35997  placed 2026-03-26  status: delivered  total: $349.63
+  payment method: card ending 9457  ship to: 693 Cedar Lane
+  - standing desk x1
+  - spare battery pack x2
+  - microfiber cloth x3
+ORD-26036  placed 2026-03-22  status: delivered  total: $340.55
+  payment method: card ending 5420  ship to: 475 Mill St
+  - standing desk x1
+  - microfiber cloth x1
+  - extended warranty, 2 years x1
+  - spare battery pack x1
+ORD-93624  placed 2026-06-15  status: in transit  total: $470.79
+  payment method: card ending 2551  ship to: 930 Cedar Ave
+  - water filter pitcher x1
+  - replacement filter cartridge, 3-pack x3
+  - extended warranty, 2 years x1
+  - stainless water bottle, 750ml x1
+  - USB-C charging cable (2m) x3
+
+--- message 1 from Liam O'Neill ---
+The carry-on suitcase from ORD-35997 arrived with a scratch on the side. Can I get a replacement? Could you also tell me whether ORD-35997 qualifies for the extended return window? I'd rather not call; the hold times last time were very long. The confirmation email for ORD-58146 went to my spam folder, so I only just saw it.
+
+Liam O'Neill
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Luis (support) ---
+Loyalty points post about a week after an order is delivered. I can see all the orders on your account, including ORD-58146. Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-26036 left on schedule.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Liam O'Neill ---
+The $189.66 for ORD-93624 came out of my account, and then the same $189.66 came out again the next morning. I've been a customer for a few years and usually everything goes smoothly. I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Liam O'Neill
+
+--- message 4 from Luis (support) ---
+Let me know if anything else looks off. I've added a note to your account so the next agent has the context. If you need an invoice for ORD-35997, you can download it from the Orders page.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Luis (support) ---
+Good news: only one payment for ORD-93624 ever settled. The other entry was a temporary hold and your bank has dropped it. Tracking updates can lag by a day or two with this carrier. If you need an invoice for ORD-35997, you can download it from the Orders page.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Liam O'Neill ---
+Thanks, I see it now: one payment for ORD-93624, the other one disappeared. All good. I'm travelling next week, so email is the best way to reach me. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Liam O'Neill
+
+--- message 7 from Luis (support) ---
+Let me know if anything else looks off. If you need an invoice for ORD-35997, you can download it from the Orders page. Our warehouse shows ORD-35997 left on schedule.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Liam O'Neill ---
+The confirmation email for ORD-26036 went to my spam folder, so I only just saw it. My earlier order ORD-58146 arrived fine, no complaints there. I'm happy to send screenshots if that helps. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Liam O'Neill
+
+--- message 9 from Luis (support) ---
+Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier. I've updated your shipping address on file. If you need an invoice for ORD-58146, you can download it from the Orders page.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

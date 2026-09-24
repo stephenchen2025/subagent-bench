@@ -1,0 +1,10 @@
+Ledger page P-9553
+
+account      amount   see page
+Tanaka         -113   P-7473
+Silva          -474   P-7920
+Vance          +712   P-6708
+Castillo       +742   P-4783
+Moreau         -883   P-1246
+
+Follow the entry with the largest credit.

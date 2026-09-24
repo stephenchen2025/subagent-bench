@@ -1,0 +1,11 @@
+Ledger page P-7290
+
+account      amount   see page
+Xu              -46   P-2684
+Osei           -106   P-3704
+Abbott          -71   P-4713
+Vance          +882   P-3336
+Park           +526   P-7487
+Ibarra         +356   P-7133
+
+Follow the debit belonging to the account that comes last alphabetically.

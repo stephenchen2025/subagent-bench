@@ -1,0 +1,11 @@
+Ledger page P-8261
+
+account      amount   see page
+Nakamura       -865   P-9200
+Kowalski       +643   P-3476
+Quinn          -324   P-5493
+Zhou           +125   P-4237
+Park           +369   P-8443
+Castillo       -330   P-6202
+
+Follow the entry whose amount is closest to zero.

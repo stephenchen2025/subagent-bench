@@ -1,0 +1,10 @@
+Ledger page P-1886
+
+account      amount   see page
+Castillo       +210   P-6924
+Tanaka         -692   P-5696
+Xu             -571   P-3511
+Rahman         -307   P-3236
+Grant          -530   P-7793
+
+Follow the credit belonging to the account that comes first alphabetically.

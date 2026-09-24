@@ -1,0 +1,10 @@
+Ledger page P-5642
+
+account      amount   see page
+Eriksen        -446   P-6667
+Weber          -144   P-5894
+Silva          +169   P-6726
+Abbott         -227   P-3491
+Baker          +102   P-6544
+
+Follow the entry with the largest debit (the most negative amount).

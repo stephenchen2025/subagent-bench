@@ -1,0 +1,12 @@
+Ledger page P-1781
+
+account      amount   see page
+Rahman         -112   P-4768
+Vance          +566   P-1592
+Grant          -761   P-7424
+Abbott         -682   P-2578
+Castillo        -48   P-4483
+Young          +782   P-3271
+Kowalski       +508   P-7164
+
+Follow the debit belonging to the account that comes last alphabetically.

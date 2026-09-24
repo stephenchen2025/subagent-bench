@@ -1,0 +1,94 @@
+Ticket T-2049
+Customer: Sofia Rossi
+Orders on file: ORD-81660, ORD-62732, ORD-90954, ORD-22201
+Opened: 2026-08-23 via web form
+
+Order details:
+ORD-81660  placed 2026-07-10  status: returned  total: $84.01
+  payment method: card ending 7513  ship to: 610 Harbor St
+  - yoga mat x1
+  - carabiner set x2
+  - USB-C charging cable (2m) x1
+  - extended warranty, 2 years x1
+  - merino socks, size M x1
+ORD-62732  placed 2026-01-02  status: delivered  total: $133.16
+  payment method: card ending 2333  ship to: 586 Harbor St
+  - carry-on suitcase x1
+  - merino socks, size M x2
+  - extended warranty, 2 years x1
+  - replacement filter cartridge, 3-pack x3
+  - gift wrap x1
+ORD-90954  placed 2026-05-25  status: label created  total: $390.46
+  payment method: card ending 7469  ship to: 90 Oak Rd
+  - water filter pitcher x1
+  - carabiner set x2
+  - stainless water bottle, 750ml x3
+  - extended warranty, 2 years x1
+  - travel pouch x1
+ORD-22201  placed 2026-04-05  status: delivered  total: $403.19
+  payment method: card ending 9984  ship to: 604 Oak Rd
+  - trail running shoes x1
+  - extended warranty, 2 years x2
+  - replacement filter cartridge, 3-pack x3
+
+--- message 1 from Sofia Rossi ---
+The yoga mat from ORD-81660 arrived with a scratch on the side. Can I get a replacement? My partner placed ORD-90954 on our shared account, in case that matters. Tracking for ORD-62732 hasn't updated since Tuesday. I tried the chat widget first but it kept disconnecting.
+
+Sofia Rossi
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Luis (support) ---
+Thanks for reaching out, and sorry for the trouble. I've updated your shipping address on file. For ORD-90954, the return window is 30 days from delivery. Tracking updates can lag by a day or two with this carrier.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Sofia Rossi ---
+I think I might have been charged twice for ORD-22201, but one of the lines on my credit union still says pending, so I'm not sure yet. I'd rather not call; the hold times last time were very long. My partner placed ORD-90954 on our shared account, in case that matters.
+
+Thanks,
+Sofia Rossi
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Luis (support) ---
+I've added a note to your account so the next agent has the context. Let me know if anything else looks off. If you need an invoice for ORD-81660, you can download it from the Orders page.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Sofia Rossi ---
+Update: the second line has now posted, it's no longer pending. So both payments for ORD-22201 actually went through. The confirmation email for ORD-81660 went to my spam folder, so I only just saw it. I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Sofia Rossi
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Luis (support) ---
+Our warehouse shows ORD-81660 left on schedule. For ORD-62732, the return window is 30 days from delivery. I've updated your shipping address on file.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Luis (support) ---
+You're right, and I'm sorry. Our records show ORD-22201 was settled two times. I've refunded the duplicate. If you need an invoice for ORD-81660, you can download it from the Orders page. I can see all the orders on your account, including ORD-90954.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Sofia Rossi ---
+Your app logged me out twice while I was looking at this, which didn't help. My earlier order ORD-90954 arrived fine, no complaints there. I'd rather not call; the hold times last time were very long. Could you also tell me whether ORD-90954 qualifies for the extended return window?
+
+Thanks,
+Sofia Rossi
+Sent from my phone -- please excuse typos.
+
+--- message 9 from Luis (support) ---
+I've updated your shipping address on file. I've added a note to your account so the next agent has the context. I can see all the orders on your account, including ORD-62732. Tracking updates can lag by a day or two with this carrier.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

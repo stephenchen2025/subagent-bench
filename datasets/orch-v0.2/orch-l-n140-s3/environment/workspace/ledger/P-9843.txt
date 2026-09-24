@@ -1,0 +1,12 @@
+Ledger page P-9843
+
+account      amount   see page
+Castillo       -741   P-8910
+Lambert        +336   P-4064
+Young          +538   P-7362
+Moreau         -628   P-2224
+Nakamura       +439   P-3655
+Kowalski       +149   P-6624
+Hughes         +852   P-2505
+
+Follow the entry with the second-largest amount.

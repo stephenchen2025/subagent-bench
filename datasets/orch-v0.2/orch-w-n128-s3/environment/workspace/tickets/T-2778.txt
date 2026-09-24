@@ -1,0 +1,55 @@
+Ticket T-2778
+Customer: Jordan Okafor
+Orders on file: ORD-84594, ORD-68667, ORD-43979, ORD-80789
+Opened: 2026-06-11 via chat transcript
+
+Order details:
+ORD-84594  placed 2026-05-06  status: returned  total: $348.75
+  payment method: card ending 4011  ship to: 188 Cedar St
+  - trail running shoes x1
+  - gift wrap x3
+  - USB-C charging cable (2m) x1
+ORD-68667  placed 2026-03-10  status: label created  total: $334.47
+  payment method: card ending 7433  ship to: 293 Harbor St
+  - bike light set x1
+  - travel pouch x1
+  - spare battery pack x1
+  - extended warranty, 2 years x3
+ORD-43979  placed 2026-06-18  status: in transit  total: $289.40
+  payment method: card ending 3607  ship to: 570 Oak Lane
+  - carry-on suitcase x1
+  - gift wrap x3
+  - merino socks, size M x2
+  - travel pouch x1
+ORD-80789  placed 2026-04-20  status: delivered  total: $239.91
+  payment method: card ending 4147  ship to: 553 Elm Lane
+  - yoga mat x1
+  - carabiner set x2
+  - extended warranty, 2 years x1
+
+--- message 1 from Jordan Okafor ---
+The cast iron skillet from ORD-84594 arrived with a scratch on the side. Can I get a replacement? I'd rather not call; the hold times last time were very long. Your app logged me out twice while I was looking at this, which didn't help. Could you also tell me whether ORD-84594 qualifies for the extended return window?
+
+Jordan Okafor
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Dana (support) ---
+Let me know if anything else looks off. I've resent the confirmation email for ORD-68667 to the address on file. I've added a note to your account so the next agent has the context. Thanks for reaching out, and sorry for the trouble.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Jordan Okafor ---
+Is there a way to combine loyalty points from ORD-68667 with my next purchase? I changed my shipping address last month, so please double-check you have the new one. Your app logged me out twice while I was looking at this, which didn't help. My earlier order ORD-84594 arrived fine, no complaints there.
+
+Thanks,
+Jordan Okafor
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Dana (support) ---
+I've resent the confirmation email for ORD-80789 to the address on file. I can see all the orders on your account, including ORD-84594. If you need an invoice for ORD-80789, you can download it from the Orders page. I've updated your shipping address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

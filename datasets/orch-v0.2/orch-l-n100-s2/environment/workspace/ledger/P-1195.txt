@@ -1,0 +1,12 @@
+Ledger page P-1195
+
+account      amount   see page
+Ibarra         +588   P-7383
+Eriksen        +635   P-9478
+Park            +16   P-3301
+Lambert         +67   P-4528
+Weber          -255   P-1211
+Hughes         +370   P-8385
+Nakamura       -830   P-4263
+
+Follow the entry with the second-largest amount.

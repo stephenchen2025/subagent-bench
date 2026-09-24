@@ -1,0 +1,12 @@
+Ledger page P-1746
+
+account      amount   see page
+Moreau         +601   P-3985
+Zhou           -592   P-6953
+Fofana         -175   P-6017
+Abbott         -226   P-3833
+Weber          +254   P-2847
+Dunn           -102   P-1350
+Tanaka         +181   P-9944
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,12 @@
+Ledger page P-5846
+
+account      amount   see page
+Young          +793   P-3282
+Vance          -859   P-2656
+Weber          -869   P-6297
+Dunn           -563   P-1693
+Fofana          -41   P-9124
+Ibarra         -312   P-6186
+Rahman         -787   P-2420
+
+Follow the entry with the largest credit.

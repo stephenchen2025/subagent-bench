@@ -1,0 +1,10 @@
+Ledger page P-7011
+
+account      amount   see page
+Fofana         +106   P-3860
+Moreau         -759   P-9207
+Hughes         -115   P-9207
+Eriksen        -854   P-4141
+Nakamura       -397   P-2823
+
+Follow the entry whose amount is closest to zero.

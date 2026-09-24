@@ -1,0 +1,12 @@
+Ledger page P-3207
+
+account      amount   see page
+Osei           +261   P-9286
+Dunn           +847   P-8018
+Umar           +243   P-5193
+Hughes          -83   P-9980
+Rahman         +859   P-9080
+Jensen         +432   P-9309
+Park           +864   P-9551
+
+Follow the debit belonging to the account that comes last alphabetically.

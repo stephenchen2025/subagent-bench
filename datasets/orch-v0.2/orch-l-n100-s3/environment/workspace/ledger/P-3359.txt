@@ -1,0 +1,10 @@
+Ledger page P-3359
+
+account      amount   see page
+Zhou           +569   P-6595
+Hughes         -235   P-5602
+Grant          +738   P-7069
+Abbott          -48   P-9084
+Fofana          +70   P-9616
+
+Follow the entry whose amount is closest to zero.

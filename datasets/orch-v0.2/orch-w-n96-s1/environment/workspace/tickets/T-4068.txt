@@ -1,0 +1,67 @@
+Ticket T-4068
+Customer: Priya Raman
+Orders on file: ORD-51791, ORD-81151, ORD-54213, ORD-57707
+Opened: 2026-02-23 via chat transcript
+
+Order details:
+ORD-51791  placed 2026-02-05  status: delivered  total: $223.59
+  payment method: card ending 5694  ship to: 261 Elm Rd
+  - carry-on suitcase x1
+  - replacement filter cartridge, 3-pack x3
+  - extended warranty, 2 years x2
+  - microfiber cloth x1
+  - spare battery pack x3
+ORD-81151  placed 2026-01-04  status: in transit  total: $188.18
+  payment method: card ending 1135  ship to: 459 Elm Ave
+  - water filter pitcher x1
+  - merino socks, size M x3
+  - travel pouch x1
+  - gift wrap x1
+  - microfiber cloth x3
+ORD-54213  placed 2026-03-07  status: delivered  total: $224.47
+  payment method: card ending 1090  ship to: 160 Harbor Ave
+  - standing desk x1
+  - microfiber cloth x2
+  - gift wrap x2
+ORD-57707  placed 2026-04-04  status: label created  total: $215.11
+  payment method: card ending 1073  ship to: 406 Cedar St
+  - bike light set x1
+  - travel pouch x3
+  - stainless water bottle, 750ml x2
+  - USB-C charging cable (2m) x3
+  - extended warranty, 2 years x3
+
+--- message 1 from Priya Raman ---
+I need to change the delivery address for ORD-81151 before it ships. The confirmation email for ORD-81151 went to my spam folder, so I only just saw it. I'm travelling next week, so email is the best way to reach me. The box for ORD-54213 was a bit crushed but the contents were fine.
+
+Thanks,
+Priya Raman
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Marcus (support) ---
+For ORD-57707, the return window is 30 days from delivery. I can see all the orders on your account, including ORD-81151. I've updated your shipping address on file. If you need an invoice for ORD-54213, you can download it from the Orders page.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Priya Raman ---
+There are two identical debits on my bank and both reference ORD-51791. Could you also tell me whether ORD-81151 qualifies for the extended return window? I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Priya Raman
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Priya Raman ---
+I tried the chat widget first but it kept disconnecting. The confirmation email for ORD-57707 went to my spam folder, so I only just saw it. Tracking for ORD-57707 hasn't updated since Tuesday. I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Priya Raman
+Sent from my phone -- please excuse typos.
+
+--- message 5 from Marcus (support) ---
+If you need an invoice for ORD-81151, you can download it from the Orders page. Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context. Loyalty points post about a week after an order is delivered.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

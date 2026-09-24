@@ -1,0 +1,10 @@
+Ledger page P-2011
+
+account      amount   see page
+Grant          +540   P-9843
+Castillo       -593   P-2431
+Zhou           +560   P-5261
+Moreau         +613   P-1676
+Baker          +142   P-5991
+
+Follow the credit belonging to the account that comes first alphabetically.

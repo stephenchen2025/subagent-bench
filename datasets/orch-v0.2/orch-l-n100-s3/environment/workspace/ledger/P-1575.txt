@@ -1,0 +1,11 @@
+Ledger page P-1575
+
+account      amount   see page
+Ibarra         +493   P-8558
+Baker          -819   P-5313
+Fofana         -356   P-2000
+Kowalski       +450   P-5489
+Weber          +845   P-2960
+Jensen         +281   P-1328
+
+Follow the entry with the largest credit.

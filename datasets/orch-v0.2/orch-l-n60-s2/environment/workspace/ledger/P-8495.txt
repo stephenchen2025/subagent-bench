@@ -1,0 +1,12 @@
+Ledger page P-8495
+
+account      amount   see page
+Abbott         +728   P-4360
+Weber          +245   P-9944
+Young          +117   P-7905
+Jensen         -804   P-9719
+Vance          -797   P-7317
+Park           +826   P-4483
+Castillo       -167   P-8094
+
+Follow the entry with the second-largest amount.

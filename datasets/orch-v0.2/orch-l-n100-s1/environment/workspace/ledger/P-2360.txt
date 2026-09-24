@@ -1,0 +1,10 @@
+Ledger page P-2360
+
+account      amount   see page
+Silva          +878   P-6665
+Rahman         +195   P-6600
+Jensen         +291   P-6371
+Park           +854   P-8917
+Young          -682   P-9837
+
+Follow the credit belonging to the account that comes first alphabetically.

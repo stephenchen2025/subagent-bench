@@ -1,0 +1,11 @@
+Ledger page P-4589
+
+account      amount   see page
+Baker          -760   P-4401
+Rahman         +249   P-9621
+Dunn            +33   P-9351
+Vance          -883   P-3148
+Moreau         -488   P-2035
+Zhou           -190   P-5067
+
+Follow the entry with the largest credit.

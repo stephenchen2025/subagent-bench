@@ -1,0 +1,10 @@
+Ledger page P-5207
+
+account      amount   see page
+Jensen         -682   P-2195
+Castillo       +789   P-4730
+Grant          +767   P-8784
+Silva           -14   P-6653
+Dunn           +469   P-9840
+
+Follow the debit belonging to the account that comes last alphabetically.

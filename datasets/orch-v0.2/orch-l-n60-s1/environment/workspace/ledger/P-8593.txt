@@ -1,0 +1,10 @@
+Ledger page P-8593
+
+account      amount   see page
+Tanaka         +724   P-4913
+Nakamura       -850   P-7696
+Castillo       +294   P-2640
+Weber           -13   P-6276
+Vance          -741   P-2426
+
+Follow the credit belonging to the account that comes first alphabetically.

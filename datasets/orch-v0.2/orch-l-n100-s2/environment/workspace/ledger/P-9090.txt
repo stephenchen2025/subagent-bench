@@ -1,0 +1,12 @@
+Ledger page P-9090
+
+account      amount   see page
+Rahman         +684   P-1507
+Fofana         -195   P-2082
+Xu             +187   P-6355
+Quinn          +144   P-7278
+Silva          -890   P-3199
+Castillo       -117   P-3166
+Hughes         -106   P-1287
+
+Follow the debit belonging to the account that comes last alphabetically.

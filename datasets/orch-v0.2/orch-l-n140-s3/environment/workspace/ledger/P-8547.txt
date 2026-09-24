@@ -1,0 +1,12 @@
+Ledger page P-8547
+
+account      amount   see page
+Fofana         -430   P-1001
+Baker          +619   P-4064
+Weber          -237   P-4125
+Rahman         -414   P-9788
+Lambert        +485   P-3236
+Vance           +67   P-4793
+Moreau         +781   P-9054
+
+Follow the entry with the largest credit.

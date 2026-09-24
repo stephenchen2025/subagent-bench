@@ -1,0 +1,11 @@
+Ledger page P-1157
+
+account      amount   see page
+Jensen         +789   P-8428
+Weber          +683   P-7042
+Castillo       +242   P-2848
+Moreau         -219   P-1745
+Young          -163   P-4873
+Zhou           +202   P-3307
+
+Follow the entry with the second-largest amount.

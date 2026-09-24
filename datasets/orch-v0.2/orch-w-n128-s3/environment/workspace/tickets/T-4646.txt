@@ -1,0 +1,74 @@
+Ticket T-4646
+Customer: Amara Nwosu
+Orders on file: ORD-81133, ORD-41453, ORD-82063, ORD-33086
+Opened: 2026-03-07 via web form
+
+Order details:
+ORD-81133  placed 2026-06-18  status: returned  total: $377.54
+  payment method: card ending 8590  ship to: 872 Elm Lane
+  - standing desk x1
+  - replacement filter cartridge, 3-pack x3
+  - travel pouch x3
+ORD-41453  placed 2026-07-17  status: returned  total: $27.76
+  payment method: card ending 5701  ship to: 277 Harbor Lane
+  - bike light set x1
+  - replacement filter cartridge, 3-pack x2
+  - gift wrap x1
+ORD-82063  placed 2026-05-24  status: delivered  total: $138.55
+  payment method: card ending 1822  ship to: 30 Oak Ave
+  - trail running shoes x1
+  - gift wrap x3
+  - microfiber cloth x3
+  - extended warranty, 2 years x2
+  - merino socks, size M x2
+ORD-33086  placed 2026-04-25  status: in transit  total: $419.48
+  payment method: card ending 6157  ship to: 957 Oak Lane
+  - cast iron skillet x1
+  - extended warranty, 2 years x2
+  - merino socks, size M x2
+
+--- message 1 from Amara Nwosu ---
+Can I use a gift card on ORD-41453, or is it too late? The box for ORD-41453 was a bit crushed but the contents were fine. I changed my shipping address last month, so please double-check you have the new one. Is there a way to combine loyalty points from ORD-41453 with my next purchase?
+
+Amara Nwosu
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Rosa (support) ---
+I can see all the orders on your account, including ORD-41453. Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering. I've updated your shipping address on file.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Amara Nwosu ---
+The checkout page for ORD-81133 timed out. If I try to pay again, will I end up being charged twice? I tried the chat widget first but it kept disconnecting. My earlier order ORD-41453 arrived fine, no complaints there.
+
+Best regards,
+Amara Nwosu
+
+--- message 4 from Rosa (support) ---
+No, you won't be charged twice: the first attempt for ORD-81133 failed before capture, so retrying is safe. I've added a note to your account so the next agent has the context. For ORD-41453, the return window is 30 days from delivery.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Amara Nwosu ---
+Your app logged me out twice while I was looking at this, which didn't help. My earlier order ORD-41453 arrived fine, no complaints there. Is there a way to combine loyalty points from ORD-33086 with my next purchase?
+
+Thanks,
+Amara Nwosu
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Amara Nwosu ---
+The box for ORD-33086 was a bit crushed but the contents were fine. My earlier order ORD-82063 arrived fine, no complaints there. My partner placed ORD-82063 on our shared account, in case that matters. Could you also tell me whether ORD-41453 qualifies for the extended return window?
+
+Amara Nwosu
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Rosa (support) ---
+Thanks for reaching out, and sorry for the trouble. Tracking updates can lag by a day or two with this carrier. Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

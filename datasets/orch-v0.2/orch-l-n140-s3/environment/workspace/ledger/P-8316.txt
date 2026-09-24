@@ -1,0 +1,12 @@
+Ledger page P-8316
+
+account      amount   see page
+Moreau         -248   P-5907
+Grant          +287   P-1465
+Kowalski       +117   P-9980
+Umar            +48   P-8124
+Vance          +501   P-7391
+Fofana         -233   P-9420
+Castillo       -578   P-4173
+
+Follow the debit belonging to the account that comes last alphabetically.

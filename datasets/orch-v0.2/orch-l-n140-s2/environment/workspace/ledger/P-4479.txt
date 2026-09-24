@@ -1,0 +1,12 @@
+Ledger page P-4479
+
+account      amount   see page
+Young          +884   P-5706
+Weber          +855   P-1412
+Kowalski       +544   P-8441
+Eriksen         -11   P-7300
+Vance          +488   P-9847
+Osei           +378   P-6013
+Castillo       +584   P-4602
+
+Follow the debit belonging to the account that comes last alphabetically.

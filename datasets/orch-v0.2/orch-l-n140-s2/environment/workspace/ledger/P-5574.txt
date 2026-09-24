@@ -1,0 +1,12 @@
+Ledger page P-5574
+
+account      amount   see page
+Ibarra          +14   P-2994
+Fofana         +605   P-6740
+Moreau         -456   P-2277
+Rahman         -822   P-7473
+Eriksen        +270   P-4074
+Young          +790   P-2335
+Vance          +568   P-7011
+
+Follow the entry with the largest debit (the most negative amount).

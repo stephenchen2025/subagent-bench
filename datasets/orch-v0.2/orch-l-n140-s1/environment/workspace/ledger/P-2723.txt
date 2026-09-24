@@ -1,0 +1,10 @@
+Ledger page P-2723
+
+account      amount   see page
+Fofana         -184   P-6223
+Hughes         -614   P-8129
+Nakamura       +858   P-6653
+Vance          -488   P-5067
+Tanaka         +875   P-4473
+
+Follow the credit belonging to the account that comes first alphabetically.

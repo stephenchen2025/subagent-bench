@@ -1,0 +1,11 @@
+Ledger page P-9140
+
+account      amount   see page
+Umar            +59   P-4151
+Silva          -167   P-4823
+Ibarra         +776   P-6147
+Hughes         -807   P-2046
+Lambert        -736   P-7547
+Quinn          -681   P-8486
+
+Follow the credit belonging to the account that comes first alphabetically.

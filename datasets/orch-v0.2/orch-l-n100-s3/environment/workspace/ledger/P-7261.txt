@@ -1,0 +1,12 @@
+Ledger page P-7261
+
+account      amount   see page
+Silva          +786   P-6266
+Baker          -359   P-4251
+Park           -236   P-9997
+Xu             +550   P-9081
+Osei           +436   P-6774
+Young          +120   P-6140
+Jensen         +727   P-6086
+
+Follow the entry with the second-largest amount.

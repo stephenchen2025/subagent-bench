@@ -1,0 +1,12 @@
+Ledger page P-9320
+
+account      amount   see page
+Castillo       -329   P-1380
+Weber          +687   P-3460
+Fofana         +351   P-4873
+Umar           -310   P-4344
+Baker           +27   P-9572
+Young           +19   P-4737
+Quinn          -289   P-1061
+
+Follow the credit belonging to the account that comes first alphabetically.

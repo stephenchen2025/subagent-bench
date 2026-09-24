@@ -1,0 +1,12 @@
+Ledger page P-3360
+
+account      amount   see page
+Silva          -779   P-9312
+Xu              -65   P-3207
+Eriksen        -493   P-9980
+Young          -172   P-7436
+Ibarra         +762   P-9368
+Abbott         -689   P-2195
+Grant          -230   P-5491
+
+Follow the entry with the largest credit.

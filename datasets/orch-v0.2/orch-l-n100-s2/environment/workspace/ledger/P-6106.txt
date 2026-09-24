@@ -1,0 +1,12 @@
+Ledger page P-6106
+
+account      amount   see page
+Vance          +884   P-2126
+Young           +73   P-2863
+Weber          +580   P-3994
+Kowalski       +346   P-2535
+Ibarra         +434   P-1287
+Castillo       +832   P-5991
+Abbott         -151   P-4446
+
+Follow the entry with the largest debit (the most negative amount).

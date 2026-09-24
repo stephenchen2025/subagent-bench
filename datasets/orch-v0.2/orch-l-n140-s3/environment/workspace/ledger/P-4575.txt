@@ -1,0 +1,11 @@
+Ledger page P-4575
+
+account      amount   see page
+Quinn          +258   P-3984
+Fofana         -581   P-8115
+Ibarra         +425   P-7047
+Hughes         +505   P-3417
+Tanaka         +563   P-2566
+Abbott         +373   P-4993
+
+Follow the entry with the largest credit.

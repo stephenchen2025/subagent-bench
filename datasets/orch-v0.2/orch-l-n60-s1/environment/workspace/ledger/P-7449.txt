@@ -1,0 +1,10 @@
+Ledger page P-7449
+
+account      amount   see page
+Dunn            +94   P-1565
+Eriksen        +499   P-7618
+Umar           -739   P-7674
+Abbott         -542   P-3814
+Ibarra         +377   P-8593
+
+Follow the debit belonging to the account that comes last alphabetically.

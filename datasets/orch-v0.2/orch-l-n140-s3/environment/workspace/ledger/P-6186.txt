@@ -1,0 +1,12 @@
+Ledger page P-6186
+
+account      amount   see page
+Castillo       -820   P-8210
+Weber          +732   P-6102
+Silva          +536   P-3049
+Young          -221   P-8991
+Park           -645   P-9740
+Baker          +226   P-4809
+Fofana         -387   P-6641
+
+Follow the entry with the second-largest amount.

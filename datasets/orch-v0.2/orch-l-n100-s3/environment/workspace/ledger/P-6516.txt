@@ -1,0 +1,11 @@
+Ledger page P-6516
+
+account      amount   see page
+Baker           +19   P-4665
+Lambert        +251   P-2704
+Kowalski       -247   P-6266
+Nakamura       +178   P-6952
+Eriksen        +201   P-1299
+Jensen         -602   P-6821
+
+Follow the entry whose amount is closest to zero.

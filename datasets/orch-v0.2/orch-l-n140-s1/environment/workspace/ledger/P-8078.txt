@@ -1,0 +1,11 @@
+Ledger page P-8078
+
+account      amount   see page
+Nakamura       +294   P-2282
+Osei           +715   P-1469
+Castillo       -704   P-5228
+Xu              -41   P-3187
+Eriksen        -586   P-1021
+Quinn           -93   P-3635
+
+Follow the entry whose amount is closest to zero.

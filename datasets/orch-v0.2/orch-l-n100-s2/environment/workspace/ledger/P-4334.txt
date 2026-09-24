@@ -1,0 +1,12 @@
+Ledger page P-4334
+
+account      amount   see page
+Kowalski       +620   P-9746
+Dunn             +3   P-7350
+Rahman         -767   P-3364
+Umar           -754   P-9546
+Xu               +4   P-6140
+Abbott         +421   P-9587
+Jensen          +85   P-8073
+
+Follow the entry with the largest credit.

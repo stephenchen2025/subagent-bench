@@ -1,0 +1,10 @@
+Ledger page P-5429
+
+account      amount   see page
+Ibarra         +189   P-4720
+Moreau         +538   P-9657
+Vance          -858   P-8170
+Lambert        -804   P-5298
+Young          +727   P-7576
+
+Follow the entry whose amount is closest to zero.

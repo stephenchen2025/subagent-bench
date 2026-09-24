@@ -1,0 +1,55 @@
+Ticket T-6980
+Customer: Samir Patel
+Orders on file: ORD-61301, ORD-81586, ORD-83841, ORD-18281
+Opened: 2026-05-02 via email
+
+Order details:
+ORD-61301  placed 2026-05-01  status: returned  total: $78.28
+  payment method: card ending 2347  ship to: 187 Elm St
+  - desk lamp x1
+  - replacement filter cartridge, 3-pack x3
+  - USB-C charging cable (2m) x3
+  - extended warranty, 2 years x2
+ORD-81586  placed 2026-06-15  status: delivered  total: $377.12
+  payment method: card ending 3608  ship to: 457 Cedar Ave
+  - carry-on suitcase x1
+  - merino socks, size M x3
+  - gift wrap x2
+  - stainless water bottle, 750ml x1
+ORD-83841  placed 2026-04-16  status: delivered  total: $352.08
+  payment method: card ending 4667  ship to: 42 Oak St
+  - blender x1
+  - carabiner set x2
+  - gift wrap x2
+ORD-18281  placed 2026-08-15  status: label created  total: $335.09
+  payment method: card ending 5665  ship to: 179 Cedar Lane
+  - desk lamp x1
+  - merino socks, size M x1
+  - microfiber cloth x3
+  - spare battery pack x3
+
+--- message 1 from Samir Patel ---
+I'd like to return the wool blanket from ORD-81586; it's the wrong size. I tried the chat widget first but it kept disconnecting. Could you also tell me whether ORD-83841 qualifies for the extended return window? My earlier order ORD-61301 arrived fine, no complaints there.
+
+Best regards,
+Samir Patel
+
+--- message 2 from Rosa (support) ---
+For ORD-81586, the return window is 30 days from delivery. Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Samir Patel ---
+Your app logged me out twice while I was looking at this, which didn't help. The box for ORD-81586 was a bit crushed but the contents were fine. I tried the chat widget first but it kept disconnecting. My earlier order ORD-83841 arrived fine, no complaints there.
+
+Samir Patel
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Rosa (support) ---
+Screenshots aren't necessary, but thank you for offering. I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-81586 left on schedule.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

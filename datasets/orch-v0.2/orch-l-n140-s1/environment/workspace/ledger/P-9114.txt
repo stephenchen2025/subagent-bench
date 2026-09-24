@@ -1,0 +1,11 @@
+Ledger page P-9114
+
+account      amount   see page
+Weber          -415   P-4713
+Eriksen        -410   P-6828
+Zhou           -447   P-4098
+Lambert        +168   P-4589
+Osei           +233   P-4950
+Quinn          +252   P-5546
+
+Follow the entry with the largest debit (the most negative amount).

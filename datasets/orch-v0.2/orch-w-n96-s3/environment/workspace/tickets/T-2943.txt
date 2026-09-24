@@ -1,0 +1,83 @@
+Ticket T-2943
+Customer: Ravi Iyer
+Orders on file: ORD-57934, ORD-77981, ORD-67590, ORD-92589
+Opened: 2026-01-04 via web form
+
+Order details:
+ORD-57934  placed 2026-04-09  status: delivered  total: $411.28
+  payment method: card ending 4563  ship to: 910 Cedar St
+  - carry-on suitcase x1
+  - travel pouch x1
+  - gift wrap x1
+  - spare battery pack x1
+ORD-77981  placed 2026-03-13  status: delivered  total: $440.91
+  payment method: card ending 9079  ship to: 932 Elm Lane
+  - rain jacket x1
+  - gift wrap x1
+  - carabiner set x3
+  - travel pouch x3
+ORD-67590  placed 2026-02-16  status: label created  total: $81.15
+  payment method: card ending 4175  ship to: 416 Elm Rd
+  - camping stove x1
+  - carabiner set x2
+  - USB-C charging cable (2m) x2
+ORD-92589  placed 2026-04-16  status: in transit  total: $406.22
+  payment method: card ending 7303  ship to: 686 Mill St
+  - yoga mat x1
+  - extended warranty, 2 years x3
+  - replacement filter cartridge, 3-pack x3
+  - USB-C charging cable (2m) x2
+
+--- message 1 from Ravi Iyer ---
+Can I use a gift card on ORD-67590, or is it too late? My partner placed ORD-77981 on our shared account, in case that matters. I changed my shipping address last month, so please double-check you have the new one. The carry-on suitcase itself is great, for what it's worth.
+
+Best regards,
+Ravi Iyer
+
+--- message 2 from Pete (support) ---
+If you need an invoice for ORD-67590, you can download it from the Orders page. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-77981 left on schedule. Tracking updates can lag by a day or two with this carrier.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ravi Iyer ---
+I see two charges on my credit union this week, one for ORD-92589 and one for ORD-77981. Both are correct -- I ordered twice on purpose -- but could you send me the invoices for my expense report? The box for ORD-57934 was a bit crushed but the contents were fine. The bike light set itself is great, for what it's worth.
+
+Ravi Iyer
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Pete (support) ---
+Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context. For ORD-77981, the return window is 30 days from delivery.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Ravi Iyer ---
+The box for ORD-67590 was a bit crushed but the contents were fine. Tracking for ORD-67590 hasn't updated since Tuesday. My earlier order ORD-67590 arrived fine, no complaints there. I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Ravi Iyer
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Pete (support) ---
+I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-77981 left on schedule. I've updated your shipping address on file.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Ravi Iyer ---
+The trail running shoes itself is great, for what it's worth. I'd rather not call; the hold times last time were very long. My partner placed ORD-77981 on our shared account, in case that matters. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Ravi Iyer
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Pete (support) ---
+Our warehouse shows ORD-67590 left on schedule. Tracking updates can lag by a day or two with this carrier. Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-77981, you can download it from the Orders page.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

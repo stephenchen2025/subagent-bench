@@ -1,0 +1,11 @@
+Ledger page P-6634
+
+account      amount   see page
+Eriksen        +361   P-8094
+Silva            -2   P-5153
+Xu             -882   P-3260
+Nakamura       -828   P-8207
+Quinn          +110   P-3732
+Grant          -698   P-3833
+
+Follow the debit belonging to the account that comes last alphabetically.

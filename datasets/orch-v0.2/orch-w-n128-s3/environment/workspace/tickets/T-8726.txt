@@ -1,0 +1,74 @@
+Ticket T-8726
+Customer: Noah Fischer
+Orders on file: ORD-73750, ORD-84973, ORD-13104, ORD-71202
+Opened: 2026-07-12 via web form
+
+Order details:
+ORD-73750  placed 2026-02-05  status: delivered  total: $195.91
+  payment method: card ending 9472  ship to: 200 Harbor St
+  - desk lamp x1
+  - gift wrap x1
+  - USB-C charging cable (2m) x3
+  - merino socks, size M x3
+ORD-84973  placed 2026-03-27  status: in transit  total: $291.14
+  payment method: card ending 7317  ship to: 295 Mill Rd
+  - rain jacket x1
+  - extended warranty, 2 years x3
+  - gift wrap x2
+  - USB-C charging cable (2m) x1
+  - spare battery pack x1
+ORD-13104  placed 2026-06-03  status: delivered  total: $143.82
+  payment method: card ending 3294  ship to: 240 Mill St
+  - standing desk x1
+  - carabiner set x3
+  - microfiber cloth x3
+ORD-71202  placed 2026-08-14  status: in transit  total: $251.14
+  payment method: card ending 6372  ship to: 929 Elm Ave
+  - espresso grinder x1
+  - merino socks, size M x3
+  - spare battery pack x1
+
+--- message 1 from Noah Fischer ---
+Where is my refund for ORD-71202? You said 5 days and it has been 8. I tried the chat widget first but it kept disconnecting. Your app logged me out twice while I was looking at this, which didn't help. I'd rather not call; the hold times last time were very long.
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Dana (support) ---
+Let me know if anything else looks off. Tracking updates can lag by a day or two with this carrier. Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Noah Fischer ---
+My card was charged two times for order ORD-13104. I changed my shipping address last month, so please double-check you have the new one. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Noah Fischer
+
+--- message 4 from Dana (support) ---
+I've checked with our payments team: both captures for ORD-13104 settled, so you were genuinely charged twice. I've issued a refund for the second one; it should show within 3-5 business days. I've added a note to your account so the next agent has the context. Our warehouse shows ORD-84973 left on schedule.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Noah Fischer ---
+My partner placed ORD-84973 on our shared account, in case that matters. I've been a customer for a few years and usually everything goes smoothly. I'm happy to send screenshots if that helps.
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Noah Fischer ---
+I'd rather not call; the hold times last time were very long. Your app logged me out twice while I was looking at this, which didn't help. I tried the chat widget first but it kept disconnecting. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Noah Fischer
+
+--- message 7 from Dana (support) ---
+For ORD-73750, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-73750 to the address on file. Thanks for reaching out, and sorry for the trouble.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

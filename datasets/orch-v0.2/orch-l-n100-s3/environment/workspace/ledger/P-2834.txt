@@ -1,0 +1,10 @@
+Ledger page P-2834
+
+account      amount   see page
+Vance          -542   P-2779
+Quinn          -532   P-9680
+Zhou           +669   P-2579
+Young          +800   P-5497
+Fofana         -425   P-1605
+
+Follow the entry with the second-largest amount.

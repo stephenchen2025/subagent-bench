@@ -1,0 +1,10 @@
+Ledger page P-5863
+
+account      amount   see page
+Baker          +308   P-2413
+Weber          -298   P-5886
+Abbott         +741   P-3075
+Umar            -86   P-3834
+Silva          +403   P-8298
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,10 @@
+Ledger page P-6879
+
+account      amount   see page
+Osei           +798   P-1861
+Xu             -515   P-8451
+Umar           +651   P-7022
+Kowalski       +562   P-5383
+Dunn           +417   P-2363
+
+Follow the debit belonging to the account that comes last alphabetically.

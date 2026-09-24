@@ -1,0 +1,10 @@
+Ledger page P-4067
+
+account      amount   see page
+Dunn           -547   P-9002
+Zhou           -407   P-9452
+Lambert        -435   P-9234
+Xu             +271   P-9056
+Fofana         -829   P-2834
+
+Follow the entry with the largest debit (the most negative amount).

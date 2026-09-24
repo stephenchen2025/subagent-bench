@@ -1,0 +1,92 @@
+Ticket T-7669
+Customer: Oskar Berg
+Orders on file: ORD-12562, ORD-74873, ORD-82373, ORD-68520
+Opened: 2026-07-03 via email
+
+Order details:
+ORD-12562  placed 2026-02-28  status: in transit  total: $143.83
+  payment method: card ending 8567  ship to: 892 Cedar Lane
+  - mechanical keyboard x1
+  - microfiber cloth x2
+  - carabiner set x3
+ORD-74873  placed 2026-04-21  status: delivered  total: $31.95
+  payment method: card ending 9637  ship to: 595 Elm Ave
+  - carry-on suitcase x1
+  - travel pouch x3
+  - USB-C charging cable (2m) x2
+ORD-82373  placed 2026-08-04  status: delivered  total: $289.11
+  payment method: card ending 2781  ship to: 333 Mill Ave
+  - espresso grinder x1
+  - carabiner set x2
+  - stainless water bottle, 750ml x2
+ORD-68520  placed 2026-06-04  status: label created  total: $443.56
+  payment method: card ending 9259  ship to: 814 Mill St
+  - yoga mat x1
+  - carabiner set x1
+  - USB-C charging cable (2m) x1
+  - stainless water bottle, 750ml x2
+
+--- message 1 from Oskar Berg ---
+I'd like to return the camping stove from ORD-68520; it's the wrong size. The cast iron skillet itself is great, for what it's worth. Could you also tell me whether ORD-82373 qualifies for the extended return window? Tracking for ORD-74873 hasn't updated since Tuesday.
+
+Best regards,
+Oskar Berg
+
+--- message 2 from Luis (support) ---
+If you need an invoice for ORD-82373, you can download it from the Orders page. I've updated your shipping address on file. Loyalty points post about a week after an order is delivered. Let me know if anything else looks off.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Oskar Berg ---
+I got two receipts for ORD-12562, and both amounts actually left my account. My partner placed ORD-68520 on our shared account, in case that matters. Is there a way to combine loyalty points from ORD-74873 with my next purchase?
+
+Oskar Berg
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Luis (support) ---
+Good news: only one payment for ORD-12562 ever settled. The other entry was a temporary hold and your bank has dropped it. Our warehouse shows ORD-82373 left on schedule. I can see all the orders on your account, including ORD-74873.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Oskar Berg ---
+Tracking for ORD-82373 hasn't updated since Tuesday. I'd rather not call; the hold times last time were very long. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Oskar Berg
+
+--- message 6 from Oskar Berg ---
+Oh, you're right -- I checked my online banking this morning and the second line is gone. Only one charge. Sorry for the false alarm! My partner placed ORD-82373 on our shared account, in case that matters. I'd rather not call; the hold times last time were very long.
+
+Oskar Berg
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Oskar Berg ---
+Tracking for ORD-82373 hasn't updated since Tuesday. Is there a way to combine loyalty points from ORD-82373 with my next purchase? The box for ORD-68520 was a bit crushed but the contents were fine. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Oskar Berg
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Luis (support) ---
+I've updated your shipping address on file. I can see all the orders on your account, including ORD-74873. If you need an invoice for ORD-82373, you can download it from the Orders page. For ORD-74873, the return window is 30 days from delivery.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Oskar Berg ---
+I tried the chat widget first but it kept disconnecting. Your app logged me out twice while I was looking at this, which didn't help. The carry-on suitcase itself is great, for what it's worth. I'd rather not call; the hold times last time were very long.
+
+Oskar Berg
+(Please reply by email rather than phone if possible.)
+
+--- message 10 from Luis (support) ---
+Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-68520. Let me know if anything else looks off. For ORD-74873, the return window is 30 days from delivery.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

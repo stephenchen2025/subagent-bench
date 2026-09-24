@@ -1,0 +1,11 @@
+Ledger page P-8023
+
+account      amount   see page
+Hughes         -235   P-8832
+Lambert        -621   P-5999
+Castillo       +372   P-9251
+Ibarra         +123   P-5769
+Jensen         +851   P-9344
+Grant          +892   P-1731
+
+Follow the entry with the largest debit (the most negative amount).

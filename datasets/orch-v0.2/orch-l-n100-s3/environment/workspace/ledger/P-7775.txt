@@ -1,0 +1,12 @@
+Ledger page P-7775
+
+account      amount   see page
+Baker          +670   P-8170
+Park           -172   P-6631
+Castillo       +249   P-9081
+Zhou           +220   P-3866
+Eriksen        +251   P-1423
+Grant          +560   P-1963
+Dunn           +370   P-3481
+
+Follow the entry with the largest debit (the most negative amount).

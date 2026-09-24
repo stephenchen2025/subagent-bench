@@ -1,0 +1,12 @@
+Ledger page P-1598
+
+account      amount   see page
+Jensen         +675   P-6166
+Osei             +1   P-1647
+Moreau         -436   P-1287
+Young          -199   P-9746
+Grant          +793   P-7121
+Kowalski        +60   P-6106
+Nakamura       -606   P-7889
+
+Follow the debit belonging to the account that comes last alphabetically.

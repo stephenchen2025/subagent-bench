@@ -1,0 +1,69 @@
+Ticket T-4736
+Customer: Priya Raman
+Orders on file: ORD-71446, ORD-11132, ORD-52783, ORD-73964
+Opened: 2026-02-18 via web form
+
+Order details:
+ORD-71446  placed 2026-02-07  status: returned  total: $176.81
+  payment method: card ending 4079  ship to: 163 Mill Lane
+  - yoga mat x1
+  - travel pouch x1
+  - spare battery pack x1
+  - replacement filter cartridge, 3-pack x1
+  - stainless water bottle, 750ml x1
+ORD-11132  placed 2026-06-09  status: in transit  total: $122.16
+  payment method: card ending 9908  ship to: 68 Cedar Rd
+  - rain jacket x1
+  - carabiner set x3
+  - microfiber cloth x3
+ORD-52783  placed 2026-02-06  status: in transit  total: $401.43
+  payment method: card ending 1982  ship to: 96 Elm Rd
+  - rain jacket x1
+  - microfiber cloth x3
+  - spare battery pack x1
+ORD-73964  placed 2026-06-04  status: returned  total: $356.73
+  payment method: card ending 4806  ship to: 434 Mill St
+  - mechanical keyboard x1
+  - replacement filter cartridge, 3-pack x3
+  - travel pouch x1
+  - USB-C charging cable (2m) x1
+
+--- message 1 from Priya Raman ---
+How do I reset my password? The reset link keeps expiring. Is there a way to combine loyalty points from ORD-73964 with my next purchase? I changed my shipping address last month, so please double-check you have the new one. I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Priya Raman
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Dana (support) ---
+Loyalty points post about a week after an order is delivered. If you need an invoice for ORD-71446, you can download it from the Orders page. I can see all the orders on your account, including ORD-73964. Our warehouse shows ORD-52783 left on schedule.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Priya Raman ---
+I see two charges on my statement this week, one for ORD-11132 and one for ORD-73964. Both are correct -- I ordered twice on purpose -- but could you send me the invoices for my expense report? The confirmation email for ORD-73964 went to my spam folder, so I only just saw it. Could you also tell me whether ORD-73964 qualifies for the extended return window?
+
+Best regards,
+Priya Raman
+
+--- message 4 from Dana (support) ---
+I've added a note to your account so the next agent has the context. Our warehouse shows ORD-52783 left on schedule. Tracking updates can lag by a day or two with this carrier.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Priya Raman ---
+I'm travelling next week, so email is the best way to reach me. I changed my shipping address last month, so please double-check you have the new one. My partner placed ORD-73964 on our shared account, in case that matters. The confirmation email for ORD-73964 went to my spam folder, so I only just saw it.
+
+Priya Raman
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Dana (support) ---
+Screenshots aren't necessary, but thank you for offering. Our warehouse shows ORD-71446 left on schedule. I've resent the confirmation email for ORD-73964 to the address on file. Tracking updates can lag by a day or two with this carrier.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

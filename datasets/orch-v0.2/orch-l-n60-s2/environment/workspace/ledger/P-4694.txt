@@ -1,0 +1,12 @@
+Ledger page P-4694
+
+account      amount   see page
+Silva          +738   P-9605
+Grant          -652   P-3913
+Baker          -807   P-3369
+Quinn          +599   P-7424
+Zhou           -409   P-7275
+Park           -802   P-2118
+Young          +513   P-7164
+
+Follow the entry with the largest debit (the most negative amount).

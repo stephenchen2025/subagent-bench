@@ -1,0 +1,12 @@
+Ledger page P-7937
+
+account      amount   see page
+Grant          +372   P-2429
+Vance          -705   P-8421
+Weber          -514   P-4305
+Osei           +889   P-4921
+Abbott         +821   P-7546
+Eriksen        +202   P-6280
+Zhou           -543   P-5023
+
+Follow the entry whose amount is closest to zero.

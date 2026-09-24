@@ -1,0 +1,12 @@
+Ledger page P-3552
+
+account      amount   see page
+Moreau         -183   P-8911
+Tanaka         +422   P-3552
+Rahman         +793   P-8600
+Lambert        +478   P-7071
+Castillo       +635   P-3877
+Eriksen        +173   P-2194
+Weber          +592   P-3452
+
+Follow the entry whose amount is closest to zero.

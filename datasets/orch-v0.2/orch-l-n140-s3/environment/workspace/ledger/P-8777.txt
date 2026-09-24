@@ -1,0 +1,11 @@
+Ledger page P-8777
+
+account      amount   see page
+Silva          -378   P-4125
+Hughes         +730   P-5183
+Umar           +500   P-3408
+Dunn           -368   P-4993
+Ibarra         -875   P-9084
+Young          +489   P-1670
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,71 @@
+Ticket T-5480
+Customer: Grace Mwangi
+Orders on file: ORD-76551, ORD-71498, ORD-28100, ORD-30766
+Opened: 2026-01-01 via web form
+
+Order details:
+ORD-76551  placed 2026-06-15  status: delivered  total: $47.73
+  payment method: card ending 5104  ship to: 619 Elm Rd
+  - desk lamp x1
+  - merino socks, size M x2
+  - replacement filter cartridge, 3-pack x2
+  - stainless water bottle, 750ml x3
+ORD-71498  placed 2026-01-02  status: label created  total: $371.38
+  payment method: card ending 5043  ship to: 187 Harbor Lane
+  - trail running shoes x1
+  - carabiner set x3
+  - replacement filter cartridge, 3-pack x3
+  - spare battery pack x1
+  - stainless water bottle, 750ml x3
+ORD-28100  placed 2026-08-25  status: label created  total: $187.80
+  payment method: card ending 9574  ship to: 749 Mill Ave
+  - yoga mat x1
+  - spare battery pack x3
+  - extended warranty, 2 years x3
+  - USB-C charging cable (2m) x3
+ORD-30766  placed 2026-04-21  status: delivered  total: $244.37
+  payment method: card ending 6951  ship to: 25 Elm Rd
+  - cast iron skillet x1
+  - extended warranty, 2 years x1
+  - microfiber cloth x1
+  - spare battery pack x2
+
+--- message 1 from Grace Mwangi ---
+Can I use a gift card on ORD-28100, or is it too late? I'm happy to send screenshots if that helps. Tracking for ORD-30766 hasn't updated since Tuesday. I'm travelling next week, so email is the best way to reach me.
+
+Grace Mwangi
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Arjun (support) ---
+For ORD-30766, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context. Thanks for reaching out, and sorry for the trouble. Loyalty points post about a week after an order is delivered.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Grace Mwangi ---
+The carry-on suitcase itself is great, for what it's worth. The box for ORD-76551 was a bit crushed but the contents were fine. Could you also tell me whether ORD-30766 qualifies for the extended return window? I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Grace Mwangi
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Arjun (support) ---
+I can see all the orders on your account, including ORD-28100. Let me know if anything else looks off. Tracking updates can lag by a day or two with this carrier. I've resent the confirmation email for ORD-30766 to the address on file.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Grace Mwangi ---
+I tried the chat widget first but it kept disconnecting. The box for ORD-76551 was a bit crushed but the contents were fine. The cast iron skillet itself is great, for what it's worth. My earlier order ORD-30766 arrived fine, no complaints there.
+
+Best regards,
+Grace Mwangi
+
+--- message 6 from Arjun (support) ---
+I can see all the orders on your account, including ORD-76551. For ORD-28100, the return window is 30 days from delivery. Loyalty points post about a week after an order is delivered. I've updated your shipping address on file.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

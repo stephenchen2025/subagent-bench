@@ -1,0 +1,11 @@
+Ledger page P-3888
+
+account      amount   see page
+Vance          -329   P-8753
+Quinn          +753   P-8428
+Park           +221   P-9408
+Lambert        +299   P-6359
+Umar           -425   P-3528
+Fofana         +785   P-4481
+
+Follow the entry with the second-largest amount.

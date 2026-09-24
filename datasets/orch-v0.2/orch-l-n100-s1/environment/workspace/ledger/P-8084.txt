@@ -1,0 +1,12 @@
+Ledger page P-8084
+
+account      amount   see page
+Rahman         -618   P-2228
+Grant          -325   P-8121
+Vance          +685   P-8082
+Dunn           -243   P-1577
+Park           -271   P-6082
+Abbott         -696   P-8226
+Castillo       +872   P-3381
+
+Follow the debit belonging to the account that comes last alphabetically.

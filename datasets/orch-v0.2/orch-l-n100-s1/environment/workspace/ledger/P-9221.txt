@@ -1,0 +1,12 @@
+Ledger page P-9221
+
+account      amount   see page
+Young          -467   P-1701
+Dunn           +744   P-6851
+Baker           +81   P-1577
+Rahman         +786   P-1841
+Hughes         +480   P-3946
+Xu             +883   P-5858
+Eriksen        -577   P-1487
+
+Follow the entry whose amount is closest to zero.

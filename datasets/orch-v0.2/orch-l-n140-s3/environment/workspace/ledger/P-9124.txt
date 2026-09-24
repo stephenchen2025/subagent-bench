@@ -1,0 +1,11 @@
+Ledger page P-9124
+
+account      amount   see page
+Young          +294   P-6461
+Umar           +232   P-5116
+Zhou           -269   P-4349
+Eriksen        -560   P-5696
+Xu             -767   P-3557
+Castillo       +832   P-2308
+
+Follow the entry with the largest debit (the most negative amount).

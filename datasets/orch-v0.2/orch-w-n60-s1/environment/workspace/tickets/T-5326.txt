@@ -1,0 +1,60 @@
+Ticket T-5326
+Customer: Diego Alvarez
+Orders on file: ORD-81602, ORD-52090, ORD-21636, ORD-48751
+Opened: 2026-04-27 via email
+
+Order details:
+ORD-81602  placed 2026-03-03  status: delivered  total: $461.24
+  payment method: card ending 9276  ship to: 373 Oak Rd
+  - bike light set x1
+  - microfiber cloth x1
+  - stainless water bottle, 750ml x1
+ORD-52090  placed 2026-04-26  status: label created  total: $477.74
+  payment method: card ending 7586  ship to: 390 Cedar St
+  - desk lamp x1
+  - replacement filter cartridge, 3-pack x1
+  - stainless water bottle, 750ml x1
+ORD-21636  placed 2026-01-10  status: returned  total: $391.56
+  payment method: card ending 8474  ship to: 760 Oak St
+  - trail running shoes x1
+  - microfiber cloth x1
+  - gift wrap x3
+  - extended warranty, 2 years x3
+  - merino socks, size M x1
+ORD-48751  placed 2026-01-08  status: delivered  total: $56.87
+  payment method: card ending 3952  ship to: 487 Oak Ave
+  - camping stove x1
+  - stainless water bottle, 750ml x1
+  - microfiber cloth x2
+
+--- message 1 from Diego Alvarez ---
+I'd like to return the standing desk from ORD-48751; it's the wrong size. My partner placed ORD-48751 on our shared account, in case that matters. I tried the chat widget first but it kept disconnecting. I'm travelling next week, so email is the best way to reach me.
+
+Diego Alvarez
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Rosa (support) ---
+Let me know if anything else looks off. I've added a note to your account so the next agent has the context. I can see all the orders on your account, including ORD-81602. For ORD-21636, the return window is 30 days from delivery.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Diego Alvarez ---
+The $123.87 for ORD-52090 came out of my account, and then the same $123.87 came out again the next morning. The confirmation email for ORD-21636 went to my spam folder, so I only just saw it. My partner placed ORD-81602 on our shared account, in case that matters.
+
+Diego Alvarez
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Diego Alvarez ---
+I changed my shipping address last month, so please double-check you have the new one. Your app logged me out twice while I was looking at this, which didn't help. My partner placed ORD-21636 on our shared account, in case that matters. The box for ORD-81602 was a bit crushed but the contents were fine.
+
+Best regards,
+Diego Alvarez
+
+--- message 5 from Rosa (support) ---
+Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering. Let me know if anything else looks off. I've resent the confirmation email for ORD-81602 to the address on file.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,11 @@
+Ledger page P-5120
+
+account      amount   see page
+Nakamura       +609   P-7573
+Umar           +544   P-8278
+Baker          +125   P-4343
+Tanaka         -518   P-4639
+Moreau          -71   P-6427
+Lambert         -31   P-9551
+
+Follow the entry with the largest debit (the most negative amount).

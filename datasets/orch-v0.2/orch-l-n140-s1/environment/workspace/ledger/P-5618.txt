@@ -1,0 +1,12 @@
+Ledger page P-5618
+
+account      amount   see page
+Moreau         -588   P-6606
+Baker          +468   P-6757
+Tanaka         +623   P-1597
+Park           -407   P-8008
+Dunn           +692   P-4478
+Abbott         -477   P-2068
+Young          -839   P-7022
+
+Follow the entry with the largest credit.

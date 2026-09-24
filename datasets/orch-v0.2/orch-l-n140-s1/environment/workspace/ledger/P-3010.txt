@@ -1,0 +1,10 @@
+Ledger page P-3010
+
+account      amount   see page
+Rahman         +109   P-3686
+Fofana          -81   P-4315
+Kowalski       -621   P-4098
+Moreau         +672   P-4315
+Park           -389   P-5985
+
+Follow the entry with the second-largest amount.

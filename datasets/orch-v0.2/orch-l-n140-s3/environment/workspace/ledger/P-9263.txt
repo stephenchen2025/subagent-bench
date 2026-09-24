@@ -1,0 +1,11 @@
+Ledger page P-9263
+
+account      amount   see page
+Silva          -846   P-4118
+Fofana         -648   P-9588
+Lambert        +759   P-3012
+Osei           -739   P-3236
+Dunn           -533   P-8653
+Eriksen        -786   P-9105
+
+Follow the entry with the largest debit (the most negative amount).

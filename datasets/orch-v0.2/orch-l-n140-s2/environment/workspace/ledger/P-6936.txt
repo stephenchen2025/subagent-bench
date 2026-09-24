@@ -1,0 +1,10 @@
+Ledger page P-6936
+
+account      amount   see page
+Nakamura       -665   P-7331
+Xu             +574   P-9200
+Hughes         +777   P-3410
+Baker          -631   P-7693
+Moreau         +348   P-8328
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,12 @@
+Ledger page P-4529
+
+account      amount   see page
+Nakamura       -204   P-5991
+Hughes         -428   P-5925
+Dunn           +839   P-9753
+Kowalski       -689   P-6476
+Vance          -108   P-5600
+Young           +52   P-3318
+Umar           -170   P-1234
+
+Follow the entry with the largest credit.

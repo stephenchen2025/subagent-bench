@@ -1,0 +1,59 @@
+Ticket T-1332
+Customer: Ravi Iyer
+Orders on file: ORD-98420, ORD-14169, ORD-37276, ORD-71184
+Opened: 2026-07-03 via chat transcript
+
+Order details:
+ORD-98420  placed 2026-05-08  status: delivered  total: $392.51
+  payment method: card ending 8965  ship to: 422 Elm St
+  - yoga mat x1
+  - replacement filter cartridge, 3-pack x2
+  - extended warranty, 2 years x3
+  - travel pouch x3
+  - carabiner set x3
+ORD-14169  placed 2026-03-16  status: delivered  total: $403.08
+  payment method: card ending 6760  ship to: 252 Mill St
+  - rain jacket x1
+  - stainless water bottle, 750ml x1
+  - USB-C charging cable (2m) x3
+  - carabiner set x3
+  - microfiber cloth x1
+ORD-37276  placed 2026-06-21  status: delivered  total: $330.95
+  payment method: card ending 5296  ship to: 760 Cedar Lane
+  - trail running shoes x1
+  - microfiber cloth x1
+  - gift wrap x3
+  - carabiner set x1
+ORD-71184  placed 2026-08-27  status: returned  total: $237.95
+  payment method: card ending 3295  ship to: 762 Oak Lane
+  - bike light set x1
+  - spare battery pack x2
+  - USB-C charging cable (2m) x2
+  - travel pouch x3
+
+--- message 1 from Ravi Iyer ---
+The noise-cancelling headphones from ORD-71184 arrived with a scratch on the side. Can I get a replacement? My partner placed ORD-14169 on our shared account, in case that matters. I've been a customer for a few years and usually everything goes smoothly. Tracking for ORD-14169 hasn't updated since Tuesday.
+
+Best regards,
+Ravi Iyer
+
+--- message 2 from Marcus (support) ---
+I've updated your shipping address on file. Our warehouse shows ORD-71184 left on schedule. Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-14169.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ravi Iyer ---
+My partner placed ORD-71184 on our shared account, in case that matters. I tried the chat widget first but it kept disconnecting. Could you also tell me whether ORD-71184 qualifies for the extended return window? I'm happy to send screenshots if that helps.
+
+Thanks,
+Ravi Iyer
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Marcus (support) ---
+Screenshots aren't necessary, but thank you for offering. For ORD-14169, the return window is 30 days from delivery. Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-14169 to the address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,12 @@
+Ledger page P-4626
+
+account      amount   see page
+Fofana         +151   P-1261
+Moreau         -870   P-4852
+Young           +67   P-1230
+Grant          +832   P-2390
+Xu             -646   P-5226
+Dunn           +659   P-6160
+Hughes         -497   P-8817
+
+Follow the credit belonging to the account that comes first alphabetically.

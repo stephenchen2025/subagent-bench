@@ -1,0 +1,11 @@
+Ledger page P-7146
+
+account      amount   see page
+Zhou           +550   P-4728
+Xu             -520   P-6360
+Hughes         -466   P-2328
+Nakamura       +103   P-9380
+Silva          -723   P-4738
+Tanaka         -192   P-7667
+
+Follow the entry whose amount is closest to zero.

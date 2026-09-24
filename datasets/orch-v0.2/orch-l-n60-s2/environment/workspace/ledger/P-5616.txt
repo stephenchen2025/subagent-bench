@@ -1,0 +1,12 @@
+Ledger page P-5616
+
+account      amount   see page
+Rahman          +80   P-6411
+Park           -594   P-7464
+Baker          -165   P-3475
+Silva          -586   P-3249
+Eriksen        -327   P-8493
+Ibarra         +638   P-9511
+Moreau         +690   P-3914
+
+Follow the entry with the largest debit (the most negative amount).

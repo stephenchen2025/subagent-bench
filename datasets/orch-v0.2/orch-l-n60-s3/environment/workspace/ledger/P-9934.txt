@@ -1,0 +1,11 @@
+Ledger page P-9934
+
+account      amount   see page
+Quinn           -67   P-8300
+Park           -569   P-4020
+Grant          +456   P-3477
+Young          +412   P-2900
+Osei           +189   P-2329
+Vance          -564   P-8992
+
+Follow the debit belonging to the account that comes last alphabetically.

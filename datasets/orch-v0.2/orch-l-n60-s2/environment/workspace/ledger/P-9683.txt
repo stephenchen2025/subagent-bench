@@ -1,0 +1,12 @@
+Ledger page P-9683
+
+account      amount   see page
+Moreau         +604   P-9604
+Jensen         -237   P-8971
+Nakamura       +675   P-6897
+Osei           -168   P-2578
+Kowalski       -563   P-8207
+Ibarra         +235   P-1350
+Park           +293   P-6034
+
+Follow the entry whose amount is closest to zero.

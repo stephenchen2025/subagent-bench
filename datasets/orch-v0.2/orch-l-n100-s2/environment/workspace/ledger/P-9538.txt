@@ -1,0 +1,12 @@
+Ledger page P-9538
+
+account      amount   see page
+Kowalski       -388   P-8202
+Hughes          +73   P-5888
+Umar           +282   P-8132
+Ibarra         -362   P-7583
+Castillo       +248   P-4337
+Young          +890   P-9066
+Weber          +259   P-6914
+
+Follow the debit belonging to the account that comes last alphabetically.

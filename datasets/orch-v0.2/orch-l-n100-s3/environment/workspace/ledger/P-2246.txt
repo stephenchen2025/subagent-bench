@@ -1,0 +1,12 @@
+Ledger page P-2246
+
+account      amount   see page
+Abbott         +590   P-6253
+Nakamura       -276   P-2536
+Castillo       -243   P-9024
+Xu             +811   P-2797
+Umar           -835   P-8523
+Rahman         -375   P-5206
+Hughes          -17   P-8276
+
+Follow the credit belonging to the account that comes first alphabetically.

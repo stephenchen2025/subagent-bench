@@ -1,0 +1,11 @@
+Ledger page P-8045
+
+account      amount   see page
+Fofana         +405   P-5107
+Zhou           +616   P-9916
+Park            -55   P-6897
+Kowalski       -662   P-9850
+Abbott         +183   P-1489
+Young          +784   P-8094
+
+Follow the entry with the largest debit (the most negative amount).

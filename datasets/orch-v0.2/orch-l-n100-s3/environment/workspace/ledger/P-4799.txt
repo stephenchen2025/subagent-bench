@@ -1,0 +1,12 @@
+Ledger page P-4799
+
+account      amount   see page
+Castillo       -793   P-3128
+Baker          -848   P-9964
+Ibarra         -424   P-3096
+Abbott         +194   P-3974
+Grant           +81   P-5428
+Weber          +882   P-6871
+Silva          +630   P-3192
+
+Follow the entry with the largest debit (the most negative amount).

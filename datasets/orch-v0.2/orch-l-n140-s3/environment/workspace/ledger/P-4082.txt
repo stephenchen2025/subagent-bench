@@ -1,0 +1,10 @@
+Ledger page P-4082
+
+account      amount   see page
+Nakamura       +840   P-5009
+Fofana          +17   P-4993
+Weber          -144   P-9697
+Moreau         -884   P-3342
+Zhou           -598   P-3560
+
+Follow the credit belonging to the account that comes first alphabetically.

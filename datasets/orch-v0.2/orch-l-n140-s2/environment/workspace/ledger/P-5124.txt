@@ -1,0 +1,10 @@
+Ledger page P-5124
+
+account      amount   see page
+Silva          -702   P-5465
+Vance           -98   P-4002
+Moreau         +830   P-4316
+Young          +701   P-5751
+Quinn          -463   P-2837
+
+Follow the entry whose amount is closest to zero.

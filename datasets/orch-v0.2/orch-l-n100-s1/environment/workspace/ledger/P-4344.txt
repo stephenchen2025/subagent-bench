@@ -1,0 +1,12 @@
+Ledger page P-4344
+
+account      amount   see page
+Grant          +428   P-1589
+Abbott         -537   P-9053
+Zhou           -248   P-6851
+Weber           -99   P-4481
+Rahman         +228   P-3024
+Fofana         -383   P-1132
+Dunn           +646   P-7604
+
+Follow the entry with the largest credit.

@@ -1,0 +1,10 @@
+Ledger page P-5172
+
+account      amount   see page
+Dunn           +392   P-3387
+Zhou           -120   P-7004
+Tanaka         +183   P-5293
+Quinn          -347   P-6153
+Vance          -813   P-6359
+
+Follow the credit belonging to the account that comes first alphabetically.

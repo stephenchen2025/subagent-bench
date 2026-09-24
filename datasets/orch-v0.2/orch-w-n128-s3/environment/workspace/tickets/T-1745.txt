@@ -1,0 +1,65 @@
+Ticket T-1745
+Customer: Noah Fischer
+Orders on file: ORD-61639, ORD-61424, ORD-83759, ORD-49016
+Opened: 2026-03-16 via web form
+
+Order details:
+ORD-61639  placed 2026-04-26  status: in transit  total: $27.09
+  payment method: card ending 1573  ship to: 400 Harbor Lane
+  - trail running shoes x1
+  - carabiner set x2
+  - replacement filter cartridge, 3-pack x3
+ORD-61424  placed 2026-01-01  status: returned  total: $320.51
+  payment method: card ending 5502  ship to: 724 Harbor St
+  - camping stove x1
+  - gift wrap x3
+  - extended warranty, 2 years x2
+  - travel pouch x2
+  - microfiber cloth x3
+ORD-83759  placed 2026-07-01  status: delivered  total: $263.28
+  payment method: card ending 6187  ship to: 531 Cedar Rd
+  - bike light set x1
+  - stainless water bottle, 750ml x1
+  - replacement filter cartridge, 3-pack x1
+  - merino socks, size M x1
+  - carabiner set x3
+ORD-49016  placed 2026-07-12  status: delivered  total: $445.10
+  payment method: card ending 8480  ship to: 319 Harbor Lane
+  - bike light set x1
+  - USB-C charging cable (2m) x1
+  - travel pouch x2
+  - gift wrap x2
+  - stainless water bottle, 750ml x2
+
+--- message 1 from Noah Fischer ---
+How do I reset my password? The reset link keeps expiring. Could you also tell me whether ORD-83759 qualifies for the extended return window? The box for ORD-61639 was a bit crushed but the contents were fine. I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Pete (support) ---
+If you need an invoice for ORD-61639, you can download it from the Orders page. Thanks for reaching out, and sorry for the trouble. Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Noah Fischer ---
+ORD-61424 shows up once in my order history, but my statement shows it paid for on two separate lines. The bike light set itself is great, for what it's worth. I changed my shipping address last month, so please double-check you have the new one.
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Noah Fischer ---
+The yoga mat itself is great, for what it's worth. I changed my shipping address last month, so please double-check you have the new one. Tracking for ORD-49016 hasn't updated since Tuesday. Could you also tell me whether ORD-61639 qualifies for the extended return window?
+
+Best regards,
+Noah Fischer
+
+--- message 5 from Pete (support) ---
+I can see all the orders on your account, including ORD-83759. Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble. I've resent the confirmation email for ORD-49016 to the address on file.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

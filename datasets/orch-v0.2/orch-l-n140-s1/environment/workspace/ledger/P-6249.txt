@@ -1,0 +1,11 @@
+Ledger page P-6249
+
+account      amount   see page
+Dunn           +669   P-4950
+Osei           +358   P-4399
+Silva          +115   P-2435
+Moreau         -174   P-5445
+Jensen           +7   P-9789
+Weber          -149   P-7402
+
+Follow the entry with the second-largest amount.

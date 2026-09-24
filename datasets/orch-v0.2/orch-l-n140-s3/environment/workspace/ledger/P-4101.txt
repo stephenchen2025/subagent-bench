@@ -1,0 +1,12 @@
+Ledger page P-4101
+
+account      amount   see page
+Park           -762   P-9951
+Eriksen        +242   P-8273
+Baker          +103   P-9286
+Silva          +436   P-8557
+Weber          +393   P-9309
+Rahman         +269   P-7083
+Lambert         +98   P-9923
+
+Follow the credit belonging to the account that comes first alphabetically.

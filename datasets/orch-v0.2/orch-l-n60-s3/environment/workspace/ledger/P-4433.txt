@@ -1,0 +1,11 @@
+Ledger page P-4433
+
+account      amount   see page
+Abbott         +492   P-2856
+Young          +596   P-3230
+Eriksen        -899   P-6046
+Moreau         -612   P-1723
+Fofana         -714   P-4597
+Jensen          +25   P-8300
+
+Follow the entry whose amount is closest to zero.

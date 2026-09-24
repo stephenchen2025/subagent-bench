@@ -1,0 +1,12 @@
+Ledger page P-1830
+
+account      amount   see page
+Rahman         -577   P-1597
+Weber          +394   P-2197
+Vance          -342   P-5624
+Nakamura       -894   P-9630
+Tanaka          +17   P-8129
+Lambert        -762   P-8120
+Zhou           +571   P-7863
+
+Follow the entry with the largest credit.

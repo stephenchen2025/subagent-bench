@@ -1,0 +1,10 @@
+Ledger page P-5383
+
+account      amount   see page
+Eriksen        +764   P-7301
+Osei           -491   P-4660
+Abbott         -251   P-7688
+Nakamura       -841   P-5140
+Fofana         -134   P-9690
+
+Follow the entry whose amount is closest to zero.

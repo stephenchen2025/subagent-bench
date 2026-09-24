@@ -1,0 +1,11 @@
+Ledger page P-3407
+
+account      amount   see page
+Vance          +205   P-2170
+Park           +583   P-9469
+Castillo       -758   P-4588
+Fofana         -531   P-8451
+Abbott         -294   P-8120
+Xu              +12   P-5293
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,12 @@
+Ledger page P-6133
+
+account      amount   see page
+Weber          -219   P-7969
+Umar           +359   P-8847
+Hughes          +60   P-7127
+Baker          +432   P-4379
+Tanaka         -620   P-2197
+Castillo       +201   P-4197
+Eriksen        +732   P-9694
+
+Follow the entry with the second-largest amount.

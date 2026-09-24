@@ -1,0 +1,12 @@
+Ledger page P-1614
+
+account      amount   see page
+Young           +15   P-6449
+Moreau         +837   P-1764
+Dunn           +578   P-3476
+Jensen         +202   P-7470
+Xu             +282   P-3226
+Zhou           +181   P-1558
+Eriksen        -801   P-1108
+
+Follow the entry with the second-largest amount.

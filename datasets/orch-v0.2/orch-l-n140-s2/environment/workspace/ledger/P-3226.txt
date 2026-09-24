@@ -1,0 +1,12 @@
+Ledger page P-3226
+
+account      amount   see page
+Kowalski       -609   P-3758
+Nakamura        +34   P-9305
+Moreau         +249   P-7542
+Dunn           -231   P-8441
+Grant          -744   P-6305
+Xu             +663   P-9553
+Quinn          +192   P-3010
+
+Follow the debit belonging to the account that comes last alphabetically.

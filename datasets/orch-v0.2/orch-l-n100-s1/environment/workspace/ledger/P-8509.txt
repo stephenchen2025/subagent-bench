@@ -1,0 +1,12 @@
+Ledger page P-8509
+
+account      amount   see page
+Tanaka         -857   P-9028
+Vance          -521   P-9595
+Rahman         -434   P-5699
+Baker          -570   P-8443
+Young          -208   P-2039
+Moreau         -763   P-2647
+Osei           +662   P-3596
+
+Follow the debit belonging to the account that comes last alphabetically.

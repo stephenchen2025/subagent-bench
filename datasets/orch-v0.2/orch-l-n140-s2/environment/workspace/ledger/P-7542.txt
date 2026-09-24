@@ -1,0 +1,11 @@
+Ledger page P-7542
+
+account      amount   see page
+Eriksen        -426   P-9366
+Quinn          +800   P-5167
+Weber          +329   P-9256
+Vance          -623   P-5983
+Zhou           +767   P-7912
+Baker          +885   P-7239
+
+Follow the entry with the largest debit (the most negative amount).

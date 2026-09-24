@@ -1,0 +1,77 @@
+Ticket T-5511
+Customer: Diego Alvarez
+Orders on file: ORD-50698, ORD-33937, ORD-38831, ORD-76107
+Opened: 2026-07-04 via web form
+
+Order details:
+ORD-50698  placed 2026-01-21  status: in transit  total: $28.91
+  payment method: card ending 6544  ship to: 260 Elm Ave
+  - camping stove x1
+  - microfiber cloth x1
+  - spare battery pack x2
+  - stainless water bottle, 750ml x2
+ORD-33937  placed 2026-04-06  status: delivered  total: $246.82
+  payment method: card ending 1516  ship to: 115 Oak St
+  - wool blanket x1
+  - stainless water bottle, 750ml x3
+  - microfiber cloth x3
+  - spare battery pack x2
+ORD-38831  placed 2026-03-27  status: delivered  total: $182.54
+  payment method: card ending 6790  ship to: 588 Harbor Ave
+  - rain jacket x1
+  - merino socks, size M x1
+  - travel pouch x2
+  - extended warranty, 2 years x3
+  - gift wrap x3
+ORD-76107  placed 2026-02-28  status: in transit  total: $223.73
+  payment method: card ending 8955  ship to: 148 Oak St
+  - noise-cancelling headphones x1
+  - extended warranty, 2 years x1
+  - USB-C charging cable (2m) x1
+
+--- message 1 from Diego Alvarez ---
+How do I reset my password? The reset link keeps expiring. I'm happy to send screenshots if that helps. Tracking for ORD-33937 hasn't updated since Tuesday. The confirmation email for ORD-50698 went to my spam folder, so I only just saw it.
+
+Diego Alvarez
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Dana (support) ---
+I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier. I've resent the confirmation email for ORD-50698 to the address on file. For ORD-38831, the return window is 30 days from delivery.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Diego Alvarez ---
+Before I retry the payment on ORD-76107 -- is there any risk of a double charge? Tracking for ORD-38831 hasn't updated since Tuesday. The espresso grinder itself is great, for what it's worth.
+
+Thanks,
+Diego Alvarez
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Dana (support) ---
+I've resent the confirmation email for ORD-38831 to the address on file. I've updated your shipping address on file. If you need an invoice for ORD-38831, you can download it from the Orders page.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Dana (support) ---
+No, you won't be charged twice: the first attempt for ORD-76107 failed before capture, so retrying is safe. I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Diego Alvarez ---
+The wool blanket itself is great, for what it's worth. My earlier order ORD-50698 arrived fine, no complaints there. I tried the chat widget first but it kept disconnecting. The confirmation email for ORD-50698 went to my spam folder, so I only just saw it.
+
+Diego Alvarez
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Dana (support) ---
+Our warehouse shows ORD-33937 left on schedule. Tracking updates can lag by a day or two with this carrier. I can see all the orders on your account, including ORD-38831. For ORD-50698, the return window is 30 days from delivery.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

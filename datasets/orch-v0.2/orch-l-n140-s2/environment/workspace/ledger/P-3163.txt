@@ -1,0 +1,11 @@
+Ledger page P-3163
+
+account      amount   see page
+Jensen         -523   P-4167
+Hughes         +777   P-3821
+Kowalski       -559   P-3098
+Weber          +493   P-5720
+Osei           -791   P-5124
+Ibarra         -591   P-1757
+
+Follow the debit belonging to the account that comes last alphabetically.

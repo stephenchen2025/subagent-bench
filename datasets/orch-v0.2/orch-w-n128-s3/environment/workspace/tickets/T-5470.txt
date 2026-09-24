@@ -1,0 +1,74 @@
+Ticket T-5470
+Customer: Leila Haddad
+Orders on file: ORD-64606, ORD-75551, ORD-10356, ORD-51752
+Opened: 2026-01-17 via chat transcript
+
+Order details:
+ORD-64606  placed 2026-04-25  status: returned  total: $96.27
+  payment method: card ending 4292  ship to: 267 Harbor Ave
+  - desk lamp x1
+  - replacement filter cartridge, 3-pack x1
+  - USB-C charging cable (2m) x3
+  - gift wrap x2
+ORD-75551  placed 2026-05-07  status: delivered  total: $83.94
+  payment method: card ending 9520  ship to: 409 Harbor Lane
+  - camping stove x1
+  - spare battery pack x2
+  - gift wrap x1
+  - USB-C charging cable (2m) x2
+  - microfiber cloth x1
+ORD-10356  placed 2026-07-19  status: delivered  total: $330.65
+  payment method: card ending 6973  ship to: 776 Cedar Lane
+  - desk lamp x1
+  - microfiber cloth x3
+  - carabiner set x2
+  - replacement filter cartridge, 3-pack x3
+  - spare battery pack x2
+ORD-51752  placed 2026-02-22  status: delivered  total: $394.68
+  payment method: card ending 4814  ship to: 599 Harbor St
+  - carry-on suitcase x1
+  - merino socks, size M x2
+  - extended warranty, 2 years x2
+  - replacement filter cartridge, 3-pack x1
+  - microfiber cloth x3
+
+--- message 1 from Leila Haddad ---
+How do I reset my password? The reset link keeps expiring. I'm happy to send screenshots if that helps. I'm travelling next week, so email is the best way to reach me. Tracking for ORD-10356 hasn't updated since Tuesday.
+
+Leila Haddad
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Fatima (support) ---
+Our warehouse shows ORD-64606 left on schedule. For ORD-75551, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-10356.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Leila Haddad ---
+The checkout page for ORD-51752 timed out. If I try to pay again, will I end up being charged twice? Tracking for ORD-10356 hasn't updated since Tuesday. The wool blanket itself is great, for what it's worth.
+
+Thanks,
+Leila Haddad
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Fatima (support) ---
+No, you won't be charged twice: the first attempt for ORD-51752 failed before capture, so retrying is safe. Tracking updates can lag by a day or two with this carrier. For ORD-64606, the return window is 30 days from delivery.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Leila Haddad ---
+Tracking for ORD-64606 hasn't updated since Tuesday. My earlier order ORD-10356 arrived fine, no complaints there. The box for ORD-10356 was a bit crushed but the contents were fine. I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Leila Haddad
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Fatima (support) ---
+Loyalty points post about a week after an order is delivered. Let me know if anything else looks off. Tracking updates can lag by a day or two with this carrier. For ORD-75551, the return window is 30 days from delivery.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

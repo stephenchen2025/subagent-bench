@@ -1,0 +1,12 @@
+Ledger page P-8832
+
+account      amount   see page
+Quinn          +711   P-5156
+Hughes         -257   P-5692
+Silva          +749   P-3608
+Grant          -768   P-7464
+Rahman         -285   P-6064
+Kowalski       +708   P-5156
+Castillo       +420   P-8919
+
+Follow the entry with the largest debit (the most negative amount).

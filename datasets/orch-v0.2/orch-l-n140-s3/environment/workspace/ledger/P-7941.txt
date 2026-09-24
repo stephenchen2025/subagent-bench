@@ -1,0 +1,11 @@
+Ledger page P-7941
+
+account      amount   see page
+Osei           +771   P-4062
+Moreau         -821   P-2006
+Jensen         +505   P-4655
+Rahman         -337   P-6399
+Kowalski       -464   P-8018
+Young          +292   P-7436
+
+Follow the entry with the second-largest amount.

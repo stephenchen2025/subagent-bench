@@ -1,0 +1,11 @@
+Ledger page P-7290
+
+account      amount   see page
+Dunn           -698   P-4279
+Vance           -67   P-3170
+Weber          -324   P-2010
+Zhou           -779   P-6871
+Young           +55   P-9452
+Quinn          -677   P-2295
+
+Follow the entry with the largest credit.

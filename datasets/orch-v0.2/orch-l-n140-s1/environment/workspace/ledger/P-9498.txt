@@ -1,0 +1,10 @@
+Ledger page P-9498
+
+account      amount   see page
+Xu             +190   P-1856
+Baker          -268   P-3926
+Umar           -720   P-2443
+Park            -61   P-5023
+Vance          -797   P-2443
+
+Follow the entry with the second-largest amount.

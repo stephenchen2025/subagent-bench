@@ -1,0 +1,12 @@
+Ledger page P-3776
+
+account      amount   see page
+Fofana         +481   P-5700
+Hughes         +640   P-8244
+Young          +600   P-5009
+Rahman         +818   P-2041
+Silva          +433   P-3340
+Jensen         +197   P-2097
+Grant          -828   P-1001
+
+Follow the credit belonging to the account that comes first alphabetically.

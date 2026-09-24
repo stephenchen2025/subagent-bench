@@ -1,0 +1,12 @@
+Ledger page P-7118
+
+account      amount   see page
+Nakamura       +772   P-5225
+Park           -593   P-3952
+Kowalski       -214   P-5287
+Jensen          +75   P-4952
+Moreau         +707   P-2989
+Fofana         +732   P-5618
+Silva          -322   P-3994
+
+Follow the entry with the second-largest amount.

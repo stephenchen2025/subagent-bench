@@ -1,0 +1,10 @@
+Ledger page P-5560
+
+account      amount   see page
+Xu             -828   P-2810
+Hughes         -592   P-9056
+Kowalski       -241   P-5516
+Weber          +503   P-1382
+Fofana         -422   P-2697
+
+Follow the entry with the largest debit (the most negative amount).

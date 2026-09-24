@@ -1,0 +1,11 @@
+Ledger page P-6700
+
+account      amount   see page
+Zhou           +353   P-2006
+Rahman         -840   P-6924
+Fofana         +590   P-2923
+Silva          -542   P-8870
+Lambert        +871   P-8115
+Young          -550   P-9312
+
+Follow the entry with the second-largest amount.

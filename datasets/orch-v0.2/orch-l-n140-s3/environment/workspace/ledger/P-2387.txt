@@ -1,0 +1,12 @@
+Ledger page P-2387
+
+account      amount   see page
+Umar           +267   P-1992
+Weber          -136   P-2187
+Silva          +422   P-2617
+Eriksen        +570   P-1557
+Vance          +521   P-6843
+Young          +514   P-8244
+Lambert         +97   P-6406
+
+Follow the debit belonging to the account that comes last alphabetically.

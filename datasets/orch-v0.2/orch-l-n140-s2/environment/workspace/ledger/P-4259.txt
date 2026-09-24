@@ -1,0 +1,11 @@
+Ledger page P-4259
+
+account      amount   see page
+Weber          -762   P-8815
+Vance          +265   P-8020
+Abbott          +53   P-8043
+Quinn          -195   P-6117
+Baker          -143   P-6706
+Lambert        +381   P-2879
+
+Follow the debit belonging to the account that comes last alphabetically.

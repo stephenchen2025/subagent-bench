@@ -1,0 +1,11 @@
+Ledger page P-9339
+
+account      amount   see page
+Abbott         +763   P-7378
+Vance          +245   P-7197
+Quinn          +281   P-8392
+Lambert        +498   P-3084
+Fofana         -179   P-4731
+Dunn           -325   P-5320
+
+Follow the debit belonging to the account that comes last alphabetically.

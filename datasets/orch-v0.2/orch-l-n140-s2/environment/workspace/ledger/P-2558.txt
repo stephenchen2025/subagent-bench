@@ -1,0 +1,12 @@
+Ledger page P-2558
+
+account      amount   see page
+Grant          -130   P-1734
+Osei           -185   P-4607
+Weber          +617   P-1575
+Castillo       +732   P-6762
+Hughes         -344   P-2426
+Dunn           -567   P-6293
+Xu             +174   P-7294
+
+Follow the debit belonging to the account that comes last alphabetically.

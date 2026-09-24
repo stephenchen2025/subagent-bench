@@ -1,0 +1,69 @@
+Ticket T-8271
+Customer: Felix Wagner
+Orders on file: ORD-40940, ORD-61119, ORD-60388, ORD-85785
+Opened: 2026-08-14 via chat transcript
+
+Order details:
+ORD-40940  placed 2026-03-18  status: in transit  total: $387.33
+  payment method: card ending 6649  ship to: 181 Elm Ave
+  - mechanical keyboard x1
+  - carabiner set x3
+  - microfiber cloth x1
+ORD-61119  placed 2026-02-15  status: in transit  total: $185.83
+  payment method: card ending 9939  ship to: 422 Mill Lane
+  - camping stove x1
+  - replacement filter cartridge, 3-pack x3
+  - travel pouch x3
+  - carabiner set x3
+ORD-60388  placed 2026-08-13  status: in transit  total: $400.31
+  payment method: card ending 6299  ship to: 853 Cedar Ave
+  - water filter pitcher x1
+  - replacement filter cartridge, 3-pack x2
+  - stainless water bottle, 750ml x1
+  - spare battery pack x2
+  - gift wrap x2
+ORD-85785  placed 2026-06-23  status: returned  total: $311.10
+  payment method: card ending 1274  ship to: 396 Elm Lane
+  - wool blanket x1
+  - spare battery pack x3
+  - stainless water bottle, 750ml x3
+  - extended warranty, 2 years x3
+
+--- message 1 from Felix Wagner ---
+I'd like to return the water filter pitcher from ORD-60388; it's the wrong size. The confirmation email for ORD-40940 went to my spam folder, so I only just saw it. I'm happy to send screenshots if that helps. The cast iron skillet itself is great, for what it's worth.
+
+Felix Wagner
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Fatima (support) ---
+I've added a note to your account so the next agent has the context. I've updated your shipping address on file. For ORD-40940, the return window is 30 days from delivery. If you need an invoice for ORD-40940, you can download it from the Orders page.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Felix Wagner ---
+My earlier order ORD-60388 arrived fine, no complaints there. I'm happy to send screenshots if that helps. I'd rather not call; the hold times last time were very long. The confirmation email for ORD-85785 went to my spam folder, so I only just saw it.
+
+Best regards,
+Felix Wagner
+
+--- message 4 from Fatima (support) ---
+Tracking updates can lag by a day or two with this carrier. For ORD-60388, the return window is 30 days from delivery. Loyalty points post about a week after an order is delivered. If you need an invoice for ORD-60388, you can download it from the Orders page.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Felix Wagner ---
+Your app logged me out twice while I was looking at this, which didn't help. My partner placed ORD-60388 on our shared account, in case that matters. I'm travelling next week, so email is the best way to reach me. I'd rather not call; the hold times last time were very long.
+
+Felix Wagner
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Fatima (support) ---
+Tracking updates can lag by a day or two with this carrier. I can see all the orders on your account, including ORD-40940. Loyalty points post about a week after an order is delivered. Let me know if anything else looks off.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -27,7 +27,7 @@ Four conditions, one code path (ORCHESTRATOR.md 4):
     solo-xl       no subagent command, context and steps x XL_MULTIPLIER
     delegate      subagent command documented; the model decides
     oracle-split  a scripted lead: the task's ideal partition and briefs, real
-                  workers, scripted merge. Defined for W and P; on C and S the
+                  workers, scripted merge. Defined for W, P and C; on L the
                   ideal policy is not to delegate, so it runs solo.
 
 mini is imported lazily, so everything that only reads telemetry works without it.
@@ -458,11 +458,18 @@ class RunResult:
     extra: dict = field(default_factory=dict)
 
 
+SPLITTABLE = ("W", "P", "C")
+
+
 def _detect_family(instruction):
     if "svcctl" in instruction:
         return "P"
     if "tickets/" in instruction:
         return "W"
+    if "docs/views" in instruction:
+        return "C"
+    if "ledger/" in instruction:
+        return "L"
     return None
 
 
@@ -494,7 +501,7 @@ def run_orchestrated(instruction, base_env, lead_model, worker_model_factory, mo
 
     t0 = time.time()
     lead.started = t0
-    if mode == "oracle-split" and family in ("W", "P"):
+    if mode == "oracle-split" and family in SPLITTABLE:
         lead.exit_status = _scripted_lead(instruction, base_env, pool, limits, family, lead)
     else:
         system = LEAD_SYSTEM
@@ -528,7 +535,7 @@ def run_orchestrated(instruction, base_env, lead_model, worker_model_factory, mo
         "workers": [w.as_dict() for w in workers],
         "wall_clock_sec": round(lead.finished - t0, 3),
         "tokens_exact": False,
-        "oracle_is_solo": mode == "oracle-split" and family not in ("W", "P"),
+        "oracle_is_solo": mode == "oracle-split" and family not in SPLITTABLE,
     }
     if logs:
         (logs / "telemetry.json").write_text(json.dumps(telemetry, indent=2))
@@ -538,8 +545,16 @@ def run_orchestrated(instruction, base_env, lead_model, worker_model_factory, mo
 
 def _scripted_lead(instruction, base_env, pool, limits, family, lead):
     """oracle-split: the ideal partition and briefs, real workers, scripted merge."""
-    from orch.families import probe, wide
+    from orch.families import coupled, probe, wide
 
+    if family == "C":
+        # Workers edit the files themselves; the lead's job is the contract and the split.
+        views_line = next(line for line in instruction.splitlines() if line.startswith("Views:"))
+        for part in coupled.plan(re.findall(r"`(\w+)`", views_line)):
+            pool.spawn(part["brief"], 1)
+        pool.join_all()
+        lead.steps = 2
+        return "Submitted"
     module = wide if family == "W" else probe
     if family == "W":
         listing = base_env.execute({"command": "ls tickets"})

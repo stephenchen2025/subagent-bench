@@ -1,0 +1,12 @@
+Ledger page P-6147
+
+account      amount   see page
+Weber          +422   P-8328
+Castillo       -728   P-3524
+Ibarra         -878   P-8985
+Abbott         +795   P-2705
+Zhou           +648   P-7865
+Jensen         +180   P-4236
+Park           +394   P-7542
+
+Follow the entry with the second-largest amount.

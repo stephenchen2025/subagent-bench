@@ -1,0 +1,12 @@
+Ledger page P-9863
+
+account      amount   see page
+Moreau         -894   P-6280
+Eriksen        -222   P-9084
+Nakamura       +404   P-3292
+Quinn          -302   P-9697
+Baker          +121   P-9263
+Ibarra         -306   P-1992
+Dunn             +8   P-2833
+
+Follow the entry with the largest credit.

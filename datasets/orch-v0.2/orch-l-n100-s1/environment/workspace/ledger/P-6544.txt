@@ -1,0 +1,12 @@
+Ledger page P-6544
+
+account      amount   see page
+Osei           -155   P-7855
+Rahman         +878   P-4027
+Baker          +799   P-3888
+Ibarra         -413   P-1423
+Kowalski       -622   P-8747
+Lambert        -555   P-3629
+Jensen         +312   P-3677
+
+Follow the entry with the largest credit.

@@ -1,0 +1,12 @@
+Ledger page P-7084
+
+account      amount   see page
+Nakamura        -49   P-5934
+Young           +27   P-2721
+Dunn           +721   P-8784
+Lambert        -712   P-6328
+Umar           +168   P-4222
+Kowalski       +223   P-6653
+Osei           -219   P-3216
+
+Follow the entry with the largest credit.

@@ -1,0 +1,11 @@
+Ledger page P-5993
+
+account      amount   see page
+Castillo       +515   P-9997
+Park           +410   P-5497
+Fofana         -218   P-3425
+Nakamura       -321   P-8185
+Grant          -819   P-7178
+Osei           +794   P-2933
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,11 @@
+Ledger page P-7391
+
+account      amount   see page
+Kowalski       -302   P-3342
+Moreau         +174   P-1579
+Xu             -863   P-4466
+Quinn          +247   P-1869
+Young          -578   P-3264
+Vance          +785   P-9740
+
+Follow the entry with the largest credit.

@@ -1,0 +1,10 @@
+Ledger page P-4842
+
+account      amount   see page
+Dunn           +139   P-5777
+Quinn          -720   P-1108
+Moreau          -63   P-1653
+Lambert        +769   P-2852
+Fofana         +711   P-2080
+
+Follow the entry whose amount is closest to zero.

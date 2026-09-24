@@ -1,0 +1,11 @@
+Ledger page P-4167
+
+account      amount   see page
+Ibarra          +62   P-3644
+Abbott         -146   P-4422
+Moreau         +184   P-6627
+Dunn           -688   P-7346
+Jensen         +624   P-9455
+Osei           +673   P-5242
+
+Follow the credit belonging to the account that comes first alphabetically.

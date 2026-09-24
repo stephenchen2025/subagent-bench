@@ -1,0 +1,10 @@
+Ledger page P-6271
+
+account      amount   see page
+Rahman         +432   P-8318
+Nakamura       -615   P-5261
+Quinn          +227   P-7674
+Tanaka         +592   P-4626
+Umar            -73   P-1261
+
+Follow the credit belonging to the account that comes first alphabetically.

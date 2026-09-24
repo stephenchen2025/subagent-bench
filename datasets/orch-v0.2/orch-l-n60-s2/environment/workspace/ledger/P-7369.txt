@@ -1,0 +1,11 @@
+Ledger page P-7369
+
+account      amount   see page
+Kowalski       -680   P-9647
+Zhou           +725   P-9916
+Eriksen        +720   P-8343
+Castillo       +349   P-8097
+Ibarra         +416   P-6171
+Tanaka         -768   P-4010
+
+Follow the entry with the second-largest amount.

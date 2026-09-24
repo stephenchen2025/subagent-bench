@@ -1,0 +1,11 @@
+Ledger page P-5600
+
+account      amount   see page
+Baker          +658   P-1805
+Silva          -424   P-9627
+Castillo       -613   P-7931
+Xu             +278   P-7848
+Park           +572   P-5767
+Jensen         +559   P-8146
+
+Follow the credit belonging to the account that comes first alphabetically.

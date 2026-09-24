@@ -1,0 +1,10 @@
+Ledger page P-7338
+
+account      amount   see page
+Abbott         -820   P-8409
+Xu             +285   P-3943
+Grant          +282   P-5501
+Castillo        -30   P-7420
+Lambert        +715   P-6828
+
+Follow the credit belonging to the account that comes first alphabetically.

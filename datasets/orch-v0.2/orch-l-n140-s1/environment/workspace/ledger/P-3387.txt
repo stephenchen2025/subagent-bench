@@ -1,0 +1,12 @@
+Ledger page P-3387
+
+account      amount   see page
+Hughes         -434   P-4401
+Dunn           +704   P-7004
+Silva          -418   P-5879
+Young          +516   P-3087
+Vance          -166   P-7127
+Nakamura        -17   P-9584
+Baker          +799   P-4197
+
+Follow the entry with the largest debit (the most negative amount).

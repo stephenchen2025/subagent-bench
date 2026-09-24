@@ -1,0 +1,82 @@
+Ticket T-8779
+Customer: Priya Raman
+Orders on file: ORD-77990, ORD-95270, ORD-37463, ORD-79169
+Opened: 2026-01-13 via email
+
+Order details:
+ORD-77990  placed 2026-08-20  status: in transit  total: $293.06
+  payment method: card ending 5452  ship to: 195 Mill Rd
+  - desk lamp x1
+  - carabiner set x2
+  - gift wrap x1
+  - spare battery pack x1
+  - USB-C charging cable (2m) x2
+ORD-95270  placed 2026-02-16  status: delivered  total: $58.08
+  payment method: card ending 6131  ship to: 570 Oak Rd
+  - standing desk x1
+  - spare battery pack x2
+  - travel pouch x2
+  - merino socks, size M x2
+  - microfiber cloth x3
+ORD-37463  placed 2026-05-13  status: returned  total: $25.04
+  payment method: card ending 5517  ship to: 154 Harbor Ave
+  - water filter pitcher x1
+  - travel pouch x1
+  - gift wrap x3
+  - carabiner set x3
+  - spare battery pack x1
+ORD-79169  placed 2026-08-18  status: label created  total: $40.11
+  payment method: card ending 2818  ship to: 946 Cedar Ave
+  - wool blanket x1
+  - replacement filter cartridge, 3-pack x1
+  - spare battery pack x1
+  - extended warranty, 2 years x2
+  - stainless water bottle, 750ml x1
+
+--- message 1 from Priya Raman ---
+Can I use a gift card on ORD-79169, or is it too late? Is there a way to combine loyalty points from ORD-77990 with my next purchase? I've been a customer for a few years and usually everything goes smoothly. The box for ORD-79169 was a bit crushed but the contents were fine.
+
+Thanks,
+Priya Raman
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Luis (support) ---
+Thanks for reaching out, and sorry for the trouble. For ORD-79169, the return window is 30 days from delivery. Our warehouse shows ORD-95270 left on schedule. I've resent the confirmation email for ORD-79169 to the address on file.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Priya Raman ---
+Not your fault, but my gym billed me twice this month, which is why I'm nervous about ORD-37463. Everything on your side looks like a single charge, I just wanted to confirm the delivery date. My earlier order ORD-95270 arrived fine, no complaints there. The confirmation email for ORD-79169 went to my spam folder, so I only just saw it.
+
+Priya Raman
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Priya Raman ---
+Tracking for ORD-77990 hasn't updated since Tuesday. I'm happy to send screenshots if that helps. I've been a customer for a few years and usually everything goes smoothly. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Priya Raman
+Sent from my phone -- please excuse typos.
+
+--- message 5 from Luis (support) ---
+I can see all the orders on your account, including ORD-77990. Tracking updates can lag by a day or two with this carrier. Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Priya Raman ---
+Is there a way to combine loyalty points from ORD-77990 with my next purchase? I tried the chat widget first but it kept disconnecting. The water filter pitcher itself is great, for what it's worth. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Priya Raman
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Luis (support) ---
+Our warehouse shows ORD-79169 left on schedule. I can see all the orders on your account, including ORD-95270. I've resent the confirmation email for ORD-77990 to the address on file. Thanks for reaching out, and sorry for the trouble.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

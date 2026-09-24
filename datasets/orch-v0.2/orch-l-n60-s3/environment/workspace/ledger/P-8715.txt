@@ -1,0 +1,11 @@
+Ledger page P-8715
+
+account      amount   see page
+Kowalski       +535   P-5485
+Xu             -406   P-1345
+Zhou           -192   P-9851
+Young          -534   P-1141
+Vance          -858   P-2820
+Weber          +534   P-9741
+
+Follow the credit belonging to the account that comes first alphabetically.

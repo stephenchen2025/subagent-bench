@@ -1,0 +1,10 @@
+Ledger page P-6897
+
+account      amount   see page
+Park           +774   P-6171
+Vance          -766   P-9214
+Abbott         +366   P-8495
+Jensen         -577   P-5220
+Eriksen        -282   P-4768
+
+Follow the entry with the second-largest amount.

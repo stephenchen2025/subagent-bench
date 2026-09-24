@@ -1,0 +1,96 @@
+Ticket T-2586
+Customer: Felix Wagner
+Orders on file: ORD-89550, ORD-96847, ORD-98120, ORD-57006
+Opened: 2026-08-16 via web form
+
+Order details:
+ORD-89550  placed 2026-02-08  status: delivered  total: $113.61
+  payment method: card ending 8532  ship to: 658 Harbor Lane
+  - water filter pitcher x1
+  - merino socks, size M x2
+  - gift wrap x2
+  - spare battery pack x3
+  - stainless water bottle, 750ml x3
+ORD-96847  placed 2026-07-23  status: delivered  total: $214.20
+  payment method: card ending 4222  ship to: 895 Elm Ave
+  - bike light set x1
+  - stainless water bottle, 750ml x3
+  - travel pouch x1
+  - spare battery pack x2
+ORD-98120  placed 2026-04-23  status: in transit  total: $88.62
+  payment method: card ending 4558  ship to: 813 Cedar Ave
+  - trail running shoes x1
+  - stainless water bottle, 750ml x2
+  - carabiner set x1
+ORD-57006  placed 2026-07-12  status: delivered  total: $142.90
+  payment method: card ending 4750  ship to: 125 Elm Ave
+  - desk lamp x1
+  - travel pouch x2
+  - merino socks, size M x2
+  - microfiber cloth x2
+
+--- message 1 from Felix Wagner ---
+Where is my refund for ORD-98120? You said 5 days and it has been 8. I've been a customer for a few years and usually everything goes smoothly. The water filter pitcher itself is great, for what it's worth. Your app logged me out twice while I was looking at this, which didn't help.
+
+Felix Wagner
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Marcus (support) ---
+Our warehouse shows ORD-57006 left on schedule. Let me know if anything else looks off. If you need an invoice for ORD-57006, you can download it from the Orders page. I've added a note to your account so the next agent has the context.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Felix Wagner ---
+Something looks off with ORD-96847: I see what might be a second payment. My earlier order ORD-57006 arrived fine, no complaints there. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Felix Wagner
+
+--- message 4 from Marcus (support) ---
+I can see all the orders on your account, including ORD-57006. Loyalty points post about a week after an order is delivered. If you need an invoice for ORD-57006, you can download it from the Orders page.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Felix Wagner ---
+Just checked again -- both charges for ORD-96847 are settled now, not pending. I'm happy to send screenshots if that helps. I've been a customer for a few years and usually everything goes smoothly.
+
+Felix Wagner
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Marcus (support) ---
+Screenshots aren't necessary, but thank you for offering. For ORD-57006, the return window is 30 days from delivery. Loyalty points post about a week after an order is delivered.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Marcus (support) ---
+I've checked with our payments team: both captures for ORD-96847 settled, so you were genuinely charged twice. I've issued a refund for the second one; it should show within 3-5 business days. Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-57006 left on schedule.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Felix Wagner ---
+Is there a way to combine loyalty points from ORD-57006 with my next purchase? Your app logged me out twice while I was looking at this, which didn't help. My earlier order ORD-89550 arrived fine, no complaints there.
+
+Felix Wagner
+(Please reply by email rather than phone if possible.)
+
+--- message 9 from Felix Wagner ---
+I've been a customer for a few years and usually everything goes smoothly. I tried the chat widget first but it kept disconnecting. Your app logged me out twice while I was looking at this, which didn't help. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Felix Wagner
+Sent from my phone -- please excuse typos.
+
+--- message 10 from Marcus (support) ---
+I've added a note to your account so the next agent has the context. I can see all the orders on your account, including ORD-98120. Tracking updates can lag by a day or two with this carrier. I've updated your shipping address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

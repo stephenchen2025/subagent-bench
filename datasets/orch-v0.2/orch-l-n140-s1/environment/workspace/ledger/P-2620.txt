@@ -1,0 +1,11 @@
+Ledger page P-2620
+
+account      amount   see page
+Moreau         +688   P-9322
+Weber          +414   P-2197
+Dunn           -720   P-9834
+Zhou           +498   P-6134
+Baker          -232   P-7257
+Eriksen        -448   P-5067
+
+Follow the entry with the second-largest amount.

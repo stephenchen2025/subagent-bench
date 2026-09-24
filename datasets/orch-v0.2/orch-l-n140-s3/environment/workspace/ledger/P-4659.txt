@@ -1,0 +1,11 @@
+Ledger page P-4659
+
+account      amount   see page
+Grant          -558   P-9588
+Osei           -672   P-6411
+Fofana         -646   P-2579
+Silva           -81   P-6796
+Weber          +365   P-7931
+Abbott          -55   P-3219
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,10 @@
+Ledger page P-3108
+
+account      amount   see page
+Zhou           +843   P-7672
+Jensen         -439   P-5618
+Nakamura        +42   P-8419
+Park           +824   P-9377
+Grant          +828   P-1779
+
+Follow the entry with the largest credit.

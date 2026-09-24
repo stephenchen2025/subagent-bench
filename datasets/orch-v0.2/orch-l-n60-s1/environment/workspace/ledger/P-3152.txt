@@ -1,0 +1,12 @@
+Ledger page P-3152
+
+account      amount   see page
+Kowalski       +200   P-1690
+Zhou           +568   P-4837
+Moreau         -885   P-9228
+Baker          +583   P-9811
+Vance          -600   P-7502
+Ibarra         -819   P-1690
+Xu             +172   P-2640
+
+Follow the entry with the largest credit.

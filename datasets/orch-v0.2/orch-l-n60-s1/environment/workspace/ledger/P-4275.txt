@@ -1,0 +1,11 @@
+Ledger page P-4275
+
+account      amount   see page
+Nakamura       -140   P-9882
+Tanaka         -376   P-5491
+Vance          -568   P-6271
+Young          -627   P-9882
+Ibarra         -113   P-6559
+Baker          +686   P-2855
+
+Follow the entry with the largest credit.

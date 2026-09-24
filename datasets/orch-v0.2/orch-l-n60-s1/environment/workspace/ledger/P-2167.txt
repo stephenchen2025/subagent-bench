@@ -1,0 +1,11 @@
+Ledger page P-2167
+
+account      amount   see page
+Baker          -132   P-6020
+Umar            -18   P-1565
+Fofana         +613   P-9531
+Zhou           -800   P-8192
+Osei           -891   P-2588
+Young           -70   P-3390
+
+Follow the entry with the largest debit (the most negative amount).

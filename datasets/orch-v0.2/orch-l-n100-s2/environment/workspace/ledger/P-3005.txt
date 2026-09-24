@@ -1,0 +1,11 @@
+Ledger page P-3005
+
+account      amount   see page
+Vance          -109   P-2178
+Grant          +492   P-4062
+Quinn          +881   P-6000
+Tanaka         +409   P-7278
+Castillo       +317   P-3078
+Jensen         +331   P-3834
+
+Follow the entry with the largest credit.

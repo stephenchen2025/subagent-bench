@@ -1,0 +1,10 @@
+Ledger page P-3054
+
+account      amount   see page
+Jensen         +321   P-1340
+Lambert        +203   P-7078
+Baker          -475   P-8236
+Eriksen        +233   P-3216
+Grant          +364   P-8727
+
+Follow the debit belonging to the account that comes last alphabetically.

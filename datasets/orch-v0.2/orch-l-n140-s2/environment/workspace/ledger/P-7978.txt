@@ -1,0 +1,10 @@
+Ledger page P-7978
+
+account      amount   see page
+Hughes         +457   P-6586
+Zhou           -719   P-7331
+Ibarra         -480   P-9328
+Xu              -48   P-3721
+Vance          -214   P-4826
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,10 @@
+Ledger page P-8160
+
+account      amount   see page
+Osei           -369   P-8276
+Young          -197   P-5069
+Lambert        -643   P-9218
+Baker          +530   P-9234
+Rahman         +748   P-2973
+
+Follow the entry with the largest credit.

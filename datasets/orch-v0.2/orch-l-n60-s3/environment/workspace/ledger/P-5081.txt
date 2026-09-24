@@ -1,0 +1,11 @@
+Ledger page P-5081
+
+account      amount   see page
+Zhou           +692   P-1253
+Umar           +247   P-4529
+Baker          -791   P-3858
+Castillo        +20   P-5925
+Nakamura       -893   P-3047
+Grant          +181   P-8357
+
+Follow the entry whose amount is closest to zero.

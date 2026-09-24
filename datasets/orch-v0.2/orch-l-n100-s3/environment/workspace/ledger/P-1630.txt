@@ -1,0 +1,10 @@
+Ledger page P-1630
+
+account      amount   see page
+Hughes         +549   P-9657
+Abbott         +804   P-2703
+Kowalski        -55   P-6069
+Quinn          +839   P-7724
+Grant          +187   P-1575
+
+Follow the entry with the second-largest amount.

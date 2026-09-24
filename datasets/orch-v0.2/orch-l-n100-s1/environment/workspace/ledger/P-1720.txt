@@ -1,0 +1,11 @@
+Ledger page P-1720
+
+account      amount   see page
+Baker          +326   P-5973
+Ibarra         -179   P-9050
+Eriksen        +490   P-8680
+Dunn           +341   P-5722
+Vance           +11   P-1132
+Rahman         +896   P-1463
+
+Follow the entry with the largest credit.

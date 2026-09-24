@@ -1,0 +1,90 @@
+Ticket T-8570
+Customer: Kofi Mensah
+Orders on file: ORD-16784, ORD-11003, ORD-33804, ORD-61884
+Opened: 2026-08-07 via chat transcript
+
+Order details:
+ORD-16784  placed 2026-04-22  status: delivered  total: $440.31
+  payment method: card ending 9988  ship to: 698 Cedar Rd
+  - mechanical keyboard x1
+  - microfiber cloth x1
+  - stainless water bottle, 750ml x3
+ORD-11003  placed 2026-05-20  status: delivered  total: $195.46
+  payment method: card ending 9630  ship to: 19 Oak Rd
+  - mechanical keyboard x1
+  - USB-C charging cable (2m) x2
+  - extended warranty, 2 years x1
+  - spare battery pack x2
+  - gift wrap x1
+ORD-33804  placed 2026-01-16  status: delivered  total: $284.88
+  payment method: card ending 1931  ship to: 920 Cedar St
+  - mechanical keyboard x1
+  - carabiner set x2
+  - USB-C charging cable (2m) x1
+  - microfiber cloth x3
+ORD-61884  placed 2026-01-11  status: delivered  total: $268.92
+  payment method: card ending 2732  ship to: 217 Cedar St
+  - camping stove x1
+  - microfiber cloth x2
+  - carabiner set x3
+  - merino socks, size M x3
+
+--- message 1 from Kofi Mensah ---
+I need to change the delivery address for ORD-16784 before it ships. The confirmation email for ORD-61884 went to my spam folder, so I only just saw it. I'm happy to send screenshots if that helps. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Kofi Mensah
+
+--- message 2 from Fatima (support) ---
+Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context. For ORD-33804, the return window is 30 days from delivery. Let me know if anything else looks off.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Kofi Mensah ---
+Before I retry the payment on ORD-11003 -- is there any risk of a double charge? My partner placed ORD-61884 on our shared account, in case that matters. Tracking for ORD-16784 hasn't updated since Tuesday.
+
+Thanks,
+Kofi Mensah
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Fatima (support) ---
+I've updated your shipping address on file. I can see all the orders on your account, including ORD-61884. I've added a note to your account so the next agent has the context.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Fatima (support) ---
+No, you won't be charged twice: the first attempt for ORD-11003 failed before capture, so retrying is safe. Our warehouse shows ORD-33804 left on schedule. For ORD-33804, the return window is 30 days from delivery.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Kofi Mensah ---
+I'm happy to send screenshots if that helps. I'd rather not call; the hold times last time were very long. Your app logged me out twice while I was looking at this, which didn't help. The confirmation email for ORD-33804 went to my spam folder, so I only just saw it.
+
+Best regards,
+Kofi Mensah
+
+--- message 7 from Fatima (support) ---
+I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-61884 to the address on file. Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Kofi Mensah ---
+I've been a customer for a few years and usually everything goes smoothly. Your app logged me out twice while I was looking at this, which didn't help. My partner placed ORD-16784 on our shared account, in case that matters. The carry-on suitcase itself is great, for what it's worth.
+
+Kofi Mensah
+(Please reply by email rather than phone if possible.)
+
+--- message 9 from Fatima (support) ---
+Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-16784. For ORD-33804, the return window is 30 days from delivery.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

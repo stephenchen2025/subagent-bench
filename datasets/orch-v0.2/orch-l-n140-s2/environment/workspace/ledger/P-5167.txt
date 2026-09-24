@@ -1,0 +1,12 @@
+Ledger page P-5167
+
+account      amount   see page
+Quinn          -492   P-3277
+Tanaka         -667   P-5389
+Ibarra         +379   P-7793
+Osei           +117   P-5111
+Dunn           -247   P-3573
+Rahman         -442   P-3573
+Hughes         -703   P-7793
+
+Follow the credit belonging to the account that comes first alphabetically.

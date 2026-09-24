@@ -1,0 +1,10 @@
+Ledger page P-6579
+
+account      amount   see page
+Ibarra         -343   P-9983
+Vance          -483   P-8855
+Osei           -236   P-6740
+Rahman         +387   P-5124
+Dunn           -899   P-7346
+
+Follow the credit belonging to the account that comes first alphabetically.

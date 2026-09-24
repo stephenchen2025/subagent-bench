@@ -1,0 +1,11 @@
+Ledger page P-5622
+
+account      amount   see page
+Quinn          +702   P-3022
+Osei           -351   P-4320
+Tanaka         -843   P-1141
+Castillo       +260   P-2917
+Zhou            +51   P-8619
+Nakamura       +215   P-6981
+
+Follow the entry with the largest credit.

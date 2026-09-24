@@ -1,0 +1,12 @@
+Ledger page P-5626
+
+account      amount   see page
+Weber          -316   P-6318
+Young          +528   P-4056
+Quinn           +66   P-9546
+Umar           +732   P-3199
+Jensen         -109   P-3834
+Nakamura       -729   P-8717
+Kowalski        +16   P-2003
+
+Follow the entry with the largest credit.

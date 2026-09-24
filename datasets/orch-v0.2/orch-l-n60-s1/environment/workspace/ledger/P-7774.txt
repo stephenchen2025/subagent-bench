@@ -1,0 +1,12 @@
+Ledger page P-7774
+
+account      amount   see page
+Moreau         -250   P-9942
+Quinn          +407   P-7696
+Umar           -246   P-9228
+Abbott         +702   P-4837
+Lambert        +558   P-3494
+Dunn           +174   P-2390
+Osei           +743   P-3625
+
+Follow the entry whose amount is closest to zero.

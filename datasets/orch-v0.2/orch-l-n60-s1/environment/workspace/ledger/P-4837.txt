@@ -1,0 +1,10 @@
+Ledger page P-4837
+
+account      amount   see page
+Grant          +303   P-7474
+Castillo       -106   P-7893
+Nakamura       -429   P-2588
+Park           -791   P-4913
+Lambert        -321   P-1701
+
+Follow the debit belonging to the account that comes last alphabetically.

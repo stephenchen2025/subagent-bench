@@ -1,0 +1,11 @@
+Ledger page P-1210
+
+account      amount   see page
+Eriksen        -800   P-8817
+Vance           +43   P-4307
+Nakamura       -524   P-8674
+Weber          -335   P-2167
+Ibarra         +630   P-7146
+Castillo       +568   P-4738
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,12 @@
+Ledger page P-9976
+
+account      amount   see page
+Osei           -446   P-4227
+Castillo       -191   P-4151
+Hughes         +179   P-6064
+Abbott         -713   P-5807
+Dunn           +283   P-1507
+Jensen          -92   P-7350
+Eriksen        -312   P-5156
+
+Follow the entry with the second-largest amount.

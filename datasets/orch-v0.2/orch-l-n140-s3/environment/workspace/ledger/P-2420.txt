@@ -1,0 +1,11 @@
+Ledger page P-2420
+
+account      amount   see page
+Zhou           +283   P-4991
+Young          -411   P-5238
+Dunn           +603   P-2431
+Baker          +364   P-3984
+Nakamura       +213   P-3635
+Jensen         -841   P-2698
+
+Follow the entry with the second-largest amount.

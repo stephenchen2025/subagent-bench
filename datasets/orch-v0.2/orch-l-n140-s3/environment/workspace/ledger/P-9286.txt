@@ -1,0 +1,10 @@
+Ledger page P-9286
+
+account      amount   see page
+Silva           -71   P-8124
+Rahman         -203   P-6546
+Abbott         -245   P-6427
+Grant          +119   P-3188
+Weber          +697   P-8777
+
+Follow the credit belonging to the account that comes first alphabetically.

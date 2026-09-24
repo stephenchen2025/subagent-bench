@@ -1,0 +1,11 @@
+Ledger page P-6134
+
+account      amount   see page
+Silva          +750   P-7069
+Jensen         -336   P-3216
+Kowalski       -212   P-3691
+Umar            -29   P-5934
+Park           +126   P-7442
+Rahman         -298   P-2983
+
+Follow the credit belonging to the account that comes first alphabetically.

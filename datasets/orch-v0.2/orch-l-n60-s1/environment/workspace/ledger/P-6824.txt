@@ -1,0 +1,11 @@
+Ledger page P-6824
+
+account      amount   see page
+Umar           -153   P-2426
+Tanaka          -91   P-6684
+Young          +414   P-2855
+Kowalski       -119   P-2855
+Ibarra         +280   P-3318
+Osei           +217   P-8874
+
+Follow the entry with the largest credit.

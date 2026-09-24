@@ -1,0 +1,107 @@
+Ticket T-7520
+Customer: Maya Cohen
+Orders on file: ORD-15056, ORD-16953, ORD-74961, ORD-84035
+Opened: 2026-07-10 via web form
+
+Order details:
+ORD-15056  placed 2026-08-20  status: in transit  total: $178.56
+  payment method: card ending 2888  ship to: 859 Harbor Rd
+  - desk lamp x1
+  - microfiber cloth x3
+  - gift wrap x3
+  - carabiner set x1
+ORD-16953  placed 2026-02-14  status: returned  total: $162.58
+  payment method: card ending 4287  ship to: 893 Mill Lane
+  - desk lamp x1
+  - extended warranty, 2 years x1
+  - replacement filter cartridge, 3-pack x1
+ORD-74961  placed 2026-01-16  status: in transit  total: $466.82
+  payment method: card ending 7468  ship to: 607 Elm Ave
+  - bike light set x1
+  - USB-C charging cable (2m) x1
+  - merino socks, size M x1
+ORD-84035  placed 2026-01-11  status: delivered  total: $231.17
+  payment method: card ending 7517  ship to: 787 Harbor Rd
+  - blender x1
+  - merino socks, size M x2
+  - replacement filter cartridge, 3-pack x3
+
+--- message 1 from Maya Cohen ---
+Can I use a gift card on ORD-84035, or is it too late? I've been a customer for a few years and usually everything goes smoothly. I'd rather not call; the hold times last time were very long. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Maya Cohen
+
+--- message 2 from Fatima (support) ---
+Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering. I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Maya Cohen ---
+ORD-16953 shows up once in my order history, but my online banking shows it paid for on two separate lines. I changed my shipping address last month, so please double-check you have the new one. Tracking for ORD-15056 hasn't updated since Tuesday.
+
+Thanks,
+Maya Cohen
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Fatima (support) ---
+Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-84035. Screenshots aren't necessary, but thank you for offering.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Fatima (support) ---
+Good news: only one payment for ORD-16953 ever settled. The other entry was a temporary hold and your bank has dropped it. Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Maya Cohen ---
+I changed my shipping address last month, so please double-check you have the new one. Your app logged me out twice while I was looking at this, which didn't help. The confirmation email for ORD-74961 went to my spam folder, so I only just saw it.
+
+Best regards,
+Maya Cohen
+
+--- message 7 from Maya Cohen ---
+Oh, you're right -- I checked my statement this morning and the second line is gone. Only one charge. Sorry for the false alarm! The confirmation email for ORD-74961 went to my spam folder, so I only just saw it. I tried the chat widget first but it kept disconnecting.
+
+Maya Cohen
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Fatima (support) ---
+Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-84035. If you need an invoice for ORD-15056, you can download it from the Orders page.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Maya Cohen ---
+I tried the chat widget first but it kept disconnecting. My partner placed ORD-84035 on our shared account, in case that matters. My earlier order ORD-74961 arrived fine, no complaints there. I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Maya Cohen
+Sent from my phone -- please excuse typos.
+
+--- message 10 from Fatima (support) ---
+I've added a note to your account so the next agent has the context. I've updated your shipping address on file. I can see all the orders on your account, including ORD-74961. Tracking updates can lag by a day or two with this carrier.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 11 from Maya Cohen ---
+Could you also tell me whether ORD-15056 qualifies for the extended return window? I'm happy to send screenshots if that helps. Your app logged me out twice while I was looking at this, which didn't help. I tried the chat widget first but it kept disconnecting.
+
+Maya Cohen
+(Please reply by email rather than phone if possible.)
+
+--- message 12 from Fatima (support) ---
+I've resent the confirmation email for ORD-84035 to the address on file. If you need an invoice for ORD-84035, you can download it from the Orders page. Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,10 @@
+Ledger page P-4436
+
+account      amount   see page
+Quinn          -274   P-4719
+Ibarra         -670   P-1479
+Fofana         +130   P-4512
+Hughes         +852   P-6762
+Baker          -451   P-8985
+
+Follow the entry with the largest debit (the most negative amount).

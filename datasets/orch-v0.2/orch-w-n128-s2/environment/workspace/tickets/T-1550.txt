@@ -1,0 +1,55 @@
+Ticket T-1550
+Customer: Grace Mwangi
+Orders on file: ORD-22180, ORD-78547, ORD-48573, ORD-37380
+Opened: 2026-01-06 via chat transcript
+
+Order details:
+ORD-22180  placed 2026-04-03  status: returned  total: $34.67
+  payment method: card ending 6244  ship to: 425 Harbor Lane
+  - camping stove x1
+  - spare battery pack x2
+  - extended warranty, 2 years x3
+ORD-78547  placed 2026-04-17  status: in transit  total: $220.63
+  payment method: card ending 8086  ship to: 997 Cedar Ave
+  - cast iron skillet x1
+  - spare battery pack x2
+  - stainless water bottle, 750ml x2
+  - merino socks, size M x3
+ORD-48573  placed 2026-08-23  status: delivered  total: $209.45
+  payment method: card ending 1804  ship to: 695 Elm Ave
+  - wool blanket x1
+  - gift wrap x2
+  - spare battery pack x2
+  - extended warranty, 2 years x2
+ORD-37380  placed 2026-08-19  status: label created  total: $166.37
+  payment method: card ending 9081  ship to: 600 Elm Rd
+  - noise-cancelling headphones x1
+  - merino socks, size M x2
+  - USB-C charging cable (2m) x2
+  - microfiber cloth x3
+
+--- message 1 from Grace Mwangi ---
+Can I use a gift card on ORD-48573, or is it too late? I'd rather not call; the hold times last time were very long. The confirmation email for ORD-22180 went to my spam folder, so I only just saw it. My partner placed ORD-22180 on our shared account, in case that matters.
+
+Grace Mwangi
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Fatima (support) ---
+Let me know if anything else looks off. I've added a note to your account so the next agent has the context. I can see all the orders on your account, including ORD-48573. Our warehouse shows ORD-48573 left on schedule.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Grace Mwangi ---
+I'm happy to send screenshots if that helps. Your app logged me out twice while I was looking at this, which didn't help. Could you also tell me whether ORD-48573 qualifies for the extended return window? I've been a customer for a few years and usually everything goes smoothly.
+
+Grace Mwangi
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Fatima (support) ---
+Loyalty points post about a week after an order is delivered. If you need an invoice for ORD-37380, you can download it from the Orders page. Let me know if anything else looks off. I can see all the orders on your account, including ORD-22180.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

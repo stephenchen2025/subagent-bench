@@ -1,0 +1,12 @@
+Ledger page P-3722
+
+account      amount   see page
+Lambert        +740   P-1719
+Umar           +871   P-6088
+Quinn          +426   P-9084
+Fofana         +587   P-9099
+Grant          -789   P-6266
+Castillo       +405   P-6140
+Rahman         +257   P-2121
+
+Follow the credit belonging to the account that comes first alphabetically.

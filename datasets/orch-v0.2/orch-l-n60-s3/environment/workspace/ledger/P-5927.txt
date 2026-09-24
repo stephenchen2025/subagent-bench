@@ -1,0 +1,12 @@
+Ledger page P-5927
+
+account      amount   see page
+Kowalski       -812   P-1387
+Tanaka         -321   P-5485
+Moreau         +246   P-4967
+Nakamura       -730   P-1930
+Hughes         +436   P-4597
+Umar           -647   P-8865
+Park            +59   P-5121
+
+Follow the entry with the second-largest amount.

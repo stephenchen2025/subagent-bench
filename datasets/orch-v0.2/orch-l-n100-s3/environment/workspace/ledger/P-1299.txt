@@ -1,0 +1,11 @@
+Ledger page P-1299
+
+account      amount   see page
+Zhou           +453   P-1630
+Osei           +488   P-7888
+Tanaka         +753   P-3685
+Umar           -746   P-7933
+Xu             -594   P-3974
+Ibarra         +775   P-8009
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,10 @@
+Ledger page P-6757
+
+account      amount   see page
+Silva          +683   P-3407
+Eriksen        -109   P-2387
+Vance          -878   P-5293
+Moreau         -881   P-6037
+Grant          -880   P-3387
+
+Follow the entry whose amount is closest to zero.

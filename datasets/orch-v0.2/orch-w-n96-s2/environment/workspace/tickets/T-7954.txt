@@ -1,0 +1,102 @@
+Ticket T-7954
+Customer: Elena Petrova
+Orders on file: ORD-16854, ORD-50539, ORD-19278, ORD-89078
+Opened: 2026-04-02 via email
+
+Order details:
+ORD-16854  placed 2026-08-24  status: in transit  total: $409.83
+  payment method: card ending 7583  ship to: 455 Oak Ave
+  - camping stove x1
+  - spare battery pack x3
+  - extended warranty, 2 years x2
+  - USB-C charging cable (2m) x1
+  - stainless water bottle, 750ml x1
+ORD-50539  placed 2026-05-22  status: in transit  total: $327.28
+  payment method: card ending 4208  ship to: 622 Cedar Lane
+  - wool blanket x1
+  - carabiner set x3
+  - merino socks, size M x3
+ORD-19278  placed 2026-07-24  status: label created  total: $311.33
+  payment method: card ending 4717  ship to: 574 Cedar St
+  - yoga mat x1
+  - replacement filter cartridge, 3-pack x1
+  - gift wrap x1
+  - merino socks, size M x3
+ORD-89078  placed 2026-01-03  status: label created  total: $48.78
+  payment method: card ending 3990  ship to: 874 Cedar St
+  - mechanical keyboard x1
+  - travel pouch x1
+  - merino socks, size M x3
+
+--- message 1 from Elena Petrova ---
+I need to change the delivery address for ORD-19278 before it ships. I'd rather not call; the hold times last time were very long. I changed my shipping address last month, so please double-check you have the new one. Could you also tell me whether ORD-19278 qualifies for the extended return window?
+
+Elena Petrova
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Marcus (support) ---
+I've resent the confirmation email for ORD-19278 to the address on file. If you need an invoice for ORD-16854, you can download it from the Orders page. Let me know if anything else looks off. For ORD-89078, the return window is 30 days from delivery.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Elena Petrova ---
+There's an extra line for ORD-50539 on my statement. It could just be a hold -- can you check? Could you also tell me whether ORD-19278 qualifies for the extended return window? I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Elena Petrova
+
+--- message 4 from Marcus (support) ---
+Tracking updates can lag by a day or two with this carrier. Loyalty points post about a week after an order is delivered. Screenshots aren't necessary, but thank you for offering.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Elena Petrova ---
+Just checked again -- both charges for ORD-50539 are settled now, not pending. The box for ORD-89078 was a bit crushed but the contents were fine. The cast iron skillet itself is great, for what it's worth.
+
+Best regards,
+Elena Petrova
+
+--- message 6 from Marcus (support) ---
+Confirmed on our side -- ORD-50539 was captured twice by a retry in our checkout. One refund of $359.77 is on its way to you. I can see all the orders on your account, including ORD-16854. Tracking updates can lag by a day or two with this carrier.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Elena Petrova ---
+I'd rather not call; the hold times last time were very long. Could you also tell me whether ORD-16854 qualifies for the extended return window? My earlier order ORD-19278 arrived fine, no complaints there.
+
+Thanks,
+Elena Petrova
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Elena Petrova ---
+The box for ORD-19278 was a bit crushed but the contents were fine. I've been a customer for a few years and usually everything goes smoothly. I'm happy to send screenshots if that helps. The confirmation email for ORD-19278 went to my spam folder, so I only just saw it.
+
+Elena Petrova
+(Please reply by email rather than phone if possible.)
+
+--- message 9 from Marcus (support) ---
+I've resent the confirmation email for ORD-19278 to the address on file. I can see all the orders on your account, including ORD-89078. If you need an invoice for ORD-16854, you can download it from the Orders page. Let me know if anything else looks off.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 10 from Elena Petrova ---
+Tracking for ORD-89078 hasn't updated since Tuesday. I'm travelling next week, so email is the best way to reach me. My partner placed ORD-16854 on our shared account, in case that matters. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Elena Petrova
+Sent from my phone -- please excuse typos.
+
+--- message 11 from Marcus (support) ---
+I've added a note to your account so the next agent has the context. Let me know if anything else looks off. I've resent the confirmation email for ORD-16854 to the address on file. I've updated your shipping address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

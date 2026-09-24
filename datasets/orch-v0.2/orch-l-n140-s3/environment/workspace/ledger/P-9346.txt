@@ -1,0 +1,12 @@
+Ledger page P-9346
+
+account      amount   see page
+Hughes         +813   P-3193
+Xu             -402   P-7597
+Dunn           +193   P-8020
+Ibarra         -201   P-3360
+Fofana         -701   P-3984
+Vance          +728   P-7562
+Castillo       -260   P-4236
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,11 @@
+Ledger page P-3098
+
+account      amount   see page
+Xu             -533   P-2771
+Vance           -50   P-4401
+Young          +404   P-7314
+Umar           -560   P-1611
+Abbott          -73   P-5111
+Ibarra         +769   P-1979
+
+Follow the credit belonging to the account that comes first alphabetically.

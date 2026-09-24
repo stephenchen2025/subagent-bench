@@ -1,0 +1,10 @@
+Ledger page P-1773
+
+account      amount   see page
+Ibarra         -722   P-4885
+Young          -659   P-4713
+Grant          -840   P-3407
+Kowalski       +583   P-6133
+Castillo       -474   P-4515
+
+Follow the entry with the largest credit.

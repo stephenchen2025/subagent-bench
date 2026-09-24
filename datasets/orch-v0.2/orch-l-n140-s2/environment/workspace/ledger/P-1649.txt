@@ -1,0 +1,11 @@
+Ledger page P-1649
+
+account      amount   see page
+Nakamura       +573   P-4287
+Ibarra         +699   P-8706
+Hughes         -385   P-8506
+Xu             -720   P-3836
+Weber          -749   P-1637
+Fofana          +47   P-5509
+
+Follow the debit belonging to the account that comes last alphabetically.

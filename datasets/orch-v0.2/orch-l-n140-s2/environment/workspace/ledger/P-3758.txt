@@ -1,0 +1,12 @@
+Ledger page P-3758
+
+account      amount   see page
+Fofana         -282   P-5388
+Jensen         +741   P-4167
+Park             -6   P-5451
+Rahman         -480   P-6352
+Young          +539   P-1551
+Tanaka         +538   P-9793
+Castillo        +80   P-2370
+
+Follow the entry with the largest debit (the most negative amount).

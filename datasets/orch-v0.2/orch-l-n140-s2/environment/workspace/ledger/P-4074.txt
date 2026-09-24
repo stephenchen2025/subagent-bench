@@ -1,0 +1,10 @@
+Ledger page P-4074
+
+account      amount   see page
+Abbott         +129   P-1108
+Quinn          -581   P-4881
+Park           +401   P-3598
+Young          +356   P-4074
+Dunn           -781   P-3102
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,12 @@
+Ledger page P-1565
+
+account      amount   see page
+Grant          +642   P-7674
+Weber          -826   P-6151
+Fofana         -538   P-4560
+Xu             +317   P-2588
+Quinn          +857   P-7614
+Nakamura       -520   P-2640
+Jensen         -854   P-6824
+
+Follow the entry whose amount is closest to zero.

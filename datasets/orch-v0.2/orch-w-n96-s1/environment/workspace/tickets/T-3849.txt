@@ -1,0 +1,70 @@
+Ticket T-3849
+Customer: Tomas Novak
+Orders on file: ORD-64518, ORD-94411, ORD-33332, ORD-33781
+Opened: 2026-04-13 via email
+
+Order details:
+ORD-64518  placed 2026-01-16  status: label created  total: $397.22
+  payment method: card ending 5007  ship to: 204 Harbor Lane
+  - standing desk x1
+  - USB-C charging cable (2m) x2
+  - extended warranty, 2 years x2
+  - gift wrap x3
+  - spare battery pack x3
+ORD-94411  placed 2026-01-08  status: delivered  total: $108.16
+  payment method: card ending 6312  ship to: 316 Elm Rd
+  - noise-cancelling headphones x1
+  - travel pouch x1
+  - extended warranty, 2 years x2
+  - microfiber cloth x2
+ORD-33332  placed 2026-03-03  status: returned  total: $322.85
+  payment method: card ending 5356  ship to: 41 Mill Lane
+  - cast iron skillet x1
+  - travel pouch x3
+  - microfiber cloth x2
+  - USB-C charging cable (2m) x3
+ORD-33781  placed 2026-01-14  status: label created  total: $113.50
+  payment method: card ending 4294  ship to: 190 Elm Lane
+  - standing desk x1
+  - USB-C charging cable (2m) x2
+  - carabiner set x1
+  - spare battery pack x1
+
+--- message 1 from Tomas Novak ---
+Can I use a gift card on ORD-64518, or is it too late? Could you also tell me whether ORD-33781 qualifies for the extended return window? I'm travelling next week, so email is the best way to reach me. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Tomas Novak
+
+--- message 2 from Luis (support) ---
+Our warehouse shows ORD-33781 left on schedule. I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-64518 to the address on file. Loyalty points post about a week after an order is delivered.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Tomas Novak ---
+I was billed twice for ORD-33332 -- same amount, same day. The confirmation email for ORD-64518 went to my spam folder, so I only just saw it. My partner placed ORD-33781 on our shared account, in case that matters.
+
+Best regards,
+Tomas Novak
+
+--- message 4 from Luis (support) ---
+I've resent the confirmation email for ORD-94411 to the address on file. I can see all the orders on your account, including ORD-94411. I've added a note to your account so the next agent has the context.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Tomas Novak ---
+Is there a way to combine loyalty points from ORD-94411 with my next purchase? The noise-cancelling headphones itself is great, for what it's worth. The confirmation email for ORD-94411 went to my spam folder, so I only just saw it. Could you also tell me whether ORD-64518 qualifies for the extended return window?
+
+Tomas Novak
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Luis (support) ---
+For ORD-94411, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context. I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

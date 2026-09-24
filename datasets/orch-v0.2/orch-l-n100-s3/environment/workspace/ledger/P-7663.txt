@@ -1,0 +1,12 @@
+Ledger page P-7663
+
+account      amount   see page
+Fofana         -887   P-8170
+Ibarra         -418   P-7178
+Vance          -356   P-5602
+Umar           -390   P-3982
+Abbott         -173   P-7888
+Zhou           -842   P-7290
+Osei           +714   P-7290
+
+Follow the debit belonging to the account that comes last alphabetically.

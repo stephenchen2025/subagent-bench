@@ -1,0 +1,10 @@
+Ledger page P-3086
+
+account      amount   see page
+Abbott         -609   P-8008
+Tanaka         +417   P-1026
+Baker          -552   P-9322
+Vance          +434   P-1400
+Dunn           -283   P-3970
+
+Follow the entry with the second-largest amount.

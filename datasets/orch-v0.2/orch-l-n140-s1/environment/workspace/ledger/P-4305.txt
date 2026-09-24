@@ -1,0 +1,12 @@
+Ledger page P-4305
+
+account      amount   see page
+Young          -654   P-7546
+Quinn          -863   P-2530
+Ibarra         +217   P-9183
+Hughes         +840   P-2708
+Lambert        -852   P-1181
+Vance          +118   P-8727
+Jensen         -865   P-1165
+
+Follow the entry whose amount is closest to zero.

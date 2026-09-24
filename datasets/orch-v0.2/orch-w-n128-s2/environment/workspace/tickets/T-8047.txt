@@ -1,0 +1,99 @@
+Ticket T-8047
+Customer: Ines Duarte
+Orders on file: ORD-41018, ORD-59567, ORD-53195, ORD-62899
+Opened: 2026-02-22 via chat transcript
+
+Order details:
+ORD-41018  placed 2026-06-25  status: delivered  total: $352.45
+  payment method: card ending 9071  ship to: 590 Elm Rd
+  - bike light set x1
+  - spare battery pack x1
+  - merino socks, size M x3
+  - stainless water bottle, 750ml x1
+  - microfiber cloth x3
+ORD-59567  placed 2026-01-07  status: in transit  total: $110.41
+  payment method: card ending 7603  ship to: 461 Oak Lane
+  - water filter pitcher x1
+  - spare battery pack x2
+  - travel pouch x3
+ORD-53195  placed 2026-04-09  status: label created  total: $402.99
+  payment method: card ending 6181  ship to: 843 Elm Ave
+  - carry-on suitcase x1
+  - travel pouch x3
+  - stainless water bottle, 750ml x1
+  - replacement filter cartridge, 3-pack x2
+ORD-62899  placed 2026-05-11  status: in transit  total: $236.32
+  payment method: card ending 5991  ship to: 629 Harbor Ave
+  - water filter pitcher x1
+  - USB-C charging cable (2m) x3
+  - stainless water bottle, 750ml x1
+  - extended warranty, 2 years x2
+  - travel pouch x2
+
+--- message 1 from Ines Duarte ---
+How do I reset my password? The reset link keeps expiring. My earlier order ORD-53195 arrived fine, no complaints there. Could you also tell me whether ORD-41018 qualifies for the extended return window? The cast iron skillet itself is great, for what it's worth.
+
+Thanks,
+Ines Duarte
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Keiko (support) ---
+Let me know if anything else looks off. Our warehouse shows ORD-53195 left on schedule. For ORD-62899, the return window is 30 days from delivery. Thanks for reaching out, and sorry for the trouble.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ines Duarte ---
+Duplicate charge on ORD-59567, please refund one of them. The confirmation email for ORD-41018 went to my spam folder, so I only just saw it. Tracking for ORD-53195 hasn't updated since Tuesday.
+
+Best regards,
+Ines Duarte
+
+--- message 4 from Keiko (support) ---
+Loyalty points post about a week after an order is delivered. Screenshots aren't necessary, but thank you for offering. Our warehouse shows ORD-62899 left on schedule.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Keiko (support) ---
+Good news: only one payment for ORD-59567 ever settled. The other entry was a temporary hold and your bank has dropped it. I've resent the confirmation email for ORD-41018 to the address on file. Loyalty points post about a week after an order is delivered.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Ines Duarte ---
+Oh, you're right -- I checked the card app this morning and the second line is gone. Only one charge. Sorry for the false alarm! I've been a customer for a few years and usually everything goes smoothly. I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Ines Duarte
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Ines Duarte ---
+I tried the chat widget first but it kept disconnecting. I'd rather not call; the hold times last time were very long. Your app logged me out twice while I was looking at this, which didn't help. The box for ORD-62899 was a bit crushed but the contents were fine.
+
+Thanks,
+Ines Duarte
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Keiko (support) ---
+Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-41018. If you need an invoice for ORD-41018, you can download it from the Orders page.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Ines Duarte ---
+My partner placed ORD-53195 on our shared account, in case that matters. The box for ORD-53195 was a bit crushed but the contents were fine. Is there a way to combine loyalty points from ORD-53195 with my next purchase? I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Ines Duarte
+
+--- message 10 from Keiko (support) ---
+I can see all the orders on your account, including ORD-41018. Screenshots aren't necessary, but thank you for offering. If you need an invoice for ORD-62899, you can download it from the Orders page. Loyalty points post about a week after an order is delivered.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

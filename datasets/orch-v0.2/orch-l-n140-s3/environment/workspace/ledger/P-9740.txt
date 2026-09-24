@@ -1,0 +1,10 @@
+Ledger page P-9740
+
+account      amount   see page
+Vance          +485   P-1320
+Silva          +405   P-3219
+Ibarra         -220   P-5193
+Young          -213   P-2232
+Nakamura       -370   P-9550
+
+Follow the entry with the largest debit (the most negative amount).

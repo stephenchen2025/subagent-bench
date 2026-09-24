@@ -1,0 +1,12 @@
+Ledger page P-3879
+
+account      amount   see page
+Ibarra         +669   P-3306
+Kowalski       -325   P-5247
+Moreau         +397   P-2349
+Vance          -299   P-3914
+Fofana         +693   P-9346
+Castillo       -394   P-4621
+Hughes         -676   P-2900
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,11 @@
+Ledger page P-6993
+
+account      amount   see page
+Xu             +508   P-4469
+Jensen          +25   P-1621
+Abbott         -448   P-6328
+Lambert        -682   P-1253
+Ibarra         -442   P-6046
+Zhou           +521   P-3818
+
+Follow the entry whose amount is closest to zero.

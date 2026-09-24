@@ -1,0 +1,12 @@
+Ledger page P-3425
+
+account      amount   see page
+Xu             +593   P-2393
+Quinn          +684   P-2320
+Eriksen        -548   P-3925
+Vance            -5   P-5186
+Dunn           +183   P-3128
+Abbott         +537   P-3866
+Jensen         -306   P-5298
+
+Follow the entry with the largest credit.

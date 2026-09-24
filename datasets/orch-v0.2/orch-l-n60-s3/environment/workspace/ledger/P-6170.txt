@@ -1,0 +1,12 @@
+Ledger page P-6170
+
+account      amount   see page
+Abbott         -858   P-8020
+Young          +728   P-3352
+Dunn           +557   P-2930
+Zhou           +717   P-4148
+Park           +731   P-3606
+Tanaka         +308   P-4346
+Moreau         +445   P-3953
+
+Follow the entry with the largest credit.

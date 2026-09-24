@@ -1,0 +1,10 @@
+Ledger page P-4234
+
+account      amount   see page
+Baker          -623   P-2777
+Hughes         -285   P-3441
+Moreau         +318   P-8717
+Fofana          +47   P-1949
+Zhou           +268   P-6722
+
+Follow the credit belonging to the account that comes first alphabetically.

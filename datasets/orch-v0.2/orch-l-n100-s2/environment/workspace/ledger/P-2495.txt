@@ -1,0 +1,10 @@
+Ledger page P-2495
+
+account      amount   see page
+Kowalski        -64   P-7121
+Fofana          -12   P-7898
+Grant          +384   P-7672
+Abbott         -557   P-7383
+Umar           -768   P-9344
+
+Follow the entry with the second-largest amount.

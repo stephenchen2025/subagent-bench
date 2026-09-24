@@ -1,0 +1,56 @@
+Ticket T-7611
+Customer: Hana Sato
+Orders on file: ORD-18275, ORD-28049, ORD-51616, ORD-63474
+Opened: 2026-02-19 via web form
+
+Order details:
+ORD-18275  placed 2026-07-13  status: delivered  total: $68.91
+  payment method: card ending 5688  ship to: 442 Elm St
+  - mechanical keyboard x1
+  - merino socks, size M x3
+  - spare battery pack x3
+  - microfiber cloth x3
+ORD-28049  placed 2026-06-01  status: returned  total: $262.38
+  payment method: card ending 5461  ship to: 320 Elm Ave
+  - carry-on suitcase x1
+  - USB-C charging cable (2m) x2
+  - stainless water bottle, 750ml x3
+  - gift wrap x1
+ORD-51616  placed 2026-04-22  status: in transit  total: $251.62
+  payment method: card ending 3218  ship to: 606 Elm St
+  - trail running shoes x1
+  - travel pouch x2
+  - microfiber cloth x1
+ORD-63474  placed 2026-06-16  status: label created  total: $390.27
+  payment method: card ending 5819  ship to: 226 Mill Ave
+  - standing desk x1
+  - stainless water bottle, 750ml x1
+  - replacement filter cartridge, 3-pack x1
+
+--- message 1 from Hana Sato ---
+I need to change the delivery address for ORD-63474 before it ships. I tried the chat widget first but it kept disconnecting. Your app logged me out twice while I was looking at this, which didn't help. Is there a way to combine loyalty points from ORD-18275 with my next purchase?
+
+Thanks,
+Hana Sato
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Luis (support) ---
+I've resent the confirmation email for ORD-51616 to the address on file. I've added a note to your account so the next agent has the context. I can see all the orders on your account, including ORD-51616. Tracking updates can lag by a day or two with this carrier.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Hana Sato ---
+Your app logged me out twice while I was looking at this, which didn't help. Could you also tell me whether ORD-51616 qualifies for the extended return window? I've been a customer for a few years and usually everything goes smoothly. Is there a way to combine loyalty points from ORD-51616 with my next purchase?
+
+Thanks,
+Hana Sato
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Luis (support) ---
+Our warehouse shows ORD-63474 left on schedule. I can see all the orders on your account, including ORD-18275. Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

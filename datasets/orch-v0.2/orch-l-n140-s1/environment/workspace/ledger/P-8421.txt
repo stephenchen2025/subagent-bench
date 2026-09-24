@@ -1,0 +1,10 @@
+Ledger page P-8421
+
+account      amount   see page
+Castillo       -126   P-2708
+Rahman         +638   P-7446
+Young          -671   P-3175
+Zhou           +287   P-2387
+Xu             +152   P-6988
+
+Follow the credit belonging to the account that comes first alphabetically.

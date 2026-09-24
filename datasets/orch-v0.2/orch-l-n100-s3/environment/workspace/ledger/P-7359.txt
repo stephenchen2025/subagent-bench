@@ -1,0 +1,10 @@
+Ledger page P-7359
+
+account      amount   see page
+Tanaka         -394   P-8160
+Nakamura       +224   P-1267
+Umar            +14   P-9024
+Fofana         -255   P-5230
+Abbott          +26   P-8917
+
+Follow the entry with the largest credit.

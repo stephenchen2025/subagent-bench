@@ -1,0 +1,11 @@
+Ledger page P-5908
+
+account      amount   see page
+Young          +231   P-5124
+Quinn          +870   P-5868
+Ibarra         +431   P-4237
+Dunn           -251   P-7300
+Osei           -628   P-3287
+Grant           -34   P-3026
+
+Follow the entry with the second-largest amount.

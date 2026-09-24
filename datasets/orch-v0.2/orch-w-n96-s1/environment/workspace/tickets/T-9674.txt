@@ -1,0 +1,53 @@
+Ticket T-9674
+Customer: Tomas Novak
+Orders on file: ORD-17841, ORD-30109, ORD-79913, ORD-13882
+Opened: 2026-08-17 via email
+
+Order details:
+ORD-17841  placed 2026-04-19  status: delivered  total: $47.49
+  payment method: card ending 6288  ship to: 563 Oak Rd
+  - noise-cancelling headphones x1
+  - merino socks, size M x2
+  - carabiner set x1
+ORD-30109  placed 2026-04-01  status: delivered  total: $356.16
+  payment method: card ending 9804  ship to: 32 Harbor Rd
+  - blender x1
+  - spare battery pack x3
+  - stainless water bottle, 750ml x1
+ORD-79913  placed 2026-06-21  status: in transit  total: $409.27
+  payment method: card ending 2244  ship to: 240 Cedar Rd
+  - trail running shoes x1
+  - USB-C charging cable (2m) x3
+  - carabiner set x2
+ORD-13882  placed 2026-08-05  status: label created  total: $137.39
+  payment method: card ending 4741  ship to: 564 Harbor St
+  - yoga mat x1
+  - spare battery pack x3
+  - stainless water bottle, 750ml x2
+
+--- message 1 from Tomas Novak ---
+Where is my refund for ORD-30109? You said 5 days and it has been 8. My earlier order ORD-13882 arrived fine, no complaints there. The confirmation email for ORD-30109 went to my spam folder, so I only just saw it. Tracking for ORD-13882 hasn't updated since Tuesday.
+
+Tomas Novak
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Dana (support) ---
+If you need an invoice for ORD-13882, you can download it from the Orders page. Loyalty points post about a week after an order is delivered. For ORD-79913, the return window is 30 days from delivery. I've resent the confirmation email for ORD-30109 to the address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Tomas Novak ---
+Is there a way to combine loyalty points from ORD-13882 with my next purchase? I'm travelling next week, so email is the best way to reach me. I changed my shipping address last month, so please double-check you have the new one. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Tomas Novak
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Dana (support) ---
+Let me know if anything else looks off. For ORD-13882, the return window is 30 days from delivery. I've resent the confirmation email for ORD-13882 to the address on file. Screenshots aren't necessary, but thank you for offering.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

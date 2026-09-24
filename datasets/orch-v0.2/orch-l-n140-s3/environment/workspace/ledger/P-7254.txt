@@ -1,0 +1,10 @@
+Ledger page P-7254
+
+account      amount   see page
+Lambert        -407   P-9724
+Abbott           +4   P-3289
+Young          -639   P-3012
+Rahman         +395   P-8027
+Ibarra         +787   P-9054
+
+Follow the credit belonging to the account that comes first alphabetically.

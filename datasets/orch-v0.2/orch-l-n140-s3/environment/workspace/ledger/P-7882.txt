@@ -1,0 +1,12 @@
+Ledger page P-7882
+
+account      amount   see page
+Rahman         -585   P-1121
+Jensen         +500   P-1198
+Grant          -336   P-6129
+Park           -241   P-2565
+Osei           -345   P-9368
+Castillo       -518   P-1015
+Eriksen        -120   P-4465
+
+Follow the credit belonging to the account that comes first alphabetically.

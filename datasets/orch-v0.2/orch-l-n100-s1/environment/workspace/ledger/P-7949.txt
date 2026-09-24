@@ -1,0 +1,12 @@
+Ledger page P-7949
+
+account      amount   see page
+Moreau         -847   P-8395
+Ibarra          -11   P-2972
+Young           +18   P-8606
+Kowalski       +869   P-3401
+Tanaka         -521   P-7810
+Dunn           -628   P-9931
+Zhou           +538   P-1993
+
+Follow the credit belonging to the account that comes first alphabetically.

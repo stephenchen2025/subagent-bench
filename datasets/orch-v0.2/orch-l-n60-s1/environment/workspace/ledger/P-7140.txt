@@ -1,0 +1,12 @@
+Ledger page P-7140
+
+account      amount   see page
+Zhou           +568   P-5261
+Silva           -55   P-7200
+Park           +769   P-3390
+Weber          +890   P-2097
+Moreau          -68   P-1198
+Osei           -349   P-2097
+Eriksen        -840   P-1261
+
+Follow the debit belonging to the account that comes last alphabetically.

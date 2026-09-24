@@ -1,0 +1,11 @@
+Ledger page P-9265
+
+account      amount   see page
+Zhou           +861   P-4017
+Rahman         -218   P-8436
+Osei           +429   P-3417
+Weber          -829   P-1001
+Jensen         -398   P-9905
+Kowalski       +100   P-4576
+
+Follow the entry with the second-largest amount.

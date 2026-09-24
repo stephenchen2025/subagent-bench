@@ -1,0 +1,11 @@
+Ledger page P-2708
+
+account      amount   see page
+Jensen          +46   P-9443
+Fofana         -450   P-4111
+Nakamura       +454   P-9445
+Young          -586   P-9870
+Zhou           -654   P-4972
+Ibarra         +230   P-5172
+
+Follow the entry whose amount is closest to zero.

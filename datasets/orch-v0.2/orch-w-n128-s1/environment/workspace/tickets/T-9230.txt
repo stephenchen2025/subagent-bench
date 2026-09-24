@@ -1,0 +1,60 @@
+Ticket T-9230
+Customer: Yuki Tanaka
+Orders on file: ORD-14429, ORD-28741, ORD-49426, ORD-68391
+Opened: 2026-02-26 via email
+
+Order details:
+ORD-14429  placed 2026-03-21  status: in transit  total: $334.53
+  payment method: card ending 1505  ship to: 441 Cedar Ave
+  - standing desk x1
+  - extended warranty, 2 years x3
+  - USB-C charging cable (2m) x3
+  - gift wrap x2
+  - spare battery pack x1
+ORD-28741  placed 2026-07-15  status: delivered  total: $390.25
+  payment method: card ending 2577  ship to: 307 Cedar Lane
+  - espresso grinder x1
+  - travel pouch x1
+  - merino socks, size M x3
+  - extended warranty, 2 years x1
+  - stainless water bottle, 750ml x3
+ORD-49426  placed 2026-08-10  status: returned  total: $471.03
+  payment method: card ending 7445  ship to: 469 Oak Lane
+  - camping stove x1
+  - extended warranty, 2 years x2
+  - travel pouch x1
+  - replacement filter cartridge, 3-pack x2
+ORD-68391  placed 2026-02-16  status: in transit  total: $305.19
+  payment method: card ending 8853  ship to: 256 Elm St
+  - blender x1
+  - carabiner set x3
+  - microfiber cloth x3
+  - extended warranty, 2 years x1
+  - replacement filter cartridge, 3-pack x3
+
+--- message 1 from Yuki Tanaka ---
+Can I use a gift card on ORD-14429, or is it too late? Could you also tell me whether ORD-14429 qualifies for the extended return window? I'm happy to send screenshots if that helps. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Yuki Tanaka
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Fatima (support) ---
+Screenshots aren't necessary, but thank you for offering. For ORD-49426, the return window is 30 days from delivery. Let me know if anything else looks off. Loyalty points post about a week after an order is delivered.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Yuki Tanaka ---
+The confirmation email for ORD-49426 went to my spam folder, so I only just saw it. I changed my shipping address last month, so please double-check you have the new one. I'm happy to send screenshots if that helps. My partner placed ORD-68391 on our shared account, in case that matters.
+
+Yuki Tanaka
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Fatima (support) ---
+I've resent the confirmation email for ORD-68391 to the address on file. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-49426 left on schedule. I've added a note to your account so the next agent has the context.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

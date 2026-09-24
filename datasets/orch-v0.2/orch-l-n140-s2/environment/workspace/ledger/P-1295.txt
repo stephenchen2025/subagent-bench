@@ -1,0 +1,11 @@
+Ledger page P-1295
+
+account      amount   see page
+Weber          -346   P-2638
+Rahman         -516   P-6445
+Park           +243   P-2691
+Osei           -311   P-2719
+Grant          +415   P-5157
+Jensen         +323   P-9328
+
+Follow the entry with the largest credit.

@@ -1,0 +1,10 @@
+Ledger page P-2728
+
+account      amount   see page
+Xu             +259   P-3493
+Silva          +321   P-1081
+Vance          -727   P-7893
+Rahman         +650   P-2328
+Young          -894   P-8876
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,10 @@
+Ledger page P-4346
+
+account      amount   see page
+Lambert        +736   P-4661
+Dunn             +2   P-8627
+Umar           -157   P-6178
+Kowalski       +243   P-3518
+Tanaka         +608   P-4529
+
+Follow the entry whose amount is closest to zero.

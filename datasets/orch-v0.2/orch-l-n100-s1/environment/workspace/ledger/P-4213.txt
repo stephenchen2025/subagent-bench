@@ -1,0 +1,11 @@
+Ledger page P-4213
+
+account      amount   see page
+Silva          +792   P-5874
+Dunn           -815   P-1487
+Young          -671   P-8121
+Castillo       +840   P-8170
+Eriksen        -493   P-5850
+Baker          +139   P-7153
+
+Follow the credit belonging to the account that comes first alphabetically.

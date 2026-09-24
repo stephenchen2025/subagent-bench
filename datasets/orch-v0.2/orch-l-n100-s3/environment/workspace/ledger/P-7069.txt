@@ -1,0 +1,12 @@
+Ledger page P-7069
+
+account      amount   see page
+Dunn           +780   P-7664
+Umar           -116   P-2797
+Weber          +719   P-8816
+Quinn           -38   P-8145
+Tanaka         +129   P-3982
+Hughes         -628   P-8523
+Young          +508   P-4665
+
+Follow the entry with the second-largest amount.

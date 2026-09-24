@@ -1,0 +1,102 @@
+Ticket T-6776
+Customer: Oskar Berg
+Orders on file: ORD-38367, ORD-12647, ORD-41991, ORD-78105
+Opened: 2026-06-20 via chat transcript
+
+Order details:
+ORD-38367  placed 2026-04-28  status: delivered  total: $143.05
+  payment method: card ending 9608  ship to: 659 Elm Lane
+  - carry-on suitcase x1
+  - merino socks, size M x3
+  - spare battery pack x3
+ORD-12647  placed 2026-02-20  status: in transit  total: $221.14
+  payment method: card ending 5190  ship to: 93 Mill St
+  - cast iron skillet x1
+  - gift wrap x1
+  - spare battery pack x2
+  - merino socks, size M x2
+ORD-41991  placed 2026-06-14  status: delivered  total: $64.10
+  payment method: card ending 4521  ship to: 823 Cedar St
+  - standing desk x1
+  - merino socks, size M x2
+  - gift wrap x1
+  - replacement filter cartridge, 3-pack x3
+ORD-78105  placed 2026-05-27  status: delivered  total: $327.46
+  payment method: card ending 4304  ship to: 111 Harbor Rd
+  - bike light set x1
+  - microfiber cloth x2
+  - spare battery pack x2
+
+--- message 1 from Oskar Berg ---
+I'd like to return the camping stove from ORD-78105; it's the wrong size. I'm happy to send screenshots if that helps. The box for ORD-78105 was a bit crushed but the contents were fine. I've been a customer for a few years and usually everything goes smoothly.
+
+Oskar Berg
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Pete (support) ---
+I've updated your shipping address on file. I can see all the orders on your account, including ORD-38367. Screenshots aren't necessary, but thank you for offering. Let me know if anything else looks off.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Oskar Berg ---
+The $240.30 for ORD-12647 came out of my account, and then the same $240.30 came out again the next morning. I changed my shipping address last month, so please double-check you have the new one. Tracking for ORD-41991 hasn't updated since Tuesday.
+
+Oskar Berg
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Pete (support) ---
+For ORD-38367, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering. I've added a note to your account so the next agent has the context.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Pete (support) ---
+Our payment logs show a single capture for ORD-12647. The extra line you saw was an authorization that expired on its own -- no money was taken for it. Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Oskar Berg ---
+Oh, you're right -- I checked my statement this morning and the second line is gone. Only one charge. Sorry for the false alarm! I'm happy to send screenshots if that helps. I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Oskar Berg
+
+--- message 7 from Pete (support) ---
+I can see all the orders on your account, including ORD-38367. If you need an invoice for ORD-41991, you can download it from the Orders page. Thanks for reaching out, and sorry for the trouble.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Oskar Berg ---
+I changed my shipping address last month, so please double-check you have the new one. I'd rather not call; the hold times last time were very long. I've been a customer for a few years and usually everything goes smoothly. My earlier order ORD-38367 arrived fine, no complaints there.
+
+Thanks,
+Oskar Berg
+Sent from my phone -- please excuse typos.
+
+--- message 9 from Pete (support) ---
+If you need an invoice for ORD-38367, you can download it from the Orders page. I've resent the confirmation email for ORD-38367 to the address on file. I can see all the orders on your account, including ORD-38367. Loyalty points post about a week after an order is delivered.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 10 from Oskar Berg ---
+I'm happy to send screenshots if that helps. The noise-cancelling headphones itself is great, for what it's worth. The confirmation email for ORD-41991 went to my spam folder, so I only just saw it. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Oskar Berg
+Sent from my phone -- please excuse typos.
+
+--- message 11 from Pete (support) ---
+Thanks for reaching out, and sorry for the trouble. Tracking updates can lag by a day or two with this carrier. If you need an invoice for ORD-41991, you can download it from the Orders page. Our warehouse shows ORD-78105 left on schedule.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

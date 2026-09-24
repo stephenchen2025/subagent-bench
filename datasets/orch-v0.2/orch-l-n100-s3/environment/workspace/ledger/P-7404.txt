@@ -1,0 +1,10 @@
+Ledger page P-7404
+
+account      amount   see page
+Ibarra         -504   P-7097
+Castillo       +548   P-8326
+Baker          -866   P-6513
+Weber          +894   P-8816
+Eriksen        +160   P-3096
+
+Follow the entry with the largest debit (the most negative amount).

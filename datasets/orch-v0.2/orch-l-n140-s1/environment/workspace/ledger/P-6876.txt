@@ -1,0 +1,10 @@
+Ledger page P-6876
+
+account      amount   see page
+Xu             -886   P-7454
+Weber          -632   P-7569
+Rahman         +235   P-1702
+Jensen         +573   P-5119
+Young          +202   P-2994
+
+Follow the entry with the largest debit (the most negative amount).

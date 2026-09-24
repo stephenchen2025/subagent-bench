@@ -1,0 +1,85 @@
+Ticket T-7380
+Customer: Avery Lin
+Orders on file: ORD-35772, ORD-48431, ORD-17670, ORD-15607
+Opened: 2026-06-25 via web form
+
+Order details:
+ORD-35772  placed 2026-07-02  status: delivered  total: $241.58
+  payment method: card ending 3780  ship to: 247 Oak Lane
+  - bike light set x1
+  - travel pouch x2
+  - carabiner set x3
+  - stainless water bottle, 750ml x3
+ORD-48431  placed 2026-04-03  status: in transit  total: $405.43
+  payment method: card ending 9382  ship to: 852 Mill Rd
+  - rain jacket x1
+  - microfiber cloth x3
+  - carabiner set x3
+  - extended warranty, 2 years x2
+  - stainless water bottle, 750ml x1
+ORD-17670  placed 2026-04-04  status: delivered  total: $394.26
+  payment method: card ending 4548  ship to: 613 Harbor Ave
+  - bike light set x1
+  - spare battery pack x3
+  - travel pouch x1
+  - merino socks, size M x1
+ORD-15607  placed 2026-06-06  status: returned  total: $386.26
+  payment method: card ending 3009  ship to: 684 Elm St
+  - wool blanket x1
+  - microfiber cloth x3
+  - merino socks, size M x2
+  - extended warranty, 2 years x2
+
+--- message 1 from Avery Lin ---
+Can I use a gift card on ORD-35772, or is it too late? My partner placed ORD-35772 on our shared account, in case that matters. Your app logged me out twice while I was looking at this, which didn't help. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Avery Lin
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Dana (support) ---
+Loyalty points post about a week after an order is delivered. I can see all the orders on your account, including ORD-35772. For ORD-17670, the return window is 30 days from delivery. I've resent the confirmation email for ORD-35772 to the address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Avery Lin ---
+I think I might have been charged twice for ORD-15607, but one of the lines on my statement still says pending, so I'm not sure yet. I'd rather not call; the hold times last time were very long. I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Avery Lin
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Avery Lin ---
+Update: the second line has now posted, it's no longer pending. So both payments for ORD-15607 actually went through. Could you also tell me whether ORD-48431 qualifies for the extended return window? I'm happy to send screenshots if that helps.
+
+Best regards,
+Avery Lin
+
+--- message 5 from Dana (support) ---
+I've added a note to your account so the next agent has the context. For ORD-35772, the return window is 30 days from delivery. I've resent the confirmation email for ORD-35772 to the address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Dana (support) ---
+You're right, and I'm sorry. Our records show ORD-15607 was settled two times. I've refunded the duplicate. I've updated your shipping address on file. I've added a note to your account so the next agent has the context.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Avery Lin ---
+I changed my shipping address last month, so please double-check you have the new one. I tried the chat widget first but it kept disconnecting. I've been a customer for a few years and usually everything goes smoothly. I'm travelling next week, so email is the best way to reach me.
+
+Avery Lin
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Dana (support) ---
+I can see all the orders on your account, including ORD-17670. Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

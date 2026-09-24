@@ -1,0 +1,92 @@
+Ticket T-9555
+Customer: Yuki Tanaka
+Orders on file: ORD-22548, ORD-43110, ORD-66513, ORD-27889
+Opened: 2026-01-07 via web form
+
+Order details:
+ORD-22548  placed 2026-01-12  status: in transit  total: $324.07
+  payment method: card ending 5100  ship to: 323 Elm Lane
+  - wool blanket x1
+  - replacement filter cartridge, 3-pack x3
+  - merino socks, size M x2
+  - USB-C charging cable (2m) x2
+  - spare battery pack x1
+ORD-43110  placed 2026-06-17  status: delivered  total: $97.14
+  payment method: card ending 8774  ship to: 787 Elm Ave
+  - desk lamp x1
+  - travel pouch x2
+  - extended warranty, 2 years x3
+  - gift wrap x1
+  - spare battery pack x2
+ORD-66513  placed 2026-03-16  status: delivered  total: $346.23
+  payment method: card ending 8742  ship to: 487 Oak Rd
+  - mechanical keyboard x1
+  - gift wrap x2
+  - travel pouch x2
+  - extended warranty, 2 years x1
+ORD-27889  placed 2026-02-27  status: delivered  total: $25.80
+  payment method: card ending 2694  ship to: 198 Elm Ave
+  - cast iron skillet x1
+  - merino socks, size M x1
+  - gift wrap x1
+
+--- message 1 from Yuki Tanaka ---
+How do I reset my password? The reset link keeps expiring. Is there a way to combine loyalty points from ORD-22548 with my next purchase? Tracking for ORD-43110 hasn't updated since Tuesday. The box for ORD-22548 was a bit crushed but the contents were fine.
+
+Thanks,
+Yuki Tanaka
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Keiko (support) ---
+Thanks for reaching out, and sorry for the trouble. For ORD-66513, the return window is 30 days from delivery. Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Yuki Tanaka ---
+Something looks off with ORD-27889: I see what might be a second payment. The confirmation email for ORD-43110 went to my spam folder, so I only just saw it. I'd rather not call; the hold times last time were very long.
+
+Yuki Tanaka
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Keiko (support) ---
+Our warehouse shows ORD-66513 left on schedule. For ORD-43110, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Yuki Tanaka ---
+Update: the second line has now posted, it's no longer pending. So both payments for ORD-27889 actually went through. I'm happy to send screenshots if that helps. Is there a way to combine loyalty points from ORD-22548 with my next purchase?
+
+Thanks,
+Yuki Tanaka
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Keiko (support) ---
+Screenshots aren't necessary, but thank you for offering. For ORD-43110, the return window is 30 days from delivery. I can see all the orders on your account, including ORD-43110.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Keiko (support) ---
+Confirmed on our side -- ORD-27889 was captured twice by a retry in our checkout. One refund of $230.33 is on its way to you. I've added a note to your account so the next agent has the context. Thanks for reaching out, and sorry for the trouble.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Yuki Tanaka ---
+I'd rather not call; the hold times last time were very long. The box for ORD-66513 was a bit crushed but the contents were fine. I tried the chat widget first but it kept disconnecting. The camping stove itself is great, for what it's worth.
+
+Yuki Tanaka
+(Please reply by email rather than phone if possible.)
+
+--- message 9 from Keiko (support) ---
+Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context. Loyalty points post about a week after an order is delivered. I can see all the orders on your account, including ORD-66513.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

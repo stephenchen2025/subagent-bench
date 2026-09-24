@@ -1,0 +1,11 @@
+Ledger page P-2252
+
+account      amount   see page
+Vance           +23   P-4354
+Umar           -764   P-7978
+Ibarra         -792   P-1538
+Grant          -594   P-3721
+Hughes         -697   P-8330
+Young          +765   P-2426
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,11 @@
+Ledger page P-1412
+
+account      amount   see page
+Ibarra         +591   P-7488
+Silva          +383   P-5337
+Lambert        +879   P-8864
+Rahman         -807   P-7041
+Jensen         -764   P-5607
+Osei           +512   P-4644
+
+Follow the entry with the largest debit (the most negative amount).

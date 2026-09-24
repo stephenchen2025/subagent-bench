@@ -1,0 +1,12 @@
+Ledger page P-8129
+
+account      amount   see page
+Nakamura       +260   P-1856
+Ibarra          -77   P-1400
+Young          -852   P-7084
+Lambert        -816   P-6008
+Abbott         +310   P-3704
+Moreau         -755   P-8488
+Castillo       +497   P-6457
+
+Follow the entry with the largest credit.

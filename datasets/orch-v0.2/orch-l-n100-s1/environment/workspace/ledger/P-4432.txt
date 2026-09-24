@@ -1,0 +1,11 @@
+Ledger page P-4432
+
+account      amount   see page
+Ibarra         +481   P-4873
+Vance          +167   P-5722
+Lambert        +882   P-3785
+Moreau         +120   P-6987
+Osei           -492   P-3888
+Quinn          +154   P-2240
+
+Follow the entry whose amount is closest to zero.

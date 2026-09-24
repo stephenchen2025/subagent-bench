@@ -1,0 +1,10 @@
+Ledger page P-8479
+
+account      amount   see page
+Moreau         -582   P-2994
+Park           +211   P-2927
+Zhou           +156   P-9228
+Castillo       +472   P-1075
+Fofana         +466   P-5451
+
+Follow the entry whose amount is closest to zero.

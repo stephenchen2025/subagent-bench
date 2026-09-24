@@ -1,0 +1,12 @@
+Ledger page P-3528
+
+account      amount   see page
+Zhou           -863   P-6726
+Nakamura       -896   P-2034
+Rahman         +836   P-5075
+Lambert        -602   P-4213
+Xu             +262   P-1648
+Fofana         -586   P-1720
+Grant           +77   P-7621
+
+Follow the entry whose amount is closest to zero.

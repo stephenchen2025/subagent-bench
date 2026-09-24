@@ -1,0 +1,68 @@
+Ticket T-5431
+Customer: Aisha Karim
+Orders on file: ORD-22797, ORD-97888, ORD-65875, ORD-62658
+Opened: 2026-01-07 via web form
+
+Order details:
+ORD-22797  placed 2026-02-22  status: delivered  total: $316.87
+  payment method: card ending 4147  ship to: 535 Mill Rd
+  - water filter pitcher x1
+  - travel pouch x3
+  - replacement filter cartridge, 3-pack x2
+  - merino socks, size M x1
+ORD-97888  placed 2026-01-12  status: in transit  total: $138.50
+  payment method: card ending 8610  ship to: 869 Elm Rd
+  - trail running shoes x1
+  - spare battery pack x3
+  - stainless water bottle, 750ml x2
+ORD-65875  placed 2026-05-06  status: returned  total: $264.31
+  payment method: card ending 5950  ship to: 675 Cedar Rd
+  - standing desk x1
+  - replacement filter cartridge, 3-pack x3
+  - travel pouch x3
+  - stainless water bottle, 750ml x2
+ORD-62658  placed 2026-06-08  status: label created  total: $52.25
+  payment method: card ending 7581  ship to: 16 Cedar Rd
+  - bike light set x1
+  - travel pouch x1
+  - carabiner set x1
+
+--- message 1 from Aisha Karim ---
+How do I reset my password? The reset link keeps expiring. The box for ORD-65875 was a bit crushed but the contents were fine. Tracking for ORD-97888 hasn't updated since Tuesday. I'm happy to send screenshots if that helps.
+
+Thanks,
+Aisha Karim
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Dana (support) ---
+If you need an invoice for ORD-65875, you can download it from the Orders page. For ORD-22797, the return window is 30 days from delivery. Our warehouse shows ORD-97888 left on schedule. I've added a note to your account so the next agent has the context.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Aisha Karim ---
+I tried the chat widget first but it kept disconnecting. My earlier order ORD-22797 arrived fine, no complaints there. I'm happy to send screenshots if that helps. Could you also tell me whether ORD-65875 qualifies for the extended return window?
+
+Aisha Karim
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Dana (support) ---
+I've resent the confirmation email for ORD-65875 to the address on file. Thanks for reaching out, and sorry for the trouble. For ORD-22797, the return window is 30 days from delivery. If you need an invoice for ORD-97888, you can download it from the Orders page.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Aisha Karim ---
+I tried the chat widget first but it kept disconnecting. The box for ORD-22797 was a bit crushed but the contents were fine. I'd rather not call; the hold times last time were very long. I've been a customer for a few years and usually everything goes smoothly.
+
+Aisha Karim
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Dana (support) ---
+I've resent the confirmation email for ORD-65875 to the address on file. Loyalty points post about a week after an order is delivered. I've updated your shipping address on file. Let me know if anything else looks off.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

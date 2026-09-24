@@ -1,0 +1,12 @@
+Ledger page P-4403
+
+account      amount   see page
+Osei           +400   P-5483
+Grant          -677   P-6048
+Ibarra         -209   P-7449
+Park           +752   P-1567
+Kowalski       +533   P-6850
+Dunn           +502   P-1701
+Silva          -897   P-2390
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,10 @@
+Ledger page P-1092
+
+account      amount   see page
+Ibarra         -445   P-1075
+Castillo       +217   P-7688
+Xu             +327   P-1597
+Quinn          +407   P-9840
+Young          +669   P-7084
+
+Follow the entry with the largest credit.

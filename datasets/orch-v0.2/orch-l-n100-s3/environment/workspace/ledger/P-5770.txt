@@ -1,0 +1,11 @@
+Ledger page P-5770
+
+account      amount   see page
+Eriksen         +67   P-4266
+Baker          -443   P-1575
+Nakamura       +139   P-5307
+Jensen         +420   P-5661
+Kowalski       -171   P-2366
+Moreau         -331   P-2121
+
+Follow the entry with the largest debit (the most negative amount).

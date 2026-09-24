@@ -1,0 +1,10 @@
+Ledger page P-4097
+
+account      amount   see page
+Umar           +406   P-3677
+Grant          +188   P-9478
+Weber          +245   P-6064
+Xu              +40   P-3952
+Tanaka          -77   P-3108
+
+Follow the debit belonging to the account that comes last alphabetically.

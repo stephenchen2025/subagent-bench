@@ -1,0 +1,12 @@
+Ledger page P-3318
+
+account      amount   see page
+Grant          +240   P-7854
+Baker          +136   P-4274
+Eriksen        -252   P-2390
+Dunn           -107   P-6264
+Hughes         +464   P-9840
+Quinn          +425   P-8846
+Abbott         -812   P-1210
+
+Follow the entry with the largest debit (the most negative amount).

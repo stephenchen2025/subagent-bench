@@ -1,0 +1,11 @@
+Ledger page P-6089
+
+account      amount   see page
+Xu             +749   P-5259
+Castillo       +823   P-6665
+Nakamura         +2   P-8913
+Vance          +415   P-2760
+Ibarra         -400   P-9647
+Baker          -518   P-7042
+
+Follow the credit belonging to the account that comes first alphabetically.

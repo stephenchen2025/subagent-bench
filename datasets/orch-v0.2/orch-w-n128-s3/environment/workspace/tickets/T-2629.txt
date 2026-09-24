@@ -1,0 +1,85 @@
+Ticket T-2629
+Customer: Samir Patel
+Orders on file: ORD-12446, ORD-42171, ORD-18654, ORD-85448
+Opened: 2026-03-03 via email
+
+Order details:
+ORD-12446  placed 2026-02-17  status: returned  total: $28.23
+  payment method: card ending 2349  ship to: 990 Cedar Ave
+  - cast iron skillet x1
+  - spare battery pack x2
+  - carabiner set x3
+  - replacement filter cartridge, 3-pack x1
+ORD-42171  placed 2026-04-27  status: in transit  total: $96.50
+  payment method: card ending 9489  ship to: 412 Cedar Rd
+  - yoga mat x1
+  - travel pouch x2
+  - gift wrap x2
+ORD-18654  placed 2026-08-11  status: in transit  total: $230.27
+  payment method: card ending 6040  ship to: 60 Elm Ave
+  - standing desk x1
+  - spare battery pack x3
+  - travel pouch x3
+  - extended warranty, 2 years x2
+  - microfiber cloth x3
+ORD-85448  placed 2026-08-13  status: in transit  total: $375.18
+  payment method: card ending 4347  ship to: 715 Elm Rd
+  - standing desk x1
+  - USB-C charging cable (2m) x3
+  - extended warranty, 2 years x2
+  - gift wrap x2
+  - travel pouch x2
+
+--- message 1 from Samir Patel ---
+The espresso grinder from ORD-42171 arrived with a scratch on the side. Can I get a replacement? I'm happy to send screenshots if that helps. The noise-cancelling headphones itself is great, for what it's worth. Is there a way to combine loyalty points from ORD-85448 with my next purchase?
+
+Best regards,
+Samir Patel
+
+--- message 2 from Pete (support) ---
+Thanks for reaching out, and sorry for the trouble. I've updated your shipping address on file. Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Samir Patel ---
+Before I retry the payment on ORD-12446 -- is there any risk of a double charge? Tracking for ORD-42171 hasn't updated since Tuesday. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Samir Patel
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Pete (support) ---
+No, you won't be charged twice: the first attempt for ORD-12446 failed before capture, so retrying is safe. If you need an invoice for ORD-18654, you can download it from the Orders page. Screenshots aren't necessary, but thank you for offering.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Samir Patel ---
+The trail running shoes itself is great, for what it's worth. The box for ORD-18654 was a bit crushed but the contents were fine. My partner placed ORD-42171 on our shared account, in case that matters. Could you also tell me whether ORD-18654 qualifies for the extended return window?
+
+Thanks,
+Samir Patel
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Pete (support) ---
+Loyalty points post about a week after an order is delivered. Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-85448. I've updated your shipping address on file.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Samir Patel ---
+The box for ORD-85448 was a bit crushed but the contents were fine. My earlier order ORD-18654 arrived fine, no complaints there. Your app logged me out twice while I was looking at this, which didn't help. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Samir Patel
+
+--- message 8 from Pete (support) ---
+I've resent the confirmation email for ORD-85448 to the address on file. I can see all the orders on your account, including ORD-18654. Let me know if anything else looks off. Our warehouse shows ORD-18654 left on schedule.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

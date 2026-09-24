@@ -1,0 +1,12 @@
+Ledger page P-7989
+
+account      amount   see page
+Nakamura       -526   P-1695
+Baker          +418   P-2618
+Weber          +654   P-2522
+Moreau         +897   P-8385
+Abbott         +280   P-3274
+Young          -660   P-3247
+Tanaka         +743   P-3677
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,11 @@
+Ledger page P-1579
+
+account      amount   see page
+Ibarra         -198   P-2923
+Silva           +75   P-7264
+Moreau         +449   P-5183
+Fofana         +233   P-4744
+Hughes         -825   P-1320
+Xu             +497   P-8753
+
+Follow the entry whose amount is closest to zero.

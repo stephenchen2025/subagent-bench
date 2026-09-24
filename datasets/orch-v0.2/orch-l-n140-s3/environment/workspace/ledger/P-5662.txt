@@ -1,0 +1,11 @@
+Ledger page P-5662
+
+account      amount   see page
+Umar           +621   P-6843
+Abbott         +131   P-7967
+Nakamura       -692   P-5259
+Lambert        -355   P-4466
+Zhou           +138   P-3948
+Grant           +56   P-3332
+
+Follow the debit belonging to the account that comes last alphabetically.

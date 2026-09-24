@@ -1,0 +1,11 @@
+Ledger page P-5028
+
+account      amount   see page
+Young          -714   P-3054
+Quinn           +82   P-9282
+Xu             +759   P-7835
+Dunn           +870   P-7004
+Jensen         -856   P-8196
+Moreau         -369   P-6606
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,12 @@
+Ledger page P-6684
+
+account      amount   see page
+Osei           -802   P-6248
+Ibarra         -740   P-7696
+Dunn           +321   P-6824
+Xu             -805   P-4728
+Kowalski       -274   P-3659
+Castillo       +884   P-9380
+Baker          +818   P-6472
+
+Follow the entry with the largest credit.

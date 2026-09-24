@@ -1,0 +1,11 @@
+Ledger page P-7350
+
+account      amount   see page
+Rahman         +288   P-3698
+Eriksen        -340   P-4334
+Osei           -253   P-5456
+Dunn           +766   P-7222
+Hughes         -254   P-7970
+Weber          -373   P-4966
+
+Follow the entry with the second-largest amount.

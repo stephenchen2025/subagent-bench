@@ -1,0 +1,82 @@
+Ticket T-7947
+Customer: Ravi Iyer
+Orders on file: ORD-82282, ORD-27234, ORD-60141, ORD-47847
+Opened: 2026-08-09 via email
+
+Order details:
+ORD-82282  placed 2026-08-18  status: label created  total: $193.99
+  payment method: card ending 7064  ship to: 125 Harbor Lane
+  - yoga mat x1
+  - carabiner set x2
+  - USB-C charging cable (2m) x1
+ORD-27234  placed 2026-01-02  status: delivered  total: $355.50
+  payment method: card ending 5759  ship to: 353 Elm Rd
+  - desk lamp x1
+  - USB-C charging cable (2m) x3
+  - carabiner set x2
+  - microfiber cloth x1
+ORD-60141  placed 2026-03-13  status: delivered  total: $353.18
+  payment method: card ending 1120  ship to: 841 Elm Rd
+  - espresso grinder x1
+  - merino socks, size M x1
+  - extended warranty, 2 years x3
+  - gift wrap x2
+ORD-47847  placed 2026-08-26  status: in transit  total: $476.21
+  payment method: card ending 3566  ship to: 897 Mill Ave
+  - blender x1
+  - microfiber cloth x3
+  - stainless water bottle, 750ml x2
+  - replacement filter cartridge, 3-pack x1
+
+--- message 1 from Ravi Iyer ---
+I need to change the delivery address for ORD-47847 before it ships. I changed my shipping address last month, so please double-check you have the new one. I'd rather not call; the hold times last time were very long. I'm travelling next week, so email is the best way to reach me.
+
+Ravi Iyer
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Luis (support) ---
+For ORD-27234, the return window is 30 days from delivery. I've updated your shipping address on file. I can see all the orders on your account, including ORD-27234. Let me know if anything else looks off.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ravi Iyer ---
+I see two charges on my bank this week, one for ORD-60141 and one for ORD-82282. Both are correct -- I ordered twice on purpose -- but could you send me the invoices for my expense report? I'd rather not call; the hold times last time were very long. I changed my shipping address last month, so please double-check you have the new one.
+
+Ravi Iyer
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Luis (support) ---
+Our warehouse shows ORD-27234 left on schedule. If you need an invoice for ORD-47847, you can download it from the Orders page. For ORD-82282, the return window is 30 days from delivery.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Ravi Iyer ---
+Your app logged me out twice while I was looking at this, which didn't help. Is there a way to combine loyalty points from ORD-82282 with my next purchase? The confirmation email for ORD-47847 went to my spam folder, so I only just saw it. Tracking for ORD-82282 hasn't updated since Tuesday.
+
+Ravi Iyer
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Luis (support) ---
+Loyalty points post about a week after an order is delivered. I can see all the orders on your account, including ORD-82282. Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Ravi Iyer ---
+I tried the chat widget first but it kept disconnecting. My earlier order ORD-47847 arrived fine, no complaints there. The trail running shoes itself is great, for what it's worth. Could you also tell me whether ORD-82282 qualifies for the extended return window?
+
+Thanks,
+Ravi Iyer
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Luis (support) ---
+Our warehouse shows ORD-82282 left on schedule. Loyalty points post about a week after an order is delivered. Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

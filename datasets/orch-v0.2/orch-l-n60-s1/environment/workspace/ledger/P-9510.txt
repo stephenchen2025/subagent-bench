@@ -1,0 +1,10 @@
+Ledger page P-9510
+
+account      amount   see page
+Castillo       +202   P-2047
+Kowalski       -108   P-7200
+Grant          +238   P-6360
+Vance          +386   P-3530
+Quinn           -90   P-9322
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,11 @@
+Ledger page P-7067
+
+account      amount   see page
+Osei           -830   P-9719
+Umar           +662   P-7013
+Lambert         +44   P-8020
+Vance          +614   P-6899
+Dunn            +45   P-3340
+Weber          -294   P-9573
+
+Follow the entry whose amount is closest to zero.

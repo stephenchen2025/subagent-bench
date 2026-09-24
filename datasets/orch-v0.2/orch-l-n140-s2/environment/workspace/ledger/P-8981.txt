@@ -1,0 +1,12 @@
+Ledger page P-8981
+
+account      amount   see page
+Tanaka         +275   P-5751
+Nakamura       -208   P-1551
+Umar           +757   P-5945
+Dunn           -822   P-2638
+Xu             +257   P-8335
+Abbott         -886   P-9375
+Quinn           +14   P-3102
+
+Follow the entry whose amount is closest to zero.

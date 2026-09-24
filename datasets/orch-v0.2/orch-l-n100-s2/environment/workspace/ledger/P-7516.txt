@@ -1,0 +1,10 @@
+Ledger page P-7516
+
+account      amount   see page
+Osei           -324   P-5456
+Hughes         -827   P-9675
+Zhou           +776   P-6320
+Park           -893   P-9691
+Grant          +680   P-1759
+
+Follow the entry with the largest debit (the most negative amount).

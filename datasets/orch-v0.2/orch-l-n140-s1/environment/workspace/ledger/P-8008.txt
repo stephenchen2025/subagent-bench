@@ -1,0 +1,12 @@
+Ledger page P-8008
+
+account      amount   see page
+Jensen          +23   P-4885
+Hughes         -561   P-7755
+Dunn           +717   P-3005
+Eriksen        +236   P-4478
+Grant           +34   P-1092
+Park           -711   P-3721
+Weber          +632   P-3990
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,10 @@
+Ledger page P-4619
+
+account      amount   see page
+Tanaka         +266   P-8523
+Umar           -528   P-8145
+Weber          -893   P-8160
+Osei           +327   P-5230
+Fofana         -144   P-6868
+
+Follow the entry with the largest credit.

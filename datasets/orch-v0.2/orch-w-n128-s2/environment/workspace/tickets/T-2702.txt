@@ -1,0 +1,103 @@
+Ticket T-2702
+Customer: Jordan Okafor
+Orders on file: ORD-15441, ORD-50343, ORD-47207, ORD-46247
+Opened: 2026-08-13 via web form
+
+Order details:
+ORD-15441  placed 2026-07-01  status: delivered  total: $340.11
+  payment method: card ending 5034  ship to: 377 Mill Rd
+  - water filter pitcher x1
+  - carabiner set x3
+  - USB-C charging cable (2m) x3
+  - travel pouch x1
+ORD-50343  placed 2026-08-07  status: label created  total: $413.60
+  payment method: card ending 3386  ship to: 626 Harbor Rd
+  - water filter pitcher x1
+  - replacement filter cartridge, 3-pack x1
+  - microfiber cloth x3
+  - gift wrap x2
+  - travel pouch x3
+ORD-47207  placed 2026-02-06  status: delivered  total: $403.30
+  payment method: card ending 7824  ship to: 462 Harbor Ave
+  - desk lamp x1
+  - carabiner set x3
+  - gift wrap x3
+  - replacement filter cartridge, 3-pack x1
+ORD-46247  placed 2026-02-01  status: label created  total: $472.55
+  payment method: card ending 4391  ship to: 218 Cedar Lane
+  - yoga mat x1
+  - extended warranty, 2 years x1
+  - carabiner set x3
+  - travel pouch x1
+
+--- message 1 from Jordan Okafor ---
+How do I reset my password? The reset link keeps expiring. The confirmation email for ORD-47207 went to my spam folder, so I only just saw it. The box for ORD-47207 was a bit crushed but the contents were fine. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Jordan Okafor
+
+--- message 2 from Marcus (support) ---
+Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off. I can see all the orders on your account, including ORD-47207. Our warehouse shows ORD-15441 left on schedule.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Jordan Okafor ---
+My card was charged two times for order ORD-46247. Tracking for ORD-15441 hasn't updated since Tuesday. My partner placed ORD-50343 on our shared account, in case that matters.
+
+Jordan Okafor
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Marcus (support) ---
+I can see all the orders on your account, including ORD-47207. I've resent the confirmation email for ORD-47207 to the address on file. I've added a note to your account so the next agent has the context.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Marcus (support) ---
+I looked into ORD-46247: the second line is a pre-authorization hold from when the first card attempt was declined. It was never captured and it's already been released, so you were only charged once. I can see all the orders on your account, including ORD-47207. Thanks for reaching out, and sorry for the trouble.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Jordan Okafor ---
+I'm travelling next week, so email is the best way to reach me. I've been a customer for a few years and usually everything goes smoothly. The yoga mat itself is great, for what it's worth.
+
+Best regards,
+Jordan Okafor
+
+--- message 7 from Jordan Okafor ---
+Thanks, I see it now: one payment for ORD-46247, the other one disappeared. All good. Could you also tell me whether ORD-50343 qualifies for the extended return window? My partner placed ORD-15441 on our shared account, in case that matters.
+
+Thanks,
+Jordan Okafor
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Jordan Okafor ---
+I'm travelling next week, so email is the best way to reach me. The confirmation email for ORD-47207 went to my spam folder, so I only just saw it. The bike light set itself is great, for what it's worth. My earlier order ORD-47207 arrived fine, no complaints there.
+
+Jordan Okafor
+(Please reply by email rather than phone if possible.)
+
+--- message 9 from Marcus (support) ---
+I've updated your shipping address on file. Loyalty points post about a week after an order is delivered. For ORD-50343, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 10 from Jordan Okafor ---
+The box for ORD-50343 was a bit crushed but the contents were fine. I'm travelling next week, so email is the best way to reach me. My earlier order ORD-47207 arrived fine, no complaints there. I'd rather not call; the hold times last time were very long.
+
+Jordan Okafor
+(Please reply by email rather than phone if possible.)
+
+--- message 11 from Marcus (support) ---
+Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-50343. If you need an invoice for ORD-50343, you can download it from the Orders page. I've resent the confirmation email for ORD-47207 to the address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

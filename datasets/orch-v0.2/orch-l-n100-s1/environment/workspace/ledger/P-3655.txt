@@ -1,0 +1,11 @@
+Ledger page P-3655
+
+account      amount   see page
+Vance          +879   P-9050
+Young          -710   P-5865
+Lambert        +526   P-2098
+Rahman         +378   P-8913
+Dunn           +704   P-3933
+Osei           -624   P-4737
+
+Follow the debit belonging to the account that comes last alphabetically.

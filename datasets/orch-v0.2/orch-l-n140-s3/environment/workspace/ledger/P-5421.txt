@@ -1,0 +1,10 @@
+Ledger page P-5421
+
+account      amount   see page
+Zhou           +665   P-6667
+Vance          -148   P-4575
+Tanaka         -711   P-3914
+Grant           -27   P-6859
+Nakamura        -71   P-7987
+
+Follow the entry with the largest debit (the most negative amount).

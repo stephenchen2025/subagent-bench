@@ -1,0 +1,91 @@
+Ticket T-5805
+Customer: Jordan Okafor
+Orders on file: ORD-30959, ORD-26620, ORD-64291, ORD-33359
+Opened: 2026-01-14 via email
+
+Order details:
+ORD-30959  placed 2026-07-22  status: delivered  total: $285.70
+  payment method: card ending 2800  ship to: 838 Oak Lane
+  - noise-cancelling headphones x1
+  - extended warranty, 2 years x3
+  - microfiber cloth x3
+ORD-26620  placed 2026-05-16  status: label created  total: $285.30
+  payment method: card ending 3010  ship to: 958 Elm St
+  - wool blanket x1
+  - spare battery pack x3
+  - stainless water bottle, 750ml x2
+  - USB-C charging cable (2m) x2
+ORD-64291  placed 2026-04-09  status: delivered  total: $206.38
+  payment method: card ending 4548  ship to: 472 Oak St
+  - standing desk x1
+  - gift wrap x2
+  - extended warranty, 2 years x1
+  - carabiner set x3
+  - stainless water bottle, 750ml x2
+ORD-33359  placed 2026-06-14  status: returned  total: $77.60
+  payment method: card ending 2590  ship to: 967 Mill Rd
+  - blender x1
+  - merino socks, size M x1
+  - gift wrap x1
+  - USB-C charging cable (2m) x1
+
+--- message 1 from Jordan Okafor ---
+The mechanical keyboard from ORD-64291 arrived with a scratch on the side. Can I get a replacement? I tried the chat widget first but it kept disconnecting. My earlier order ORD-26620 arrived fine, no complaints there. I'd rather not call; the hold times last time were very long.
+
+Jordan Okafor
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Pete (support) ---
+Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-33359 to the address on file. Our warehouse shows ORD-64291 left on schedule. Tracking updates can lag by a day or two with this carrier.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Jordan Okafor ---
+The checkout page for ORD-30959 timed out. If I try to pay again, will I end up being charged twice? Is there a way to combine loyalty points from ORD-26620 with my next purchase? I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Jordan Okafor
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Pete (support) ---
+No, you won't be charged twice: the first attempt for ORD-30959 failed before capture, so retrying is safe. Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Jordan Okafor ---
+I'm happy to send screenshots if that helps. Tracking for ORD-26620 hasn't updated since Tuesday. I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Jordan Okafor
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Jordan Okafor ---
+I tried the chat widget first but it kept disconnecting. Could you also tell me whether ORD-26620 qualifies for the extended return window? I changed my shipping address last month, so please double-check you have the new one. The desk lamp itself is great, for what it's worth.
+
+Jordan Okafor
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Pete (support) ---
+If you need an invoice for ORD-64291, you can download it from the Orders page. I've added a note to your account so the next agent has the context. Screenshots aren't necessary, but thank you for offering. Our warehouse shows ORD-26620 left on schedule.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Jordan Okafor ---
+I'd rather not call; the hold times last time were very long. My earlier order ORD-26620 arrived fine, no complaints there. Is there a way to combine loyalty points from ORD-64291 with my next purchase? I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Jordan Okafor
+Sent from my phone -- please excuse typos.
+
+--- message 9 from Pete (support) ---
+I've added a note to your account so the next agent has the context. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-33359 left on schedule. I've updated your shipping address on file.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

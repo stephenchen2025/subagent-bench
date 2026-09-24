@@ -1,0 +1,10 @@
+Ledger page P-2282
+
+account      amount   see page
+Hughes         -563   P-7015
+Tanaka         -327   P-8470
+Silva          +347   P-4102
+Umar           -808   P-6988
+Zhou            -20   P-6512
+
+Follow the entry with the largest credit.

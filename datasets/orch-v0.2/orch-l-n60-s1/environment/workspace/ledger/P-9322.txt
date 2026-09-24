@@ -1,0 +1,11 @@
+Ledger page P-9322
+
+account      amount   see page
+Ibarra         +493   P-6020
+Weber          -368   P-5226
+Kowalski        +11   P-2941
+Xu             -757   P-5691
+Zhou           -564   P-6525
+Quinn          -183   P-1566
+
+Follow the debit belonging to the account that comes last alphabetically.

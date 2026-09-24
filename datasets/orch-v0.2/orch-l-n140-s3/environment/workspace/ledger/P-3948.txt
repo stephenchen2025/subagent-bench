@@ -1,0 +1,10 @@
+Ledger page P-3948
+
+account      amount   see page
+Hughes         -357   P-6841
+Fofana         +508   P-5238
+Vance          +561   P-7812
+Dunn           +806   P-7611
+Osei           +652   P-9022
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,12 @@
+Ledger page P-3472
+
+account      amount   see page
+Jensen         -408   P-1518
+Young          +531   P-4918
+Nakamura       -201   P-2578
+Zhou           +300   P-7339
+Grant          +563   P-3326
+Moreau         +453   P-1725
+Rahman         +587   P-7391
+
+Follow the debit belonging to the account that comes last alphabetically.

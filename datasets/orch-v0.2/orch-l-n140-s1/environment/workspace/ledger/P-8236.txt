@@ -1,0 +1,12 @@
+Ledger page P-8236
+
+account      amount   see page
+Weber          +857   P-7969
+Dunn           -274   P-2443
+Zhou            -89   P-7524
+Quinn          +584   P-8046
+Kowalski        +60   P-6202
+Castillo       +435   P-4473
+Vance          +228   P-6163
+
+Follow the entry whose amount is closest to zero.

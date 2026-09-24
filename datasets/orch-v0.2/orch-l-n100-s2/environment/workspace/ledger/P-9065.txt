@@ -1,0 +1,12 @@
+Ledger page P-9065
+
+account      amount   see page
+Quinn          -761   P-6654
+Moreau         +106   P-2884
+Grant          -343   P-8045
+Fofana         -431   P-8502
+Kowalski       +553   P-2480
+Osei           +572   P-6695
+Tanaka         -235   P-3657
+
+Follow the entry with the largest debit (the most negative amount).

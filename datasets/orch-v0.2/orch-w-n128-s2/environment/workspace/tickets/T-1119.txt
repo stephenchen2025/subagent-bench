@@ -1,0 +1,83 @@
+Ticket T-1119
+Customer: Jordan Okafor
+Orders on file: ORD-13448, ORD-26597, ORD-68582, ORD-81503
+Opened: 2026-08-19 via web form
+
+Order details:
+ORD-13448  placed 2026-03-18  status: returned  total: $422.73
+  payment method: card ending 1518  ship to: 546 Cedar Rd
+  - desk lamp x1
+  - carabiner set x3
+  - travel pouch x1
+ORD-26597  placed 2026-04-03  status: label created  total: $303.09
+  payment method: card ending 8123  ship to: 945 Elm Rd
+  - cast iron skillet x1
+  - travel pouch x3
+  - gift wrap x1
+  - merino socks, size M x2
+ORD-68582  placed 2026-01-28  status: delivered  total: $27.68
+  payment method: card ending 1582  ship to: 623 Elm Lane
+  - carry-on suitcase x1
+  - USB-C charging cable (2m) x2
+  - stainless water bottle, 750ml x2
+  - replacement filter cartridge, 3-pack x3
+ORD-81503  placed 2026-05-24  status: delivered  total: $431.72
+  payment method: card ending 9327  ship to: 864 Cedar St
+  - camping stove x1
+  - carabiner set x2
+  - microfiber cloth x1
+
+--- message 1 from Jordan Okafor ---
+How do I reset my password? The reset link keeps expiring. I changed my shipping address last month, so please double-check you have the new one. The confirmation email for ORD-68582 went to my spam folder, so I only just saw it. Tracking for ORD-81503 hasn't updated since Tuesday.
+
+Thanks,
+Jordan Okafor
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Arjun (support) ---
+I've resent the confirmation email for ORD-68582 to the address on file. Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier. If you need an invoice for ORD-13448, you can download it from the Orders page.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Jordan Okafor ---
+The checkout page for ORD-26597 timed out. If I try to pay again, will I end up being charged twice? My partner placed ORD-81503 on our shared account, in case that matters. I'm happy to send screenshots if that helps.
+
+Thanks,
+Jordan Okafor
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Arjun (support) ---
+Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-13448 to the address on file. Tracking updates can lag by a day or two with this carrier.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Arjun (support) ---
+Retrying is safe. Our system blocks a second capture on ORD-26597, so a double charge can't happen. I've added a note to your account so the next agent has the context. Let me know if anything else looks off.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Jordan Okafor ---
+I'd rather not call; the hold times last time were very long. Tracking for ORD-68582 hasn't updated since Tuesday. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Jordan Okafor
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Jordan Okafor ---
+Tracking for ORD-13448 hasn't updated since Tuesday. My earlier order ORD-13448 arrived fine, no complaints there. My partner placed ORD-68582 on our shared account, in case that matters. Your app logged me out twice while I was looking at this, which didn't help.
+
+Best regards,
+Jordan Okafor
+
+--- message 8 from Arjun (support) ---
+I've updated your shipping address on file. I can see all the orders on your account, including ORD-68582. If you need an invoice for ORD-13448, you can download it from the Orders page. I've resent the confirmation email for ORD-13448 to the address on file.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

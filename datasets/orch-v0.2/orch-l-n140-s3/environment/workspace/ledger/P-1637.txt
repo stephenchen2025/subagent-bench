@@ -1,0 +1,12 @@
+Ledger page P-1637
+
+account      amount   see page
+Baker          -254   P-3147
+Vance          +878   P-3635
+Ibarra         +126   P-7671
+Umar           +372   P-5019
+Tanaka         +728   P-6700
+Weber          +522   P-8146
+Fofana         +712   P-5120
+
+Follow the entry with the second-largest amount.

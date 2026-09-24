@@ -1,0 +1,12 @@
+Ledger page P-3624
+
+account      amount   see page
+Dunn           -769   P-2808
+Park           +566   P-9109
+Grant          +207   P-9719
+Vance          +550   P-8896
+Castillo       +479   P-4901
+Jensen         -520   P-2039
+Quinn          +390   P-3192
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,12 @@
+Ledger page P-9847
+
+account      amount   see page
+Nakamura       +104   P-4234
+Eriksen         -55   P-5692
+Fofana         +212   P-7464
+Young          +611   P-8290
+Quinn          -744   P-6140
+Umar           +761   P-6234
+Silva           -61   P-8027
+
+Follow the entry whose amount is closest to zero.

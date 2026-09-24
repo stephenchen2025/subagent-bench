@@ -1,0 +1,10 @@
+Ledger page P-4454
+
+account      amount   see page
+Eriksen        +384   P-3866
+Xu             -768   P-4261
+Dunn           +308   P-9680
+Moreau          +27   P-2238
+Nakamura       +854   P-4535
+
+Follow the debit belonging to the account that comes last alphabetically.

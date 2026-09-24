@@ -1,0 +1,11 @@
+Ledger page P-4348
+
+account      amount   see page
+Jensen          -58   P-1702
+Zhou           -389   P-4885
+Quinn          -522   P-6008
+Eriksen        -193   P-6008
+Abbott         +510   P-8008
+Weber           -33   P-5535
+
+Follow the credit belonging to the account that comes first alphabetically.

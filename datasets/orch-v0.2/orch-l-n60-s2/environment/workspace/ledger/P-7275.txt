@@ -1,0 +1,10 @@
+Ledger page P-7275
+
+account      amount   see page
+Weber          -240   P-1746
+Kowalski        -24   P-3727
+Umar           +112   P-4737
+Xu             -742   P-2689
+Silva          -611   P-9850
+
+Follow the debit belonging to the account that comes last alphabetically.

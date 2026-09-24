@@ -1,0 +1,11 @@
+Ledger page P-3274
+
+account      amount   see page
+Moreau         -268   P-7685
+Hughes          +15   P-9256
+Rahman         -117   P-2178
+Ibarra         +100   P-8165
+Tanaka         -843   P-4704
+Castillo       -319   P-8834
+
+Follow the entry with the largest credit.

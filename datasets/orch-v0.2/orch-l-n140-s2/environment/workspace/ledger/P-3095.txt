@@ -1,0 +1,11 @@
+Ledger page P-3095
+
+account      amount   see page
+Park           +424   P-1295
+Eriksen        +246   P-9845
+Vance           -87   P-8443
+Fofana         -120   P-9920
+Osei           -154   P-2196
+Weber          +756   P-4823
+
+Follow the entry with the second-largest amount.

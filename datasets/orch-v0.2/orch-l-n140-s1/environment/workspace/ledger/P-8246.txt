@@ -1,0 +1,11 @@
+Ledger page P-8246
+
+account      amount   see page
+Vance          -801   P-3087
+Baker          +579   P-1165
+Hughes         +722   P-4452
+Quinn          -189   P-7546
+Moreau         -447   P-3005
+Umar           -715   P-3519
+
+Follow the entry with the largest credit.

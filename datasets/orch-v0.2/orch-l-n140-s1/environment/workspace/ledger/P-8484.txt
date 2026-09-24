@@ -1,0 +1,11 @@
+Ledger page P-8484
+
+account      amount   see page
+Xu             -463   P-8621
+Nakamura       -797   P-5985
+Silva          +334   P-3336
+Lambert        +309   P-5982
+Abbott         +542   P-6874
+Rahman         -349   P-4305
+
+Follow the entry with the largest credit.

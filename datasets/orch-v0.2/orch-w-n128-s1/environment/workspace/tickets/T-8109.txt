@@ -1,0 +1,58 @@
+Ticket T-8109
+Customer: Chloe Martin
+Orders on file: ORD-23917, ORD-48209, ORD-93840, ORD-36485
+Opened: 2026-02-01 via chat transcript
+
+Order details:
+ORD-23917  placed 2026-05-28  status: delivered  total: $33.49
+  payment method: card ending 3045  ship to: 148 Mill Lane
+  - blender x1
+  - replacement filter cartridge, 3-pack x1
+  - USB-C charging cable (2m) x1
+  - microfiber cloth x3
+  - stainless water bottle, 750ml x1
+ORD-48209  placed 2026-04-18  status: delivered  total: $387.31
+  payment method: card ending 4284  ship to: 630 Mill Ave
+  - rain jacket x1
+  - carabiner set x3
+  - replacement filter cartridge, 3-pack x2
+  - travel pouch x3
+ORD-93840  placed 2026-07-12  status: returned  total: $443.74
+  payment method: card ending 2593  ship to: 971 Cedar Lane
+  - desk lamp x1
+  - carabiner set x1
+  - spare battery pack x1
+  - stainless water bottle, 750ml x2
+  - extended warranty, 2 years x1
+ORD-36485  placed 2026-01-05  status: in transit  total: $167.94
+  payment method: card ending 3278  ship to: 474 Cedar St
+  - noise-cancelling headphones x1
+  - travel pouch x2
+  - extended warranty, 2 years x3
+
+--- message 1 from Chloe Martin ---
+How do I reset my password? The reset link keeps expiring. My partner placed ORD-23917 on our shared account, in case that matters. I'm happy to send screenshots if that helps. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Chloe Martin
+
+--- message 2 from Marcus (support) ---
+Thanks for reaching out, and sorry for the trouble. I've updated your shipping address on file. Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Chloe Martin ---
+The box for ORD-36485 was a bit crushed but the contents were fine. The cast iron skillet itself is great, for what it's worth. Tracking for ORD-23917 hasn't updated since Tuesday. I'm happy to send screenshots if that helps.
+
+Thanks,
+Chloe Martin
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Marcus (support) ---
+Our warehouse shows ORD-93840 left on schedule. I can see all the orders on your account, including ORD-36485. Tracking updates can lag by a day or two with this carrier. Thanks for reaching out, and sorry for the trouble.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

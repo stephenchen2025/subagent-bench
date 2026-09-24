@@ -1,0 +1,11 @@
+Ledger page P-2711
+
+account      amount   see page
+Umar           -569   P-8198
+Zhou            +49   P-4810
+Ibarra          +56   P-7755
+Moreau         +145   P-2687
+Silva          -699   P-8313
+Hughes         +239   P-4111
+
+Follow the debit belonging to the account that comes last alphabetically.

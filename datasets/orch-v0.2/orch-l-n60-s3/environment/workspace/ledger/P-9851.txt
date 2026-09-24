@@ -1,0 +1,11 @@
+Ledger page P-9851
+
+account      amount   see page
+Ibarra         +399   P-8715
+Fofana         +692   P-4898
+Park           -404   P-1897
+Kowalski       +638   P-8865
+Xu             +103   P-6337
+Silva          -130   P-9454
+
+Follow the entry with the largest debit (the most negative amount).

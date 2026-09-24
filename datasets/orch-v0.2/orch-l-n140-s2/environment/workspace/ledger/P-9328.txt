@@ -1,0 +1,11 @@
+Ledger page P-9328
+
+account      amount   see page
+Ibarra         -618   P-4963
+Nakamura       +440   P-4512
+Tanaka         +382   P-8493
+Hughes          -68   P-1575
+Jensen         +396   P-7946
+Weber          +252   P-4962
+
+Follow the entry with the second-largest amount.

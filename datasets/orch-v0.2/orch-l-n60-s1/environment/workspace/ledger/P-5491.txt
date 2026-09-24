@@ -1,0 +1,12 @@
+Ledger page P-5491
+
+account      amount   see page
+Osei           +178   P-4560
+Castillo         +7   P-1210
+Baker           +62   P-9917
+Park           -883   P-8481
+Silva          +370   P-2943
+Nakamura       -237   P-7618
+Ibarra         +209   P-6276
+
+Follow the entry with the largest credit.

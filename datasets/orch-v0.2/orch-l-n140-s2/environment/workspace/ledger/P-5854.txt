@@ -1,0 +1,11 @@
+Ledger page P-5854
+
+account      amount   see page
+Eriksen        -758   P-5345
+Kowalski        +86   P-2765
+Nakamura       +558   P-3573
+Rahman         +495   P-8495
+Vance           -76   P-6587
+Hughes         -514   P-4802
+
+Follow the entry with the largest debit (the most negative amount).

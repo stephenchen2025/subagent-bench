@@ -1,0 +1,12 @@
+Ledger page P-3866
+
+account      amount   see page
+Zhou           -325   P-7911
+Fofana         -586   P-5211
+Tanaka         +701   P-1428
+Eriksen        +488   P-3866
+Park           -127   P-9099
+Quinn          -619   P-5186
+Moreau         -829   P-2904
+
+Follow the entry with the second-largest amount.

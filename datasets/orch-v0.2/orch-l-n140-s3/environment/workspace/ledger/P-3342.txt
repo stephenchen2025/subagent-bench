@@ -1,0 +1,10 @@
+Ledger page P-3342
+
+account      amount   see page
+Ibarra         -144   P-3948
+Park           +613   P-6186
+Hughes         +305   P-3733
+Fofana         +395   P-2349
+Nakamura       -603   P-3948
+
+Follow the entry with the second-largest amount.

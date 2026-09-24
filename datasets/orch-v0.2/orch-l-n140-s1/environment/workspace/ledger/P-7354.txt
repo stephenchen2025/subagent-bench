@@ -1,0 +1,11 @@
+Ledger page P-7354
+
+account      amount   see page
+Nakamura       +779   P-9906
+Young          +559   P-3552
+Quinn          -527   P-2646
+Abbott         -327   P-9351
+Grant          -575   P-4354
+Jensen         +224   P-2311
+
+Follow the debit belonging to the account that comes last alphabetically.

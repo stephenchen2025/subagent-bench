@@ -1,0 +1,10 @@
+Ledger page P-3960
+
+account      amount   see page
+Dunn             +2   P-1211
+Nakamura       +413   P-1287
+Xu              +34   P-9632
+Grant          +147   P-4635
+Eriksen        -375   P-6930
+
+Follow the debit belonging to the account that comes last alphabetically.

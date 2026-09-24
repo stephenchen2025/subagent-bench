@@ -1,0 +1,12 @@
+Ledger page P-9614
+
+account      amount   see page
+Jensen           -5   P-5228
+Silva           -40   P-7642
+Moreau         +793   P-3749
+Castillo       +623   P-8784
+Abbott         +205   P-5081
+Hughes         +841   P-2387
+Lambert        +408   P-8222
+
+Follow the entry with the largest debit (the most negative amount).

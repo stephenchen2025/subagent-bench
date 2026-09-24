@@ -1,0 +1,56 @@
+Ticket T-4906
+Customer: Avery Lin
+Orders on file: ORD-47170, ORD-74728, ORD-91774, ORD-48014
+Opened: 2026-03-20 via web form
+
+Order details:
+ORD-47170  placed 2026-06-18  status: returned  total: $281.85
+  payment method: card ending 6047  ship to: 986 Oak Rd
+  - wool blanket x1
+  - replacement filter cartridge, 3-pack x1
+  - merino socks, size M x2
+  - travel pouch x3
+ORD-74728  placed 2026-02-08  status: delivered  total: $125.78
+  payment method: card ending 8327  ship to: 542 Harbor Lane
+  - desk lamp x1
+  - gift wrap x1
+  - extended warranty, 2 years x3
+  - microfiber cloth x2
+ORD-91774  placed 2026-05-01  status: delivered  total: $445.31
+  payment method: card ending 3465  ship to: 887 Oak Rd
+  - cast iron skillet x1
+  - spare battery pack x2
+  - microfiber cloth x3
+  - carabiner set x3
+ORD-48014  placed 2026-01-28  status: in transit  total: $29.52
+  payment method: card ending 8861  ship to: 815 Cedar Ave
+  - wool blanket x1
+  - spare battery pack x1
+  - travel pouch x2
+  - extended warranty, 2 years x2
+
+--- message 1 from Avery Lin ---
+I'd like to return the espresso grinder from ORD-74728; it's the wrong size. I'm happy to send screenshots if that helps. Your app logged me out twice while I was looking at this, which didn't help. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Avery Lin
+
+--- message 2 from Rosa (support) ---
+Let me know if anything else looks off. I've resent the confirmation email for ORD-48014 to the address on file. If you need an invoice for ORD-91774, you can download it from the Orders page. I can see all the orders on your account, including ORD-74728.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Avery Lin ---
+Your app logged me out twice while I was looking at this, which didn't help. My partner placed ORD-48014 on our shared account, in case that matters. Could you also tell me whether ORD-91774 qualifies for the extended return window? My earlier order ORD-74728 arrived fine, no complaints there.
+
+Best regards,
+Avery Lin
+
+--- message 4 from Rosa (support) ---
+Let me know if anything else looks off. I've added a note to your account so the next agent has the context. Screenshots aren't necessary, but thank you for offering. Our warehouse shows ORD-74728 left on schedule.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

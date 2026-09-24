@@ -1,0 +1,11 @@
+Ledger page P-3982
+
+account      amount   see page
+Eriksen        +284   P-6317
+Fofana         -570   P-1719
+Zhou           -674   P-4722
+Tanaka         +615   P-7551
+Jensen         -675   P-2274
+Ibarra          -19   P-9234
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,10 @@
+Ledger page P-9792
+
+account      amount   see page
+Nakamura       -140   P-6953
+Dunn           +415   P-6996
+Umar           +893   P-6115
+Zhou           -378   P-4342
+Silva          -556   P-5568
+
+Follow the entry with the second-largest amount.

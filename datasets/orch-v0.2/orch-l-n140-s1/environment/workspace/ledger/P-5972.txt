@@ -1,0 +1,12 @@
+Ledger page P-5972
+
+account      amount   see page
+Tanaka          +85   P-3989
+Dunn            +51   P-9443
+Baker          +707   P-5172
+Abbott         +434   P-7198
+Eriksen        +610   P-8409
+Kowalski       -661   P-2530
+Hughes          -82   P-3216
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,11 @@
+Ledger page P-8279
+
+account      amount   see page
+Castillo        +52   P-8300
+Rahman         +203   P-5076
+Weber          +586   P-8165
+Hughes         -554   P-3834
+Baker          +149   P-1082
+Umar           +232   P-1195
+
+Follow the debit belonging to the account that comes last alphabetically.

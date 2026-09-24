@@ -1,0 +1,12 @@
+Ledger page P-3800
+
+account      amount   see page
+Zhou           -206   P-8307
+Park           +807   P-6706
+Fofana         -851   P-9920
+Ibarra          -73   P-7729
+Hughes         +879   P-4522
+Umar            -26   P-5520
+Castillo       -553   P-8020
+
+Follow the debit belonging to the account that comes last alphabetically.

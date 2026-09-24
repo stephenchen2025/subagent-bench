@@ -1,0 +1,56 @@
+Ticket T-8963
+Customer: Ravi Iyer
+Orders on file: ORD-57404, ORD-59916, ORD-10112, ORD-82580
+Opened: 2026-02-12 via email
+
+Order details:
+ORD-57404  placed 2026-05-08  status: label created  total: $37.32
+  payment method: card ending 5865  ship to: 226 Cedar St
+  - yoga mat x1
+  - replacement filter cartridge, 3-pack x1
+  - microfiber cloth x2
+  - extended warranty, 2 years x2
+  - spare battery pack x1
+ORD-59916  placed 2026-01-18  status: delivered  total: $100.01
+  payment method: card ending 6278  ship to: 203 Elm St
+  - wool blanket x1
+  - carabiner set x3
+  - replacement filter cartridge, 3-pack x3
+ORD-10112  placed 2026-01-12  status: delivered  total: $109.46
+  payment method: card ending 5742  ship to: 602 Oak Lane
+  - mechanical keyboard x1
+  - merino socks, size M x2
+  - microfiber cloth x2
+  - gift wrap x1
+  - stainless water bottle, 750ml x2
+ORD-82580  placed 2026-08-16  status: delivered  total: $273.78
+  payment method: card ending 9079  ship to: 832 Mill Lane
+  - standing desk x1
+  - spare battery pack x1
+  - merino socks, size M x1
+
+--- message 1 from Ravi Iyer ---
+I'd like to return the bike light set from ORD-59916; it's the wrong size. My earlier order ORD-57404 arrived fine, no complaints there. My partner placed ORD-59916 on our shared account, in case that matters. Tracking for ORD-82580 hasn't updated since Tuesday.
+
+Ravi Iyer
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Arjun (support) ---
+I've updated your shipping address on file. If you need an invoice for ORD-57404, you can download it from the Orders page. I can see all the orders on your account, including ORD-82580. Screenshots aren't necessary, but thank you for offering.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ravi Iyer ---
+My earlier order ORD-82580 arrived fine, no complaints there. I've been a customer for a few years and usually everything goes smoothly. Your app logged me out twice while I was looking at this, which didn't help. The box for ORD-82580 was a bit crushed but the contents were fine.
+
+Best regards,
+Ravi Iyer
+
+--- message 4 from Arjun (support) ---
+Our warehouse shows ORD-57404 left on schedule. Thanks for reaching out, and sorry for the trouble. I've resent the confirmation email for ORD-82580 to the address on file. Screenshots aren't necessary, but thank you for offering.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

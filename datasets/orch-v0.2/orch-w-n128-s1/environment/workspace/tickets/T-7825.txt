@@ -1,0 +1,89 @@
+Ticket T-7825
+Customer: Samir Patel
+Orders on file: ORD-96057, ORD-82339, ORD-23693, ORD-36934
+Opened: 2026-03-11 via email
+
+Order details:
+ORD-96057  placed 2026-07-20  status: in transit  total: $342.28
+  payment method: card ending 3917  ship to: 571 Elm Ave
+  - rain jacket x1
+  - USB-C charging cable (2m) x1
+  - carabiner set x3
+ORD-82339  placed 2026-04-15  status: in transit  total: $255.64
+  payment method: card ending 6721  ship to: 314 Elm Ave
+  - blender x1
+  - gift wrap x1
+  - extended warranty, 2 years x3
+  - spare battery pack x1
+ORD-23693  placed 2026-08-19  status: delivered  total: $193.00
+  payment method: card ending 5012  ship to: 706 Elm St
+  - espresso grinder x1
+  - stainless water bottle, 750ml x1
+  - gift wrap x2
+  - travel pouch x2
+ORD-36934  placed 2026-07-22  status: returned  total: $316.30
+  payment method: card ending 1380  ship to: 550 Harbor Rd
+  - wool blanket x1
+  - microfiber cloth x3
+  - stainless water bottle, 750ml x1
+
+--- message 1 from Samir Patel ---
+I need to change the delivery address for ORD-36934 before it ships. Your app logged me out twice while I was looking at this, which didn't help. Tracking for ORD-96057 hasn't updated since Tuesday. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Samir Patel
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Keiko (support) ---
+I've added a note to your account so the next agent has the context. Let me know if anything else looks off. I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Samir Patel ---
+My card was charged two times for order ORD-82339. I changed my shipping address last month, so please double-check you have the new one. I tried the chat widget first but it kept disconnecting.
+
+Samir Patel
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Keiko (support) ---
+For ORD-23693, the return window is 30 days from delivery. Our warehouse shows ORD-23693 left on schedule. I've resent the confirmation email for ORD-23693 to the address on file.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Keiko (support) ---
+Good news: only one payment for ORD-82339 ever settled. The other entry was a temporary hold and your bank has dropped it. Let me know if anything else looks off. For ORD-96057, the return window is 30 days from delivery.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Samir Patel ---
+The yoga mat itself is great, for what it's worth. Tracking for ORD-96057 hasn't updated since Tuesday. Is there a way to combine loyalty points from ORD-36934 with my next purchase?
+
+Thanks,
+Samir Patel
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Samir Patel ---
+Thanks, I see it now: one payment for ORD-82339, the other one disappeared. All good. I'm travelling next week, so email is the best way to reach me. Is there a way to combine loyalty points from ORD-23693 with my next purchase?
+
+Thanks,
+Samir Patel
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Samir Patel ---
+My earlier order ORD-36934 arrived fine, no complaints there. The confirmation email for ORD-23693 went to my spam folder, so I only just saw it. I've been a customer for a few years and usually everything goes smoothly. Is there a way to combine loyalty points from ORD-23693 with my next purchase?
+
+Best regards,
+Samir Patel
+
+--- message 9 from Keiko (support) ---
+I've resent the confirmation email for ORD-23693 to the address on file. Loyalty points post about a week after an order is delivered. Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

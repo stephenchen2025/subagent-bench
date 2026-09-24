@@ -1,0 +1,12 @@
+Ledger page P-3385
+
+account      amount   see page
+Jensen         -561   P-6170
+Eriksen        -345   P-1855
+Young          +643   P-4597
+Fofana         -497   P-8357
+Vance          +194   P-9544
+Ibarra         +845   P-5802
+Hughes         +351   P-1773
+
+Follow the entry with the largest credit.

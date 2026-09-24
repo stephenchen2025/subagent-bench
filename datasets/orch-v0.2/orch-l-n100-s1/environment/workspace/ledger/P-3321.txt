@@ -1,0 +1,11 @@
+Ledger page P-3321
+
+account      amount   see page
+Kowalski       -495   P-6207
+Baker          +297   P-3017
+Xu             -845   P-5876
+Rahman         +466   P-3785
+Hughes         +787   P-3946
+Eriksen        +540   P-7418
+
+Follow the credit belonging to the account that comes first alphabetically.

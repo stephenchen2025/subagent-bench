@@ -1,0 +1,12 @@
+Ledger page P-7274
+
+account      amount   see page
+Young          -200   P-5081
+Quinn           +28   P-4610
+Ibarra         -716   P-6361
+Zhou           +515   P-9897
+Tanaka         -367   P-6667
+Nakamura       +135   P-3212
+Hughes         -539   P-1149
+
+Follow the entry with the largest credit.

@@ -1,0 +1,10 @@
+Ledger page P-9099
+
+account      amount   see page
+Dunn           +135   P-3749
+Hughes         -150   P-8392
+Eriksen         +67   P-5733
+Baker          +346   P-8421
+Castillo        -30   P-9228
+
+Follow the entry with the largest debit (the most negative amount).

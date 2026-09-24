@@ -1,0 +1,11 @@
+Ledger page P-2684
+
+account      amount   see page
+Xu             +451   P-9279
+Lambert        -450   P-4349
+Ibarra         -458   P-9190
+Zhou           +123   P-4327
+Quinn          -419   P-2994
+Eriksen        +334   P-3336
+
+Follow the entry with the largest credit.

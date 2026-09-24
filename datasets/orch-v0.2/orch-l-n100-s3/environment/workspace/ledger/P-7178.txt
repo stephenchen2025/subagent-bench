@@ -1,0 +1,11 @@
+Ledger page P-7178
+
+account      amount   see page
+Park           -779   P-9056
+Ibarra         +203   P-5993
+Eriksen        +177   P-3722
+Moreau         -405   P-6700
+Xu              +59   P-9084
+Rahman         -443   P-7783
+
+Follow the entry with the largest credit.

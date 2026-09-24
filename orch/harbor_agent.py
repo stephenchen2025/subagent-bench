@@ -1,8 +1,8 @@
 """Harbor agent for the orchestrator track's reference harness.
 
-    harbor run -p datasets/orch-v0.1 \\
+    harbor run -p datasets/orch-v0.2 \\
         -a orch.harbor_agent:OrchMiniAgent \\
-        -m anthropic/claude-sonnet-5 --ak mode=delegate
+        -m anthropic/claude-haiku-4-5-20251001 --ak mode=delegate
 
 `mode` is one of solo, solo-xl, delegate, oracle-split (ORCHESTRATOR.md 4). The
 per-agent limits default to the values every task records in its task.toml

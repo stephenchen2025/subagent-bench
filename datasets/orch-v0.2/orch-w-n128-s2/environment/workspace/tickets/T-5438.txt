@@ -1,0 +1,70 @@
+Ticket T-5438
+Customer: Chloe Martin
+Orders on file: ORD-99916, ORD-37266, ORD-58891, ORD-36477
+Opened: 2026-04-06 via email
+
+Order details:
+ORD-99916  placed 2026-08-01  status: returned  total: $317.44
+  payment method: card ending 7974  ship to: 34 Harbor St
+  - mechanical keyboard x1
+  - extended warranty, 2 years x2
+  - spare battery pack x3
+  - travel pouch x2
+  - gift wrap x2
+ORD-37266  placed 2026-03-02  status: returned  total: $366.27
+  payment method: card ending 3853  ship to: 292 Elm Ave
+  - wool blanket x1
+  - replacement filter cartridge, 3-pack x1
+  - carabiner set x1
+  - gift wrap x1
+  - merino socks, size M x1
+ORD-58891  placed 2026-01-02  status: delivered  total: $447.23
+  payment method: card ending 8861  ship to: 20 Cedar Ave
+  - camping stove x1
+  - travel pouch x3
+  - stainless water bottle, 750ml x2
+ORD-36477  placed 2026-04-08  status: label created  total: $235.37
+  payment method: card ending 3441  ship to: 254 Mill Rd
+  - standing desk x1
+  - travel pouch x1
+  - replacement filter cartridge, 3-pack x2
+
+--- message 1 from Chloe Martin ---
+How do I reset my password? The reset link keeps expiring. I'd rather not call; the hold times last time were very long. Tracking for ORD-37266 hasn't updated since Tuesday. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Chloe Martin
+
+--- message 2 from Arjun (support) ---
+Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-37266 left on schedule. Let me know if anything else looks off. For ORD-37266, the return window is 30 days from delivery.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Chloe Martin ---
+I'd rather not call; the hold times last time were very long. The box for ORD-58891 was a bit crushed but the contents were fine. Is there a way to combine loyalty points from ORD-99916 with my next purchase? Could you also tell me whether ORD-37266 qualifies for the extended return window?
+
+Chloe Martin
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Arjun (support) ---
+Thanks for reaching out, and sorry for the trouble. Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier. I can see all the orders on your account, including ORD-99916.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Chloe Martin ---
+I tried the chat widget first but it kept disconnecting. I'd rather not call; the hold times last time were very long. My partner placed ORD-58891 on our shared account, in case that matters. The confirmation email for ORD-58891 went to my spam folder, so I only just saw it.
+
+Thanks,
+Chloe Martin
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Arjun (support) ---
+I've added a note to your account so the next agent has the context. Screenshots aren't necessary, but thank you for offering. Loyalty points post about a week after an order is delivered. Thanks for reaching out, and sorry for the trouble.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

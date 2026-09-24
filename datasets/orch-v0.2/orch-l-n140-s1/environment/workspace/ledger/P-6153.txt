@@ -1,0 +1,12 @@
+Ledger page P-6153
+
+account      amount   see page
+Quinn          -160   P-3417
+Park           -183   P-5445
+Umar           +539   P-3519
+Osei           +489   P-9789
+Eriksen        +200   P-2912
+Nakamura       +612   P-8803
+Weber           +35   P-3340
+
+Follow the entry with the largest debit (the most negative amount).

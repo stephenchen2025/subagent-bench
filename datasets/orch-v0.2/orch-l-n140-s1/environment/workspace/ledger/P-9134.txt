@@ -1,0 +1,11 @@
+Ledger page P-9134
+
+account      amount   see page
+Xu             +713   P-3086
+Vance          +476   P-4037
+Rahman         +892   P-5207
+Kowalski       +688   P-8127
+Hughes         +338   P-6194
+Quinn          -426   P-8431
+
+Follow the entry whose amount is closest to zero.

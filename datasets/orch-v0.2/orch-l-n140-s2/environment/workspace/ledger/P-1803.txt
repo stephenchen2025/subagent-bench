@@ -1,0 +1,12 @@
+Ledger page P-1803
+
+account      amount   see page
+Hughes         -776   P-9352
+Zhou           -348   P-8497
+Grant          +305   P-3095
+Fofana         +844   P-2252
+Eriksen        +528   P-3573
+Vance          -126   P-9305
+Ibarra         +174   P-6202
+
+Follow the debit belonging to the account that comes last alphabetically.

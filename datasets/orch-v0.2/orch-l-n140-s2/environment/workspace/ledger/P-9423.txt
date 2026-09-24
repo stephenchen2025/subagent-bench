@@ -1,0 +1,10 @@
+Ledger page P-9423
+
+account      amount   see page
+Abbott         -179   P-9310
+Weber          -385   P-7978
+Osei            +29   P-4301
+Nakamura       -673   P-6936
+Park           -871   P-3609
+
+Follow the credit belonging to the account that comes first alphabetically.

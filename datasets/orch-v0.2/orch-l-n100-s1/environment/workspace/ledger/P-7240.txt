@@ -1,0 +1,12 @@
+Ledger page P-7240
+
+account      amount   see page
+Zhou           +541   P-1525
+Dunn           -448   P-8680
+Grant          +769   P-3017
+Fofana         -564   P-5813
+Lambert        +665   P-9595
+Osei           +846   P-6296
+Young          +609   P-8084
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,11 @@
+Ledger page P-6941
+
+account      amount   see page
+Castillo       -145   P-1855
+Kowalski        -43   P-1253
+Hughes         -129   P-2966
+Nakamura       -761   P-5925
+Quinn          +766   P-6208
+Lambert          +8   P-9454
+
+Follow the debit belonging to the account that comes last alphabetically.

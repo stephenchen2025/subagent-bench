@@ -1,0 +1,11 @@
+Ledger page P-4226
+
+account      amount   see page
+Young           -71   P-3685
+Xu             +307   P-1267
+Vance           +36   P-6086
+Umar           +232   P-7290
+Lambert        -843   P-1428
+Kowalski        -33   P-7947
+
+Follow the entry with the largest credit.

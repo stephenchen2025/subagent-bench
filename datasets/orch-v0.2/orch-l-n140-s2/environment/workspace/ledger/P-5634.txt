@@ -1,0 +1,10 @@
+Ledger page P-5634
+
+account      amount   see page
+Young          -368   P-1422
+Quinn          +503   P-3940
+Xu             +862   P-2558
+Osei           +423   P-8495
+Umar            +88   P-8035
+
+Follow the entry whose amount is closest to zero.

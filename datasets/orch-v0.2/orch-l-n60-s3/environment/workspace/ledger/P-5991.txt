@@ -1,0 +1,10 @@
+Ledger page P-5991
+
+account      amount   see page
+Tanaka         -163   P-5600
+Jensen         -743   P-4346
+Silva          -196   P-2358
+Park           +779   P-5907
+Abbott         +834   P-3375
+
+Follow the debit belonging to the account that comes last alphabetically.

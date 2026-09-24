@@ -1,0 +1,11 @@
+Ledger page P-3990
+
+account      amount   see page
+Zhou           -633   P-2429
+Ibarra         +283   P-4354
+Silva          +321   P-7569
+Weber          +514   P-1521
+Moreau         -410   P-9105
+Park           -160   P-5807
+
+Follow the entry with the largest debit (the most negative amount).

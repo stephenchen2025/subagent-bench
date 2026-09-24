@@ -1,0 +1,12 @@
+Ledger page P-6595
+
+account      amount   see page
+Rahman         +879   P-6560
+Jensen         +118   P-8326
+Hughes         -166   P-8701
+Zhou           -453   P-1522
+Vance          +715   P-3866
+Weber          +379   P-5170
+Grant          -583   P-1302
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,12 @@
+Ledger page P-6411
+
+account      amount   see page
+Lambert        +381   P-6641
+Jensen         -780   P-2649
+Abbott         -296   P-8887
+Grant          -567   P-9843
+Dunn           -694   P-2858
+Silva          +664   P-2505
+Quinn          -317   P-4285
+
+Follow the entry with the largest credit.

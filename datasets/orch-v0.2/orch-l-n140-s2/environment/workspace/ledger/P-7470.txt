@@ -1,0 +1,12 @@
+Ledger page P-7470
+
+account      amount   see page
+Xu             -534   P-6449
+Vance          +862   P-4602
+Umar           +505   P-4644
+Zhou           -278   P-5093
+Osei           -700   P-6680
+Dunn           +129   P-1221
+Castillo       -232   P-4963
+
+Follow the debit belonging to the account that comes last alphabetically.

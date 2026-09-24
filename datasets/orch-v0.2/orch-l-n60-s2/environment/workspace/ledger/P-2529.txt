@@ -1,0 +1,12 @@
+Ledger page P-2529
+
+account      amount   see page
+Umar           -777   P-8298
+Moreau         +255   P-8207
+Lambert        +267   P-7905
+Young          +218   P-5322
+Rahman         -294   P-6885
+Kowalski       -657   P-7256
+Quinn          -630   P-8343
+
+Follow the debit belonging to the account that comes last alphabetically.

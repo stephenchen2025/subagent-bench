@@ -1,0 +1,12 @@
+Ledger page P-7569
+
+account      amount   see page
+Vance          -882   P-5028
+Kowalski        +86   P-8409
+Dunn           +818   P-4111
+Young          +828   P-8803
+Zhou           -893   P-3926
+Eriksen         -86   P-4354
+Weber          +649   P-5228
+
+Follow the debit belonging to the account that comes last alphabetically.

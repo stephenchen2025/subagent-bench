@@ -1,0 +1,12 @@
+Ledger page P-8185
+
+account      amount   see page
+Vance          -152   P-8123
+Weber          +393   P-2912
+Fofana         +470   P-1423
+Xu             -720   P-9680
+Young          -337   P-8816
+Dunn           -892   P-6774
+Abbott         +208   P-7282
+
+Follow the entry whose amount is closest to zero.

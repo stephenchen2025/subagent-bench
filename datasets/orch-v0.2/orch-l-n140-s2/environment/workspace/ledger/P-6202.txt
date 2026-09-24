@@ -1,0 +1,10 @@
+Ledger page P-6202
+
+account      amount   see page
+Young          -248   P-3896
+Silva           +57   P-8440
+Baker          +132   P-4119
+Ibarra         -313   P-3606
+Moreau         +743   P-9818
+
+Follow the entry whose amount is closest to zero.

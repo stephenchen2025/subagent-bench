@@ -1,0 +1,10 @@
+Ledger page P-5456
+
+account      amount   see page
+Umar           -863   P-4343
+Quinn          -501   P-1557
+Silva           +29   P-1162
+Dunn            -34   P-4349
+Tanaka         -255   P-3282
+
+Follow the entry with the largest debit (the most negative amount).

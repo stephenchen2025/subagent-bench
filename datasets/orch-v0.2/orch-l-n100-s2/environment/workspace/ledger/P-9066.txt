@@ -1,0 +1,11 @@
+Ledger page P-9066
+
+account      amount   see page
+Abbott         -318   P-7350
+Silva           -16   P-2003
+Nakamura       +633   P-4097
+Ibarra          -78   P-4334
+Tanaka         +211   P-5626
+Baker          -689   P-8023
+
+Follow the entry with the largest credit.

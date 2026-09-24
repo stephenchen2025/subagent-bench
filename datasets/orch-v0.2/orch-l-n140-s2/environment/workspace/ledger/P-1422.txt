@@ -1,0 +1,12 @@
+Ledger page P-1422
+
+account      amount   see page
+Dunn           -250   P-8415
+Weber          +331   P-2823
+Fofana          -25   P-9328
+Umar           -456   P-8884
+Moreau         -556   P-6752
+Grant          -451   P-6293
+Kowalski       +478   P-5026
+
+Follow the entry with the largest credit.

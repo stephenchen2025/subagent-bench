@@ -1,0 +1,11 @@
+Ledger page P-9568
+
+account      amount   see page
+Kowalski       -188   P-6064
+Grant          +143   P-1378
+Moreau         -192   P-3994
+Dunn           -293   P-5073
+Park            +68   P-9506
+Nakamura       -181   P-4337
+
+Follow the entry with the second-largest amount.

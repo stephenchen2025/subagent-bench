@@ -1,0 +1,10 @@
+Ledger page P-2917
+
+account      amount   see page
+Osei           +735   P-4613
+Grant          -816   P-1773
+Abbott         +260   P-9761
+Baker          -189   P-2358
+Quinn          -500   P-1930
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,62 @@
+Ticket T-1581
+Customer: Ben Carter
+Orders on file: ORD-93503, ORD-88651, ORD-12581, ORD-74465
+Opened: 2026-03-14 via email
+
+Order details:
+ORD-93503  placed 2026-05-10  status: delivered  total: $348.13
+  payment method: card ending 1854  ship to: 562 Elm Lane
+  - yoga mat x1
+  - carabiner set x3
+  - replacement filter cartridge, 3-pack x2
+  - microfiber cloth x3
+  - gift wrap x2
+ORD-88651  placed 2026-01-15  status: in transit  total: $292.78
+  payment method: card ending 8016  ship to: 968 Cedar Lane
+  - water filter pitcher x1
+  - stainless water bottle, 750ml x2
+  - USB-C charging cable (2m) x2
+ORD-12581  placed 2026-08-08  status: returned  total: $129.02
+  payment method: card ending 5512  ship to: 719 Elm Ave
+  - camping stove x1
+  - extended warranty, 2 years x1
+  - USB-C charging cable (2m) x1
+  - spare battery pack x1
+ORD-74465  placed 2026-03-26  status: returned  total: $285.17
+  payment method: card ending 6828  ship to: 557 Elm Rd
+  - wool blanket x1
+  - travel pouch x3
+  - USB-C charging cable (2m) x1
+
+--- message 1 from Ben Carter ---
+Where is my refund for ORD-12581? You said 5 days and it has been 8. I'm happy to send screenshots if that helps. I've been a customer for a few years and usually everything goes smoothly. Could you also tell me whether ORD-12581 qualifies for the extended return window?
+
+Thanks,
+Ben Carter
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Fatima (support) ---
+Thanks for reaching out, and sorry for the trouble. Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context. Let me know if anything else looks off.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ben Carter ---
+Unrelated, but the card app double-charged me at a coffee shop last week, so I'm checking every line carefully now. Anyway, my actual question is about delivery for ORD-74465. Is there a way to combine loyalty points from ORD-93503 with my next purchase? I'm travelling next week, so email is the best way to reach me.
+
+Ben Carter
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Ben Carter ---
+The box for ORD-12581 was a bit crushed but the contents were fine. Could you also tell me whether ORD-93503 qualifies for the extended return window? Tracking for ORD-12581 hasn't updated since Tuesday. I'm travelling next week, so email is the best way to reach me.
+
+Ben Carter
+(Please reply by email rather than phone if possible.)
+
+--- message 5 from Fatima (support) ---
+For ORD-88651, the return window is 30 days from delivery. I've resent the confirmation email for ORD-93503 to the address on file. Screenshots aren't necessary, but thank you for offering. Loyalty points post about a week after an order is delivered.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

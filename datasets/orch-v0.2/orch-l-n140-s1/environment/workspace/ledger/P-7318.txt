@@ -1,0 +1,11 @@
+Ledger page P-7318
+
+account      amount   see page
+Umar           -350   P-2675
+Ibarra         +474   P-2067
+Vance          +663   P-2280
+Young          +174   P-6653
+Xu             +847   P-5299
+Eriksen        +246   P-5734
+
+Follow the entry with the second-largest amount.

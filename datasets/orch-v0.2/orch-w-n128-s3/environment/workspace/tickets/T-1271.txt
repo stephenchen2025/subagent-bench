@@ -1,0 +1,64 @@
+Ticket T-1271
+Customer: Grace Mwangi
+Orders on file: ORD-37836, ORD-32547, ORD-74451, ORD-67704
+Opened: 2026-06-17 via web form
+
+Order details:
+ORD-37836  placed 2026-02-12  status: delivered  total: $237.71
+  payment method: card ending 1264  ship to: 279 Cedar Lane
+  - trail running shoes x1
+  - merino socks, size M x2
+  - stainless water bottle, 750ml x1
+  - carabiner set x2
+  - USB-C charging cable (2m) x3
+ORD-32547  placed 2026-04-08  status: in transit  total: $152.47
+  payment method: card ending 5168  ship to: 904 Harbor St
+  - rain jacket x1
+  - extended warranty, 2 years x2
+  - USB-C charging cable (2m) x3
+  - gift wrap x2
+ORD-74451  placed 2026-03-08  status: delivered  total: $368.95
+  payment method: card ending 1449  ship to: 990 Cedar Lane
+  - noise-cancelling headphones x1
+  - USB-C charging cable (2m) x1
+  - replacement filter cartridge, 3-pack x2
+  - spare battery pack x2
+ORD-67704  placed 2026-04-01  status: in transit  total: $373.09
+  payment method: card ending 4918  ship to: 344 Mill Lane
+  - carry-on suitcase x1
+  - replacement filter cartridge, 3-pack x1
+  - microfiber cloth x2
+  - USB-C charging cable (2m) x2
+
+--- message 1 from Grace Mwangi ---
+I'd like to return the rain jacket from ORD-74451; it's the wrong size. My earlier order ORD-37836 arrived fine, no complaints there. The confirmation email for ORD-74451 went to my spam folder, so I only just saw it. The box for ORD-37836 was a bit crushed but the contents were fine.
+
+Thanks,
+Grace Mwangi
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Dana (support) ---
+I've updated your shipping address on file. Tracking updates can lag by a day or two with this carrier. If you need an invoice for ORD-67704, you can download it from the Orders page. Our warehouse shows ORD-67704 left on schedule.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Grace Mwangi ---
+Not your fault, but my gym billed me twice this month, which is why I'm nervous about ORD-32547. Everything on your side looks like a single charge, I just wanted to confirm the delivery date. Is there a way to combine loyalty points from ORD-74451 with my next purchase? I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Grace Mwangi
+
+--- message 4 from Grace Mwangi ---
+Tracking for ORD-67704 hasn't updated since Tuesday. I'd rather not call; the hold times last time were very long. The box for ORD-67704 was a bit crushed but the contents were fine. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Grace Mwangi
+
+--- message 5 from Dana (support) ---
+I can see all the orders on your account, including ORD-74451. I've resent the confirmation email for ORD-74451 to the address on file. I've added a note to your account so the next agent has the context. Our warehouse shows ORD-74451 left on schedule.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

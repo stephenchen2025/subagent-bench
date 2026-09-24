@@ -1,0 +1,12 @@
+Ledger page P-6445
+
+account      amount   see page
+Fofana         -562   P-6839
+Young          +392   P-3609
+Xu             +175   P-6145
+Umar           +154   P-9423
+Castillo       -556   P-9983
+Zhou           -458   P-6839
+Jensen         -221   P-3834
+
+Follow the debit belonging to the account that comes last alphabetically.

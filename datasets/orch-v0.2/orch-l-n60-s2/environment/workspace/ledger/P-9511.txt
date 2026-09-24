@@ -1,0 +1,11 @@
+Ledger page P-9511
+
+account      amount   see page
+Baker           -61   P-7830
+Jensen         -523   P-9792
+Eriksen        -596   P-5094
+Zhou           +245   P-4880
+Nakamura       +194   P-5896
+Umar           -582   P-9730
+
+Follow the entry with the second-largest amount.

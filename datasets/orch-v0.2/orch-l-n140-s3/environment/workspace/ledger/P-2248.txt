@@ -1,0 +1,10 @@
+Ledger page P-2248
+
+account      amount   see page
+Ibarra           +5   P-7671
+Fofana         -453   P-3386
+Silva          -642   P-9905
+Castillo       +239   P-2011
+Young          +715   P-5600
+
+Follow the entry with the largest credit.

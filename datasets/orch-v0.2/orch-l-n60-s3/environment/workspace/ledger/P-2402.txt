@@ -1,0 +1,12 @@
+Ledger page P-2402
+
+account      amount   see page
+Park           +268   P-9652
+Fofana         +284   P-7491
+Dunn           +201   P-9193
+Grant          -724   P-4433
+Zhou           -479   P-5121
+Kowalski       +335   P-3953
+Eriksen        -891   P-2820
+
+Follow the entry with the largest debit (the most negative amount).

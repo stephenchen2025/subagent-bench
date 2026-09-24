@@ -1,0 +1,10 @@
+Ledger page P-6874
+
+account      amount   see page
+Xu              +97   P-1820
+Rahman         +741   P-6163
+Ibarra         +457   P-5320
+Hughes         -347   P-3148
+Weber          -792   P-5140
+
+Follow the entry whose amount is closest to zero.

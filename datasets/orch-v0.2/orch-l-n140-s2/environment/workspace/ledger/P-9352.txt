@@ -1,0 +1,10 @@
+Ledger page P-9352
+
+account      amount   see page
+Quinn           +92   P-7117
+Rahman         +835   P-1707
+Moreau         +254   P-9923
+Zhou           +678   P-8330
+Lambert        -368   P-5465
+
+Follow the entry with the largest debit (the most negative amount).

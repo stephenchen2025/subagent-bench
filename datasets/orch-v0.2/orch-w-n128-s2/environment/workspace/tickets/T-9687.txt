@@ -1,0 +1,60 @@
+Ticket T-9687
+Customer: Ines Duarte
+Orders on file: ORD-44486, ORD-27138, ORD-58299, ORD-77049
+Opened: 2026-06-12 via chat transcript
+
+Order details:
+ORD-44486  placed 2026-04-09  status: in transit  total: $297.88
+  payment method: card ending 7186  ship to: 506 Oak Rd
+  - espresso grinder x1
+  - replacement filter cartridge, 3-pack x3
+  - carabiner set x1
+  - merino socks, size M x2
+  - USB-C charging cable (2m) x3
+ORD-27138  placed 2026-08-22  status: label created  total: $351.67
+  payment method: card ending 5665  ship to: 985 Harbor Rd
+  - espresso grinder x1
+  - carabiner set x3
+  - travel pouch x3
+  - extended warranty, 2 years x1
+  - replacement filter cartridge, 3-pack x3
+ORD-58299  placed 2026-07-02  status: returned  total: $465.22
+  payment method: card ending 6666  ship to: 340 Cedar Ave
+  - mechanical keyboard x1
+  - travel pouch x1
+  - stainless water bottle, 750ml x2
+  - USB-C charging cable (2m) x2
+  - gift wrap x2
+ORD-77049  placed 2026-07-09  status: delivered  total: $431.33
+  payment method: card ending 2015  ship to: 200 Elm Rd
+  - noise-cancelling headphones x1
+  - gift wrap x3
+  - extended warranty, 2 years x1
+  - USB-C charging cable (2m) x3
+  - spare battery pack x2
+
+--- message 1 from Ines Duarte ---
+The camping stove from ORD-77049 arrived with a scratch on the side. Can I get a replacement? The confirmation email for ORD-58299 went to my spam folder, so I only just saw it. I'm happy to send screenshots if that helps. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Ines Duarte
+
+--- message 2 from Pete (support) ---
+I can see all the orders on your account, including ORD-58299. Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-77049 to the address on file. If you need an invoice for ORD-77049, you can download it from the Orders page.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ines Duarte ---
+The box for ORD-77049 was a bit crushed but the contents were fine. Could you also tell me whether ORD-44486 qualifies for the extended return window? The standing desk itself is great, for what it's worth. Tracking for ORD-44486 hasn't updated since Tuesday.
+
+Best regards,
+Ines Duarte
+
+--- message 4 from Pete (support) ---
+For ORD-44486, the return window is 30 days from delivery. Loyalty points post about a week after an order is delivered. Let me know if anything else looks off. I've added a note to your account so the next agent has the context.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

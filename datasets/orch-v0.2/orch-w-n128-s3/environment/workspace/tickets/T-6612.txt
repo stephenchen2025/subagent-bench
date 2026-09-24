@@ -1,0 +1,67 @@
+Ticket T-6612
+Customer: Ben Carter
+Orders on file: ORD-84112, ORD-57263, ORD-78448, ORD-19153
+Opened: 2026-05-02 via chat transcript
+
+Order details:
+ORD-84112  placed 2026-07-15  status: label created  total: $58.73
+  payment method: card ending 7382  ship to: 207 Harbor St
+  - carry-on suitcase x1
+  - gift wrap x3
+  - replacement filter cartridge, 3-pack x1
+ORD-57263  placed 2026-03-02  status: in transit  total: $310.73
+  payment method: card ending 4877  ship to: 787 Cedar Lane
+  - desk lamp x1
+  - merino socks, size M x2
+  - travel pouch x2
+ORD-78448  placed 2026-08-13  status: delivered  total: $20.52
+  payment method: card ending 9102  ship to: 37 Cedar Ave
+  - yoga mat x1
+  - merino socks, size M x2
+  - gift wrap x3
+ORD-19153  placed 2026-04-02  status: delivered  total: $444.19
+  payment method: card ending 9223  ship to: 433 Harbor St
+  - blender x1
+  - travel pouch x2
+  - merino socks, size M x3
+  - extended warranty, 2 years x2
+  - USB-C charging cable (2m) x1
+
+--- message 1 from Ben Carter ---
+I need to change the delivery address for ORD-84112 before it ships. I changed my shipping address last month, so please double-check you have the new one. I'm travelling next week, so email is the best way to reach me. My partner placed ORD-84112 on our shared account, in case that matters.
+
+Best regards,
+Ben Carter
+
+--- message 2 from Pete (support) ---
+I can see all the orders on your account, including ORD-84112. Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier. Let me know if anything else looks off.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ben Carter ---
+The box for ORD-78448 was a bit crushed but the contents were fine. I'm happy to send screenshots if that helps. The confirmation email for ORD-57263 went to my spam folder, so I only just saw it. Tracking for ORD-84112 hasn't updated since Tuesday.
+
+Best regards,
+Ben Carter
+
+--- message 4 from Pete (support) ---
+Our warehouse shows ORD-57263 left on schedule. Let me know if anything else looks off. I can see all the orders on your account, including ORD-84112. Loyalty points post about a week after an order is delivered.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Ben Carter ---
+The standing desk itself is great, for what it's worth. I tried the chat widget first but it kept disconnecting. I changed my shipping address last month, so please double-check you have the new one. The box for ORD-57263 was a bit crushed but the contents were fine.
+
+Ben Carter
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Pete (support) ---
+Loyalty points post about a week after an order is delivered. Let me know if anything else looks off. If you need an invoice for ORD-57263, you can download it from the Orders page. For ORD-84112, the return window is 30 days from delivery.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

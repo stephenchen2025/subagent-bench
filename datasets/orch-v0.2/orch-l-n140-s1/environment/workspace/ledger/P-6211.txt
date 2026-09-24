@@ -1,0 +1,10 @@
+Ledger page P-6211
+
+account      amount   see page
+Xu             +261   P-4890
+Osei            +13   P-2443
+Fofana         -379   P-4401
+Weber          -259   P-3552
+Baker          -405   P-5445
+
+Follow the entry whose amount is closest to zero.

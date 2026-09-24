@@ -1,0 +1,11 @@
+Ledger page P-3024
+
+account      amount   see page
+Zhou            -87   P-1026
+Osei           -547   P-6369
+Lambert        -202   P-1132
+Silva          -398   P-7621
+Ibarra         -394   P-5820
+Vance          +523   P-1380
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,11 @@
+Ledger page P-7013
+
+account      amount   see page
+Tanaka          -99   P-5661
+Dunn            -20   P-2579
+Jensen         -866   P-5363
+Eriksen        -396   P-2320
+Park           -663   P-6774
+Weber          +187   P-1719
+
+Follow the credit belonging to the account that comes first alphabetically.

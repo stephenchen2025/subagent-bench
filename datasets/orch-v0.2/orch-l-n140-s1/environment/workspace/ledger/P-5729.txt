@@ -1,0 +1,10 @@
+Ledger page P-5729
+
+account      amount   see page
+Nakamura       -886   P-1861
+Eriksen        +284   P-9834
+Rahman          +50   P-7959
+Umar           -217   P-1573
+Fofana         -773   P-6211
+
+Follow the entry whose amount is closest to zero.

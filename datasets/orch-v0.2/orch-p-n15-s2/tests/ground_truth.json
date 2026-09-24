@@ -1,0 +1,66 @@
+{
+  "services": {
+    "thumbnailer": {
+      "component": "metrics-shipper",
+      "cause": "config-typo"
+    },
+    "job-reaper": {
+      "component": "http-frontend",
+      "cause": "out-of-memory"
+    },
+    "tax-calc": {
+      "component": "http-frontend",
+      "cause": "disk-full"
+    },
+    "returns-desk": {
+      "component": "token-refresher",
+      "cause": "disk-full"
+    },
+    "promo-engine": {
+      "component": "batch-assembler",
+      "cause": "config-typo"
+    },
+    "catalog-api": {
+      "component": "token-refresher",
+      "cause": "disk-full"
+    },
+    "sso-bridge": {
+      "component": "cache-warmer",
+      "cause": "dns-failure"
+    },
+    "notifier": {
+      "component": "metrics-shipper",
+      "cause": "expired-credential"
+    },
+    "ledger": {
+      "component": "batch-assembler",
+      "cause": "disk-full"
+    },
+    "quota-keeper": {
+      "component": "config-loader",
+      "cause": "out-of-memory"
+    },
+    "price-watch": {
+      "component": "blob-writer",
+      "cause": "dns-failure"
+    },
+    "pdf-stamper": {
+      "component": "schema-migrator",
+      "cause": "dns-failure"
+    },
+    "email-digest": {
+      "component": "cache-warmer",
+      "cause": "disk-full"
+    },
+    "review-moderator": {
+      "component": "batch-assembler",
+      "cause": "out-of-memory"
+    },
+    "backup-rotator": {
+      "component": "batch-assembler",
+      "cause": "dns-failure"
+    }
+  },
+  "family": "P",
+  "task_id": "orch-p-n15-s2"
+}

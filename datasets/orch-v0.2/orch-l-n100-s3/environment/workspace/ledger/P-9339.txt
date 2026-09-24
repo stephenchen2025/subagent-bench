@@ -1,0 +1,10 @@
+Ledger page P-9339
+
+account      amount   see page
+Eriksen        +294   P-2793
+Tanaka         +184   P-5999
+Lambert        -848   P-9002
+Vance           -93   P-3128
+Quinn          +774   P-8313
+
+Follow the entry with the largest credit.

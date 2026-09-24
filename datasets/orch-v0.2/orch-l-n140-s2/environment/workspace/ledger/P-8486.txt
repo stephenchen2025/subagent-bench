@@ -1,0 +1,11 @@
+Ledger page P-8486
+
+account      amount   see page
+Osei           +590   P-8330
+Xu             +302   P-5987
+Dunn           +522   P-4944
+Silva          +309   P-7115
+Baker          -753   P-8001
+Vance          -801   P-8415
+
+Follow the entry with the largest debit (the most negative amount).

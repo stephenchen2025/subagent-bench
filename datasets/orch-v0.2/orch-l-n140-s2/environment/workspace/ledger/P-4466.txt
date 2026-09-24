@@ -1,0 +1,11 @@
+Ledger page P-4466
+
+account      amount   see page
+Lambert          -7   P-8486
+Fofana         +233   P-6064
+Tanaka         +787   P-4016
+Rahman         +318   P-3226
+Silva          -207   P-6824
+Baker          -116   P-6013
+
+Follow the entry with the largest credit.

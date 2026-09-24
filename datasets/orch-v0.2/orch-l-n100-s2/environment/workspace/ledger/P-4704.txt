@@ -1,0 +1,12 @@
+Ledger page P-4704
+
+account      amount   see page
+Lambert        -508   P-4062
+Eriksen        -273   P-4151
+Abbott         +764   P-8934
+Castillo       -549   P-4704
+Grant          -760   P-8073
+Silva          +133   P-4528
+Rahman         +759   P-1211
+
+Follow the entry whose amount is closest to zero.

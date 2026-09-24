@@ -1,0 +1,10 @@
+Ledger page P-1745
+
+account      amount   see page
+Quinn          +274   P-3569
+Kowalski       -882   P-9851
+Castillo       -280   P-9769
+Jensen         -455   P-3047
+Moreau         -487   P-4597
+
+Follow the entry with the largest credit.

@@ -1,0 +1,12 @@
+Ledger page P-6000
+
+account      amount   see page
+Osei           -864   P-5456
+Fofana         +513   P-6722
+Abbott         +572   P-7553
+Umar           +528   P-8300
+Ibarra         +724   P-5862
+Hughes         -342   P-2046
+Vance          +899   P-6525
+
+Follow the entry with the second-largest amount.

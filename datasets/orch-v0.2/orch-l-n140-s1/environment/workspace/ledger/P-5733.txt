@@ -1,0 +1,10 @@
+Ledger page P-5733
+
+account      amount   see page
+Dunn           -893   P-4478
+Osei           +747   P-8503
+Quinn          +448   P-5119
+Eriksen        -797   P-1400
+Tanaka         -543   P-8196
+
+Follow the credit belonging to the account that comes first alphabetically.

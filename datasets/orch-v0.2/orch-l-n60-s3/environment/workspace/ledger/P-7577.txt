@@ -1,0 +1,12 @@
+Ledger page P-7577
+
+account      amount   see page
+Baker          +217   P-1373
+Dunn           -374   P-3385
+Nakamura       -201   P-1648
+Weber          -243   P-4020
+Zhou           +405   P-3041
+Grant          -143   P-3953
+Rahman         -760   P-3830
+
+Follow the debit belonging to the account that comes last alphabetically.

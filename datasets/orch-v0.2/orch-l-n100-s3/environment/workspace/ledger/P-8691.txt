@@ -1,0 +1,12 @@
+Ledger page P-8691
+
+account      amount   see page
+Abbott         -258   P-1557
+Hughes         -704   P-4759
+Jensen         +394   P-9588
+Umar             -7   P-3524
+Vance          +803   P-3096
+Lambert        -313   P-5277
+Quinn          -771   P-3583
+
+Follow the debit belonging to the account that comes last alphabetically.

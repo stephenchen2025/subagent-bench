@@ -1,0 +1,12 @@
+Ledger page P-8845
+
+account      amount   see page
+Moreau         -853   P-9979
+Castillo       +654   P-9213
+Young          -748   P-1378
+Weber          -765   P-8857
+Umar           +485   P-5599
+Eriksen        +301   P-6025
+Rahman          -29   P-6355
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,10 @@
+Ledger page P-6859
+
+account      amount   see page
+Vance          +457   P-3147
+Umar           -876   P-1115
+Lambert        +386   P-9678
+Eriksen        +383   P-4309
+Xu             +277   P-3599
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,11 @@
+Ledger page P-2808
+
+account      amount   see page
+Jensen         +664   P-7693
+Kowalski       +758   P-3655
+Lambert        +815   P-2518
+Rahman         +200   P-4499
+Abbott         -273   P-7604
+Umar           -890   P-8526
+
+Follow the entry with the largest credit.

@@ -1,0 +1,12 @@
+Ledger page P-4117
+
+account      amount   see page
+Moreau         +275   P-2723
+Abbott         -332   P-9870
+Umar            +31   P-7863
+Hughes         -823   P-4305
+Quinn           +28   P-2333
+Dunn           +869   P-2363
+Tanaka         +575   P-8431
+
+Follow the entry whose amount is closest to zero.

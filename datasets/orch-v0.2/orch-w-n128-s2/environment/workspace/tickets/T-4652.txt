@@ -1,0 +1,72 @@
+Ticket T-4652
+Customer: Ben Carter
+Orders on file: ORD-99590, ORD-96184, ORD-67448, ORD-11168
+Opened: 2026-01-17 via email
+
+Order details:
+ORD-99590  placed 2026-03-11  status: delivered  total: $157.78
+  payment method: card ending 9141  ship to: 965 Cedar St
+  - desk lamp x1
+  - gift wrap x1
+  - carabiner set x3
+ORD-96184  placed 2026-01-26  status: returned  total: $162.24
+  payment method: card ending 6268  ship to: 955 Mill Rd
+  - noise-cancelling headphones x1
+  - stainless water bottle, 750ml x3
+  - extended warranty, 2 years x3
+  - replacement filter cartridge, 3-pack x3
+  - merino socks, size M x1
+ORD-67448  placed 2026-03-15  status: delivered  total: $217.38
+  payment method: card ending 8070  ship to: 188 Cedar Rd
+  - cast iron skillet x1
+  - extended warranty, 2 years x3
+  - gift wrap x3
+  - stainless water bottle, 750ml x2
+ORD-11168  placed 2026-05-04  status: in transit  total: $183.72
+  payment method: card ending 7929  ship to: 264 Cedar Lane
+  - camping stove x1
+  - microfiber cloth x3
+  - gift wrap x3
+  - replacement filter cartridge, 3-pack x1
+  - extended warranty, 2 years x1
+
+--- message 1 from Ben Carter ---
+I need to change the delivery address for ORD-99590 before it ships. Could you also tell me whether ORD-99590 qualifies for the extended return window? I tried the chat widget first but it kept disconnecting. The box for ORD-96184 was a bit crushed but the contents were fine.
+
+Best regards,
+Ben Carter
+
+--- message 2 from Rosa (support) ---
+Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-11168 to the address on file. Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ben Carter ---
+Tracking for ORD-11168 hasn't updated since Tuesday. I tried the chat widget first but it kept disconnecting. I'm travelling next week, so email is the best way to reach me. The cast iron skillet itself is great, for what it's worth.
+
+Thanks,
+Ben Carter
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Rosa (support) ---
+Screenshots aren't necessary, but thank you for offering. I've added a note to your account so the next agent has the context. Let me know if anything else looks off. I've resent the confirmation email for ORD-96184 to the address on file.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Ben Carter ---
+The confirmation email for ORD-99590 went to my spam folder, so I only just saw it. Tracking for ORD-99590 hasn't updated since Tuesday. Is there a way to combine loyalty points from ORD-99590 with my next purchase? The yoga mat itself is great, for what it's worth.
+
+Thanks,
+Ben Carter
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Rosa (support) ---
+Let me know if anything else looks off. I've added a note to your account so the next agent has the context. If you need an invoice for ORD-99590, you can download it from the Orders page. For ORD-99590, the return window is 30 days from delivery.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,10 @@
+Ledger page P-5344
+
+account      amount   see page
+Silva          -576   P-2646
+Grant          -486   P-1247
+Lambert        +369   P-1165
+Ibarra          +28   P-7198
+Baker          -877   P-9099
+
+Follow the credit belonging to the account that comes first alphabetically.

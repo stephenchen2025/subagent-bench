@@ -1,0 +1,11 @@
+Ledger page P-3417
+
+account      amount   see page
+Lambert        -277   P-9697
+Young          +287   P-3221
+Osei           -688   P-5767
+Umar           -643   P-4886
+Vance          -817   P-3475
+Park           +345   P-7037
+
+Follow the debit belonging to the account that comes last alphabetically.

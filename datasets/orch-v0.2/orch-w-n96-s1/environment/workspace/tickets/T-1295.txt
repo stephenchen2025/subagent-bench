@@ -1,0 +1,82 @@
+Ticket T-1295
+Customer: Amara Nwosu
+Orders on file: ORD-27698, ORD-40789, ORD-75555, ORD-82426
+Opened: 2026-04-05 via web form
+
+Order details:
+ORD-27698  placed 2026-01-21  status: delivered  total: $405.14
+  payment method: card ending 7412  ship to: 606 Elm Ave
+  - standing desk x1
+  - merino socks, size M x1
+  - stainless water bottle, 750ml x2
+ORD-40789  placed 2026-01-27  status: delivered  total: $222.92
+  payment method: card ending 3347  ship to: 137 Harbor Ave
+  - rain jacket x1
+  - gift wrap x2
+  - microfiber cloth x1
+  - carabiner set x2
+ORD-75555  placed 2026-06-27  status: in transit  total: $130.77
+  payment method: card ending 1997  ship to: 913 Elm Rd
+  - mechanical keyboard x1
+  - gift wrap x3
+  - stainless water bottle, 750ml x2
+ORD-82426  placed 2026-02-12  status: delivered  total: $432.75
+  payment method: card ending 1006  ship to: 657 Harbor Ave
+  - cast iron skillet x1
+  - spare battery pack x1
+  - travel pouch x1
+
+--- message 1 from Amara Nwosu ---
+The water filter pitcher from ORD-75555 arrived with a scratch on the side. Can I get a replacement? Your app logged me out twice while I was looking at this, which didn't help. The confirmation email for ORD-82426 went to my spam folder, so I only just saw it. I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Amara Nwosu
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Pete (support) ---
+Loyalty points post about a week after an order is delivered. Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-82426 to the address on file. I've added a note to your account so the next agent has the context.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Amara Nwosu ---
+Yes, there were two payments, but they're for two different orders (ORD-40789 and ORD-82426), so that's fine. I just need a receipt for each. My earlier order ORD-75555 arrived fine, no complaints there. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Amara Nwosu
+
+--- message 4 from Pete (support) ---
+I've added a note to your account so the next agent has the context. I can see all the orders on your account, including ORD-27698. Tracking updates can lag by a day or two with this carrier.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Amara Nwosu ---
+The confirmation email for ORD-27698 went to my spam folder, so I only just saw it. I'm travelling next week, so email is the best way to reach me. Tracking for ORD-75555 hasn't updated since Tuesday. Could you also tell me whether ORD-27698 qualifies for the extended return window?
+
+Thanks,
+Amara Nwosu
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Pete (support) ---
+I've updated your shipping address on file. I can see all the orders on your account, including ORD-27698. Let me know if anything else looks off. Our warehouse shows ORD-27698 left on schedule.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Amara Nwosu ---
+My earlier order ORD-82426 arrived fine, no complaints there. The box for ORD-82426 was a bit crushed but the contents were fine. My partner placed ORD-82426 on our shared account, in case that matters. I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Amara Nwosu
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Pete (support) ---
+Thanks for reaching out, and sorry for the trouble. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-27698 left on schedule. I can see all the orders on your account, including ORD-27698.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

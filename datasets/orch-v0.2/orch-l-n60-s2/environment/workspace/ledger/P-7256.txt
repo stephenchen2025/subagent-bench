@@ -1,0 +1,12 @@
+Ledger page P-7256
+
+account      amount   see page
+Baker           +25   P-4182
+Umar           -396   P-4622
+Osei           +825   P-5473
+Abbott         -220   P-6899
+Lambert        +631   P-7523
+Young          -316   P-5568
+Kowalski        -70   P-2138
+
+Follow the entry with the largest credit.

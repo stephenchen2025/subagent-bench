@@ -1,0 +1,12 @@
+Ledger page P-8132
+
+account      amount   see page
+Moreau         +569   P-6032
+Weber          -111   P-2427
+Park           -152   P-9568
+Eriksen        +212   P-1731
+Quinn          +206   P-8173
+Ibarra         -286   P-6106
+Umar           +843   P-8832
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,67 @@
+Ticket T-5781
+Customer: Mateo Silva
+Orders on file: ORD-83611, ORD-88029, ORD-94629, ORD-88709
+Opened: 2026-02-01 via email
+
+Order details:
+ORD-83611  placed 2026-01-14  status: delivered  total: $198.73
+  payment method: card ending 4753  ship to: 505 Oak Ave
+  - desk lamp x1
+  - microfiber cloth x1
+  - merino socks, size M x3
+ORD-88029  placed 2026-01-05  status: delivered  total: $366.57
+  payment method: card ending 3621  ship to: 891 Cedar Rd
+  - yoga mat x1
+  - gift wrap x3
+  - extended warranty, 2 years x2
+ORD-94629  placed 2026-05-11  status: delivered  total: $218.67
+  payment method: card ending 3327  ship to: 803 Harbor Lane
+  - camping stove x1
+  - travel pouch x3
+  - USB-C charging cable (2m) x1
+  - replacement filter cartridge, 3-pack x2
+ORD-88709  placed 2026-05-22  status: delivered  total: $403.12
+  payment method: card ending 7301  ship to: 94 Harbor Ave
+  - espresso grinder x1
+  - stainless water bottle, 750ml x1
+  - USB-C charging cable (2m) x3
+  - spare battery pack x3
+
+--- message 1 from Mateo Silva ---
+Can I use a gift card on ORD-83611, or is it too late? The box for ORD-83611 was a bit crushed but the contents were fine. I'd rather not call; the hold times last time were very long. I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Mateo Silva
+
+--- message 2 from Luis (support) ---
+Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-88709. I've resent the confirmation email for ORD-88709 to the address on file.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Mateo Silva ---
+My partner placed ORD-83611 on our shared account, in case that matters. I tried the chat widget first but it kept disconnecting. The confirmation email for ORD-83611 went to my spam folder, so I only just saw it. I'm happy to send screenshots if that helps.
+
+Mateo Silva
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Luis (support) ---
+Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context. Let me know if anything else looks off. I've resent the confirmation email for ORD-83611 to the address on file.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Mateo Silva ---
+Is there a way to combine loyalty points from ORD-83611 with my next purchase? I'm happy to send screenshots if that helps. My partner placed ORD-83611 on our shared account, in case that matters. The box for ORD-88709 was a bit crushed but the contents were fine.
+
+Best regards,
+Mateo Silva
+
+--- message 6 from Luis (support) ---
+Let me know if anything else looks off. Loyalty points post about a week after an order is delivered. If you need an invoice for ORD-88029, you can download it from the Orders page. Our warehouse shows ORD-83611 left on schedule.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

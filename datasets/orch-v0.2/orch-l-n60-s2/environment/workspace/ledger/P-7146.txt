@@ -1,0 +1,11 @@
+Ledger page P-7146
+
+account      amount   see page
+Zhou           +758   P-6962
+Weber          -539   P-3727
+Vance          -756   P-3369
+Ibarra         +874   P-9719
+Abbott         +186   P-3475
+Dunn            -38   P-2118
+
+Follow the entry with the second-largest amount.

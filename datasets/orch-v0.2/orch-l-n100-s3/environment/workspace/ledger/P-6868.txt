@@ -1,0 +1,11 @@
+Ledger page P-6868
+
+account      amount   see page
+Jensen         +715   P-5365
+Rahman         -889   P-8976
+Lambert        +121   P-8160
+Baker          -616   P-2579
+Hughes         -407   P-6317
+Fofana         +552   P-9608
+
+Follow the credit belonging to the account that comes first alphabetically.

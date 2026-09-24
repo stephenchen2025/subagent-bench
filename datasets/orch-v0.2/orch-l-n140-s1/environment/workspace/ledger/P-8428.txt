@@ -1,0 +1,12 @@
+Ledger page P-8428
+
+account      amount   see page
+Silva          +314   P-6163
+Moreau         -420   P-4098
+Jensen         +699   P-4515
+Lambert        -893   P-8023
+Kowalski       +659   P-4810
+Rahman         +877   P-1075
+Vance          -641   P-7127
+
+Follow the entry with the largest debit (the most negative amount).

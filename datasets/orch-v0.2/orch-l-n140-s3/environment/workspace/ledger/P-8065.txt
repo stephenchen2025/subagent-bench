@@ -1,0 +1,12 @@
+Ledger page P-8065
+
+account      amount   see page
+Nakamura       -444   P-2368
+Tanaka          -55   P-4655
+Grant          -613   P-9651
+Young            +1   P-9724
+Osei           +313   P-6268
+Jensen         -466   P-9923
+Lambert        -241   P-2054
+
+Follow the entry with the largest credit.

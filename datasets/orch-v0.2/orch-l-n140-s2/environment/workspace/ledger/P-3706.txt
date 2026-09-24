@@ -1,0 +1,10 @@
+Ledger page P-3706
+
+account      amount   see page
+Jensen         +327   P-6306
+Fofana         -533   P-1295
+Moreau         -180   P-6021
+Xu              -33   P-3675
+Zhou           -522   P-9943
+
+Follow the entry with the largest debit (the most negative amount).

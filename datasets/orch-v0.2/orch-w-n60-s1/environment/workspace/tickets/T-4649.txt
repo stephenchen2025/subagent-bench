@@ -1,0 +1,71 @@
+Ticket T-4649
+Customer: Ben Carter
+Orders on file: ORD-33178, ORD-61666, ORD-98067, ORD-44989
+Opened: 2026-08-11 via email
+
+Order details:
+ORD-33178  placed 2026-02-20  status: in transit  total: $281.50
+  payment method: card ending 6575  ship to: 651 Cedar St
+  - trail running shoes x1
+  - merino socks, size M x1
+  - extended warranty, 2 years x1
+  - spare battery pack x2
+  - gift wrap x1
+ORD-61666  placed 2026-05-21  status: delivered  total: $432.07
+  payment method: card ending 9477  ship to: 881 Oak St
+  - yoga mat x1
+  - replacement filter cartridge, 3-pack x1
+  - carabiner set x1
+  - extended warranty, 2 years x3
+  - spare battery pack x3
+ORD-98067  placed 2026-02-17  status: delivered  total: $109.84
+  payment method: card ending 3979  ship to: 995 Oak St
+  - bike light set x1
+  - USB-C charging cable (2m) x3
+  - stainless water bottle, 750ml x1
+  - gift wrap x1
+ORD-44989  placed 2026-08-11  status: label created  total: $465.73
+  payment method: card ending 6654  ship to: 458 Elm Lane
+  - carry-on suitcase x1
+  - merino socks, size M x1
+  - gift wrap x2
+  - stainless water bottle, 750ml x3
+
+--- message 1 from Ben Carter ---
+I'd like to return the trail running shoes from ORD-98067; it's the wrong size. The box for ORD-44989 was a bit crushed but the contents were fine. The confirmation email for ORD-98067 went to my spam folder, so I only just saw it. Is there a way to combine loyalty points from ORD-44989 with my next purchase?
+
+Ben Carter
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Arjun (support) ---
+I've added a note to your account so the next agent has the context. I can see all the orders on your account, including ORD-98067. Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ben Carter ---
+Not your fault, but my gym billed me twice this month, which is why I'm nervous about ORD-33178. Everything on your side looks like a single charge, I just wanted to confirm the delivery date. The confirmation email for ORD-61666 went to my spam folder, so I only just saw it. Is there a way to combine loyalty points from ORD-44989 with my next purchase?
+
+Best regards,
+Ben Carter
+
+--- message 4 from Arjun (support) ---
+Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier. For ORD-98067, the return window is 30 days from delivery.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Ben Carter ---
+My earlier order ORD-61666 arrived fine, no complaints there. Is there a way to combine loyalty points from ORD-61666 with my next purchase? I'd rather not call; the hold times last time were very long. Could you also tell me whether ORD-61666 qualifies for the extended return window?
+
+Best regards,
+Ben Carter
+
+--- message 6 from Arjun (support) ---
+For ORD-44989, the return window is 30 days from delivery. Loyalty points post about a week after an order is delivered. I can see all the orders on your account, including ORD-61666. I've added a note to your account so the next agent has the context.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

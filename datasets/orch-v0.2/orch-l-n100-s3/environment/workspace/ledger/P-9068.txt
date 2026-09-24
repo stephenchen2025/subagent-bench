@@ -1,0 +1,11 @@
+Ledger page P-9068
+
+account      amount   see page
+Eriksen        +670   P-7933
+Fofana         +546   P-7288
+Xu             -171   P-6398
+Dunn           -131   P-9081
+Park           +265   P-3359
+Quinn          -568   P-4279
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,10 @@
+Ledger page P-5991
+
+account      amount   see page
+Moreau         -704   P-1412
+Ibarra         -336   P-6706
+Rahman         +265   P-1433
+Nakamura       -854   P-2252
+Grant          -800   P-7022
+
+Follow the entry with the largest credit.

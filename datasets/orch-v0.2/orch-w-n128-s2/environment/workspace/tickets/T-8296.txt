@@ -1,0 +1,71 @@
+Ticket T-8296
+Customer: Oskar Berg
+Orders on file: ORD-13019, ORD-36973, ORD-37657, ORD-28956
+Opened: 2026-04-09 via chat transcript
+
+Order details:
+ORD-13019  placed 2026-04-10  status: delivered  total: $367.12
+  payment method: card ending 7188  ship to: 678 Oak St
+  - standing desk x1
+  - spare battery pack x3
+  - carabiner set x2
+  - replacement filter cartridge, 3-pack x2
+ORD-36973  placed 2026-03-11  status: label created  total: $192.87
+  payment method: card ending 7148  ship to: 45 Oak Rd
+  - yoga mat x1
+  - microfiber cloth x1
+  - replacement filter cartridge, 3-pack x2
+ORD-37657  placed 2026-03-16  status: in transit  total: $126.32
+  payment method: card ending 5653  ship to: 95 Mill Rd
+  - standing desk x1
+  - microfiber cloth x1
+  - stainless water bottle, 750ml x2
+  - travel pouch x1
+ORD-28956  placed 2026-07-15  status: label created  total: $298.82
+  payment method: card ending 5015  ship to: 974 Oak Lane
+  - noise-cancelling headphones x1
+  - extended warranty, 2 years x2
+  - spare battery pack x3
+  - gift wrap x2
+  - USB-C charging cable (2m) x1
+
+--- message 1 from Oskar Berg ---
+Can I use a gift card on ORD-13019, or is it too late? The yoga mat itself is great, for what it's worth. Is there a way to combine loyalty points from ORD-37657 with my next purchase? The box for ORD-36973 was a bit crushed but the contents were fine.
+
+Thanks,
+Oskar Berg
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Rosa (support) ---
+Let me know if anything else looks off. I've added a note to your account so the next agent has the context. For ORD-36973, the return window is 30 days from delivery. Our warehouse shows ORD-36973 left on schedule.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Oskar Berg ---
+My partner placed ORD-36973 on our shared account, in case that matters. The confirmation email for ORD-36973 went to my spam folder, so I only just saw it. Is there a way to combine loyalty points from ORD-36973 with my next purchase? Your app logged me out twice while I was looking at this, which didn't help.
+
+Oskar Berg
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Rosa (support) ---
+Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering. For ORD-37657, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Oskar Berg ---
+The carry-on suitcase itself is great, for what it's worth. Is there a way to combine loyalty points from ORD-13019 with my next purchase? Tracking for ORD-13019 hasn't updated since Tuesday. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Oskar Berg
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Rosa (support) ---
+Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off. I can see all the orders on your account, including ORD-37657.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

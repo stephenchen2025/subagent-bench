@@ -1,0 +1,12 @@
+Ledger page P-3235
+
+account      amount   see page
+Rahman         +891   P-4465
+Ibarra         +395   P-6587
+Weber          +110   P-4133
+Young          -459   P-6293
+Dunn           -835   P-5991
+Park           +359   P-9199
+Grant          +643   P-8261
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,12 @@
+Ledger page P-2077
+
+account      amount   see page
+Rahman         -673   P-5731
+Baker          +565   P-6935
+Jensen         +738   P-4337
+Weber          -122   P-9251
+Tanaka         +795   P-4952
+Grant            -7   P-5476
+Fofana         +223   P-1695
+
+Follow the credit belonging to the account that comes first alphabetically.

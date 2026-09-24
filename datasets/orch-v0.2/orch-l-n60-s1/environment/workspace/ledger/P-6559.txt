@@ -1,0 +1,12 @@
+Ledger page P-6559
+
+account      amount   see page
+Ibarra         -514   P-6525
+Grant          -136   P-5258
+Castillo       +120   P-1525
+Lambert        -862   P-6639
+Park           -565   P-6553
+Jensen         -567   P-6219
+Xu             +843   P-6020
+
+Follow the entry with the largest debit (the most negative amount).

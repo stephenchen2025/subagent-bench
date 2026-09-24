@@ -1,0 +1,12 @@
+Ledger page P-7667
+
+account      amount   see page
+Nakamura       +753   P-8643
+Osei           -317   P-8370
+Jensen         +114   P-7618
+Moreau         +160   P-3324
+Castillo       +550   P-7200
+Silva          +548   P-7449
+Zhou           +348   P-2943
+
+Follow the entry with the largest credit.

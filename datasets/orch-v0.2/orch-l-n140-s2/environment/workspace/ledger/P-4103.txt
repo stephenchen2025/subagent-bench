@@ -1,0 +1,11 @@
+Ledger page P-4103
+
+account      amount   see page
+Hughes         -618   P-8954
+Castillo       +818   P-6117
+Umar           +298   P-4522
+Ibarra         +223   P-3667
+Rahman         -153   P-8497
+Quinn          +740   P-2852
+
+Follow the credit belonging to the account that comes first alphabetically.

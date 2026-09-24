@@ -1,0 +1,12 @@
+Ledger page P-6706
+
+account      amount   see page
+Jensen         -428   P-5162
+Osei           -386   P-9310
+Eriksen        +427   P-6883
+Kowalski       -852   P-8486
+Zhou           +512   P-1224
+Fofana         +679   P-4105
+Grant          -830   P-8855
+
+Follow the entry with the largest debit (the most negative amount).

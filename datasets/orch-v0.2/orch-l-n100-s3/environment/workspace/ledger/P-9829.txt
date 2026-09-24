@@ -1,0 +1,12 @@
+Ledger page P-9829
+
+account      amount   see page
+Grant          +559   P-2188
+Umar           -895   P-8671
+Lambert        +885   P-7272
+Weber           -58   P-1536
+Kowalski        +61   P-5313
+Rahman         +632   P-2267
+Dunn           -335   P-9726
+
+Follow the entry whose amount is closest to zero.

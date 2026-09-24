@@ -1,0 +1,10 @@
+Ledger page P-5599
+
+account      amount   see page
+Nakamura       +471   P-8027
+Xu             -223   P-5076
+Lambert        +412   P-7121
+Moreau          -25   P-3955
+Rahman         -854   P-1863
+
+Follow the credit belonging to the account that comes first alphabetically.

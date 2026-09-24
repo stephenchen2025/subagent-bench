@@ -1,0 +1,12 @@
+Ledger page P-4373
+
+account      amount   see page
+Umar           +810   P-3010
+Abbott         -358   P-6171
+Young           -43   P-9840
+Eriksen        +191   P-7688
+Lambert        -241   P-4197
+Xu              -48   P-2790
+Silva          +446   P-3970
+
+Follow the entry with the largest debit (the most negative amount).

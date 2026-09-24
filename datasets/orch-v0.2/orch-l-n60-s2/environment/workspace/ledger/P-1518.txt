@@ -1,0 +1,10 @@
+Ledger page P-1518
+
+account      amount   see page
+Weber           -73   P-6885
+Lambert        -151   P-4010
+Xu             +686   P-5094
+Young          +129   P-8410
+Hughes         -331   P-3472
+
+Follow the debit belonging to the account that comes last alphabetically.

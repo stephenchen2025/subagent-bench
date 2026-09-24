@@ -1,0 +1,11 @@
+Ledger page P-7446
+
+account      amount   see page
+Young          -403   P-9134
+Osei           +551   P-3148
+Fofana         -649   P-2278
+Dunn           +570   P-5535
+Lambert        +436   P-6008
+Zhou           +657   P-5912
+
+Follow the entry whose amount is closest to zero.

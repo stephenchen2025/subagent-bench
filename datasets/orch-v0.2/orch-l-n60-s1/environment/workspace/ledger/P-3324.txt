@@ -1,0 +1,11 @@
+Ledger page P-3324
+
+account      amount   see page
+Kowalski       -715   P-4631
+Weber          -630   P-9935
+Jensen         -528   P-8370
+Baker            +7   P-8799
+Grant          +793   P-4837
+Park            +33   P-7774
+
+Follow the entry with the largest debit (the most negative amount).

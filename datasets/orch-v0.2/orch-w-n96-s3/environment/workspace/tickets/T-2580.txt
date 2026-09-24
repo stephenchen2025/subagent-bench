@@ -1,0 +1,72 @@
+Ticket T-2580
+Customer: Maya Cohen
+Orders on file: ORD-52437, ORD-56763, ORD-79256, ORD-45788
+Opened: 2026-02-11 via web form
+
+Order details:
+ORD-52437  placed 2026-06-19  status: returned  total: $273.46
+  payment method: card ending 5999  ship to: 143 Harbor St
+  - rain jacket x1
+  - microfiber cloth x1
+  - travel pouch x1
+  - spare battery pack x1
+ORD-56763  placed 2026-05-13  status: delivered  total: $264.95
+  payment method: card ending 4566  ship to: 222 Elm Ave
+  - noise-cancelling headphones x1
+  - travel pouch x1
+  - microfiber cloth x1
+  - gift wrap x3
+  - replacement filter cartridge, 3-pack x1
+ORD-79256  placed 2026-04-05  status: in transit  total: $310.02
+  payment method: card ending 6943  ship to: 886 Mill Rd
+  - trail running shoes x1
+  - replacement filter cartridge, 3-pack x1
+  - extended warranty, 2 years x1
+  - stainless water bottle, 750ml x2
+  - carabiner set x1
+ORD-45788  placed 2026-06-14  status: delivered  total: $165.97
+  payment method: card ending 3420  ship to: 423 Elm Lane
+  - rain jacket x1
+  - travel pouch x2
+  - spare battery pack x2
+  - extended warranty, 2 years x1
+  - gift wrap x2
+
+--- message 1 from Maya Cohen ---
+Where is my refund for ORD-52437? You said 5 days and it has been 8. The bike light set itself is great, for what it's worth. I'd rather not call; the hold times last time were very long. The confirmation email for ORD-79256 went to my spam folder, so I only just saw it.
+
+Maya Cohen
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Arjun (support) ---
+For ORD-79256, the return window is 30 days from delivery. I can see all the orders on your account, including ORD-45788. Thanks for reaching out, and sorry for the trouble. I've updated your shipping address on file.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Maya Cohen ---
+I'd rather not call; the hold times last time were very long. I changed my shipping address last month, so please double-check you have the new one. I'm happy to send screenshots if that helps. Tracking for ORD-45788 hasn't updated since Tuesday.
+
+Best regards,
+Maya Cohen
+
+--- message 4 from Arjun (support) ---
+Let me know if anything else looks off. For ORD-52437, the return window is 30 days from delivery. I've updated your shipping address on file. Screenshots aren't necessary, but thank you for offering.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Maya Cohen ---
+Tracking for ORD-79256 hasn't updated since Tuesday. I've been a customer for a few years and usually everything goes smoothly. My earlier order ORD-52437 arrived fine, no complaints there. The cast iron skillet itself is great, for what it's worth.
+
+Best regards,
+Maya Cohen
+
+--- message 6 from Arjun (support) ---
+Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-45788, you can download it from the Orders page. I've added a note to your account so the next agent has the context. I can see all the orders on your account, including ORD-45788.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

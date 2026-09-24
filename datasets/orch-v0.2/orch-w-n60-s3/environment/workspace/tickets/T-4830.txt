@@ -1,0 +1,53 @@
+Ticket T-4830
+Customer: Tomas Novak
+Orders on file: ORD-41479, ORD-25601, ORD-99770, ORD-78874
+Opened: 2026-04-26 via web form
+
+Order details:
+ORD-41479  placed 2026-04-27  status: in transit  total: $260.91
+  payment method: card ending 6164  ship to: 764 Harbor Ave
+  - camping stove x1
+  - extended warranty, 2 years x2
+  - spare battery pack x3
+ORD-25601  placed 2026-01-02  status: in transit  total: $84.25
+  payment method: card ending 7734  ship to: 558 Mill Ave
+  - mechanical keyboard x1
+  - replacement filter cartridge, 3-pack x1
+  - gift wrap x3
+ORD-99770  placed 2026-08-15  status: returned  total: $185.01
+  payment method: card ending 5060  ship to: 336 Elm Lane
+  - espresso grinder x1
+  - carabiner set x3
+  - travel pouch x2
+ORD-78874  placed 2026-02-14  status: delivered  total: $125.66
+  payment method: card ending 3933  ship to: 395 Oak St
+  - blender x1
+  - gift wrap x2
+  - USB-C charging cable (2m) x2
+
+--- message 1 from Tomas Novak ---
+The cast iron skillet from ORD-78874 arrived with a scratch on the side. Can I get a replacement? I've been a customer for a few years and usually everything goes smoothly. I'm happy to send screenshots if that helps. The trail running shoes itself is great, for what it's worth.
+
+Thanks,
+Tomas Novak
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Fatima (support) ---
+I've resent the confirmation email for ORD-41479 to the address on file. I can see all the orders on your account, including ORD-41479. Screenshots aren't necessary, but thank you for offering. If you need an invoice for ORD-41479, you can download it from the Orders page.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Tomas Novak ---
+Could you also tell me whether ORD-78874 qualifies for the extended return window? The carry-on suitcase itself is great, for what it's worth. Tracking for ORD-78874 hasn't updated since Tuesday. I'm travelling next week, so email is the best way to reach me.
+
+Tomas Novak
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Fatima (support) ---
+Loyalty points post about a week after an order is delivered. Let me know if anything else looks off. If you need an invoice for ORD-78874, you can download it from the Orders page. I've resent the confirmation email for ORD-99770 to the address on file.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

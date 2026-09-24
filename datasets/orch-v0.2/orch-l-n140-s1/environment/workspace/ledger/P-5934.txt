@@ -1,0 +1,10 @@
+Ledger page P-5934
+
+account      amount   see page
+Baker          -679   P-1652
+Xu             -138   P-5879
+Rahman         +642   P-7378
+Umar            +80   P-4657
+Fofana         -253   P-9322
+
+Follow the debit belonging to the account that comes last alphabetically.

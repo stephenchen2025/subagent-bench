@@ -1,0 +1,11 @@
+Ledger page P-5720
+
+account      amount   see page
+Hughes         -258   P-3293
+Grant          +820   P-3836
+Weber          +432   P-4937
+Tanaka         +894   P-5078
+Dunn           -650   P-3179
+Xu             +819   P-6445
+
+Follow the entry with the largest debit (the most negative amount).

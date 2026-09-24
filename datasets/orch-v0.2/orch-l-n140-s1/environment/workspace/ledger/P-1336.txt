@@ -1,0 +1,10 @@
+Ledger page P-1336
+
+account      amount   see page
+Weber          -573   P-4360
+Rahman         -164   P-4113
+Vance          +534   P-1727
+Young          +168   P-2983
+Baker          +438   P-4354
+
+Follow the entry whose amount is closest to zero.

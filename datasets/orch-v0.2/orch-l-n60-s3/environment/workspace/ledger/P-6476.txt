@@ -1,0 +1,12 @@
+Ledger page P-6476
+
+account      amount   see page
+Jensen         +267   P-3352
+Fofana          -47   P-9865
+Castillo         -1   P-6337
+Weber          +750   P-3623
+Quinn          -789   P-1373
+Lambert        -177   P-5103
+Zhou           -428   P-4346
+
+Follow the entry with the largest credit.

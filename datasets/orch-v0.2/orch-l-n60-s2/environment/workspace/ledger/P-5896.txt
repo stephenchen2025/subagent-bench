@@ -1,0 +1,11 @@
+Ledger page P-5896
+
+account      amount   see page
+Osei           +574   P-9944
+Rahman         +491   P-5220
+Nakamura       +824   P-4162
+Ibarra         +346   P-6238
+Weber          -368   P-5616
+Eriksen        +408   P-9719
+
+Follow the entry with the largest credit.

@@ -1,0 +1,12 @@
+Ledger page P-8799
+
+account      amount   see page
+Quinn          +285   P-2047
+Ibarra         +643   P-2047
+Young          -692   P-2544
+Lambert        +872   P-9840
+Weber          +803   P-1230
+Castillo       +620   P-4913
+Xu             +131   P-4260
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,68 @@
+Ticket T-3748
+Customer: Felix Wagner
+Orders on file: ORD-25403, ORD-20153, ORD-49416, ORD-55956
+Opened: 2026-06-04 via web form
+
+Order details:
+ORD-25403  placed 2026-03-21  status: delivered  total: $473.40
+  payment method: card ending 4286  ship to: 905 Harbor Rd
+  - wool blanket x1
+  - gift wrap x3
+  - travel pouch x3
+ORD-20153  placed 2026-07-26  status: label created  total: $264.76
+  payment method: card ending 9370  ship to: 904 Cedar St
+  - carry-on suitcase x1
+  - merino socks, size M x1
+  - spare battery pack x3
+ORD-49416  placed 2026-05-27  status: in transit  total: $237.68
+  payment method: card ending 2885  ship to: 21 Mill Lane
+  - camping stove x1
+  - spare battery pack x2
+  - travel pouch x3
+  - gift wrap x3
+ORD-55956  placed 2026-01-08  status: delivered  total: $20.90
+  payment method: card ending 8124  ship to: 157 Cedar Rd
+  - espresso grinder x1
+  - carabiner set x3
+  - spare battery pack x2
+  - replacement filter cartridge, 3-pack x2
+
+--- message 1 from Felix Wagner ---
+How do I reset my password? The reset link keeps expiring. The confirmation email for ORD-55956 went to my spam folder, so I only just saw it. Is there a way to combine loyalty points from ORD-49416 with my next purchase? Could you also tell me whether ORD-49416 qualifies for the extended return window?
+
+Best regards,
+Felix Wagner
+
+--- message 2 from Rosa (support) ---
+I can see all the orders on your account, including ORD-20153. I've updated your shipping address on file. For ORD-20153, the return window is 30 days from delivery. Let me know if anything else looks off.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Felix Wagner ---
+I tried the chat widget first but it kept disconnecting. I've been a customer for a few years and usually everything goes smoothly. My partner placed ORD-20153 on our shared account, in case that matters. The box for ORD-20153 was a bit crushed but the contents were fine.
+
+Best regards,
+Felix Wagner
+
+--- message 4 from Rosa (support) ---
+I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-55956 to the address on file. Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Felix Wagner ---
+The confirmation email for ORD-55956 went to my spam folder, so I only just saw it. Is there a way to combine loyalty points from ORD-55956 with my next purchase? I changed my shipping address last month, so please double-check you have the new one. The box for ORD-20153 was a bit crushed but the contents were fine.
+
+Thanks,
+Felix Wagner
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Rosa (support) ---
+I've resent the confirmation email for ORD-55956 to the address on file. Tracking updates can lag by a day or two with this carrier. Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

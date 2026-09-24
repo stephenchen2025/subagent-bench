@@ -1,0 +1,12 @@
+Ledger page P-3860
+
+account      amount   see page
+Vance          -248   P-6147
+Fofana         -881   P-6147
+Hughes         -736   P-5720
+Jensen         -819   P-9110
+Young          +395   P-9617
+Tanaka         +737   P-2898
+Umar           +506   P-5757
+
+Follow the entry with the second-largest amount.

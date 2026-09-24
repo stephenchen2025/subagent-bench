@@ -1,0 +1,12 @@
+Ledger page P-2864
+
+account      amount   see page
+Eriksen        -753   P-4479
+Fofana         -172   P-9532
+Jensen         -697   P-5465
+Tanaka          -57   P-3834
+Xu             -144   P-2426
+Vance          -811   P-6511
+Grant          +875   P-8706
+
+Follow the debit belonging to the account that comes last alphabetically.

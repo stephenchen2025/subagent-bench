@@ -1,0 +1,12 @@
+Ledger page P-7724
+
+account      amount   see page
+Eriksen        +501   P-2281
+Lambert        -396   P-4060
+Silva          +158   P-1315
+Xu             -378   P-1371
+Baker          -552   P-2704
+Grant          -528   P-3359
+Park           +756   P-6317
+
+Follow the entry with the second-largest amount.

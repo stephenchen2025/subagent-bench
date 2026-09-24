@@ -1,0 +1,10 @@
+Ledger page P-5298
+
+account      amount   see page
+Hughes         +863   P-5069
+Fofana         -173   P-9154
+Umar           -258   P-7551
+Grant          +686   P-2779
+Quinn          +256   P-6952
+
+Follow the debit belonging to the account that comes last alphabetically.

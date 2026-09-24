@@ -1,0 +1,12 @@
+Ledger page P-2558
+
+account      amount   see page
+Park           -203   P-7334
+Lambert        +179   P-8800
+Jensen         -292   P-9380
+Vance          -427   P-1261
+Zhou           -577   P-1386
+Rahman         +589   P-8643
+Young          +439   P-2560
+
+Follow the entry whose amount is closest to zero.

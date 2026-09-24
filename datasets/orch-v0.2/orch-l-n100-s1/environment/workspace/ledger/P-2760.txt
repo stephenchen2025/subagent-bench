@@ -1,0 +1,11 @@
+Ledger page P-2760
+
+account      amount   see page
+Lambert        -801   P-9723
+Silva          -450   P-1195
+Osei           -897   P-7621
+Zhou           +473   P-6283
+Castillo       -360   P-1064
+Dunn           -881   P-2039
+
+Follow the entry whose amount is closest to zero.

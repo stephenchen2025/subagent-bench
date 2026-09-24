@@ -1,0 +1,10 @@
+Ledger page P-6136
+
+account      amount   see page
+Silva          -485   P-7888
+Quinn          +394   P-9800
+Park           -210   P-1615
+Grant          +821   P-6398
+Baker          +626   P-3441
+
+Follow the entry whose amount is closest to zero.

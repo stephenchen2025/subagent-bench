@@ -1,0 +1,12 @@
+Ledger page P-6996
+
+account      amount   see page
+Abbott         -133   P-6899
+Dunn           +439   P-2745
+Grant          +823   P-8948
+Umar           -151   P-7830
+Fofana         +696   P-7464
+Silva          +692   P-9916
+Park           -700   P-4426
+
+Follow the debit belonging to the account that comes last alphabetically.

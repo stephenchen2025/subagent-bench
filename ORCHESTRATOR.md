@@ -33,14 +33,14 @@ tests it (§3).
 |---|---|---|---|
 | **Breadth**: many independent items, each needing to be read | Each worker gets a fresh window; only the distilled result returns. The lead's context is spent on synthesis, not raw material. | Anthropic's research system: multi-agent beat single-agent Opus by 90.2% on breadth-first queries, and token use alone explained ~80% of the variance. | **W** wide sweep |
 | **Independent multi-step investigations** | Per-item work is sequential; items are not. Parallel workers cut the critical path. | Anthropic: parallel subagents cut research time by up to 90%. Google/MIT scaling study: centralized coordination +80.9% on parallelizable tasks. | **P** parallel probes |
-| **Noisy intermediate output** | Verbose logs and test output stay in the worker's context; the lead receives a summary. Context rot degrades every frontier model as input grows. | Claude Code docs ("use a subagent when the task produces verbose output you don't need"); Chroma context-rot study (18 models, all degrade). | W and P, via per-observation truncation and the context cap |
+| **Noisy intermediate output** | Verbose logs and test output stay in the worker's context; the lead receives a summary. Context rot degrades every frontier model as input grows. | Claude Code docs ("use a subagent when the task produces verbose output you don't need"); Chroma context-rot study (18 models, all degrade). | W, P and C, via per-observation truncation and the context cap |
 
 ### When subagents hurt
 
 | Condition | Why | Evidence | Family |
 |---|---|---|---|
-| **Coupled subtasks with implicit shared decisions** | Isolated workers make independent choices about things the brief didn't pin down. Each is locally reasonable; together they are incompatible. | Cognition, "Don't Build Multi-Agents" (the Flappy Bird example). MAST: 37% of multi-agent failures are inter-agent misalignment, 42% are specification problems. | **C** coupled change |
-| **Small or sequential tasks** | Delegation costs a brief, a cold start and re-discovery of context, and returns nothing a solo agent couldn't do in a few steps. | Claude Code docs ("quick, targeted change → main conversation"). Scaling study: on sequential tasks every multi-agent variant *degraded* performance by 39–70%, and coordination returns diminish once the solo baseline is above ~45%. | **S** small fix |
+| **Coupled subtasks with implicit shared decisions** | Isolated workers make independent choices about things the brief didn't pin down. Each is locally reasonable; together they are incompatible. | Cognition, "Don't Build Multi-Agents" (the Flappy Bird example). MAST: 37% of multi-agent failures are inter-agent misalignment, 42% are specification problems. | **C** coupled views (without a contract) |
+| **Sequential tasks** | Each step needs the previous step's result, so there is nothing to run in parallel; splitting only adds briefs, cold starts and handoffs that can go wrong. | Scaling study: on sequential tasks every multi-agent variant *degraded* performance by 39–70%. Claude Code docs: work where "multiple phases share significant context" belongs in the main conversation. | **L** ledger chain |
 | **The benefit is just compute** | A multi-agent system that wins only because it spent more tokens has shown nothing about structure. | "Rethinking the Value of Multi-Agent Workflow": a single agent matches homogeneous multi-agent workflows. Anthropic: 15× the tokens of chat. | the **solo-xl** control (§4) |
 
 ### What a good orchestrator does once it delegates
@@ -80,29 +80,39 @@ subagent calls are tool calls, and Claude Code marks worker steps
 
 ## 3. Task families
 
-Every family is a procedural generator. One seed produces a new variant with
-different ids, text and planted answers. Every family also has a **size** knob,
-because the delegation question is about scale.
+Every task is **long-horizon with an explicit breakdown**, and a test enforces
+it (`test_every_task_is_long_horizon_with_an_explicit_breakdown`): a scripted
+agent with perfect reading and unlimited context needs 60–160 steps, and there
+are at least 8 units of work. Real agents need more. Every family is a
+procedural generator (one seed, one new variant), and every family has a
+**size** knob, because the delegation question is about scale.
 
-| Family | Delegation label | Size knob | Verifier |
-|---|---|---|---|
-| **W — wide sweep.** N support tickets. Find every one reporting a duplicate charge for a single order, and name that order. Positive cases are paraphrased, and decoys use the same vocabulary (negated, resolved, hypothetical, two different orders), so grep narrows the search but cannot finish it. | `optional` at N=6, `delegate` above | N ∈ {6, 24, 72} | F1 over (ticket, order) pairs |
-| **P — parallel probes.** K services are degraded. For each, follow a three-hop diagnosis through `svcctl` (status → component → logs) to name the failing component and its root cause. Each hop depends on reading the previous one, and each call has latency. | `optional` at K=3, `delegate` above | K ∈ {3, 10, 20} | mean per-service (component, cause) accuracy |
-| **C — coupled change.** Add a `priority` field across M modules of a small job system. The edge API is specified; the internal record format is deliberately not. A consistent choice passes the hidden integration test; two isolated workers choosing independently usually do not. | `solo` (or delegate *with* a contract) | M ∈ {4, 7} | hidden integration tests, plus per-module unit tests |
-| **S — small fix.** One off-by-one bug, one file, a failing test named in the brief. | `solo` | – | the test passes |
+| Family | Units, and how they split | Label | Sizes | Verifier |
+|---|---|---|---|---|
+| **W — wide sweep.** Find every support ticket reporting a real duplicate charge and name the order. Positives are paraphrased and decoys share their vocabulary, so grep narrows the work but cannot finish it. | one file per ticket in `tickets/`; any grouping works | `delegate` | N ∈ {60, 96, 128} | F1 over (ticket, order) pairs |
+| **P — parallel probes.** Diagnose K degraded services, three dependent `svcctl` calls each (status → component → logs), naming the failing component and root cause. | services named in the instruction; each is independent | `delegate` | K ∈ {15, 25, 38} | per-service (component, cause) accuracy |
+| **C — coupled views.** Add job priorities, then make each of M views show them exactly as its own spec in `docs/views/` says. | views named in the instruction; each is independent *once the record format is fixed*, which the instruction deliberately leaves open | `delegate`, behind a contract | M ∈ {20, 30, 40} | hidden checks: core behaviour + one per view |
+| **L — ledger chain.** Follow H ledger pages; each page's rule picks the next. Decoy pages outnumber the chain. | hops, strictly sequential: page k+1 is unknown until page k is read | `solo` | H ∈ {60, 100, 140} | correct prefix of the visited path |
+
+Measured minimum solo effort (scripted perfect agent, unlimited context, seed 1):
+
+| | smallest | middle | largest | hits the 32k context wall |
+|---|---|---|---|---|
+| W steps / context | 69 / 64k | 113 / 104k | 144 / 132k | at every size |
+| P steps / context | 61 / 21k | 101 / 37k | 153 / 61k | from K=25 |
+| C steps / context | 65 / 20k | 95 / 29k | 125 / 38k | at M=40 (real agents sooner) |
+| L steps / context | 64 / 6k | 106 / 10k | 148 / 15k | never, by design |
+
+So W, P and C all have a solo curve that falls as the task grows, and L has
+nothing for a subagent to buy. C is the family that separates good delegation
+from bad: any one consistent record format scores 1.0, but workers choosing
+independently average about 0.3.
 
 Every task ships a `solution/solve.sh`, so `harbor run -a oracle` proves the
 task is solvable and its verifier returns 1.0. A task that fails that check
-does not ship.
-
-Sizes are set against the reference harness's per-agent budget (§6), and the
-two delegation-favourable families hit *different* walls. W hits the context
-wall: tickets are ~1.1k tokens each, so N=24 (~26k) just fits one 32k window
-after keyword narrowing, and N=72 (~80k) cannot. P hits the step wall: each
-service takes three dependent calls, so K=20 needs more than the 40-step budget
-while using under half the context. A system-track run against a scaffold with
-a 200k or 1M window needs larger N; the generator takes any N
-(`tools/orch_generate.py --sizes W=6,24,72,288`).
+does not ship. A system-track run against a scaffold with a 200k or 1M window
+needs larger sizes; the generator takes any size
+(`tools/orch_generate.py --sizes W=60,128,256 --out build/orch-big`).
 
 ## 4. Conditions
 
@@ -115,10 +125,10 @@ affordance changes.
 | **solo** | no | 1× | the flat baseline |
 | **solo-xl** | no | 8× context and steps | compute-matched control. If delegate beats solo-xl, the gain is structural (isolation and parallelism), not just more tokens. If it doesn't, say so. |
 | **delegate** | yes, model decides | 1× each | the system under test |
-| **oracle-split** | scripted by the harness | 1× each | the ceiling: an ideal partition, ideal briefs and scripted synthesis, with the same model as workers. Defined for W and P. |
+| **oracle-split** | scripted by the harness | 1× each | the ceiling: an ideal partition, ideal briefs and scripted synthesis, with the same model as workers. Defined for W, P and C (C's plan puts the record contract in every brief). |
 
-For C and S the ideal policy is *not to delegate*, so their ceiling is the solo
-score and the interesting number is the tax.
+For L the ideal policy is *not to delegate*, so its ceiling is the solo score
+and the interesting numbers are the tax and the decision.
 
 In the system track (Claude Code under Harbor), `solo` is
 `--ak disallowed_tools=Agent,Task` (current and older names of the tool) and
@@ -147,7 +157,7 @@ are excluded rather than divided by noise.
 
 ### 5.2 Cost of delegating where it doesn't pay
 
-For C and S:
+For L:
 
 ```
 Over-delegation tax = S(solo) − S(delegate)       (≥ 0 is a loss)
@@ -158,8 +168,23 @@ Delegation rate     = fraction of runs that spawned anything
 The cost ratio includes the price of *carrying* the affordance: the delegate
 prompt documents the `subagent` command, so a lead that never spawns still pays
 a few hundred tokens per call for it (the rehearsal's judicious policy shows
-1.37× on C and S without spawning once). Claude Code's Agent tool description
+1.04× on L without spawning once). Claude Code's Agent tool description
 costs the same way. That is a real cost of offering subagents, so it stays in.
+
+**A caveat the rehearsal surfaced.** On L, a relay of workers (each continuing
+where the last stopped) scores 1.00 *and* costs fewer tokens than solo (0.31×):
+a solo agent re-reads its ever-growing context on every step, while each relay
+worker's context stays short. Scripted workers never fumble a handoff, so in
+the rehearsal splitting a sequential task costs nothing. Whether real handoffs
+lose the thread, as the scaling study found, is exactly what a live run on L
+measures. Decision accuracy still counts delegating on L as the wrong call,
+since there is no parallelism to gain; the tax and cost columns show whether
+that judgment is right for a given model.
+
+**Harm** covers what capture cannot see. Capture skips cells where solo is
+already at the ceiling (e.g. C at M=20), so a delegate that scores *below*
+solo there would vanish from it. Harm is the mean of max(0, solo − delegate)
+over every delegation-favourable cell.
 
 ### 5.3 Judgment and process (delegate runs, from telemetry)
 
@@ -167,20 +192,20 @@ costs the same way. That is a real cost of offering subagents, so it stays in.
 |---|---|
 | **Decision accuracy** | Balanced accuracy of "spawned ≥1 subagent" against the task label, over tasks labelled `delegate` or `solo`. |
 | **Fan-out** | subagents spawned, peak concurrency |
-| **Coverage** | fraction of the task's work items (tickets, services) named in at least one brief |
+| **Coverage** | fraction of the task's work items (tickets, services, views) named in at least one brief |
 | **Duplication** | fraction of named items that appear in more than one brief |
 | **Synthesis loss** | items a worker reported correctly that the final answer lacks or gets wrong |
 | **Lead context peak** | the orchestrator's peak context as a fraction of its cap. Delegation should keep it low. |
 | **Cost** | total tokens (lead + workers), lead tokens, wall-clock, critical path |
 
-Coverage and duplication need the item ids, which every W and P task exports
+Coverage and duplication need the item ids, which every W, P and C task exports
 as `work_items`. Synthesis loss needs worker reports, which both the reference
 harness and Claude Code transcripts preserve.
 
 ### 5.4 Headline table
 
-Per model, one row per condition, with columns W@N and P@K for each size, C, S,
-Capture, tax, decision accuracy, and total tokens. The required plot is score
+Per model, one row per condition, with columns for each family and size,
+Capture, harm, tax, decision accuracy, and total tokens. The required plot is score
 against task size, one line per condition. The area between solo and delegate
 is the benefit; the area between delegate and oracle-split is the headroom.
 
@@ -210,7 +235,7 @@ Per-agent limits are explicit and identical for the lead and each worker:
 | Limit | Default | Why |
 |---|---|---|
 | context | 32k tokens | the wall a solo agent hits. Enforced by counting before every model call; exceeding it ends that agent, and whatever it already wrote to disk is scored. |
-| steps | 40 | the turn budget P stresses |
+| steps | 160 | enough for a solo agent to run the whole horizon, so the binding wall is context, not an arbitrary turn cap |
 | observation | 16k chars | head+tail truncation, as real scaffolds do. Stops `cat *` from being a free escape hatch. |
 | subagents | 8 concurrent, 16 total | |
 
@@ -244,50 +269,45 @@ scaffold's real ones.
 
 ## 8. Status, and what has been verified
 
-**Built:** four generators (W, P, C, S), a stdlib-only in-container verifier,
+**Built:** four generators (W, P, C, L), a stdlib-only in-container verifier,
 Harbor emission with oracle solutions, the reference harness with all four
 conditions, a Harbor agent for it, ATIF import for any other scaffold, the
-metrics, the report, and a scripted-policy rehearsal. 82 tests
-(`tests/test_orch_*.py`).
+metrics, the report, and a scripted-policy rehearsal. The task set is checked in
+as `datasets/orch-v0.2` (36 tasks: 4 families × 3 sizes × 3 seeds); v0.1's
+short tasks and the S family were retired because they were not long-horizon.
 
 **Verified against real Harbor 0.23.0 in Docker, with no API key:**
-
-1. `harbor run -a oracle` over one seed of the emitted set: all 9 tasks (4 families × their sizes) build,
-   run their oracle solution, and score 1.0.
-2. The reference harness under Harbor, driven by scripted policies
-   (`-a orch.harbor_agent:OrchRehearsalAgent`): the lead and up to 8 parallel
-   workers share one container through the async bridge, and `orch_collect`
-   turns the job directories into the same report the local rehearsal produces.
+`harbor run -a oracle` over the full set: all 36 tasks build, run their oracle
+solution, and score 1.0 (`results/harbor-oracle.md`).
 
 **The rehearsal.** Every agent is a scripted *perfect reader*, so reading skill is
 held constant and only structure varies. That checks that the metrics separate
-policies as designed (`make orch-rehearse`, 3 seeds, 162 runs, ~40s):
+policies as designed (`make orch-rehearse`, 3 seeds, 216 runs, ~3 minutes;
+`results/rehearsal-local/`):
 
-| delegate policy | capture | tax C/S | decision acc. | coverage | duplication | synthesis loss |
-|---|---|---|---|---|---|---|
-| judicious: delegates W/P above a size threshold, solo on C/S | 1.00 | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 |
-| eager: always fans out, briefs carry no shared contract | 0.57 | +0.35 | 0.50 | 0.91 | 0.00 | 0.00 |
-| sloppy: leaves a gap, duplicates a group, drops findings | 0.23 | 0.00 | 1.00 | 0.78 | 0.42 | 0.34 |
+| delegate policy | capture | harm | tax L | decision acc. | coverage | duplication | synthesis loss |
+|---|---|---|---|---|---|---|---|
+| judicious: delegates W, P and C with the contract; follows L itself | 1.00 | 0.00 | 0.00 | 1.00 | 1.00 | 0.00 | 0.00 |
+| eager: delegates everything finely, no contract; relays L | 0.52 | 0.22 | 0.00 | 0.50 | 0.93 | 0.00 | 0.00 |
+| sloppy: gaps, duplicate groups, drops findings | −0.10 | 0.15 | 0.00 | 1.00 | 0.87 | 0.20 | 0.50 |
 
-Solo is flat and falls off at the top size on both W (0.61, `ContextExceeded`)
-and P (0.50, `StepLimitExceeded`). Eager's coverage is 0.91 because a
-one-worker-per-service split runs into the 16-subagent limit. Structural lift is
-exactly 0 everywhere, because a perfect reader has no context rot. Whether a real
-model does is the live run's question, and the column is there to answer it.
+Solo falls with size on every splittable family (W 0.61 → 0.40, P 1.00 → 0.58,
+C 1.00 → 0.84), each time on `ContextExceeded`. On C, fanning out without the
+contract averages about 0.3 even where solo is perfect, which is what the harm
+column exists to catch. Structural lift is exactly 0 everywhere, because a
+perfect reader has no context rot, and L shows no tax because scripted relays
+never fumble a handoff (§5.2). Both are questions only a real model can answer.
 
 **Next:**
 
-1. **First real run** (needs `ANTHROPIC_API_KEY`): 2 models × 4 conditions ×
-   (W, P at three sizes + C + S), 3 seeds, about 100 runs per model.
-   `make orch-run MODELS=...` locally, or Harbor as in the README.
+1. **First real run** with a cheap model (Haiku 4.5; needs `ANTHROPIC_API_KEY`):
+   4 conditions × 36 tasks = 144 runs. `make orch-run
+   MODELS=anthropic/claude-haiku-4-5-20251001` locally, or Harbor as in the README.
 2. **System track:** Claude Code with and without the Agent tool on the same set;
    `orch_collect` reads its ATIF trajectories.
 3. **Link the tracks:** score delegate-condition worker reports with HANDOFF's
    frozen consumer, to tell whether synthesis loss comes from bad reports or from
    a bad lead.
-4. **More families** once the first run shows which cells separate models: a
-   mixed task (sweep, then a coupled edit) that rewards delegating *part* of the
-   work, and a fresh-eyes review family.
 
 ## 9. Sources
 

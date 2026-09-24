@@ -1,0 +1,12 @@
+Ledger page P-5535
+
+account      amount   see page
+Abbott         -798   P-1983
+Baker          -818   P-5618
+Quinn          -463   P-1400
+Vance          +212   P-8421
+Osei            +92   P-2702
+Weber          +197   P-2606
+Rahman         -600   P-4890
+
+Follow the debit belonging to the account that comes last alphabetically.

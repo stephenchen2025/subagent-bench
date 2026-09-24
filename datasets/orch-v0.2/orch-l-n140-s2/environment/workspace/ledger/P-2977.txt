@@ -1,0 +1,11 @@
+Ledger page P-2977
+
+account      amount   see page
+Quinn          +257   P-3010
+Silva          +610   P-3010
+Rahman         +892   P-5908
+Jensen         -333   P-7361
+Fofana         -355   P-5438
+Park           +344   P-6762
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,56 @@
+Ticket T-4178
+Customer: Leila Haddad
+Orders on file: ORD-67034, ORD-23570, ORD-30413, ORD-63621
+Opened: 2026-05-23 via chat transcript
+
+Order details:
+ORD-67034  placed 2026-03-25  status: delivered  total: $471.87
+  payment method: card ending 7335  ship to: 843 Oak Rd
+  - desk lamp x1
+  - stainless water bottle, 750ml x3
+  - travel pouch x2
+  - merino socks, size M x3
+  - extended warranty, 2 years x2
+ORD-23570  placed 2026-03-25  status: label created  total: $64.93
+  payment method: card ending 7193  ship to: 549 Harbor Rd
+  - yoga mat x1
+  - travel pouch x3
+  - replacement filter cartridge, 3-pack x1
+ORD-30413  placed 2026-01-13  status: delivered  total: $178.24
+  payment method: card ending 8946  ship to: 595 Mill Lane
+  - blender x1
+  - carabiner set x1
+  - USB-C charging cable (2m) x1
+  - gift wrap x3
+  - stainless water bottle, 750ml x3
+ORD-63621  placed 2026-05-11  status: label created  total: $387.11
+  payment method: card ending 3201  ship to: 138 Elm Rd
+  - standing desk x1
+  - replacement filter cartridge, 3-pack x3
+  - carabiner set x1
+
+--- message 1 from Leila Haddad ---
+The espresso grinder from ORD-30413 arrived with a scratch on the side. Can I get a replacement? Could you also tell me whether ORD-23570 qualifies for the extended return window? I'd rather not call; the hold times last time were very long. The confirmation email for ORD-30413 went to my spam folder, so I only just saw it.
+
+Leila Haddad
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Luis (support) ---
+For ORD-30413, the return window is 30 days from delivery. Our warehouse shows ORD-23570 left on schedule. I've updated your shipping address on file. I've added a note to your account so the next agent has the context.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Leila Haddad ---
+Tracking for ORD-30413 hasn't updated since Tuesday. I changed my shipping address last month, so please double-check you have the new one. The box for ORD-30413 was a bit crushed but the contents were fine. My partner placed ORD-67034 on our shared account, in case that matters.
+
+Best regards,
+Leila Haddad
+
+--- message 4 from Luis (support) ---
+Tracking updates can lag by a day or two with this carrier. Let me know if anything else looks off. For ORD-23570, the return window is 30 days from delivery. Our warehouse shows ORD-30413 left on schedule.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,91 @@
+Ticket T-2521
+Customer: Amara Nwosu
+Orders on file: ORD-63774, ORD-17028, ORD-27167, ORD-31659
+Opened: 2026-04-18 via chat transcript
+
+Order details:
+ORD-63774  placed 2026-07-09  status: delivered  total: $367.44
+  payment method: card ending 4519  ship to: 420 Cedar Rd
+  - desk lamp x1
+  - stainless water bottle, 750ml x3
+  - merino socks, size M x1
+  - extended warranty, 2 years x2
+  - gift wrap x2
+ORD-17028  placed 2026-01-25  status: label created  total: $165.55
+  payment method: card ending 7023  ship to: 570 Cedar Rd
+  - carry-on suitcase x1
+  - gift wrap x1
+  - replacement filter cartridge, 3-pack x2
+  - spare battery pack x3
+  - USB-C charging cable (2m) x1
+ORD-27167  placed 2026-07-07  status: returned  total: $351.75
+  payment method: card ending 5192  ship to: 778 Oak Rd
+  - trail running shoes x1
+  - merino socks, size M x1
+  - extended warranty, 2 years x3
+ORD-31659  placed 2026-02-13  status: in transit  total: $419.82
+  payment method: card ending 8352  ship to: 654 Harbor Rd
+  - cast iron skillet x1
+  - replacement filter cartridge, 3-pack x1
+  - travel pouch x2
+  - stainless water bottle, 750ml x1
+
+--- message 1 from Amara Nwosu ---
+The bike light set from ORD-31659 arrived with a scratch on the side. Can I get a replacement? I changed my shipping address last month, so please double-check you have the new one. The confirmation email for ORD-27167 went to my spam folder, so I only just saw it. Could you also tell me whether ORD-31659 qualifies for the extended return window?
+
+Best regards,
+Amara Nwosu
+
+--- message 2 from Arjun (support) ---
+Thanks for reaching out, and sorry for the trouble. I've resent the confirmation email for ORD-27167 to the address on file. For ORD-27167, the return window is 30 days from delivery. Loyalty points post about a week after an order is delivered.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Amara Nwosu ---
+ORD-17028 shows up once in my order history, but my online banking shows it paid for on two separate lines. I'm happy to send screenshots if that helps. I changed my shipping address last month, so please double-check you have the new one.
+
+Amara Nwosu
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Arjun (support) ---
+I've checked with our payments team: both captures for ORD-17028 settled, so you were genuinely charged twice. I've issued a refund for the second one; it should show within 3-5 business days. Our warehouse shows ORD-27167 left on schedule. Tracking updates can lag by a day or two with this carrier.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Amara Nwosu ---
+Your app logged me out twice while I was looking at this, which didn't help. I tried the chat widget first but it kept disconnecting. The carry-on suitcase itself is great, for what it's worth.
+
+Thanks,
+Amara Nwosu
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Amara Nwosu ---
+I'm happy to send screenshots if that helps. The yoga mat itself is great, for what it's worth. The confirmation email for ORD-31659 went to my spam folder, so I only just saw it. I'd rather not call; the hold times last time were very long.
+
+Amara Nwosu
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Arjun (support) ---
+I've resent the confirmation email for ORD-27167 to the address on file. Let me know if anything else looks off. I can see all the orders on your account, including ORD-63774. Tracking updates can lag by a day or two with this carrier.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Amara Nwosu ---
+My earlier order ORD-31659 arrived fine, no complaints there. The box for ORD-63774 was a bit crushed but the contents were fine. I'm travelling next week, so email is the best way to reach me. The confirmation email for ORD-63774 went to my spam folder, so I only just saw it.
+
+Thanks,
+Amara Nwosu
+Sent from my phone -- please excuse typos.
+
+--- message 9 from Arjun (support) ---
+For ORD-27167, the return window is 30 days from delivery. I can see all the orders on your account, including ORD-63774. Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

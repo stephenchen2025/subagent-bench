@@ -1,0 +1,11 @@
+Ledger page P-4327
+
+account      amount   see page
+Baker          +858   P-1315
+Dunn           -428   P-4713
+Osei           -118   P-8023
+Rahman         +816   P-3721
+Jensen         +382   P-8349
+Castillo       -159   P-1204
+
+Follow the entry with the largest credit.

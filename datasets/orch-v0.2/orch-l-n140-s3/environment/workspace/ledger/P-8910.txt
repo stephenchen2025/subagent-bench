@@ -1,0 +1,12 @@
+Ledger page P-8910
+
+account      amount   see page
+Silva          -469   P-5991
+Jensen         -423   P-9923
+Fofana         +503   P-3607
+Young          +420   P-5443
+Kowalski       -654   P-3475
+Xu             -245   P-3360
+Dunn           +726   P-1252
+
+Follow the credit belonging to the account that comes first alphabetically.

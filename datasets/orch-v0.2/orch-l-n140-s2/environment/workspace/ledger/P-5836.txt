@@ -1,0 +1,12 @@
+Ledger page P-5836
+
+account      amount   see page
+Nakamura       +193   P-4046
+Weber          +537   P-5706
+Zhou           +542   P-4963
+Quinn          -456   P-6936
+Park           +380   P-1611
+Ibarra         -774   P-6746
+Kowalski       -509   P-9305
+
+Follow the entry with the largest debit (the most negative amount).

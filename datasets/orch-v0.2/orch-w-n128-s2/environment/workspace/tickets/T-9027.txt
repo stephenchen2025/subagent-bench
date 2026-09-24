@@ -1,0 +1,63 @@
+Ticket T-9027
+Customer: Grace Mwangi
+Orders on file: ORD-96716, ORD-94302, ORD-63522, ORD-92617
+Opened: 2026-02-28 via email
+
+Order details:
+ORD-96716  placed 2026-07-22  status: delivered  total: $465.35
+  payment method: card ending 8721  ship to: 233 Oak St
+  - bike light set x1
+  - merino socks, size M x1
+  - gift wrap x1
+ORD-94302  placed 2026-02-06  status: delivered  total: $397.45
+  payment method: card ending 5090  ship to: 50 Mill Rd
+  - bike light set x1
+  - merino socks, size M x2
+  - USB-C charging cable (2m) x2
+  - gift wrap x3
+  - microfiber cloth x1
+ORD-63522  placed 2026-05-03  status: delivered  total: $209.79
+  payment method: card ending 6445  ship to: 37 Mill St
+  - noise-cancelling headphones x1
+  - USB-C charging cable (2m) x1
+  - merino socks, size M x2
+  - replacement filter cartridge, 3-pack x3
+ORD-92617  placed 2026-08-08  status: label created  total: $35.96
+  payment method: card ending 6730  ship to: 947 Elm St
+  - water filter pitcher x1
+  - spare battery pack x2
+  - microfiber cloth x1
+  - merino socks, size M x2
+
+--- message 1 from Grace Mwangi ---
+How do I reset my password? The reset link keeps expiring. My partner placed ORD-63522 on our shared account, in case that matters. My earlier order ORD-96716 arrived fine, no complaints there. I changed my shipping address last month, so please double-check you have the new one.
+
+Grace Mwangi
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Luis (support) ---
+I've resent the confirmation email for ORD-96716 to the address on file. I've added a note to your account so the next agent has the context. I've updated your shipping address on file. For ORD-94302, the return window is 30 days from delivery.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Grace Mwangi ---
+I see two charges on my bank this week, one for ORD-92617 and one for ORD-63522. Both are correct -- I ordered twice on purpose -- but could you send me the invoices for my expense report? I changed my shipping address last month, so please double-check you have the new one. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Grace Mwangi
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Grace Mwangi ---
+I'm happy to send screenshots if that helps. The box for ORD-63522 was a bit crushed but the contents were fine. The confirmation email for ORD-94302 went to my spam folder, so I only just saw it. I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Grace Mwangi
+
+--- message 5 from Luis (support) ---
+Let me know if anything else looks off. Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context. I've updated your shipping address on file.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,11 @@
+Ledger page P-6809
+
+account      amount   see page
+Grant          -841   P-6048
+Eriksen         -95   P-1566
+Jensen          +32   P-7667
+Young          +662   P-8318
+Vance          +220   P-3866
+Ibarra         -261   P-9733
+
+Follow the entry with the largest credit.

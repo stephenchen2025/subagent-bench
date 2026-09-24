@@ -1,0 +1,11 @@
+Ledger page P-8410
+
+account      amount   see page
+Park            +69   P-9647
+Kowalski        +23   P-9850
+Ibarra         +620   P-8971
+Baker          -551   P-3985
+Castillo       +258   P-8853
+Hughes         +890   P-8094
+
+Follow the entry with the largest debit (the most negative amount).

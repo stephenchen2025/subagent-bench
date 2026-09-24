@@ -1,0 +1,12 @@
+Ledger page P-4169
+
+account      amount   see page
+Silva          +362   P-7542
+Nakamura       +482   P-3361
+Zhou             +5   P-1635
+Weber          -584   P-8486
+Ibarra         +627   P-1570
+Grant          -140   P-8264
+Dunn           +418   P-8001
+
+Follow the entry with the largest credit.

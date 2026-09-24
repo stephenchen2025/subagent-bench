@@ -1,0 +1,12 @@
+Ledger page P-6679
+
+account      amount   see page
+Vance          -246   P-9680
+Osei            +36   P-2188
+Xu             -378   P-4799
+Silva          +496   P-9058
+Eriksen        -390   P-2121
+Moreau          -77   P-3170
+Ibarra         -530   P-1088
+
+Follow the entry with the largest debit (the most negative amount).

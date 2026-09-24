@@ -1,0 +1,10 @@
+Ledger page P-4967
+
+account      amount   see page
+Abbott         +834   P-3047
+Zhou            -75   P-3584
+Jensen         -603   P-5070
+Umar           +388   P-5802
+Weber          -707   P-9736
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,11 @@
+Ledger page P-4422
+
+account      amount   see page
+Dunn           -666   P-6171
+Grant          +612   P-4793
+Umar           -890   P-4429
+Moreau         +373   P-4898
+Young          -798   P-8343
+Quinn          -237   P-1332
+
+Follow the entry whose amount is closest to zero.

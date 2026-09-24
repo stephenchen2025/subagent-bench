@@ -1,0 +1,10 @@
+Ledger page P-3088
+
+account      amount   see page
+Vance          +471   P-5999
+Dunn           -488   P-5618
+Ibarra         -254   P-3488
+Zhou           -470   P-1287
+Umar           -307   P-3960
+
+Follow the entry with the largest credit.

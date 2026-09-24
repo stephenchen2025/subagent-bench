@@ -1,0 +1,11 @@
+Ledger page P-4793
+
+account      amount   see page
+Rahman          -31   P-7369
+Eriksen        +434   P-9511
+Nakamura       +833   P-7572
+Baker          +429   P-8948
+Umar           -253   P-3172
+Ibarra         +697   P-4162
+
+Follow the entry whose amount is closest to zero.

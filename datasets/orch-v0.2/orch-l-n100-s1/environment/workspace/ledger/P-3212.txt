@@ -1,0 +1,10 @@
+Ledger page P-3212
+
+account      amount   see page
+Hughes         +232   P-9887
+Rahman         -749   P-7317
+Lambert        -551   P-2360
+Zhou           -724   P-9874
+Umar           -296   P-1026
+
+Follow the credit belonging to the account that comes first alphabetically.

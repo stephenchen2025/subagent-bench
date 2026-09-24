@@ -1,0 +1,10 @@
+Ledger page P-9536
+
+account      amount   see page
+Park           -545   P-9736
+Silva          +393   P-3953
+Baker          +192   P-4306
+Castillo       +588   P-4546
+Rahman         +419   P-4006
+
+Follow the entry with the largest credit.

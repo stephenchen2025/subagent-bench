@@ -1,0 +1,11 @@
+Ledger page P-1734
+
+account      amount   see page
+Kowalski        +55   P-9420
+Fofana         -284   P-1433
+Rahman         -548   P-8330
+Park           +453   P-3667
+Abbott         +465   P-7946
+Osei           +186   P-1635
+
+Follow the entry with the largest debit (the most negative amount).

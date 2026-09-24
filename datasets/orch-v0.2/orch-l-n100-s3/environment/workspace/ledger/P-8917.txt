@@ -1,0 +1,11 @@
+Ledger page P-8917
+
+account      amount   see page
+Hughes         -548   P-7664
+Dunn           +806   P-5211
+Rahman         -355   P-1088
+Baker           +42   P-5245
+Quinn          -515   P-6069
+Zhou           +379   P-1461
+
+Follow the entry whose amount is closest to zero.

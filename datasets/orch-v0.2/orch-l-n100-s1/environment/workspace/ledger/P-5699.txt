@@ -1,0 +1,11 @@
+Ledger page P-5699
+
+account      amount   see page
+Grant          -390   P-3806
+Castillo       -587   P-4872
+Eriksen        -410   P-8226
+Young          -462   P-8818
+Silva          +558   P-3629
+Abbott         -460   P-3017
+
+Follow the entry whose amount is closest to zero.

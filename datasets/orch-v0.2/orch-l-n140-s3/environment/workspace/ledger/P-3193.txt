@@ -1,0 +1,10 @@
+Ledger page P-3193
+
+account      amount   see page
+Ibarra         -253   P-2109
+Moreau         +415   P-6494
+Fofana         +318   P-5767
+Lambert        +757   P-9588
+Jensen         +253   P-5693
+
+Follow the credit belonging to the account that comes first alphabetically.

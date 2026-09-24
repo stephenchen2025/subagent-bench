@@ -1,0 +1,11 @@
+Ledger page P-2693
+
+account      amount   see page
+Lambert        +438   P-9546
+Ibarra          -81   P-9713
+Kowalski       -144   P-9169
+Tanaka         +878   P-9431
+Weber          +814   P-9847
+Young          -408   P-5807
+
+Follow the entry with the second-largest amount.

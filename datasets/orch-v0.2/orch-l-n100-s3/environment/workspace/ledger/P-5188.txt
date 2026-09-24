@@ -1,0 +1,11 @@
+Ledger page P-5188
+
+account      amount   see page
+Moreau         +579   P-8691
+Dunn           -760   P-7759
+Weber          -230   P-2998
+Vance          +376   P-4261
+Hughes         -345   P-3974
+Grant          +139   P-5069
+
+Follow the credit belonging to the account that comes first alphabetically.

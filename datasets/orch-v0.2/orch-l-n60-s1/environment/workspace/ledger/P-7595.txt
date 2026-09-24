@@ -1,0 +1,11 @@
+Ledger page P-7595
+
+account      amount   see page
+Castillo       -348   P-7146
+Park           +242   P-6276
+Tanaka         +828   P-5226
+Quinn          +601   P-2390
+Young          +276   P-9782
+Abbott          +46   P-1237
+
+Follow the entry with the second-largest amount.

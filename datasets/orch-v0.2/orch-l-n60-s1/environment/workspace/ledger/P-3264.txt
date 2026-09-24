@@ -1,0 +1,10 @@
+Ledger page P-3264
+
+account      amount   see page
+Park           +732   P-3814
+Xu              -11   P-1210
+Osei           -640   P-9708
+Tanaka          +97   P-5258
+Grant          -167   P-3653
+
+Follow the entry with the largest credit.

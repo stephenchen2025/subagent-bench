@@ -1,0 +1,12 @@
+Ledger page P-5124
+
+account      amount   see page
+Silva          +621   P-5817
+Young          +527   P-2683
+Zhou           -561   P-8565
+Ibarra         +853   P-3785
+Xu             -701   P-5075
+Castillo       -686   P-9337
+Dunn            -28   P-4561
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,10 @@
+Ledger page P-3216
+
+account      amount   see page
+Nakamura       -105   P-3386
+Park           -118   P-1469
+Tanaka         +313   P-9697
+Dunn           -413   P-3408
+Young          -452   P-8186
+
+Follow the entry with the largest credit.

@@ -1,0 +1,12 @@
+Ledger page P-7288
+
+account      amount   see page
+Vance          -233   P-6018
+Nakamura       -191   P-6362
+Park           -327   P-6069
+Jensen         -848   P-6952
+Baker          -805   P-8335
+Silva          +239   P-5497
+Moreau         -137   P-5679
+
+Follow the entry whose amount is closest to zero.

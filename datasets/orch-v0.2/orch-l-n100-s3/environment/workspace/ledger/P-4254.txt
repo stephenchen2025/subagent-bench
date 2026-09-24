@@ -1,0 +1,11 @@
+Ledger page P-4254
+
+account      amount   see page
+Park           -552   P-9621
+Jensen         +568   P-5823
+Zhou           +692   P-7551
+Silva          -184   P-9726
+Kowalski       +259   P-5188
+Lambert        -354   P-3481
+
+Follow the entry with the largest debit (the most negative amount).

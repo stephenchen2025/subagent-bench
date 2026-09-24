@@ -1,0 +1,10 @@
+Ledger page P-4082
+
+account      amount   see page
+Umar           +168   P-9377
+Nakamura       -210   P-8279
+Moreau         +888   P-7216
+Young          -495   P-9632
+Baker           -29   P-8854
+
+Follow the entry with the second-largest amount.

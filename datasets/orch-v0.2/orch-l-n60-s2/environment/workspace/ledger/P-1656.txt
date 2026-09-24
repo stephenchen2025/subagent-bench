@@ -1,0 +1,11 @@
+Ledger page P-1656
+
+account      amount   see page
+Rahman         +728   P-7523
+Zhou           +533   P-2643
+Silva          -879   P-4891
+Ibarra         -553   P-7013
+Umar           +165   P-7404
+Quinn          -383   P-8207
+
+Follow the entry with the largest debit (the most negative amount).

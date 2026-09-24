@@ -1,0 +1,10 @@
+Ledger page P-6217
+
+account      amount   see page
+Dunn           -676   P-6524
+Kowalski       -264   P-5908
+Vance          -420   P-9328
+Xu             +744   P-7768
+Lambert        -529   P-2991
+
+Follow the entry whose amount is closest to zero.

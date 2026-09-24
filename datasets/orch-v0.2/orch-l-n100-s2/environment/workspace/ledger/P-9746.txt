@@ -1,0 +1,10 @@
+Ledger page P-9746
+
+account      amount   see page
+Kowalski       +618   P-1779
+Ibarra         -212   P-9344
+Lambert        -720   P-4528
+Quinn          +817   P-9632
+Rahman         +317   P-9169
+
+Follow the entry whose amount is closest to zero.

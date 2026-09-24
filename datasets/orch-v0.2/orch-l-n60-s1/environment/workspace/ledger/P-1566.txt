@@ -1,0 +1,10 @@
+Ledger page P-1566
+
+account      amount   see page
+Young          +502   P-6248
+Baker          +284   P-3625
+Xu             +590   P-7474
+Dunn           -390   P-8289
+Zhou           +446   P-1567
+
+Follow the entry with the second-largest amount.

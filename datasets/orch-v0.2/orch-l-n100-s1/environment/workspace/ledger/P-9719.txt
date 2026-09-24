@@ -1,0 +1,11 @@
+Ledger page P-9719
+
+account      amount   see page
+Baker          -242   P-3081
+Vance          +653   P-4153
+Ibarra          +36   P-1576
+Moreau         +578   P-6610
+Kowalski        +64   P-2098
+Xu              +83   P-1608
+
+Follow the debit belonging to the account that comes last alphabetically.

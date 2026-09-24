@@ -1,0 +1,11 @@
+Ledger page P-6408
+
+account      amount   see page
+Park           +595   P-9188
+Baker          +877   P-7083
+Umar           -591   P-5518
+Hughes         +363   P-2097
+Moreau         +194   P-6700
+Vance          +608   P-1963
+
+Follow the entry whose amount is closest to zero.

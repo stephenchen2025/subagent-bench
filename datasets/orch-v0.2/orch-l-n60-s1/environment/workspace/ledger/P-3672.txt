@@ -1,0 +1,10 @@
+Ledger page P-3672
+
+account      amount   see page
+Abbott         +493   P-8846
+Fofana         -138   P-5893
+Umar           -259   P-4837
+Osei           -342   P-5261
+Tanaka         -212   P-8846
+
+Follow the entry with the largest debit (the most negative amount).

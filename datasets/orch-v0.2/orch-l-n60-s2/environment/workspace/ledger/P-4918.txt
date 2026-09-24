@@ -1,0 +1,10 @@
+Ledger page P-4918
+
+account      amount   see page
+Xu             -591   P-9792
+Hughes         -420   P-5136
+Ibarra          -89   P-5107
+Weber          +417   P-4891
+Nakamura       +733   P-8343
+
+Follow the entry with the second-largest amount.

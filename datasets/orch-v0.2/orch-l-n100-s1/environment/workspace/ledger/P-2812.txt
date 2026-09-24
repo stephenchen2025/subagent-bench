@@ -1,0 +1,12 @@
+Ledger page P-2812
+
+account      amount   see page
+Tanaka         -142   P-7063
+Park           -404   P-6950
+Rahman         +426   P-3528
+Osei           +104   P-3629
+Silva          +664   P-4213
+Hughes         +310   P-2194
+Zhou           +293   P-7598
+
+Follow the entry with the largest debit (the most negative amount).

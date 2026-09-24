@@ -1,0 +1,10 @@
+Ledger page P-5935
+
+account      amount   see page
+Xu             -730   P-3011
+Baker           +93   P-1373
+Park           -432   P-8020
+Nakamura       +720   P-6178
+Umar           -810   P-3818
+
+Follow the debit belonging to the account that comes last alphabetically.

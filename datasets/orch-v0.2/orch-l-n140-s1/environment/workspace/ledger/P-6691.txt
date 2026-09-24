@@ -1,0 +1,11 @@
+Ledger page P-6691
+
+account      amount   see page
+Xu             +663   P-3387
+Weber          -230   P-2429
+Rahman         -596   P-5788
+Kowalski       -113   P-9796
+Tanaka         +290   P-2763
+Fofana         -165   P-1830
+
+Follow the credit belonging to the account that comes first alphabetically.

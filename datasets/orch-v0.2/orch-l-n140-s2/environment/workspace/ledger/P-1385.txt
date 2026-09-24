@@ -1,0 +1,10 @@
+Ledger page P-1385
+
+account      amount   see page
+Fofana         -582   P-1101
+Xu             +800   P-8629
+Tanaka         -115   P-6783
+Ibarra         +273   P-3667
+Jensen         -165   P-9352
+
+Follow the entry with the second-largest amount.

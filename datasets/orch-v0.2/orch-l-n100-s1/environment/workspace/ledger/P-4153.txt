@@ -1,0 +1,11 @@
+Ledger page P-4153
+
+account      amount   see page
+Osei           -231   P-1967
+Zhou           +676   P-2372
+Nakamura         -2   P-2372
+Park           +886   P-9758
+Umar           -840   P-8742
+Vance          -721   P-6089
+
+Follow the entry with the largest credit.

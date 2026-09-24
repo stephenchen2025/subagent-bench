@@ -1,0 +1,12 @@
+Ledger page P-2355
+
+account      amount   see page
+Zhou           -250   P-2118
+Kowalski        -78   P-5220
+Abbott         -503   P-6512
+Young           -29   P-7146
+Rahman         -486   P-2847
+Silva          +221   P-2745
+Moreau         +750   P-4051
+
+Follow the entry whose amount is closest to zero.

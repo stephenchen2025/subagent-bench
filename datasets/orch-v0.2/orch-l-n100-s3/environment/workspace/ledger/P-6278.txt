@@ -1,0 +1,11 @@
+Ledger page P-6278
+
+account      amount   see page
+Kowalski       -865   P-2301
+Rahman         -166   P-5661
+Fofana         -116   P-9056
+Baker          -355   P-4722
+Abbott         +143   P-8160
+Ibarra         +412   P-4619
+
+Follow the entry with the largest credit.

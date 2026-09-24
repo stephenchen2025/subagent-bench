@@ -1,0 +1,10 @@
+Ledger page P-3594
+
+account      amount   see page
+Castillo       +163   P-8484
+Eriksen        -680   P-3864
+Quinn          -148   P-2711
+Park           +509   P-4111
+Abbott         -543   P-8856
+
+Follow the debit belonging to the account that comes last alphabetically.

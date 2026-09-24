@@ -1,0 +1,11 @@
+Ledger page P-8948
+
+account      amount   see page
+Baker          +783   P-1518
+Hughes          +82   P-8755
+Lambert        +166   P-4622
+Park           -268   P-4828
+Ibarra         +661   P-4010
+Weber          +820   P-3833
+
+Follow the entry with the largest credit.

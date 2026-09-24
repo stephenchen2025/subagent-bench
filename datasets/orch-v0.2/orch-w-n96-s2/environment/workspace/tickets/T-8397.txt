@@ -1,0 +1,75 @@
+Ticket T-8397
+Customer: Mateo Silva
+Orders on file: ORD-67443, ORD-20997, ORD-31360, ORD-20290
+Opened: 2026-04-02 via chat transcript
+
+Order details:
+ORD-67443  placed 2026-08-08  status: delivered  total: $156.37
+  payment method: card ending 5662  ship to: 423 Oak Rd
+  - espresso grinder x1
+  - extended warranty, 2 years x1
+  - stainless water bottle, 750ml x3
+  - replacement filter cartridge, 3-pack x3
+ORD-20997  placed 2026-07-20  status: delivered  total: $43.59
+  payment method: card ending 8577  ship to: 652 Mill St
+  - carry-on suitcase x1
+  - USB-C charging cable (2m) x3
+  - extended warranty, 2 years x3
+ORD-31360  placed 2026-06-12  status: delivered  total: $69.55
+  payment method: card ending 4541  ship to: 399 Mill Rd
+  - cast iron skillet x1
+  - extended warranty, 2 years x3
+  - stainless water bottle, 750ml x3
+  - gift wrap x2
+ORD-20290  placed 2026-03-14  status: delivered  total: $161.63
+  payment method: card ending 7063  ship to: 910 Mill St
+  - desk lamp x1
+  - replacement filter cartridge, 3-pack x2
+  - microfiber cloth x3
+  - USB-C charging cable (2m) x3
+  - travel pouch x2
+
+--- message 1 from Mateo Silva ---
+I'd like to return the desk lamp from ORD-20997; it's the wrong size. I've been a customer for a few years and usually everything goes smoothly. I'm happy to send screenshots if that helps. I changed my shipping address last month, so please double-check you have the new one.
+
+Mateo Silva
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Pete (support) ---
+I've updated your shipping address on file. For ORD-31360, the return window is 30 days from delivery. If you need an invoice for ORD-20997, you can download it from the Orders page. I've resent the confirmation email for ORD-31360 to the address on file.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Mateo Silva ---
+Not your fault, but my gym billed me twice this month, which is why I'm nervous about ORD-20290. Everything on your side looks like a single charge, I just wanted to confirm the delivery date. Tracking for ORD-20997 hasn't updated since Tuesday. Is there a way to combine loyalty points from ORD-67443 with my next purchase?
+
+Best regards,
+Mateo Silva
+
+--- message 4 from Mateo Silva ---
+I'm travelling next week, so email is the best way to reach me. Could you also tell me whether ORD-31360 qualifies for the extended return window? I'm happy to send screenshots if that helps. I've been a customer for a few years and usually everything goes smoothly.
+
+Mateo Silva
+(Please reply by email rather than phone if possible.)
+
+--- message 5 from Pete (support) ---
+Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-67443, you can download it from the Orders page. I've added a note to your account so the next agent has the context.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Mateo Silva ---
+The rain jacket itself is great, for what it's worth. I changed my shipping address last month, so please double-check you have the new one. I'm happy to send screenshots if that helps. Tracking for ORD-31360 hasn't updated since Tuesday.
+
+Best regards,
+Mateo Silva
+
+--- message 7 from Pete (support) ---
+I've resent the confirmation email for ORD-67443 to the address on file. I've updated your shipping address on file. Let me know if anything else looks off. For ORD-67443, the return window is 30 days from delivery.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

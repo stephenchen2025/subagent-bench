@@ -1,0 +1,10 @@
+Ledger page P-8094
+
+account      amount   see page
+Dunn           +340   P-9850
+Zhou           -460   P-1725
+Nakamura       +575   P-3913
+Grant          +509   P-6269
+Moreau         +481   P-7424
+
+Follow the debit belonging to the account that comes last alphabetically.

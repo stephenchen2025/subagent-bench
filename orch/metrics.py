@@ -17,8 +17,8 @@ import re
 from collections import defaultdict
 from statistics import mean
 
-FAVOURABLE = ("W", "P")
-UNFAVOURABLE = ("C", "S")
+FAVOURABLE = ("W", "P", "C")
+UNFAVOURABLE = ("L",)
 BASELINES = ("solo", "solo-xl", "oracle-split")
 MIN_CEILING_GAP = 0.05
 
@@ -81,7 +81,7 @@ def synthesis_loss(record):
     """
     family, truth = record["family"], record.get("truth")
     workers = record["telemetry"].get("workers", [])
-    if family not in FAVOURABLE or not truth or not workers:
+    if family not in ("W", "P") or not truth or not workers:
         return None
     reported = _reported_pairs(family, [w.get("report", "") for w in workers], truth)
     if not reported:
@@ -226,8 +226,12 @@ def _summarise_one(system, cond, table, records):
     tnr = _avg([0.0 if spawned else 1.0 for label, spawned in decided if label == "solo"])
     process = [run_metrics(r) for r in runs if r["family"] in FAVOURABLE
                and r["telemetry"].get("workers")]
+    # Capture skips cells where solo is already at the ceiling, so a delegate
+    # that falls *below* solo there would vanish from it. Harm keeps it visible.
+    harm = _avg([max(0.0, c["solo"] - c["delegate"]) for c in per_cell])
     return {
         "capture": (lift_sum / gap_sum) if gap_sum else None,
+        "harm": harm,
         "cells": per_cell,
         "tax": tax,
         "mean_tax": _avg([t["tax"] for t in tax]),

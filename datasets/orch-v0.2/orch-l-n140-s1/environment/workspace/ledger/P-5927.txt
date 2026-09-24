@@ -1,0 +1,11 @@
+Ledger page P-5927
+
+account      amount   see page
+Fofana         +685   P-1021
+Abbott         +661   P-3489
+Dunn           +545   P-8023
+Kowalski        +55   P-9099
+Umar           -778   P-5729
+Osei            +59   P-9498
+
+Follow the entry with the second-largest amount.

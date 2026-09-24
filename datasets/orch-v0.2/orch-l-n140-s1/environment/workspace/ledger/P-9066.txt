@@ -1,0 +1,12 @@
+Ledger page P-9066
+
+account      amount   see page
+Dunn           +806   P-5383
+Castillo       -287   P-4271
+Abbott         +897   P-6133
+Young           -78   P-3340
+Quinn          -353   P-5119
+Grant          +398   P-3749
+Kowalski       +362   P-5700
+
+Follow the debit belonging to the account that comes last alphabetically.

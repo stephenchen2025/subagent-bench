@@ -1,0 +1,11 @@
+Ledger page P-8163
+
+account      amount   see page
+Umar           +780   P-3188
+Moreau         +856   P-4397
+Baker          +456   P-7987
+Vance          -640   P-1925
+Osei           -524   P-7611
+Quinn          -144   P-2833
+
+Follow the entry with the largest debit (the most negative amount).

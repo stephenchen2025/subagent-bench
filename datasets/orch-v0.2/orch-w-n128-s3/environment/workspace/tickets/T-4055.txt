@@ -1,0 +1,87 @@
+Ticket T-4055
+Customer: Priya Raman
+Orders on file: ORD-12772, ORD-24595, ORD-47553, ORD-65765
+Opened: 2026-02-10 via web form
+
+Order details:
+ORD-12772  placed 2026-04-10  status: delivered  total: $96.55
+  payment method: card ending 7946  ship to: 280 Cedar Lane
+  - mechanical keyboard x1
+  - gift wrap x1
+  - travel pouch x2
+  - spare battery pack x1
+  - extended warranty, 2 years x3
+ORD-24595  placed 2026-01-20  status: delivered  total: $385.48
+  payment method: card ending 4296  ship to: 479 Mill Lane
+  - water filter pitcher x1
+  - merino socks, size M x2
+  - USB-C charging cable (2m) x1
+ORD-47553  placed 2026-01-26  status: delivered  total: $185.86
+  payment method: card ending 4208  ship to: 592 Cedar Lane
+  - mechanical keyboard x1
+  - microfiber cloth x1
+  - spare battery pack x3
+ORD-65765  placed 2026-07-05  status: delivered  total: $186.93
+  payment method: card ending 8519  ship to: 297 Harbor Lane
+  - desk lamp x1
+  - travel pouch x3
+  - replacement filter cartridge, 3-pack x1
+
+--- message 1 from Priya Raman ---
+Can I use a gift card on ORD-47553, or is it too late? I'm happy to send screenshots if that helps. Is there a way to combine loyalty points from ORD-47553 with my next purchase? Tracking for ORD-24595 hasn't updated since Tuesday.
+
+Priya Raman
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Marcus (support) ---
+Loyalty points post about a week after an order is delivered. I've updated your shipping address on file. I can see all the orders on your account, including ORD-24595. For ORD-65765, the return window is 30 days from delivery.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Priya Raman ---
+Duplicate charge on ORD-12772, please refund one of them. I'm happy to send screenshots if that helps. My earlier order ORD-47553 arrived fine, no complaints there.
+
+Thanks,
+Priya Raman
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Marcus (support) ---
+I've checked with our payments team: both captures for ORD-12772 settled, so you were genuinely charged twice. I've issued a refund for the second one; it should show within 3-5 business days. I've updated your shipping address on file. Our warehouse shows ORD-47553 left on schedule.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Priya Raman ---
+Is there a way to combine loyalty points from ORD-47553 with my next purchase? Your app logged me out twice while I was looking at this, which didn't help. The box for ORD-47553 was a bit crushed but the contents were fine.
+
+Priya Raman
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Priya Raman ---
+The yoga mat itself is great, for what it's worth. Could you also tell me whether ORD-65765 qualifies for the extended return window? Tracking for ORD-65765 hasn't updated since Tuesday. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Priya Raman
+
+--- message 7 from Marcus (support) ---
+Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-47553 to the address on file. Our warehouse shows ORD-24595 left on schedule.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Priya Raman ---
+I tried the chat widget first but it kept disconnecting. Could you also tell me whether ORD-24595 qualifies for the extended return window? The box for ORD-24595 was a bit crushed but the contents were fine. My partner placed ORD-24595 on our shared account, in case that matters.
+
+Best regards,
+Priya Raman
+
+--- message 9 from Marcus (support) ---
+I've updated your shipping address on file. I've added a note to your account so the next agent has the context. Let me know if anything else looks off. I can see all the orders on your account, including ORD-24595.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

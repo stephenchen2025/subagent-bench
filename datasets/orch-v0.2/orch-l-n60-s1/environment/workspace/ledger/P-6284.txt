@@ -1,0 +1,12 @@
+Ledger page P-6284
+
+account      amount   see page
+Vance          -671   P-3494
+Dunn           -435   P-8823
+Jensen         -829   P-2165
+Zhou           +357   P-2390
+Kowalski       -184   P-4852
+Park           -603   P-8846
+Rahman          -71   P-1566
+
+Follow the entry with the largest debit (the most negative amount).

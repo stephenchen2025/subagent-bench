@@ -1,0 +1,10 @@
+Ledger page P-2813
+
+account      amount   see page
+Moreau         +845   P-9720
+Rahman         +355   P-8082
+Abbott         -887   P-8084
+Ibarra         -383   P-9581
+Vance          -172   P-6196
+
+Follow the debit belonging to the account that comes last alphabetically.

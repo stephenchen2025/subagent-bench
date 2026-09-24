@@ -1,0 +1,10 @@
+Ledger page P-8281
+
+account      amount   see page
+Weber          -525   P-1525
+Ibarra         +571   P-3017
+Jensen         -437   P-5225
+Zhou           +288   P-5973
+Dunn            +79   P-8892
+
+Follow the entry with the largest credit.

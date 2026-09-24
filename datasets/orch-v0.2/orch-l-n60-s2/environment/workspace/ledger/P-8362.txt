@@ -1,0 +1,10 @@
+Ledger page P-8362
+
+account      amount   see page
+Nakamura       +106   P-9680
+Park           +224   P-6996
+Xu             +659   P-9214
+Abbott         -612   P-5312
+Umar           -182   P-4429
+
+Follow the entry with the largest debit (the most negative amount).

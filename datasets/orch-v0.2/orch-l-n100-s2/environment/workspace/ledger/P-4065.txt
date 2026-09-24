@@ -1,0 +1,11 @@
+Ledger page P-4065
+
+account      amount   see page
+Osei           +810   P-4227
+Quinn          -629   P-5618
+Grant          -758   P-8522
+Umar           -267   P-1747
+Fofana         -132   P-6654
+Young          -247   P-4952
+
+Follow the entry with the largest credit.

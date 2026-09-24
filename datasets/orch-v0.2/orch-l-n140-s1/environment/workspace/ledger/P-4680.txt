@@ -1,0 +1,11 @@
+Ledger page P-4680
+
+account      amount   see page
+Ibarra         +598   P-3407
+Moreau         -140   P-3010
+Xu             -437   P-5128
+Baker          +454   P-9322
+Quinn           +64   P-5570
+Vance          -602   P-6391
+
+Follow the entry with the largest credit.

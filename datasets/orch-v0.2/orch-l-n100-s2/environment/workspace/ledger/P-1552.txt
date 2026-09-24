@@ -1,0 +1,11 @@
+Ledger page P-1552
+
+account      amount   see page
+Nakamura       +412   P-1920
+Dunn           +745   P-1920
+Weber          +445   P-7553
+Moreau         +659   P-2334
+Eriksen        -569   P-4966
+Hughes         -240   P-9066
+
+Follow the debit belonging to the account that comes last alphabetically.

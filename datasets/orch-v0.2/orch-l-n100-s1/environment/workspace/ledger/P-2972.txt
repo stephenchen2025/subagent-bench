@@ -1,0 +1,12 @@
+Ledger page P-2972
+
+account      amount   see page
+Hughes          -80   P-8818
+Dunn           -347   P-1720
+Vance          -345   P-1677
+Castillo       -490   P-3751
+Umar           +823   P-9572
+Park           -676   P-7109
+Fofana         +795   P-4027
+
+Follow the entry with the second-largest amount.

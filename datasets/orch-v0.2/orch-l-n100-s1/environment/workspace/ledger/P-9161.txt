@@ -1,0 +1,11 @@
+Ledger page P-9161
+
+account      amount   see page
+Umar           -873   P-8268
+Hughes         -279   P-7855
+Weber          +882   P-3751
+Abbott         +780   P-8896
+Eriksen        +460   P-2812
+Osei           -324   P-8913
+
+Follow the entry with the second-largest amount.

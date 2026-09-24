@@ -1,0 +1,11 @@
+Ledger page P-2368
+
+account      amount   see page
+Weber          +186   P-3879
+Kowalski       +868   P-3810
+Ibarra         +388   P-2583
+Jensen         +384   P-1851
+Quinn          -508   P-6841
+Eriksen        +218   P-1151
+
+Follow the entry with the largest credit.

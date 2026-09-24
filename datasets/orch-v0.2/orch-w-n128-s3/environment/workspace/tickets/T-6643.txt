@@ -1,0 +1,61 @@
+Ticket T-6643
+Customer: Kofi Mensah
+Orders on file: ORD-73150, ORD-15838, ORD-82097, ORD-90380
+Opened: 2026-04-18 via email
+
+Order details:
+ORD-73150  placed 2026-05-03  status: delivered  total: $263.76
+  payment method: card ending 1297  ship to: 827 Cedar Lane
+  - bike light set x1
+  - merino socks, size M x1
+  - stainless water bottle, 750ml x3
+  - carabiner set x3
+  - travel pouch x2
+ORD-15838  placed 2026-02-21  status: delivered  total: $68.10
+  payment method: card ending 9775  ship to: 835 Mill Rd
+  - trail running shoes x1
+  - extended warranty, 2 years x2
+  - travel pouch x1
+  - carabiner set x2
+ORD-82097  placed 2026-05-19  status: label created  total: $38.98
+  payment method: card ending 4692  ship to: 175 Mill Ave
+  - rain jacket x1
+  - carabiner set x3
+  - extended warranty, 2 years x3
+ORD-90380  placed 2026-07-14  status: delivered  total: $46.08
+  payment method: card ending 7285  ship to: 255 Mill Ave
+  - rain jacket x1
+  - microfiber cloth x2
+  - gift wrap x1
+
+--- message 1 from Kofi Mensah ---
+I need to change the delivery address for ORD-15838 before it ships. Is there a way to combine loyalty points from ORD-82097 with my next purchase? The confirmation email for ORD-73150 went to my spam folder, so I only just saw it. My partner placed ORD-73150 on our shared account, in case that matters.
+
+Kofi Mensah
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Arjun (support) ---
+Tracking updates can lag by a day or two with this carrier. For ORD-82097, the return window is 30 days from delivery. Our warehouse shows ORD-15838 left on schedule. Let me know if anything else looks off.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Kofi Mensah ---
+I got two receipts for ORD-90380, and both amounts actually left my account. I've been a customer for a few years and usually everything goes smoothly. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Kofi Mensah
+
+--- message 4 from Kofi Mensah ---
+The box for ORD-15838 was a bit crushed but the contents were fine. I'd rather not call; the hold times last time were very long. My earlier order ORD-82097 arrived fine, no complaints there. I'm happy to send screenshots if that helps.
+
+Kofi Mensah
+(Please reply by email rather than phone if possible.)
+
+--- message 5 from Arjun (support) ---
+Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering. If you need an invoice for ORD-73150, you can download it from the Orders page. I can see all the orders on your account, including ORD-15838.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

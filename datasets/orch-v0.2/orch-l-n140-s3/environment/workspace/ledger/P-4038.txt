@@ -1,0 +1,12 @@
+Ledger page P-4038
+
+account      amount   see page
+Lambert        -543   P-9749
+Eriksen        -335   P-1637
+Fofana         -214   P-6482
+Dunn           -748   P-2838
+Nakamura       +704   P-4655
+Weber          -478   P-8278
+Young          -705   P-4576
+
+Follow the entry whose amount is closest to zero.

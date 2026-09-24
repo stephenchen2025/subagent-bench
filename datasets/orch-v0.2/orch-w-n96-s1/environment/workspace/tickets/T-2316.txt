@@ -1,0 +1,91 @@
+Ticket T-2316
+Customer: Hana Sato
+Orders on file: ORD-66484, ORD-12587, ORD-68745, ORD-86561
+Opened: 2026-07-24 via chat transcript
+
+Order details:
+ORD-66484  placed 2026-08-06  status: delivered  total: $216.50
+  payment method: card ending 8352  ship to: 986 Mill Lane
+  - cast iron skillet x1
+  - replacement filter cartridge, 3-pack x3
+  - gift wrap x1
+  - stainless water bottle, 750ml x2
+  - microfiber cloth x1
+ORD-12587  placed 2026-08-06  status: in transit  total: $475.30
+  payment method: card ending 2048  ship to: 921 Mill Lane
+  - cast iron skillet x1
+  - travel pouch x3
+  - carabiner set x1
+ORD-68745  placed 2026-05-03  status: delivered  total: $101.69
+  payment method: card ending 5265  ship to: 20 Cedar Rd
+  - noise-cancelling headphones x1
+  - travel pouch x3
+  - stainless water bottle, 750ml x3
+  - USB-C charging cable (2m) x1
+  - merino socks, size M x2
+ORD-86561  placed 2026-03-16  status: in transit  total: $306.67
+  payment method: card ending 4358  ship to: 350 Oak Rd
+  - camping stove x1
+  - spare battery pack x2
+  - stainless water bottle, 750ml x2
+
+--- message 1 from Hana Sato ---
+I need to change the delivery address for ORD-12587 before it ships. Your app logged me out twice while I was looking at this, which didn't help. I tried the chat widget first but it kept disconnecting. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Hana Sato
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Keiko (support) ---
+I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier. If you need an invoice for ORD-68745, you can download it from the Orders page. Let me know if anything else looks off.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Hana Sato ---
+You took the money for ORD-86561 a second time after it had already been paid. My partner placed ORD-68745 on our shared account, in case that matters. Could you also tell me whether ORD-12587 qualifies for the extended return window?
+
+Thanks,
+Hana Sato
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Keiko (support) ---
+For ORD-66484, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering. I've added a note to your account so the next agent has the context.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Keiko (support) ---
+I looked into ORD-86561: the second line is a pre-authorization hold from when the first card attempt was declined. It was never captured and it's already been released, so you were only charged once. If you need an invoice for ORD-68745, you can download it from the Orders page. Screenshots aren't necessary, but thank you for offering.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Hana Sato ---
+I've been a customer for a few years and usually everything goes smoothly. My partner placed ORD-12587 on our shared account, in case that matters. The cast iron skillet itself is great, for what it's worth.
+
+Hana Sato
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Hana Sato ---
+Oh, you're right -- I checked the card app this morning and the second line is gone. Only one charge. Sorry for the false alarm! I'm travelling next week, so email is the best way to reach me. Is there a way to combine loyalty points from ORD-68745 with my next purchase?
+
+Hana Sato
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Hana Sato ---
+The confirmation email for ORD-66484 went to my spam folder, so I only just saw it. My earlier order ORD-12587 arrived fine, no complaints there. The box for ORD-12587 was a bit crushed but the contents were fine. My partner placed ORD-66484 on our shared account, in case that matters.
+
+Thanks,
+Hana Sato
+Sent from my phone -- please excuse typos.
+
+--- message 9 from Keiko (support) ---
+I can see all the orders on your account, including ORD-66484. Our warehouse shows ORD-12587 left on schedule. I've added a note to your account so the next agent has the context. I've updated your shipping address on file.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

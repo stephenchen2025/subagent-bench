@@ -1,0 +1,60 @@
+Ticket T-3337
+Customer: Chloe Martin
+Orders on file: ORD-38302, ORD-77242, ORD-72298, ORD-16427
+Opened: 2026-06-25 via chat transcript
+
+Order details:
+ORD-38302  placed 2026-05-19  status: delivered  total: $369.70
+  payment method: card ending 1694  ship to: 402 Elm St
+  - noise-cancelling headphones x1
+  - merino socks, size M x1
+  - carabiner set x2
+ORD-77242  placed 2026-02-26  status: delivered  total: $264.33
+  payment method: card ending 4955  ship to: 323 Harbor Lane
+  - desk lamp x1
+  - spare battery pack x1
+  - stainless water bottle, 750ml x1
+ORD-72298  placed 2026-07-02  status: label created  total: $20.12
+  payment method: card ending 2010  ship to: 979 Harbor Rd
+  - yoga mat x1
+  - microfiber cloth x2
+  - replacement filter cartridge, 3-pack x2
+ORD-16427  placed 2026-03-07  status: delivered  total: $399.00
+  payment method: card ending 2425  ship to: 365 Oak St
+  - water filter pitcher x1
+  - travel pouch x2
+  - USB-C charging cable (2m) x3
+
+--- message 1 from Chloe Martin ---
+Can I use a gift card on ORD-72298, or is it too late? I'd rather not call; the hold times last time were very long. Tracking for ORD-72298 hasn't updated since Tuesday. The confirmation email for ORD-38302 went to my spam folder, so I only just saw it.
+
+Chloe Martin
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Dana (support) ---
+Screenshots aren't necessary, but thank you for offering. Our warehouse shows ORD-72298 left on schedule. Tracking updates can lag by a day or two with this carrier. I can see all the orders on your account, including ORD-16427.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Chloe Martin ---
+I see two charges on my credit union this week, one for ORD-77242 and one for ORD-38302. Both are correct -- I ordered twice on purpose -- but could you send me the invoices for my expense report? I'm travelling next week, so email is the best way to reach me. The confirmation email for ORD-38302 went to my spam folder, so I only just saw it.
+
+Thanks,
+Chloe Martin
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Chloe Martin ---
+The camping stove itself is great, for what it's worth. The box for ORD-72298 was a bit crushed but the contents were fine. The confirmation email for ORD-72298 went to my spam folder, so I only just saw it. I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Chloe Martin
+Sent from my phone -- please excuse typos.
+
+--- message 5 from Dana (support) ---
+I can see all the orders on your account, including ORD-72298. Loyalty points post about a week after an order is delivered. Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

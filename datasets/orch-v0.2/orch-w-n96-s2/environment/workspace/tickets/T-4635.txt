@@ -1,0 +1,56 @@
+Ticket T-4635
+Customer: Ben Carter
+Orders on file: ORD-16743, ORD-36822, ORD-55059, ORD-81214
+Opened: 2026-07-02 via email
+
+Order details:
+ORD-16743  placed 2026-08-07  status: in transit  total: $297.62
+  payment method: card ending 1766  ship to: 633 Cedar Rd
+  - blender x1
+  - gift wrap x2
+  - replacement filter cartridge, 3-pack x3
+  - spare battery pack x1
+ORD-36822  placed 2026-03-12  status: label created  total: $204.58
+  payment method: card ending 6167  ship to: 509 Oak Lane
+  - water filter pitcher x1
+  - replacement filter cartridge, 3-pack x2
+  - extended warranty, 2 years x3
+ORD-55059  placed 2026-04-21  status: delivered  total: $70.61
+  payment method: card ending 9971  ship to: 537 Oak Lane
+  - espresso grinder x1
+  - stainless water bottle, 750ml x1
+  - microfiber cloth x2
+ORD-81214  placed 2026-01-09  status: in transit  total: $381.60
+  payment method: card ending 8854  ship to: 582 Harbor Lane
+  - mechanical keyboard x1
+  - replacement filter cartridge, 3-pack x1
+  - extended warranty, 2 years x3
+  - spare battery pack x1
+  - gift wrap x1
+
+--- message 1 from Ben Carter ---
+I need to change the delivery address for ORD-16743 before it ships. I'd rather not call; the hold times last time were very long. Your app logged me out twice while I was looking at this, which didn't help. I tried the chat widget first but it kept disconnecting.
+
+Ben Carter
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Rosa (support) ---
+For ORD-16743, the return window is 30 days from delivery. Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-16743 left on schedule. I can see all the orders on your account, including ORD-16743.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ben Carter ---
+The espresso grinder itself is great, for what it's worth. I'm happy to send screenshots if that helps. I changed my shipping address last month, so please double-check you have the new one. My partner placed ORD-55059 on our shared account, in case that matters.
+
+Thanks,
+Ben Carter
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Rosa (support) ---
+I've added a note to your account so the next agent has the context. For ORD-16743, the return window is 30 days from delivery. I've resent the confirmation email for ORD-81214 to the address on file. I've updated your shipping address on file.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

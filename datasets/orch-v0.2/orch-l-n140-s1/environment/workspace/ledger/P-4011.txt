@@ -1,0 +1,12 @@
+Ledger page P-4011
+
+account      amount   see page
+Weber          -728   P-8573
+Xu             -600   P-1021
+Young          -721   P-2195
+Park           -280   P-7457
+Silva          +540   P-9584
+Quinn          -591   P-7015
+Ibarra         -621   P-9614
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,12 @@
+Ledger page P-9865
+
+account      amount   see page
+Tanaka         -725   P-3477
+Fofana         +517   P-6981
+Kowalski       +534   P-1254
+Nakamura       -865   P-7407
+Zhou           -812   P-1373
+Xu              +31   P-6178
+Quinn          -302   P-4197
+
+Follow the credit belonging to the account that comes first alphabetically.

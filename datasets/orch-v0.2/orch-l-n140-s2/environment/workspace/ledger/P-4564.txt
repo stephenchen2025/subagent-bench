@@ -1,0 +1,11 @@
+Ledger page P-4564
+
+account      amount   see page
+Rahman         -571   P-8495
+Umar           -107   P-4046
+Hughes         -534   P-2426
+Lambert        +792   P-8486
+Baker          -800   P-1764
+Silva          -738   P-3054
+
+Follow the entry with the largest credit.

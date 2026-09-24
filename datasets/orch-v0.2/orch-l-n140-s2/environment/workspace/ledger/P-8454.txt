@@ -1,0 +1,11 @@
+Ledger page P-8454
+
+account      amount   see page
+Moreau         -652   P-4378
+Abbott         +115   P-4103
+Weber          +486   P-3606
+Silva          +501   P-2426
+Dunn           +221   P-4133
+Vance          +848   P-2019
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,74 @@
+Ticket T-6588
+Customer: Amara Nwosu
+Orders on file: ORD-31984, ORD-91873, ORD-16705, ORD-85115
+Opened: 2026-08-03 via web form
+
+Order details:
+ORD-31984  placed 2026-01-24  status: label created  total: $347.43
+  payment method: card ending 6602  ship to: 381 Elm Ave
+  - carry-on suitcase x1
+  - merino socks, size M x1
+  - extended warranty, 2 years x1
+ORD-91873  placed 2026-05-12  status: in transit  total: $194.24
+  payment method: card ending 8321  ship to: 517 Cedar Lane
+  - trail running shoes x1
+  - travel pouch x1
+  - replacement filter cartridge, 3-pack x2
+  - gift wrap x3
+ORD-16705  placed 2026-03-16  status: delivered  total: $43.84
+  payment method: card ending 6685  ship to: 929 Mill Rd
+  - wool blanket x1
+  - gift wrap x1
+  - stainless water bottle, 750ml x3
+  - merino socks, size M x2
+ORD-85115  placed 2026-03-20  status: delivered  total: $193.09
+  payment method: card ending 5885  ship to: 561 Mill Lane
+  - bike light set x1
+  - merino socks, size M x3
+  - carabiner set x3
+
+--- message 1 from Amara Nwosu ---
+The carry-on suitcase from ORD-31984 arrived with a scratch on the side. Can I get a replacement? I'd rather not call; the hold times last time were very long. My earlier order ORD-16705 arrived fine, no complaints there. My partner placed ORD-31984 on our shared account, in case that matters.
+
+Thanks,
+Amara Nwosu
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Pete (support) ---
+Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-16705 to the address on file. I've added a note to your account so the next agent has the context. If you need an invoice for ORD-85115, you can download it from the Orders page.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Amara Nwosu ---
+There are two identical debits on my statement and both reference ORD-91873. Tracking for ORD-85115 hasn't updated since Tuesday. I changed my shipping address last month, so please double-check you have the new one.
+
+Amara Nwosu
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Pete (support) ---
+I've checked with our payments team: both captures for ORD-91873 settled, so you were genuinely charged twice. I've issued a refund for the second one; it should show within 3-5 business days. Our warehouse shows ORD-16705 left on schedule. I've updated your shipping address on file.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Amara Nwosu ---
+The box for ORD-31984 was a bit crushed but the contents were fine. I tried the chat widget first but it kept disconnecting. My earlier order ORD-85115 arrived fine, no complaints there.
+
+Best regards,
+Amara Nwosu
+
+--- message 6 from Amara Nwosu ---
+I'd rather not call; the hold times last time were very long. Could you also tell me whether ORD-16705 qualifies for the extended return window? The box for ORD-85115 was a bit crushed but the contents were fine. The blender itself is great, for what it's worth.
+
+Amara Nwosu
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Pete (support) ---
+I've resent the confirmation email for ORD-85115 to the address on file. Our warehouse shows ORD-85115 left on schedule. Let me know if anything else looks off. For ORD-16705, the return window is 30 days from delivery.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

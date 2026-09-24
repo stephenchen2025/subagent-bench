@@ -1,0 +1,10 @@
+Ledger page P-2277
+
+account      amount   see page
+Grant           -24   P-5058
+Hughes         -399   P-8884
+Fofana         +419   P-4316
+Park           +601   P-3515
+Rahman          -51   P-3410
+
+Follow the entry with the second-largest amount.

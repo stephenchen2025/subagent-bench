@@ -1,0 +1,83 @@
+Ticket T-4300
+Customer: Elena Petrova
+Orders on file: ORD-66849, ORD-66238, ORD-89386, ORD-72957
+Opened: 2026-03-12 via chat transcript
+
+Order details:
+ORD-66849  placed 2026-08-01  status: delivered  total: $130.98
+  payment method: card ending 8265  ship to: 720 Harbor Rd
+  - noise-cancelling headphones x1
+  - extended warranty, 2 years x1
+  - carabiner set x1
+ORD-66238  placed 2026-01-19  status: delivered  total: $172.68
+  payment method: card ending 6010  ship to: 64 Mill Rd
+  - bike light set x1
+  - microfiber cloth x1
+  - spare battery pack x3
+  - travel pouch x2
+ORD-89386  placed 2026-03-21  status: in transit  total: $99.28
+  payment method: card ending 8849  ship to: 384 Elm Ave
+  - blender x1
+  - gift wrap x1
+  - USB-C charging cable (2m) x3
+  - merino socks, size M x2
+  - carabiner set x2
+ORD-72957  placed 2026-07-14  status: delivered  total: $223.06
+  payment method: card ending 5026  ship to: 485 Cedar Rd
+  - standing desk x1
+  - USB-C charging cable (2m) x3
+  - spare battery pack x1
+
+--- message 1 from Elena Petrova ---
+Can I use a gift card on ORD-66849, or is it too late? I'm travelling next week, so email is the best way to reach me. The espresso grinder itself is great, for what it's worth. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Elena Petrova
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Arjun (support) ---
+I've resent the confirmation email for ORD-66238 to the address on file. Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-66238. Let me know if anything else looks off.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Elena Petrova ---
+You took the money for ORD-89386 a second time after it had already been paid. Could you also tell me whether ORD-72957 qualifies for the extended return window? I'd rather not call; the hold times last time were very long.
+
+Elena Petrova
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Arjun (support) ---
+I've added a note to your account so the next agent has the context. If you need an invoice for ORD-66238, you can download it from the Orders page. Loyalty points post about a week after an order is delivered.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Arjun (support) ---
+Good news: only one payment for ORD-89386 ever settled. The other entry was a temporary hold and your bank has dropped it. Our warehouse shows ORD-66238 left on schedule. I've resent the confirmation email for ORD-66849 to the address on file.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Elena Petrova ---
+Thanks, I see it now: one payment for ORD-89386, the other one disappeared. All good. My partner placed ORD-66849 on our shared account, in case that matters. I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Elena Petrova
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Elena Petrova ---
+My partner placed ORD-72957 on our shared account, in case that matters. My earlier order ORD-66849 arrived fine, no complaints there. I've been a customer for a few years and usually everything goes smoothly. I'm travelling next week, so email is the best way to reach me.
+
+Elena Petrova
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Arjun (support) ---
+I can see all the orders on your account, including ORD-66238. For ORD-66238, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering. I've updated your shipping address on file.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

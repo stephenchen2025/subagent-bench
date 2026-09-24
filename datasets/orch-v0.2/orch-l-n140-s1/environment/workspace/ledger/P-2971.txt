@@ -1,0 +1,10 @@
+Ledger page P-2971
+
+account      amount   see page
+Grant          +101   P-7333
+Moreau         -832   P-3429
+Kowalski       +384   P-4399
+Tanaka         -327   P-9653
+Eriksen        -147   P-4305
+
+Follow the entry with the largest credit.

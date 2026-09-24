@@ -1,0 +1,11 @@
+Ledger page P-6698
+
+account      amount   see page
+Weber          -545   P-6017
+Abbott         -852   P-5107
+Tanaka         -296   P-5616
+Silva          -145   P-9792
+Umar            +77   P-5107
+Osei           +724   P-5616
+
+Follow the credit belonging to the account that comes first alphabetically.

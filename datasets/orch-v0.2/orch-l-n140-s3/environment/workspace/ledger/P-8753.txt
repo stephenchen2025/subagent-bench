@@ -1,0 +1,11 @@
+Ledger page P-8753
+
+account      amount   see page
+Dunn           +249   P-9080
+Nakamura       -482   P-1469
+Xu             -411   P-1864
+Vance          -212   P-4125
+Lambert        -128   P-6561
+Grant          -142   P-4064
+
+Follow the entry with the largest debit (the most negative amount).

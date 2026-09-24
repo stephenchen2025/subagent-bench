@@ -1,0 +1,10 @@
+Ledger page P-5128
+
+account      amount   see page
+Xu             +500   P-2656
+Park           -228   P-1713
+Zhou           -537   P-5159
+Baker          -462   P-1655
+Rahman          -48   P-1612
+
+Follow the credit belonging to the account that comes first alphabetically.

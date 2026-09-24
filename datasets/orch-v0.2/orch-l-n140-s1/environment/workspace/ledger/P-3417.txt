@@ -1,0 +1,10 @@
+Ledger page P-3417
+
+account      amount   see page
+Dunn           -595   P-1340
+Tanaka         -804   P-5734
+Hughes         -622   P-6606
+Zhou           +753   P-3753
+Quinn          -518   P-8416
+
+Follow the entry with the largest credit.

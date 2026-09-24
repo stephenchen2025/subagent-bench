@@ -1,0 +1,11 @@
+Ledger page P-8506
+
+account      amount   see page
+Abbott          -16   P-7314
+Osei            +34   P-7331
+Castillo       -748   P-8088
+Jensen         +617   P-3721
+Lambert        -432   P-1649
+Moreau         +327   P-4806
+
+Follow the entry with the second-largest amount.

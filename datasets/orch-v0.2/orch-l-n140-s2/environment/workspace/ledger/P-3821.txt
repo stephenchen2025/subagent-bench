@@ -1,0 +1,12 @@
+Ledger page P-3821
+
+account      amount   see page
+Kowalski       +377   P-5983
+Castillo       +234   P-4719
+Tanaka          -27   P-7705
+Park           +102   P-3896
+Rahman         +852   P-4802
+Weber          -483   P-1981
+Grant          -387   P-7984
+
+Follow the entry with the largest debit (the most negative amount).

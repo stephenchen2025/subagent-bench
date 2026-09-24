@@ -1,0 +1,56 @@
+Ticket T-5993
+Customer: Kofi Mensah
+Orders on file: ORD-52895, ORD-65066, ORD-41361, ORD-87171
+Opened: 2026-06-07 via chat transcript
+
+Order details:
+ORD-52895  placed 2026-08-18  status: returned  total: $43.33
+  payment method: card ending 2820  ship to: 176 Elm Lane
+  - standing desk x1
+  - extended warranty, 2 years x1
+  - carabiner set x3
+  - travel pouch x1
+ORD-65066  placed 2026-06-26  status: delivered  total: $125.89
+  payment method: card ending 8294  ship to: 611 Mill Lane
+  - water filter pitcher x1
+  - travel pouch x2
+  - spare battery pack x1
+  - microfiber cloth x1
+ORD-41361  placed 2026-07-14  status: delivered  total: $355.71
+  payment method: card ending 7582  ship to: 329 Harbor Ave
+  - standing desk x1
+  - stainless water bottle, 750ml x2
+  - microfiber cloth x1
+  - replacement filter cartridge, 3-pack x2
+ORD-87171  placed 2026-03-25  status: delivered  total: $177.17
+  payment method: card ending 8392  ship to: 173 Oak Ave
+  - noise-cancelling headphones x1
+  - microfiber cloth x2
+  - extended warranty, 2 years x3
+
+--- message 1 from Kofi Mensah ---
+Can I use a gift card on ORD-87171, or is it too late? I changed my shipping address last month, so please double-check you have the new one. Could you also tell me whether ORD-65066 qualifies for the extended return window? I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Kofi Mensah
+
+--- message 2 from Pete (support) ---
+Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-52895 to the address on file. Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Kofi Mensah ---
+My partner placed ORD-87171 on our shared account, in case that matters. Your app logged me out twice while I was looking at this, which didn't help. Tracking for ORD-65066 hasn't updated since Tuesday. My earlier order ORD-65066 arrived fine, no complaints there.
+
+Thanks,
+Kofi Mensah
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Pete (support) ---
+Tracking updates can lag by a day or two with this carrier. Let me know if anything else looks off. For ORD-52895, the return window is 30 days from delivery. Thanks for reaching out, and sorry for the trouble.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,69 @@
+Ticket T-4133
+Customer: Mateo Silva
+Orders on file: ORD-45939, ORD-24791, ORD-76836, ORD-51477
+Opened: 2026-04-21 via email
+
+Order details:
+ORD-45939  placed 2026-04-25  status: in transit  total: $142.33
+  payment method: card ending 8531  ship to: 442 Oak St
+  - camping stove x1
+  - replacement filter cartridge, 3-pack x3
+  - USB-C charging cable (2m) x3
+ORD-24791  placed 2026-06-23  status: delivered  total: $391.30
+  payment method: card ending 1907  ship to: 972 Cedar Lane
+  - bike light set x1
+  - carabiner set x1
+  - replacement filter cartridge, 3-pack x3
+ORD-76836  placed 2026-05-08  status: delivered  total: $458.37
+  payment method: card ending 2710  ship to: 69 Oak St
+  - espresso grinder x1
+  - gift wrap x3
+  - carabiner set x3
+  - extended warranty, 2 years x2
+  - microfiber cloth x3
+ORD-51477  placed 2026-02-12  status: delivered  total: $353.11
+  payment method: card ending 3399  ship to: 149 Cedar Rd
+  - yoga mat x1
+  - USB-C charging cable (2m) x1
+  - gift wrap x1
+  - travel pouch x3
+
+--- message 1 from Mateo Silva ---
+Where is my refund for ORD-76836? You said 5 days and it has been 8. Your app logged me out twice while I was looking at this, which didn't help. I'm travelling next week, so email is the best way to reach me. The confirmation email for ORD-24791 went to my spam folder, so I only just saw it.
+
+Thanks,
+Mateo Silva
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Arjun (support) ---
+Our warehouse shows ORD-51477 left on schedule. I've updated your shipping address on file. I've resent the confirmation email for ORD-24791 to the address on file. Let me know if anything else looks off.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Mateo Silva ---
+Not your fault, but my gym billed me twice this month, which is why I'm nervous about ORD-45939. Everything on your side looks like a single charge, I just wanted to confirm the delivery date. Is there a way to combine loyalty points from ORD-51477 with my next purchase? The trail running shoes itself is great, for what it's worth.
+
+Mateo Silva
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Arjun (support) ---
+Let me know if anything else looks off. Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Mateo Silva ---
+I tried the chat widget first but it kept disconnecting. I'd rather not call; the hold times last time were very long. The carry-on suitcase itself is great, for what it's worth. I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Mateo Silva
+
+--- message 6 from Arjun (support) ---
+I can see all the orders on your account, including ORD-51477. Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-24791, you can download it from the Orders page. Let me know if anything else looks off.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

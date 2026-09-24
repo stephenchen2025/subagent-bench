@@ -1,0 +1,12 @@
+Ledger page P-3860
+
+account      amount   see page
+Tanaka         +222   P-9608
+Zhou           +451   P-6362
+Hughes         +610   P-6858
+Baker          +707   P-9657
+Nakamura        +10   P-5727
+Fofana         -413   P-2267
+Vance          +731   P-9137
+
+Follow the entry with the second-largest amount.

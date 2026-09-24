@@ -1,0 +1,12 @@
+Ledger page P-1848
+
+account      amount   see page
+Ibarra         +652   P-6833
+Vance          +135   P-9109
+Tanaka         -193   P-9385
+Umar           -210   P-6196
+Nakamura         -3   P-6911
+Osei           +609   P-5874
+Lambert        +274   P-5209
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,10 @@
+Ledger page P-8335
+
+account      amount   see page
+Vance          -637   P-8443
+Weber          -634   P-1786
+Young           -89   P-7984
+Nakamura       -391   P-6752
+Lambert         +53   P-6654
+
+Follow the entry with the largest credit.

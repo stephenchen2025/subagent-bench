@@ -1,0 +1,12 @@
+Ledger page P-9997
+
+account      amount   see page
+Grant          +338   P-6700
+Xu             +499   P-6069
+Zhou           -228   P-8145
+Abbott         +123   P-8917
+Osei            -77   P-1270
+Tanaka         -835   P-7911
+Young          +258   P-3192
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,12 @@
+Ledger page P-9454
+
+account      amount   see page
+Rahman         +130   P-6359
+Nakamura       -419   P-7240
+Park           -367   P-2372
+Castillo       -778   P-4636
+Moreau         +270   P-8892
+Silva          +679   P-4561
+Zhou           +125   P-6544
+
+Follow the entry with the largest credit.

@@ -1,0 +1,12 @@
+Ledger page P-7854
+
+account      amount   see page
+Weber          -366   P-2544
+Vance          +736   P-4728
+Baker          +728   P-5143
+Kowalski       -753   P-9935
+Castillo       -526   P-4553
+Silva          +203   P-6031
+Young          +765   P-4540
+
+Follow the entry whose amount is closest to zero.

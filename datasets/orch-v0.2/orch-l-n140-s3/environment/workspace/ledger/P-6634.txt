@@ -1,0 +1,10 @@
+Ledger page P-6634
+
+account      amount   see page
+Ibarra         -123   P-6843
+Zhou            +67   P-7624
+Castillo       +702   P-3306
+Tanaka         -530   P-1670
+Young          +507   P-3044
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,10 @@
+Ledger page P-1234
+
+account      amount   see page
+Silva          +809   P-9652
+Lambert         -94   P-1745
+Hughes         +445   P-6328
+Moreau         +130   P-5485
+Osei           -444   P-6941
+
+Follow the entry whose amount is closest to zero.

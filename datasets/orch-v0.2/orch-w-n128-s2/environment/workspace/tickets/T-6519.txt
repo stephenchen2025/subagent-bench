@@ -1,0 +1,57 @@
+Ticket T-6519
+Customer: Felix Wagner
+Orders on file: ORD-96121, ORD-65900, ORD-37635, ORD-26300
+Opened: 2026-04-08 via chat transcript
+
+Order details:
+ORD-96121  placed 2026-08-24  status: delivered  total: $41.65
+  payment method: card ending 2216  ship to: 977 Cedar St
+  - trail running shoes x1
+  - gift wrap x1
+  - replacement filter cartridge, 3-pack x2
+  - extended warranty, 2 years x1
+ORD-65900  placed 2026-06-02  status: returned  total: $341.52
+  payment method: card ending 4646  ship to: 549 Cedar Rd
+  - rain jacket x1
+  - USB-C charging cable (2m) x1
+  - spare battery pack x2
+  - stainless water bottle, 750ml x3
+ORD-37635  placed 2026-07-14  status: returned  total: $319.10
+  payment method: card ending 8934  ship to: 888 Cedar Ave
+  - wool blanket x1
+  - microfiber cloth x1
+  - USB-C charging cable (2m) x3
+  - travel pouch x3
+ORD-26300  placed 2026-04-05  status: in transit  total: $419.84
+  payment method: card ending 6070  ship to: 797 Harbor Rd
+  - camping stove x1
+  - spare battery pack x1
+  - microfiber cloth x1
+  - travel pouch x3
+  - USB-C charging cable (2m) x1
+
+--- message 1 from Felix Wagner ---
+I need to change the delivery address for ORD-37635 before it ships. The box for ORD-37635 was a bit crushed but the contents were fine. The confirmation email for ORD-37635 went to my spam folder, so I only just saw it. My earlier order ORD-65900 arrived fine, no complaints there.
+
+Best regards,
+Felix Wagner
+
+--- message 2 from Marcus (support) ---
+Our warehouse shows ORD-37635 left on schedule. I can see all the orders on your account, including ORD-26300. I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Felix Wagner ---
+I changed my shipping address last month, so please double-check you have the new one. My earlier order ORD-26300 arrived fine, no complaints there. The box for ORD-65900 was a bit crushed but the contents were fine. The noise-cancelling headphones itself is great, for what it's worth.
+
+Felix Wagner
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Marcus (support) ---
+I've resent the confirmation email for ORD-37635 to the address on file. I can see all the orders on your account, including ORD-26300. Screenshots aren't necessary, but thank you for offering. I've added a note to your account so the next agent has the context.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

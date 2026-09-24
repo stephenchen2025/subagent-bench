@@ -1,0 +1,12 @@
+Ledger page P-4760
+
+account      amount   see page
+Eriksen        +727   P-6472
+Baker          -245   P-2943
+Vance          -219   P-1237
+Lambert        -728   P-6824
+Abbott         -784   P-6276
+Grant          -846   P-3390
+Tanaka         -899   P-9485
+
+Follow the entry whose amount is closest to zero.

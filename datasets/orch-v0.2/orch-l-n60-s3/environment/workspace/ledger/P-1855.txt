@@ -1,0 +1,11 @@
+Ledger page P-1855
+
+account      amount   see page
+Castillo       +497   P-1729
+Baker          -224   P-3858
+Vance          -411   P-5847
+Tanaka         +440   P-5847
+Lambert        +394   P-1141
+Abbott         -339   P-3830
+
+Follow the entry with the second-largest amount.

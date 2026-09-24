@@ -1,0 +1,11 @@
+Ledger page P-6653
+
+account      amount   see page
+Umar           -432   P-3216
+Quinn          -314   P-2971
+Weber          -810   P-3519
+Young          +257   P-2678
+Park           +231   P-2971
+Jensen         +675   P-8392
+
+Follow the credit belonging to the account that comes first alphabetically.

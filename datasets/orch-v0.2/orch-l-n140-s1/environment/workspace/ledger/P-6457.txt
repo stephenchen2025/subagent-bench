@@ -1,0 +1,10 @@
+Ledger page P-6457
+
+account      amount   see page
+Umar           -368   P-6820
+Quinn          -427   P-4680
+Baker          +599   P-2646
+Weber          +837   P-4660
+Nakamura       -526   P-5451
+
+Follow the entry with the largest credit.

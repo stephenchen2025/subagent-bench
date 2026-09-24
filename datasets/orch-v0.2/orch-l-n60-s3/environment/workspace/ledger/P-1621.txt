@@ -1,0 +1,12 @@
+Ledger page P-1621
+
+account      amount   see page
+Hughes         +307   P-4613
+Quinn          -209   P-2820
+Ibarra         +501   P-6328
+Nakamura       +391   P-6783
+Kowalski       -289   P-9736
+Xu             +173   P-6046
+Zhou           +250   P-6484
+
+Follow the entry with the largest debit (the most negative amount).

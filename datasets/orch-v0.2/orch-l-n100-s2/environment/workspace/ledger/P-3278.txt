@@ -1,0 +1,12 @@
+Ledger page P-3278
+
+account      amount   see page
+Quinn          +122   P-4263
+Fofana         -117   P-2863
+Abbott         +674   P-7685
+Dunn           +179   P-5225
+Zhou           +756   P-3698
+Umar           -190   P-6064
+Moreau         -236   P-4910
+
+Follow the debit belonging to the account that comes last alphabetically.

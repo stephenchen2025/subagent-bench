@@ -1,0 +1,86 @@
+Ticket T-7604
+Customer: Kofi Mensah
+Orders on file: ORD-99328, ORD-58944, ORD-86054, ORD-11833
+Opened: 2026-01-11 via email
+
+Order details:
+ORD-99328  placed 2026-01-11  status: delivered  total: $103.96
+  payment method: card ending 4392  ship to: 989 Cedar Rd
+  - water filter pitcher x1
+  - replacement filter cartridge, 3-pack x2
+  - travel pouch x3
+  - spare battery pack x2
+  - USB-C charging cable (2m) x3
+ORD-58944  placed 2026-05-23  status: delivered  total: $243.39
+  payment method: card ending 3866  ship to: 683 Cedar Ave
+  - yoga mat x1
+  - travel pouch x2
+  - gift wrap x3
+  - spare battery pack x3
+  - microfiber cloth x2
+ORD-86054  placed 2026-02-03  status: in transit  total: $291.07
+  payment method: card ending 6329  ship to: 879 Mill St
+  - noise-cancelling headphones x1
+  - microfiber cloth x3
+  - USB-C charging cable (2m) x3
+  - merino socks, size M x1
+  - spare battery pack x2
+ORD-11833  placed 2026-06-27  status: delivered  total: $119.11
+  payment method: card ending 2724  ship to: 538 Mill St
+  - noise-cancelling headphones x1
+  - gift wrap x1
+  - spare battery pack x1
+
+--- message 1 from Kofi Mensah ---
+Where is my refund for ORD-99328? You said 5 days and it has been 8. The box for ORD-58944 was a bit crushed but the contents were fine. The wool blanket itself is great, for what it's worth. I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Kofi Mensah
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Marcus (support) ---
+I can see all the orders on your account, including ORD-58944. I've added a note to your account so the next agent has the context. Loyalty points post about a week after an order is delivered. Let me know if anything else looks off.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Kofi Mensah ---
+I see two charges on my credit union this week, one for ORD-86054 and one for ORD-99328. Both are correct -- I ordered twice on purpose -- but could you send me the invoices for my expense report? My earlier order ORD-11833 arrived fine, no complaints there. Your app logged me out twice while I was looking at this, which didn't help.
+
+Best regards,
+Kofi Mensah
+
+--- message 4 from Marcus (support) ---
+I've updated your shipping address on file. If you need an invoice for ORD-58944, you can download it from the Orders page. I've added a note to your account so the next agent has the context.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Kofi Mensah ---
+I'm happy to send screenshots if that helps. I changed my shipping address last month, so please double-check you have the new one. Your app logged me out twice while I was looking at this, which didn't help. Could you also tell me whether ORD-58944 qualifies for the extended return window?
+
+Best regards,
+Kofi Mensah
+
+--- message 6 from Marcus (support) ---
+I've added a note to your account so the next agent has the context. Let me know if anything else looks off. For ORD-58944, the return window is 30 days from delivery. I've updated your shipping address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Kofi Mensah ---
+I tried the chat widget first but it kept disconnecting. I'm happy to send screenshots if that helps. Is there a way to combine loyalty points from ORD-99328 with my next purchase? My earlier order ORD-11833 arrived fine, no complaints there.
+
+Thanks,
+Kofi Mensah
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Marcus (support) ---
+Our warehouse shows ORD-99328 left on schedule. Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off. Loyalty points post about a week after an order is delivered.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

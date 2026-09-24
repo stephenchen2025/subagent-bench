@@ -1,0 +1,12 @@
+Ledger page P-2579
+
+account      amount   see page
+Castillo        +19   P-8018
+Young          +345   P-6873
+Abbott         -305   P-2838
+Grant          +201   P-6868
+Hughes         -586   P-4341
+Baker          -696   P-1851
+Rahman         -236   P-7562
+
+Follow the entry with the largest credit.

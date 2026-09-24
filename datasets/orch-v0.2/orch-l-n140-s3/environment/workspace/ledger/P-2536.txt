@@ -1,0 +1,12 @@
+Ledger page P-2536
+
+account      amount   see page
+Castillo       +464   P-5456
+Fofana         -450   P-5600
+Eriksen        +788   P-1469
+Silva          -572   P-9301
+Quinn          -177   P-7624
+Abbott         +376   P-1375
+Nakamura       +539   P-3417
+
+Follow the entry with the largest credit.

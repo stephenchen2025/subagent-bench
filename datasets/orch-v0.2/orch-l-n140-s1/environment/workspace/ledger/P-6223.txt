@@ -1,0 +1,12 @@
+Ledger page P-6223
+
+account      amount   see page
+Zhou           +811   P-2235
+Osei           +375   P-5320
+Grant          +368   P-4603
+Fofana         +189   P-3839
+Quinn          -500   P-8421
+Jensen         -460   P-4657
+Dunn           +199   P-4197
+
+Follow the entry whose amount is closest to zero.

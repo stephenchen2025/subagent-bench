@@ -1,0 +1,11 @@
+Ledger page P-5676
+
+account      amount   see page
+Abbott         -362   P-1557
+Kowalski       +710   P-4929
+Dunn            +20   P-5238
+Lambert        -866   P-2698
+Jensen         -496   P-7264
+Zhou           +622   P-3090
+
+Follow the entry with the second-largest amount.

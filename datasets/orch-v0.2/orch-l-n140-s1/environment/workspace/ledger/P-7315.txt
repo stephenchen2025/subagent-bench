@@ -1,0 +1,11 @@
+Ledger page P-7315
+
+account      amount   see page
+Rahman         -368   P-1092
+Quinn          -362   P-8046
+Umar           -774   P-6211
+Eriksen        +816   P-3704
+Moreau         +752   P-7442
+Dunn           +359   P-6328
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,11 @@
+Ledger page P-5894
+
+account      amount   see page
+Kowalski        -21   P-9887
+Quinn          +296   P-4847
+Tanaka         +895   P-4561
+Jensen           +2   P-7949
+Weber          -652   P-8896
+Grant          +546   P-8747
+
+Follow the credit belonging to the account that comes first alphabetically.

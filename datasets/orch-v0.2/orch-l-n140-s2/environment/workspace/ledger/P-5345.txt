@@ -1,0 +1,11 @@
+Ledger page P-5345
+
+account      amount   see page
+Vance          -845   P-4074
+Baker          +797   P-6587
+Moreau         -823   P-1713
+Eriksen        -615   P-2837
+Umar           +542   P-3410
+Abbott         +666   P-7011
+
+Follow the entry with the second-largest amount.

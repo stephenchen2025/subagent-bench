@@ -1,0 +1,11 @@
+Ledger page P-7454
+
+account      amount   see page
+Kowalski       +377   P-2675
+Jensen         -891   P-3686
+Tanaka         -638   P-5734
+Moreau         -618   P-8784
+Nakamura       -614   P-9339
+Weber          -309   P-4115
+
+Follow the credit belonging to the account that comes first alphabetically.

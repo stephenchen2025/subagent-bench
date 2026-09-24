@@ -1,0 +1,10 @@
+Ledger page P-7653
+
+account      amount   see page
+Young          +802   P-4478
+Osei           +571   P-7409
+Baker           -46   P-7335
+Grant          +773   P-5190
+Quinn          +196   P-1856
+
+Follow the entry with the largest credit.

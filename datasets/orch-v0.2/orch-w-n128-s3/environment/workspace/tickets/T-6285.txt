@@ -1,0 +1,70 @@
+Ticket T-6285
+Customer: Yuki Tanaka
+Orders on file: ORD-55961, ORD-14863, ORD-78812, ORD-10222
+Opened: 2026-03-17 via email
+
+Order details:
+ORD-55961  placed 2026-04-08  status: delivered  total: $426.46
+  payment method: card ending 7415  ship to: 77 Cedar Rd
+  - desk lamp x1
+  - stainless water bottle, 750ml x2
+  - replacement filter cartridge, 3-pack x3
+  - travel pouch x1
+ORD-14863  placed 2026-03-27  status: returned  total: $23.21
+  payment method: card ending 6682  ship to: 519 Harbor Lane
+  - cast iron skillet x1
+  - replacement filter cartridge, 3-pack x1
+  - microfiber cloth x1
+  - spare battery pack x2
+ORD-78812  placed 2026-07-12  status: returned  total: $447.92
+  payment method: card ending 7101  ship to: 297 Cedar Ave
+  - camping stove x1
+  - merino socks, size M x3
+  - replacement filter cartridge, 3-pack x1
+  - USB-C charging cable (2m) x2
+ORD-10222  placed 2026-04-01  status: in transit  total: $363.15
+  payment method: card ending 4258  ship to: 211 Harbor Lane
+  - espresso grinder x1
+  - spare battery pack x3
+  - travel pouch x3
+  - extended warranty, 2 years x3
+
+--- message 1 from Yuki Tanaka ---
+Can I use a gift card on ORD-55961, or is it too late? Tracking for ORD-10222 hasn't updated since Tuesday. Could you also tell me whether ORD-55961 qualifies for the extended return window? I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Yuki Tanaka
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Rosa (support) ---
+Thanks for reaching out, and sorry for the trouble. I've resent the confirmation email for ORD-10222 to the address on file. I can see all the orders on your account, including ORD-10222. If you need an invoice for ORD-10222, you can download it from the Orders page.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Yuki Tanaka ---
+The $215.50 for ORD-78812 came out of my account, and then the same $215.50 came out again the next morning. My partner placed ORD-55961 on our shared account, in case that matters. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Yuki Tanaka
+
+--- message 4 from Rosa (support) ---
+I've added a note to your account so the next agent has the context. Screenshots aren't necessary, but thank you for offering. Let me know if anything else looks off.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Yuki Tanaka ---
+My earlier order ORD-10222 arrived fine, no complaints there. My partner placed ORD-55961 on our shared account, in case that matters. Your app logged me out twice while I was looking at this, which didn't help. Could you also tell me whether ORD-10222 qualifies for the extended return window?
+
+Best regards,
+Yuki Tanaka
+
+--- message 6 from Rosa (support) ---
+I've updated your shipping address on file. I can see all the orders on your account, including ORD-10222. I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

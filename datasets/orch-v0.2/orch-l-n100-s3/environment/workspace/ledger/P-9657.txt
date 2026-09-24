@@ -1,0 +1,10 @@
+Ledger page P-9657
+
+account      amount   see page
+Park           +685   P-3301
+Zhou            +33   P-9548
+Lambert        +414   P-9554
+Abbott         -146   P-2904
+Jensen         +380   P-5365
+
+Follow the entry whose amount is closest to zero.

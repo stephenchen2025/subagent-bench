@@ -1,0 +1,11 @@
+Ledger page P-4349
+
+account      amount   see page
+Grant          -412   P-7004
+Castillo       -287   P-7022
+Dunn           +218   P-8805
+Baker          -414   P-7601
+Ibarra         -671   P-4950
+Park           +182   P-6194
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,11 @@
+Ledger page P-6911
+
+account      amount   see page
+Lambert        +555   P-9408
+Park           -395   P-1157
+Umar           -164   P-1848
+Ibarra         +449   P-4610
+Fofana         +542   P-3024
+Kowalski       -722   P-5642
+
+Follow the entry with the largest debit (the most negative amount).

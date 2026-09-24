@@ -1,0 +1,10 @@
+Ledger page P-9627
+
+account      amount   see page
+Kowalski       -125   P-8018
+Vance          +107   P-5252
+Jensen         +652   P-4793
+Grant          +295   P-8018
+Young          +492   P-6281
+
+Follow the entry whose amount is closest to zero.

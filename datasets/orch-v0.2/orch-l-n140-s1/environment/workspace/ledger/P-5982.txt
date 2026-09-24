@@ -1,0 +1,11 @@
+Ledger page P-5982
+
+account      amount   see page
+Kowalski       +564   P-9469
+Silva           +27   P-4399
+Castillo       +197   P-8416
+Hughes         +199   P-5912
+Nakamura       -130   P-3407
+Lambert        +751   P-9279
+
+Follow the entry with the largest credit.

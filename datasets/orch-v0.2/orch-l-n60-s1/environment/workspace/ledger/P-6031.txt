@@ -1,0 +1,11 @@
+Ledger page P-6031
+
+account      amount   see page
+Nakamura       -620   P-1159
+Rahman         +620   P-1696
+Hughes         -464   P-1701
+Fofana         -671   P-9531
+Grant           +39   P-8846
+Weber          +324   P-2588
+
+Follow the entry with the largest debit (the most negative amount).

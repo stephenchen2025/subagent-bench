@@ -1,0 +1,10 @@
+Ledger page P-8264
+
+account      amount   see page
+Young          +161   P-3606
+Vance          -454   P-1978
+Rahman          -33   P-1757
+Grant          -419   P-2765
+Jensen         -817   P-3215
+
+Follow the entry whose amount is closest to zero.

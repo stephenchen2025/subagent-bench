@@ -1,0 +1,55 @@
+Ticket T-5172
+Customer: Hana Sato
+Orders on file: ORD-80899, ORD-24029, ORD-90100, ORD-38360
+Opened: 2026-03-12 via email
+
+Order details:
+ORD-80899  placed 2026-01-24  status: label created  total: $262.99
+  payment method: card ending 5484  ship to: 867 Elm Ave
+  - blender x1
+  - merino socks, size M x2
+  - microfiber cloth x1
+  - USB-C charging cable (2m) x1
+ORD-24029  placed 2026-03-21  status: delivered  total: $418.99
+  payment method: card ending 3277  ship to: 337 Harbor St
+  - carry-on suitcase x1
+  - travel pouch x1
+  - stainless water bottle, 750ml x3
+  - extended warranty, 2 years x2
+  - carabiner set x2
+ORD-90100  placed 2026-03-07  status: in transit  total: $260.08
+  payment method: card ending 7568  ship to: 32 Mill Lane
+  - bike light set x1
+  - travel pouch x2
+  - spare battery pack x2
+ORD-38360  placed 2026-06-17  status: label created  total: $84.08
+  payment method: card ending 5195  ship to: 100 Elm Rd
+  - rain jacket x1
+  - carabiner set x1
+  - travel pouch x1
+
+--- message 1 from Hana Sato ---
+I'd like to return the desk lamp from ORD-24029; it's the wrong size. I changed my shipping address last month, so please double-check you have the new one. I'd rather not call; the hold times last time were very long. I've been a customer for a few years and usually everything goes smoothly.
+
+Hana Sato
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Fatima (support) ---
+I've added a note to your account so the next agent has the context. Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Hana Sato ---
+I've been a customer for a few years and usually everything goes smoothly. Is there a way to combine loyalty points from ORD-24029 with my next purchase? Could you also tell me whether ORD-80899 qualifies for the extended return window? The yoga mat itself is great, for what it's worth.
+
+Hana Sato
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Fatima (support) ---
+Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-38360, you can download it from the Orders page. Loyalty points post about a week after an order is delivered. Let me know if anything else looks off.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

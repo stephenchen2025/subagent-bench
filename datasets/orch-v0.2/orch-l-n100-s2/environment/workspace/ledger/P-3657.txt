@@ -1,0 +1,11 @@
+Ledger page P-3657
+
+account      amount   see page
+Moreau         -637   P-1382
+Weber          +105   P-2486
+Silva          +723   P-2535
+Eriksen        +432   P-4360
+Kowalski       -202   P-9213
+Young          +417   P-7540
+
+Follow the entry with the largest credit.

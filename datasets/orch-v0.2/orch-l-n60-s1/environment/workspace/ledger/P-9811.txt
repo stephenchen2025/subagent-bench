@@ -1,0 +1,12 @@
+Ledger page P-9811
+
+account      amount   see page
+Umar           +182   P-7200
+Tanaka         +796   P-9917
+Baker          +308   P-1525
+Lambert        +411   P-8874
+Jensen         +561   P-2558
+Kowalski       +801   P-9080
+Ibarra         -879   P-4062
+
+Follow the entry whose amount is closest to zero.

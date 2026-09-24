@@ -1,0 +1,11 @@
+Ledger page P-2983
+
+account      amount   see page
+Osei           -609   P-7454
+Abbott          -72   P-4890
+Eriksen        +591   P-1204
+Fofana         +467   P-6194
+Silva          +762   P-2449
+Ibarra          -28   P-6183
+
+Follow the entry with the largest debit (the most negative amount).

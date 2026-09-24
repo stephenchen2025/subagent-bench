@@ -1,0 +1,11 @@
+Ledger page P-1978
+
+account      amount   see page
+Grant          +882   P-1734
+Moreau         +217   P-3598
+Park            +76   P-8743
+Castillo       +183   P-8506
+Fofana         -229   P-2410
+Eriksen        -419   P-8454
+
+Follow the debit belonging to the account that comes last alphabetically.

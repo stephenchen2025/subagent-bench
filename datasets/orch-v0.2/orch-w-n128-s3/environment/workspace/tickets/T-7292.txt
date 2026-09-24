@@ -1,0 +1,99 @@
+Ticket T-7292
+Customer: Yuki Tanaka
+Orders on file: ORD-74995, ORD-91742, ORD-21491, ORD-88447
+Opened: 2026-04-25 via chat transcript
+
+Order details:
+ORD-74995  placed 2026-06-24  status: delivered  total: $348.38
+  payment method: card ending 7925  ship to: 91 Oak Lane
+  - trail running shoes x1
+  - extended warranty, 2 years x3
+  - USB-C charging cable (2m) x2
+  - merino socks, size M x2
+ORD-91742  placed 2026-05-22  status: in transit  total: $357.11
+  payment method: card ending 2160  ship to: 794 Elm Ave
+  - cast iron skillet x1
+  - USB-C charging cable (2m) x1
+  - stainless water bottle, 750ml x1
+  - travel pouch x1
+  - gift wrap x2
+ORD-21491  placed 2026-05-19  status: delivered  total: $254.42
+  payment method: card ending 8398  ship to: 774 Harbor St
+  - water filter pitcher x1
+  - spare battery pack x1
+  - replacement filter cartridge, 3-pack x1
+  - gift wrap x3
+  - stainless water bottle, 750ml x3
+ORD-88447  placed 2026-08-22  status: delivered  total: $415.19
+  payment method: card ending 2813  ship to: 170 Oak St
+  - rain jacket x1
+  - gift wrap x2
+  - replacement filter cartridge, 3-pack x2
+
+--- message 1 from Yuki Tanaka ---
+How do I reset my password? The reset link keeps expiring. My earlier order ORD-74995 arrived fine, no complaints there. I tried the chat widget first but it kept disconnecting. Tracking for ORD-91742 hasn't updated since Tuesday.
+
+Thanks,
+Yuki Tanaka
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Keiko (support) ---
+If you need an invoice for ORD-91742, you can download it from the Orders page. Thanks for reaching out, and sorry for the trouble. For ORD-91742, the return window is 30 days from delivery. I can see all the orders on your account, including ORD-91742.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Yuki Tanaka ---
+I got two receipts for ORD-88447, and both amounts actually left my account. Tracking for ORD-74995 hasn't updated since Tuesday. I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Yuki Tanaka
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Keiko (support) ---
+Our payment logs show a single capture for ORD-88447. The extra line you saw was an authorization that expired on its own -- no money was taken for it. I can see all the orders on your account, including ORD-21491. Our warehouse shows ORD-74995 left on schedule.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Yuki Tanaka ---
+Oh, you're right -- I checked the card app this morning and the second line is gone. Only one charge. Sorry for the false alarm! Is there a way to combine loyalty points from ORD-21491 with my next purchase? I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Yuki Tanaka
+
+--- message 6 from Keiko (support) ---
+Let me know if anything else looks off. I've added a note to your account so the next agent has the context. Our warehouse shows ORD-74995 left on schedule.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Yuki Tanaka ---
+Tracking for ORD-74995 hasn't updated since Tuesday. Is there a way to combine loyalty points from ORD-91742 with my next purchase? I'd rather not call; the hold times last time were very long. I tried the chat widget first but it kept disconnecting.
+
+Yuki Tanaka
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Keiko (support) ---
+For ORD-21491, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context. If you need an invoice for ORD-91742, you can download it from the Orders page. Our warehouse shows ORD-91742 left on schedule.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Yuki Tanaka ---
+Could you also tell me whether ORD-74995 qualifies for the extended return window? I'm travelling next week, so email is the best way to reach me. I've been a customer for a few years and usually everything goes smoothly. I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Yuki Tanaka
+Sent from my phone -- please excuse typos.
+
+--- message 10 from Keiko (support) ---
+Let me know if anything else looks off. If you need an invoice for ORD-91742, you can download it from the Orders page. Our warehouse shows ORD-91742 left on schedule. I can see all the orders on your account, including ORD-21491.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

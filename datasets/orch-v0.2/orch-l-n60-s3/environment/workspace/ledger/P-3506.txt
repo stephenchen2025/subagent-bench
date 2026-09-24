@@ -1,0 +1,12 @@
+Ledger page P-3506
+
+account      amount   see page
+Quinn          +645   P-3477
+Moreau         +214   P-3011
+Rahman         -397   P-7577
+Jensen         +741   P-1345
+Nakamura       -526   P-3041
+Fofana         +596   P-9986
+Osei           -588   P-9736
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,11 @@
+Ledger page P-4266
+
+account      amount   see page
+Ibarra          +18   P-2589
+Castillo       +850   P-2998
+Young          +220   P-4067
+Silva          -506   P-3007
+Weber          +662   P-8691
+Zhou           +756   P-8889
+
+Follow the entry with the largest debit (the most negative amount).

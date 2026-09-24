@@ -1,0 +1,10 @@
+Ledger page P-6280
+
+account      amount   see page
+Abbott         +751   P-5207
+Ibarra         +638   P-5510
+Weber          -515   P-4553
+Zhou           +385   P-8313
+Baker          -719   P-7546
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,10 @@
+Ledger page P-4603
+
+account      amount   see page
+Jensen         -372   P-6820
+Quinn          -819   P-9469
+Zhou           +498   P-2646
+Silva          +503   P-8503
+Lambert        -479   P-3519
+
+Follow the entry with the largest debit (the most negative amount).

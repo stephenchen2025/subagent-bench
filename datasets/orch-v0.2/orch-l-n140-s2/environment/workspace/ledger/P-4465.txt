@@ -1,0 +1,10 @@
+Ledger page P-4465
+
+account      amount   see page
+Umar           +829   P-1108
+Young          +499   P-1831
+Silva            +1   P-2252
+Moreau         +867   P-2080
+Rahman         -693   P-2019
+
+Follow the entry with the largest debit (the most negative amount).

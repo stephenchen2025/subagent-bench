@@ -1,0 +1,99 @@
+Ticket T-4116
+Customer: Ravi Iyer
+Orders on file: ORD-27950, ORD-12031, ORD-52537, ORD-77078
+Opened: 2026-06-28 via email
+
+Order details:
+ORD-27950  placed 2026-03-20  status: delivered  total: $186.93
+  payment method: card ending 9769  ship to: 523 Cedar Rd
+  - espresso grinder x1
+  - USB-C charging cable (2m) x2
+  - travel pouch x2
+ORD-12031  placed 2026-06-24  status: returned  total: $349.14
+  payment method: card ending 6656  ship to: 968 Elm Lane
+  - camping stove x1
+  - extended warranty, 2 years x1
+  - stainless water bottle, 750ml x2
+ORD-52537  placed 2026-06-13  status: in transit  total: $445.10
+  payment method: card ending 9587  ship to: 200 Harbor Lane
+  - cast iron skillet x1
+  - extended warranty, 2 years x3
+  - stainless water bottle, 750ml x2
+  - spare battery pack x3
+  - merino socks, size M x3
+ORD-77078  placed 2026-01-27  status: in transit  total: $266.41
+  payment method: card ending 5103  ship to: 131 Oak Rd
+  - mechanical keyboard x1
+  - spare battery pack x2
+  - carabiner set x3
+  - stainless water bottle, 750ml x1
+  - extended warranty, 2 years x2
+
+--- message 1 from Ravi Iyer ---
+Where is my refund for ORD-27950? You said 5 days and it has been 8. My partner placed ORD-27950 on our shared account, in case that matters. The confirmation email for ORD-77078 went to my spam folder, so I only just saw it. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Ravi Iyer
+
+--- message 2 from Rosa (support) ---
+I can see all the orders on your account, including ORD-12031. Tracking updates can lag by a day or two with this carrier. If you need an invoice for ORD-27950, you can download it from the Orders page. Screenshots aren't necessary, but thank you for offering.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ravi Iyer ---
+There's an extra line for ORD-52537 on the card app. It could just be a hold -- can you check? The espresso grinder itself is great, for what it's worth. I'm happy to send screenshots if that helps.
+
+Thanks,
+Ravi Iyer
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Rosa (support) ---
+If you need an invoice for ORD-12031, you can download it from the Orders page. I've updated your shipping address on file. Our warehouse shows ORD-77078 left on schedule.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Ravi Iyer ---
+Just checked again -- both charges for ORD-52537 are settled now, not pending. Could you also tell me whether ORD-77078 qualifies for the extended return window? The confirmation email for ORD-27950 went to my spam folder, so I only just saw it.
+
+Thanks,
+Ravi Iyer
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Rosa (support) ---
+You're right, and I'm sorry. Our records show ORD-52537 was settled two times. I've refunded the duplicate. I've updated your shipping address on file. I've added a note to your account so the next agent has the context.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Ravi Iyer ---
+I'm happy to send screenshots if that helps. I've been a customer for a few years and usually everything goes smoothly. I'd rather not call; the hold times last time were very long. Tracking for ORD-12031 hasn't updated since Tuesday.
+
+Thanks,
+Ravi Iyer
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Rosa (support) ---
+Tracking updates can lag by a day or two with this carrier. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-77078 left on schedule. I can see all the orders on your account, including ORD-12031.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Ravi Iyer ---
+My earlier order ORD-12031 arrived fine, no complaints there. I tried the chat widget first but it kept disconnecting. The box for ORD-27950 was a bit crushed but the contents were fine. My partner placed ORD-27950 on our shared account, in case that matters.
+
+Thanks,
+Ravi Iyer
+Sent from my phone -- please excuse typos.
+
+--- message 10 from Rosa (support) ---
+I've added a note to your account so the next agent has the context. Our warehouse shows ORD-12031 left on schedule. I've updated your shipping address on file. I've resent the confirmation email for ORD-77078 to the address on file.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

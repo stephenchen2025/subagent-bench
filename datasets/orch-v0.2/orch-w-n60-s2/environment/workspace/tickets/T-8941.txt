@@ -1,0 +1,55 @@
+Ticket T-8941
+Customer: Felix Wagner
+Orders on file: ORD-21030, ORD-34682, ORD-91934, ORD-36540
+Opened: 2026-03-02 via email
+
+Order details:
+ORD-21030  placed 2026-03-15  status: delivered  total: $170.46
+  payment method: card ending 9350  ship to: 296 Cedar Ave
+  - camping stove x1
+  - gift wrap x1
+  - spare battery pack x1
+  - microfiber cloth x2
+  - carabiner set x2
+ORD-34682  placed 2026-01-15  status: in transit  total: $48.20
+  payment method: card ending 2678  ship to: 25 Cedar Lane
+  - noise-cancelling headphones x1
+  - extended warranty, 2 years x2
+  - microfiber cloth x3
+ORD-91934  placed 2026-05-05  status: delivered  total: $274.88
+  payment method: card ending 6426  ship to: 950 Harbor Lane
+  - wool blanket x1
+  - merino socks, size M x3
+  - carabiner set x3
+ORD-36540  placed 2026-06-21  status: delivered  total: $151.98
+  payment method: card ending 9785  ship to: 952 Oak Ave
+  - trail running shoes x1
+  - travel pouch x3
+  - replacement filter cartridge, 3-pack x1
+  - USB-C charging cable (2m) x2
+
+--- message 1 from Felix Wagner ---
+Can I use a gift card on ORD-21030, or is it too late? I changed my shipping address last month, so please double-check you have the new one. My earlier order ORD-21030 arrived fine, no complaints there. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Felix Wagner
+
+--- message 2 from Pete (support) ---
+I've updated your shipping address on file. I can see all the orders on your account, including ORD-34682. I've resent the confirmation email for ORD-21030 to the address on file. Tracking updates can lag by a day or two with this carrier.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Felix Wagner ---
+My partner placed ORD-36540 on our shared account, in case that matters. The box for ORD-34682 was a bit crushed but the contents were fine. I tried the chat widget first but it kept disconnecting. Could you also tell me whether ORD-21030 qualifies for the extended return window?
+
+Felix Wagner
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Pete (support) ---
+Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-36540 to the address on file. For ORD-21030, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

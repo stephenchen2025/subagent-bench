@@ -1,0 +1,10 @@
+Ledger page P-9694
+
+account      amount   see page
+Zhou           +362   P-7037
+Vance           +94   P-9339
+Ibarra         +333   P-8198
+Hughes         -644   P-7257
+Abbott          +39   P-2983
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,12 @@
+Ledger page P-9623
+
+account      amount   see page
+Moreau         +456   P-8278
+Young          -512   P-2224
+Ibarra         +398   P-5199
+Xu             -217   P-2833
+Lambert        -859   P-2006
+Zhou            -76   P-3745
+Osei            +83   P-5975
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,10 @@
+Ledger page P-9375
+
+account      amount   see page
+Abbott         +240   P-4401
+Dunn           -786   P-7865
+Baker          -699   P-3821
+Park           -395   P-4045
+Lambert        +784   P-9072
+
+Follow the entry with the second-largest amount.

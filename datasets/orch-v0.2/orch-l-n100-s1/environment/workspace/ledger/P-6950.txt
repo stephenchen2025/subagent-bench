@@ -1,0 +1,10 @@
+Ledger page P-6950
+
+account      amount   see page
+Baker          -846   P-9595
+Kowalski         -5   P-9581
+Zhou            +43   P-4432
+Lambert        +877   P-2956
+Umar           +609   P-8600
+
+Follow the entry with the largest credit.

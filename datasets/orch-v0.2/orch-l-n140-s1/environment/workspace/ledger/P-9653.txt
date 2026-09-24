@@ -1,0 +1,12 @@
+Ledger page P-9653
+
+account      amount   see page
+Vance          +183   P-9105
+Quinn          -175   P-3387
+Weber          -297   P-6507
+Rahman         -132   P-6008
+Zhou           +236   P-6359
+Xu             -854   P-1165
+Ibarra         -196   P-3594
+
+Follow the entry with the largest credit.

@@ -1,0 +1,10 @@
+Ledger page P-2912
+
+account      amount   see page
+Abbott         -729   P-9655
+Tanaka         -694   P-1702
+Castillo       +631   P-2067
+Osei           -706   P-8805
+Kowalski       -533   P-5023
+
+Follow the entry with the largest credit.

@@ -1,0 +1,12 @@
+Ledger page P-6641
+
+account      amount   see page
+Kowalski       +455   P-3776
+Nakamura       -115   P-7573
+Castillo       +895   P-9080
+Vance          +507   P-3964
+Lambert        +683   P-3599
+Park           +366   P-8499
+Grant          -818   P-4720
+
+Follow the entry with the largest debit (the most negative amount).

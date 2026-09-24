@@ -1,0 +1,12 @@
+Ledger page P-2900
+
+account      amount   see page
+Rahman         +779   P-2820
+Park           -709   P-2329
+Ibarra         +293   P-4469
+Tanaka         +558   P-3606
+Moreau         +352   P-4898
+Castillo       -820   P-8357
+Vance          +576   P-3041
+
+Follow the entry with the second-largest amount.

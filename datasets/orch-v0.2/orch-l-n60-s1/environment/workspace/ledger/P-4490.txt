@@ -1,0 +1,11 @@
+Ledger page P-4490
+
+account      amount   see page
+Silva          +581   P-9811
+Zhou           -488   P-5691
+Eriksen        -436   P-1696
+Moreau         +783   P-6264
+Quinn          +746   P-9782
+Dunn           -608   P-1117
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,77 @@
+Ticket T-4456
+Customer: Tomas Novak
+Orders on file: ORD-56972, ORD-66491, ORD-39210, ORD-62975
+Opened: 2026-01-21 via email
+
+Order details:
+ORD-56972  placed 2026-02-14  status: returned  total: $32.84
+  payment method: card ending 4284  ship to: 881 Mill Ave
+  - water filter pitcher x1
+  - spare battery pack x1
+  - gift wrap x1
+  - stainless water bottle, 750ml x1
+ORD-66491  placed 2026-02-04  status: in transit  total: $125.82
+  payment method: card ending 4046  ship to: 15 Harbor Lane
+  - desk lamp x1
+  - replacement filter cartridge, 3-pack x1
+  - gift wrap x3
+ORD-39210  placed 2026-02-26  status: delivered  total: $291.47
+  payment method: card ending 4112  ship to: 542 Harbor Ave
+  - rain jacket x1
+  - stainless water bottle, 750ml x1
+  - merino socks, size M x1
+  - replacement filter cartridge, 3-pack x1
+ORD-62975  placed 2026-02-23  status: returned  total: $447.70
+  payment method: card ending 2683  ship to: 515 Oak Lane
+  - carry-on suitcase x1
+  - spare battery pack x2
+  - carabiner set x3
+  - replacement filter cartridge, 3-pack x1
+  - travel pouch x1
+
+--- message 1 from Tomas Novak ---
+The wool blanket from ORD-62975 arrived with a scratch on the side. Can I get a replacement? Is there a way to combine loyalty points from ORD-62975 with my next purchase? The water filter pitcher itself is great, for what it's worth. My partner placed ORD-66491 on our shared account, in case that matters.
+
+Tomas Novak
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Rosa (support) ---
+I can see all the orders on your account, including ORD-39210. Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Tomas Novak ---
+I see two charges on my statement this week, one for ORD-56972 and one for ORD-39210. Both are correct -- I ordered twice on purpose -- but could you send me the invoices for my expense report? My partner placed ORD-39210 on our shared account, in case that matters. Tracking for ORD-66491 hasn't updated since Tuesday.
+
+Best regards,
+Tomas Novak
+
+--- message 4 from Tomas Novak ---
+Is there a way to combine loyalty points from ORD-62975 with my next purchase? The confirmation email for ORD-39210 went to my spam folder, so I only just saw it. I changed my shipping address last month, so please double-check you have the new one. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Tomas Novak
+Sent from my phone -- please excuse typos.
+
+--- message 5 from Rosa (support) ---
+For ORD-39210, the return window is 30 days from delivery. Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-39210 left on schedule. Screenshots aren't necessary, but thank you for offering.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Tomas Novak ---
+Your app logged me out twice while I was looking at this, which didn't help. I've been a customer for a few years and usually everything goes smoothly. The box for ORD-66491 was a bit crushed but the contents were fine. The confirmation email for ORD-62975 went to my spam folder, so I only just saw it.
+
+Thanks,
+Tomas Novak
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Rosa (support) ---
+If you need an invoice for ORD-39210, you can download it from the Orders page. Let me know if anything else looks off. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-62975 left on schedule.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

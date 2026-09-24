@@ -1,0 +1,11 @@
+Ledger page P-3222
+
+account      amount   see page
+Moreau         +104   P-3948
+Abbott         +628   P-8146
+Dunn           -549   P-1460
+Vance          -646   P-2164
+Umar           -388   P-7362
+Tanaka         +670   P-8244
+
+Follow the entry with the second-largest amount.

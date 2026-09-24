@@ -1,0 +1,11 @@
+Ledger page P-2697
+
+account      amount   see page
+Grant          -783   P-4910
+Umar           -613   P-9227
+Hughes          -94   P-2486
+Silva          +877   P-9056
+Nakamura       -394   P-4607
+Xu             -512   P-8993
+
+Follow the entry with the largest debit (the most negative amount).

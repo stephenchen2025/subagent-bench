@@ -1,0 +1,93 @@
+Ticket T-6496
+Customer: Noah Fischer
+Orders on file: ORD-64664, ORD-62001, ORD-79762, ORD-65663
+Opened: 2026-08-18 via email
+
+Order details:
+ORD-64664  placed 2026-07-23  status: returned  total: $344.14
+  payment method: card ending 2547  ship to: 995 Cedar Rd
+  - carry-on suitcase x1
+  - replacement filter cartridge, 3-pack x2
+  - microfiber cloth x2
+  - spare battery pack x3
+  - USB-C charging cable (2m) x3
+ORD-62001  placed 2026-02-13  status: delivered  total: $373.97
+  payment method: card ending 6439  ship to: 905 Cedar Ave
+  - espresso grinder x1
+  - replacement filter cartridge, 3-pack x1
+  - carabiner set x1
+  - stainless water bottle, 750ml x2
+ORD-79762  placed 2026-06-22  status: delivered  total: $196.39
+  payment method: card ending 7739  ship to: 751 Oak Lane
+  - espresso grinder x1
+  - stainless water bottle, 750ml x2
+  - travel pouch x1
+  - merino socks, size M x2
+ORD-65663  placed 2026-01-11  status: label created  total: $260.48
+  payment method: card ending 3545  ship to: 57 Cedar Ave
+  - water filter pitcher x1
+  - USB-C charging cable (2m) x2
+  - gift wrap x3
+  - carabiner set x2
+  - merino socks, size M x2
+
+--- message 1 from Noah Fischer ---
+I need to change the delivery address for ORD-62001 before it ships. My earlier order ORD-64664 arrived fine, no complaints there. Could you also tell me whether ORD-79762 qualifies for the extended return window? Is there a way to combine loyalty points from ORD-62001 with my next purchase?
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Arjun (support) ---
+Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble. I've resent the confirmation email for ORD-79762 to the address on file. Screenshots aren't necessary, but thank you for offering.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Noah Fischer ---
+The checkout page for ORD-65663 timed out. If I try to pay again, will I end up being charged twice? The confirmation email for ORD-79762 went to my spam folder, so I only just saw it. I'm happy to send screenshots if that helps.
+
+Best regards,
+Noah Fischer
+
+--- message 4 from Arjun (support) ---
+No, you won't be charged twice: the first attempt for ORD-65663 failed before capture, so retrying is safe. I've added a note to your account so the next agent has the context. Thanks for reaching out, and sorry for the trouble.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Noah Fischer ---
+Tracking for ORD-64664 hasn't updated since Tuesday. My partner placed ORD-64664 on our shared account, in case that matters. I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Noah Fischer ---
+Tracking for ORD-64664 hasn't updated since Tuesday. Your app logged me out twice while I was looking at this, which didn't help. My earlier order ORD-64664 arrived fine, no complaints there. I'm happy to send screenshots if that helps.
+
+Best regards,
+Noah Fischer
+
+--- message 7 from Arjun (support) ---
+I can see all the orders on your account, including ORD-62001. Let me know if anything else looks off. Tracking updates can lag by a day or two with this carrier. I've updated your shipping address on file.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Noah Fischer ---
+I'd rather not call; the hold times last time were very long. The box for ORD-64664 was a bit crushed but the contents were fine. I've been a customer for a few years and usually everything goes smoothly. I'm happy to send screenshots if that helps.
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 9 from Arjun (support) ---
+I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble. For ORD-62001, the return window is 30 days from delivery. Tracking updates can lag by a day or two with this carrier.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,10 @@
+Ledger page P-9199
+
+account      amount   see page
+Ibarra         +870   P-1978
+Moreau         +297   P-9045
+Fofana         -777   P-2558
+Grant           +82   P-8035
+Park           -472   P-1246
+
+Follow the entry whose amount is closest to zero.

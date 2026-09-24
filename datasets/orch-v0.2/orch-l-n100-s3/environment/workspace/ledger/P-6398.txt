@@ -1,0 +1,10 @@
+Ledger page P-6398
+
+account      amount   see page
+Young          +627   P-7545
+Eriksen        -162   P-3583
+Weber          -521   P-2000
+Zhou           -822   P-9588
+Nakamura       -195   P-6516
+
+Follow the debit belonging to the account that comes last alphabetically.

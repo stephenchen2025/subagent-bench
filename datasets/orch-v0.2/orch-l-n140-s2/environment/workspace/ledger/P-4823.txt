@@ -1,0 +1,10 @@
+Ledger page P-4823
+
+account      amount   see page
+Kowalski       -587   P-1412
+Tanaka         -420   P-4466
+Park           +519   P-7346
+Umar           +394   P-2558
+Jensen         -328   P-5991
+
+Follow the entry whose amount is closest to zero.

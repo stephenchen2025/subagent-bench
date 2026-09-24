@@ -1,0 +1,12 @@
+Ledger page P-9368
+
+account      amount   see page
+Abbott         -792   P-3360
+Silva           -66   P-3655
+Dunn            -14   P-7941
+Park           -737   P-5846
+Kowalski       -222   P-1233
+Osei           +385   P-1637
+Xu             -583   P-4341
+
+Follow the credit belonging to the account that comes first alphabetically.

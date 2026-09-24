@@ -1,0 +1,68 @@
+Ticket T-7208
+Customer: Noah Fischer
+Orders on file: ORD-75507, ORD-97564, ORD-71859, ORD-99388
+Opened: 2026-01-20 via web form
+
+Order details:
+ORD-75507  placed 2026-05-14  status: delivered  total: $128.31
+  payment method: card ending 6963  ship to: 994 Oak Ave
+  - bike light set x1
+  - microfiber cloth x2
+  - stainless water bottle, 750ml x3
+ORD-97564  placed 2026-06-10  status: in transit  total: $403.38
+  payment method: card ending 9640  ship to: 876 Cedar Rd
+  - mechanical keyboard x1
+  - carabiner set x1
+  - merino socks, size M x3
+ORD-71859  placed 2026-06-17  status: delivered  total: $76.93
+  payment method: card ending 4961  ship to: 972 Cedar Rd
+  - blender x1
+  - replacement filter cartridge, 3-pack x3
+  - merino socks, size M x1
+  - microfiber cloth x2
+ORD-99388  placed 2026-02-04  status: returned  total: $441.62
+  payment method: card ending 5536  ship to: 223 Harbor Lane
+  - carry-on suitcase x1
+  - carabiner set x1
+  - USB-C charging cable (2m) x1
+
+--- message 1 from Noah Fischer ---
+The bike light set from ORD-75507 arrived with a scratch on the side. Can I get a replacement? I'm happy to send screenshots if that helps. Is there a way to combine loyalty points from ORD-75507 with my next purchase? I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Marcus (support) ---
+I've resent the confirmation email for ORD-97564 to the address on file. I can see all the orders on your account, including ORD-97564. Screenshots aren't necessary, but thank you for offering. Let me know if anything else looks off.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Noah Fischer ---
+The box for ORD-97564 was a bit crushed but the contents were fine. I've been a customer for a few years and usually everything goes smoothly. I'm happy to send screenshots if that helps. The confirmation email for ORD-99388 went to my spam folder, so I only just saw it.
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Marcus (support) ---
+For ORD-75507, the return window is 30 days from delivery. Our warehouse shows ORD-99388 left on schedule. I've added a note to your account so the next agent has the context. Loyalty points post about a week after an order is delivered.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Noah Fischer ---
+I've been a customer for a few years and usually everything goes smoothly. Is there a way to combine loyalty points from ORD-75507 with my next purchase? The box for ORD-75507 was a bit crushed but the contents were fine. I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Marcus (support) ---
+I can see all the orders on your account, including ORD-97564. I've resent the confirmation email for ORD-99388 to the address on file. Tracking updates can lag by a day or two with this carrier. For ORD-99388, the return window is 30 days from delivery.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

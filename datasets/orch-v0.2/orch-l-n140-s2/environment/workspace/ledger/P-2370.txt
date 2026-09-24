@@ -1,0 +1,12 @@
+Ledger page P-2370
+
+account      amount   see page
+Baker          -423   P-1412
+Vance          -154   P-5722
+Umar           +110   P-6579
+Weber          +372   P-7912
+Osei           -382   P-2018
+Xu             -427   P-8473
+Abbott         -269   P-7845
+
+Follow the entry with the second-largest amount.

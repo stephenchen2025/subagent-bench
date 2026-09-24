@@ -1,0 +1,10 @@
+Ledger page P-9386
+
+account      amount   see page
+Weber          -583   P-4344
+Fofana         -763   P-3307
+Moreau         -535   P-1423
+Young          +878   P-7093
+Tanaka          -62   P-1026
+
+Follow the credit belonging to the account that comes first alphabetically.

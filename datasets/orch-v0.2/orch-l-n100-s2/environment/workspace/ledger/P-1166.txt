@@ -1,0 +1,12 @@
+Ledger page P-1166
+
+account      amount   see page
+Nakamura       -348   P-2480
+Tanaka         +882   P-3441
+Abbott         -774   P-3012
+Umar            +80   P-4704
+Rahman         +831   P-8298
+Kowalski       +583   P-2495
+Xu             +430   P-4234
+
+Follow the entry with the largest debit (the most negative amount).

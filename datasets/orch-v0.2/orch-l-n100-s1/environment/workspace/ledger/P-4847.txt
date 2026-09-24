@@ -1,0 +1,12 @@
+Ledger page P-4847
+
+account      amount   see page
+Eriksen        +212   P-3307
+Hughes         +645   P-1026
+Grant          -651   P-5850
+Zhou            +77   P-9109
+Jensen         +159   P-3806
+Osei           +604   P-9758
+Baker          -419   P-9028
+
+Follow the debit belonging to the account that comes last alphabetically.

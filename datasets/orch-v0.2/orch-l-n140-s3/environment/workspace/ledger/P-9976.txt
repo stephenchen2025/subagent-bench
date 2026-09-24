@@ -1,0 +1,11 @@
+Ledger page P-9976
+
+account      amount   see page
+Lambert        +530   P-5991
+Dunn           -138   P-9623
+Kowalski       +631   P-4281
+Hughes         +333   P-4621
+Abbott         +373   P-5761
+Fofana         +506   P-3360
+
+Follow the entry with the largest debit (the most negative amount).

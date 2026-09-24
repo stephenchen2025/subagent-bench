@@ -1,0 +1,11 @@
+Ledger page P-1253
+
+account      amount   see page
+Lambert        -823   P-4898
+Weber          -289   P-7021
+Osei           -796   P-2358
+Silva           +75   P-7400
+Umar           -216   P-6178
+Castillo       -580   P-6476
+
+Follow the debit belonging to the account that comes last alphabetically.

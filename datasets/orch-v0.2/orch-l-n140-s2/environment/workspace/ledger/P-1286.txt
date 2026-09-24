@@ -1,0 +1,11 @@
+Ledger page P-1286
+
+account      amount   see page
+Jensen          +40   P-9256
+Weber          +374   P-5824
+Hughes          +90   P-3609
+Zhou           -565   P-6706
+Vance          -202   P-9110
+Quinn          +883   P-5144
+
+Follow the entry with the second-largest amount.

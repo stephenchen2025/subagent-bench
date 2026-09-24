@@ -1,0 +1,10 @@
+Ledger page P-2228
+
+account      amount   see page
+Rahman          -34   P-5075
+Jensen         +587   P-3552
+Castillo       -463   P-5124
+Fofana         -234   P-1026
+Vance          +888   P-4502
+
+Follow the debit belonging to the account that comes last alphabetically.

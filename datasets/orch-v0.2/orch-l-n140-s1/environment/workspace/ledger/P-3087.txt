@@ -1,0 +1,12 @@
+Ledger page P-3087
+
+account      amount   see page
+Jensen         -652   P-7601
+Quinn          -746   P-5028
+Fofana         +251   P-1247
+Grant          -781   P-6134
+Vance          -235   P-9690
+Park             +5   P-2880
+Abbott         +742   P-6167
+
+Follow the entry whose amount is closest to zero.

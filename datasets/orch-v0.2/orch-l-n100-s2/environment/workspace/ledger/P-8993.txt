@@ -1,0 +1,10 @@
+Ledger page P-8993
+
+account      amount   see page
+Moreau         -402   P-2863
+Ibarra         +891   P-2486
+Park           -306   P-6928
+Lambert        +276   P-5527
+Baker          -526   P-4780
+
+Follow the entry with the second-largest amount.

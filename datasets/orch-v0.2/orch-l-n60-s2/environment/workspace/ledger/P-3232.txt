@@ -1,0 +1,10 @@
+Ledger page P-3232
+
+account      amount   see page
+Dunn           +131   P-1647
+Grant          -449   P-9680
+Umar           +773   P-3249
+Ibarra         -738   P-4912
+Lambert        -376   P-9559
+
+Follow the entry whose amount is closest to zero.

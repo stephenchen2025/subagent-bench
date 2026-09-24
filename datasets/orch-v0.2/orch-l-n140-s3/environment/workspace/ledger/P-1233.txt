@@ -1,0 +1,12 @@
+Ledger page P-1233
+
+account      amount   see page
+Young          -230   P-4991
+Moreau         -252   P-5698
+Jensen         -264   P-4809
+Kowalski       +514   P-9833
+Baker          -450   P-3861
+Fofana         -334   P-2919
+Nakamura       -712   P-8186
+
+Follow the entry with the largest credit.

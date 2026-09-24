@@ -1,0 +1,11 @@
+Ledger page P-3005
+
+account      amount   see page
+Tanaka         +648   P-7454
+Kowalski       +826   P-8409
+Silva          +852   P-4730
+Eriksen        +414   P-6670
+Dunn           +551   P-8078
+Baker          -583   P-5618
+
+Follow the entry with the largest debit (the most negative amount).

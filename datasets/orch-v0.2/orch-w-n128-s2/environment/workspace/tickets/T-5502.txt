@@ -1,0 +1,55 @@
+Ticket T-5502
+Customer: Tomas Novak
+Orders on file: ORD-10681, ORD-22430, ORD-29055, ORD-37111
+Opened: 2026-02-19 via email
+
+Order details:
+ORD-10681  placed 2026-06-23  status: returned  total: $238.13
+  payment method: card ending 4440  ship to: 644 Oak Rd
+  - wool blanket x1
+  - stainless water bottle, 750ml x2
+  - travel pouch x3
+  - replacement filter cartridge, 3-pack x3
+ORD-22430  placed 2026-02-28  status: delivered  total: $458.63
+  payment method: card ending 6861  ship to: 317 Mill Rd
+  - mechanical keyboard x1
+  - replacement filter cartridge, 3-pack x3
+  - spare battery pack x3
+ORD-29055  placed 2026-04-13  status: delivered  total: $454.54
+  payment method: card ending 4959  ship to: 943 Harbor Ave
+  - standing desk x1
+  - microfiber cloth x2
+  - gift wrap x3
+ORD-37111  placed 2026-01-14  status: delivered  total: $23.56
+  payment method: card ending 7760  ship to: 814 Mill Ave
+  - carry-on suitcase x1
+  - stainless water bottle, 750ml x1
+  - gift wrap x2
+  - extended warranty, 2 years x1
+
+--- message 1 from Tomas Novak ---
+I'd like to return the blender from ORD-37111; it's the wrong size. Is there a way to combine loyalty points from ORD-10681 with my next purchase? I've been a customer for a few years and usually everything goes smoothly. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Tomas Novak
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Keiko (support) ---
+For ORD-37111, the return window is 30 days from delivery. I've resent the confirmation email for ORD-29055 to the address on file. I've added a note to your account so the next agent has the context. Our warehouse shows ORD-29055 left on schedule.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Tomas Novak ---
+My earlier order ORD-37111 arrived fine, no complaints there. I'd rather not call; the hold times last time were very long. My partner placed ORD-10681 on our shared account, in case that matters. The mechanical keyboard itself is great, for what it's worth.
+
+Tomas Novak
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Keiko (support) ---
+If you need an invoice for ORD-37111, you can download it from the Orders page. Let me know if anything else looks off. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-10681 left on schedule.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

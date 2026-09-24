@@ -1,0 +1,10 @@
+Ledger page P-5116
+
+account      amount   see page
+Nakamura       +567   P-2973
+Lambert        -774   P-3925
+Eriksen        +218   P-2589
+Xu             -167   P-3270
+Ibarra         +460   P-2366
+
+Follow the entry with the largest credit.

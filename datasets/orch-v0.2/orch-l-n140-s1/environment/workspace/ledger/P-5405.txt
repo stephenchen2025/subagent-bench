@@ -1,0 +1,11 @@
+Ledger page P-5405
+
+account      amount   see page
+Lambert        +138   P-8834
+Quinn          -836   P-2067
+Jensen         -344   P-4115
+Weber          -334   P-3686
+Xu             +220   P-2387
+Fofana         +786   P-5373
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,78 @@
+Ticket T-8237
+Customer: Tomas Novak
+Orders on file: ORD-41981, ORD-61990, ORD-97056, ORD-26407
+Opened: 2026-06-01 via web form
+
+Order details:
+ORD-41981  placed 2026-01-08  status: returned  total: $88.06
+  payment method: card ending 2730  ship to: 783 Oak St
+  - bike light set x1
+  - extended warranty, 2 years x1
+  - replacement filter cartridge, 3-pack x1
+  - USB-C charging cable (2m) x2
+  - merino socks, size M x2
+ORD-61990  placed 2026-02-14  status: label created  total: $98.16
+  payment method: card ending 6371  ship to: 74 Cedar Rd
+  - wool blanket x1
+  - stainless water bottle, 750ml x3
+  - merino socks, size M x3
+  - carabiner set x3
+ORD-97056  placed 2026-07-11  status: delivered  total: $251.35
+  payment method: card ending 3099  ship to: 767 Mill St
+  - wool blanket x1
+  - spare battery pack x1
+  - replacement filter cartridge, 3-pack x3
+  - carabiner set x3
+ORD-26407  placed 2026-08-11  status: in transit  total: $194.04
+  payment method: card ending 4305  ship to: 150 Harbor St
+  - cast iron skillet x1
+  - USB-C charging cable (2m) x3
+  - microfiber cloth x3
+  - merino socks, size M x1
+
+--- message 1 from Tomas Novak ---
+I'd like to return the yoga mat from ORD-26407; it's the wrong size. My partner placed ORD-26407 on our shared account, in case that matters. Your app logged me out twice while I was looking at this, which didn't help. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Tomas Novak
+
+--- message 2 from Marcus (support) ---
+Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context. I've updated your shipping address on file. For ORD-26407, the return window is 30 days from delivery.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Tomas Novak ---
+I was billed twice for ORD-41981 -- same amount, same day. Is there a way to combine loyalty points from ORD-61990 with my next purchase? I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Tomas Novak
+
+--- message 4 from Marcus (support) ---
+Confirmed on our side -- ORD-41981 was captured twice by a retry in our checkout. One refund of $409.22 is on its way to you. Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Tomas Novak ---
+The confirmation email for ORD-26407 went to my spam folder, so I only just saw it. My earlier order ORD-61990 arrived fine, no complaints there. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Tomas Novak
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Tomas Novak ---
+Your app logged me out twice while I was looking at this, which didn't help. The cast iron skillet itself is great, for what it's worth. My partner placed ORD-61990 on our shared account, in case that matters. My earlier order ORD-97056 arrived fine, no complaints there.
+
+Thanks,
+Tomas Novak
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Marcus (support) ---
+Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble. For ORD-61990, the return window is 30 days from delivery. I've resent the confirmation email for ORD-26407 to the address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

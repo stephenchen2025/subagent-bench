@@ -1,0 +1,11 @@
+Ledger page P-4993
+
+account      amount   see page
+Xu             +304   P-6651
+Abbott          +70   P-3644
+Weber          +523   P-6859
+Eriksen        +207   P-7193
+Jensen         -765   P-2833
+Castillo       -846   P-2253
+
+Follow the entry whose amount is closest to zero.

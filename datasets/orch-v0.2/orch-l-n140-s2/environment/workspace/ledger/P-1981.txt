@@ -1,0 +1,12 @@
+Ledger page P-1981
+
+account      amount   see page
+Young          -332   P-4682
+Quinn          -684   P-8493
+Baker          -487   P-4133
+Rahman         +595   P-8010
+Tanaka         +740   P-7912
+Moreau         -738   P-7086
+Kowalski        +32   P-2806
+
+Follow the entry with the second-largest amount.

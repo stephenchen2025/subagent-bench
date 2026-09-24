@@ -1,0 +1,12 @@
+Ledger page P-9691
+
+account      amount   see page
+Baker          +161   P-7222
+Vance          +595   P-5940
+Jensen         -111   P-1462
+Young          -748   P-1406
+Osei           -677   P-2807
+Quinn          +704   P-7672
+Eriksen        -433   P-9478
+
+Follow the entry with the largest debit (the most negative amount).

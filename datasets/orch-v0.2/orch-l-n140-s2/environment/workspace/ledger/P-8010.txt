@@ -1,0 +1,11 @@
+Ledger page P-8010
+
+account      amount   see page
+Fofana         +568   P-5574
+Osei           -466   P-3768
+Silva          -207   P-1122
+Park           -245   P-1734
+Eriksen        +626   P-9375
+Castillo       +364   P-8443
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,12 @@
+Ledger page P-5734
+
+account      amount   see page
+Grant          -403   P-2678
+Umar           +135   P-3336
+Young          +560   P-2721
+Park           -126   P-2311
+Ibarra         -423   P-3005
+Rahman         +559   P-3519
+Silva          +668   P-4731
+
+Follow the entry with the largest credit.

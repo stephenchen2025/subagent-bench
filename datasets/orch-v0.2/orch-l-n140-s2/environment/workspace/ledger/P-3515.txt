@@ -1,0 +1,12 @@
+Ledger page P-3515
+
+account      amount   see page
+Silva          +166   P-8328
+Castillo       +544   P-1872
+Tanaka         +801   P-5157
+Young          -466   P-9110
+Weber          +833   P-1265
+Lambert        +812   P-3828
+Grant          +134   P-7300
+
+Follow the entry with the largest credit.

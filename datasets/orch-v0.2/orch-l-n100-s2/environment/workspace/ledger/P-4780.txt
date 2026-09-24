@@ -1,0 +1,11 @@
+Ledger page P-4780
+
+account      amount   see page
+Lambert        -403   P-8176
+Castillo       +238   P-9065
+Park            +48   P-5886
+Jensen         -449   P-4360
+Fofana         -670   P-8535
+Grant          +803   P-2777
+
+Follow the entry whose amount is closest to zero.

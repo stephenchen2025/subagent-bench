@@ -1,0 +1,11 @@
+Ledger page P-8526
+
+account      amount   see page
+Weber          -537   P-5218
+Nakamura       +543   P-5209
+Zhou           +264   P-6089
+Quinn          +822   P-1701
+Grant          +440   P-3740
+Baker          +494   P-7693
+
+Follow the entry with the second-largest amount.

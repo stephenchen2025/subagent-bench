@@ -1,0 +1,10 @@
+Ledger page P-8573
+
+account      amount   see page
+Umar           -813   P-7442
+Grant          -400   P-6653
+Lambert        -506   P-7402
+Moreau         +101   P-6221
+Tanaka         +658   P-2429
+
+Follow the entry with the second-largest amount.

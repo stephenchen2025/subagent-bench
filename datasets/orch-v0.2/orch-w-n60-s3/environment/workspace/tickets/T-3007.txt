@@ -1,0 +1,53 @@
+Ticket T-3007
+Customer: Mateo Silva
+Orders on file: ORD-87651, ORD-35719, ORD-81373, ORD-41013
+Opened: 2026-02-04 via email
+
+Order details:
+ORD-87651  placed 2026-07-18  status: returned  total: $142.87
+  payment method: card ending 4227  ship to: 955 Oak Lane
+  - rain jacket x1
+  - microfiber cloth x3
+  - merino socks, size M x3
+ORD-35719  placed 2026-03-22  status: returned  total: $239.81
+  payment method: card ending 4952  ship to: 593 Cedar Ave
+  - blender x1
+  - travel pouch x1
+  - spare battery pack x2
+ORD-81373  placed 2026-01-17  status: delivered  total: $396.34
+  payment method: card ending 9998  ship to: 685 Elm Rd
+  - bike light set x1
+  - carabiner set x2
+  - replacement filter cartridge, 3-pack x1
+ORD-41013  placed 2026-07-01  status: returned  total: $325.74
+  payment method: card ending 3627  ship to: 816 Elm St
+  - yoga mat x1
+  - gift wrap x2
+  - replacement filter cartridge, 3-pack x1
+
+--- message 1 from Mateo Silva ---
+I need to change the delivery address for ORD-81373 before it ships. My earlier order ORD-41013 arrived fine, no complaints there. I tried the chat widget first but it kept disconnecting. The water filter pitcher itself is great, for what it's worth.
+
+Thanks,
+Mateo Silva
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Dana (support) ---
+Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-81373. I've resent the confirmation email for ORD-41013 to the address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Mateo Silva ---
+My earlier order ORD-35719 arrived fine, no complaints there. Tracking for ORD-35719 hasn't updated since Tuesday. I'm travelling next week, so email is the best way to reach me. I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Mateo Silva
+
+--- message 4 from Dana (support) ---
+Our warehouse shows ORD-41013 left on schedule. I can see all the orders on your account, including ORD-81373. Loyalty points post about a week after an order is delivered. Let me know if anything else looks off.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,12 @@
+Ledger page P-2994
+
+account      amount   see page
+Fofana         -182   P-3476
+Moreau         +386   P-3147
+Silva          +759   P-6577
+Eriksen        +334   P-4378
+Nakamura       -653   P-5836
+Lambert        +358   P-1803
+Young          +169   P-5058
+
+Follow the entry with the largest credit.

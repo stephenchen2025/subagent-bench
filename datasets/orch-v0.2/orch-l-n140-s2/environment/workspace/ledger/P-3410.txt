@@ -1,0 +1,11 @@
+Ledger page P-3410
+
+account      amount   see page
+Lambert        +842   P-8985
+Fofana         +863   P-9920
+Park            -94   P-3501
+Abbott         -788   P-5242
+Eriksen        -363   P-3217
+Hughes          +27   P-7473
+
+Follow the entry whose amount is closest to zero.

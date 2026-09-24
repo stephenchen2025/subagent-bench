@@ -1,0 +1,11 @@
+Ledger page P-3529
+
+account      amount   see page
+Park           +220   P-9931
+Dunn           -691   P-4872
+Ibarra         +486   P-8733
+Vance          +249   P-8753
+Lambert        -768   P-9053
+Fofana         -638   P-3585
+
+Follow the credit belonging to the account that comes first alphabetically.

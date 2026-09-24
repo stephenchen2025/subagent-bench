@@ -1,0 +1,98 @@
+Ticket T-5659
+Customer: Felix Wagner
+Orders on file: ORD-34752, ORD-71224, ORD-11091, ORD-16606
+Opened: 2026-06-06 via web form
+
+Order details:
+ORD-34752  placed 2026-08-06  status: label created  total: $213.29
+  payment method: card ending 7448  ship to: 960 Oak Ave
+  - trail running shoes x1
+  - merino socks, size M x2
+  - carabiner set x2
+  - extended warranty, 2 years x1
+  - USB-C charging cable (2m) x3
+ORD-71224  placed 2026-04-26  status: delivered  total: $65.12
+  payment method: card ending 1486  ship to: 835 Cedar Rd
+  - trail running shoes x1
+  - USB-C charging cable (2m) x3
+  - extended warranty, 2 years x3
+  - travel pouch x1
+  - carabiner set x1
+ORD-11091  placed 2026-08-28  status: in transit  total: $66.67
+  payment method: card ending 3511  ship to: 508 Harbor St
+  - water filter pitcher x1
+  - travel pouch x2
+  - stainless water bottle, 750ml x2
+  - microfiber cloth x3
+ORD-16606  placed 2026-03-27  status: label created  total: $336.97
+  payment method: card ending 7334  ship to: 294 Elm Lane
+  - bike light set x1
+  - travel pouch x1
+  - USB-C charging cable (2m) x3
+  - microfiber cloth x3
+
+--- message 1 from Felix Wagner ---
+The espresso grinder from ORD-16606 arrived with a scratch on the side. Can I get a replacement? I've been a customer for a few years and usually everything goes smoothly. I'm travelling next week, so email is the best way to reach me. Could you also tell me whether ORD-16606 qualifies for the extended return window?
+
+Best regards,
+Felix Wagner
+
+--- message 2 from Dana (support) ---
+Let me know if anything else looks off. If you need an invoice for ORD-71224, you can download it from the Orders page. Thanks for reaching out, and sorry for the trouble. Tracking updates can lag by a day or two with this carrier.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Felix Wagner ---
+The $381.57 for ORD-11091 came out of my account, and then the same $381.57 came out again the next morning. I've been a customer for a few years and usually everything goes smoothly. I'm happy to send screenshots if that helps.
+
+Felix Wagner
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Dana (support) ---
+Good news: only one payment for ORD-11091 ever settled. The other entry was a temporary hold and your bank has dropped it. If you need an invoice for ORD-16606, you can download it from the Orders page. For ORD-34752, the return window is 30 days from delivery.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Felix Wagner ---
+Oh, you're right -- I checked my credit union this morning and the second line is gone. Only one charge. Sorry for the false alarm! My earlier order ORD-16606 arrived fine, no complaints there. The confirmation email for ORD-34752 went to my spam folder, so I only just saw it.
+
+Felix Wagner
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Dana (support) ---
+I've added a note to your account so the next agent has the context. Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Felix Wagner ---
+Your app logged me out twice while I was looking at this, which didn't help. Is there a way to combine loyalty points from ORD-16606 with my next purchase? My partner placed ORD-16606 on our shared account, in case that matters. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Felix Wagner
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Dana (support) ---
+I've added a note to your account so the next agent has the context. Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-71224 left on schedule. Let me know if anything else looks off.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Felix Wagner ---
+Your app logged me out twice while I was looking at this, which didn't help. I've been a customer for a few years and usually everything goes smoothly. Could you also tell me whether ORD-71224 qualifies for the extended return window? The trail running shoes itself is great, for what it's worth.
+
+Best regards,
+Felix Wagner
+
+--- message 10 from Dana (support) ---
+Let me know if anything else looks off. I can see all the orders on your account, including ORD-71224. I've updated your shipping address on file. Tracking updates can lag by a day or two with this carrier.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

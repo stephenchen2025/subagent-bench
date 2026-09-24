@@ -1,0 +1,11 @@
+Ledger page P-6924
+
+account      amount   see page
+Moreau         -619   P-6253
+Dunn           -470   P-7911
+Rahman         +813   P-5935
+Fofana         -684   P-2331
+Weber          +241   P-9588
+Kowalski       +180   P-9081
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,12 @@
+Ledger page P-3985
+
+account      amount   see page
+Silva          -676   P-2648
+Dunn           -643   P-9573
+Park            +80   P-5220
+Kowalski       +249   P-4942
+Ibarra          +12   P-1518
+Zhou           -263   P-6700
+Moreau         -239   P-8485
+
+Follow the entry with the second-largest amount.

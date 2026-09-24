@@ -1,0 +1,97 @@
+Ticket T-6449
+Customer: Aisha Karim
+Orders on file: ORD-61321, ORD-43603, ORD-22055, ORD-30860
+Opened: 2026-04-07 via web form
+
+Order details:
+ORD-61321  placed 2026-06-17  status: delivered  total: $364.10
+  payment method: card ending 4119  ship to: 515 Oak St
+  - mechanical keyboard x1
+  - merino socks, size M x1
+  - carabiner set x1
+  - USB-C charging cable (2m) x3
+ORD-43603  placed 2026-07-17  status: label created  total: $340.55
+  payment method: card ending 4295  ship to: 21 Cedar St
+  - trail running shoes x1
+  - merino socks, size M x2
+  - replacement filter cartridge, 3-pack x2
+  - gift wrap x2
+  - travel pouch x3
+ORD-22055  placed 2026-06-23  status: delivered  total: $101.79
+  payment method: card ending 1874  ship to: 255 Mill Ave
+  - rain jacket x1
+  - merino socks, size M x3
+  - stainless water bottle, 750ml x2
+  - travel pouch x1
+  - carabiner set x3
+ORD-30860  placed 2026-05-28  status: delivered  total: $132.58
+  payment method: card ending 7747  ship to: 508 Elm St
+  - camping stove x1
+  - microfiber cloth x1
+  - spare battery pack x3
+
+--- message 1 from Aisha Karim ---
+Can I use a gift card on ORD-61321, or is it too late? I'd rather not call; the hold times last time were very long. I'm travelling next week, so email is the best way to reach me. Could you also tell me whether ORD-43603 qualifies for the extended return window?
+
+Aisha Karim
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Fatima (support) ---
+Let me know if anything else looks off. I've added a note to your account so the next agent has the context. If you need an invoice for ORD-61321, you can download it from the Orders page. Thanks for reaching out, and sorry for the trouble.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Aisha Karim ---
+ORD-22055 shows up once in my order history, but my statement shows it paid for on two separate lines. Tracking for ORD-43603 hasn't updated since Tuesday. I tried the chat widget first but it kept disconnecting.
+
+Aisha Karim
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Fatima (support) ---
+I can see all the orders on your account, including ORD-61321. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-43603 left on schedule.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Fatima (support) ---
+You're right, and I'm sorry. Our records show ORD-22055 was settled two times. I've refunded the duplicate. If you need an invoice for ORD-30860, you can download it from the Orders page. I can see all the orders on your account, including ORD-43603.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Aisha Karim ---
+Your app logged me out twice while I was looking at this, which didn't help. My earlier order ORD-61321 arrived fine, no complaints there. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Aisha Karim
+
+--- message 7 from Aisha Karim ---
+Is there a way to combine loyalty points from ORD-61321 with my next purchase? Your app logged me out twice while I was looking at this, which didn't help. I'm travelling next week, so email is the best way to reach me. Tracking for ORD-30860 hasn't updated since Tuesday.
+
+Thanks,
+Aisha Karim
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Fatima (support) ---
+I've updated your shipping address on file. For ORD-61321, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context. I can see all the orders on your account, including ORD-30860.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Aisha Karim ---
+I'd rather not call; the hold times last time were very long. Tracking for ORD-43603 hasn't updated since Tuesday. I changed my shipping address last month, so please double-check you have the new one. Could you also tell me whether ORD-30860 qualifies for the extended return window?
+
+Best regards,
+Aisha Karim
+
+--- message 10 from Fatima (support) ---
+Loyalty points post about a week after an order is delivered. If you need an invoice for ORD-43603, you can download it from the Orders page. I've added a note to your account so the next agent has the context. Thanks for reaching out, and sorry for the trouble.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

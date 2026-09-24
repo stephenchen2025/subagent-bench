@@ -1,0 +1,11 @@
+Ledger page P-9698
+
+account      amount   see page
+Osei           -549   P-6269
+Lambert        +563   P-4622
+Park            -75   P-7164
+Grant          +848   P-3179
+Jensen         +675   P-8853
+Xu             +672   P-8948
+
+Follow the credit belonging to the account that comes first alphabetically.

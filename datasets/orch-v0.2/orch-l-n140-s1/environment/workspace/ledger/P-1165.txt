@@ -1,0 +1,10 @@
+Ledger page P-1165
+
+account      amount   see page
+Abbott         +775   P-9469
+Weber          -712   P-5008
+Fofana         -553   P-4730
+Jensen         +807   P-4098
+Silva          -336   P-6211
+
+Follow the entry with the largest credit.

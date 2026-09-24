@@ -1,0 +1,12 @@
+Ledger page P-2879
+
+account      amount   see page
+Tanaka          -22   P-2426
+Castillo        -53   P-5894
+Xu             -128   P-9420
+Abbott         +855   P-3226
+Rahman         +556   P-2926
+Ibarra         -131   P-4522
+Zhou           +242   P-5991
+
+Follow the entry with the largest debit (the most negative amount).

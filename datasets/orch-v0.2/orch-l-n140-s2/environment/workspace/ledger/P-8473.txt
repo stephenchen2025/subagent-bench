@@ -1,0 +1,11 @@
+Ledger page P-8473
+
+account      amount   see page
+Abbott         +645   P-5008
+Eriksen        -779   P-7331
+Nakamura       +561   P-6306
+Fofana         +216   P-8951
+Baker          +137   P-5111
+Rahman         +825   P-8486
+
+Follow the entry with the second-largest amount.

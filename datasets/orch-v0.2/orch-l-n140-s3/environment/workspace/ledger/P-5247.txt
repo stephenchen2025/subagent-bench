@@ -1,0 +1,10 @@
+Ledger page P-5247
+
+account      amount   see page
+Castillo       +415   P-1252
+Silva          -349   P-3292
+Young           -80   P-5421
+Park            -62   P-4493
+Ibarra         -109   P-3604
+
+Follow the entry with the largest debit (the most negative amount).

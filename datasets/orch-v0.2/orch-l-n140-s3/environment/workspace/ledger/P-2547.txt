@@ -1,0 +1,10 @@
+Ledger page P-2547
+
+account      amount   see page
+Moreau         +104   P-9263
+Fofana         -365   P-4655
+Nakamura        -81   P-7047
+Xu             -258   P-5120
+Young          +572   P-4465
+
+Follow the entry with the largest credit.

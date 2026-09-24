@@ -1,0 +1,11 @@
+Ledger page P-9749
+
+account      amount   see page
+Baker          +336   P-9258
+Abbott         -577   P-7211
+Eriksen        +377   P-1184
+Tanaka         +655   P-1886
+Park            +62   P-5688
+Weber          +667   P-2579
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,11 @@
+Ledger page P-3293
+
+account      amount   see page
+Young           -33   P-4354
+Vance          +727   P-6708
+Weber          +356   P-2994
+Fofana         +132   P-3800
+Moreau         +273   P-1246
+Grant          +412   P-2926
+
+Follow the entry with the largest credit.

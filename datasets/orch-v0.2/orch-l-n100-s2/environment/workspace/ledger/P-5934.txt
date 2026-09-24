@@ -1,0 +1,12 @@
+Ledger page P-5934
+
+account      amount   see page
+Eriksen        +339   P-6140
+Lambert        -195   P-1382
+Weber          -345   P-6722
+Nakamura       +835   P-3698
+Castillo       -673   P-1695
+Grant          +118   P-9256
+Dunn           -380   P-2046
+
+Follow the entry whose amount is closest to zero.

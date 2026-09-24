@@ -1,0 +1,12 @@
+Ledger page P-7239
+
+account      amount   see page
+Xu              -29   P-1707
+Ibarra         -788   P-5824
+Weber          +553   P-5722
+Rahman         +395   P-9420
+Abbott         -188   P-8335
+Vance          +369   P-4046
+Tanaka         -496   P-5451
+
+Follow the entry with the largest debit (the most negative amount).

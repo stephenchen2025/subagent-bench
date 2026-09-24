@@ -1,0 +1,70 @@
+Ticket T-4278
+Customer: Amara Nwosu
+Orders on file: ORD-15421, ORD-65370, ORD-79234, ORD-17299
+Opened: 2026-02-24 via chat transcript
+
+Order details:
+ORD-15421  placed 2026-08-27  status: in transit  total: $366.83
+  payment method: card ending 5387  ship to: 885 Mill Ave
+  - water filter pitcher x1
+  - microfiber cloth x2
+  - USB-C charging cable (2m) x3
+ORD-65370  placed 2026-06-18  status: delivered  total: $55.99
+  payment method: card ending 1296  ship to: 812 Oak St
+  - wool blanket x1
+  - gift wrap x1
+  - merino socks, size M x1
+ORD-79234  placed 2026-03-07  status: returned  total: $275.57
+  payment method: card ending 7997  ship to: 392 Harbor St
+  - desk lamp x1
+  - stainless water bottle, 750ml x3
+  - spare battery pack x2
+  - travel pouch x1
+  - merino socks, size M x1
+ORD-17299  placed 2026-02-13  status: delivered  total: $375.70
+  payment method: card ending 3782  ship to: 514 Harbor St
+  - yoga mat x1
+  - merino socks, size M x1
+  - gift wrap x2
+  - travel pouch x1
+  - replacement filter cartridge, 3-pack x2
+
+--- message 1 from Amara Nwosu ---
+Can I use a gift card on ORD-65370, or is it too late? My earlier order ORD-65370 arrived fine, no complaints there. I changed my shipping address last month, so please double-check you have the new one. Is there a way to combine loyalty points from ORD-65370 with my next purchase?
+
+Amara Nwosu
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Pete (support) ---
+Let me know if anything else looks off. I've updated your shipping address on file. For ORD-15421, the return window is 30 days from delivery. Tracking updates can lag by a day or two with this carrier.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Amara Nwosu ---
+I'd rather not call; the hold times last time were very long. My earlier order ORD-65370 arrived fine, no complaints there. I changed my shipping address last month, so please double-check you have the new one. I tried the chat widget first but it kept disconnecting.
+
+Amara Nwosu
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Pete (support) ---
+I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-79234 left on schedule.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Amara Nwosu ---
+I'm happy to send screenshots if that helps. Is there a way to combine loyalty points from ORD-65370 with my next purchase? I changed my shipping address last month, so please double-check you have the new one. The bike light set itself is great, for what it's worth.
+
+Thanks,
+Amara Nwosu
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Pete (support) ---
+I've resent the confirmation email for ORD-65370 to the address on file. I can see all the orders on your account, including ORD-65370. Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

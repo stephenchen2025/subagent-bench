@@ -1,0 +1,79 @@
+Ticket T-5643
+Customer: Noah Fischer
+Orders on file: ORD-19093, ORD-26183, ORD-88350, ORD-88810
+Opened: 2026-06-04 via email
+
+Order details:
+ORD-19093  placed 2026-04-12  status: label created  total: $437.56
+  payment method: card ending 2688  ship to: 67 Harbor St
+  - rain jacket x1
+  - spare battery pack x1
+  - microfiber cloth x1
+  - replacement filter cartridge, 3-pack x1
+  - extended warranty, 2 years x3
+ORD-26183  placed 2026-03-09  status: returned  total: $220.80
+  payment method: card ending 8978  ship to: 982 Harbor Lane
+  - trail running shoes x1
+  - extended warranty, 2 years x2
+  - stainless water bottle, 750ml x2
+  - travel pouch x2
+  - microfiber cloth x2
+ORD-88350  placed 2026-07-04  status: label created  total: $130.50
+  payment method: card ending 1938  ship to: 591 Mill Lane
+  - noise-cancelling headphones x1
+  - USB-C charging cable (2m) x3
+  - microfiber cloth x3
+  - merino socks, size M x1
+ORD-88810  placed 2026-01-27  status: delivered  total: $102.38
+  payment method: card ending 8126  ship to: 632 Mill Ave
+  - water filter pitcher x1
+  - spare battery pack x2
+  - extended warranty, 2 years x2
+  - USB-C charging cable (2m) x3
+
+--- message 1 from Noah Fischer ---
+How do I reset my password? The reset link keeps expiring. I'm happy to send screenshots if that helps. Your app logged me out twice while I was looking at this, which didn't help. Tracking for ORD-88350 hasn't updated since Tuesday.
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Keiko (support) ---
+If you need an invoice for ORD-88350, you can download it from the Orders page. For ORD-26183, the return window is 30 days from delivery. Our warehouse shows ORD-26183 left on schedule. Screenshots aren't necessary, but thank you for offering.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Noah Fischer ---
+The checkout page for ORD-88810 timed out. If I try to pay again, will I end up being charged twice? I tried the chat widget first but it kept disconnecting. Could you also tell me whether ORD-88350 qualifies for the extended return window?
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Keiko (support) ---
+Retrying is safe. Our system blocks a second capture on ORD-88810, so a double charge can't happen. For ORD-26183, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Noah Fischer ---
+I tried the chat widget first but it kept disconnecting. I'm travelling next week, so email is the best way to reach me. Tracking for ORD-19093 hasn't updated since Tuesday.
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Noah Fischer ---
+My earlier order ORD-19093 arrived fine, no complaints there. I changed my shipping address last month, so please double-check you have the new one. The box for ORD-88350 was a bit crushed but the contents were fine. I'm travelling next week, so email is the best way to reach me.
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Keiko (support) ---
+Loyalty points post about a week after an order is delivered. I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-88350, you can download it from the Orders page.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

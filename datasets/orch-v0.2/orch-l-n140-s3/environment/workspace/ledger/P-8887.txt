@@ -1,0 +1,10 @@
+Ledger page P-8887
+
+account      amount   see page
+Dunn           +161   P-6494
+Moreau         -624   P-1151
+Quinn          +581   P-3207
+Fofana         +221   P-3408
+Castillo       +215   P-8384
+
+Follow the debit belonging to the account that comes last alphabetically.

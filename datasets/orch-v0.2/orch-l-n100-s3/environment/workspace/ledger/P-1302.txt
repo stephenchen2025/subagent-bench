@@ -1,0 +1,11 @@
+Ledger page P-1302
+
+account      amount   see page
+Fofana         -541   P-2840
+Rahman         +694   P-1969
+Xu             +856   P-8976
+Weber          +159   P-3072
+Tanaka         +474   P-2238
+Moreau          -24   P-3270
+
+Follow the entry with the second-largest amount.

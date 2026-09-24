@@ -1,0 +1,11 @@
+Ledger page P-1373
+
+account      amount   see page
+Rahman         +256   P-2930
+Lambert        -595   P-8715
+Castillo       -545   P-6783
+Osei           +192   P-3858
+Hughes          -90   P-3477
+Kowalski       -395   P-9741
+
+Follow the entry whose amount is closest to zero.

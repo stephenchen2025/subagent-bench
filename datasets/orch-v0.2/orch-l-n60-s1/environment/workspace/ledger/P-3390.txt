@@ -1,0 +1,11 @@
+Ledger page P-3390
+
+account      amount   see page
+Xu             -438   P-2097
+Young          +423   P-2047
+Rahman         -708   P-8876
+Vance          +686   P-7502
+Osei           -435   P-8282
+Kowalski         +9   P-6446
+
+Follow the entry with the largest debit (the most negative amount).

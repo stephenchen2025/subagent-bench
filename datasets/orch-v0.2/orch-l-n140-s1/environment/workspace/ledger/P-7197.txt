@@ -1,0 +1,11 @@
+Ledger page P-7197
+
+account      amount   see page
+Nakamura        -53   P-5383
+Dunn            +41   P-5140
+Abbott         +226   P-7714
+Osei           -384   P-6102
+Zhou           +511   P-9105
+Lambert        -552   P-3519
+
+Follow the debit belonging to the account that comes last alphabetically.

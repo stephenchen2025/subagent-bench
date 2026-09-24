@@ -1,0 +1,12 @@
+Ledger page P-8847
+
+account      amount   see page
+Jensen         -561   P-9630
+Castillo       -186   P-7078
+Baker          -224   P-7127
+Dunn           +320   P-9322
+Young          -106   P-8431
+Fofana          +75   P-1820
+Weber          -306   P-8573
+
+Follow the debit belonging to the account that comes last alphabetically.

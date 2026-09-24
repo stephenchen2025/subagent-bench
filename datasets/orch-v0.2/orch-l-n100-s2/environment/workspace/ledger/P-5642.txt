@@ -1,0 +1,12 @@
+Ledger page P-5642
+
+account      amount   see page
+Osei           -383   P-3012
+Lambert        -720   P-6000
+Fofana         +475   P-5886
+Abbott         +801   P-6954
+Silva          -647   P-8419
+Umar           +411   P-9587
+Quinn          -604   P-8027
+
+Follow the debit belonging to the account that comes last alphabetically.

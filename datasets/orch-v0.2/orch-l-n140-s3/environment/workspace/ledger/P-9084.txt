@@ -1,0 +1,12 @@
+Ledger page P-9084
+
+account      amount   see page
+Grant          -444   P-2368
+Nakamura       -815   P-6700
+Jensen         -209   P-8890
+Young           +94   P-5662
+Umar           -434   P-1375
+Osei            +68   P-4466
+Tanaka         -510   P-2011
+
+Follow the entry with the second-largest amount.

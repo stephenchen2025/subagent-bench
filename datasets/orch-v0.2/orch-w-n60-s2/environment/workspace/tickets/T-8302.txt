@@ -1,0 +1,62 @@
+Ticket T-8302
+Customer: Leila Haddad
+Orders on file: ORD-92226, ORD-41496, ORD-99739, ORD-13515
+Opened: 2026-07-08 via chat transcript
+
+Order details:
+ORD-92226  placed 2026-01-12  status: delivered  total: $81.13
+  payment method: card ending 7329  ship to: 783 Oak Lane
+  - camping stove x1
+  - USB-C charging cable (2m) x2
+  - replacement filter cartridge, 3-pack x2
+  - gift wrap x2
+  - carabiner set x2
+ORD-41496  placed 2026-05-01  status: in transit  total: $324.88
+  payment method: card ending 4151  ship to: 831 Elm Rd
+  - camping stove x1
+  - spare battery pack x3
+  - carabiner set x2
+  - microfiber cloth x1
+ORD-99739  placed 2026-04-10  status: delivered  total: $169.04
+  payment method: card ending 1087  ship to: 137 Elm Rd
+  - trail running shoes x1
+  - stainless water bottle, 750ml x3
+  - extended warranty, 2 years x3
+  - gift wrap x2
+ORD-13515  placed 2026-05-05  status: delivered  total: $405.95
+  payment method: card ending 9872  ship to: 439 Elm Lane
+  - blender x1
+  - USB-C charging cable (2m) x2
+  - travel pouch x3
+
+--- message 1 from Leila Haddad ---
+How do I reset my password? The reset link keeps expiring. I'd rather not call; the hold times last time were very long. Your app logged me out twice while I was looking at this, which didn't help. My earlier order ORD-92226 arrived fine, no complaints there.
+
+Leila Haddad
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Keiko (support) ---
+Thanks for reaching out, and sorry for the trouble. Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering. I've updated your shipping address on file.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Leila Haddad ---
+Yes, there were two payments, but they're for two different orders (ORD-13515 and ORD-92226), so that's fine. I just need a receipt for each. My earlier order ORD-92226 arrived fine, no complaints there. Is there a way to combine loyalty points from ORD-41496 with my next purchase?
+
+Best regards,
+Leila Haddad
+
+--- message 4 from Leila Haddad ---
+Is there a way to combine loyalty points from ORD-99739 with my next purchase? I tried the chat widget first but it kept disconnecting. The box for ORD-92226 was a bit crushed but the contents were fine. The confirmation email for ORD-41496 went to my spam folder, so I only just saw it.
+
+Best regards,
+Leila Haddad
+
+--- message 5 from Keiko (support) ---
+Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-92226 to the address on file. Let me know if anything else looks off. I can see all the orders on your account, including ORD-41496.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,12 @@
+Ledger page P-2858
+
+account      amount   see page
+Castillo       -834   P-1102
+Grant          -445   P-3776
+Xu             +662   P-7931
+Tanaka         +475   P-3193
+Vance          -401   P-5907
+Rahman         -418   P-2458
+Quinn          +534   P-3386
+
+Follow the entry with the largest debit (the most negative amount).

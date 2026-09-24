@@ -1,0 +1,55 @@
+Ticket T-5553
+Customer: Hana Sato
+Orders on file: ORD-53656, ORD-45331, ORD-48517, ORD-68843
+Opened: 2026-04-10 via email
+
+Order details:
+ORD-53656  placed 2026-08-02  status: delivered  total: $136.77
+  payment method: card ending 5198  ship to: 805 Elm St
+  - rain jacket x1
+  - microfiber cloth x3
+  - extended warranty, 2 years x3
+  - replacement filter cartridge, 3-pack x1
+ORD-45331  placed 2026-04-13  status: label created  total: $97.82
+  payment method: card ending 6166  ship to: 668 Mill St
+  - water filter pitcher x1
+  - merino socks, size M x2
+  - stainless water bottle, 750ml x3
+ORD-48517  placed 2026-06-14  status: delivered  total: $63.25
+  payment method: card ending 3213  ship to: 538 Elm Ave
+  - water filter pitcher x1
+  - extended warranty, 2 years x1
+  - stainless water bottle, 750ml x1
+  - merino socks, size M x1
+  - replacement filter cartridge, 3-pack x1
+ORD-68843  placed 2026-08-26  status: in transit  total: $302.90
+  payment method: card ending 9739  ship to: 580 Mill Rd
+  - espresso grinder x1
+  - travel pouch x2
+  - USB-C charging cable (2m) x3
+
+--- message 1 from Hana Sato ---
+I need to change the delivery address for ORD-53656 before it ships. Tracking for ORD-45331 hasn't updated since Tuesday. My earlier order ORD-48517 arrived fine, no complaints there. My partner placed ORD-48517 on our shared account, in case that matters.
+
+Hana Sato
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Fatima (support) ---
+Thanks for reaching out, and sorry for the trouble. I've updated your shipping address on file. I can see all the orders on your account, including ORD-53656. Let me know if anything else looks off.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Hana Sato ---
+I've been a customer for a few years and usually everything goes smoothly. My earlier order ORD-53656 arrived fine, no complaints there. The confirmation email for ORD-45331 went to my spam folder, so I only just saw it. The box for ORD-45331 was a bit crushed but the contents were fine.
+
+Best regards,
+Hana Sato
+
+--- message 4 from Fatima (support) ---
+I can see all the orders on your account, including ORD-53656. Loyalty points post about a week after an order is delivered. I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

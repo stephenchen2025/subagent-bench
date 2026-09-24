@@ -1,0 +1,12 @@
+Ledger page P-8400
+
+account      amount   see page
+Weber          +505   P-4653
+Fofana         +146   P-8547
+Ibarra         +632   P-2232
+Zhou           +900   P-2007
+Jensen         +364   P-3879
+Tanaka         -160   P-3026
+Young          -390   P-9105
+
+Follow the debit belonging to the account that comes last alphabetically.

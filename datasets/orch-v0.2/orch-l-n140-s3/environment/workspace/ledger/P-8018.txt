@@ -1,0 +1,10 @@
+Ledger page P-8018
+
+account      amount   see page
+Quinn          +367   P-2235
+Ibarra         -174   P-6843
+Zhou           -685   P-3386
+Eriksen        +252   P-3012
+Nakamura       -867   P-4639
+
+Follow the entry with the largest debit (the most negative amount).

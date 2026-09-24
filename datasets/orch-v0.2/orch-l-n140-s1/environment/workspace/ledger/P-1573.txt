@@ -1,0 +1,12 @@
+Ledger page P-1573
+
+account      amount   see page
+Dunn           -321   P-3407
+Baker          -752   P-5570
+Weber          +162   P-1088
+Vance          -120   P-6810
+Park           -395   P-6221
+Osei           -896   P-5299
+Fofana         +268   P-1060
+
+Follow the credit belonging to the account that comes first alphabetically.

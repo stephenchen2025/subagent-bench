@@ -1,0 +1,12 @@
+Ledger page P-4682
+
+account      amount   see page
+Baker          +725   P-5574
+Castillo        -99   P-4962
+Eriksen        -141   P-1978
+Fofana         +766   P-2044
+Hughes         +328   P-7862
+Nakamura       -232   P-5144
+Vance          +782   P-4119
+
+Follow the credit belonging to the account that comes first alphabetically.

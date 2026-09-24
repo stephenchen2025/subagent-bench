@@ -20,7 +20,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 
 from orch.atif import telemetry_from_atif  # noqa: E402
-from orch.families import coupled, probe, small, wide  # noqa: E402
+from orch.families import chain, coupled, probe, wide  # noqa: E402
 from orch.harness import (  # noqa: E402
     SubagentSyntaxError,
     is_subagent_command,
@@ -85,8 +85,30 @@ def _run(task, system, tmp_path, **kw):
                      system="t", condition=cond, **kw)
 
 
+def test_every_task_is_long_horizon_with_an_explicit_breakdown(tmp_path):
+    """The bar every task must clear before anything is run on it.
+
+    Minimum solo effort -- a scripted perfect agent with unlimited context --
+    between 60 and 160 steps, and at least 8 units of work. For W, P and C the
+    units are independent and named (tickets in a directory listing, services
+    and views in the instruction); for L they are a chain of dependent hops.
+    """
+    from orch.emit import generate_set
+    from orch.harness import Limits
+
+    unlimited = Limits(context_tokens=10**7, step_limit=10**4)
+    for task in generate_set(seeds=(1,)):
+        record = _run(task, "solo", tmp_path, limits=unlimited)
+        steps = record["telemetry"]["lead"]["steps"]
+        assert 60 <= steps <= 160, (task.id, steps)
+        units = task.work_items or task.truth["path"]
+        assert len(units) >= 8, task.id
+        if task.family in ("P", "C"):
+            assert all(f"`{u}`" in task.instruction for u in task.work_items), task.id
+
+
 def test_solo_hits_the_context_wall_on_wide_and_delegation_clears_it(tmp_path):
-    task = wide.generate(72, 1)
+    task = wide.generate(60, 1)
     solo = _run(task, "solo", tmp_path)
     assert solo["telemetry"]["lead"]["exit_status"] == "ContextExceeded"
     assert solo["telemetry"]["lead"]["context_peak"] > task.limits["context_tokens"]
@@ -94,45 +116,73 @@ def test_solo_hits_the_context_wall_on_wide_and_delegation_clears_it(tmp_path):
     judicious = _run(task, "judicious", tmp_path)
     assert judicious["reward"]["reward"] == 1.0
     tel = judicious["telemetry"]
-    assert len(tel["workers"]) == 8
+    assert len(tel["workers"]) == 5
     assert all(w["context_peak"] <= task.limits["context_tokens"] for w in tel["workers"])
     assert tel["lead"]["context_peak"] < task.limits["context_tokens"] // 4
 
 
-def test_solo_hits_the_step_wall_on_probes(tmp_path):
-    task = probe.generate(20, 1)
+def test_solo_hits_the_wall_on_many_probes(tmp_path):
+    task = probe.generate(38, 1)
     solo = _run(task, "solo", tmp_path)
-    assert solo["telemetry"]["lead"]["exit_status"] == "StepLimitExceeded"
+    assert solo["telemetry"]["lead"]["exit_status"] == "ContextExceeded"
     assert solo["reward"]["reward"] < 1.0
     assert _run(task, "judicious", tmp_path)["reward"]["reward"] == 1.0
 
 
+def test_solo_hits_the_wall_on_the_largest_coupled_change(tmp_path):
+    task = coupled.generate(40, 1)
+    solo = _run(task, "solo", tmp_path)
+    assert solo["telemetry"]["lead"]["exit_status"] == "ContextExceeded"
+    assert solo["reward"]["reward"] < 1.0
+
+
 def test_solo_xl_scales_limits_for_the_lead(tmp_path):
-    task = wide.generate(72, 1)
+    task = wide.generate(60, 1)
     record = _run(task, "solo-xl", tmp_path)
     assert record["reward"]["reward"] == 1.0
     assert record["telemetry"]["limits"]["context_tokens"] == 8 * task.limits["context_tokens"]
 
 
 def test_oracle_split_uses_the_ideal_partition(tmp_path):
-    task = probe.generate(10, 1)
+    task = probe.generate(15, 1)
     record = _run(task, "oracle-split", tmp_path)
     assert record["reward"]["reward"] == 1.0
     assert [w["brief"] for w in record["telemetry"]["workers"]] == \
         [p["brief"] for p in task.oracle_plan]
 
 
-def test_oracle_split_is_solo_where_delegating_does_not_pay(tmp_path):
-    record = _run(small.generate(1, 1), "oracle-split", tmp_path)
+def test_oracle_split_on_coupled_puts_the_contract_in_every_brief(tmp_path):
+    task = coupled.generate(20, 1)
+    record = _run(task, "oracle-split", tmp_path)
+    assert record["reward"]["reward"] == 1.0
+    briefs = [w["brief"] for w in record["telemetry"]["workers"]]
+    assert briefs and all(coupled.CONTRACT in b for b in briefs)
+
+
+def test_oracle_split_is_solo_on_the_sequential_chain(tmp_path):
+    record = _run(chain.generate(60, 1), "oracle-split", tmp_path)
     assert record["telemetry"]["oracle_is_solo"] and not record["telemetry"]["workers"]
+    assert record["reward"]["reward"] == 1.0
 
 
-def test_eager_fan_out_breaks_the_coupled_change(tmp_path):
-    task = coupled.generate(7, 1)
+def test_eager_fan_out_without_a_contract_breaks_the_coupled_change(tmp_path):
+    task = coupled.generate(20, 1)
     assert _run(task, "solo", tmp_path)["reward"]["reward"] == 1.0
+    assert _run(task, "judicious", tmp_path)["reward"]["reward"] == 1.0
     eager = _run(task, "eager", tmp_path)
-    assert len(eager["telemetry"]["workers"]) == 7
-    assert eager["reward"]["reward"] < 1.0
+    assert len(eager["telemetry"]["workers"]) == 11
+    assert eager["reward"]["reward"] < 0.7
+
+
+def test_a_relay_can_carry_the_chain_but_there_is_nothing_to_parallelise(tmp_path):
+    task = chain.generate(60, 1)
+    relay = _run(task, "eager", tmp_path)
+    assert relay["reward"]["reward"] == 1.0
+    workers = relay["telemetry"]["workers"]
+    assert len(workers) >= 4
+    # strictly one after another: no worker starts before the previous finished
+    assert all(b["started"] >= a["finished"] for a, b in zip(workers, workers[1:]))
+    assert not _run(task, "judicious", tmp_path)["telemetry"]["workers"]
 
 
 def test_workers_cannot_spawn_and_solo_has_no_subagent_command(tmp_path):
@@ -151,7 +201,7 @@ def test_workers_cannot_spawn_and_solo_has_no_subagent_command(tmp_path):
 
 
 def test_every_observation_carries_a_usage_footer(tmp_path):
-    record = _run(small.generate(1, 1), "solo", tmp_path)
+    record = _run(chain.generate(60, 1), "solo", tmp_path)
     trajectories = json.loads((tmp_path / f"{record['task_id']}-solo" / "logs" /
                                "trajectories.json").read_text())
     observations = [m["content"] for m in trajectories["lead"] if m["role"] == "user"][1:]
@@ -163,8 +213,8 @@ def test_every_observation_carries_a_usage_footer(tmp_path):
 @pytest.fixture(scope="module")
 def rehearsal(tmp_path_factory):
     tmp = tmp_path_factory.mktemp("rehearsal")
-    tasks = [wide.generate(6, 1), wide.generate(72, 1), probe.generate(20, 1),
-             coupled.generate(4, 1), small.generate(1, 1)]
+    tasks = [wide.generate(60, 1), probe.generate(38, 1), coupled.generate(20, 1),
+             coupled.generate(40, 1), chain.generate(60, 1)]
     records = []
     for task in tasks:
         for system in ("solo", "solo-xl", "oracle-split", "judicious", "eager", "sloppy"):
@@ -177,9 +227,10 @@ def test_rehearsal_metric_shapes(rehearsal):
     judicious = summary[("t", "delegate:judicious")]
     eager = summary[("t", "delegate:eager")]
     sloppy = summary[("t", "delegate:sloppy")]
-    assert judicious["capture"] == pytest.approx(1.0)
+    assert judicious["capture"] == pytest.approx(1.0) and judicious["harm"] == 0
     assert judicious["mean_tax"] == 0 and judicious["decision_balanced_acc"] == 1.0
-    assert eager["mean_tax"] > 0 and eager["decision_balanced_acc"] == 0.5
+    # eager: no contract on C shows as harm; delegating the chain shows as a bad decision
+    assert eager["harm"] > 0.1 and eager["decision_balanced_acc"] == 0.5
     assert sloppy["capture"] < 0.5
     assert sloppy["coverage"] < 1.0 and sloppy["duplication"] > 0 and sloppy["synthesis_loss"] > 0
     for cell in judicious["cells"]:
@@ -188,10 +239,11 @@ def test_rehearsal_metric_shapes(rehearsal):
         assert cell["structural_lift"] == pytest.approx(0.0)
 
 
-def test_capture_is_undefined_where_there_is_no_gap(rehearsal):
+def test_capture_is_undefined_where_solo_is_already_at_the_ceiling(rehearsal):
     summary, _ = rehearsal
-    small_cells = [c for c in summary[("t", "delegate:judicious")]["cells"] if c["size"] == 6]
-    assert small_cells and small_cells[0]["capture"] is None
+    cells = [c for c in summary[("t", "delegate:judicious")]["cells"]
+             if (c["family"], c["size"]) == ("C", 20)]
+    assert cells and cells[0]["solo"] == 1.0 and cells[0]["capture"] is None
 
 
 def test_coverage_and_duplication_match_item_mentions():
@@ -294,9 +346,9 @@ def test_harbor_agent_runs_delegation_through_the_async_bridge(seed, tmp_path, m
     from orch.local import materialise
 
     for s in (1, 2):
-        other = wide.generate(24, s)
+        other = wide.generate(60, s)
         emit(other, tmp_path / "tasks" / other.id)
-    task = wide.generate(24, seed)
+    task = wide.generate(60, seed)
     ws, _, _ = materialise(task, tmp_path / "run")
     monkeypatch.setenv("ORCH_REHEARSAL_TASKS", str(tmp_path / "tasks"))
 
@@ -311,8 +363,8 @@ def test_harbor_agent_runs_delegation_through_the_async_bridge(seed, tmp_path, m
     context = AgentContext()
     asyncio.run(agent.run(task.instruction, SubprocessEnv(), context))
     tel = json.loads((tmp_path / "logs" / "telemetry.json").read_text())
-    assert len(tel["workers"]) == 3 and all(w["exit_status"] == "Submitted" for w in tel["workers"])
-    assert context.metadata["orch_subagents"] == 3
+    assert len(tel["workers"]) == 5 and all(w["exit_status"] == "Submitted" for w in tel["workers"])
+    assert context.metadata["orch_subagents"] == 5
     answer = json.loads((ws / "answer.json").read_text())
     assert answer == {"matches": task.truth["matches"]}
     assert os.path.exists(tmp_path / "logs" / "trajectories.json")

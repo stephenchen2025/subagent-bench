@@ -1,0 +1,11 @@
+Ledger page P-4665
+
+account      amount   see page
+Jensen         -384   P-9002
+Kowalski        +81   P-8145
+Tanaka         -807   P-2409
+Zhou           +651   P-7933
+Xu             -299   P-9689
+Castillo       +108   P-7576
+
+Follow the debit belonging to the account that comes last alphabetically.

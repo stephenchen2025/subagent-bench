@@ -1,0 +1,11 @@
+Ledger page P-7930
+
+account      amount   see page
+Nakamura       +495   P-1677
+Weber          +632   P-3791
+Silva          +163   P-3449
+Jensen         -224   P-6610
+Umar           +522   P-5996
+Zhou           +362   P-9713
+
+Follow the entry with the largest credit.

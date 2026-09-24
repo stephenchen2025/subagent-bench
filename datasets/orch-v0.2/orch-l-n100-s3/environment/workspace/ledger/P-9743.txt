@@ -1,0 +1,12 @@
+Ledger page P-9743
+
+account      amount   see page
+Xu             -788   P-1299
+Kowalski        +57   P-3878
+Vance          -292   P-3583
+Baker          -614   P-4665
+Ibarra         -201   P-2536
+Quinn          -767   P-6018
+Young          +603   P-3878
+
+Follow the entry with the largest debit (the most negative amount).

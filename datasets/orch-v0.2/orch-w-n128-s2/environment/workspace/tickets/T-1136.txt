@@ -1,0 +1,58 @@
+Ticket T-1136
+Customer: Hana Sato
+Orders on file: ORD-65342, ORD-47832, ORD-18025, ORD-64028
+Opened: 2026-02-16 via email
+
+Order details:
+ORD-65342  placed 2026-07-07  status: label created  total: $412.91
+  payment method: card ending 6137  ship to: 354 Cedar Ave
+  - yoga mat x1
+  - extended warranty, 2 years x1
+  - travel pouch x2
+  - microfiber cloth x3
+ORD-47832  placed 2026-07-01  status: delivered  total: $393.47
+  payment method: card ending 8600  ship to: 636 Oak Ave
+  - wool blanket x1
+  - gift wrap x2
+  - replacement filter cartridge, 3-pack x3
+  - carabiner set x2
+  - extended warranty, 2 years x3
+ORD-18025  placed 2026-07-09  status: returned  total: $396.25
+  payment method: card ending 8070  ship to: 874 Harbor St
+  - noise-cancelling headphones x1
+  - travel pouch x1
+  - spare battery pack x2
+ORD-64028  placed 2026-05-09  status: in transit  total: $427.40
+  payment method: card ending 5305  ship to: 942 Oak Rd
+  - wool blanket x1
+  - spare battery pack x1
+  - merino socks, size M x3
+  - extended warranty, 2 years x1
+  - gift wrap x2
+
+--- message 1 from Hana Sato ---
+Where is my refund for ORD-18025? You said 5 days and it has been 8. The confirmation email for ORD-18025 went to my spam folder, so I only just saw it. I changed my shipping address last month, so please double-check you have the new one. I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Hana Sato
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Pete (support) ---
+I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier. Let me know if anything else looks off. I've updated your shipping address on file.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Hana Sato ---
+The confirmation email for ORD-47832 went to my spam folder, so I only just saw it. Tracking for ORD-65342 hasn't updated since Tuesday. Your app logged me out twice while I was looking at this, which didn't help. Is there a way to combine loyalty points from ORD-47832 with my next purchase?
+
+Hana Sato
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Pete (support) ---
+I've added a note to your account so the next agent has the context. I've updated your shipping address on file. For ORD-18025, the return window is 30 days from delivery. Let me know if anything else looks off.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

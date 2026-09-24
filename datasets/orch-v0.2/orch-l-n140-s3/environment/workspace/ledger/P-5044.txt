@@ -1,0 +1,11 @@
+Ledger page P-5044
+
+account      amount   see page
+Castillo       +278   P-5761
+Fofana         -129   P-9427
+Vance          +679   P-3914
+Dunn           +844   P-9606
+Umar           -102   P-5846
+Kowalski        +30   P-5679
+
+Follow the entry whose amount is closest to zero.

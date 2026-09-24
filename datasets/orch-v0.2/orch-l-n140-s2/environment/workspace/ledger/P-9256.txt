@@ -1,0 +1,10 @@
+Ledger page P-9256
+
+account      amount   see page
+Young          -221   P-3768
+Nakamura       +254   P-2944
+Moreau         +760   P-3026
+Park           +486   P-3277
+Baker          +381   P-5008
+
+Follow the credit belonging to the account that comes first alphabetically.

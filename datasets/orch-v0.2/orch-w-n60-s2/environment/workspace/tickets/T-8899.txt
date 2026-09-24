@@ -1,0 +1,96 @@
+Ticket T-8899
+Customer: Oskar Berg
+Orders on file: ORD-45301, ORD-17426, ORD-35487, ORD-33055
+Opened: 2026-01-10 via email
+
+Order details:
+ORD-45301  placed 2026-03-17  status: delivered  total: $122.37
+  payment method: card ending 7891  ship to: 706 Cedar Ave
+  - espresso grinder x1
+  - travel pouch x3
+  - stainless water bottle, 750ml x3
+  - extended warranty, 2 years x1
+ORD-17426  placed 2026-05-24  status: delivered  total: $159.33
+  payment method: card ending 2544  ship to: 788 Elm St
+  - noise-cancelling headphones x1
+  - microfiber cloth x2
+  - replacement filter cartridge, 3-pack x3
+  - gift wrap x3
+ORD-35487  placed 2026-02-03  status: delivered  total: $227.70
+  payment method: card ending 1354  ship to: 55 Cedar St
+  - rain jacket x1
+  - travel pouch x3
+  - microfiber cloth x1
+  - extended warranty, 2 years x2
+  - spare battery pack x1
+ORD-33055  placed 2026-03-24  status: delivered  total: $49.44
+  payment method: card ending 4327  ship to: 809 Elm Lane
+  - trail running shoes x1
+  - USB-C charging cable (2m) x2
+  - extended warranty, 2 years x2
+  - gift wrap x1
+
+--- message 1 from Oskar Berg ---
+Can I use a gift card on ORD-33055, or is it too late? I tried the chat widget first but it kept disconnecting. The box for ORD-17426 was a bit crushed but the contents were fine. My partner placed ORD-33055 on our shared account, in case that matters.
+
+Oskar Berg
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Luis (support) ---
+I've resent the confirmation email for ORD-33055 to the address on file. Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context. For ORD-17426, the return window is 30 days from delivery.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Oskar Berg ---
+The payment for ORD-35487 went through, and then about an hour later it went through again. I changed my shipping address last month, so please double-check you have the new one. I'm happy to send screenshots if that helps.
+
+Oskar Berg
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Luis (support) ---
+I've resent the confirmation email for ORD-45301 to the address on file. Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Luis (support) ---
+I've checked with our payments team: both captures for ORD-35487 settled, so you were genuinely charged twice. I've issued a refund for the second one; it should show within 3-5 business days. Our warehouse shows ORD-17426 left on schedule. Let me know if anything else looks off.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Oskar Berg ---
+The box for ORD-17426 was a bit crushed but the contents were fine. I've been a customer for a few years and usually everything goes smoothly. My earlier order ORD-17426 arrived fine, no complaints there.
+
+Oskar Berg
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Oskar Berg ---
+I tried the chat widget first but it kept disconnecting. The box for ORD-33055 was a bit crushed but the contents were fine. I'd rather not call; the hold times last time were very long. I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Oskar Berg
+
+--- message 8 from Luis (support) ---
+Let me know if anything else looks off. I've added a note to your account so the next agent has the context. If you need an invoice for ORD-17426, you can download it from the Orders page. Screenshots aren't necessary, but thank you for offering.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Oskar Berg ---
+I'm happy to send screenshots if that helps. The confirmation email for ORD-17426 went to my spam folder, so I only just saw it. Could you also tell me whether ORD-17426 qualifies for the extended return window? The cast iron skillet itself is great, for what it's worth.
+
+Oskar Berg
+(Please reply by email rather than phone if possible.)
+
+--- message 10 from Luis (support) ---
+I've added a note to your account so the next agent has the context. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-33055 left on schedule. I've resent the confirmation email for ORD-33055 to the address on file.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

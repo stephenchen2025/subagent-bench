@@ -1,0 +1,10 @@
+Ledger page P-3007
+
+account      amount   see page
+Jensen         -777   P-8170
+Ibarra         -329   P-9081
+Lambert        +601   P-6317
+Eriksen        -491   P-5679
+Weber          +241   P-5727
+
+Follow the entry with the largest debit (the most negative amount).

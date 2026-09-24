@@ -1,0 +1,10 @@
+Ledger page P-5460
+
+account      amount   see page
+Vance          +307   P-3677
+Castillo       -336   P-1589
+Eriksen        -356   P-1061
+Weber          +437   P-8395
+Lambert         +93   P-4499
+
+Follow the entry with the second-largest amount.

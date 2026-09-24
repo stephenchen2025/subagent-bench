@@ -1,0 +1,11 @@
+Ledger page P-7097
+
+account      amount   see page
+Ibarra          +85   P-8755
+Jensen         +289   P-5568
+Park           +376   P-4980
+Eriksen        +299   P-5322
+Moreau         +456   P-6885
+Silva          -723   P-4694
+
+Follow the debit belonging to the account that comes last alphabetically.

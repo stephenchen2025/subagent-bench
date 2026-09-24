@@ -1,0 +1,11 @@
+Ledger page P-8818
+
+account      amount   see page
+Abbott         +892   P-5739
+Young          +856   P-5118
+Dunn           +546   P-8428
+Lambert         -76   P-1423
+Umar           -801   P-9385
+Fofana         +734   P-5813
+
+Follow the credit belonging to the account that comes first alphabetically.

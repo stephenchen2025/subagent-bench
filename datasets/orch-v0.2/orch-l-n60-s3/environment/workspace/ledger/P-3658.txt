@@ -1,0 +1,12 @@
+Ledger page P-3658
+
+account      amount   see page
+Xu             +815   P-5907
+Rahman         -166   P-1930
+Young          +844   P-4433
+Grant          -339   P-8357
+Weber          -731   P-1745
+Park            +14   P-9986
+Moreau          -68   P-1855
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,11 @@
+Ledger page P-3984
+
+account      amount   see page
+Osei           -896   P-3733
+Kowalski       +411   P-1252
+Quinn          -327   P-9148
+Fofana         -554   P-2368
+Tanaka         -520   P-3644
+Weber          -844   P-6868
+
+Follow the entry whose amount is closest to zero.

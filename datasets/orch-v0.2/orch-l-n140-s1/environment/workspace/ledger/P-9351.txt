@@ -1,0 +1,12 @@
+Ledger page P-9351
+
+account      amount   see page
+Moreau         +684   P-5128
+Silva          -180   P-3336
+Hughes         +647   P-6879
+Quinn           +33   P-2721
+Nakamura       -331   P-5008
+Kowalski       -491   P-1088
+Baker          +393   P-2197
+
+Follow the entry with the largest credit.

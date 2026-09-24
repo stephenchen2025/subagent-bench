@@ -1,0 +1,71 @@
+Ticket T-2289
+Customer: Avery Lin
+Orders on file: ORD-82644, ORD-80734, ORD-79679, ORD-52781
+Opened: 2026-08-21 via web form
+
+Order details:
+ORD-82644  placed 2026-02-14  status: returned  total: $70.80
+  payment method: card ending 6987  ship to: 643 Oak Rd
+  - mechanical keyboard x1
+  - extended warranty, 2 years x3
+  - travel pouch x1
+ORD-80734  placed 2026-03-18  status: delivered  total: $452.94
+  payment method: card ending 2379  ship to: 459 Oak Ave
+  - mechanical keyboard x1
+  - replacement filter cartridge, 3-pack x3
+  - gift wrap x1
+  - carabiner set x3
+ORD-79679  placed 2026-05-01  status: delivered  total: $337.47
+  payment method: card ending 6753  ship to: 998 Cedar St
+  - bike light set x1
+  - microfiber cloth x3
+  - travel pouch x2
+  - spare battery pack x3
+  - stainless water bottle, 750ml x1
+ORD-52781  placed 2026-08-10  status: delivered  total: $418.60
+  payment method: card ending 6065  ship to: 704 Oak Lane
+  - noise-cancelling headphones x1
+  - replacement filter cartridge, 3-pack x2
+  - microfiber cloth x1
+  - carabiner set x1
+
+--- message 1 from Avery Lin ---
+I'd like to return the cast iron skillet from ORD-52781; it's the wrong size. The trail running shoes itself is great, for what it's worth. The box for ORD-82644 was a bit crushed but the contents were fine. My partner placed ORD-52781 on our shared account, in case that matters.
+
+Best regards,
+Avery Lin
+
+--- message 2 from Dana (support) ---
+Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-82644 left on schedule. I've added a note to your account so the next agent has the context.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Avery Lin ---
+Unrelated, but my online banking double-charged me at a coffee shop last week, so I'm checking every line carefully now. Anyway, my actual question is about delivery for ORD-79679. Could you also tell me whether ORD-52781 qualifies for the extended return window? I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Avery Lin
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Dana (support) ---
+For ORD-82644, the return window is 30 days from delivery. I can see all the orders on your account, including ORD-80734. Our warehouse shows ORD-80734 left on schedule.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Avery Lin ---
+I'm travelling next week, so email is the best way to reach me. I'm happy to send screenshots if that helps. I changed my shipping address last month, so please double-check you have the new one. Tracking for ORD-52781 hasn't updated since Tuesday.
+
+Thanks,
+Avery Lin
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Dana (support) ---
+Screenshots aren't necessary, but thank you for offering. I've updated your shipping address on file. I've added a note to your account so the next agent has the context. Loyalty points post about a week after an order is delivered.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

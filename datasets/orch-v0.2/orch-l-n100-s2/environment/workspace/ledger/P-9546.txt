@@ -1,0 +1,12 @@
+Ledger page P-9546
+
+account      amount   see page
+Kowalski       +128   P-5225
+Xu             -513   P-5753
+Young          +860   P-8023
+Fofana         +358   P-8023
+Grant          +704   P-8934
+Nakamura       -556   P-2681
+Lambert        +197   P-2077
+
+Follow the debit belonging to the account that comes last alphabetically.

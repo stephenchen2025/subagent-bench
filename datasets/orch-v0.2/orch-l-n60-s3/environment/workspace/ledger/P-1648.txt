@@ -1,0 +1,10 @@
+Ledger page P-1648
+
+account      amount   see page
+Fofana         +218   P-3830
+Quinn          +899   P-4546
+Hughes         -644   P-4148
+Umar            +92   P-5927
+Abbott         -268   P-1254
+
+Follow the entry with the second-largest amount.

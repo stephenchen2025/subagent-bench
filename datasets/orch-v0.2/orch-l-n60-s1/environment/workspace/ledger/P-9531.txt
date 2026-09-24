@@ -1,0 +1,10 @@
+Ledger page P-9531
+
+account      amount   see page
+Tanaka         +358   P-7618
+Hughes         -713   P-2390
+Rahman         -581   P-3672
+Zhou           +653   P-2544
+Moreau         +211   P-5261
+
+Follow the entry with the second-largest amount.

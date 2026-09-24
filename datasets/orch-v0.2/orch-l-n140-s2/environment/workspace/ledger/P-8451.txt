@@ -1,0 +1,11 @@
+Ledger page P-8451
+
+account      amount   see page
+Park           -281   P-2335
+Dunn           -595   P-3828
+Silva          -700   P-4119
+Vance          +113   P-7984
+Rahman         -530   P-2304
+Eriksen        -231   P-4963
+
+Follow the entry with the largest debit (the most negative amount).

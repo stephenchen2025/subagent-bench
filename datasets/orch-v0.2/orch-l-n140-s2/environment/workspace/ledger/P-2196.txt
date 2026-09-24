@@ -1,0 +1,11 @@
+Ledger page P-2196
+
+account      amount   see page
+Grant          -727   P-9045
+Young          -253   P-2771
+Kowalski         +8   P-6306
+Zhou           -591   P-1764
+Fofana           -3   P-6883
+Xu             -545   P-7331
+
+Follow the credit belonging to the account that comes first alphabetically.

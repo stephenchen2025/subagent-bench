@@ -1,0 +1,10 @@
+Ledger page P-4588
+
+account      amount   see page
+Abbott         +238   P-3335
+Quinn          -364   P-4473
+Eriksen        +669   P-5373
+Young          +607   P-4921
+Lambert        -891   P-8856
+
+Follow the entry whose amount is closest to zero.

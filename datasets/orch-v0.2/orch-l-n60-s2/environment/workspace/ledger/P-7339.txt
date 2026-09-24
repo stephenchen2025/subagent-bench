@@ -1,0 +1,11 @@
+Ledger page P-7339
+
+account      amount   see page
+Umar           -602   P-4010
+Quinn          +891   P-2042
+Nakamura       -301   P-3732
+Eriksen        +111   P-3913
+Park           -689   P-6115
+Vance          +389   P-1746
+
+Follow the entry with the largest credit.

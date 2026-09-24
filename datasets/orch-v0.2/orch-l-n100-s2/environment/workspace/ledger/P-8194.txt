@@ -1,0 +1,11 @@
+Ledger page P-8194
+
+account      amount   see page
+Nakamura       +708   P-4097
+Eriksen        +477   P-4635
+Weber           -20   P-8619
+Osei           -222   P-7996
+Hughes         +242   P-3657
+Zhou           -161   P-4751
+
+Follow the debit belonging to the account that comes last alphabetically.

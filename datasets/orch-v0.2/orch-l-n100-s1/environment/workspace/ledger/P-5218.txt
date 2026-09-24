@@ -1,0 +1,12 @@
+Ledger page P-5218
+
+account      amount   see page
+Young          +394   P-6600
+Osei           +672   P-1487
+Grant          +518   P-3785
+Ibarra         +428   P-1157
+Dunn           -712   P-2194
+Rahman         +783   P-3888
+Jensen         -724   P-1064
+
+Follow the entry whose amount is closest to zero.

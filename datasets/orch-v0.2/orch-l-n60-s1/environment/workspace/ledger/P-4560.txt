@@ -1,0 +1,10 @@
+Ledger page P-4560
+
+account      amount   see page
+Baker          +684   P-2146
+Nakamura       +717   P-4198
+Lambert        -464   P-2558
+Tanaka         -546   P-4913
+Jensen         +178   P-4307
+
+Follow the entry with the largest credit.

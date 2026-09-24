@@ -1,0 +1,96 @@
+Ticket T-3139
+Customer: Ravi Iyer
+Orders on file: ORD-97021, ORD-28554, ORD-13117, ORD-29896
+Opened: 2026-02-10 via web form
+
+Order details:
+ORD-97021  placed 2026-08-24  status: label created  total: $330.86
+  payment method: card ending 9351  ship to: 93 Cedar Lane
+  - cast iron skillet x1
+  - USB-C charging cable (2m) x3
+  - travel pouch x1
+  - gift wrap x3
+  - merino socks, size M x2
+ORD-28554  placed 2026-01-16  status: label created  total: $302.45
+  payment method: card ending 6547  ship to: 744 Harbor Rd
+  - water filter pitcher x1
+  - microfiber cloth x1
+  - replacement filter cartridge, 3-pack x3
+ORD-13117  placed 2026-03-19  status: in transit  total: $355.55
+  payment method: card ending 3702  ship to: 784 Harbor Ave
+  - noise-cancelling headphones x1
+  - replacement filter cartridge, 3-pack x3
+  - spare battery pack x2
+ORD-29896  placed 2026-05-06  status: returned  total: $68.67
+  payment method: card ending 4525  ship to: 983 Cedar St
+  - mechanical keyboard x1
+  - travel pouch x2
+  - microfiber cloth x1
+
+--- message 1 from Ravi Iyer ---
+The wool blanket from ORD-97021 arrived with a scratch on the side. Can I get a replacement? I'm travelling next week, so email is the best way to reach me. I'm happy to send screenshots if that helps. My partner placed ORD-29896 on our shared account, in case that matters.
+
+Thanks,
+Ravi Iyer
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Marcus (support) ---
+Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-29896. I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ravi Iyer ---
+Something looks off with ORD-28554: I see what might be a second payment. My partner placed ORD-29896 on our shared account, in case that matters. My earlier order ORD-97021 arrived fine, no complaints there.
+
+Ravi Iyer
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Ravi Iyer ---
+Update: the second line has now posted, it's no longer pending. So both payments for ORD-28554 actually went through. Your app logged me out twice while I was looking at this, which didn't help. I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Ravi Iyer
+Sent from my phone -- please excuse typos.
+
+--- message 5 from Marcus (support) ---
+I can see all the orders on your account, including ORD-13117. Loyalty points post about a week after an order is delivered. Thanks for reaching out, and sorry for the trouble.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Marcus (support) ---
+I've checked with our payments team: both captures for ORD-28554 settled, so you were genuinely charged twice. I've issued a refund for the second one; it should show within 3-5 business days. I can see all the orders on your account, including ORD-29896. I've resent the confirmation email for ORD-97021 to the address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Ravi Iyer ---
+Your app logged me out twice while I was looking at this, which didn't help. I've been a customer for a few years and usually everything goes smoothly. The cast iron skillet itself is great, for what it's worth. I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Ravi Iyer
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Marcus (support) ---
+I've resent the confirmation email for ORD-97021 to the address on file. I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier. I've updated your shipping address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Ravi Iyer ---
+The mechanical keyboard itself is great, for what it's worth. I changed my shipping address last month, so please double-check you have the new one. Could you also tell me whether ORD-29896 qualifies for the extended return window? I'm happy to send screenshots if that helps.
+
+Best regards,
+Ravi Iyer
+
+--- message 10 from Marcus (support) ---
+If you need an invoice for ORD-97021, you can download it from the Orders page. I've resent the confirmation email for ORD-13117 to the address on file. For ORD-13117, the return window is 30 days from delivery. Tracking updates can lag by a day or two with this carrier.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

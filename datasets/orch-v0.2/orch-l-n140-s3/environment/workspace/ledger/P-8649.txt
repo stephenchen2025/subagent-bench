@@ -1,0 +1,11 @@
+Ledger page P-8649
+
+account      amount   see page
+Zhou           +769   P-4343
+Vance          -169   P-9551
+Lambert        +324   P-4493
+Jensen         -182   P-3236
+Dunn           +491   P-9627
+Ibarra         +339   P-1460
+
+Follow the entry with the largest credit.

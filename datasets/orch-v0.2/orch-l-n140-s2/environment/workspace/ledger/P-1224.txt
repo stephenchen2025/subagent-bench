@@ -1,0 +1,11 @@
+Ledger page P-1224
+
+account      amount   see page
+Vance          -580   P-2852
+Lambert        -290   P-4479
+Silva          -802   P-7086
+Osei           -555   P-4842
+Zhou           +558   P-7331
+Nakamura       -111   P-4466
+
+Follow the entry whose amount is closest to zero.

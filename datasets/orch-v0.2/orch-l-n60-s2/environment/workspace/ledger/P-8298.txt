@@ -1,0 +1,11 @@
+Ledger page P-8298
+
+account      amount   see page
+Dunn            -71   P-5322
+Silva          -373   P-5756
+Xu             +809   P-4694
+Hughes         -527   P-7905
+Castillo        +55   P-1725
+Park           -128   P-7275
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,11 @@
+Ledger page P-2235
+
+account      amount   see page
+Ibarra         +298   P-6297
+Tanaka         -331   P-4001
+Quinn          -530   P-3221
+Lambert        +646   P-7931
+Hughes         +604   P-6494
+Castillo       -182   P-6624
+
+Follow the credit belonging to the account that comes first alphabetically.

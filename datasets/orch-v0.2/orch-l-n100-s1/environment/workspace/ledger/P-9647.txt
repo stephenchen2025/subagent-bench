@@ -1,0 +1,11 @@
+Ledger page P-9647
+
+account      amount   see page
+Castillo        +24   P-3624
+Park            -22   P-9109
+Tanaka         -472   P-9221
+Weber          +849   P-5925
+Eriksen        +434   P-9946
+Zhou           -308   P-4901
+
+Follow the entry whose amount is closest to zero.

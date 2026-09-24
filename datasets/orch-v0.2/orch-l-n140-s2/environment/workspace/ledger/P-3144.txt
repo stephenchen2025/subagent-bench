@@ -1,0 +1,12 @@
+Ledger page P-3144
+
+account      amount   see page
+Baker          -138   P-8951
+Umar           +272   P-2823
+Hughes         -813   P-1315
+Weber          +313   P-5574
+Nakamura       -695   P-3501
+Ibarra         +455   P-4237
+Young          +840   P-2638
+
+Follow the entry whose amount is closest to zero.

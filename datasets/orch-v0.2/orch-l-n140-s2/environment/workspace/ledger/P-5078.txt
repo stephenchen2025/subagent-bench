@@ -1,0 +1,10 @@
+Ledger page P-5078
+
+account      amount   see page
+Weber          +411   P-7270
+Grant          +462   P-5144
+Young           -61   P-3287
+Kowalski       -680   P-6449
+Hughes         -224   P-4602
+
+Follow the credit belonging to the account that comes first alphabetically.

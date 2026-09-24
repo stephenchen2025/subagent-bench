@@ -1,0 +1,87 @@
+Ticket T-1475
+Customer: Diego Alvarez
+Orders on file: ORD-42104, ORD-58045, ORD-69555, ORD-36177
+Opened: 2026-07-10 via web form
+
+Order details:
+ORD-42104  placed 2026-05-01  status: delivered  total: $115.19
+  payment method: card ending 9907  ship to: 778 Mill Rd
+  - espresso grinder x1
+  - gift wrap x3
+  - USB-C charging cable (2m) x2
+  - microfiber cloth x3
+  - carabiner set x3
+ORD-58045  placed 2026-08-18  status: label created  total: $216.36
+  payment method: card ending 5655  ship to: 866 Harbor Rd
+  - bike light set x1
+  - USB-C charging cable (2m) x1
+  - gift wrap x1
+  - replacement filter cartridge, 3-pack x1
+  - stainless water bottle, 750ml x2
+ORD-69555  placed 2026-07-17  status: returned  total: $378.36
+  payment method: card ending 2993  ship to: 798 Cedar Lane
+  - wool blanket x1
+  - carabiner set x3
+  - spare battery pack x3
+  - merino socks, size M x2
+ORD-36177  placed 2026-03-19  status: in transit  total: $283.25
+  payment method: card ending 4833  ship to: 778 Harbor Ave
+  - trail running shoes x1
+  - microfiber cloth x1
+  - extended warranty, 2 years x1
+  - USB-C charging cable (2m) x2
+  - gift wrap x3
+
+--- message 1 from Diego Alvarez ---
+I'd like to return the noise-cancelling headphones from ORD-69555; it's the wrong size. I've been a customer for a few years and usually everything goes smoothly. I'd rather not call; the hold times last time were very long. The rain jacket itself is great, for what it's worth.
+
+Diego Alvarez
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Keiko (support) ---
+I've resent the confirmation email for ORD-42104 to the address on file. For ORD-42104, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context. Our warehouse shows ORD-42104 left on schedule.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Diego Alvarez ---
+Not your fault, but my gym billed me twice this month, which is why I'm nervous about ORD-58045. Everything on your side looks like a single charge, I just wanted to confirm the delivery date. I've been a customer for a few years and usually everything goes smoothly. Could you also tell me whether ORD-42104 qualifies for the extended return window?
+
+Thanks,
+Diego Alvarez
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Keiko (support) ---
+Our warehouse shows ORD-36177 left on schedule. I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Diego Alvarez ---
+I changed my shipping address last month, so please double-check you have the new one. Could you also tell me whether ORD-69555 qualifies for the extended return window? I've been a customer for a few years and usually everything goes smoothly. I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Diego Alvarez
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Keiko (support) ---
+Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier. Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Diego Alvarez ---
+I'd rather not call; the hold times last time were very long. I changed my shipping address last month, so please double-check you have the new one. Tracking for ORD-36177 hasn't updated since Tuesday. The box for ORD-42104 was a bit crushed but the contents were fine.
+
+Best regards,
+Diego Alvarez
+
+--- message 8 from Keiko (support) ---
+Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble. I've resent the confirmation email for ORD-42104 to the address on file. I've added a note to your account so the next agent has the context.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

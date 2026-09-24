@@ -1,0 +1,68 @@
+Ticket T-1122
+Customer: Amara Nwosu
+Orders on file: ORD-12385, ORD-69388, ORD-31705, ORD-47598
+Opened: 2026-07-10 via chat transcript
+
+Order details:
+ORD-12385  placed 2026-06-15  status: returned  total: $123.65
+  payment method: card ending 7308  ship to: 957 Elm Ave
+  - carry-on suitcase x1
+  - replacement filter cartridge, 3-pack x2
+  - carabiner set x3
+  - spare battery pack x1
+ORD-69388  placed 2026-01-11  status: returned  total: $32.49
+  payment method: card ending 7618  ship to: 593 Oak Lane
+  - noise-cancelling headphones x1
+  - carabiner set x3
+  - replacement filter cartridge, 3-pack x2
+  - spare battery pack x2
+ORD-31705  placed 2026-05-03  status: in transit  total: $364.49
+  payment method: card ending 7473  ship to: 185 Cedar Lane
+  - cast iron skillet x1
+  - travel pouch x2
+  - gift wrap x1
+ORD-47598  placed 2026-01-07  status: delivered  total: $298.86
+  payment method: card ending 9084  ship to: 267 Oak Lane
+  - blender x1
+  - replacement filter cartridge, 3-pack x3
+  - extended warranty, 2 years x1
+
+--- message 1 from Amara Nwosu ---
+The desk lamp from ORD-47598 arrived with a scratch on the side. Can I get a replacement? I'm travelling next week, so email is the best way to reach me. The confirmation email for ORD-47598 went to my spam folder, so I only just saw it. My earlier order ORD-47598 arrived fine, no complaints there.
+
+Best regards,
+Amara Nwosu
+
+--- message 2 from Pete (support) ---
+Let me know if anything else looks off. If you need an invoice for ORD-31705, you can download it from the Orders page. I've updated your shipping address on file. Tracking updates can lag by a day or two with this carrier.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Amara Nwosu ---
+I changed my shipping address last month, so please double-check you have the new one. My partner placed ORD-47598 on our shared account, in case that matters. I'm happy to send screenshots if that helps. My earlier order ORD-69388 arrived fine, no complaints there.
+
+Best regards,
+Amara Nwosu
+
+--- message 4 from Pete (support) ---
+Our warehouse shows ORD-69388 left on schedule. For ORD-69388, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-31705 to the address on file.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Amara Nwosu ---
+Is there a way to combine loyalty points from ORD-69388 with my next purchase? My partner placed ORD-31705 on our shared account, in case that matters. Your app logged me out twice while I was looking at this, which didn't help. The yoga mat itself is great, for what it's worth.
+
+Thanks,
+Amara Nwosu
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Pete (support) ---
+Our warehouse shows ORD-47598 left on schedule. Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off. I've updated your shipping address on file.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

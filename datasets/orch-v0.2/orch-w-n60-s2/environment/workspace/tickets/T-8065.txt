@@ -1,0 +1,70 @@
+Ticket T-8065
+Customer: Amara Nwosu
+Orders on file: ORD-88082, ORD-63092, ORD-26965, ORD-15218
+Opened: 2026-03-24 via web form
+
+Order details:
+ORD-88082  placed 2026-03-28  status: delivered  total: $397.13
+  payment method: card ending 1335  ship to: 343 Harbor Ave
+  - blender x1
+  - spare battery pack x2
+  - extended warranty, 2 years x3
+  - stainless water bottle, 750ml x2
+  - microfiber cloth x1
+ORD-63092  placed 2026-04-26  status: delivered  total: $392.15
+  payment method: card ending 1118  ship to: 773 Elm Rd
+  - mechanical keyboard x1
+  - extended warranty, 2 years x2
+  - USB-C charging cable (2m) x2
+ORD-26965  placed 2026-01-23  status: in transit  total: $205.42
+  payment method: card ending 4428  ship to: 340 Harbor Ave
+  - noise-cancelling headphones x1
+  - stainless water bottle, 750ml x2
+  - gift wrap x1
+ORD-15218  placed 2026-01-08  status: delivered  total: $93.97
+  payment method: card ending 2648  ship to: 166 Harbor Lane
+  - espresso grinder x1
+  - microfiber cloth x1
+  - USB-C charging cable (2m) x1
+  - carabiner set x1
+
+--- message 1 from Amara Nwosu ---
+Can I use a gift card on ORD-88082, or is it too late? Is there a way to combine loyalty points from ORD-63092 with my next purchase? I tried the chat widget first but it kept disconnecting. The box for ORD-63092 was a bit crushed but the contents were fine.
+
+Thanks,
+Amara Nwosu
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Pete (support) ---
+Tracking updates can lag by a day or two with this carrier. Thanks for reaching out, and sorry for the trouble. For ORD-15218, the return window is 30 days from delivery. Let me know if anything else looks off.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Amara Nwosu ---
+I tried the chat widget first but it kept disconnecting. The box for ORD-63092 was a bit crushed but the contents were fine. Is there a way to combine loyalty points from ORD-63092 with my next purchase? I'm happy to send screenshots if that helps.
+
+Thanks,
+Amara Nwosu
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Pete (support) ---
+Thanks for reaching out, and sorry for the trouble. For ORD-15218, the return window is 30 days from delivery. Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Amara Nwosu ---
+I'd rather not call; the hold times last time were very long. Is there a way to combine loyalty points from ORD-88082 with my next purchase? The carry-on suitcase itself is great, for what it's worth. My partner placed ORD-15218 on our shared account, in case that matters.
+
+Amara Nwosu
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Pete (support) ---
+Loyalty points post about a week after an order is delivered. If you need an invoice for ORD-15218, you can download it from the Orders page. Our warehouse shows ORD-15218 left on schedule. I can see all the orders on your account, including ORD-63092.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

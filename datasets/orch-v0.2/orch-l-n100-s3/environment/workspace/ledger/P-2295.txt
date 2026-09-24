@@ -1,0 +1,11 @@
+Ledger page P-2295
+
+account      amount   see page
+Young          -183   P-6253
+Rahman         +367   P-5770
+Park           +639   P-1547
+Dunn           -256   P-2937
+Moreau         +185   P-3192
+Nakamura       -209   P-9218
+
+Follow the entry with the second-largest amount.

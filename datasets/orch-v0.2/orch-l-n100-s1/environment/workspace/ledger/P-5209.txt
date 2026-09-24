@@ -1,0 +1,11 @@
+Ledger page P-5209
+
+account      amount   see page
+Lambert        +718   P-8620
+Xu             +551   P-1157
+Ibarra         -579   P-5686
+Quinn          +740   P-7609
+Abbott         +799   P-2808
+Kowalski       -360   P-9053
+
+Follow the entry whose amount is closest to zero.

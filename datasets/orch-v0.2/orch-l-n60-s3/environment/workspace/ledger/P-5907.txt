@@ -1,0 +1,12 @@
+Ledger page P-5907
+
+account      amount   see page
+Abbott         -469   P-9769
+Kowalski       +276   P-1036
+Dunn           -585   P-4529
+Vance          -770   P-1976
+Osei           +650   P-4469
+Nakamura       +784   P-8627
+Grant          +178   P-6986
+
+Follow the entry whose amount is closest to zero.

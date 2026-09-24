@@ -1,0 +1,10 @@
+Ledger page P-2691
+
+account      amount   see page
+Ibarra         -285   P-3828
+Silva          +238   P-6344
+Rahman         +886   P-5093
+Fofana         +358   P-6746
+Grant          +875   P-4103
+
+Follow the entry whose amount is closest to zero.

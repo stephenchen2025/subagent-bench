@@ -1,0 +1,12 @@
+Ledger page P-9935
+
+account      amount   see page
+Abbott         +386   P-1115
+Dunn           +628   P-6030
+Moreau         -824   P-6859
+Ibarra         -332   P-2536
+Weber          +557   P-6634
+Silva          +616   P-8890
+Xu             +509   P-6841
+
+Follow the credit belonging to the account that comes first alphabetically.

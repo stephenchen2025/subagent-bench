@@ -1,0 +1,10 @@
+Ledger page P-4466
+
+account      amount   see page
+Hughes         -725   P-7384
+Vance          -497   P-5846
+Dunn           -182   P-5252
+Jensen         +592   P-5499
+Kowalski       +547   P-4621
+
+Follow the debit belonging to the account that comes last alphabetically.

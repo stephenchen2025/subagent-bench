@@ -1,0 +1,10 @@
+Ledger page P-1332
+
+account      amount   see page
+Jensen         +574   P-5756
+Abbott         -897   P-4828
+Dunn           -638   P-4912
+Castillo       +134   P-4880
+Weber          +732   P-9719
+
+Follow the entry with the largest credit.

@@ -1,0 +1,10 @@
+Ledger page P-2097
+
+account      amount   see page
+Eriksen        -314   P-5880
+Fofana         -242   P-5880
+Grant          +608   P-2957
+Moreau         +314   P-9531
+Castillo       +870   P-1264
+
+Follow the debit belonging to the account that comes last alphabetically.

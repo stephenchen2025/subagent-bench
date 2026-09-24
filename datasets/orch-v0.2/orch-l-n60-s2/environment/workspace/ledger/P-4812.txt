@@ -1,0 +1,11 @@
+Ledger page P-4812
+
+account      amount   see page
+Eriksen        +411   P-6411
+Lambert        -835   P-8485
+Rahman         -405   P-2745
+Nakamura       +492   P-2008
+Fofana         -769   P-9604
+Quinn          +301   P-5223
+
+Follow the credit belonging to the account that comes first alphabetically.

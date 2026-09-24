@@ -1,0 +1,11 @@
+Ledger page P-9431
+
+account      amount   see page
+Grant          +215   P-7672
+Kowalski       +478   P-1647
+Fofana         +255   P-9546
+Lambert        -164   P-2515
+Castillo       +296   P-9538
+Baker          -434   P-4966
+
+Follow the entry whose amount is closest to zero.

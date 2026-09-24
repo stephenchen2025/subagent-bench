@@ -1,0 +1,11 @@
+Ledger page P-9931
+
+account      amount   see page
+Dunn           +806   P-4082
+Rahman         -733   P-6561
+Castillo       -544   P-6700
+Young          +311   P-1162
+Silva          +218   P-1469
+Xu             +808   P-4285
+
+Follow the debit belonging to the account that comes last alphabetically.

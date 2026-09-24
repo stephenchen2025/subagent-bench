@@ -1,0 +1,10 @@
+Ledger page P-4062
+
+account      amount   see page
+Lambert        -218   P-7595
+Baker          -255   P-4728
+Kowalski        +20   P-6276
+Vance          +620   P-7474
+Zhou           +172   P-7674
+
+Follow the entry with the largest debit (the most negative amount).

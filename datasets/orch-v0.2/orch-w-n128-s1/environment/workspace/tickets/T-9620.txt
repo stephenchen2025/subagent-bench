@@ -1,0 +1,82 @@
+Ticket T-9620
+Customer: Ravi Iyer
+Orders on file: ORD-79564, ORD-89818, ORD-42892, ORD-13280
+Opened: 2026-03-04 via email
+
+Order details:
+ORD-79564  placed 2026-01-27  status: delivered  total: $352.80
+  payment method: card ending 4182  ship to: 246 Oak Ave
+  - espresso grinder x1
+  - gift wrap x2
+  - stainless water bottle, 750ml x2
+  - USB-C charging cable (2m) x1
+ORD-89818  placed 2026-01-21  status: delivered  total: $20.64
+  payment method: card ending 6275  ship to: 263 Cedar Rd
+  - bike light set x1
+  - merino socks, size M x3
+  - gift wrap x2
+  - stainless water bottle, 750ml x1
+ORD-42892  placed 2026-08-20  status: delivered  total: $42.72
+  payment method: card ending 7012  ship to: 114 Elm Ave
+  - camping stove x1
+  - spare battery pack x3
+  - replacement filter cartridge, 3-pack x1
+  - merino socks, size M x3
+ORD-13280  placed 2026-04-21  status: delivered  total: $321.95
+  payment method: card ending 5931  ship to: 282 Mill Ave
+  - espresso grinder x1
+  - carabiner set x3
+  - gift wrap x2
+
+--- message 1 from Ravi Iyer ---
+I need to change the delivery address for ORD-42892 before it ships. Is there a way to combine loyalty points from ORD-42892 with my next purchase? The box for ORD-13280 was a bit crushed but the contents were fine. The confirmation email for ORD-42892 went to my spam folder, so I only just saw it.
+
+Thanks,
+Ravi Iyer
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Dana (support) ---
+Our warehouse shows ORD-13280 left on schedule. I can see all the orders on your account, including ORD-79564. I've updated your shipping address on file. I've resent the confirmation email for ORD-79564 to the address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ravi Iyer ---
+Duplicate charge on ORD-89818, please refund one of them. I'm happy to send screenshots if that helps. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Ravi Iyer
+
+--- message 4 from Dana (support) ---
+Let me know if anything else looks off. I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-79564 to the address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Ravi Iyer ---
+I'm travelling next week, so email is the best way to reach me. Could you also tell me whether ORD-13280 qualifies for the extended return window? Tracking for ORD-13280 hasn't updated since Tuesday. I've been a customer for a few years and usually everything goes smoothly.
+
+Ravi Iyer
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Dana (support) ---
+Our warehouse shows ORD-13280 left on schedule. Tracking updates can lag by a day or two with this carrier. For ORD-79564, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Ravi Iyer ---
+My earlier order ORD-13280 arrived fine, no complaints there. I changed my shipping address last month, so please double-check you have the new one. Is there a way to combine loyalty points from ORD-42892 with my next purchase? Could you also tell me whether ORD-42892 qualifies for the extended return window?
+
+Best regards,
+Ravi Iyer
+
+--- message 8 from Dana (support) ---
+Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-13280 to the address on file. I can see all the orders on your account, including ORD-13280. Our warehouse shows ORD-79564 left on schedule.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

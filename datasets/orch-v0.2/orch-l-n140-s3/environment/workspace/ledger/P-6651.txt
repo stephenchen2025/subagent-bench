@@ -1,0 +1,11 @@
+Ledger page P-6651
+
+account      amount   see page
+Rahman         +304   P-6221
+Quinn          -372   P-3810
+Moreau         -608   P-5679
+Castillo       +683   P-6634
+Dunn           -792   P-7610
+Osei           +598   P-6835
+
+Follow the entry whose amount is closest to zero.

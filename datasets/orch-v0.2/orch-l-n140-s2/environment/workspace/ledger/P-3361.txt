@@ -1,0 +1,12 @@
+Ledger page P-3361
+
+account      amount   see page
+Osei           +659   P-4436
+Abbott         -334   P-6147
+Ibarra         +125   P-4287
+Jensen         +313   P-8264
+Kowalski       +549   P-1101
+Dunn             -2   P-2335
+Weber          -633   P-9532
+
+Follow the entry with the largest credit.

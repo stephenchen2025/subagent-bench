@@ -1,0 +1,59 @@
+Ticket T-9392
+Customer: Jordan Okafor
+Orders on file: ORD-69066, ORD-74792, ORD-95545, ORD-40638
+Opened: 2026-03-07 via chat transcript
+
+Order details:
+ORD-69066  placed 2026-08-11  status: returned  total: $279.69
+  payment method: card ending 5480  ship to: 539 Oak Lane
+  - wool blanket x1
+  - stainless water bottle, 750ml x3
+  - replacement filter cartridge, 3-pack x3
+  - microfiber cloth x3
+  - extended warranty, 2 years x1
+ORD-74792  placed 2026-01-12  status: label created  total: $458.70
+  payment method: card ending 9774  ship to: 470 Elm Ave
+  - wool blanket x1
+  - microfiber cloth x1
+  - extended warranty, 2 years x3
+ORD-95545  placed 2026-05-25  status: delivered  total: $300.00
+  payment method: card ending 9850  ship to: 98 Oak Ave
+  - desk lamp x1
+  - merino socks, size M x3
+  - spare battery pack x1
+  - gift wrap x2
+  - travel pouch x3
+ORD-40638  placed 2026-03-24  status: returned  total: $27.07
+  payment method: card ending 8930  ship to: 550 Cedar Rd
+  - espresso grinder x1
+  - travel pouch x1
+  - USB-C charging cable (2m) x2
+  - extended warranty, 2 years x1
+
+--- message 1 from Jordan Okafor ---
+I'd like to return the bike light set from ORD-40638; it's the wrong size. I changed my shipping address last month, so please double-check you have the new one. I'd rather not call; the hold times last time were very long. I'm happy to send screenshots if that helps.
+
+Thanks,
+Jordan Okafor
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Pete (support) ---
+For ORD-69066, the return window is 30 days from delivery. Let me know if anything else looks off. Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Jordan Okafor ---
+Tracking for ORD-95545 hasn't updated since Tuesday. I've been a customer for a few years and usually everything goes smoothly. I'd rather not call; the hold times last time were very long. The blender itself is great, for what it's worth.
+
+Thanks,
+Jordan Okafor
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Pete (support) ---
+Tracking updates can lag by a day or two with this carrier. For ORD-40638, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering. Let me know if anything else looks off.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

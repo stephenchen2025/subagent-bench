@@ -1,0 +1,11 @@
+Ledger page P-5721
+
+account      amount   see page
+Castillo       -834   P-4499
+Park           +337   P-6207
+Umar           +346   P-3381
+Dunn           -876   P-8170
+Grant           +47   P-6987
+Baker          +723   P-3373
+
+Follow the entry whose amount is closest to zero.

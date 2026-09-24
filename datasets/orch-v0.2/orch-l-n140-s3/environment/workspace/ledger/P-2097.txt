@@ -1,0 +1,12 @@
+Ledger page P-2097
+
+account      amount   see page
+Zhou           +634   P-1693
+Osei           -633   P-7362
+Eriksen        -300   P-9932
+Kowalski       -105   P-9427
+Weber           +73   P-8381
+Vance          +798   P-1207
+Baker          +529   P-7812
+
+Follow the entry with the largest debit (the most negative amount).

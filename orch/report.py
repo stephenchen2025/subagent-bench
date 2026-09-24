@@ -125,12 +125,14 @@ def render(records, out_dir, title="Orchestrator track", preamble=""):
     lines += [
         "## Headline", "",
         "Capture = share of the oracle-split ceiling's gain over solo that delegating recovered "
-        "(0 = no better than solo, 1 = matches the scripted ideal). Tax = score lost by "
-        "delegating where the ideal policy is solo. Cost ratio = total tokens vs solo on those tasks.",
+        "(0 = no better than solo, 1 = matches the scripted ideal). Harm = mean score lost "
+        "against solo on delegation-favourable tasks (catches damage capture cannot see where "
+        "solo already scores at the ceiling). Tax = score lost by "
+        "delegating where the ideal policy is solo (L). Cost ratio = total tokens vs solo on those tasks.",
         "",
-        "| system | condition | capture | lift W/P | structural lift | headroom | tax C/S | "
-        "cost ratio C/S | decision acc. | coverage | duplication | synthesis loss | tokens/run |",
-        "|---|---|---|---|---|---|---|---|---|---|---|---|---|",
+        "| system | condition | capture | harm | lift W/P/C | structural lift | headroom | tax L | "
+        "cost ratio L | decision acc. | coverage | duplication | synthesis loss | tokens/run |",
+        "|---|---|---|---|---|---|---|---|---|---|---|---|---|---|",
     ]
     for (system, cond), s in sorted(summary.items()):
         cells = s["cells"]
@@ -139,7 +141,8 @@ def render(records, out_dir, title="Orchestrator track", preamble=""):
         head = [c["headroom"] for c in cells]
         avg = lambda v: sum(v) / len(v) if v else None  # noqa: E731
         lines.append(
-            f"| {system} | {cond} | {_f(s['capture'])} | {_f(avg(lift), signed=True)} | "
+            f"| {system} | {cond} | {_f(s['capture'])} | {_f(s['harm'])} | "
+            f"{_f(avg(lift), signed=True)} | "
             f"{_f(avg(struct), signed=True)} | {_f(avg(head))} | {_f(s['mean_tax'], signed=True)} | "
             f"{_f(s['mean_cost_ratio'])}× | {_f(s['decision_balanced_acc'])} | "
             f"{_f(s['coverage'])} | {_f(s['duplication'])} | {_f(s['synthesis_loss'])} | "
@@ -155,13 +158,14 @@ def render(records, out_dir, title="Orchestrator track", preamble=""):
             if not sizes:
                 continue
             name = {"W": "W — wide sweep (tickets)", "P": "P — parallel probes (services)",
-                    "C": "C — coupled change (modules)", "S": "S — small fix"}[family]
+                    "C": "C — coupled views (views)", "L": "L — ledger chain (hops)"}[family]
             lines += [f"### {name}", ""]
-            if family in FAVOURABLE and len(sizes) > 1:
+            if len(sizes) > 1:
                 series = [(c, slot[c], [table.get((system, c, family, n), {}).get("score")
                                         for n in sizes]) for c in conds]
                 svg_name = f"scaling-{_slug(system)}-{family}.svg"
-                x_label = {"W": "tickets (N)", "P": "services (K)"}[family]
+                x_label = {"W": "tickets (N)", "P": "services (K)", "C": "views (M)",
+                           "L": "hops (H)"}[family]
                 (out_dir / svg_name).write_text(chart_svg(f"{family}: score vs size", sizes,
                                                           series, x_label))
                 lines += [f"![{family} score against size, one line per condition]({svg_name})", ""]

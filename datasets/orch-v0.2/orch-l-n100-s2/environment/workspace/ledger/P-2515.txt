@@ -1,0 +1,10 @@
+Ledger page P-2515
+
+account      amount   see page
+Castillo       -285   P-1382
+Zhou           +866   P-4446
+Tanaka         +217   P-7996
+Dunn           -240   P-8385
+Lambert        +387   P-8677
+
+Follow the entry whose amount is closest to zero.

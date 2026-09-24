@@ -1,0 +1,11 @@
+Ledger page P-8931
+
+account      amount   see page
+Dunn           +770   P-2320
+Lambert        -773   P-7775
+Abbott         +634   P-6871
+Park           +743   P-9137
+Fofana         -377   P-7933
+Xu             +210   P-2409
+
+Follow the entry with the second-largest amount.

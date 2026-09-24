@@ -1,0 +1,10 @@
+Ledger page P-3836
+
+account      amount   see page
+Moreau         -362   P-8495
+Young          +170   P-2879
+Jensen         -884   P-2091
+Xu             +509   P-5991
+Umar           +428   P-4074
+
+Follow the entry whose amount is closest to zero.

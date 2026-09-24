@@ -1,0 +1,10 @@
+Ledger page P-2518
+
+account      amount   see page
+Young           +96   P-9054
+Lambert        +216   P-2848
+Ibarra         -594   P-4636
+Umar           +836   P-5458
+Silva           +19   P-6911
+
+Follow the credit belonging to the account that comes first alphabetically.

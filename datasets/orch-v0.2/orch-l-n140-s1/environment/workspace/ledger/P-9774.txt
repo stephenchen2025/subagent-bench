@@ -1,0 +1,11 @@
+Ledger page P-9774
+
+account      amount   see page
+Xu             -689   P-2983
+Dunn           +533   P-8078
+Park           -595   P-8470
+Quinn          +219   P-9584
+Zhou           +761   P-9614
+Baker          -607   P-5344
+
+Follow the entry whose amount is closest to zero.

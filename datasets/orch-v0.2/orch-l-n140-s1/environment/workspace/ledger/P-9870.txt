@@ -1,0 +1,10 @@
+Ledger page P-9870
+
+account      amount   see page
+Young          +299   P-1727
+Silva          -865   P-9498
+Moreau         +381   P-7835
+Grant          +355   P-1536
+Osei            -16   P-6202
+
+Follow the entry with the largest credit.

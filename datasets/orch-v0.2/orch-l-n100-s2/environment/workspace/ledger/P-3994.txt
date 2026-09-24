@@ -1,0 +1,11 @@
+Ledger page P-3994
+
+account      amount   see page
+Eriksen        +479   P-3075
+Xu             +864   P-5599
+Tanaka         -817   P-9431
+Jensen         -573   P-6065
+Vance          +844   P-8298
+Dunn           +762   P-7157
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,12 @@
+Ledger page P-3690
+
+account      amount   see page
+Baker          +785   P-7301
+Dunn           +434   P-7601
+Abbott         -893   P-1384
+Jensen          +26   P-4075
+Umar           +347   P-5550
+Xu             -587   P-1340
+Ibarra         -768   P-9789
+
+Follow the debit belonging to the account that comes last alphabetically.

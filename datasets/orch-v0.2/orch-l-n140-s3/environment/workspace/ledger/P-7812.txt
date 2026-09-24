@@ -1,0 +1,10 @@
+Ledger page P-7812
+
+account      amount   see page
+Zhou           -394   P-4886
+Park           -412   P-9188
+Kowalski       +386   P-4479
+Moreau         +259   P-7629
+Tanaka         -885   P-1670
+
+Follow the entry whose amount is closest to zero.

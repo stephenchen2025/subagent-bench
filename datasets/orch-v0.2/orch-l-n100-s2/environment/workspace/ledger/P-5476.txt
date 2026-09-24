@@ -1,0 +1,11 @@
+Ledger page P-5476
+
+account      amount   see page
+Xu             -527   P-2480
+Young          +864   P-8396
+Vance          +764   P-9213
+Silva          +254   P-3108
+Kowalski       -125   P-5886
+Ibarra         +176   P-6803
+
+Follow the debit belonging to the account that comes last alphabetically.

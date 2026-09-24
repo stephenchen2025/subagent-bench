@@ -1,0 +1,11 @@
+Ledger page P-5669
+
+account      amount   see page
+Silva          -797   P-1507
+Nakamura       -431   P-8027
+Grant          +153   P-2697
+Young          -684   P-2486
+Jensen         +481   P-3012
+Zhou           -846   P-8385
+
+Follow the entry with the largest credit.

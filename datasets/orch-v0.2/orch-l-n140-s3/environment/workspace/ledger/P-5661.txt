@@ -1,0 +1,11 @@
+Ledger page P-5661
+
+account      amount   see page
+Osei           +541   P-5159
+Rahman          +18   P-5633
+Park            -56   P-5693
+Lambert        +620   P-3861
+Ibarra         +141   P-7562
+Nakamura       +374   P-9263
+
+Follow the entry with the largest credit.

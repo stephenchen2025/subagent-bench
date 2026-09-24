@@ -1,0 +1,10 @@
+Ledger page P-4597
+
+account      amount   see page
+Vance           -77   P-8396
+Eriksen        -738   P-7491
+Nakamura       -880   P-1870
+Lambert        +751   P-4597
+Umar           +684   P-2900
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,10 @@
+Ledger page P-4972
+
+account      amount   see page
+Dunn           +182   P-6879
+Grant          -153   P-5729
+Zhou           -717   P-4452
+Umar           -253   P-9840
+Hughes         -531   P-5128
+
+Follow the entry whose amount is closest to zero.

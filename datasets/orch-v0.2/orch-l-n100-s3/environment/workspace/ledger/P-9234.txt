@@ -1,0 +1,12 @@
+Ledger page P-9234
+
+account      amount   see page
+Xu             -165   P-1270
+Abbott         -876   P-3982
+Osei           +750   P-5823
+Young          +878   P-4261
+Park           +507   P-8145
+Quinn          -833   P-4898
+Jensen          -51   P-9056
+
+Follow the entry with the second-largest amount.

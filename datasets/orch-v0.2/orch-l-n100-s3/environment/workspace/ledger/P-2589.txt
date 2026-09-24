@@ -1,0 +1,10 @@
+Ledger page P-2589
+
+account      amount   see page
+Nakamura       +432   P-2589
+Silva          -368   P-3481
+Ibarra         -103   P-5298
+Xu             -705   P-9150
+Weber          +293   P-3270
+
+Follow the entry with the largest debit (the most negative amount).

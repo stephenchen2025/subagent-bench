@@ -1,0 +1,10 @@
+Ledger page P-5322
+
+account      amount   see page
+Nakamura       -505   P-4980
+Abbott         -276   P-7523
+Kowalski       +158   P-5003
+Moreau         -627   P-5014
+Vance          -316   P-5220
+
+Follow the credit belonging to the account that comes first alphabetically.

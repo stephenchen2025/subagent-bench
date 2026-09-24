@@ -1,0 +1,11 @@
+Ledger page P-9312
+
+account      amount   see page
+Hughes         +147   P-3147
+Silva          +234   P-2536
+Abbott          -21   P-7362
+Quinn          -629   P-6873
+Eriksen        -565   P-6297
+Osei           +492   P-8436
+
+Follow the entry whose amount is closest to zero.

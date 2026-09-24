@@ -1,0 +1,12 @@
+Ledger page P-2535
+
+account      amount   see page
+Young          +322   P-9256
+Osei           +562   P-3029
+Baker          -865   P-5731
+Zhou           +364   P-1211
+Kowalski       +685   P-9587
+Fofana         +157   P-6320
+Tanaka         -368   P-4780
+
+Follow the credit belonging to the account that comes first alphabetically.

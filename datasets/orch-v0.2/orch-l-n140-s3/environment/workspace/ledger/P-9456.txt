@@ -1,0 +1,12 @@
+Ledger page P-9456
+
+account      amount   see page
+Nakamura       +321   P-9931
+Silva          -156   P-8229
+Vance          -448   P-4349
+Jensen         +417   P-9610
+Moreau         +854   P-1886
+Dunn           +153   P-5548
+Xu             -425   P-1612
+
+Follow the entry whose amount is closest to zero.

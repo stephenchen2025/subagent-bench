@@ -1,0 +1,10 @@
+Ledger page P-9380
+
+account      amount   see page
+Jensen         +269   P-5258
+Zhou           +804   P-2165
+Fofana         +451   P-9918
+Quinn          -193   P-1565
+Weber          -541   P-4385
+
+Follow the debit belonging to the account that comes last alphabetically.

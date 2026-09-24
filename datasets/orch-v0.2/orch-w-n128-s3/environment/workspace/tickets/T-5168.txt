@@ -1,0 +1,72 @@
+Ticket T-5168
+Customer: Samir Patel
+Orders on file: ORD-18318, ORD-27127, ORD-42834, ORD-78693
+Opened: 2026-02-14 via web form
+
+Order details:
+ORD-18318  placed 2026-01-02  status: returned  total: $355.67
+  payment method: card ending 4994  ship to: 297 Mill Rd
+  - carry-on suitcase x1
+  - microfiber cloth x1
+  - carabiner set x2
+  - replacement filter cartridge, 3-pack x2
+  - stainless water bottle, 750ml x3
+ORD-27127  placed 2026-04-06  status: delivered  total: $373.95
+  payment method: card ending 8765  ship to: 922 Oak Lane
+  - noise-cancelling headphones x1
+  - travel pouch x1
+  - extended warranty, 2 years x2
+ORD-42834  placed 2026-08-15  status: delivered  total: $462.29
+  payment method: card ending 4658  ship to: 530 Elm St
+  - standing desk x1
+  - stainless water bottle, 750ml x1
+  - merino socks, size M x2
+  - microfiber cloth x1
+  - travel pouch x1
+ORD-78693  placed 2026-08-10  status: delivered  total: $139.86
+  payment method: card ending 5738  ship to: 923 Oak Lane
+  - espresso grinder x1
+  - microfiber cloth x2
+  - spare battery pack x3
+  - replacement filter cartridge, 3-pack x2
+  - merino socks, size M x1
+
+--- message 1 from Samir Patel ---
+How do I reset my password? The reset link keeps expiring. I tried the chat widget first but it kept disconnecting. I'd rather not call; the hold times last time were very long. Your app logged me out twice while I was looking at this, which didn't help.
+
+Samir Patel
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Rosa (support) ---
+If you need an invoice for ORD-42834, you can download it from the Orders page. Tracking updates can lag by a day or two with this carrier. Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Samir Patel ---
+The confirmation email for ORD-42834 went to my spam folder, so I only just saw it. I'd rather not call; the hold times last time were very long. Could you also tell me whether ORD-42834 qualifies for the extended return window? The box for ORD-27127 was a bit crushed but the contents were fine.
+
+Thanks,
+Samir Patel
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Rosa (support) ---
+Our warehouse shows ORD-78693 left on schedule. I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-78693 to the address on file. If you need an invoice for ORD-27127, you can download it from the Orders page.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Samir Patel ---
+The confirmation email for ORD-27127 went to my spam folder, so I only just saw it. I changed my shipping address last month, so please double-check you have the new one. Your app logged me out twice while I was looking at this, which didn't help. Could you also tell me whether ORD-27127 qualifies for the extended return window?
+
+Samir Patel
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Rosa (support) ---
+For ORD-27127, the return window is 30 days from delivery. Thanks for reaching out, and sorry for the trouble. I've updated your shipping address on file. I've added a note to your account so the next agent has the context.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

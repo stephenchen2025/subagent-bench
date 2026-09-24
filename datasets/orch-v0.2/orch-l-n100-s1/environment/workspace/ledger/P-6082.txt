@@ -1,0 +1,12 @@
+Ledger page P-6082
+
+account      amount   see page
+Dunn           -310   P-8526
+Osei           +878   P-1351
+Zhou           -414   P-3877
+Fofana         +560   P-6171
+Kowalski       +455   P-3094
+Eriksen         +32   P-8917
+Tanaka         +203   P-9568
+
+Follow the entry with the second-largest amount.

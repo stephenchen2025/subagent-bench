@@ -1,0 +1,12 @@
+Ledger page P-7933
+
+account      amount   see page
+Abbott          -23   P-5992
+Tanaka         +848   P-4169
+Rahman         +276   P-3974
+Castillo       -396   P-5428
+Hughes         +684   P-3685
+Park            +48   P-9554
+Weber            -9   P-7359
+
+Follow the credit belonging to the account that comes first alphabetically.

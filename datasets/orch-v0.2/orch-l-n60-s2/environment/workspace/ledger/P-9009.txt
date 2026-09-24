@@ -1,0 +1,12 @@
+Ledger page P-9009
+
+account      amount   see page
+Baker          +236   P-9525
+Jensen         -600   P-7391
+Weber          +812   P-1749
+Ibarra         -619   P-8362
+Dunn           +649   P-9850
+Abbott         +892   P-2042
+Grant          -621   P-5312
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,10 @@
+Ledger page P-1221
+
+account      amount   see page
+Castillo       -428   P-8954
+Dunn           -256   P-2018
+Grant          -596   P-4823
+Tanaka          +18   P-7869
+Hughes         +789   P-3860
+
+Follow the debit belonging to the account that comes last alphabetically.

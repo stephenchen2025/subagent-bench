@@ -1,0 +1,12 @@
+Ledger page P-8793
+
+account      amount   see page
+Eriksen        +488   P-3953
+Zhou             -4   P-5044
+Silva           -95   P-1234
+Castillo       -333   P-7635
+Tanaka         -206   P-3858
+Rahman         +318   P-8194
+Weber          +311   P-4967
+
+Follow the entry with the largest debit (the most negative amount).

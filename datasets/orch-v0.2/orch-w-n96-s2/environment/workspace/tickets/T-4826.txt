@@ -1,0 +1,71 @@
+Ticket T-4826
+Customer: Leila Haddad
+Orders on file: ORD-37082, ORD-26934, ORD-64210, ORD-66483
+Opened: 2026-01-13 via email
+
+Order details:
+ORD-37082  placed 2026-03-08  status: in transit  total: $27.64
+  payment method: card ending 8440  ship to: 188 Harbor Rd
+  - yoga mat x1
+  - gift wrap x2
+  - extended warranty, 2 years x1
+ORD-26934  placed 2026-03-24  status: returned  total: $36.42
+  payment method: card ending 7312  ship to: 552 Mill Lane
+  - camping stove x1
+  - travel pouch x3
+  - USB-C charging cable (2m) x3
+  - extended warranty, 2 years x3
+ORD-64210  placed 2026-03-14  status: delivered  total: $282.22
+  payment method: card ending 3880  ship to: 93 Mill St
+  - trail running shoes x1
+  - gift wrap x2
+  - spare battery pack x3
+  - USB-C charging cable (2m) x3
+ORD-66483  placed 2026-01-04  status: delivered  total: $25.97
+  payment method: card ending 3657  ship to: 191 Harbor St
+  - trail running shoes x1
+  - microfiber cloth x3
+  - gift wrap x3
+  - spare battery pack x2
+  - extended warranty, 2 years x2
+
+--- message 1 from Leila Haddad ---
+I'd like to return the cast iron skillet from ORD-66483; it's the wrong size. Is there a way to combine loyalty points from ORD-26934 with my next purchase? I've been a customer for a few years and usually everything goes smoothly. The confirmation email for ORD-26934 went to my spam folder, so I only just saw it.
+
+Leila Haddad
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Pete (support) ---
+Screenshots aren't necessary, but thank you for offering. I've added a note to your account so the next agent has the context. I can see all the orders on your account, including ORD-26934. Thanks for reaching out, and sorry for the trouble.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Leila Haddad ---
+You took the money for ORD-37082 a second time after it had already been paid. I'm happy to send screenshots if that helps. I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Leila Haddad
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Pete (support) ---
+Let me know if anything else looks off. I've updated your shipping address on file. Loyalty points post about a week after an order is delivered.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Leila Haddad ---
+I tried the chat widget first but it kept disconnecting. I changed my shipping address last month, so please double-check you have the new one. My partner placed ORD-66483 on our shared account, in case that matters. The confirmation email for ORD-26934 went to my spam folder, so I only just saw it.
+
+Thanks,
+Leila Haddad
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Pete (support) ---
+Let me know if anything else looks off. Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-66483 to the address on file. Our warehouse shows ORD-66483 left on schedule.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

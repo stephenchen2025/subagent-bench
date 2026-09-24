@@ -1,0 +1,12 @@
+Ledger page P-3896
+
+account      amount   see page
+Kowalski       +227   P-2801
+Umar           -707   P-1649
+Moreau          +19   P-4002
+Rahman         -398   P-5854
+Baker           +52   P-4237
+Hughes          -38   P-6708
+Abbott         -127   P-6587
+
+Follow the debit belonging to the account that comes last alphabetically.

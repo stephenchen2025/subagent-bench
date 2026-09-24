@@ -1,0 +1,12 @@
+Ledger page P-9587
+
+account      amount   see page
+Ibarra         +438   P-6243
+Park           -188   P-7996
+Vance          +177   P-9691
+Kowalski       -621   P-2178
+Weber            -8   P-7740
+Osei           -506   P-3441
+Umar           +559   P-5476
+
+Follow the entry with the second-largest amount.

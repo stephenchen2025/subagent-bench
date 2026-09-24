@@ -1,0 +1,10 @@
+Ledger page P-9855
+
+account      amount   see page
+Quinn          -793   P-3982
+Rahman         +104   P-1967
+Weber          +204   P-3806
+Osei           +359   P-5225
+Park           +313   P-8753
+
+Follow the credit belonging to the account that comes first alphabetically.

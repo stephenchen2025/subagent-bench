@@ -1,0 +1,12 @@
+Ledger page P-6703
+
+account      amount   see page
+Ibarra         +334   P-2046
+Young          -567   P-7672
+Quinn          -241   P-6234
+Tanaka         -439   P-9189
+Zhou           +634   P-6025
+Osei           +428   P-3078
+Abbott         -517   P-8522
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,11 @@
+Ledger page P-2467
+
+account      amount   see page
+Fofana         +174   P-8308
+Moreau         -341   P-2665
+Zhou           -762   P-8937
+Nakamura       +639   P-9765
+Osei           -518   P-7083
+Baker           +36   P-4576
+
+Follow the entry with the second-largest amount.

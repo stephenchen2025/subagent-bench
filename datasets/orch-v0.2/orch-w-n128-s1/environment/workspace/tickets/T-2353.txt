@@ -1,0 +1,84 @@
+Ticket T-2353
+Customer: Maya Cohen
+Orders on file: ORD-76459, ORD-91392, ORD-78453, ORD-98441
+Opened: 2026-04-07 via web form
+
+Order details:
+ORD-76459  placed 2026-05-17  status: returned  total: $342.85
+  payment method: card ending 3363  ship to: 553 Cedar Ave
+  - noise-cancelling headphones x1
+  - replacement filter cartridge, 3-pack x3
+  - spare battery pack x2
+  - travel pouch x3
+  - stainless water bottle, 750ml x2
+ORD-91392  placed 2026-01-02  status: in transit  total: $188.85
+  payment method: card ending 1269  ship to: 761 Mill Lane
+  - desk lamp x1
+  - stainless water bottle, 750ml x3
+  - spare battery pack x3
+ORD-78453  placed 2026-07-15  status: delivered  total: $456.68
+  payment method: card ending 3008  ship to: 898 Cedar Rd
+  - espresso grinder x1
+  - merino socks, size M x2
+  - stainless water bottle, 750ml x1
+  - microfiber cloth x3
+ORD-98441  placed 2026-08-17  status: delivered  total: $348.58
+  payment method: card ending 3497  ship to: 956 Oak Lane
+  - standing desk x1
+  - extended warranty, 2 years x3
+  - travel pouch x1
+  - gift wrap x3
+  - replacement filter cartridge, 3-pack x1
+
+--- message 1 from Maya Cohen ---
+Where is my refund for ORD-78453? You said 5 days and it has been 8. I'm happy to send screenshots if that helps. My earlier order ORD-76459 arrived fine, no complaints there. I tried the chat widget first but it kept disconnecting.
+
+Maya Cohen
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Keiko (support) ---
+Let me know if anything else looks off. Our warehouse shows ORD-76459 left on schedule. If you need an invoice for ORD-76459, you can download it from the Orders page. I've added a note to your account so the next agent has the context.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Maya Cohen ---
+I got two receipts for ORD-98441, and both amounts actually left my account. Tracking for ORD-91392 hasn't updated since Tuesday. I've been a customer for a few years and usually everything goes smoothly.
+
+Maya Cohen
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Keiko (support) ---
+You're right, and I'm sorry. Our records show ORD-98441 was settled two times. I've refunded the duplicate. I've resent the confirmation email for ORD-78453 to the address on file. If you need an invoice for ORD-76459, you can download it from the Orders page.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Maya Cohen ---
+Your app logged me out twice while I was looking at this, which didn't help. Tracking for ORD-78453 hasn't updated since Tuesday. I tried the chat widget first but it kept disconnecting. My partner placed ORD-76459 on our shared account, in case that matters.
+
+Thanks,
+Maya Cohen
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Keiko (support) ---
+I've updated your shipping address on file. I can see all the orders on your account, including ORD-91392. Thanks for reaching out, and sorry for the trouble. Tracking updates can lag by a day or two with this carrier.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Maya Cohen ---
+I'm happy to send screenshots if that helps. My earlier order ORD-78453 arrived fine, no complaints there. Your app logged me out twice while I was looking at this, which didn't help. My partner placed ORD-91392 on our shared account, in case that matters.
+
+Best regards,
+Maya Cohen
+
+--- message 8 from Keiko (support) ---
+I've added a note to your account so the next agent has the context. If you need an invoice for ORD-78453, you can download it from the Orders page. Let me know if anything else looks off. I've resent the confirmation email for ORD-76459 to the address on file.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

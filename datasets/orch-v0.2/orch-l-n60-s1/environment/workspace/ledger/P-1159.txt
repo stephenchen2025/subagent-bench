@@ -1,0 +1,10 @@
+Ledger page P-1159
+
+account      amount   see page
+Osei           -552   P-2558
+Young           -61   P-2588
+Silva          +482   P-5258
+Ibarra         +864   P-7912
+Xu             -748   P-7502
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,10 @@
+Ledger page P-6276
+
+account      amount   see page
+Baker          +357   P-5483
+Moreau         +557   P-2361
+Eriksen         -75   P-8799
+Fofana         +394   P-1198
+Lambert        +768   P-8643
+
+Follow the entry with the largest credit.

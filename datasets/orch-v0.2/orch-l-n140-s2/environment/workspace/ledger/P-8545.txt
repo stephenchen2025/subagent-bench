@@ -1,0 +1,12 @@
+Ledger page P-8545
+
+account      amount   see page
+Jensen         +713   P-9305
+Hughes         -843   P-1637
+Dunn           +805   P-6740
+Moreau         -709   P-9077
+Young          -346   P-5722
+Quinn          +216   P-5093
+Grant          +140   P-2944
+
+Follow the credit belonging to the account that comes first alphabetically.

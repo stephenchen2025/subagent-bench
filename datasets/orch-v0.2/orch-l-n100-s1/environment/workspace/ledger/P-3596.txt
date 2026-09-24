@@ -1,0 +1,11 @@
+Ledger page P-3596
+
+account      amount   see page
+Xu             -327   P-7274
+Baker          -732   P-3784
+Dunn           -102   P-9053
+Kowalski       -194   P-7465
+Eriksen        +553   P-2116
+Jensen          +98   P-7153
+
+Follow the entry with the largest credit.

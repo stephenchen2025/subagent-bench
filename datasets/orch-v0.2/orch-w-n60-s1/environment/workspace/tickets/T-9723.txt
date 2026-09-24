@@ -1,0 +1,70 @@
+Ticket T-9723
+Customer: Liam O'Neill
+Orders on file: ORD-61375, ORD-42374, ORD-68165, ORD-93322
+Opened: 2026-05-22 via email
+
+Order details:
+ORD-61375  placed 2026-01-07  status: label created  total: $37.19
+  payment method: card ending 7550  ship to: 684 Mill St
+  - water filter pitcher x1
+  - stainless water bottle, 750ml x1
+  - gift wrap x3
+ORD-42374  placed 2026-03-19  status: returned  total: $378.33
+  payment method: card ending 4678  ship to: 208 Oak Lane
+  - camping stove x1
+  - carabiner set x1
+  - extended warranty, 2 years x1
+  - spare battery pack x3
+ORD-68165  placed 2026-08-17  status: in transit  total: $323.34
+  payment method: card ending 8185  ship to: 260 Elm Rd
+  - mechanical keyboard x1
+  - replacement filter cartridge, 3-pack x2
+  - merino socks, size M x2
+ORD-93322  placed 2026-07-20  status: delivered  total: $150.48
+  payment method: card ending 1302  ship to: 60 Oak Ave
+  - carry-on suitcase x1
+  - replacement filter cartridge, 3-pack x2
+  - gift wrap x3
+  - merino socks, size M x1
+  - spare battery pack x1
+
+--- message 1 from Liam O'Neill ---
+Where is my refund for ORD-68165? You said 5 days and it has been 8. Tracking for ORD-61375 hasn't updated since Tuesday. My partner placed ORD-68165 on our shared account, in case that matters. I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Liam O'Neill
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Arjun (support) ---
+I've updated your shipping address on file. I can see all the orders on your account, including ORD-93322. For ORD-61375, the return window is 30 days from delivery. Let me know if anything else looks off.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Liam O'Neill ---
+I've been a customer for a few years and usually everything goes smoothly. I tried the chat widget first but it kept disconnecting. Could you also tell me whether ORD-93322 qualifies for the extended return window? Your app logged me out twice while I was looking at this, which didn't help.
+
+Best regards,
+Liam O'Neill
+
+--- message 4 from Arjun (support) ---
+I can see all the orders on your account, including ORD-68165. If you need an invoice for ORD-61375, you can download it from the Orders page. I've resent the confirmation email for ORD-61375 to the address on file. Let me know if anything else looks off.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Liam O'Neill ---
+The box for ORD-68165 was a bit crushed but the contents were fine. My partner placed ORD-68165 on our shared account, in case that matters. I'd rather not call; the hold times last time were very long. I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Liam O'Neill
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Arjun (support) ---
+I've added a note to your account so the next agent has the context. Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering. If you need an invoice for ORD-61375, you can download it from the Orders page.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

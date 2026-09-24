@@ -1,0 +1,12 @@
+Ledger page P-7500
+
+account      amount   see page
+Weber          +426   P-2566
+Jensen         +380   P-7037
+Kowalski       +544   P-1869
+Nakamura        -87   P-4285
+Umar           -178   P-3635
+Grant          -742   P-2900
+Baker           +52   P-4793
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,62 @@
+Ticket T-6361
+Customer: Mateo Silva
+Orders on file: ORD-51209, ORD-42500, ORD-93241, ORD-54030
+Opened: 2026-05-14 via email
+
+Order details:
+ORD-51209  placed 2026-03-17  status: label created  total: $204.77
+  payment method: card ending 8790  ship to: 675 Harbor St
+  - water filter pitcher x1
+  - travel pouch x3
+  - USB-C charging cable (2m) x3
+  - replacement filter cartridge, 3-pack x3
+  - merino socks, size M x3
+ORD-42500  placed 2026-06-15  status: delivered  total: $304.02
+  payment method: card ending 8573  ship to: 565 Harbor St
+  - camping stove x1
+  - travel pouch x2
+  - merino socks, size M x3
+  - extended warranty, 2 years x2
+  - stainless water bottle, 750ml x1
+ORD-93241  placed 2026-08-14  status: delivered  total: $479.88
+  payment method: card ending 7351  ship to: 789 Harbor Rd
+  - carry-on suitcase x1
+  - replacement filter cartridge, 3-pack x2
+  - carabiner set x3
+ORD-54030  placed 2026-02-11  status: delivered  total: $174.75
+  payment method: card ending 1685  ship to: 19 Oak Lane
+  - blender x1
+  - travel pouch x2
+  - spare battery pack x1
+
+--- message 1 from Mateo Silva ---
+I'd like to return the wool blanket from ORD-93241; it's the wrong size. I'm happy to send screenshots if that helps. Your app logged me out twice while I was looking at this, which didn't help. I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Mateo Silva
+
+--- message 2 from Rosa (support) ---
+If you need an invoice for ORD-51209, you can download it from the Orders page. I've updated your shipping address on file. For ORD-51209, the return window is 30 days from delivery. Our warehouse shows ORD-54030 left on schedule.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Mateo Silva ---
+Unrelated, but my online banking double-charged me at a coffee shop last week, so I'm checking every line carefully now. Anyway, my actual question is about delivery for ORD-42500. The box for ORD-51209 was a bit crushed but the contents were fine. I've been a customer for a few years and usually everything goes smoothly.
+
+Mateo Silva
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Mateo Silva ---
+I changed my shipping address last month, so please double-check you have the new one. Is there a way to combine loyalty points from ORD-93241 with my next purchase? My earlier order ORD-51209 arrived fine, no complaints there. I'm happy to send screenshots if that helps.
+
+Best regards,
+Mateo Silva
+
+--- message 5 from Rosa (support) ---
+Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-93241 to the address on file. If you need an invoice for ORD-51209, you can download it from the Orders page. Screenshots aren't necessary, but thank you for offering.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

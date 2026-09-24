@@ -1,0 +1,10 @@
+Ledger page P-8594
+
+account      amount   see page
+Zhou           -229   P-4944
+Eriksen        +755   P-3961
+Park           +701   P-3163
+Tanaka         +583   P-8493
+Lambert          +7   P-3896
+
+Follow the credit belonging to the account that comes first alphabetically.

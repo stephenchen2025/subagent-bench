@@ -1,0 +1,10 @@
+Ledger page P-3680
+
+account      amount   see page
+Hughes          -93   P-4169
+Kowalski       -868   P-1803
+Eriksen        -471   P-3054
+Fofana         +106   P-2719
+Moreau         +172   P-7117
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,11 @@
+Ledger page P-3026
+
+account      amount   see page
+Moreau         +274   P-2919
+Osei           +113   P-5247
+Rahman         -862   P-4479
+Vance          +528   P-5491
+Castillo       +637   P-8278
+Zhou           +148   P-4101
+
+Follow the entry with the second-largest amount.

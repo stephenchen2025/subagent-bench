@@ -1,0 +1,12 @@
+Ledger page P-3395
+
+account      amount   see page
+Moreau         -210   P-3860
+Baker          -118   P-5879
+Eriksen        -232   P-7848
+Weber          +512   P-2687
+Osei           +860   P-8349
+Xu              +80   P-5972
+Park           +410   P-3191
+
+Follow the debit belonging to the account that comes last alphabetically.

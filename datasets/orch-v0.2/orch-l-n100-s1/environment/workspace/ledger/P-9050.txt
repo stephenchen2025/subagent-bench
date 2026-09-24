@@ -1,0 +1,12 @@
+Ledger page P-9050
+
+account      amount   see page
+Castillo       -453   P-9720
+Kowalski       -375   P-7153
+Grant          -539   P-9054
+Lambert        +466   P-3655
+Moreau         +476   P-5686
+Vance          +583   P-4937
+Silva          +574   P-3785
+
+Follow the credit belonging to the account that comes first alphabetically.

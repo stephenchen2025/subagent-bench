@@ -1,0 +1,10 @@
+Ledger page P-2898
+
+account      amount   see page
+Silva          +721   P-7882
+Baker          +874   P-2780
+Moreau         -458   P-2301
+Ibarra         -338   P-6868
+Quinn           -93   P-1461
+
+Follow the entry whose amount is closest to zero.

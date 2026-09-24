@@ -1,0 +1,68 @@
+Ticket T-8480
+Customer: Yuki Tanaka
+Orders on file: ORD-33822, ORD-93253, ORD-73965, ORD-70836
+Opened: 2026-08-23 via chat transcript
+
+Order details:
+ORD-33822  placed 2026-04-05  status: delivered  total: $466.80
+  payment method: card ending 3191  ship to: 425 Mill Ave
+  - cast iron skillet x1
+  - carabiner set x3
+  - stainless water bottle, 750ml x3
+  - USB-C charging cable (2m) x3
+ORD-93253  placed 2026-08-08  status: delivered  total: $72.52
+  payment method: card ending 2023  ship to: 139 Mill Ave
+  - carry-on suitcase x1
+  - USB-C charging cable (2m) x1
+  - extended warranty, 2 years x3
+  - carabiner set x3
+ORD-73965  placed 2026-04-16  status: in transit  total: $201.69
+  payment method: card ending 1592  ship to: 793 Elm Lane
+  - rain jacket x1
+  - travel pouch x3
+  - replacement filter cartridge, 3-pack x1
+  - USB-C charging cable (2m) x1
+ORD-70836  placed 2026-08-07  status: delivered  total: $373.65
+  payment method: card ending 4603  ship to: 606 Harbor St
+  - bike light set x1
+  - gift wrap x1
+  - travel pouch x3
+
+--- message 1 from Yuki Tanaka ---
+Where is my refund for ORD-93253? You said 5 days and it has been 8. The box for ORD-73965 was a bit crushed but the contents were fine. I changed my shipping address last month, so please double-check you have the new one. The bike light set itself is great, for what it's worth.
+
+Yuki Tanaka
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Dana (support) ---
+Our warehouse shows ORD-93253 left on schedule. I've updated your shipping address on file. Tracking updates can lag by a day or two with this carrier. If you need an invoice for ORD-93253, you can download it from the Orders page.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Yuki Tanaka ---
+I'm happy to send screenshots if that helps. I changed my shipping address last month, so please double-check you have the new one. The box for ORD-73965 was a bit crushed but the contents were fine. Is there a way to combine loyalty points from ORD-93253 with my next purchase?
+
+Best regards,
+Yuki Tanaka
+
+--- message 4 from Dana (support) ---
+If you need an invoice for ORD-93253, you can download it from the Orders page. Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble. For ORD-70836, the return window is 30 days from delivery.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Yuki Tanaka ---
+The cast iron skillet itself is great, for what it's worth. I changed my shipping address last month, so please double-check you have the new one. Tracking for ORD-70836 hasn't updated since Tuesday. I'm travelling next week, so email is the best way to reach me.
+
+Yuki Tanaka
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Dana (support) ---
+I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble. Tracking updates can lag by a day or two with this carrier. I've resent the confirmation email for ORD-73965 to the address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

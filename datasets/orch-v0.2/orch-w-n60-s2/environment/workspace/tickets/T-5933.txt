@@ -1,0 +1,101 @@
+Ticket T-5933
+Customer: Grace Mwangi
+Orders on file: ORD-52712, ORD-25200, ORD-86834, ORD-66766
+Opened: 2026-06-20 via email
+
+Order details:
+ORD-52712  placed 2026-05-28  status: in transit  total: $146.02
+  payment method: card ending 4470  ship to: 968 Mill Ave
+  - rain jacket x1
+  - stainless water bottle, 750ml x3
+  - carabiner set x1
+ORD-25200  placed 2026-01-11  status: returned  total: $57.96
+  payment method: card ending 7737  ship to: 467 Elm Ave
+  - mechanical keyboard x1
+  - stainless water bottle, 750ml x1
+  - spare battery pack x3
+  - carabiner set x1
+  - microfiber cloth x1
+ORD-86834  placed 2026-08-07  status: in transit  total: $464.31
+  payment method: card ending 4434  ship to: 88 Harbor Rd
+  - yoga mat x1
+  - microfiber cloth x2
+  - travel pouch x2
+ORD-66766  placed 2026-08-08  status: in transit  total: $199.10
+  payment method: card ending 7198  ship to: 236 Mill Lane
+  - cast iron skillet x1
+  - microfiber cloth x1
+  - merino socks, size M x1
+  - travel pouch x1
+
+--- message 1 from Grace Mwangi ---
+Where is my refund for ORD-25200? You said 5 days and it has been 8. The box for ORD-25200 was a bit crushed but the contents were fine. I'm happy to send screenshots if that helps. Your app logged me out twice while I was looking at this, which didn't help.
+
+Grace Mwangi
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Arjun (support) ---
+I've resent the confirmation email for ORD-52712 to the address on file. Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering. I've added a note to your account so the next agent has the context.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Grace Mwangi ---
+Something looks off with ORD-66766: I see what might be a second payment. Is there a way to combine loyalty points from ORD-52712 with my next purchase? Could you also tell me whether ORD-25200 qualifies for the extended return window?
+
+Best regards,
+Grace Mwangi
+
+--- message 4 from Arjun (support) ---
+Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-52712 left on schedule. I've updated your shipping address on file.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Grace Mwangi ---
+Update: the second line has now posted, it's no longer pending. So both payments for ORD-66766 actually went through. Your app logged me out twice while I was looking at this, which didn't help. I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Grace Mwangi
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Arjun (support) ---
+You're right, and I'm sorry. Our records show ORD-66766 was settled two times. I've refunded the duplicate. Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Grace Mwangi ---
+I'd rather not call; the hold times last time were very long. I've been a customer for a few years and usually everything goes smoothly. The bike light set itself is great, for what it's worth.
+
+Grace Mwangi
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Grace Mwangi ---
+The box for ORD-25200 was a bit crushed but the contents were fine. My earlier order ORD-86834 arrived fine, no complaints there. The rain jacket itself is great, for what it's worth. I changed my shipping address last month, so please double-check you have the new one.
+
+Grace Mwangi
+(Please reply by email rather than phone if possible.)
+
+--- message 9 from Arjun (support) ---
+If you need an invoice for ORD-52712, you can download it from the Orders page. I've added a note to your account so the next agent has the context. Let me know if anything else looks off. I've resent the confirmation email for ORD-86834 to the address on file.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 10 from Grace Mwangi ---
+I'm happy to send screenshots if that helps. My earlier order ORD-52712 arrived fine, no complaints there. I tried the chat widget first but it kept disconnecting. I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Grace Mwangi
+
+--- message 11 from Arjun (support) ---
+Our warehouse shows ORD-86834 left on schedule. Let me know if anything else looks off. I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

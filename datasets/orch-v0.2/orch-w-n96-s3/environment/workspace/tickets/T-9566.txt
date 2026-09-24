@@ -1,0 +1,83 @@
+Ticket T-9566
+Customer: Sofia Rossi
+Orders on file: ORD-56968, ORD-91899, ORD-93836, ORD-26704
+Opened: 2026-07-02 via chat transcript
+
+Order details:
+ORD-56968  placed 2026-05-01  status: delivered  total: $216.47
+  payment method: card ending 6380  ship to: 320 Elm St
+  - carry-on suitcase x1
+  - microfiber cloth x2
+  - carabiner set x2
+ORD-91899  placed 2026-05-06  status: label created  total: $315.64
+  payment method: card ending 1217  ship to: 594 Harbor Rd
+  - water filter pitcher x1
+  - carabiner set x3
+  - gift wrap x1
+ORD-93836  placed 2026-01-10  status: in transit  total: $112.41
+  payment method: card ending 6689  ship to: 424 Cedar St
+  - standing desk x1
+  - gift wrap x1
+  - extended warranty, 2 years x2
+  - replacement filter cartridge, 3-pack x2
+  - spare battery pack x1
+ORD-26704  placed 2026-06-06  status: delivered  total: $56.71
+  payment method: card ending 7916  ship to: 852 Mill Rd
+  - mechanical keyboard x1
+  - stainless water bottle, 750ml x2
+  - travel pouch x1
+  - spare battery pack x1
+  - merino socks, size M x1
+
+--- message 1 from Sofia Rossi ---
+How do I reset my password? The reset link keeps expiring. The box for ORD-93836 was a bit crushed but the contents were fine. Tracking for ORD-91899 hasn't updated since Tuesday. Your app logged me out twice while I was looking at this, which didn't help.
+
+Best regards,
+Sofia Rossi
+
+--- message 2 from Fatima (support) ---
+I've resent the confirmation email for ORD-93836 to the address on file. Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-56968, you can download it from the Orders page.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Sofia Rossi ---
+Not your fault, but my gym billed me twice this month, which is why I'm nervous about ORD-26704. Everything on your side looks like a single charge, I just wanted to confirm the delivery date. I tried the chat widget first but it kept disconnecting. I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Sofia Rossi
+
+--- message 4 from Fatima (support) ---
+Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-93836. Thanks for reaching out, and sorry for the trouble.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Sofia Rossi ---
+My partner placed ORD-56968 on our shared account, in case that matters. I tried the chat widget first but it kept disconnecting. I've been a customer for a few years and usually everything goes smoothly. Tracking for ORD-93836 hasn't updated since Tuesday.
+
+Thanks,
+Sofia Rossi
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Fatima (support) ---
+I've added a note to your account so the next agent has the context. If you need an invoice for ORD-91899, you can download it from the Orders page. I've updated your shipping address on file. I can see all the orders on your account, including ORD-91899.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Sofia Rossi ---
+The confirmation email for ORD-56968 went to my spam folder, so I only just saw it. I changed my shipping address last month, so please double-check you have the new one. Could you also tell me whether ORD-56968 qualifies for the extended return window? The box for ORD-56968 was a bit crushed but the contents were fine.
+
+Best regards,
+Sofia Rossi
+
+--- message 8 from Fatima (support) ---
+I've resent the confirmation email for ORD-93836 to the address on file. Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

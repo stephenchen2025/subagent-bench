@@ -1,0 +1,11 @@
+Ledger page P-6820
+
+account      amount   see page
+Ibarra         +334   P-8772
+Grant          +884   P-9498
+Rahman         +188   P-3407
+Park           -281   P-4037
+Moreau         +313   P-6691
+Castillo       -221   P-1165
+
+Follow the entry with the second-largest amount.

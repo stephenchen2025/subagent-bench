@@ -1,0 +1,10 @@
+Ledger page P-4366
+
+account      amount   see page
+Abbott         +242   P-1963
+Park            +25   P-7671
+Umar            +33   P-3044
+Dunn           -277   P-3560
+Kowalski       -453   P-9124
+
+Follow the entry with the second-largest amount.

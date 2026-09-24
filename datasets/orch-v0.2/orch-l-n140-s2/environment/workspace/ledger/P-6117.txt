@@ -1,0 +1,11 @@
+Ledger page P-6117
+
+account      amount   see page
+Osei           +605   P-3277
+Silva          +351   P-2852
+Nakamura       +381   P-8328
+Castillo       +557   P-7845
+Weber          +835   P-3476
+Tanaka         -268   P-3293
+
+Follow the entry whose amount is closest to zero.

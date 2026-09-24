@@ -1,0 +1,69 @@
+Ticket T-9824
+Customer: Diego Alvarez
+Orders on file: ORD-57418, ORD-86854, ORD-64182, ORD-70496
+Opened: 2026-01-12 via web form
+
+Order details:
+ORD-57418  placed 2026-03-15  status: in transit  total: $32.25
+  payment method: card ending 5843  ship to: 456 Harbor St
+  - blender x1
+  - replacement filter cartridge, 3-pack x3
+  - extended warranty, 2 years x2
+ORD-86854  placed 2026-02-26  status: label created  total: $363.99
+  payment method: card ending 7579  ship to: 838 Harbor Lane
+  - trail running shoes x1
+  - gift wrap x2
+  - travel pouch x3
+  - extended warranty, 2 years x2
+ORD-64182  placed 2026-05-05  status: delivered  total: $331.35
+  payment method: card ending 7405  ship to: 225 Oak Lane
+  - bike light set x1
+  - USB-C charging cable (2m) x1
+  - extended warranty, 2 years x1
+  - replacement filter cartridge, 3-pack x2
+ORD-70496  placed 2026-06-08  status: delivered  total: $311.06
+  payment method: card ending 3731  ship to: 171 Oak Ave
+  - bike light set x1
+  - spare battery pack x1
+  - travel pouch x2
+  - USB-C charging cable (2m) x1
+  - gift wrap x2
+
+--- message 1 from Diego Alvarez ---
+The blender from ORD-86854 arrived with a scratch on the side. Can I get a replacement? My partner placed ORD-64182 on our shared account, in case that matters. I've been a customer for a few years and usually everything goes smoothly. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Diego Alvarez
+
+--- message 2 from Luis (support) ---
+Thanks for reaching out, and sorry for the trouble. Tracking updates can lag by a day or two with this carrier. I've updated your shipping address on file. I can see all the orders on your account, including ORD-64182.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Diego Alvarez ---
+My earlier order ORD-64182 arrived fine, no complaints there. The box for ORD-70496 was a bit crushed but the contents were fine. I've been a customer for a few years and usually everything goes smoothly. My partner placed ORD-86854 on our shared account, in case that matters.
+
+Diego Alvarez
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Luis (support) ---
+Our warehouse shows ORD-64182 left on schedule. Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off. Loyalty points post about a week after an order is delivered.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Diego Alvarez ---
+I've been a customer for a few years and usually everything goes smoothly. The bike light set itself is great, for what it's worth. I tried the chat widget first but it kept disconnecting. The confirmation email for ORD-86854 went to my spam folder, so I only just saw it.
+
+Diego Alvarez
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Luis (support) ---
+I've added a note to your account so the next agent has the context. I can see all the orders on your account, including ORD-70496. I've resent the confirmation email for ORD-86854 to the address on file. Our warehouse shows ORD-64182 left on schedule.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

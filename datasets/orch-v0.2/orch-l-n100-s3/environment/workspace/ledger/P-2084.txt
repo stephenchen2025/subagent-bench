@@ -1,0 +1,11 @@
+Ledger page P-2084
+
+account      amount   see page
+Tanaka          +54   P-2121
+Fofana         -318   P-5489
+Moreau           -4   P-9800
+Quinn          -439   P-2246
+Park           -351   P-8170
+Grant          +189   P-1557
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,55 @@
+Ticket T-3546
+Customer: Hana Sato
+Orders on file: ORD-63420, ORD-44821, ORD-39652, ORD-41015
+Opened: 2026-01-13 via web form
+
+Order details:
+ORD-63420  placed 2026-08-24  status: delivered  total: $323.65
+  payment method: card ending 3706  ship to: 453 Elm Rd
+  - cast iron skillet x1
+  - carabiner set x3
+  - gift wrap x2
+ORD-44821  placed 2026-06-08  status: delivered  total: $378.38
+  payment method: card ending 8538  ship to: 452 Oak St
+  - water filter pitcher x1
+  - replacement filter cartridge, 3-pack x1
+  - extended warranty, 2 years x2
+  - carabiner set x1
+  - gift wrap x1
+ORD-39652  placed 2026-03-22  status: delivered  total: $384.25
+  payment method: card ending 9708  ship to: 18 Cedar St
+  - standing desk x1
+  - merino socks, size M x1
+  - carabiner set x3
+  - USB-C charging cable (2m) x3
+ORD-41015  placed 2026-02-08  status: returned  total: $449.26
+  payment method: card ending 2186  ship to: 899 Harbor Lane
+  - rain jacket x1
+  - microfiber cloth x2
+  - travel pouch x2
+
+--- message 1 from Hana Sato ---
+The carry-on suitcase from ORD-41015 arrived with a scratch on the side. Can I get a replacement? Could you also tell me whether ORD-41015 qualifies for the extended return window? The espresso grinder itself is great, for what it's worth. Tracking for ORD-39652 hasn't updated since Tuesday.
+
+Best regards,
+Hana Sato
+
+--- message 2 from Fatima (support) ---
+Loyalty points post about a week after an order is delivered. I've updated your shipping address on file. Our warehouse shows ORD-39652 left on schedule. I've added a note to your account so the next agent has the context.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Hana Sato ---
+Your app logged me out twice while I was looking at this, which didn't help. The rain jacket itself is great, for what it's worth. I'd rather not call; the hold times last time were very long. Could you also tell me whether ORD-63420 qualifies for the extended return window?
+
+Best regards,
+Hana Sato
+
+--- message 4 from Fatima (support) ---
+Loyalty points post about a week after an order is delivered. For ORD-63420, the return window is 30 days from delivery. I've resent the confirmation email for ORD-39652 to the address on file. I've added a note to your account so the next agent has the context.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

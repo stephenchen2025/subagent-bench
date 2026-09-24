@@ -1,0 +1,72 @@
+Ticket T-7003
+Customer: Mateo Silva
+Orders on file: ORD-81330, ORD-32977, ORD-35549, ORD-72270
+Opened: 2026-08-04 via web form
+
+Order details:
+ORD-81330  placed 2026-02-22  status: in transit  total: $116.11
+  payment method: card ending 4754  ship to: 597 Oak Rd
+  - rain jacket x1
+  - carabiner set x2
+  - gift wrap x3
+  - replacement filter cartridge, 3-pack x1
+  - extended warranty, 2 years x1
+ORD-32977  placed 2026-08-10  status: label created  total: $213.81
+  payment method: card ending 9229  ship to: 242 Harbor St
+  - desk lamp x1
+  - travel pouch x3
+  - gift wrap x2
+ORD-35549  placed 2026-01-05  status: delivered  total: $298.15
+  payment method: card ending 1848  ship to: 689 Cedar Lane
+  - desk lamp x1
+  - carabiner set x3
+  - merino socks, size M x1
+  - stainless water bottle, 750ml x3
+  - extended warranty, 2 years x1
+ORD-72270  placed 2026-03-22  status: delivered  total: $431.75
+  payment method: card ending 4552  ship to: 226 Elm Ave
+  - yoga mat x1
+  - extended warranty, 2 years x3
+  - merino socks, size M x2
+  - spare battery pack x2
+  - replacement filter cartridge, 3-pack x3
+
+--- message 1 from Mateo Silva ---
+Where is my refund for ORD-32977? You said 5 days and it has been 8. I'm travelling next week, so email is the best way to reach me. The confirmation email for ORD-32977 went to my spam folder, so I only just saw it. The box for ORD-35549 was a bit crushed but the contents were fine.
+
+Mateo Silva
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Luis (support) ---
+Let me know if anything else looks off. Our warehouse shows ORD-32977 left on schedule. Tracking updates can lag by a day or two with this carrier. I've resent the confirmation email for ORD-35549 to the address on file.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Mateo Silva ---
+I see two charges on my credit union this week, one for ORD-81330 and one for ORD-72270. Both are correct -- I ordered twice on purpose -- but could you send me the invoices for my expense report? Tracking for ORD-72270 hasn't updated since Tuesday. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Mateo Silva
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Luis (support) ---
+If you need an invoice for ORD-35549, you can download it from the Orders page. I've added a note to your account so the next agent has the context. Let me know if anything else looks off.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Mateo Silva ---
+Could you also tell me whether ORD-72270 qualifies for the extended return window? The water filter pitcher itself is great, for what it's worth. I tried the chat widget first but it kept disconnecting. I changed my shipping address last month, so please double-check you have the new one.
+
+Mateo Silva
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Luis (support) ---
+Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble. I've resent the confirmation email for ORD-72270 to the address on file. Loyalty points post about a week after an order is delivered.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

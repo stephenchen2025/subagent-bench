@@ -1,0 +1,12 @@
+Ledger page P-2195
+
+account      amount   see page
+Lambert        -395   P-9148
+Jensen         -192   P-8719
+Zhou           +200   P-2838
+Young          +328   P-5019
+Quinn          +297   P-1713
+Eriksen        +834   P-5261
+Baker          -830   P-2235
+
+Follow the entry with the largest debit (the most negative amount).

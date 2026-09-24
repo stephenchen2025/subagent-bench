@@ -1,0 +1,61 @@
+Ticket T-9606
+Customer: Elena Petrova
+Orders on file: ORD-33543, ORD-92085, ORD-67593, ORD-49176
+Opened: 2026-05-10 via chat transcript
+
+Order details:
+ORD-33543  placed 2026-06-19  status: delivered  total: $359.95
+  payment method: card ending 7449  ship to: 500 Mill Ave
+  - cast iron skillet x1
+  - microfiber cloth x1
+  - merino socks, size M x2
+ORD-92085  placed 2026-06-07  status: label created  total: $86.71
+  payment method: card ending 4428  ship to: 965 Elm Ave
+  - standing desk x1
+  - gift wrap x1
+  - carabiner set x3
+  - microfiber cloth x1
+ORD-67593  placed 2026-06-22  status: delivered  total: $239.89
+  payment method: card ending 8032  ship to: 753 Oak Lane
+  - blender x1
+  - gift wrap x2
+  - spare battery pack x3
+ORD-49176  placed 2026-06-06  status: delivered  total: $464.20
+  payment method: card ending 1618  ship to: 364 Elm Lane
+  - wool blanket x1
+  - USB-C charging cable (2m) x2
+  - replacement filter cartridge, 3-pack x3
+  - stainless water bottle, 750ml x3
+
+--- message 1 from Elena Petrova ---
+I need to change the delivery address for ORD-33543 before it ships. I've been a customer for a few years and usually everything goes smoothly. I'd rather not call; the hold times last time were very long. Could you also tell me whether ORD-49176 qualifies for the extended return window?
+
+Thanks,
+Elena Petrova
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Fatima (support) ---
+I've added a note to your account so the next agent has the context. Let me know if anything else looks off. For ORD-92085, the return window is 30 days from delivery. Loyalty points post about a week after an order is delivered.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Elena Petrova ---
+My card was charged two times for order ORD-67593. I changed my shipping address last month, so please double-check you have the new one. The confirmation email for ORD-92085 went to my spam folder, so I only just saw it.
+
+Elena Petrova
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Elena Petrova ---
+I've been a customer for a few years and usually everything goes smoothly. The standing desk itself is great, for what it's worth. Is there a way to combine loyalty points from ORD-49176 with my next purchase? I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Elena Petrova
+
+--- message 5 from Fatima (support) ---
+Tracking updates can lag by a day or two with this carrier. I can see all the orders on your account, including ORD-33543. For ORD-33543, the return window is 30 days from delivery. Our warehouse shows ORD-49176 left on schedule.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

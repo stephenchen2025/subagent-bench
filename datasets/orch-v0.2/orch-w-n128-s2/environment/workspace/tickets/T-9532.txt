@@ -1,0 +1,97 @@
+Ticket T-9532
+Customer: Diego Alvarez
+Orders on file: ORD-63334, ORD-30063, ORD-69438, ORD-74231
+Opened: 2026-08-11 via chat transcript
+
+Order details:
+ORD-63334  placed 2026-01-19  status: returned  total: $465.25
+  payment method: card ending 6266  ship to: 757 Oak Lane
+  - wool blanket x1
+  - USB-C charging cable (2m) x1
+  - extended warranty, 2 years x1
+  - carabiner set x2
+  - stainless water bottle, 750ml x1
+ORD-30063  placed 2026-02-14  status: returned  total: $138.72
+  payment method: card ending 6179  ship to: 922 Mill Rd
+  - rain jacket x1
+  - extended warranty, 2 years x2
+  - carabiner set x3
+ORD-69438  placed 2026-04-14  status: delivered  total: $54.12
+  payment method: card ending 1164  ship to: 229 Harbor St
+  - rain jacket x1
+  - USB-C charging cable (2m) x1
+  - spare battery pack x2
+  - stainless water bottle, 750ml x2
+ORD-74231  placed 2026-08-09  status: returned  total: $19.86
+  payment method: card ending 3980  ship to: 428 Cedar Lane
+  - wool blanket x1
+  - carabiner set x1
+  - extended warranty, 2 years x3
+  - USB-C charging cable (2m) x1
+  - merino socks, size M x1
+
+--- message 1 from Diego Alvarez ---
+I'd like to return the espresso grinder from ORD-74231; it's the wrong size. Could you also tell me whether ORD-30063 qualifies for the extended return window? I'm happy to send screenshots if that helps. My partner placed ORD-69438 on our shared account, in case that matters.
+
+Diego Alvarez
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Pete (support) ---
+Thanks for reaching out, and sorry for the trouble. I've updated your shipping address on file. If you need an invoice for ORD-30063, you can download it from the Orders page. I've resent the confirmation email for ORD-30063 to the address on file.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Diego Alvarez ---
+I was billed twice for ORD-63334 -- same amount, same day. I'm happy to send screenshots if that helps. The confirmation email for ORD-69438 went to my spam folder, so I only just saw it.
+
+Best regards,
+Diego Alvarez
+
+--- message 4 from Pete (support) ---
+If you need an invoice for ORD-74231, you can download it from the Orders page. Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Pete (support) ---
+Confirmed on our side -- ORD-63334 was captured twice by a retry in our checkout. One refund of $195.80 is on its way to you. If you need an invoice for ORD-30063, you can download it from the Orders page. I've added a note to your account so the next agent has the context.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Diego Alvarez ---
+My partner placed ORD-30063 on our shared account, in case that matters. I tried the chat widget first but it kept disconnecting. I changed my shipping address last month, so please double-check you have the new one.
+
+Diego Alvarez
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Diego Alvarez ---
+Is there a way to combine loyalty points from ORD-69438 with my next purchase? My earlier order ORD-30063 arrived fine, no complaints there. I've been a customer for a few years and usually everything goes smoothly. The box for ORD-30063 was a bit crushed but the contents were fine.
+
+Best regards,
+Diego Alvarez
+
+--- message 8 from Pete (support) ---
+Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier. I've updated your shipping address on file. For ORD-74231, the return window is 30 days from delivery.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Diego Alvarez ---
+The box for ORD-69438 was a bit crushed but the contents were fine. I'm happy to send screenshots if that helps. My earlier order ORD-69438 arrived fine, no complaints there. My partner placed ORD-74231 on our shared account, in case that matters.
+
+Thanks,
+Diego Alvarez
+Sent from my phone -- please excuse typos.
+
+--- message 10 from Pete (support) ---
+Let me know if anything else looks off. For ORD-69438, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering. Loyalty points post about a week after an order is delivered.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

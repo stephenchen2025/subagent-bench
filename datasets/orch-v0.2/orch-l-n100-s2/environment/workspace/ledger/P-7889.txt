@@ -1,0 +1,10 @@
+Ledger page P-7889
+
+account      amount   see page
+Moreau         -588   P-8625
+Nakamura       +409   P-5527
+Dunn            +40   P-3441
+Zhou           -269   P-1544
+Rahman         -377   P-3960
+
+Follow the entry with the largest debit (the most negative amount).

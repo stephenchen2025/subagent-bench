@@ -1,0 +1,11 @@
+Ledger page P-7609
+
+account      amount   see page
+Moreau         -723   P-6611
+Quinn          +756   P-9758
+Hughes         +827   P-3452
+Grant          +310   P-9454
+Eriksen        +363   P-1157
+Rahman         +137   P-6610
+
+Follow the entry with the largest debit (the most negative amount).

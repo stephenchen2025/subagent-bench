@@ -1,0 +1,12 @@
+Ledger page P-6673
+
+account      amount   see page
+Hughes         -673   P-3960
+Zhou           -874   P-1462
+Fofana         -818   P-5991
+Kowalski       +794   P-4477
+Grant          +251   P-8502
+Baker          -846   P-5753
+Nakamura       -680   P-4607
+
+Follow the debit belonging to the account that comes last alphabetically.

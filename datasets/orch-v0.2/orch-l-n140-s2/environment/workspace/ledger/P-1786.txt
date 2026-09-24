@@ -1,0 +1,11 @@
+Ledger page P-1786
+
+account      amount   see page
+Umar           -360   P-5162
+Eriksen        -753   P-2691
+Fofana          -75   P-8473
+Lambert        +835   P-6883
+Young           -62   P-3606
+Grant          +503   P-1713
+
+Follow the entry with the largest credit.

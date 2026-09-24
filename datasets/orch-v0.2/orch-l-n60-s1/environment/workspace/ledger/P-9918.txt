@@ -1,0 +1,12 @@
+Ledger page P-9918
+
+account      amount   see page
+Abbott         +865   P-8481
+Kowalski       -253   P-3318
+Lambert        -834   P-2426
+Grant          -119   P-2328
+Weber          +130   P-4403
+Nakamura       +394   P-4560
+Silva           +79   P-5594
+
+Follow the entry whose amount is closest to zero.

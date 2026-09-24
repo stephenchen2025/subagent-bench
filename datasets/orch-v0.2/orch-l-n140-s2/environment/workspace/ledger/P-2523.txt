@@ -1,0 +1,12 @@
+Ledger page P-2523
+
+account      amount   see page
+Grant          -556   P-9366
+Baker          -792   P-9199
+Nakamura       -534   P-7978
+Umar           +259   P-4906
+Fofana         +743   P-2856
+Rahman         +730   P-6511
+Weber          -101   P-5167
+
+Follow the entry with the largest credit.

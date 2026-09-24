@@ -1,0 +1,11 @@
+Ledger page P-5991
+
+account      amount   see page
+Quinn          -323   P-8176
+Ibarra         -222   P-3029
+Osei            +24   P-2535
+Zhou           -168   P-2884
+Young          +581   P-5807
+Dunn           +285   P-4065
+
+Follow the entry with the largest credit.

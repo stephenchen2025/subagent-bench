@@ -1,0 +1,11 @@
+Ledger page P-8023
+
+account      amount   see page
+Young          -428   P-4413
+Weber          -571   P-6653
+Eriksen        -695   P-7257
+Jensen         -839   P-5293
+Xu             +509   P-8049
+Grant          +296   P-2443
+
+Follow the entry with the largest debit (the most negative amount).

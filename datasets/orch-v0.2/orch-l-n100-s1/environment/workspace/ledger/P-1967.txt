@@ -1,0 +1,11 @@
+Ledger page P-1967
+
+account      amount   see page
+Weber          -680   P-1064
+Nakamura       -855   P-2683
+Baker          -207   P-1608
+Park           +126   P-1848
+Lambert        -838   P-3791
+Grant          +325   P-3751
+
+Follow the entry whose amount is closest to zero.

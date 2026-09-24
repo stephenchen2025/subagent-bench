@@ -1,0 +1,70 @@
+Ticket T-5098
+Customer: Avery Lin
+Orders on file: ORD-32525, ORD-78896, ORD-35748, ORD-69967
+Opened: 2026-04-20 via web form
+
+Order details:
+ORD-32525  placed 2026-02-09  status: delivered  total: $158.70
+  payment method: card ending 9985  ship to: 642 Cedar St
+  - wool blanket x1
+  - stainless water bottle, 750ml x1
+  - spare battery pack x1
+  - gift wrap x2
+ORD-78896  placed 2026-03-13  status: label created  total: $135.63
+  payment method: card ending 5454  ship to: 702 Oak Ave
+  - trail running shoes x1
+  - replacement filter cartridge, 3-pack x1
+  - travel pouch x1
+ORD-35748  placed 2026-06-15  status: in transit  total: $300.99
+  payment method: card ending 3291  ship to: 363 Oak Lane
+  - yoga mat x1
+  - merino socks, size M x3
+  - extended warranty, 2 years x1
+  - gift wrap x1
+ORD-69967  placed 2026-07-12  status: delivered  total: $175.08
+  payment method: card ending 7679  ship to: 142 Cedar Rd
+  - mechanical keyboard x1
+  - stainless water bottle, 750ml x3
+  - extended warranty, 2 years x2
+  - merino socks, size M x1
+  - gift wrap x2
+
+--- message 1 from Avery Lin ---
+I need to change the delivery address for ORD-69967 before it ships. I'm travelling next week, so email is the best way to reach me. Could you also tell me whether ORD-78896 qualifies for the extended return window? Your app logged me out twice while I was looking at this, which didn't help.
+
+Best regards,
+Avery Lin
+
+--- message 2 from Arjun (support) ---
+For ORD-78896, the return window is 30 days from delivery. I've updated your shipping address on file. Loyalty points post about a week after an order is delivered. If you need an invoice for ORD-78896, you can download it from the Orders page.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Avery Lin ---
+I've been a customer for a few years and usually everything goes smoothly. Could you also tell me whether ORD-35748 qualifies for the extended return window? The confirmation email for ORD-69967 went to my spam folder, so I only just saw it. I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Avery Lin
+
+--- message 4 from Arjun (support) ---
+I can see all the orders on your account, including ORD-78896. Our warehouse shows ORD-69967 left on schedule. Thanks for reaching out, and sorry for the trouble. Loyalty points post about a week after an order is delivered.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Avery Lin ---
+I tried the chat widget first but it kept disconnecting. My earlier order ORD-69967 arrived fine, no complaints there. The confirmation email for ORD-35748 went to my spam folder, so I only just saw it. The box for ORD-78896 was a bit crushed but the contents were fine.
+
+Thanks,
+Avery Lin
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Arjun (support) ---
+I've updated your shipping address on file. I've added a note to your account so the next agent has the context. Thanks for reaching out, and sorry for the trouble. Tracking updates can lag by a day or two with this carrier.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

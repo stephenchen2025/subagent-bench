@@ -1,0 +1,10 @@
+Ledger page P-9804
+
+account      amount   see page
+Grant          +286   P-9408
+Eriksen        -772   P-2034
+Umar           +631   P-3670
+Kowalski        +58   P-4157
+Young          +712   P-4027
+
+Follow the entry whose amount is closest to zero.

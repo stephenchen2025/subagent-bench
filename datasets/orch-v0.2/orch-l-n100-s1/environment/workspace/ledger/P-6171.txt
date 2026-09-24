@@ -1,0 +1,12 @@
+Ledger page P-6171
+
+account      amount   see page
+Castillo        -84   P-5996
+Zhou           +734   P-4094
+Grant          +468   P-6184
+Nakamura       +875   P-3785
+Baker          -792   P-3529
+Quinn          +778   P-6511
+Young          +173   P-9931
+
+Follow the entry with the largest debit (the most negative amount).

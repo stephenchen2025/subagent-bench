@@ -1,0 +1,12 @@
+Ledger page P-6208
+
+account      amount   see page
+Vance          +697   P-1897
+Osei           +216   P-9934
+Lambert        +121   P-2930
+Kowalski        +60   P-9851
+Dunn           -562   P-8484
+Nakamura       -366   P-1373
+Park           +180   P-8715
+
+Follow the entry with the largest credit.

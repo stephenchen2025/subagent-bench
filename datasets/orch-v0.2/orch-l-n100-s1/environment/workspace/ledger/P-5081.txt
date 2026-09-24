@@ -1,0 +1,10 @@
+Ledger page P-5081
+
+account      amount   see page
+Dunn            +36   P-3351
+Vance          +282   P-8395
+Jensen         +874   P-6281
+Lambert        -714   P-9894
+Park           -775   P-8908
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,12 @@
+Ledger page P-3604
+
+account      amount   see page
+Tanaka         -143   P-2588
+Eriksen        +352   P-3219
+Zhou           -351   P-4366
+Grant          +672   P-7729
+Baker          +720   P-6641
+Nakamura       +852   P-8937
+Moreau         -812   P-3342
+
+Follow the entry whose amount is closest to zero.

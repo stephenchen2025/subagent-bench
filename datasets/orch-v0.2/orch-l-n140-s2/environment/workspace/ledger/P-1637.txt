@@ -1,0 +1,12 @@
+Ledger page P-1637
+
+account      amount   see page
+Jensen         +116   P-4194
+Tanaka         +434   P-7324
+Weber          +601   P-1265
+Park           -886   P-6232
+Dunn           +571   P-7984
+Lambert         -17   P-9920
+Fofana         +605   P-8427
+
+Follow the debit belonging to the account that comes last alphabetically.

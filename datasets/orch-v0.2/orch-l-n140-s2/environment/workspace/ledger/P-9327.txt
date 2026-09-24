@@ -1,0 +1,10 @@
+Ledger page P-9327
+
+account      amount   see page
+Lambert        -384   P-3287
+Ibarra         +325   P-2691
+Umar           -820   P-4465
+Tanaka         +209   P-9836
+Rahman         +889   P-1825
+
+Follow the entry whose amount is closest to zero.

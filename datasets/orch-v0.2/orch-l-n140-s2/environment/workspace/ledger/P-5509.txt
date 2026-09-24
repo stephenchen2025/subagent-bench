@@ -1,0 +1,12 @@
+Ledger page P-5509
+
+account      amount   see page
+Hughes         +809   P-4687
+Rahman         +815   P-8845
+Weber           -87   P-9328
+Baker          +470   P-3235
+Young          -518   P-3410
+Ibarra         +112   P-9420
+Eriksen        +872   P-8080
+
+Follow the entry with the second-largest amount.

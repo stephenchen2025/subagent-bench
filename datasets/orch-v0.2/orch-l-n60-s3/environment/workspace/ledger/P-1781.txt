@@ -1,0 +1,10 @@
+Ledger page P-1781
+
+account      amount   see page
+Umar           -410   P-7577
+Rahman         +474   P-2930
+Lambert        +330   P-4529
+Moreau         +430   P-7899
+Weber          -167   P-8357
+
+Follow the entry whose amount is closest to zero.

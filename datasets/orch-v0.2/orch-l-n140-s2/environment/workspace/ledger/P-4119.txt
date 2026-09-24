@@ -1,0 +1,11 @@
+Ledger page P-4119
+
+account      amount   see page
+Moreau         -549   P-9420
+Eriksen        +771   P-5058
+Weber          +444   P-3758
+Lambert        +379   P-6740
+Xu             +524   P-5987
+Park           +798   P-7117
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,10 @@
+Ledger page P-7855
+
+account      amount   see page
+Eriksen        +251   P-7109
+Umar            +99   P-2194
+Tanaka         -869   P-3913
+Quinn          +880   P-7016
+Weber          -498   P-8892
+
+Follow the entry with the largest debit (the most negative amount).

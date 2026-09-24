@@ -1,0 +1,11 @@
+Ledger page P-5259
+
+account      amount   see page
+Baker          -845   P-6399
+Jensen         +542   P-7384
+Tanaka         +336   P-8946
+Kowalski       -249   P-5548
+Umar           -773   P-6030
+Osei           -593   P-3948
+
+Follow the entry with the second-largest amount.

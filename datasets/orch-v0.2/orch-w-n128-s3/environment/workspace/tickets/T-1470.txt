@@ -1,0 +1,99 @@
+Ticket T-1470
+Customer: Chloe Martin
+Orders on file: ORD-44320, ORD-87748, ORD-90228, ORD-39238
+Opened: 2026-07-05 via chat transcript
+
+Order details:
+ORD-44320  placed 2026-01-08  status: returned  total: $399.73
+  payment method: card ending 7727  ship to: 817 Elm Rd
+  - blender x1
+  - travel pouch x2
+  - microfiber cloth x3
+ORD-87748  placed 2026-05-10  status: delivered  total: $349.14
+  payment method: card ending 5938  ship to: 715 Harbor Lane
+  - cast iron skillet x1
+  - stainless water bottle, 750ml x1
+  - replacement filter cartridge, 3-pack x2
+  - USB-C charging cable (2m) x1
+  - carabiner set x2
+ORD-90228  placed 2026-01-06  status: delivered  total: $189.01
+  payment method: card ending 8514  ship to: 102 Elm Lane
+  - blender x1
+  - merino socks, size M x1
+  - stainless water bottle, 750ml x1
+  - extended warranty, 2 years x2
+ORD-39238  placed 2026-07-22  status: label created  total: $39.93
+  payment method: card ending 4466  ship to: 45 Cedar St
+  - cast iron skillet x1
+  - USB-C charging cable (2m) x3
+  - carabiner set x1
+  - merino socks, size M x2
+
+--- message 1 from Chloe Martin ---
+I'd like to return the carry-on suitcase from ORD-44320; it's the wrong size. I changed my shipping address last month, so please double-check you have the new one. Your app logged me out twice while I was looking at this, which didn't help. The box for ORD-44320 was a bit crushed but the contents were fine.
+
+Thanks,
+Chloe Martin
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Dana (support) ---
+Our warehouse shows ORD-44320 left on schedule. Thanks for reaching out, and sorry for the trouble. I've resent the confirmation email for ORD-87748 to the address on file. Tracking updates can lag by a day or two with this carrier.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Chloe Martin ---
+I think I might have been charged twice for ORD-39238, but one of the lines on the card app still says pending, so I'm not sure yet. The water filter pitcher itself is great, for what it's worth. The confirmation email for ORD-87748 went to my spam folder, so I only just saw it.
+
+Best regards,
+Chloe Martin
+
+--- message 4 from Dana (support) ---
+I've resent the confirmation email for ORD-44320 to the address on file. Our warehouse shows ORD-44320 left on schedule. I've added a note to your account so the next agent has the context.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Chloe Martin ---
+Update: the second line has now posted, it's no longer pending. So both payments for ORD-39238 actually went through. I'm travelling next week, so email is the best way to reach me. My earlier order ORD-90228 arrived fine, no complaints there.
+
+Thanks,
+Chloe Martin
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Dana (support) ---
+Screenshots aren't necessary, but thank you for offering. For ORD-44320, the return window is 30 days from delivery. Let me know if anything else looks off.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Dana (support) ---
+Confirmed on our side -- ORD-39238 was captured twice by a retry in our checkout. One refund of $350.37 is on its way to you. I've added a note to your account so the next agent has the context. Thanks for reaching out, and sorry for the trouble.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Chloe Martin ---
+I'd rather not call; the hold times last time were very long. I'm happy to send screenshots if that helps. My partner placed ORD-87748 on our shared account, in case that matters.
+
+Thanks,
+Chloe Martin
+Sent from my phone -- please excuse typos.
+
+--- message 9 from Chloe Martin ---
+The confirmation email for ORD-87748 went to my spam folder, so I only just saw it. I tried the chat widget first but it kept disconnecting. I'd rather not call; the hold times last time were very long. My partner placed ORD-90228 on our shared account, in case that matters.
+
+Thanks,
+Chloe Martin
+Sent from my phone -- please excuse typos.
+
+--- message 10 from Dana (support) ---
+I've resent the confirmation email for ORD-44320 to the address on file. For ORD-87748, the return window is 30 days from delivery. Tracking updates can lag by a day or two with this carrier. Loyalty points post about a week after an order is delivered.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

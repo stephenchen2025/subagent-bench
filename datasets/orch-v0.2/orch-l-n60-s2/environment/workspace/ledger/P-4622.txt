@@ -1,0 +1,10 @@
+Ledger page P-4622
+
+account      amount   see page
+Weber          +563   P-9683
+Quinn          -140   P-7572
+Umar           -331   P-8948
+Eriksen        +304   P-7865
+Ibarra          -55   P-7339
+
+Follow the entry with the second-largest amount.

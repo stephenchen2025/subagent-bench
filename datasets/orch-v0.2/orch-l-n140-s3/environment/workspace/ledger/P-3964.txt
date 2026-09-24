@@ -1,0 +1,11 @@
+Ledger page P-3964
+
+account      amount   see page
+Castillo       -125   P-4285
+Ibarra         +720   P-4793
+Xu             +675   P-7277
+Umar            +17   P-4655
+Moreau          +77   P-5991
+Dunn           +261   P-2248
+
+Follow the entry with the largest debit (the most negative amount).

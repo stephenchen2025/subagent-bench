@@ -1,0 +1,12 @@
+Ledger page P-7931
+
+account      amount   see page
+Jensen         +430   P-3745
+Rahman           -8   P-4397
+Ibarra         +735   P-5991
+Kowalski        -45   P-6280
+Quinn          -540   P-8273
+Moreau          -57   P-6030
+Vance          -134   P-7347
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,11 @@
+Ledger page P-6184
+
+account      amount   see page
+Jensen         -124   P-1990
+Castillo       +332   P-3740
+Lambert        -139   P-9713
+Weber          +737   P-7609
+Moreau         -128   P-3416
+Vance          -776   P-3982
+
+Follow the entry with the largest credit.

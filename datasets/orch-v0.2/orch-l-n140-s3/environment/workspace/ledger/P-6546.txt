@@ -1,0 +1,10 @@
+Ledger page P-6546
+
+account      amount   see page
+Vance          +499   P-6873
+Eriksen        +857   P-1670
+Ibarra         -711   P-7729
+Baker          +852   P-2041
+Silva          +639   P-2011
+
+Follow the credit belonging to the account that comes first alphabetically.

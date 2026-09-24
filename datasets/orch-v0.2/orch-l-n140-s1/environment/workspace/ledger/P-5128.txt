@@ -1,0 +1,10 @@
+Ledger page P-5128
+
+account      amount   see page
+Zhou           +123   P-8571
+Silva          -449   P-6507
+Fofana         -708   P-3354
+Umar           -457   P-4589
+Grant          -247   P-5912
+
+Follow the entry with the largest credit.

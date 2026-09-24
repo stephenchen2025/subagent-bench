@@ -1,0 +1,12 @@
+Ledger page P-7370
+
+account      amount   see page
+Silva          +121   P-5223
+Baker          -855   P-7275
+Abbott         +478   P-3472
+Grant           -33   P-4010
+Weber          +604   P-5312
+Osei            -75   P-2689
+Dunn           -687   P-7231
+
+Follow the credit belonging to the account that comes first alphabetically.

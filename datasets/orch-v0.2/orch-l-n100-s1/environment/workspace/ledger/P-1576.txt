@@ -1,0 +1,12 @@
+Ledger page P-1576
+
+account      amount   see page
+Dunn           +595   P-8606
+Kowalski       -741   P-3791
+Weber          +725   P-7418
+Osei           +748   P-4561
+Nakamura       +662   P-3596
+Young          -334   P-5938
+Baker          -893   P-8620
+
+Follow the entry with the second-largest amount.

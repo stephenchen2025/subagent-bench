@@ -1,0 +1,12 @@
+Ledger page P-6145
+
+account      amount   see page
+Castillo       -222   P-8231
+Osei           +496   P-5983
+Quinn          -706   P-7865
+Kowalski       -807   P-1224
+Jensen         +622   P-6352
+Fofana         +853   P-7542
+Vance          -361   P-9310
+
+Follow the entry with the largest debit (the most negative amount).

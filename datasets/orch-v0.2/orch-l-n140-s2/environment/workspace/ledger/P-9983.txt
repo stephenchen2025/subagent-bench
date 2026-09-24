@@ -1,0 +1,10 @@
+Ledger page P-9983
+
+account      amount   see page
+Moreau         -432   P-2031
+Silva          -122   P-7186
+Tanaka         +347   P-3277
+Vance          +645   P-8010
+Umar           -294   P-2212
+
+Follow the entry with the largest debit (the most negative amount).

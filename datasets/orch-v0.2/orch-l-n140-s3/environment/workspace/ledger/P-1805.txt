@@ -1,0 +1,12 @@
+Ledger page P-1805
+
+account      amount   see page
+Young          +471   P-2006
+Dunn            +56   P-5456
+Quinn          -198   P-2656
+Umar           +725   P-1851
+Osei           +582   P-4853
+Silva            +9   P-4118
+Xu             +495   P-4236
+
+Follow the entry whose amount is closest to zero.

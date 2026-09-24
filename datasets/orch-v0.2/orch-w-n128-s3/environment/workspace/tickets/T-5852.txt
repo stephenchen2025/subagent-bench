@@ -1,0 +1,69 @@
+Ticket T-5852
+Customer: Ben Carter
+Orders on file: ORD-56552, ORD-78191, ORD-53940, ORD-48866
+Opened: 2026-05-21 via email
+
+Order details:
+ORD-56552  placed 2026-02-22  status: delivered  total: $275.76
+  payment method: card ending 5209  ship to: 105 Cedar Rd
+  - wool blanket x1
+  - microfiber cloth x1
+  - stainless water bottle, 750ml x3
+ORD-78191  placed 2026-08-03  status: label created  total: $338.70
+  payment method: card ending 5290  ship to: 969 Cedar Rd
+  - standing desk x1
+  - USB-C charging cable (2m) x3
+  - spare battery pack x3
+  - carabiner set x3
+ORD-53940  placed 2026-04-21  status: delivered  total: $165.01
+  payment method: card ending 1013  ship to: 464 Harbor Ave
+  - desk lamp x1
+  - merino socks, size M x2
+  - carabiner set x1
+  - USB-C charging cable (2m) x3
+  - replacement filter cartridge, 3-pack x2
+ORD-48866  placed 2026-08-15  status: returned  total: $75.72
+  payment method: card ending 1894  ship to: 926 Cedar Rd
+  - rain jacket x1
+  - stainless water bottle, 750ml x3
+  - merino socks, size M x3
+  - carabiner set x3
+
+--- message 1 from Ben Carter ---
+The carry-on suitcase from ORD-78191 arrived with a scratch on the side. Can I get a replacement? Tracking for ORD-56552 hasn't updated since Tuesday. I'm happy to send screenshots if that helps. Could you also tell me whether ORD-48866 qualifies for the extended return window?
+
+Best regards,
+Ben Carter
+
+--- message 2 from Rosa (support) ---
+I've added a note to your account so the next agent has the context. I've updated your shipping address on file. For ORD-56552, the return window is 30 days from delivery. Loyalty points post about a week after an order is delivered.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ben Carter ---
+I see two charges on my credit union this week, one for ORD-53940 and one for ORD-78191. Both are correct -- I ordered twice on purpose -- but could you send me the invoices for my expense report? Your app logged me out twice while I was looking at this, which didn't help. My partner placed ORD-56552 on our shared account, in case that matters.
+
+Ben Carter
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Rosa (support) ---
+I can see all the orders on your account, including ORD-48866. Loyalty points post about a week after an order is delivered. Screenshots aren't necessary, but thank you for offering.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Ben Carter ---
+I'm travelling next week, so email is the best way to reach me. My partner placed ORD-48866 on our shared account, in case that matters. I'm happy to send screenshots if that helps. Your app logged me out twice while I was looking at this, which didn't help.
+
+Ben Carter
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Rosa (support) ---
+I can see all the orders on your account, including ORD-56552. If you need an invoice for ORD-56552, you can download it from the Orders page. Loyalty points post about a week after an order is delivered. Thanks for reaching out, and sorry for the trouble.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

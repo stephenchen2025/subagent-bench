@@ -1,0 +1,12 @@
+Ledger page P-2358
+
+account      amount   see page
+Xu             -106   P-2930
+Tanaka          +28   P-5485
+Dunn           +871   P-7400
+Grant           +89   P-2533
+Silva          -887   P-7766
+Zhou           -171   P-4727
+Rahman         -149   P-5081
+
+Follow the entry with the largest debit (the most negative amount).

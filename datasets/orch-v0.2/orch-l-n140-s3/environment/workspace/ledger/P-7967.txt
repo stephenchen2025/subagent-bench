@@ -1,0 +1,12 @@
+Ledger page P-7967
+
+account      amount   see page
+Quinn           +63   P-3721
+Xu             +796   P-1655
+Abbott         -247   P-8384
+Lambert        +129   P-8870
+Vance          -804   P-2187
+Fofana         +378   P-3914
+Grant          +717   P-6102
+
+Follow the entry whose amount is closest to zero.

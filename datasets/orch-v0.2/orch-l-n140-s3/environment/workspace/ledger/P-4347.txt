@@ -1,0 +1,12 @@
+Ledger page P-4347
+
+account      amount   see page
+Eriksen        -851   P-6651
+Hughes         -833   P-3604
+Osei            -74   P-9188
+Ibarra         -677   P-6461
+Fofana         -447   P-3207
+Castillo       +801   P-3861
+Dunn           -204   P-8557
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,98 @@
+Ticket T-1252
+Customer: Felix Wagner
+Orders on file: ORD-55564, ORD-58935, ORD-86274, ORD-94786
+Opened: 2026-06-06 via email
+
+Order details:
+ORD-55564  placed 2026-07-20  status: delivered  total: $30.18
+  payment method: card ending 3887  ship to: 608 Elm St
+  - standing desk x1
+  - USB-C charging cable (2m) x3
+  - gift wrap x1
+  - replacement filter cartridge, 3-pack x1
+  - travel pouch x3
+ORD-58935  placed 2026-05-15  status: delivered  total: $41.97
+  payment method: card ending 1753  ship to: 382 Mill Ave
+  - mechanical keyboard x1
+  - merino socks, size M x3
+  - USB-C charging cable (2m) x1
+ORD-86274  placed 2026-01-04  status: returned  total: $181.24
+  payment method: card ending 3658  ship to: 924 Cedar Lane
+  - blender x1
+  - merino socks, size M x1
+  - stainless water bottle, 750ml x2
+  - microfiber cloth x3
+  - carabiner set x2
+ORD-94786  placed 2026-01-25  status: delivered  total: $307.89
+  payment method: card ending 3577  ship to: 349 Oak Ave
+  - bike light set x1
+  - microfiber cloth x1
+  - spare battery pack x2
+  - merino socks, size M x2
+
+--- message 1 from Felix Wagner ---
+How do I reset my password? The reset link keeps expiring. Tracking for ORD-58935 hasn't updated since Tuesday. The confirmation email for ORD-55564 went to my spam folder, so I only just saw it. I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Felix Wagner
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Luis (support) ---
+I've updated your shipping address on file. I've added a note to your account so the next agent has the context. Our warehouse shows ORD-55564 left on schedule. Loyalty points post about a week after an order is delivered.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Felix Wagner ---
+The checkout page for ORD-94786 timed out. If I try to pay again, will I end up being charged twice? Could you also tell me whether ORD-86274 qualifies for the extended return window? Tracking for ORD-58935 hasn't updated since Tuesday.
+
+Best regards,
+Felix Wagner
+
+--- message 4 from Luis (support) ---
+I've updated your shipping address on file. I can see all the orders on your account, including ORD-55564. Screenshots aren't necessary, but thank you for offering.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Luis (support) ---
+No, you won't be charged twice: the first attempt for ORD-94786 failed before capture, so retrying is safe. Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Felix Wagner ---
+My partner placed ORD-86274 on our shared account, in case that matters. I'm happy to send screenshots if that helps. Is there a way to combine loyalty points from ORD-86274 with my next purchase?
+
+Thanks,
+Felix Wagner
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Felix Wagner ---
+I'd rather not call; the hold times last time were very long. Your app logged me out twice while I was looking at this, which didn't help. I've been a customer for a few years and usually everything goes smoothly. My partner placed ORD-55564 on our shared account, in case that matters.
+
+Best regards,
+Felix Wagner
+
+--- message 8 from Luis (support) ---
+I can see all the orders on your account, including ORD-86274. I've resent the confirmation email for ORD-55564 to the address on file. Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Felix Wagner ---
+Tracking for ORD-55564 hasn't updated since Tuesday. The box for ORD-55564 was a bit crushed but the contents were fine. I'd rather not call; the hold times last time were very long. Is there a way to combine loyalty points from ORD-55564 with my next purchase?
+
+Best regards,
+Felix Wagner
+
+--- message 10 from Luis (support) ---
+Screenshots aren't necessary, but thank you for offering. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-58935 left on schedule. I can see all the orders on your account, including ORD-58935.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

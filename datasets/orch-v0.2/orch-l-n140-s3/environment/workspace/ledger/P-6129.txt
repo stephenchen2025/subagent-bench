@@ -1,0 +1,12 @@
+Ledger page P-6129
+
+account      amount   see page
+Abbott         -865   P-4590
+Nakamura       -754   P-3219
+Osei            -44   P-5238
+Quinn          +256   P-2565
+Eriksen        -771   P-5456
+Hughes         +435   P-3948
+Young          +822   P-3776
+
+Follow the debit belonging to the account that comes last alphabetically.

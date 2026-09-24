@@ -1,0 +1,10 @@
+Ledger page P-4719
+
+account      amount   see page
+Baker          -415   P-2523
+Ibarra         -434   P-1803
+Nakamura       +885   P-4644
+Grant          -495   P-8497
+Jensen         +291   P-2558
+
+Follow the credit belonging to the account that comes first alphabetically.

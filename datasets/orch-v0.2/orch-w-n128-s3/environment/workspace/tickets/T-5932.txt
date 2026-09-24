@@ -1,0 +1,69 @@
+Ticket T-5932
+Customer: Elena Petrova
+Orders on file: ORD-71691, ORD-29629, ORD-40927, ORD-84814
+Opened: 2026-03-27 via web form
+
+Order details:
+ORD-71691  placed 2026-02-16  status: returned  total: $372.47
+  payment method: card ending 5417  ship to: 954 Elm Rd
+  - bike light set x1
+  - extended warranty, 2 years x1
+  - gift wrap x1
+ORD-29629  placed 2026-01-18  status: returned  total: $368.74
+  payment method: card ending 5185  ship to: 688 Cedar Ave
+  - carry-on suitcase x1
+  - microfiber cloth x1
+  - spare battery pack x2
+ORD-40927  placed 2026-08-14  status: delivered  total: $253.68
+  payment method: card ending 9923  ship to: 834 Mill Rd
+  - blender x1
+  - travel pouch x1
+  - stainless water bottle, 750ml x1
+  - gift wrap x3
+  - extended warranty, 2 years x3
+ORD-84814  placed 2026-05-27  status: label created  total: $363.20
+  payment method: card ending 3426  ship to: 173 Mill Rd
+  - rain jacket x1
+  - spare battery pack x3
+  - microfiber cloth x1
+  - extended warranty, 2 years x3
+
+--- message 1 from Elena Petrova ---
+I'd like to return the wool blanket from ORD-71691; it's the wrong size. I've been a customer for a few years and usually everything goes smoothly. My earlier order ORD-29629 arrived fine, no complaints there. I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Elena Petrova
+
+--- message 2 from Rosa (support) ---
+Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-40927 left on schedule. If you need an invoice for ORD-29629, you can download it from the Orders page. I can see all the orders on your account, including ORD-71691.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Elena Petrova ---
+Could you also tell me whether ORD-71691 qualifies for the extended return window? I've been a customer for a few years and usually everything goes smoothly. I'm travelling next week, so email is the best way to reach me. The bike light set itself is great, for what it's worth.
+
+Best regards,
+Elena Petrova
+
+--- message 4 from Rosa (support) ---
+Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering. For ORD-40927, the return window is 30 days from delivery. I've updated your shipping address on file.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Elena Petrova ---
+Tracking for ORD-71691 hasn't updated since Tuesday. My partner placed ORD-71691 on our shared account, in case that matters. I'd rather not call; the hold times last time were very long. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Elena Petrova
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Rosa (support) ---
+I've resent the confirmation email for ORD-29629 to the address on file. Tracking updates can lag by a day or two with this carrier. I can see all the orders on your account, including ORD-40927. For ORD-29629, the return window is 30 days from delivery.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,10 @@
+Ledger page P-7347
+
+account      amount   see page
+Rahman         -127   P-7262
+Jensen         -262   P-5456
+Park           +347   P-7729
+Young           +23   P-9932
+Vance          +158   P-9481
+
+Follow the entry with the largest debit (the most negative amount).

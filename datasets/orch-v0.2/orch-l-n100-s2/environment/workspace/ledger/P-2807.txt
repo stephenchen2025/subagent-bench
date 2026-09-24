@@ -1,0 +1,12 @@
+Ledger page P-2807
+
+account      amount   see page
+Dunn           -123   P-8298
+Kowalski       -664   P-7996
+Lambert        +440   P-7657
+Park           -117   P-9546
+Castillo       -316   P-9847
+Eriksen         +27   P-8439
+Quinn          +765   P-6530
+
+Follow the entry with the largest credit.

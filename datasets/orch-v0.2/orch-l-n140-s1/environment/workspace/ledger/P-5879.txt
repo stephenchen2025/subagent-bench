@@ -1,0 +1,12 @@
+Ledger page P-5879
+
+account      amount   see page
+Park           +444   P-5140
+Hughes         -753   P-1092
+Dunn           -384   P-8753
+Moreau         -870   P-9655
+Xu             +446   P-6037
+Castillo       +296   P-2763
+Young          +853   P-3635
+
+Follow the entry with the largest credit.

@@ -1,0 +1,11 @@
+Ledger page P-6511
+
+account      amount   see page
+Park            -50   P-9366
+Osei           -602   P-8937
+Nakamura       +783   P-8942
+Lambert        +397   P-6883
+Weber          +507   P-7705
+Grant          -784   P-9983
+
+Follow the entry with the second-largest amount.

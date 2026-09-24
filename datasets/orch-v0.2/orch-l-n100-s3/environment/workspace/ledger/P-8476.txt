@@ -1,0 +1,11 @@
+Ledger page P-8476
+
+account      amount   see page
+Umar           +483   P-1371
+Rahman         -185   P-1605
+Jensen         -392   P-7282
+Osei            -89   P-7729
+Castillo       +509   P-7663
+Baker          -613   P-7404
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,11 @@
+Ledger page P-3751
+
+account      amount   see page
+Eriksen        +885   P-9054
+Zhou           +149   P-8892
+Weber          +440   P-5209
+Silva          -882   P-9048
+Fofana         -626   P-6184
+Xu              +83   P-8911
+
+Follow the entry whose amount is closest to zero.

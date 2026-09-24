@@ -1,0 +1,82 @@
+Ticket T-3203
+Customer: Leila Haddad
+Orders on file: ORD-24995, ORD-78828, ORD-44281, ORD-59723
+Opened: 2026-08-07 via web form
+
+Order details:
+ORD-24995  placed 2026-02-26  status: delivered  total: $475.49
+  payment method: card ending 9509  ship to: 371 Oak Lane
+  - camping stove x1
+  - stainless water bottle, 750ml x2
+  - merino socks, size M x1
+  - microfiber cloth x3
+ORD-78828  placed 2026-07-02  status: in transit  total: $155.23
+  payment method: card ending 8249  ship to: 311 Cedar Lane
+  - yoga mat x1
+  - USB-C charging cable (2m) x1
+  - travel pouch x2
+ORD-44281  placed 2026-02-25  status: delivered  total: $67.54
+  payment method: card ending 3116  ship to: 901 Elm St
+  - camping stove x1
+  - merino socks, size M x2
+  - stainless water bottle, 750ml x3
+ORD-59723  placed 2026-06-20  status: in transit  total: $55.65
+  payment method: card ending 6053  ship to: 574 Oak Ave
+  - bike light set x1
+  - carabiner set x1
+  - travel pouch x1
+  - gift wrap x1
+
+--- message 1 from Leila Haddad ---
+The standing desk from ORD-44281 arrived with a scratch on the side. Can I get a replacement? Your app logged me out twice while I was looking at this, which didn't help. I've been a customer for a few years and usually everything goes smoothly. My partner placed ORD-78828 on our shared account, in case that matters.
+
+Best regards,
+Leila Haddad
+
+--- message 2 from Pete (support) ---
+For ORD-24995, the return window is 30 days from delivery. Let me know if anything else looks off. Tracking updates can lag by a day or two with this carrier. If you need an invoice for ORD-24995, you can download it from the Orders page.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Leila Haddad ---
+ORD-59723 shows up once in my order history, but the card app shows it paid for on two separate lines. Is there a way to combine loyalty points from ORD-44281 with my next purchase? The box for ORD-24995 was a bit crushed but the contents were fine.
+
+Leila Haddad
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Pete (support) ---
+Confirmed on our side -- ORD-59723 was captured twice by a retry in our checkout. One refund of $20.26 is on its way to you. Our warehouse shows ORD-44281 left on schedule. I've resent the confirmation email for ORD-44281 to the address on file.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Leila Haddad ---
+I changed my shipping address last month, so please double-check you have the new one. My earlier order ORD-78828 arrived fine, no complaints there. My partner placed ORD-44281 on our shared account, in case that matters. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Leila Haddad
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Pete (support) ---
+Loyalty points post about a week after an order is delivered. Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-44281 to the address on file. I've added a note to your account so the next agent has the context.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Leila Haddad ---
+My earlier order ORD-78828 arrived fine, no complaints there. The confirmation email for ORD-24995 went to my spam folder, so I only just saw it. I tried the chat widget first but it kept disconnecting. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Leila Haddad
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Pete (support) ---
+I've updated your shipping address on file. I've added a note to your account so the next agent has the context. Let me know if anything else looks off. I can see all the orders on your account, including ORD-78828.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

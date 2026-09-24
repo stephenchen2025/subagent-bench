@@ -1,0 +1,12 @@
+Ledger page P-7635
+
+account      amount   see page
+Young           -58   P-2277
+Quinn          -665   P-7400
+Moreau         +290   P-1253
+Fofana         -350   P-1648
+Abbott         -376   P-1855
+Rahman         +135   P-4371
+Jensen         -215   P-1330
+
+Follow the debit belonging to the account that comes last alphabetically.

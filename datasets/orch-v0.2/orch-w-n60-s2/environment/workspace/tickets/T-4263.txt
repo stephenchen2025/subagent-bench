@@ -1,0 +1,80 @@
+Ticket T-4263
+Customer: Felix Wagner
+Orders on file: ORD-59125, ORD-18582, ORD-78424, ORD-83597
+Opened: 2026-04-27 via web form
+
+Order details:
+ORD-59125  placed 2026-02-11  status: label created  total: $296.74
+  payment method: card ending 8606  ship to: 256 Cedar Lane
+  - standing desk x1
+  - merino socks, size M x2
+  - USB-C charging cable (2m) x3
+  - extended warranty, 2 years x1
+  - spare battery pack x1
+ORD-18582  placed 2026-07-07  status: label created  total: $217.71
+  payment method: card ending 7299  ship to: 822 Elm Rd
+  - blender x1
+  - replacement filter cartridge, 3-pack x3
+  - carabiner set x3
+  - USB-C charging cable (2m) x3
+  - microfiber cloth x3
+ORD-78424  placed 2026-07-08  status: returned  total: $72.74
+  payment method: card ending 5138  ship to: 143 Harbor Rd
+  - noise-cancelling headphones x1
+  - microfiber cloth x1
+  - extended warranty, 2 years x3
+  - gift wrap x3
+ORD-83597  placed 2026-06-26  status: delivered  total: $394.92
+  payment method: card ending 9447  ship to: 774 Mill Lane
+  - bike light set x1
+  - merino socks, size M x2
+  - gift wrap x1
+  - spare battery pack x3
+  - microfiber cloth x3
+
+--- message 1 from Felix Wagner ---
+The trail running shoes from ORD-18582 arrived with a scratch on the side. Can I get a replacement? The box for ORD-83597 was a bit crushed but the contents were fine. My partner placed ORD-18582 on our shared account, in case that matters. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Felix Wagner
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Marcus (support) ---
+For ORD-59125, the return window is 30 days from delivery. I've resent the confirmation email for ORD-83597 to the address on file. Screenshots aren't necessary, but thank you for offering. I've updated your shipping address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Felix Wagner ---
+The $480.39 for ORD-78424 came out of my account, and then the same $480.39 came out again the next morning. I've been a customer for a few years and usually everything goes smoothly. The mechanical keyboard itself is great, for what it's worth.
+
+Felix Wagner
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Marcus (support) ---
+Our warehouse shows ORD-59125 left on schedule. I've added a note to your account so the next agent has the context. I can see all the orders on your account, including ORD-18582.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Marcus (support) ---
+I've checked with our payments team: both captures for ORD-78424 settled, so you were genuinely charged twice. I've issued a refund for the second one; it should show within 3-5 business days. I can see all the orders on your account, including ORD-59125. I've resent the confirmation email for ORD-83597 to the address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Felix Wagner ---
+Tracking for ORD-18582 hasn't updated since Tuesday. Your app logged me out twice while I was looking at this, which didn't help. My earlier order ORD-18582 arrived fine, no complaints there. The box for ORD-83597 was a bit crushed but the contents were fine.
+
+Felix Wagner
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Marcus (support) ---
+I've updated your shipping address on file. Let me know if anything else looks off. Our warehouse shows ORD-59125 left on schedule. I've resent the confirmation email for ORD-83597 to the address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,11 @@
+Ledger page P-5751
+
+account      amount   see page
+Young          +512   P-8010
+Moreau         -768   P-7086
+Vance          -413   P-6145
+Lambert        +896   P-9669
+Osei           +491   P-2994
+Abbott         -657   P-9983
+
+Follow the entry whose amount is closest to zero.

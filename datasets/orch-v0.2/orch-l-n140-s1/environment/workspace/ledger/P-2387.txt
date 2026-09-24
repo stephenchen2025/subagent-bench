@@ -1,0 +1,12 @@
+Ledger page P-2387
+
+account      amount   see page
+Eriksen        -812   P-3087
+Umar           -355   P-4115
+Moreau         +110   P-8784
+Fofana         +268   P-9774
+Osei           -538   P-5067
+Grant          -893   P-4589
+Castillo       -834   P-7148
+
+Follow the debit belonging to the account that comes last alphabetically.

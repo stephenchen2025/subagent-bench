@@ -1,0 +1,10 @@
+Ledger page P-3102
+
+account      amount   see page
+Castillo        -33   P-3510
+Abbott          -88   P-4906
+Tanaka         +468   P-8706
+Nakamura       -705   P-7946
+Moreau         +149   P-3849
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,10 @@
+Ledger page P-3768
+
+account      amount   see page
+Baker          +397   P-5520
+Zhou           +335   P-4194
+Weber           +51   P-4962
+Osei           -280   P-9836
+Umar           -322   P-4826
+
+Follow the entry whose amount is closest to zero.

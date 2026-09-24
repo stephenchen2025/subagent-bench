@@ -1,0 +1,10 @@
+Ledger page P-8959
+
+account      amount   see page
+Ibarra         +706   P-4342
+Castillo       -573   P-8207
+Dunn           -534   P-9790
+Vance          +780   P-2355
+Silva          +461   P-8755
+
+Follow the entry whose amount is closest to zero.

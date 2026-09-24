@@ -1,0 +1,11 @@
+Ledger page P-4316
+
+account      amount   see page
+Vance          -150   P-6836
+Fofana         -569   P-5157
+Young          -820   P-3548
+Quinn          -435   P-4944
+Grant          -878   P-1730
+Jensen         +604   P-8473
+
+Follow the entry with the second-largest amount.

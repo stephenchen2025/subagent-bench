@@ -1,0 +1,91 @@
+Ticket T-9135
+Customer: Ben Carter
+Orders on file: ORD-91504, ORD-43192, ORD-51165, ORD-30780
+Opened: 2026-02-26 via chat transcript
+
+Order details:
+ORD-91504  placed 2026-07-04  status: returned  total: $175.88
+  payment method: card ending 9018  ship to: 170 Harbor St
+  - blender x1
+  - replacement filter cartridge, 3-pack x3
+  - spare battery pack x2
+ORD-43192  placed 2026-08-05  status: returned  total: $204.29
+  payment method: card ending 8595  ship to: 408 Mill Ave
+  - espresso grinder x1
+  - USB-C charging cable (2m) x1
+  - gift wrap x1
+  - carabiner set x2
+ORD-51165  placed 2026-07-23  status: label created  total: $219.59
+  payment method: card ending 3703  ship to: 255 Mill Rd
+  - mechanical keyboard x1
+  - replacement filter cartridge, 3-pack x3
+  - microfiber cloth x3
+  - gift wrap x3
+ORD-30780  placed 2026-02-27  status: returned  total: $350.06
+  payment method: card ending 3029  ship to: 488 Harbor Lane
+  - standing desk x1
+  - microfiber cloth x2
+  - extended warranty, 2 years x1
+  - USB-C charging cable (2m) x2
+  - travel pouch x1
+
+--- message 1 from Ben Carter ---
+Where is my refund for ORD-51165? You said 5 days and it has been 8. I've been a customer for a few years and usually everything goes smoothly. I'm travelling next week, so email is the best way to reach me. Tracking for ORD-43192 hasn't updated since Tuesday.
+
+Thanks,
+Ben Carter
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Rosa (support) ---
+I've resent the confirmation email for ORD-30780 to the address on file. For ORD-30780, the return window is 30 days from delivery. Let me know if anything else looks off. Tracking updates can lag by a day or two with this carrier.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ben Carter ---
+There's an extra line for ORD-91504 on my credit union. It could just be a hold -- can you check? I tried the chat widget first but it kept disconnecting. My earlier order ORD-51165 arrived fine, no complaints there.
+
+Thanks,
+Ben Carter
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Ben Carter ---
+Just checked again -- both charges for ORD-91504 are settled now, not pending. The box for ORD-51165 was a bit crushed but the contents were fine. I tried the chat widget first but it kept disconnecting.
+
+Ben Carter
+(Please reply by email rather than phone if possible.)
+
+--- message 5 from Rosa (support) ---
+I've updated your shipping address on file. I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Rosa (support) ---
+I've checked with our payments team: both captures for ORD-91504 settled, so you were genuinely charged twice. I've issued a refund for the second one; it should show within 3-5 business days. Our warehouse shows ORD-30780 left on schedule. For ORD-51165, the return window is 30 days from delivery.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Ben Carter ---
+My earlier order ORD-30780 arrived fine, no complaints there. Is there a way to combine loyalty points from ORD-30780 with my next purchase? I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Ben Carter
+
+--- message 8 from Ben Carter ---
+I'm travelling next week, so email is the best way to reach me. I'm happy to send screenshots if that helps. I'd rather not call; the hold times last time were very long. Tracking for ORD-43192 hasn't updated since Tuesday.
+
+Thanks,
+Ben Carter
+Sent from my phone -- please excuse typos.
+
+--- message 9 from Rosa (support) ---
+Tracking updates can lag by a day or two with this carrier. I've resent the confirmation email for ORD-43192 to the address on file. Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

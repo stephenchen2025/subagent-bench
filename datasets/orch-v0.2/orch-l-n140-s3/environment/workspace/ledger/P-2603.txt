@@ -1,0 +1,10 @@
+Ledger page P-2603
+
+account      amount   see page
+Rahman         +145   P-8887
+Vance          -443   P-2917
+Grant          -885   P-6546
+Fofana         -151   P-5247
+Dunn           +783   P-7436
+
+Follow the entry whose amount is closest to zero.

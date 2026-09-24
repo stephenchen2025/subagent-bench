@@ -1,0 +1,10 @@
+Ledger page P-4886
+
+account      amount   see page
+Eriksen        +645   P-1080
+Moreau          -18   P-8273
+Park           -256   P-2923
+Castillo       +463   P-4309
+Baker          +854   P-3264
+
+Follow the entry with the largest credit.

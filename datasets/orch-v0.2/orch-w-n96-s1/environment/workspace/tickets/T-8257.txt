@@ -1,0 +1,58 @@
+Ticket T-8257
+Customer: Grace Mwangi
+Orders on file: ORD-36626, ORD-54616, ORD-25741, ORD-91453
+Opened: 2026-03-02 via web form
+
+Order details:
+ORD-36626  placed 2026-02-02  status: in transit  total: $50.99
+  payment method: card ending 3467  ship to: 297 Harbor Lane
+  - blender x1
+  - replacement filter cartridge, 3-pack x1
+  - spare battery pack x1
+  - extended warranty, 2 years x1
+  - microfiber cloth x3
+ORD-54616  placed 2026-04-11  status: delivered  total: $101.49
+  payment method: card ending 6283  ship to: 701 Elm Rd
+  - trail running shoes x1
+  - spare battery pack x3
+  - stainless water bottle, 750ml x2
+  - microfiber cloth x1
+ORD-25741  placed 2026-05-27  status: label created  total: $410.16
+  payment method: card ending 6199  ship to: 794 Mill Rd
+  - standing desk x1
+  - replacement filter cartridge, 3-pack x3
+  - merino socks, size M x2
+  - USB-C charging cable (2m) x2
+  - spare battery pack x3
+ORD-91453  placed 2026-04-27  status: label created  total: $349.81
+  payment method: card ending 2570  ship to: 170 Elm Ave
+  - camping stove x1
+  - USB-C charging cable (2m) x1
+  - carabiner set x3
+  - extended warranty, 2 years x1
+
+--- message 1 from Grace Mwangi ---
+I'd like to return the blender from ORD-36626; it's the wrong size. I'd rather not call; the hold times last time were very long. The box for ORD-25741 was a bit crushed but the contents were fine. I'm happy to send screenshots if that helps.
+
+Best regards,
+Grace Mwangi
+
+--- message 2 from Rosa (support) ---
+I can see all the orders on your account, including ORD-54616. Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-36626, you can download it from the Orders page. I've updated your shipping address on file.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Grace Mwangi ---
+Your app logged me out twice while I was looking at this, which didn't help. My partner placed ORD-36626 on our shared account, in case that matters. I changed my shipping address last month, so please double-check you have the new one. The wool blanket itself is great, for what it's worth.
+
+Grace Mwangi
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Rosa (support) ---
+I've updated your shipping address on file. Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-25741 left on schedule. Thanks for reaching out, and sorry for the trouble.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

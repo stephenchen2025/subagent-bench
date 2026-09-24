@@ -1,0 +1,82 @@
+Ticket T-6877
+Customer: Liam O'Neill
+Orders on file: ORD-75029, ORD-64421, ORD-61315, ORD-29592
+Opened: 2026-08-26 via chat transcript
+
+Order details:
+ORD-75029  placed 2026-02-08  status: delivered  total: $240.43
+  payment method: card ending 8292  ship to: 706 Mill Lane
+  - cast iron skillet x1
+  - USB-C charging cable (2m) x2
+  - merino socks, size M x3
+  - travel pouch x3
+ORD-64421  placed 2026-05-28  status: returned  total: $133.41
+  payment method: card ending 2328  ship to: 725 Elm St
+  - water filter pitcher x1
+  - stainless water bottle, 750ml x2
+  - gift wrap x2
+  - merino socks, size M x2
+ORD-61315  placed 2026-01-18  status: delivered  total: $395.59
+  payment method: card ending 7241  ship to: 256 Harbor St
+  - mechanical keyboard x1
+  - microfiber cloth x1
+  - gift wrap x1
+ORD-29592  placed 2026-07-28  status: in transit  total: $354.37
+  payment method: card ending 1745  ship to: 226 Oak Lane
+  - bike light set x1
+  - microfiber cloth x1
+  - extended warranty, 2 years x3
+
+--- message 1 from Liam O'Neill ---
+I'd like to return the bike light set from ORD-29592; it's the wrong size. I'm happy to send screenshots if that helps. I've been a customer for a few years and usually everything goes smoothly. I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Liam O'Neill
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Dana (support) ---
+I've resent the confirmation email for ORD-29592 to the address on file. I can see all the orders on your account, including ORD-64421. For ORD-64421, the return window is 30 days from delivery. Loyalty points post about a week after an order is delivered.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Liam O'Neill ---
+I see two charges on my credit union this week, one for ORD-61315 and one for ORD-29592. Both are correct -- I ordered twice on purpose -- but could you send me the invoices for my expense report? I'd rather not call; the hold times last time were very long. Could you also tell me whether ORD-75029 qualifies for the extended return window?
+
+Liam O'Neill
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Dana (support) ---
+I've resent the confirmation email for ORD-75029 to the address on file. Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-64421 left on schedule.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Liam O'Neill ---
+I'd rather not call; the hold times last time were very long. My earlier order ORD-64421 arrived fine, no complaints there. Tracking for ORD-64421 hasn't updated since Tuesday. I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Liam O'Neill
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Dana (support) ---
+Thanks for reaching out, and sorry for the trouble. For ORD-75029, the return window is 30 days from delivery. I've updated your shipping address on file. I can see all the orders on your account, including ORD-64421.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Liam O'Neill ---
+Is there a way to combine loyalty points from ORD-29592 with my next purchase? I tried the chat widget first but it kept disconnecting. Could you also tell me whether ORD-29592 qualifies for the extended return window? Your app logged me out twice while I was looking at this, which didn't help.
+
+Liam O'Neill
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Dana (support) ---
+I've resent the confirmation email for ORD-29592 to the address on file. Screenshots aren't necessary, but thank you for offering. I've updated your shipping address on file. Tracking updates can lag by a day or two with this carrier.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

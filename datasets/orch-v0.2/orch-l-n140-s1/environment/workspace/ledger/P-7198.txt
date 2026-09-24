@@ -1,0 +1,10 @@
+Ledger page P-7198
+
+account      amount   see page
+Quinn          -219   P-2197
+Abbott         -833   P-9620
+Grant          -216   P-4115
+Weber          +461   P-8479
+Jensen           +5   P-4589
+
+Follow the entry with the largest debit (the most negative amount).

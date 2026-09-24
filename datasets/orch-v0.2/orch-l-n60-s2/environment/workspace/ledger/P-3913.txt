@@ -1,0 +1,12 @@
+Ledger page P-3913
+
+account      amount   see page
+Eriksen        +306   P-8493
+Quinn          +109   P-8289
+Abbott          -87   P-6171
+Fofana         +211   P-5322
+Park           -522   P-4918
+Osei           -469   P-7317
+Tanaka         -887   P-8755
+
+Follow the entry with the second-largest amount.

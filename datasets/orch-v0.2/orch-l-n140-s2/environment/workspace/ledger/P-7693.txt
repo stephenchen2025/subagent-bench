@@ -1,0 +1,12 @@
+Ledger page P-7693
+
+account      amount   see page
+Nakamura       +770   P-8043
+Umar           -613   P-5509
+Eriksen        -346   P-5465
+Zhou           -179   P-9140
+Lambert        +507   P-2898
+Osei           +508   P-1649
+Abbott         +748   P-4167
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,10 @@
+Ledger page P-6954
+
+account      amount   see page
+Lambert        +511   P-9213
+Nakamura       -508   P-6289
+Xu             +517   P-6234
+Hughes         -118   P-8194
+Ibarra         +573   P-9169
+
+Follow the entry with the second-largest amount.

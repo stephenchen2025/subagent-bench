@@ -1,0 +1,12 @@
+Ledger page P-7987
+
+account      amount   see page
+Tanaka         -413   P-8115
+Castillo       +669   P-6406
+Baker           +96   P-6873
+Silva          -455   P-1851
+Dunn           +127   P-7384
+Moreau         +383   P-1837
+Hughes          +42   P-8020
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,10 @@
+Ledger page P-6140
+
+account      amount   see page
+Kowalski       +485   P-8845
+Young          +352   P-3677
+Lambert        +260   P-1999
+Jensen         +667   P-2941
+Ibarra         -671   P-1634
+
+Follow the entry with the second-largest amount.

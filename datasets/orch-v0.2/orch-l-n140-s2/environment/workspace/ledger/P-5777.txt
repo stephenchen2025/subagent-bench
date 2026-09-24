@@ -1,0 +1,10 @@
+Ledger page P-5777
+
+account      amount   see page
+Baker          -627   P-5493
+Weber          -752   P-5720
+Rahman         +394   P-5751
+Zhou           -280   P-4105
+Eriksen        -726   P-7488
+
+Follow the entry with the second-largest amount.

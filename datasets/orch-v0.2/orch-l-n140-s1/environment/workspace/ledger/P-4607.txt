@@ -1,0 +1,10 @@
+Ledger page P-4607
+
+account      amount   see page
+Kowalski       +288   P-7257
+Castillo         +7   P-4603
+Silva          -477   P-3392
+Nakamura       -854   P-7863
+Jensen         +808   P-7835
+
+Follow the debit belonging to the account that comes last alphabetically.

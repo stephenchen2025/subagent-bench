@@ -1,0 +1,12 @@
+Ledger page P-7912
+
+account      amount   see page
+Xu              -67   P-5226
+Young          +201   P-2361
+Rahman          -39   P-8643
+Umar           -343   P-1117
+Fofana         +792   P-5143
+Hughes         -828   P-2083
+Grant          -688   P-7556
+
+Follow the entry with the largest debit (the most negative amount).

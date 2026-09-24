@@ -1,0 +1,73 @@
+Ticket T-3513
+Customer: Maya Cohen
+Orders on file: ORD-80308, ORD-91247, ORD-40508, ORD-81253
+Opened: 2026-07-22 via email
+
+Order details:
+ORD-80308  placed 2026-03-21  status: in transit  total: $480.26
+  payment method: card ending 2861  ship to: 512 Mill St
+  - trail running shoes x1
+  - carabiner set x2
+  - stainless water bottle, 750ml x2
+  - extended warranty, 2 years x2
+ORD-91247  placed 2026-07-22  status: returned  total: $27.76
+  payment method: card ending 2019  ship to: 408 Elm Lane
+  - wool blanket x1
+  - USB-C charging cable (2m) x2
+  - travel pouch x1
+  - carabiner set x2
+  - extended warranty, 2 years x2
+ORD-40508  placed 2026-04-19  status: label created  total: $340.23
+  payment method: card ending 7435  ship to: 963 Elm St
+  - trail running shoes x1
+  - microfiber cloth x3
+  - gift wrap x2
+  - spare battery pack x2
+  - replacement filter cartridge, 3-pack x1
+ORD-81253  placed 2026-04-24  status: delivered  total: $437.13
+  payment method: card ending 2273  ship to: 526 Harbor Lane
+  - mechanical keyboard x1
+  - spare battery pack x1
+  - USB-C charging cable (2m) x3
+  - gift wrap x3
+  - carabiner set x2
+
+--- message 1 from Maya Cohen ---
+How do I reset my password? The reset link keeps expiring. Your app logged me out twice while I was looking at this, which didn't help. My partner placed ORD-91247 on our shared account, in case that matters. The confirmation email for ORD-40508 went to my spam folder, so I only just saw it.
+
+Thanks,
+Maya Cohen
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Luis (support) ---
+Screenshots aren't necessary, but thank you for offering. I've added a note to your account so the next agent has the context. I've updated your shipping address on file. Let me know if anything else looks off.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Maya Cohen ---
+I'd rather not call; the hold times last time were very long. I've been a customer for a few years and usually everything goes smoothly. The confirmation email for ORD-91247 went to my spam folder, so I only just saw it. My earlier order ORD-91247 arrived fine, no complaints there.
+
+Best regards,
+Maya Cohen
+
+--- message 4 from Luis (support) ---
+Our warehouse shows ORD-80308 left on schedule. Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context. Let me know if anything else looks off.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Maya Cohen ---
+Tracking for ORD-40508 hasn't updated since Tuesday. I changed my shipping address last month, so please double-check you have the new one. Your app logged me out twice while I was looking at this, which didn't help. My earlier order ORD-80308 arrived fine, no complaints there.
+
+Maya Cohen
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Luis (support) ---
+Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context. For ORD-91247, the return window is 30 days from delivery.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

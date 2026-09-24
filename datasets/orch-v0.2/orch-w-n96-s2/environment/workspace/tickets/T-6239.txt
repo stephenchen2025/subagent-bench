@@ -1,0 +1,90 @@
+Ticket T-6239
+Customer: Tomas Novak
+Orders on file: ORD-81003, ORD-43721, ORD-72115, ORD-27769
+Opened: 2026-01-25 via chat transcript
+
+Order details:
+ORD-81003  placed 2026-01-01  status: returned  total: $413.93
+  payment method: card ending 5625  ship to: 519 Harbor Lane
+  - mechanical keyboard x1
+  - stainless water bottle, 750ml x3
+  - spare battery pack x3
+  - gift wrap x2
+  - travel pouch x3
+ORD-43721  placed 2026-02-24  status: delivered  total: $241.48
+  payment method: card ending 5170  ship to: 623 Elm Lane
+  - mechanical keyboard x1
+  - spare battery pack x2
+  - USB-C charging cable (2m) x2
+ORD-72115  placed 2026-06-05  status: returned  total: $97.85
+  payment method: card ending 7541  ship to: 531 Harbor Lane
+  - noise-cancelling headphones x1
+  - extended warranty, 2 years x1
+  - replacement filter cartridge, 3-pack x1
+  - microfiber cloth x3
+ORD-27769  placed 2026-04-08  status: delivered  total: $42.12
+  payment method: card ending 4192  ship to: 700 Cedar Rd
+  - camping stove x1
+  - spare battery pack x2
+  - travel pouch x3
+  - USB-C charging cable (2m) x3
+
+--- message 1 from Tomas Novak ---
+I'd like to return the espresso grinder from ORD-43721; it's the wrong size. My partner placed ORD-72115 on our shared account, in case that matters. I tried the chat widget first but it kept disconnecting. Is there a way to combine loyalty points from ORD-72115 with my next purchase?
+
+Thanks,
+Tomas Novak
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Luis (support) ---
+Screenshots aren't necessary, but thank you for offering. Our warehouse shows ORD-43721 left on schedule. Tracking updates can lag by a day or two with this carrier. Thanks for reaching out, and sorry for the trouble.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Tomas Novak ---
+The checkout page for ORD-81003 timed out. If I try to pay again, will I end up being charged twice? The confirmation email for ORD-43721 went to my spam folder, so I only just saw it. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Tomas Novak
+
+--- message 4 from Luis (support) ---
+No, you won't be charged twice: the first attempt for ORD-81003 failed before capture, so retrying is safe. Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-27769 left on schedule.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Tomas Novak ---
+Your app logged me out twice while I was looking at this, which didn't help. I'd rather not call; the hold times last time were very long. The confirmation email for ORD-27769 went to my spam folder, so I only just saw it.
+
+Tomas Novak
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Tomas Novak ---
+My earlier order ORD-72115 arrived fine, no complaints there. I've been a customer for a few years and usually everything goes smoothly. Is there a way to combine loyalty points from ORD-72115 with my next purchase? I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Tomas Novak
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Luis (support) ---
+I can see all the orders on your account, including ORD-43721. If you need an invoice for ORD-43721, you can download it from the Orders page. Let me know if anything else looks off. I've updated your shipping address on file.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Tomas Novak ---
+I changed my shipping address last month, so please double-check you have the new one. My partner placed ORD-43721 on our shared account, in case that matters. Tracking for ORD-43721 hasn't updated since Tuesday. Your app logged me out twice while I was looking at this, which didn't help.
+
+Best regards,
+Tomas Novak
+
+--- message 9 from Luis (support) ---
+For ORD-72115, the return window is 30 days from delivery. Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-27769 to the address on file. Tracking updates can lag by a day or two with this carrier.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

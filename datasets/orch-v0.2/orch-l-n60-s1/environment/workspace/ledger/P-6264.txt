@@ -1,0 +1,12 @@
+Ledger page P-6264
+
+account      amount   see page
+Abbott         +743   P-2146
+Xu             +442   P-8674
+Tanaka         +587   P-3494
+Park           -576   P-3493
+Lambert         -73   P-4738
+Young          -394   P-9882
+Umar             +3   P-9689
+
+Follow the debit belonging to the account that comes last alphabetically.

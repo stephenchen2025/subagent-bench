@@ -1,0 +1,10 @@
+Ledger page P-2238
+
+account      amount   see page
+Baker          +778   P-9137
+Hughes         -519   P-9588
+Tanaka         -553   P-9359
+Rahman         +157   P-5307
+Nakamura       -802   P-6758
+
+Follow the entry with the largest debit (the most negative amount).

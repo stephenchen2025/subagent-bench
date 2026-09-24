@@ -1,0 +1,12 @@
+Ledger page P-8815
+
+account      amount   see page
+Nakamura       +103   P-9077
+Vance          +419   P-7865
+Baker          +426   P-4479
+Park           -181   P-3680
+Ibarra         +529   P-8954
+Osei           -584   P-8884
+Fofana         -812   P-9617
+
+Follow the debit belonging to the account that comes last alphabetically.

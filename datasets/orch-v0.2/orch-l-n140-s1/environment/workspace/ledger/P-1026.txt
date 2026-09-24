@@ -1,0 +1,10 @@
+Ledger page P-1026
+
+account      amount   see page
+Moreau         +641   P-2429
+Jensen         -493   P-8046
+Zhou           -462   P-5807
+Ibarra          -58   P-9834
+Hughes         +843   P-8772
+
+Follow the debit belonging to the account that comes last alphabetically.

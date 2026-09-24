@@ -1,0 +1,12 @@
+Ledger page P-5782
+
+account      amount   see page
+Silva          +410   P-1469
+Lambert        -569   P-9627
+Park           -249   P-3607
+Quinn          +648   P-3049
+Hughes         +637   P-3012
+Ibarra         +119   P-9932
+Kowalski        -23   P-8018
+
+Follow the entry with the largest credit.

@@ -1,0 +1,12 @@
+Ledger page P-9213
+
+account      amount   see page
+Young          -854   P-9420
+Ibarra         +246   P-5456
+Xu             -597   P-7685
+Baker          -280   P-6194
+Park           -838   P-6289
+Hughes         -161   P-6954
+Eriksen        -276   P-1695
+
+Follow the entry with the largest credit.

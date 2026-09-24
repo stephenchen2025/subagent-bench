@@ -1,0 +1,99 @@
+Ticket T-1429
+Customer: Noah Fischer
+Orders on file: ORD-39508, ORD-95444, ORD-17279, ORD-73732
+Opened: 2026-02-18 via email
+
+Order details:
+ORD-39508  placed 2026-05-25  status: label created  total: $372.66
+  payment method: card ending 8776  ship to: 323 Mill Ave
+  - bike light set x1
+  - replacement filter cartridge, 3-pack x1
+  - USB-C charging cable (2m) x1
+  - merino socks, size M x3
+ORD-95444  placed 2026-06-06  status: delivered  total: $247.03
+  payment method: card ending 2898  ship to: 480 Harbor Ave
+  - yoga mat x1
+  - extended warranty, 2 years x1
+  - gift wrap x2
+ORD-17279  placed 2026-04-23  status: returned  total: $477.02
+  payment method: card ending 4312  ship to: 323 Harbor Rd
+  - desk lamp x1
+  - USB-C charging cable (2m) x3
+  - replacement filter cartridge, 3-pack x3
+  - carabiner set x3
+ORD-73732  placed 2026-01-18  status: in transit  total: $427.27
+  payment method: card ending 8976  ship to: 60 Harbor Lane
+  - blender x1
+  - travel pouch x3
+  - extended warranty, 2 years x2
+  - gift wrap x1
+  - microfiber cloth x1
+
+--- message 1 from Noah Fischer ---
+I'd like to return the bike light set from ORD-95444; it's the wrong size. I'm travelling next week, so email is the best way to reach me. I'm happy to send screenshots if that helps. I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Keiko (support) ---
+For ORD-95444, the return window is 30 days from delivery. I've resent the confirmation email for ORD-95444 to the address on file. I've updated your shipping address on file. Tracking updates can lag by a day or two with this carrier.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Noah Fischer ---
+I think I might have been charged twice for ORD-39508, but one of the lines on my online banking still says pending, so I'm not sure yet. Tracking for ORD-73732 hasn't updated since Tuesday. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Noah Fischer ---
+Update: the second line has now posted, it's no longer pending. So both payments for ORD-39508 actually went through. The cast iron skillet itself is great, for what it's worth. My earlier order ORD-95444 arrived fine, no complaints there.
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 5 from Keiko (support) ---
+Loyalty points post about a week after an order is delivered. Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Keiko (support) ---
+I've checked with our payments team: both captures for ORD-39508 settled, so you were genuinely charged twice. I've issued a refund for the second one; it should show within 3-5 business days. I've added a note to your account so the next agent has the context. Thanks for reaching out, and sorry for the trouble.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Noah Fischer ---
+I'm happy to send screenshots if that helps. I changed my shipping address last month, so please double-check you have the new one. My earlier order ORD-17279 arrived fine, no complaints there. I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Keiko (support) ---
+Let me know if anything else looks off. I've updated your shipping address on file. Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-73732 to the address on file.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Noah Fischer ---
+The confirmation email for ORD-73732 went to my spam folder, so I only just saw it. Your app logged me out twice while I was looking at this, which didn't help. Tracking for ORD-73732 hasn't updated since Tuesday. My partner placed ORD-73732 on our shared account, in case that matters.
+
+Best regards,
+Noah Fischer
+
+--- message 10 from Keiko (support) ---
+I've updated your shipping address on file. Screenshots aren't necessary, but thank you for offering. Let me know if anything else looks off. For ORD-73732, the return window is 30 days from delivery.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

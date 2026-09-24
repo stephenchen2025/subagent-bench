@@ -1,0 +1,101 @@
+Ticket T-9450
+Customer: Samir Patel
+Orders on file: ORD-96297, ORD-16296, ORD-76778, ORD-86470
+Opened: 2026-04-06 via chat transcript
+
+Order details:
+ORD-96297  placed 2026-08-03  status: delivered  total: $178.91
+  payment method: card ending 7330  ship to: 205 Cedar St
+  - rain jacket x1
+  - microfiber cloth x2
+  - USB-C charging cable (2m) x3
+  - spare battery pack x2
+ORD-16296  placed 2026-01-01  status: delivered  total: $45.80
+  payment method: card ending 1846  ship to: 652 Cedar St
+  - rain jacket x1
+  - gift wrap x1
+  - spare battery pack x3
+  - replacement filter cartridge, 3-pack x1
+ORD-76778  placed 2026-01-11  status: in transit  total: $467.88
+  payment method: card ending 7987  ship to: 167 Cedar Rd
+  - mechanical keyboard x1
+  - carabiner set x3
+  - spare battery pack x1
+ORD-86470  placed 2026-04-11  status: label created  total: $295.96
+  payment method: card ending 3173  ship to: 874 Elm Lane
+  - wool blanket x1
+  - microfiber cloth x2
+  - stainless water bottle, 750ml x3
+  - USB-C charging cable (2m) x1
+
+--- message 1 from Samir Patel ---
+How do I reset my password? The reset link keeps expiring. Your app logged me out twice while I was looking at this, which didn't help. The box for ORD-16296 was a bit crushed but the contents were fine. The confirmation email for ORD-16296 went to my spam folder, so I only just saw it.
+
+Best regards,
+Samir Patel
+
+--- message 2 from Keiko (support) ---
+If you need an invoice for ORD-96297, you can download it from the Orders page. Let me know if anything else looks off. For ORD-16296, the return window is 30 days from delivery. Thanks for reaching out, and sorry for the trouble.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Samir Patel ---
+I was billed twice for ORD-86470 -- same amount, same day. I'd rather not call; the hold times last time were very long. I've been a customer for a few years and usually everything goes smoothly.
+
+Samir Patel
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Keiko (support) ---
+Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-16296 left on schedule. If you need an invoice for ORD-96297, you can download it from the Orders page.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Keiko (support) ---
+Good news: only one payment for ORD-86470 ever settled. The other entry was a temporary hold and your bank has dropped it. Tracking updates can lag by a day or two with this carrier. Let me know if anything else looks off.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Samir Patel ---
+Oh, you're right -- I checked my statement this morning and the second line is gone. Only one charge. Sorry for the false alarm! Could you also tell me whether ORD-96297 qualifies for the extended return window? I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Samir Patel
+
+--- message 7 from Keiko (support) ---
+I can see all the orders on your account, including ORD-76778. Tracking updates can lag by a day or two with this carrier. If you need an invoice for ORD-76778, you can download it from the Orders page.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Samir Patel ---
+I've been a customer for a few years and usually everything goes smoothly. Is there a way to combine loyalty points from ORD-76778 with my next purchase? My partner placed ORD-76778 on our shared account, in case that matters. The confirmation email for ORD-96297 went to my spam folder, so I only just saw it.
+
+Best regards,
+Samir Patel
+
+--- message 9 from Keiko (support) ---
+Let me know if anything else looks off. Our warehouse shows ORD-16296 left on schedule. I can see all the orders on your account, including ORD-96297. I've resent the confirmation email for ORD-16296 to the address on file.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 10 from Samir Patel ---
+Tracking for ORD-96297 hasn't updated since Tuesday. I'd rather not call; the hold times last time were very long. I'm happy to send screenshots if that helps. Could you also tell me whether ORD-76778 qualifies for the extended return window?
+
+Best regards,
+Samir Patel
+
+--- message 11 from Keiko (support) ---
+Our warehouse shows ORD-16296 left on schedule. Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-76778. I've added a note to your account so the next agent has the context.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

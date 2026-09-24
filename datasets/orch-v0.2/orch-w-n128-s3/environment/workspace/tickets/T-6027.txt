@@ -1,0 +1,55 @@
+Ticket T-6027
+Customer: Kofi Mensah
+Orders on file: ORD-99135, ORD-95461, ORD-62221, ORD-16999
+Opened: 2026-03-03 via email
+
+Order details:
+ORD-99135  placed 2026-06-15  status: delivered  total: $346.27
+  payment method: card ending 5149  ship to: 626 Harbor Rd
+  - rain jacket x1
+  - USB-C charging cable (2m) x3
+  - spare battery pack x1
+  - extended warranty, 2 years x2
+ORD-95461  placed 2026-06-20  status: delivered  total: $440.45
+  payment method: card ending 4060  ship to: 53 Mill Rd
+  - trail running shoes x1
+  - carabiner set x2
+  - merino socks, size M x2
+ORD-62221  placed 2026-06-08  status: delivered  total: $353.84
+  payment method: card ending 2195  ship to: 32 Cedar Rd
+  - wool blanket x1
+  - USB-C charging cable (2m) x2
+  - carabiner set x2
+  - spare battery pack x1
+  - merino socks, size M x3
+ORD-16999  placed 2026-06-19  status: returned  total: $215.62
+  payment method: card ending 2381  ship to: 843 Mill Lane
+  - camping stove x1
+  - stainless water bottle, 750ml x3
+  - merino socks, size M x1
+
+--- message 1 from Kofi Mensah ---
+Can I use a gift card on ORD-95461, or is it too late? I tried the chat widget first but it kept disconnecting. I'm happy to send screenshots if that helps. Tracking for ORD-95461 hasn't updated since Tuesday.
+
+Kofi Mensah
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Fatima (support) ---
+Let me know if anything else looks off. If you need an invoice for ORD-62221, you can download it from the Orders page. Our warehouse shows ORD-62221 left on schedule. I've resent the confirmation email for ORD-62221 to the address on file.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Kofi Mensah ---
+I'm happy to send screenshots if that helps. Your app logged me out twice while I was looking at this, which didn't help. I tried the chat widget first but it kept disconnecting. Tracking for ORD-95461 hasn't updated since Tuesday.
+
+Kofi Mensah
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Fatima (support) ---
+For ORD-62221, the return window is 30 days from delivery. I can see all the orders on your account, including ORD-99135. Thanks for reaching out, and sorry for the trouble. I've resent the confirmation email for ORD-62221 to the address on file.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

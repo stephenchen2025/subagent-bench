@@ -1,0 +1,10 @@
+Ledger page P-5499
+
+account      amount   see page
+Eriksen        -750   P-7710
+Nakamura       +101   P-7705
+Hughes         -216   P-1611
+Quinn          +577   P-3849
+Rahman          +88   P-6217
+
+Follow the debit belonging to the account that comes last alphabetically.

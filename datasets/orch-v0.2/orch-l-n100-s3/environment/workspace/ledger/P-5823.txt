@@ -1,0 +1,12 @@
+Ledger page P-5823
+
+account      amount   see page
+Dunn           -645   P-7551
+Silva          -326   P-6871
+Zhou           -507   P-3866
+Abbott         +231   P-1536
+Ibarra         -104   P-3009
+Kowalski       -102   P-5211
+Young          -281   P-6362
+
+Follow the credit belonging to the account that comes first alphabetically.

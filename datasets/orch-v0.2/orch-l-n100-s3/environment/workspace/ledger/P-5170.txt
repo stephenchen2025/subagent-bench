@@ -1,0 +1,12 @@
+Ledger page P-5170
+
+account      amount   see page
+Tanaka         +336   P-6700
+Rahman         -247   P-5993
+Castillo       -126   P-9234
+Hughes         -103   P-7551
+Baker           -86   P-6848
+Silva          -144   P-5429
+Lambert        +634   P-1536
+
+Follow the entry with the largest credit.

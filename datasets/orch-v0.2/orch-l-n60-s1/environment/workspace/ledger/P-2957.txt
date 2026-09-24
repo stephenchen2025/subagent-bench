@@ -1,0 +1,11 @@
+Ledger page P-2957
+
+account      amount   see page
+Nakamura       +705   P-1198
+Abbott         -611   P-6248
+Young          +804   P-1696
+Park           -420   P-6031
+Baker          -107   P-6472
+Silva           +64   P-5893
+
+Follow the entry with the second-largest amount.

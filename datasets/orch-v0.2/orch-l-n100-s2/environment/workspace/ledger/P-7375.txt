@@ -1,0 +1,12 @@
+Ledger page P-7375
+
+account      amount   see page
+Rahman         +240   P-7996
+Jensen         -638   P-3834
+Vance          +857   P-1863
+Xu             +261   P-4952
+Ibarra         -210   P-9746
+Weber           -80   P-8279
+Lambert        -790   P-5076
+
+Follow the entry with the second-largest amount.

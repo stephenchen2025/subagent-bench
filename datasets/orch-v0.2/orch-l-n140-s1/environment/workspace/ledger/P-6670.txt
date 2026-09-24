@@ -1,0 +1,10 @@
+Ledger page P-6670
+
+account      amount   see page
+Castillo       +676   P-6950
+Abbott         -870   P-2801
+Park           -528   P-5373
+Lambert        -371   P-7487
+Jensen         +493   P-2067
+
+Follow the debit belonging to the account that comes last alphabetically.

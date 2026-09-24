@@ -1,0 +1,12 @@
+Ledger page P-1267
+
+account      amount   see page
+Young          +879   P-1855
+Kowalski       +125   P-1141
+Grant          -448   P-7899
+Xu             +121   P-4006
+Abbott         -159   P-1330
+Silva          -160   P-3467
+Osei           -252   P-2087
+
+Follow the credit belonging to the account that comes first alphabetically.

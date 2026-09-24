@@ -1,0 +1,10 @@
+Ledger page P-9574
+
+account      amount   see page
+Umar           -611   P-6587
+Baker          -401   P-9711
+Tanaka         +127   P-8088
+Young          +305   P-9943
+Abbott          +33   P-4378
+
+Follow the entry with the largest debit (the most negative amount).

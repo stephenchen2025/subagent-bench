@@ -1,0 +1,11 @@
+Ledger page P-2705
+
+account      amount   see page
+Nakamura       -782   P-9423
+Umar           +646   P-5493
+Eriksen        -759   P-2252
+Xu             -524   P-9207
+Hughes         +781   P-6203
+Quinn          +845   P-7294
+
+Follow the entry whose amount is closest to zero.

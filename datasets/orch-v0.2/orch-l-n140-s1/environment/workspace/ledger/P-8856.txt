@@ -1,0 +1,11 @@
+Ledger page P-8856
+
+account      amount   see page
+Castillo       -893   P-7301
+Nakamura       +569   P-1861
+Tanaka         -715   P-3148
+Moreau         -610   P-6883
+Ibarra         -783   P-4379
+Quinn          +527   P-1075
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,12 @@
+Ledger page P-3530
+
+account      amount   see page
+Ibarra         -315   P-1566
+Baker          -577   P-4198
+Castillo       -418   P-2957
+Jensen         -731   P-7334
+Young          +221   P-4540
+Tanaka         +570   P-3152
+Xu             +681   P-6472
+
+Follow the credit belonging to the account that comes first alphabetically.

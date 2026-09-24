@@ -1,0 +1,11 @@
+Ledger page P-6884
+
+account      amount   see page
+Zhou           -520   P-5535
+Park           -163   P-9113
+Xu             +836   P-3173
+Moreau         -356   P-2449
+Hughes         -801   P-2971
+Lambert        -294   P-7714
+
+Follow the debit belonging to the account that comes last alphabetically.

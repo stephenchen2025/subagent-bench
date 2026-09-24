@@ -1,0 +1,54 @@
+Ticket T-9051
+Customer: Ben Carter
+Orders on file: ORD-87689, ORD-53768, ORD-78269, ORD-51687
+Opened: 2026-07-19 via chat transcript
+
+Order details:
+ORD-87689  placed 2026-04-26  status: delivered  total: $479.90
+  payment method: card ending 3812  ship to: 265 Elm Ave
+  - standing desk x1
+  - replacement filter cartridge, 3-pack x1
+  - spare battery pack x2
+ORD-53768  placed 2026-07-25  status: label created  total: $157.01
+  payment method: card ending 7855  ship to: 707 Cedar Lane
+  - bike light set x1
+  - gift wrap x1
+  - replacement filter cartridge, 3-pack x3
+ORD-78269  placed 2026-02-10  status: delivered  total: $37.79
+  payment method: card ending 6781  ship to: 111 Elm Ave
+  - bike light set x1
+  - extended warranty, 2 years x1
+  - carabiner set x1
+ORD-51687  placed 2026-08-09  status: returned  total: $27.69
+  payment method: card ending 7726  ship to: 915 Harbor Rd
+  - carry-on suitcase x1
+  - gift wrap x1
+  - carabiner set x2
+  - USB-C charging cable (2m) x3
+
+--- message 1 from Ben Carter ---
+How do I reset my password? The reset link keeps expiring. Is there a way to combine loyalty points from ORD-78269 with my next purchase? Tracking for ORD-78269 hasn't updated since Tuesday. The desk lamp itself is great, for what it's worth.
+
+Thanks,
+Ben Carter
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Rosa (support) ---
+Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-78269 left on schedule. I've resent the confirmation email for ORD-53768 to the address on file. For ORD-53768, the return window is 30 days from delivery.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ben Carter ---
+I'd rather not call; the hold times last time were very long. The mechanical keyboard itself is great, for what it's worth. Could you also tell me whether ORD-51687 qualifies for the extended return window? My earlier order ORD-53768 arrived fine, no complaints there.
+
+Ben Carter
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Rosa (support) ---
+For ORD-53768, the return window is 30 days from delivery. Tracking updates can lag by a day or two with this carrier. I can see all the orders on your account, including ORD-53768. Our warehouse shows ORD-53768 left on schedule.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,83 @@
+Ticket T-8667
+Customer: Yuki Tanaka
+Orders on file: ORD-63503, ORD-67890, ORD-57062, ORD-44681
+Opened: 2026-07-13 via email
+
+Order details:
+ORD-63503  placed 2026-03-15  status: in transit  total: $287.71
+  payment method: card ending 3897  ship to: 610 Cedar Ave
+  - camping stove x1
+  - USB-C charging cable (2m) x2
+  - travel pouch x3
+  - microfiber cloth x2
+ORD-67890  placed 2026-08-14  status: in transit  total: $25.15
+  payment method: card ending 7079  ship to: 248 Oak Ave
+  - desk lamp x1
+  - spare battery pack x1
+  - merino socks, size M x3
+  - stainless water bottle, 750ml x1
+  - replacement filter cartridge, 3-pack x2
+ORD-57062  placed 2026-04-17  status: in transit  total: $474.82
+  payment method: card ending 4059  ship to: 409 Elm Ave
+  - noise-cancelling headphones x1
+  - stainless water bottle, 750ml x2
+  - extended warranty, 2 years x2
+  - merino socks, size M x3
+ORD-44681  placed 2026-08-28  status: delivered  total: $402.16
+  payment method: card ending 3161  ship to: 448 Cedar Rd
+  - desk lamp x1
+  - travel pouch x3
+  - spare battery pack x2
+  - microfiber cloth x3
+
+--- message 1 from Yuki Tanaka ---
+Where is my refund for ORD-67890? You said 5 days and it has been 8. I tried the chat widget first but it kept disconnecting. Tracking for ORD-57062 hasn't updated since Tuesday. My partner placed ORD-67890 on our shared account, in case that matters.
+
+Best regards,
+Yuki Tanaka
+
+--- message 2 from Pete (support) ---
+If you need an invoice for ORD-57062, you can download it from the Orders page. Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context. I can see all the orders on your account, including ORD-67890.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Yuki Tanaka ---
+Before I retry the payment on ORD-44681 -- is there any risk of a double charge? I changed my shipping address last month, so please double-check you have the new one. The box for ORD-57062 was a bit crushed but the contents were fine.
+
+Yuki Tanaka
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Pete (support) ---
+I've added a note to your account so the next agent has the context. If you need an invoice for ORD-57062, you can download it from the Orders page. Let me know if anything else looks off.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Pete (support) ---
+Retrying is safe. Our system blocks a second capture on ORD-44681, so a double charge can't happen. Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Yuki Tanaka ---
+My earlier order ORD-67890 arrived fine, no complaints there. I'd rather not call; the hold times last time were very long. The confirmation email for ORD-57062 went to my spam folder, so I only just saw it.
+
+Yuki Tanaka
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Yuki Tanaka ---
+I'm travelling next week, so email is the best way to reach me. Your app logged me out twice while I was looking at this, which didn't help. My earlier order ORD-67890 arrived fine, no complaints there. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Yuki Tanaka
+
+--- message 8 from Pete (support) ---
+For ORD-67890, the return window is 30 days from delivery. Loyalty points post about a week after an order is delivered. I've updated your shipping address on file. Tracking updates can lag by a day or two with this carrier.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

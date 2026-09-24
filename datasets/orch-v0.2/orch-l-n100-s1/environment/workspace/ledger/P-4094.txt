@@ -1,0 +1,10 @@
+Ledger page P-4094
+
+account      amount   see page
+Eriksen        +599   P-3452
+Castillo       -205   P-6611
+Grant          -102   P-4157
+Hughes         -419   P-5422
+Tanaka         +778   P-1745
+
+Follow the credit belonging to the account that comes first alphabetically.

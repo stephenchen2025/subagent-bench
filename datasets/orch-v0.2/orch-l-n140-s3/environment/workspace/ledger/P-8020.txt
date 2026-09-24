@@ -1,0 +1,10 @@
+Ledger page P-8020
+
+account      amount   see page
+Weber          +129   P-4727
+Xu             -432   P-8547
+Abbott         +820   P-5676
+Hughes         -711   P-3216
+Young          +881   P-9923
+
+Follow the credit belonging to the account that comes first alphabetically.

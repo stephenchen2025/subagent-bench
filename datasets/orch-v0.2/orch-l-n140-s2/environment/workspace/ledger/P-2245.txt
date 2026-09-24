@@ -1,0 +1,10 @@
+Ledger page P-2245
+
+account      amount   see page
+Kowalski       +306   P-4564
+Quinn          +822   P-9793
+Umar            -24   P-8985
+Lambert        +873   P-8884
+Weber          +747   P-8088
+
+Follow the entry whose amount is closest to zero.

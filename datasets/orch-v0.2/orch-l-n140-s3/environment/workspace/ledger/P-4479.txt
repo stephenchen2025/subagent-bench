@@ -1,0 +1,10 @@
+Ledger page P-4479
+
+account      amount   see page
+Umar           +185   P-7573
+Hughes         -571   P-9124
+Dunn           -228   P-8191
+Grant          +109   P-6461
+Fofana         -654   P-1151
+
+Follow the credit belonging to the account that comes first alphabetically.

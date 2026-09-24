@@ -1,0 +1,12 @@
+Ledger page P-8493
+
+account      amount   see page
+Grant          +494   P-4846
+Jensen         -226   P-6885
+Moreau         -769   P-3914
+Quinn          +865   P-3369
+Ibarra         +501   P-1518
+Young          +389   P-5107
+Tanaka          -34   P-3260
+
+Follow the entry with the largest debit (the most negative amount).

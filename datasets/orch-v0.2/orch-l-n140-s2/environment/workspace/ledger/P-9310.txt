@@ -1,0 +1,11 @@
+Ledger page P-9310
+
+account      amount   see page
+Dunn           +408   P-8454
+Abbott         -241   P-8382
+Moreau         +388   P-3179
+Jensen         -311   P-3665
+Grant           -65   P-8937
+Baker           -64   P-9327
+
+Follow the debit belonging to the account that comes last alphabetically.

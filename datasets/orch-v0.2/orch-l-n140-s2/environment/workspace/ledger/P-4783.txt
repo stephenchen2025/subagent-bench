@@ -1,0 +1,12 @@
+Ledger page P-4783
+
+account      amount   see page
+Abbott         +159   P-5751
+Eriksen        -792   P-1551
+Lambert        +369   P-6579
+Moreau         +844   P-9793
+Vance          -757   P-8441
+Fofana         +186   P-7768
+Young          +611   P-9553
+
+Follow the entry with the largest debit (the most negative amount).

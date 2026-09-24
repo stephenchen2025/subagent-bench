@@ -1,0 +1,12 @@
+Ledger page P-9935
+
+account      amount   see page
+Umar           +420   P-4240
+Nakamura       +832   P-2263
+Silva          +588   P-8213
+Tanaka         -294   P-1210
+Quinn          -121   P-7585
+Vance          -849   P-6219
+Dunn           -729   P-6553
+
+Follow the credit belonging to the account that comes first alphabetically.

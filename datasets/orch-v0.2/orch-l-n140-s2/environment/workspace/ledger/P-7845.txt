@@ -1,0 +1,11 @@
+Ledger page P-7845
+
+account      amount   see page
+Umar           -325   P-4141
+Park            -44   P-7011
+Jensen         +632   P-5451
+Abbott         +288   P-3476
+Quinn          -890   P-2852
+Castillo        +55   P-9375
+
+Follow the entry with the second-largest amount.

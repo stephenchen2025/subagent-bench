@@ -1,0 +1,11 @@
+Ledger page P-6037
+
+account      amount   see page
+Baker          -456   P-4349
+Grant          +716   P-1092
+Park           -242   P-1536
+Xu             -424   P-7848
+Ibarra         -318   P-6037
+Tanaka         +519   P-5336
+
+Follow the entry with the second-largest amount.

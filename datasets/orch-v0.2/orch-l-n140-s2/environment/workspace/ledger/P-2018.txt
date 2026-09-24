@@ -1,0 +1,10 @@
+Ledger page P-2018
+
+account      amount   see page
+Eriksen        -438   P-8486
+Grant          -870   P-7488
+Weber          +728   P-6147
+Lambert        +542   P-8415
+Rahman         -207   P-1910
+
+Follow the entry with the largest credit.

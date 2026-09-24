@@ -1,0 +1,11 @@
+Ledger page P-3029
+
+account      amount   see page
+Umar           -900   P-1211
+Baker           +30   P-2480
+Park           -568   P-6530
+Osei           -150   P-8165
+Kowalski       +857   P-3005
+Xu             -694   P-9189
+
+Follow the entry with the largest credit.

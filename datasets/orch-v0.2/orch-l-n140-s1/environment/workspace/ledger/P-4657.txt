@@ -1,0 +1,12 @@
+Ledger page P-4657
+
+account      amount   see page
+Umar           -855   P-7335
+Young          -880   P-5451
+Lambert        -359   P-5934
+Xu             -355   P-5445
+Ibarra         +474   P-2378
+Nakamura       -766   P-7069
+Moreau         +539   P-2983
+
+Follow the credit belonging to the account that comes first alphabetically.

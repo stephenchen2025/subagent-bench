@@ -1,0 +1,11 @@
+Ledger page P-5027
+
+account      amount   see page
+Young          +546   P-7336
+Umar           +458   P-5162
+Xu             -185   P-8629
+Quinn          -543   P-6145
+Lambert        +797   P-4236
+Vance            -2   P-2856
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,10 @@
+Ledger page P-3740
+
+account      amount   see page
+Nakamura       -360   P-3629
+Osei           -106   P-5960
+Weber           +24   P-8565
+Rahman         -783   P-9044
+Baker          -279   P-7153
+
+Follow the debit belonging to the account that comes last alphabetically.

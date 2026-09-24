@@ -1,0 +1,12 @@
+Ledger page P-8392
+
+account      amount   see page
+Abbott         +576   P-6457
+Silva          -410   P-3539
+Tanaka         -124   P-1026
+Weber          -483   P-8503
+Baker          +420   P-2684
+Fofana         -694   P-7598
+Jensen         +646   P-8621
+
+Follow the credit belonging to the account that comes first alphabetically.

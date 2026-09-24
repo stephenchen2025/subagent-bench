@@ -1,0 +1,10 @@
+Ledger page P-7810
+
+account      amount   see page
+Vance          -524   P-9408
+Eriksen        -526   P-8896
+Zhou           +899   P-3218
+Dunn           -440   P-9320
+Quinn            -9   P-5813
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,11 @@
+Ledger page P-5550
+
+account      amount   see page
+Umar           +336   P-2983
+Fofana         -785   P-2971
+Grant          -295   P-8856
+Nakamura       -537   P-8246
+Jensen         -302   P-4455
+Xu             +803   P-7378
+
+Follow the entry with the largest debit (the most negative amount).

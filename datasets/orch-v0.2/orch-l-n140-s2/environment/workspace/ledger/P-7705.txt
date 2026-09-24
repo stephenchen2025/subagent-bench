@@ -1,0 +1,10 @@
+Ledger page P-7705
+
+account      amount   see page
+Xu             -313   P-3098
+Osei           +589   P-1734
+Moreau         +878   P-4944
+Vance          -332   P-7547
+Hughes         -536   P-1422
+
+Follow the entry with the largest credit.

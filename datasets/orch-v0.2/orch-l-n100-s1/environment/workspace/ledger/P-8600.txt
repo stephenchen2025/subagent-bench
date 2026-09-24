@@ -1,0 +1,11 @@
+Ledger page P-8600
+
+account      amount   see page
+Eriksen        -329   P-5925
+Vance          +203   P-5366
+Moreau         -175   P-6296
+Park           -570   P-4499
+Dunn           +484   P-7093
+Abbott         -602   P-2518
+
+Follow the entry with the largest credit.

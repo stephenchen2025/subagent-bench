@@ -1,0 +1,58 @@
+Ticket T-4885
+Customer: Oskar Berg
+Orders on file: ORD-78354, ORD-48456, ORD-87652, ORD-80085
+Opened: 2026-05-28 via chat transcript
+
+Order details:
+ORD-78354  placed 2026-05-03  status: delivered  total: $119.27
+  payment method: card ending 8032  ship to: 159 Harbor Rd
+  - rain jacket x1
+  - extended warranty, 2 years x2
+  - travel pouch x2
+ORD-48456  placed 2026-02-23  status: delivered  total: $291.59
+  payment method: card ending 3822  ship to: 770 Oak Rd
+  - wool blanket x1
+  - stainless water bottle, 750ml x2
+  - replacement filter cartridge, 3-pack x1
+  - extended warranty, 2 years x2
+  - USB-C charging cable (2m) x3
+ORD-87652  placed 2026-05-08  status: returned  total: $175.27
+  payment method: card ending 3300  ship to: 361 Cedar Rd
+  - cast iron skillet x1
+  - USB-C charging cable (2m) x2
+  - replacement filter cartridge, 3-pack x3
+  - merino socks, size M x3
+ORD-80085  placed 2026-02-17  status: in transit  total: $356.97
+  payment method: card ending 8324  ship to: 781 Oak Lane
+  - cast iron skillet x1
+  - extended warranty, 2 years x1
+  - travel pouch x3
+  - replacement filter cartridge, 3-pack x3
+
+--- message 1 from Oskar Berg ---
+Where is my refund for ORD-80085? You said 5 days and it has been 8. The bike light set itself is great, for what it's worth. Tracking for ORD-80085 hasn't updated since Tuesday. The confirmation email for ORD-80085 went to my spam folder, so I only just saw it.
+
+Thanks,
+Oskar Berg
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Fatima (support) ---
+Loyalty points post about a week after an order is delivered. Let me know if anything else looks off. If you need an invoice for ORD-87652, you can download it from the Orders page. Thanks for reaching out, and sorry for the trouble.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Oskar Berg ---
+I'm happy to send screenshots if that helps. My earlier order ORD-48456 arrived fine, no complaints there. The confirmation email for ORD-48456 went to my spam folder, so I only just saw it. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Oskar Berg
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Fatima (support) ---
+I've added a note to your account so the next agent has the context. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-87652 left on schedule. Screenshots aren't necessary, but thank you for offering.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

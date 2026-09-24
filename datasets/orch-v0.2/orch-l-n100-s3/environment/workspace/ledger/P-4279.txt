@@ -1,0 +1,11 @@
+Ledger page P-4279
+
+account      amount   see page
+Dunn           +438   P-3683
+Ibarra          +60   P-7811
+Moreau         -695   P-9257
+Xu             +522   P-1414
+Abbott         -264   P-8701
+Lambert        +529   P-8701
+
+Follow the entry with the largest debit (the most negative amount).

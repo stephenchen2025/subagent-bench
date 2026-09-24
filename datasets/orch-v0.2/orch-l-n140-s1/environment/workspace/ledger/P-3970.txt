@@ -1,0 +1,12 @@
+Ledger page P-3970
+
+account      amount   see page
+Zhou           -407   P-6194
+Osei           +221   P-3407
+Rahman         +572   P-7524
+Ibarra          +98   P-9099
+Quinn           +33   P-5344
+Baker          -509   P-3864
+Lambert         -39   P-8392
+
+Follow the entry whose amount is closest to zero.

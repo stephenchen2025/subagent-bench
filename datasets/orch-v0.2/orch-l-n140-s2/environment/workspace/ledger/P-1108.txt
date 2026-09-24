@@ -1,0 +1,12 @@
+Ledger page P-1108
+
+account      amount   see page
+Kowalski       -704   P-9847
+Park           -125   P-4998
+Vance          -404   P-4644
+Silva          +557   P-8382
+Zhou           +589   P-2994
+Eriksen         -75   P-2879
+Rahman         +865   P-1221
+
+Follow the debit belonging to the account that comes last alphabetically.

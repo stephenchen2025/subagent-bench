@@ -1,0 +1,58 @@
+Ticket T-7596
+Customer: Priya Raman
+Orders on file: ORD-57702, ORD-33442, ORD-27263, ORD-50395
+Opened: 2026-08-03 via web form
+
+Order details:
+ORD-57702  placed 2026-03-04  status: delivered  total: $342.96
+  payment method: card ending 3452  ship to: 323 Cedar St
+  - wool blanket x1
+  - spare battery pack x1
+  - replacement filter cartridge, 3-pack x1
+  - microfiber cloth x1
+ORD-33442  placed 2026-01-19  status: delivered  total: $319.24
+  payment method: card ending 7758  ship to: 642 Harbor Ave
+  - trail running shoes x1
+  - stainless water bottle, 750ml x3
+  - merino socks, size M x3
+  - spare battery pack x2
+  - USB-C charging cable (2m) x2
+ORD-27263  placed 2026-08-20  status: delivered  total: $383.39
+  payment method: card ending 4519  ship to: 342 Cedar Rd
+  - blender x1
+  - gift wrap x1
+  - carabiner set x2
+ORD-50395  placed 2026-02-19  status: delivered  total: $154.37
+  payment method: card ending 7365  ship to: 375 Harbor Lane
+  - trail running shoes x1
+  - carabiner set x1
+  - extended warranty, 2 years x1
+  - replacement filter cartridge, 3-pack x1
+
+--- message 1 from Priya Raman ---
+The standing desk from ORD-50395 arrived with a scratch on the side. Can I get a replacement? I've been a customer for a few years and usually everything goes smoothly. My earlier order ORD-27263 arrived fine, no complaints there. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Priya Raman
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Arjun (support) ---
+Let me know if anything else looks off. Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-33442 to the address on file. Screenshots aren't necessary, but thank you for offering.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Priya Raman ---
+The box for ORD-27263 was a bit crushed but the contents were fine. Could you also tell me whether ORD-50395 qualifies for the extended return window? Is there a way to combine loyalty points from ORD-27263 with my next purchase? Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Priya Raman
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Arjun (support) ---
+Our warehouse shows ORD-27263 left on schedule. Thanks for reaching out, and sorry for the trouble. For ORD-33442, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

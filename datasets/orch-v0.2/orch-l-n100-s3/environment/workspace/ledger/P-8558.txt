@@ -1,0 +1,10 @@
+Ledger page P-8558
+
+account      amount   see page
+Young           +43   P-3441
+Tanaka         +487   P-6128
+Moreau          -44   P-1522
+Weber          -598   P-8931
+Zhou           +845   P-6266
+
+Follow the credit belonging to the account that comes first alphabetically.

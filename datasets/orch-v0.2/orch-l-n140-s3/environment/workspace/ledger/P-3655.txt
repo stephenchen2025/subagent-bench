@@ -1,0 +1,11 @@
+Ledger page P-3655
+
+account      amount   see page
+Fofana         +820   P-4490
+Dunn           -211   P-6102
+Zhou           -406   P-5159
+Ibarra         +838   P-4590
+Castillo       -213   P-9678
+Osei           -736   P-2566
+
+Follow the entry whose amount is closest to zero.

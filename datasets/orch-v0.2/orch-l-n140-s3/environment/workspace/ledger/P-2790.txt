@@ -1,0 +1,11 @@
+Ledger page P-2790
+
+account      amount   see page
+Rahman         +436   P-7763
+Jensen         -881   P-5688
+Quinn           +43   P-1637
+Castillo       +469   P-9669
+Vance          +763   P-4341
+Umar           -339   P-3879
+
+Follow the credit belonging to the account that comes first alphabetically.

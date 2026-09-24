@@ -1,0 +1,11 @@
+Ledger page P-3335
+
+account      amount   see page
+Fofana         +732   P-7215
+Vance          +559   P-9105
+Kowalski       -686   P-4535
+Park           +811   P-2068
+Grant          +386   P-9747
+Silva          +818   P-7457
+
+Follow the debit belonging to the account that comes last alphabetically.

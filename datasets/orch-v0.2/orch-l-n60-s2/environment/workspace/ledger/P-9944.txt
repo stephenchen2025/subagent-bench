@@ -1,0 +1,11 @@
+Ledger page P-9944
+
+account      amount   see page
+Zhou           -697   P-9683
+Osei           +607   P-6698
+Eriksen         -42   P-9916
+Park           -535   P-3833
+Vance          -214   P-3179
+Castillo       +859   P-4639
+
+Follow the entry with the largest credit.

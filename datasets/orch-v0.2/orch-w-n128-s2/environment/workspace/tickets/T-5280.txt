@@ -1,0 +1,94 @@
+Ticket T-5280
+Customer: Avery Lin
+Orders on file: ORD-25659, ORD-64316, ORD-51894, ORD-24584
+Opened: 2026-02-09 via web form
+
+Order details:
+ORD-25659  placed 2026-05-22  status: label created  total: $226.89
+  payment method: card ending 5687  ship to: 982 Elm Ave
+  - desk lamp x1
+  - travel pouch x3
+  - gift wrap x2
+  - microfiber cloth x1
+ORD-64316  placed 2026-03-24  status: label created  total: $322.79
+  payment method: card ending 6095  ship to: 495 Mill Ave
+  - espresso grinder x1
+  - gift wrap x2
+  - extended warranty, 2 years x2
+ORD-51894  placed 2026-04-20  status: returned  total: $256.92
+  payment method: card ending 1925  ship to: 408 Cedar St
+  - cast iron skillet x1
+  - stainless water bottle, 750ml x1
+  - USB-C charging cable (2m) x1
+ORD-24584  placed 2026-01-01  status: in transit  total: $217.23
+  payment method: card ending 8728  ship to: 763 Elm St
+  - yoga mat x1
+  - USB-C charging cable (2m) x2
+  - extended warranty, 2 years x2
+
+--- message 1 from Avery Lin ---
+Where is my refund for ORD-51894? You said 5 days and it has been 8. I'm happy to send screenshots if that helps. I tried the chat widget first but it kept disconnecting. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Avery Lin
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Pete (support) ---
+I can see all the orders on your account, including ORD-64316. Our warehouse shows ORD-25659 left on schedule. For ORD-25659, the return window is 30 days from delivery. Tracking updates can lag by a day or two with this carrier.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Avery Lin ---
+The $62.28 for ORD-24584 came out of my account, and then the same $62.28 came out again the next morning. Tracking for ORD-25659 hasn't updated since Tuesday. I tried the chat widget first but it kept disconnecting.
+
+Avery Lin
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Pete (support) ---
+If you need an invoice for ORD-64316, you can download it from the Orders page. I've updated your shipping address on file. I've added a note to your account so the next agent has the context.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Pete (support) ---
+Good news: only one payment for ORD-24584 ever settled. The other entry was a temporary hold and your bank has dropped it. I've updated your shipping address on file. Loyalty points post about a week after an order is delivered.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Avery Lin ---
+I've been a customer for a few years and usually everything goes smoothly. The box for ORD-51894 was a bit crushed but the contents were fine. My earlier order ORD-25659 arrived fine, no complaints there.
+
+Avery Lin
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Avery Lin ---
+Thanks, I see it now: one payment for ORD-24584, the other one disappeared. All good. I'd rather not call; the hold times last time were very long. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Avery Lin
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Pete (support) ---
+If you need an invoice for ORD-25659, you can download it from the Orders page. For ORD-51894, the return window is 30 days from delivery. Our warehouse shows ORD-25659 left on schedule.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Avery Lin ---
+Tracking for ORD-51894 hasn't updated since Tuesday. I changed my shipping address last month, so please double-check you have the new one. My earlier order ORD-64316 arrived fine, no complaints there. I tried the chat widget first but it kept disconnecting.
+
+Avery Lin
+(Please reply by email rather than phone if possible.)
+
+--- message 10 from Pete (support) ---
+I've updated your shipping address on file. I can see all the orders on your account, including ORD-64316. I've resent the confirmation email for ORD-64316 to the address on file. I've added a note to your account so the next agent has the context.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

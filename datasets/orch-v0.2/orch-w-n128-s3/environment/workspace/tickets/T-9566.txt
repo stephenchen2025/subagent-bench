@@ -1,0 +1,74 @@
+Ticket T-9566
+Customer: Liam O'Neill
+Orders on file: ORD-69577, ORD-40167, ORD-85921, ORD-28528
+Opened: 2026-02-04 via web form
+
+Order details:
+ORD-69577  placed 2026-06-27  status: delivered  total: $349.19
+  payment method: card ending 5762  ship to: 62 Cedar St
+  - desk lamp x1
+  - stainless water bottle, 750ml x3
+  - spare battery pack x2
+ORD-40167  placed 2026-07-04  status: delivered  total: $430.09
+  payment method: card ending 9303  ship to: 873 Oak Ave
+  - wool blanket x1
+  - stainless water bottle, 750ml x1
+  - merino socks, size M x3
+ORD-85921  placed 2026-04-04  status: in transit  total: $54.60
+  payment method: card ending 1523  ship to: 173 Cedar Rd
+  - noise-cancelling headphones x1
+  - carabiner set x3
+  - gift wrap x1
+  - spare battery pack x1
+  - replacement filter cartridge, 3-pack x3
+ORD-28528  placed 2026-02-02  status: in transit  total: $165.17
+  payment method: card ending 2503  ship to: 596 Cedar Ave
+  - camping stove x1
+  - stainless water bottle, 750ml x2
+  - replacement filter cartridge, 3-pack x3
+  - extended warranty, 2 years x1
+
+--- message 1 from Liam O'Neill ---
+How do I reset my password? The reset link keeps expiring. The confirmation email for ORD-69577 went to my spam folder, so I only just saw it. The box for ORD-69577 was a bit crushed but the contents were fine. Could you also tell me whether ORD-40167 qualifies for the extended return window?
+
+Liam O'Neill
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Fatima (support) ---
+I can see all the orders on your account, including ORD-40167. For ORD-85921, the return window is 30 days from delivery. Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Liam O'Neill ---
+I think I might have been charged twice for ORD-28528, but one of the lines on my credit union still says pending, so I'm not sure yet. I tried the chat widget first but it kept disconnecting. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Liam O'Neill
+
+--- message 4 from Liam O'Neill ---
+Update: the second line has now posted, it's no longer pending. So both payments for ORD-28528 actually went through. I'm happy to send screenshots if that helps. I tried the chat widget first but it kept disconnecting.
+
+Liam O'Neill
+(Please reply by email rather than phone if possible.)
+
+--- message 5 from Fatima (support) ---
+Confirmed on our side -- ORD-28528 was captured twice by a retry in our checkout. One refund of $478.78 is on its way to you. I've resent the confirmation email for ORD-40167 to the address on file. I've updated your shipping address on file.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Liam O'Neill ---
+I've been a customer for a few years and usually everything goes smoothly. My earlier order ORD-40167 arrived fine, no complaints there. My partner placed ORD-40167 on our shared account, in case that matters. The water filter pitcher itself is great, for what it's worth.
+
+Liam O'Neill
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Fatima (support) ---
+Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering. I've updated your shipping address on file. I can see all the orders on your account, including ORD-69577.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

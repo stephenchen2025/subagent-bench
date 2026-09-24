@@ -1,0 +1,11 @@
+Ledger page P-5026
+
+account      amount   see page
+Fofana         +315   P-1978
+Kowalski        +55   P-8815
+Xu             +519   P-7865
+Zhou           -333   P-5686
+Baker            +2   P-8815
+Vance          +430   P-8981
+
+Follow the entry with the second-largest amount.

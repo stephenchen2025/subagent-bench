@@ -1,0 +1,11 @@
+Ledger page P-5312
+
+account      amount   see page
+Weber          +828   P-7146
+Baker          -434   P-7523
+Park           -289   P-7231
+Rahman         -821   P-8959
+Vance          +719   P-6017
+Jensen         +298   P-8485
+
+Follow the credit belonging to the account that comes first alphabetically.

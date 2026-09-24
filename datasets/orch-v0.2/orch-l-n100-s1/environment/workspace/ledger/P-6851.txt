@@ -1,0 +1,11 @@
+Ledger page P-6851
+
+account      amount   see page
+Lambert        +754   P-6611
+Grant          -615   P-5820
+Abbott         -438   P-3321
+Ibarra         -728   P-7274
+Vance          -108   P-8620
+Umar           -540   P-8818
+
+Follow the debit belonging to the account that comes last alphabetically.

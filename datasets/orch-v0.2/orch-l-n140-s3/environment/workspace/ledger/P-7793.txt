@@ -1,0 +1,12 @@
+Ledger page P-7793
+
+account      amount   see page
+Lambert        -422   P-4236
+Umar           +877   P-2011
+Young          -282   P-6306
+Kowalski       +274   P-3282
+Ibarra         -754   P-1713
+Nakamura       +781   P-8400
+Grant          +627   P-2656
+
+Follow the entry with the second-largest amount.

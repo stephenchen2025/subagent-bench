@@ -1,0 +1,10 @@
+Ledger page P-7869
+
+account      amount   see page
+Fofana         +522   P-5560
+Baker          -180   P-8045
+Vance          +786   P-1552
+Grant          -435   P-5862
+Zhou           -290   P-3006
+
+Follow the entry with the second-largest amount.

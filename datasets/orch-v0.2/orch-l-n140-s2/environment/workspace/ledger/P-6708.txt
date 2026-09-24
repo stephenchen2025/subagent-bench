@@ -1,0 +1,12 @@
+Ledger page P-6708
+
+account      amount   see page
+Tanaka         +786   P-1764
+Vance          -636   P-2252
+Jensen         +657   P-4602
+Nakamura       -524   P-3510
+Park           +712   P-3524
+Kowalski       -781   P-3606
+Rahman         +626   P-5751
+
+Follow the entry with the second-largest amount.

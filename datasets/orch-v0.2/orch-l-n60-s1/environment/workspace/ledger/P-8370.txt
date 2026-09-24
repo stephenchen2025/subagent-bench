@@ -1,0 +1,11 @@
+Ledger page P-8370
+
+account      amount   see page
+Ibarra         -822   P-8657
+Dunn           +363   P-4353
+Zhou           -147   P-2361
+Hughes         -714   P-6824
+Nakamura       -517   P-1696
+Umar           -295   P-3318
+
+Follow the entry with the largest debit (the most negative amount).

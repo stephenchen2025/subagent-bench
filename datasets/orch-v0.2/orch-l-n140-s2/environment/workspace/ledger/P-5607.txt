@@ -1,0 +1,12 @@
+Ledger page P-5607
+
+account      amount   see page
+Weber          +558   P-3524
+Lambert        -168   P-7314
+Xu             +635   P-8307
+Jensen         +519   P-2991
+Kowalski       +292   P-1221
+Eriksen        -756   P-7705
+Vance          +857   P-7729
+
+Follow the entry with the largest credit.

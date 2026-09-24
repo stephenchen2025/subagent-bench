@@ -1,0 +1,10 @@
+Ledger page P-3090
+
+account      amount   see page
+Lambert        +224   P-2368
+Young          +818   P-5907
+Fofana          +11   P-6102
+Rahman         -837   P-8539
+Eriksen        +153   P-2505
+
+Follow the credit belonging to the account that comes first alphabetically.

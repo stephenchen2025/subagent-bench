@@ -1,0 +1,12 @@
+Ledger page P-6484
+
+account      amount   see page
+Grant          -264   P-6465
+Hughes         -203   P-2011
+Silva          +580   P-8308
+Xu             -403   P-6993
+Fofana         +698   P-9408
+Weber          +449   P-8890
+Lambert         -44   P-1870
+
+Follow the credit belonging to the account that comes first alphabetically.

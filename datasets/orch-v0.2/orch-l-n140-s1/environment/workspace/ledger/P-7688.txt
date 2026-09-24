@@ -1,0 +1,12 @@
+Ledger page P-7688
+
+account      amount   see page
+Dunn           +695   P-3691
+Umar           -696   P-7863
+Hughes         +498   P-1702
+Jensen          +74   P-2156
+Zhou            -53   P-5912
+Vance          -129   P-6988
+Baker          -138   P-3086
+
+Follow the entry with the largest debit (the most negative amount).

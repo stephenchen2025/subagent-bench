@@ -1,0 +1,11 @@
+Ledger page P-8099
+
+account      amount   see page
+Umar           -272   P-5084
+Dunn           -548   P-2126
+Fofana         -383   P-5179
+Tanaka         +689   P-2884
+Castillo       -180   P-1544
+Park           -136   P-3130
+
+Follow the entry with the largest credit.

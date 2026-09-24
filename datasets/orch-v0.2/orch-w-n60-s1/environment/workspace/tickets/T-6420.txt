@@ -1,0 +1,57 @@
+Ticket T-6420
+Customer: Aisha Karim
+Orders on file: ORD-46252, ORD-74512, ORD-68301, ORD-76655
+Opened: 2026-03-11 via chat transcript
+
+Order details:
+ORD-46252  placed 2026-05-28  status: delivered  total: $395.34
+  payment method: card ending 5511  ship to: 989 Mill Rd
+  - trail running shoes x1
+  - USB-C charging cable (2m) x3
+  - extended warranty, 2 years x2
+  - carabiner set x1
+ORD-74512  placed 2026-07-24  status: returned  total: $473.14
+  payment method: card ending 9144  ship to: 455 Cedar Ave
+  - cast iron skillet x1
+  - spare battery pack x3
+  - merino socks, size M x2
+  - stainless water bottle, 750ml x1
+ORD-68301  placed 2026-05-22  status: delivered  total: $410.22
+  payment method: card ending 2123  ship to: 398 Cedar Rd
+  - carry-on suitcase x1
+  - travel pouch x2
+  - stainless water bottle, 750ml x2
+  - USB-C charging cable (2m) x1
+  - merino socks, size M x1
+ORD-76655  placed 2026-01-20  status: returned  total: $121.20
+  payment method: card ending 8836  ship to: 260 Elm St
+  - noise-cancelling headphones x1
+  - replacement filter cartridge, 3-pack x1
+  - carabiner set x1
+
+--- message 1 from Aisha Karim ---
+How do I reset my password? The reset link keeps expiring. Is there a way to combine loyalty points from ORD-68301 with my next purchase? I'm happy to send screenshots if that helps. I'd rather not call; the hold times last time were very long.
+
+Aisha Karim
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Marcus (support) ---
+I've added a note to your account so the next agent has the context. Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-74512, you can download it from the Orders page. Tracking updates can lag by a day or two with this carrier.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Aisha Karim ---
+I'd rather not call; the hold times last time were very long. My earlier order ORD-76655 arrived fine, no complaints there. I'm happy to send screenshots if that helps. Is there a way to combine loyalty points from ORD-74512 with my next purchase?
+
+Thanks,
+Aisha Karim
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Marcus (support) ---
+Our warehouse shows ORD-68301 left on schedule. For ORD-68301, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering. Let me know if anything else looks off.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

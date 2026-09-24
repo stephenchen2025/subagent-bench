@@ -1,0 +1,11 @@
+Ledger page P-9427
+
+account      amount   see page
+Abbott         +752   P-1612
+Baker          -796   P-6494
+Zhou           -409   P-6841
+Rahman         -616   P-3340
+Nakamura       -836   P-2368
+Silva          -384   P-1207
+
+Follow the entry whose amount is closest to zero.

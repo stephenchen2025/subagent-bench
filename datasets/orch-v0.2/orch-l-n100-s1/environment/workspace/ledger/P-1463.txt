@@ -1,0 +1,10 @@
+Ledger page P-1463
+
+account      amount   see page
+Young          +628   P-3933
+Fofana         -177   P-3449
+Castillo       +611   P-4153
+Tanaka         -835   P-9887
+Baker           -48   P-3806
+
+Follow the debit belonging to the account that comes last alphabetically.

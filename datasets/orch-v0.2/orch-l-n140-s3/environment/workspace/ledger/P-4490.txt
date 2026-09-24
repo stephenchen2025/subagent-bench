@@ -1,0 +1,12 @@
+Ledger page P-4490
+
+account      amount   see page
+Kowalski       -849   P-2349
+Quinn          +156   P-3599
+Tanaka         -592   P-9932
+Grant          -235   P-9765
+Osei           +292   P-9697
+Nakamura       -876   P-9623
+Castillo       -677   P-3721
+
+Follow the entry whose amount is closest to zero.

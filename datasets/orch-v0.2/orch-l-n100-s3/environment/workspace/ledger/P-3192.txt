@@ -1,0 +1,11 @@
+Ledger page P-3192
+
+account      amount   see page
+Kowalski        -45   P-9340
+Ibarra          -24   P-3096
+Lambert        +655   P-2960
+Grant           +84   P-4279
+Nakamura       +260   P-3481
+Silva          +623   P-6398
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -19,9 +19,11 @@ Systems:
 
     solo          grep to narrow, then read candidates one by one; writes as it goes
     solo-xl       the same policy, 8x the context and steps
-    judicious     delegates W and P above a size threshold; does C and S itself
-    eager         always fans out, one worker per unit, briefs carry no shared contract
-    sloppy        delegates W and P but leaves a gap, duplicates a group, and drops
+    judicious     delegates W, P and C (C with the record contract in every brief);
+                  follows the L chain itself
+    eager         always delegates, finely: C briefs carry no shared contract, and L
+                  becomes a relay of workers
+    sloppy        delegates W, P and C but leaves a gap, duplicates a group, and drops
                   findings during synthesis
     oracle-split  the harness's scripted lead with perfect-reader workers
 """
@@ -30,7 +32,7 @@ import json
 import random
 import re
 
-from orch.families import coupled, probe, small, wide
+from orch.families import chain, coupled, probe, wide
 from orch.harness import SUBMIT_MARKER
 
 KEYWORDS = "twice|two times|duplicate|double|again|second"
@@ -65,8 +67,10 @@ class PolicyModel:
         self.config = type("Config", (), {"model_name": f"policy:{policy.__name__}"})()
 
     def _action(self, command):
-        return {"role": "assistant", "content": "", "extra": {"actions": [{"command": command}],
-                                                                 "cost": 0.0}}
+        # The command goes in the message text too, as a text-based model emits it:
+        # what an agent writes costs it context just like what it reads.
+        return {"role": "assistant", "content": f"```bash\n{command}\n```",
+                "extra": {"actions": [{"command": command}], "cost": 0.0}}
 
     def query(self, messages, **kwargs):
         if self._done:
@@ -178,21 +182,49 @@ def solo(ctx, instruction):
     elif family == "P":
         yield from _diagnose(ctx, _services_from(instruction), write_as_you_go=True)
     elif family == "C":
-        yield "cat jobs/*.py"
-        for module in ctx.task.work_items:
-            yield f"cat > jobs/{module}.py <<'PYEOF'\n{coupled.render_module(module)}PYEOF"
+        yield from _write_core(ctx, coupled.REPRESENTATIONS[0])
+        yield from _write_views(ctx, ctx.task.work_items, coupled.REPRESENTATIONS[0])
         yield "python -m unittest discover tests"
-    elif family == "S":
-        yield from _fix_small(ctx)
+    elif family == "L":
+        yield from _follow(ctx, ctx.task.truth["path"][0], len(ctx.task.truth["path"]),
+                           write_every=20)
 
 
-def _fix_small(ctx):
-    module = ctx.task.truth["module"]
-    fixed = next(v["fixed"] for v in small.VARIANTS if v["module"] == module)
-    yield f"cat textkit/{module}.py"
-    yield f"cat > textkit/{module}.py <<'PYEOF'\n{fixed}PYEOF"
-    yield f"python -m unittest tests/test_{module}.py"
-    return f"Fixed textkit/{module}.py; tests/test_{module}.py passes."
+def _write_core(ctx, rep):
+    yield "cat jobs/producer.py jobs/scheduler.py jobs/store.py"
+    for module in ("producer", "scheduler"):
+        yield f"cat > jobs/{module}.py <<'PYEOF'\n{coupled.render_core(module, *rep)}PYEOF"
+
+
+def _write_views(ctx, names, rep):
+    views = ctx.task.truth["views"]
+    for name in names:
+        spec = yield f"cat docs/views/{name}.md"
+        yield f"cat views/{name}.py"
+        if "Priority marker" in spec:
+            yield f"cat > views/{name}.py <<'PYEOF'\n{coupled.render_view(name, views[name], *rep)}PYEOF"
+
+
+def _follow(ctx, start, hops, write_every=None):
+    """Follow the chain from `start` for up to `hops` pages; returns (path, closing code)."""
+    path_truth = ctx.task.truth["path"]
+    i = path_truth.index(start)
+    path, closing = [], None
+    while len(path) < hops and i < len(path_truth):
+        code = path_truth[i]
+        obs = yield f"cat ledger/{code}.txt"
+        if f"Ledger page {code}" not in obs:
+            break
+        path.append(code)
+        if "Closing code:" in obs:
+            closing = obs.split("Closing code:")[1].split()[0]
+            break
+        i += 1
+        if write_every and len(path) % write_every == 0:
+            yield _write_json({"path": path})
+    if write_every:
+        yield _write_json({"path": path, "closing_code": closing or ""})
+    return path, closing
 
 
 # --- workers ------------------------------------------------------------------------
@@ -209,29 +241,40 @@ def worker(ctx, brief):
         found = yield from _diagnose(ctx, services, write_as_you_go=False)
         return "\n".join(json.dumps({"service": s, **v}) for s, v in found.items())
     if family == "C":
-        module = re.findall(r"jobs/(\w+)\.py", brief)[0]
-        # An isolated worker picks a record representation on its own.
-        rng = random.Random(f"{ctx.task.id}:{module}")
-        key, enc = rng.choice(coupled.REPRESENTATIONS)
-        yield f"cat jobs/{module}.py"
-        yield f"cat > jobs/{module}.py <<'PYEOF'\n{coupled.render_module(module, key, enc)}PYEOF"
-        return f"Updated jobs/{module}.py; priority stored under {key!r} ({enc})."
-    if family == "S":
-        report = yield from _fix_small(ctx)
-        return report
+        if "under the key 'priority'" in brief:
+            rep = coupled.REPRESENTATIONS[0]
+        else:
+            # No contract in the brief: an isolated worker picks a representation itself.
+            rep = random.Random(f"{ctx.task.id}:{brief}").choice(coupled.REPRESENTATIONS)
+        views = coupled.views_in(brief)
+        if views:
+            yield from _write_views(ctx, views, rep)
+        else:
+            yield from _write_core(ctx, rep)
+        yield "python -m unittest discover tests"
+        return f"Updated {', '.join(views) or 'producer and scheduler'}; priority stored as {rep}."
+    if family == "L":
+        start = re.findall(r"ledger/(P-\d+)\.txt", brief)[0]
+        hops = int(re.findall(r"for (\d+) hops", brief)[0])
+        path, closing = yield from _follow(ctx, start, hops)
+        return "\n".join(path) + (f"\nclosing code: {closing}" if closing else "")
     return "nothing to do"
 
 
 # --- delegating leads ------------------------------------------------------------------
 
-def _fan_out_w(ctx, group, gap=False, duplicate=False, keep_per_report=None):
-    obs = yield "ls tickets"
-    items = sorted(n[:-4] for n in obs.split() if n.endswith(".txt"))
-    groups = _chunks(items, group)
+def _spread(groups, gap, duplicate):
     if gap and len(groups) > 1:
         groups = groups[:-1]
     if duplicate and groups:
         groups = groups + [groups[0]]
+    return groups
+
+
+def _fan_out_w(ctx, group, gap=False, duplicate=False, keep_per_report=None):
+    obs = yield "ls tickets"
+    items = sorted(n[:-4] for n in obs.split() if n.endswith(".txt"))
+    groups = _spread(_chunks(items, group), gap, duplicate)
     briefs = [wide.WORKER_BRIEF.format(files=", ".join(f"tickets/{t}.txt" for t in g))
               for g in groups]
     yield _spawn_block(briefs)
@@ -245,12 +288,7 @@ def _fan_out_w(ctx, group, gap=False, duplicate=False, keep_per_report=None):
 
 
 def _fan_out_p(ctx, instruction, group, gap=False, duplicate=False, keep_per_report=None):
-    services = _services_from(instruction)
-    groups = _chunks(services, group)
-    if gap and len(groups) > 1:
-        groups = groups[:-1]
-    if duplicate and groups:
-        groups = groups + [groups[0]]
+    groups = _spread(_chunks(_services_from(instruction), group), gap, duplicate)
     briefs = [probe.WORKER_BRIEF.format(services=", ".join(g), menu=probe.MENU) for g in groups]
     yield _spawn_block(briefs)
     reports = yield "subagent wait"
@@ -262,45 +300,75 @@ def _fan_out_p(ctx, instruction, group, gap=False, duplicate=False, keep_per_rep
     yield _write_json({"services": found})
 
 
+VAGUE = "Keep it consistent with how the rest of the system stores priority."
+
+
+def _fan_out_c(ctx, group, contract, gap=False, duplicate=False):
+    names = ctx.task.work_items
+    groups = _spread(_chunks(names, group), gap, duplicate)
+    briefs = [coupled.CORE_BRIEF.format(contract=contract)] + [
+        coupled.WORKER_BRIEF.format(files=", ".join(f"views/{n}.py" for n in g), contract=contract)
+        for g in groups]
+    yield _spawn_block(briefs)
+    yield "subagent wait"
+    yield "python -m unittest discover tests"
+
+
+def _relay_l(ctx, segments):
+    """Delegate a sequential chain as a relay: each worker continues where the last stopped."""
+    path_len = len(ctx.task.truth["path"])
+    hops = -(-path_len // segments)
+    start, path, closing = ctx.task.truth["path"][0], [], None
+    for _ in range(segments):
+        report = yield ("subagent run <<'BRIEF'\n"
+                        + chain.SEGMENT_BRIEF.format(start=start, hops=hops) + "BRIEF")
+        pages = re.findall(r"^(P-\d+)$", report, re.M)
+        if not pages:
+            break
+        path += pages if not path else pages[1:]
+        match = re.search(r"closing code: (\S+)", report)
+        if match:
+            closing = match.group(1)
+            break
+        start = pages[-1]
+        hops += 1  # the next worker re-reads its starting page
+    yield _write_json({"path": path, "closing_code": closing or ""})
+
+
 def judicious(ctx, instruction):
-    family, size = ctx.task.family, ctx.task.size
-    if family == "W" and size > 12:
+    family = ctx.task.family
+    if family == "W":
         yield from _fan_out_w(ctx, wide.TICKETS_PER_WORKER)
-    elif family == "P" and size > 4:
+    elif family == "P":
         yield from _fan_out_p(ctx, instruction, probe.SERVICES_PER_WORKER)
+    elif family == "C":
+        yield from _fan_out_c(ctx, coupled.VIEWS_PER_WORKER, coupled.CONTRACT)
     else:
         yield from solo(ctx, instruction)
 
 
 def eager(ctx, instruction):
+    """Fans out everything, finely, with no shared contract."""
     family = ctx.task.family
     if family == "W":
-        yield from _fan_out_w(ctx, 3)
+        yield from _fan_out_w(ctx, 6)
     elif family == "P":
-        yield from _fan_out_p(ctx, instruction, 1)
+        yield from _fan_out_p(ctx, instruction, 2)
     elif family == "C":
-        briefs = [
-            f"Update jobs/{m}.py so that: {coupled.CONTRACT[m]} Jobs submitted before this "
-            "change have no priority; treat them as normal."
-            for m in ctx.task.work_items
-        ]
-        yield _spawn_block(briefs)
-        yield "subagent wait"
-        yield "python -m unittest discover tests"
-    elif family == "S":
-        module = ctx.task.truth["module"]
-        yield _spawn_block([f"Fix the bug in textkit/{module}.py so that "
-                            f"`python -m unittest tests/test_{module}.py` passes."])
-        yield "subagent wait"
-        yield f"python -m unittest tests/test_{module}.py"
+        yield from _fan_out_c(ctx, 2, VAGUE)
+    elif family == "L":
+        yield from _relay_l(ctx, 4)
 
 
 def sloppy(ctx, instruction):
+    """Delegates the right families, but partitions and merges carelessly."""
     family = ctx.task.family
-    if family == "W" and ctx.task.size > 12:
-        yield from _fan_out_w(ctx, 12, gap=True, duplicate=True, keep_per_report=2)
-    elif family == "P" and ctx.task.size > 4:
-        yield from _fan_out_p(ctx, instruction, 3, gap=True, duplicate=True, keep_per_report=2)
+    if family == "W":
+        yield from _fan_out_w(ctx, 16, gap=True, duplicate=True, keep_per_report=2)
+    elif family == "P":
+        yield from _fan_out_p(ctx, instruction, 4, gap=True, duplicate=True, keep_per_report=2)
+    elif family == "C":
+        yield from _fan_out_c(ctx, 4, coupled.CONTRACT, gap=True, duplicate=True)
     else:
         yield from solo(ctx, instruction)
 

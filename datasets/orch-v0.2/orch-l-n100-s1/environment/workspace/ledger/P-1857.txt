@@ -1,0 +1,11 @@
+Ledger page P-1857
+
+account      amount   see page
+Ibarra         -887   P-5938
+Abbott         -593   P-4279
+Hughes         +860   P-2372
+Umar           +494   P-6371
+Moreau         -340   P-6361
+Young          -164   P-1317
+
+Follow the entry with the largest credit.

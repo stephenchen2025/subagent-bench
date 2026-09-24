@@ -1,0 +1,10 @@
+Ledger page P-8846
+
+account      amount   see page
+Weber          -369   P-9154
+Abbott         +654   P-6086
+Tanaka         -220   P-2904
+Rahman         +205   P-6679
+Park           +250   P-3982
+
+Follow the entry whose amount is closest to zero.

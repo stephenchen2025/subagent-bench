@@ -1,0 +1,11 @@
+Ledger page P-5983
+
+account      amount   see page
+Vance          +432   P-6883
+Lambert        -488   P-6579
+Rahman         -690   P-1433
+Castillo       -258   P-4465
+Ibarra          -71   P-4045
+Xu             +814   P-4316
+
+Follow the entry with the second-largest amount.

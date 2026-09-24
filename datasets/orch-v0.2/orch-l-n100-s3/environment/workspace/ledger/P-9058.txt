@@ -1,0 +1,10 @@
+Ledger page P-9058
+
+account      amount   see page
+Xu             -615   P-2834
+Jensen         -873   P-6018
+Ibarra         -814   P-5999
+Osei           -754   P-4142
+Lambert        +622   P-4454
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,10 @@
+Ledger page P-9723
+
+account      amount   see page
+Rahman         +221   P-8818
+Hughes         +536   P-4502
+Weber          -192   P-5460
+Xu             +608   P-9617
+Kowalski       +210   P-9931
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,10 @@
+Ledger page P-1963
+
+account      amount   see page
+Xu             +659   P-1121
+Castillo       +476   P-5238
+Osei           -365   P-4466
+Young          -879   P-6129
+Nakamura       +355   P-9923
+
+Follow the entry with the largest debit (the most negative amount).

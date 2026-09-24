@@ -1,0 +1,70 @@
+Ticket T-5686
+Customer: Priya Raman
+Orders on file: ORD-73311, ORD-14654, ORD-92110, ORD-45775
+Opened: 2026-05-01 via web form
+
+Order details:
+ORD-73311  placed 2026-03-10  status: in transit  total: $407.40
+  payment method: card ending 1811  ship to: 795 Cedar St
+  - water filter pitcher x1
+  - extended warranty, 2 years x1
+  - spare battery pack x3
+  - replacement filter cartridge, 3-pack x1
+ORD-14654  placed 2026-07-14  status: delivered  total: $114.46
+  payment method: card ending 3817  ship to: 899 Harbor Ave
+  - wool blanket x1
+  - spare battery pack x1
+  - USB-C charging cable (2m) x2
+  - travel pouch x3
+ORD-92110  placed 2026-08-22  status: in transit  total: $334.31
+  payment method: card ending 5840  ship to: 264 Elm St
+  - noise-cancelling headphones x1
+  - replacement filter cartridge, 3-pack x2
+  - gift wrap x2
+  - spare battery pack x3
+ORD-45775  placed 2026-01-26  status: delivered  total: $121.22
+  payment method: card ending 1606  ship to: 235 Mill St
+  - camping stove x1
+  - stainless water bottle, 750ml x3
+  - spare battery pack x2
+  - travel pouch x3
+  - USB-C charging cable (2m) x3
+
+--- message 1 from Priya Raman ---
+Can I use a gift card on ORD-92110, or is it too late? Could you also tell me whether ORD-73311 qualifies for the extended return window? Is there a way to combine loyalty points from ORD-92110 with my next purchase? Your app logged me out twice while I was looking at this, which didn't help.
+
+Best regards,
+Priya Raman
+
+--- message 2 from Rosa (support) ---
+I've resent the confirmation email for ORD-73311 to the address on file. Screenshots aren't necessary, but thank you for offering. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-14654 left on schedule.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Priya Raman ---
+Tracking for ORD-73311 hasn't updated since Tuesday. My partner placed ORD-73311 on our shared account, in case that matters. The confirmation email for ORD-92110 went to my spam folder, so I only just saw it. Your app logged me out twice while I was looking at this, which didn't help.
+
+Best regards,
+Priya Raman
+
+--- message 4 from Rosa (support) ---
+I've updated your shipping address on file. I can see all the orders on your account, including ORD-14654. Our warehouse shows ORD-73311 left on schedule. Screenshots aren't necessary, but thank you for offering.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Priya Raman ---
+The box for ORD-92110 was a bit crushed but the contents were fine. Tracking for ORD-73311 hasn't updated since Tuesday. The bike light set itself is great, for what it's worth. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Priya Raman
+
+--- message 6 from Rosa (support) ---
+Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-14654 to the address on file. I can see all the orders on your account, including ORD-73311. I've added a note to your account so the next agent has the context.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

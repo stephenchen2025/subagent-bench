@@ -1,0 +1,10 @@
+Ledger page P-8298
+
+account      amount   see page
+Jensen           +6   P-1949
+Vance          -658   P-8832
+Silva          +314   P-6914
+Xu             -732   P-9632
+Osei           +546   P-8832
+
+Follow the entry with the largest debit (the most negative amount).

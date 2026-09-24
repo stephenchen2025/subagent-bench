@@ -1,0 +1,11 @@
+Ledger page P-1949
+
+account      amount   see page
+Silva           -37   P-7685
+Nakamura       +877   P-7553
+Dunn           +777   P-5201
+Tanaka         +741   P-8027
+Ibarra         -605   P-3274
+Vance          +881   P-4082
+
+Follow the entry with the largest credit.

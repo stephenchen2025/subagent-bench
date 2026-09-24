@@ -1,0 +1,11 @@
+Ledger page P-1487
+
+account      amount   see page
+Moreau         -602   P-3475
+Tanaka          -46   P-9550
+Weber          -295   P-5259
+Jensen         +243   P-9827
+Hughes         -773   P-8826
+Dunn           -613   P-9821
+
+Follow the entry whose amount is closest to zero.

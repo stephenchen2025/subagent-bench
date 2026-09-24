@@ -1,0 +1,11 @@
+Ledger page P-4828
+
+account      amount   see page
+Lambert        -121   P-5756
+Weber          -469   P-6899
+Zhou           -481   P-4828
+Quinn          -715   P-6899
+Grant          -135   P-7231
+Fofana         +441   P-4912
+
+Follow the entry whose amount is closest to zero.

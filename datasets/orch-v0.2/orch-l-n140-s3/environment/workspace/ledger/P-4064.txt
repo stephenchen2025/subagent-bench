@@ -1,0 +1,11 @@
+Ledger page P-4064
+
+account      amount   see page
+Fofana         +615   P-3475
+Silva          -266   P-2007
+Lambert         -61   P-9105
+Abbott         +686   P-7987
+Grant          +571   P-4576
+Moreau         -712   P-5159
+
+Follow the entry whose amount is closest to zero.

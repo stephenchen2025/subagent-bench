@@ -1,0 +1,11 @@
+Ledger page P-7946
+
+account      amount   see page
+Osei           -713   P-3675
+Dunn           -254   P-2864
+Xu             +338   P-2295
+Lambert        +664   P-1108
+Jensen         +227   P-6680
+Baker          +810   P-8864
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,12 @@
+Ledger page P-7275
+
+account      amount   see page
+Vance          -692   P-7810
+Abbott          +59   P-8316
+Tanaka         +546   P-4094
+Park           +433   P-3740
+Moreau         +494   P-7621
+Rahman         +128   P-6184
+Baker          +165   P-8565
+
+Follow the credit belonging to the account that comes first alphabetically.

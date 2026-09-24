@@ -1,0 +1,12 @@
+Ledger page P-3211
+
+account      amount   see page
+Nakamura       -496   P-6025
+Rahman         +828   P-3364
+Grant           -60   P-5618
+Dunn           +184   P-6234
+Baker          +123   P-8176
+Quinn          -862   P-3072
+Lambert        -173   P-1406
+
+Follow the entry with the largest debit (the most negative amount).

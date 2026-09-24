@@ -1,0 +1,10 @@
+Ledger page P-1320
+
+account      amount   see page
+Fofana         +595   P-2308
+Kowalski       +770   P-1612
+Vance          -124   P-5688
+Xu              +72   P-2164
+Umar           -202   P-6399
+
+Follow the entry whose amount is closest to zero.

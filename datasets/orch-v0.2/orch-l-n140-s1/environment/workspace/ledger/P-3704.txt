@@ -1,0 +1,10 @@
+Ledger page P-3704
+
+account      amount   see page
+Quinn          -740   P-4354
+Castillo       -503   P-4075
+Umar            +44   P-1652
+Ibarra         +162   P-2684
+Vance          -887   P-8241
+
+Follow the credit belonging to the account that comes first alphabetically.

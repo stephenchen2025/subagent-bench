@@ -1,0 +1,11 @@
+Ledger page P-8671
+
+account      amount   see page
+Park           +708   P-8889
+Jensen         +619   P-9426
+Zhou           -144   P-7290
+Young          +270   P-6398
+Nakamura       -553   P-6821
+Eriksen        -157   P-9689
+
+Follow the entry with the largest credit.

@@ -1,0 +1,76 @@
+Ticket T-5866
+Customer: Oskar Berg
+Orders on file: ORD-25280, ORD-62304, ORD-80250, ORD-33260
+Opened: 2026-06-08 via web form
+
+Order details:
+ORD-25280  placed 2026-06-07  status: in transit  total: $295.31
+  payment method: card ending 3415  ship to: 813 Elm Lane
+  - cast iron skillet x1
+  - gift wrap x1
+  - spare battery pack x2
+  - merino socks, size M x2
+ORD-62304  placed 2026-06-11  status: label created  total: $422.99
+  payment method: card ending 8587  ship to: 645 Oak Rd
+  - blender x1
+  - USB-C charging cable (2m) x1
+  - spare battery pack x1
+ORD-80250  placed 2026-06-05  status: delivered  total: $166.51
+  payment method: card ending 5966  ship to: 964 Cedar St
+  - rain jacket x1
+  - microfiber cloth x3
+  - gift wrap x1
+  - replacement filter cartridge, 3-pack x1
+  - extended warranty, 2 years x2
+ORD-33260  placed 2026-06-12  status: returned  total: $420.79
+  payment method: card ending 5818  ship to: 710 Mill Rd
+  - wool blanket x1
+  - replacement filter cartridge, 3-pack x2
+  - microfiber cloth x3
+  - gift wrap x2
+
+--- message 1 from Oskar Berg ---
+Can I use a gift card on ORD-80250, or is it too late? I'd rather not call; the hold times last time were very long. Is there a way to combine loyalty points from ORD-62304 with my next purchase? My earlier order ORD-80250 arrived fine, no complaints there.
+
+Best regards,
+Oskar Berg
+
+--- message 2 from Pete (support) ---
+Loyalty points post about a week after an order is delivered. Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off. If you need an invoice for ORD-25280, you can download it from the Orders page.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Oskar Berg ---
+The checkout page for ORD-33260 timed out. If I try to pay again, will I end up being charged twice? My earlier order ORD-25280 arrived fine, no complaints there. I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Oskar Berg
+
+--- message 4 from Pete (support) ---
+Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Pete (support) ---
+No, you won't be charged twice: the first attempt for ORD-33260 failed before capture, so retrying is safe. Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-62304 to the address on file.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Oskar Berg ---
+Is there a way to combine loyalty points from ORD-62304 with my next purchase? I'm happy to send screenshots if that helps. I've been a customer for a few years and usually everything goes smoothly. My earlier order ORD-80250 arrived fine, no complaints there.
+
+Best regards,
+Oskar Berg
+
+--- message 7 from Pete (support) ---
+Screenshots aren't necessary, but thank you for offering. For ORD-62304, the return window is 30 days from delivery. Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-25280 to the address on file.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

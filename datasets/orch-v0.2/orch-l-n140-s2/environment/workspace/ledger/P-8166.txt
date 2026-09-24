@@ -1,0 +1,10 @@
+Ledger page P-8166
+
+account      amount   see page
+Xu             +788   P-2852
+Tanaka          -48   P-6305
+Osei           -517   P-6654
+Grant          -669   P-8264
+Dunn           -797   P-7270
+
+Follow the debit belonging to the account that comes last alphabetically.

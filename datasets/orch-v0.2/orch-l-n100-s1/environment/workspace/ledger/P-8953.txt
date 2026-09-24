@@ -1,0 +1,10 @@
+Ledger page P-8953
+
+account      amount   see page
+Zhou           +240   P-3933
+Umar           -361   P-8084
+Tanaka         +360   P-2808
+Abbott         +775   P-1841
+Vance          +752   P-3933
+
+Follow the entry with the second-largest amount.

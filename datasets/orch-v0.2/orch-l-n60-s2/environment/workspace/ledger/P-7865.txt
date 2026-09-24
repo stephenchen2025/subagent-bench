@@ -1,0 +1,12 @@
+Ledger page P-7865
+
+account      amount   see page
+Eriksen        +623   P-4846
+Rahman         +382   P-2745
+Fofana         +126   P-6634
+Tanaka         +775   P-7013
+Umar           +155   P-8755
+Jensen          +32   P-7391
+Castillo       -604   P-9573
+
+Follow the entry with the largest debit (the most negative amount).

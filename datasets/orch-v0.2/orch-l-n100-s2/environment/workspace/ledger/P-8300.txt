@@ -1,0 +1,12 @@
+Ledger page P-8300
+
+account      amount   see page
+Quinn          -216   P-4097
+Tanaka         +564   P-2697
+Lambert        +818   P-3994
+Jensen         -126   P-3301
+Park           -412   P-5888
+Ibarra         -365   P-8393
+Silva          +496   P-2495
+
+Follow the debit belonging to the account that comes last alphabetically.

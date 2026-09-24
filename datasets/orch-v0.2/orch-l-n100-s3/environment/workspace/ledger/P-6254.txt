@@ -1,0 +1,11 @@
+Ledger page P-6254
+
+account      amount   see page
+Young          -132   P-8008
+Quinn          +601   P-5186
+Park           -439   P-6086
+Rahman         +787   P-2589
+Moreau          +56   P-8816
+Vance          -484   P-1759
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,10 @@
+Ledger page P-5226
+
+account      amount   see page
+Young          +549   P-1567
+Weber          -312   P-4728
+Ibarra          +26   P-7595
+Rahman         -507   P-4852
+Quinn          +634   P-2941
+
+Follow the entry with the largest credit.

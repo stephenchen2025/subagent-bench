@@ -1,0 +1,11 @@
+Ledger page P-2349
+
+account      amount   see page
+Grant          -854   P-3914
+Park            +95   P-8115
+Xu             +344   P-4285
+Dunn           -190   P-2007
+Baker          +691   P-7597
+Quinn          +808   P-7277
+
+Follow the entry with the second-largest amount.

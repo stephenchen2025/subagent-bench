@@ -1,0 +1,11 @@
+Ledger page P-7420
+
+account      amount   see page
+Ibarra         +323   P-2530
+Park            -33   P-8573
+Umar           -777   P-4348
+Grant          -156   P-7409
+Jensen         -440   P-8488
+Fofana         +633   P-9134
+
+Follow the debit belonging to the account that comes last alphabetically.

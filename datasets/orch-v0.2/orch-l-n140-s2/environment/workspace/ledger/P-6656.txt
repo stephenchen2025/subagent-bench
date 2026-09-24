@@ -1,0 +1,12 @@
+Ledger page P-6656
+
+account      amount   see page
+Ibarra         +140   P-3573
+Moreau         -369   P-5058
+Kowalski       +658   P-1757
+Silva          +826   P-7488
+Tanaka         +821   P-4607
+Baker          +356   P-5027
+Young          +440   P-8261
+
+Follow the debit belonging to the account that comes last alphabetically.

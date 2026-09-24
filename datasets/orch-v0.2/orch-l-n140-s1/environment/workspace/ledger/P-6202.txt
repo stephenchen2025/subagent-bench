@@ -1,0 +1,10 @@
+Ledger page P-6202
+
+account      amount   see page
+Nakamura       +363   P-2723
+Silva          -726   P-2443
+Quinn          -666   P-7084
+Park           +342   P-9632
+Osei            +78   P-4478
+
+Follow the entry with the second-largest amount.

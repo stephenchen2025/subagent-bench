@@ -1,0 +1,12 @@
+Ledger page P-9301
+
+account      amount   see page
+Moreau         -458   P-1015
+Ibarra         -640   P-6624
+Xu             -282   P-4366
+Osei           +151   P-6102
+Baker          +873   P-1375
+Hughes         +882   P-3721
+Nakamura       +435   P-3236
+
+Follow the entry with the largest credit.

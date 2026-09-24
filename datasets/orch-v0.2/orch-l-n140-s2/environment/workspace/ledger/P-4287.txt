@@ -1,0 +1,12 @@
+Ledger page P-4287
+
+account      amount   see page
+Weber          +769   P-8594
+Dunn           -147   P-8001
+Ibarra         -465   P-5619
+Rahman         -676   P-2277
+Jensen         +240   P-2370
+Tanaka         +778   P-1981
+Abbott         -866   P-3102
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,11 @@
+Ledger page P-3913
+
+account      amount   see page
+Grant          -875   P-2086
+Jensen         +726   P-8281
+Rahman         -380   P-1660
+Weber          +617   P-1423
+Moreau          +52   P-2034
+Vance          +107   P-8747
+
+Follow the entry with the largest debit (the most negative amount).

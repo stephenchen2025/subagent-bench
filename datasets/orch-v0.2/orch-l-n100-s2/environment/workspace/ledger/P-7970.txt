@@ -1,0 +1,12 @@
+Ledger page P-7970
+
+account      amount   see page
+Fofana         +399   P-4097
+Nakamura        -60   P-2073
+Young          -614   P-5179
+Hughes          +72   P-3075
+Rahman         -757   P-1406
+Ibarra          +41   P-9213
+Osei           +170   P-4780
+
+Follow the entry with the second-largest amount.

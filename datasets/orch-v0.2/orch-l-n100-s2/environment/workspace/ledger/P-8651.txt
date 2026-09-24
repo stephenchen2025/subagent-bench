@@ -1,0 +1,12 @@
+Ledger page P-8651
+
+account      amount   see page
+Vance           -79   P-9090
+Castillo       +674   P-2413
+Baker          +294   P-7685
+Hughes         -833   P-6025
+Lambert        -555   P-8255
+Kowalski       +785   P-3005
+Nakamura        +79   P-3130
+
+Follow the entry with the largest credit.

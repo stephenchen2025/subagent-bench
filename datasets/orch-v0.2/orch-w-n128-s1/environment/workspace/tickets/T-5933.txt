@@ -1,0 +1,73 @@
+Ticket T-5933
+Customer: Felix Wagner
+Orders on file: ORD-18151, ORD-94238, ORD-16571, ORD-47502
+Opened: 2026-07-04 via web form
+
+Order details:
+ORD-18151  placed 2026-02-03  status: in transit  total: $361.87
+  payment method: card ending 2288  ship to: 404 Oak Ave
+  - rain jacket x1
+  - microfiber cloth x2
+  - spare battery pack x1
+ORD-94238  placed 2026-07-24  status: returned  total: $188.08
+  payment method: card ending 7731  ship to: 293 Mill Lane
+  - mechanical keyboard x1
+  - travel pouch x3
+  - stainless water bottle, 750ml x1
+  - microfiber cloth x3
+  - merino socks, size M x3
+ORD-16571  placed 2026-05-21  status: label created  total: $74.50
+  payment method: card ending 9290  ship to: 862 Mill Lane
+  - espresso grinder x1
+  - replacement filter cartridge, 3-pack x3
+  - carabiner set x3
+  - stainless water bottle, 750ml x2
+  - extended warranty, 2 years x3
+ORD-47502  placed 2026-06-09  status: in transit  total: $249.93
+  payment method: card ending 1319  ship to: 754 Elm St
+  - cast iron skillet x1
+  - USB-C charging cable (2m) x3
+  - travel pouch x2
+  - microfiber cloth x1
+  - carabiner set x1
+
+--- message 1 from Felix Wagner ---
+How do I reset my password? The reset link keeps expiring. My earlier order ORD-94238 arrived fine, no complaints there. I'm happy to send screenshots if that helps. I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Felix Wagner
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Dana (support) ---
+I've added a note to your account so the next agent has the context. For ORD-47502, the return window is 30 days from delivery. I've resent the confirmation email for ORD-94238 to the address on file. Let me know if anything else looks off.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Felix Wagner ---
+Your app logged me out twice while I was looking at this, which didn't help. My earlier order ORD-94238 arrived fine, no complaints there. My partner placed ORD-16571 on our shared account, in case that matters. The camping stove itself is great, for what it's worth.
+
+Thanks,
+Felix Wagner
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Dana (support) ---
+I can see all the orders on your account, including ORD-16571. For ORD-16571, the return window is 30 days from delivery. Loyalty points post about a week after an order is delivered. If you need an invoice for ORD-47502, you can download it from the Orders page.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Felix Wagner ---
+I tried the chat widget first but it kept disconnecting. Your app logged me out twice while I was looking at this, which didn't help. My earlier order ORD-16571 arrived fine, no complaints there. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Felix Wagner
+
+--- message 6 from Dana (support) ---
+Loyalty points post about a week after an order is delivered. If you need an invoice for ORD-94238, you can download it from the Orders page. I can see all the orders on your account, including ORD-16571. Tracking updates can lag by a day or two with this carrier.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

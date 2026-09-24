@@ -1,0 +1,11 @@
+Ledger page P-3258
+
+account      amount   see page
+Young           +17   P-3381
+Weber          -750   P-8735
+Umar           +367   P-7388
+Tanaka         -897   P-6361
+Abbott         +634   P-9946
+Jensen         +863   P-1157
+
+Follow the entry whose amount is closest to zero.

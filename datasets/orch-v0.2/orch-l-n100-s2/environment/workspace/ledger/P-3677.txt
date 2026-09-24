@@ -1,0 +1,10 @@
+Ledger page P-3677
+
+account      amount   see page
+Dunn           -592   P-3029
+Silva           +22   P-5132
+Umar           -886   P-5132
+Moreau         +618   P-4635
+Grant          -439   P-1382
+
+Follow the debit belonging to the account that comes last alphabetically.

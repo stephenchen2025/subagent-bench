@@ -1,0 +1,12 @@
+Ledger page P-3925
+
+account      amount   see page
+Umar            +32   P-8816
+Moreau         +807   P-3683
+Park           +288   P-1615
+Baker          -336   P-6853
+Kowalski       -155   P-2663
+Osei           +789   P-5069
+Hughes         +483   P-4898
+
+Follow the entry with the largest debit (the most negative amount).

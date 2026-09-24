@@ -1,0 +1,12 @@
+Ledger page P-4366
+
+account      amount   see page
+Umar           -303   P-1117
+Quinn          -389   P-2146
+Castillo       -147   P-2957
+Dunn           -395   P-3659
+Xu             -882   P-9811
+Abbott          +66   P-3659
+Moreau         +222   P-8800
+
+Follow the entry with the largest credit.

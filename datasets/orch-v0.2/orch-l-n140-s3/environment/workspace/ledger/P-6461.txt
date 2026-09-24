@@ -1,0 +1,12 @@
+Ledger page P-6461
+
+account      amount   see page
+Abbott         -205   P-6651
+Zhou           +526   P-3219
+Tanaka         -117   P-6901
+Jensen         -686   P-5679
+Lambert        -293   P-5827
+Eriksen        +518   P-4173
+Xu             -457   P-5116
+
+Follow the entry with the largest debit (the most negative amount).

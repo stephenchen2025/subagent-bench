@@ -1,0 +1,11 @@
+Ledger page P-3041
+
+account      amount   see page
+Quinn          +822   P-6178
+Nakamura       +389   P-9883
+Ibarra         +179   P-2277
+Zhou            -30   P-6981
+Tanaka         +263   P-9865
+Lambert        +183   P-9865
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,12 @@
+Ledger page P-9420
+
+account      amount   see page
+Park           +367   P-8994
+Eriksen        +590   P-3914
+Grant          -459   P-2109
+Tanaka         -570   P-6102
+Young          +218   P-9932
+Fofana         -850   P-2232
+Osei           +282   P-7671
+
+Follow the entry whose amount is closest to zero.

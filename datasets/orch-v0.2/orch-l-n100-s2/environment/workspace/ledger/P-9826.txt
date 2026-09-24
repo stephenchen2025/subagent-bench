@@ -1,0 +1,10 @@
+Ledger page P-9826
+
+account      amount   see page
+Young          -716   P-8385
+Umar           +522   P-4528
+Quinn          +739   P-7222
+Eriksen        +604   P-9056
+Tanaka         +802   P-3211
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,12 @@
+Ledger page P-4481
+
+account      amount   see page
+Baker          +899   P-6911
+Castillo       -489   P-8913
+Dunn           -410   P-3982
+Xu             +766   P-3381
+Tanaka         +770   P-4381
+Hughes         +363   P-8526
+Nakamura       +225   P-1576
+
+Follow the entry whose amount is closest to zero.

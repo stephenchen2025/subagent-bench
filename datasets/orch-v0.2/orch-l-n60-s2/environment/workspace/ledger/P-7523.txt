@@ -1,0 +1,12 @@
+Ledger page P-7523
+
+account      amount   see page
+Fofana         +869   P-8094
+Quinn          +665   P-6899
+Rahman         -108   P-8187
+Kowalski       -179   P-7067
+Umar            +35   P-4828
+Weber          -784   P-8187
+Xu             +648   P-7905
+
+Follow the entry with the largest credit.

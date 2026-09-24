@@ -1,0 +1,82 @@
+Ticket T-5328
+Customer: Liam O'Neill
+Orders on file: ORD-12513, ORD-19941, ORD-13957, ORD-60830
+Opened: 2026-05-05 via chat transcript
+
+Order details:
+ORD-12513  placed 2026-06-13  status: delivered  total: $90.78
+  payment method: card ending 4196  ship to: 746 Harbor Ave
+  - camping stove x1
+  - stainless water bottle, 750ml x1
+  - carabiner set x3
+  - travel pouch x1
+ORD-19941  placed 2026-08-12  status: returned  total: $327.12
+  payment method: card ending 5979  ship to: 868 Harbor Rd
+  - bike light set x1
+  - gift wrap x2
+  - replacement filter cartridge, 3-pack x2
+ORD-13957  placed 2026-07-14  status: delivered  total: $353.19
+  payment method: card ending 8099  ship to: 554 Elm St
+  - mechanical keyboard x1
+  - replacement filter cartridge, 3-pack x3
+  - microfiber cloth x2
+  - USB-C charging cable (2m) x2
+ORD-60830  placed 2026-01-05  status: delivered  total: $209.89
+  payment method: card ending 6929  ship to: 807 Elm St
+  - camping stove x1
+  - stainless water bottle, 750ml x2
+  - spare battery pack x1
+  - microfiber cloth x3
+
+--- message 1 from Liam O'Neill ---
+I'd like to return the standing desk from ORD-60830; it's the wrong size. The confirmation email for ORD-12513 went to my spam folder, so I only just saw it. Tracking for ORD-60830 hasn't updated since Tuesday. My earlier order ORD-60830 arrived fine, no complaints there.
+
+Best regards,
+Liam O'Neill
+
+--- message 2 from Rosa (support) ---
+I can see all the orders on your account, including ORD-60830. I've added a note to your account so the next agent has the context. If you need an invoice for ORD-60830, you can download it from the Orders page. Loyalty points post about a week after an order is delivered.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Liam O'Neill ---
+Something looks off with ORD-13957: I see what might be a second payment. Is there a way to combine loyalty points from ORD-12513 with my next purchase? I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Liam O'Neill
+
+--- message 4 from Liam O'Neill ---
+Just checked again -- both charges for ORD-13957 are settled now, not pending. I changed my shipping address last month, so please double-check you have the new one. My partner placed ORD-12513 on our shared account, in case that matters.
+
+Thanks,
+Liam O'Neill
+Sent from my phone -- please excuse typos.
+
+--- message 5 from Rosa (support) ---
+I've updated your shipping address on file. Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-12513 to the address on file.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Rosa (support) ---
+I've checked with our payments team: both captures for ORD-13957 settled, so you were genuinely charged twice. I've issued a refund for the second one; it should show within 3-5 business days. I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-19941 to the address on file.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Liam O'Neill ---
+My partner placed ORD-12513 on our shared account, in case that matters. My earlier order ORD-12513 arrived fine, no complaints there. I changed my shipping address last month, so please double-check you have the new one. I'd rather not call; the hold times last time were very long.
+
+Liam O'Neill
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Rosa (support) ---
+Our warehouse shows ORD-60830 left on schedule. Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

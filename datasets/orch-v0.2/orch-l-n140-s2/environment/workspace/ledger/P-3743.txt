@@ -1,0 +1,11 @@
+Ledger page P-3743
+
+account      amount   see page
+Nakamura       -659   P-8981
+Jensen         +373   P-8335
+Xu              -13   P-5836
+Park           +414   P-4169
+Moreau         +342   P-2018
+Lambert        +369   P-1803
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,12 @@
+Ledger page P-5009
+
+account      amount   see page
+Vance          +836   P-4576
+Quinn          +250   P-8445
+Zhou           +159   P-4125
+Baker          +876   P-9678
+Weber          +298   P-3039
+Abbott         +675   P-6129
+Young          -552   P-5767
+
+Follow the entry whose amount is closest to zero.

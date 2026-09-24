@@ -1,0 +1,10 @@
+Ledger page P-5069
+
+account      amount   see page
+Fofana         +313   P-7937
+Osei           -356   P-6952
+Quinn          -583   P-3425
+Umar           +584   P-6253
+Baker          -489   P-9680
+
+Follow the entry with the largest debit (the most negative amount).

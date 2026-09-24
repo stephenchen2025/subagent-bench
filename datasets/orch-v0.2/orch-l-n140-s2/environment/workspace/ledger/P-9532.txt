@@ -1,0 +1,11 @@
+Ledger page P-9532
+
+account      amount   see page
+Abbott         +105   P-9352
+Castillo         +8   P-7314
+Baker          -631   P-4236
+Eriksen        +727   P-9327
+Ibarra         -750   P-8985
+Hughes          +85   P-5757
+
+Follow the entry whose amount is closest to zero.

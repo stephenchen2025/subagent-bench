@@ -1,0 +1,11 @@
+Ledger page P-7004
+
+account      amount   see page
+Castillo       -402   P-8421
+Vance           -36   P-8120
+Park            -32   P-4730
+Xu             +475   P-1861
+Eriksen        -285   P-7069
+Baker           -68   P-2723
+
+Follow the entry whose amount is closest to zero.

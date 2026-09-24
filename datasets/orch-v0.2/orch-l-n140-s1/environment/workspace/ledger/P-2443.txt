@@ -1,0 +1,12 @@
+Ledger page P-2443
+
+account      amount   see page
+Fofana         +216   P-4473
+Vance          +688   P-7215
+Osei           -533   P-9747
+Tanaka         +746   P-3005
+Young          -606   P-1903
+Nakamura       +730   P-3084
+Eriksen        +786   P-2417
+
+Follow the debit belonging to the account that comes last alphabetically.

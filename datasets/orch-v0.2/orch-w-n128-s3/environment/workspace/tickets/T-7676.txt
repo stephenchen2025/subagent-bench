@@ -1,0 +1,81 @@
+Ticket T-7676
+Customer: Grace Mwangi
+Orders on file: ORD-72542, ORD-69170, ORD-35667, ORD-18136
+Opened: 2026-04-01 via web form
+
+Order details:
+ORD-72542  placed 2026-05-20  status: delivered  total: $249.12
+  payment method: card ending 5742  ship to: 945 Elm St
+  - water filter pitcher x1
+  - extended warranty, 2 years x1
+  - travel pouch x1
+ORD-69170  placed 2026-03-09  status: in transit  total: $215.50
+  payment method: card ending 2071  ship to: 790 Harbor St
+  - standing desk x1
+  - merino socks, size M x1
+  - USB-C charging cable (2m) x2
+ORD-35667  placed 2026-08-10  status: returned  total: $327.89
+  payment method: card ending 9511  ship to: 666 Cedar St
+  - rain jacket x1
+  - stainless water bottle, 750ml x2
+  - microfiber cloth x2
+  - travel pouch x3
+ORD-18136  placed 2026-04-19  status: in transit  total: $480.71
+  payment method: card ending 2220  ship to: 932 Cedar Lane
+  - carry-on suitcase x1
+  - microfiber cloth x1
+  - stainless water bottle, 750ml x3
+  - replacement filter cartridge, 3-pack x2
+
+--- message 1 from Grace Mwangi ---
+I need to change the delivery address for ORD-18136 before it ships. I've been a customer for a few years and usually everything goes smoothly. I changed my shipping address last month, so please double-check you have the new one. Could you also tell me whether ORD-69170 qualifies for the extended return window?
+
+Best regards,
+Grace Mwangi
+
+--- message 2 from Arjun (support) ---
+I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-72542 to the address on file. Screenshots aren't necessary, but thank you for offering. Our warehouse shows ORD-72542 left on schedule.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Grace Mwangi ---
+I see two charges on my bank this week, one for ORD-35667 and one for ORD-72542. Both are correct -- I ordered twice on purpose -- but could you send me the invoices for my expense report? I tried the chat widget first but it kept disconnecting. The box for ORD-72542 was a bit crushed but the contents were fine.
+
+Thanks,
+Grace Mwangi
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Arjun (support) ---
+If you need an invoice for ORD-18136, you can download it from the Orders page. For ORD-72542, the return window is 30 days from delivery. Thanks for reaching out, and sorry for the trouble.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Grace Mwangi ---
+I changed my shipping address last month, so please double-check you have the new one. I've been a customer for a few years and usually everything goes smoothly. Could you also tell me whether ORD-18136 qualifies for the extended return window? My earlier order ORD-69170 arrived fine, no complaints there.
+
+Grace Mwangi
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Arjun (support) ---
+Screenshots aren't necessary, but thank you for offering. For ORD-72542, the return window is 30 days from delivery. Thanks for reaching out, and sorry for the trouble. I've resent the confirmation email for ORD-69170 to the address on file.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Grace Mwangi ---
+I've been a customer for a few years and usually everything goes smoothly. The camping stove itself is great, for what it's worth. I'd rather not call; the hold times last time were very long. I tried the chat widget first but it kept disconnecting.
+
+Grace Mwangi
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Arjun (support) ---
+Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering. If you need an invoice for ORD-69170, you can download it from the Orders page. I can see all the orders on your account, including ORD-18136.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

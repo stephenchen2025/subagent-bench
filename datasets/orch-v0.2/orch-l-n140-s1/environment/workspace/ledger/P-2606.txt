@@ -1,0 +1,11 @@
+Ledger page P-2606
+
+account      amount   see page
+Tanaka         -365   P-6167
+Fofana         -636   P-7409
+Weber          +582   P-7354
+Kowalski       -677   P-6457
+Umar           +724   P-3970
+Eriksen        -136   P-6691
+
+Follow the entry with the second-largest amount.

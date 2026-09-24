@@ -1,0 +1,11 @@
+Ledger page P-2604
+
+account      amount   see page
+Zhou           +505   P-1372
+Nakamura       +480   P-1522
+Abbott         +368   P-2681
+Xu             +754   P-1287
+Jensen         +761   P-6064
+Grant          -594   P-7693
+
+Follow the debit belonging to the account that comes last alphabetically.

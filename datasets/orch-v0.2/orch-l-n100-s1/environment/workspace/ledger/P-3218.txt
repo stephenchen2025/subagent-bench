@@ -1,0 +1,10 @@
+Ledger page P-3218
+
+account      amount   see page
+Lambert        +752   P-9247
+Ibarra         -759   P-1841
+Baker          +644   P-3420
+Park           -506   P-6359
+Abbott         +672   P-9758
+
+Follow the entry with the largest credit.

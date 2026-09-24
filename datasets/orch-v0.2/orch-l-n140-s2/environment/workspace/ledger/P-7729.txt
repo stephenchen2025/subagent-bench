@@ -1,0 +1,10 @@
+Ledger page P-7729
+
+account      amount   see page
+Kowalski       +124   P-9414
+Grant          -749   P-9327
+Osei           -753   P-9920
+Abbott         -620   P-5162
+Zhou           -748   P-5027
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,11 @@
+Ledger page P-3017
+
+account      amount   see page
+Dunn           -238   P-8753
+Zhou           +403   P-1648
+Fofana         +320   P-9028
+Park           +533   P-6082
+Nakamura       +785   P-5938
+Baker          +222   P-6911
+
+Follow the entry whose amount is closest to zero.

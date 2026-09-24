@@ -1,0 +1,11 @@
+Ledger page P-2638
+
+account      amount   see page
+Osei           -473   P-7613
+Dunn           +563   P-4141
+Eriksen        +282   P-8001
+Kowalski       -296   P-3524
+Umar           +674   P-6064
+Hughes         -360   P-5894
+
+Follow the credit belonging to the account that comes first alphabetically.

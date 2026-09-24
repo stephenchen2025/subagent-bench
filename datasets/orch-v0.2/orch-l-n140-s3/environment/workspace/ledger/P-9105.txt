@@ -1,0 +1,12 @@
+Ledger page P-9105
+
+account      amount   see page
+Abbott         +857   P-1579
+Quinn          +696   P-4809
+Xu             +207   P-5247
+Umar           -716   P-9697
+Vance          +328   P-1963
+Ibarra         +763   P-8719
+Zhou           +410   P-3984
+
+Follow the entry with the second-largest amount.

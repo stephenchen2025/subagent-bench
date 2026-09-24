@@ -1,0 +1,10 @@
+Ledger page P-1378
+
+account      amount   see page
+Zhou           +595   P-5710
+Xu             -211   P-6065
+Dunn           -112   P-3301
+Nakamura       -766   P-9568
+Hughes         -745   P-8854
+
+Follow the entry whose amount is closest to zero.

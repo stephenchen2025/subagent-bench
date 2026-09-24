@@ -1,0 +1,12 @@
+Ledger page P-8451
+
+account      amount   see page
+Silva          +597   P-3704
+Umar           -884   P-7037
+Baker          -730   P-9498
+Moreau         +532   P-3216
+Hughes         +702   P-9789
+Osei           -659   P-3010
+Eriksen        +125   P-7446
+
+Follow the entry with the largest credit.

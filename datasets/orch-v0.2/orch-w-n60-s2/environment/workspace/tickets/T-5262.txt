@@ -1,0 +1,54 @@
+Ticket T-5262
+Customer: Amara Nwosu
+Orders on file: ORD-99765, ORD-58996, ORD-31574, ORD-64521
+Opened: 2026-08-17 via chat transcript
+
+Order details:
+ORD-99765  placed 2026-07-04  status: label created  total: $172.43
+  payment method: card ending 9098  ship to: 611 Oak Rd
+  - trail running shoes x1
+  - travel pouch x1
+  - extended warranty, 2 years x3
+  - spare battery pack x1
+ORD-58996  placed 2026-04-07  status: delivered  total: $52.25
+  payment method: card ending 3587  ship to: 330 Mill Lane
+  - rain jacket x1
+  - stainless water bottle, 750ml x1
+  - gift wrap x1
+ORD-31574  placed 2026-04-01  status: in transit  total: $236.65
+  payment method: card ending 2911  ship to: 982 Oak Rd
+  - standing desk x1
+  - travel pouch x3
+  - extended warranty, 2 years x3
+ORD-64521  placed 2026-05-05  status: returned  total: $423.76
+  payment method: card ending 2856  ship to: 960 Elm St
+  - camping stove x1
+  - stainless water bottle, 750ml x1
+  - microfiber cloth x3
+  - extended warranty, 2 years x2
+
+--- message 1 from Amara Nwosu ---
+How do I reset my password? The reset link keeps expiring. Could you also tell me whether ORD-31574 qualifies for the extended return window? I tried the chat widget first but it kept disconnecting. The confirmation email for ORD-99765 went to my spam folder, so I only just saw it.
+
+Amara Nwosu
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Dana (support) ---
+Thanks for reaching out, and sorry for the trouble. I've resent the confirmation email for ORD-31574 to the address on file. Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-31574 left on schedule.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Amara Nwosu ---
+I tried the chat widget first but it kept disconnecting. The trail running shoes itself is great, for what it's worth. I'm happy to send screenshots if that helps. My partner placed ORD-99765 on our shared account, in case that matters.
+
+Amara Nwosu
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Dana (support) ---
+Loyalty points post about a week after an order is delivered. For ORD-99765, the return window is 30 days from delivery. Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

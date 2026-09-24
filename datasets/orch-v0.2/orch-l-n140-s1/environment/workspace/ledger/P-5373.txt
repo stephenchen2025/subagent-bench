@@ -1,0 +1,11 @@
+Ledger page P-5373
+
+account      amount   see page
+Vance          -298   P-2721
+Eriksen        +795   P-3054
+Nakamura       -653   P-3943
+Silva          -291   P-4950
+Lambert         +93   P-9443
+Umar           -360   P-6876
+
+Follow the credit belonging to the account that comes first alphabetically.

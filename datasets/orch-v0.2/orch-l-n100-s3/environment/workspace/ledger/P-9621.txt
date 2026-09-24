@@ -1,0 +1,11 @@
+Ledger page P-9621
+
+account      amount   see page
+Quinn          +438   P-4898
+Baker            -6   P-1270
+Nakamura       -594   P-7775
+Rahman         +471   P-3270
+Young          -843   P-6605
+Vance          +236   P-2840
+
+Follow the debit belonging to the account that comes last alphabetically.

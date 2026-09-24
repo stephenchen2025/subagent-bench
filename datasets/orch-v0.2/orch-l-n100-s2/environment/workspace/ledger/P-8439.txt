@@ -1,0 +1,11 @@
+Ledger page P-8439
+
+account      amount   see page
+Young          -295   P-5863
+Rahman         -108   P-6064
+Eriksen        +630   P-8300
+Zhou           +814   P-6871
+Dunn           -560   P-4062
+Vance          +863   P-1920
+
+Follow the entry with the largest credit.

@@ -1,0 +1,10 @@
+Ledger page P-7491
+
+account      amount   see page
+Osei             -3   P-6328
+Castillo        +57   P-5081
+Park           -248   P-9769
+Fofana         -246   P-2917
+Eriksen        -321   P-3375
+
+Follow the entry with the largest debit (the most negative amount).

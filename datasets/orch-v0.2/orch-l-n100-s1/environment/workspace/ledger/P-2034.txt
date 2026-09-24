@@ -1,0 +1,10 @@
+Ledger page P-2034
+
+account      amount   see page
+Jensen         +873   P-5259
+Moreau          +69   P-1149
+Silva          +388   P-9647
+Osei           -262   P-3585
+Lambert        +265   P-8988
+
+Follow the entry with the largest credit.

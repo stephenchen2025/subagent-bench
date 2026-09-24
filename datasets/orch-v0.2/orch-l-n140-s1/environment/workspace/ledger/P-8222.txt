@@ -1,0 +1,12 @@
+Ledger page P-8222
+
+account      amount   see page
+Ibarra         +801   P-5207
+Rahman          +43   P-8349
+Fofana         -114   P-5985
+Quinn           -45   P-4011
+Kowalski       -553   P-1573
+Moreau         +556   P-1679
+Castillo       -482   P-4075
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,12 @@
+Ledger page P-7900
+
+account      amount   see page
+Ibarra         -719   P-9065
+Quinn          -780   P-3608
+Tanaka         +182   P-8027
+Osei           +394   P-6803
+Silva          +409   P-3608
+Jensen         +329   P-1747
+Weber          -216   P-1507
+
+Follow the entry with the second-largest amount.

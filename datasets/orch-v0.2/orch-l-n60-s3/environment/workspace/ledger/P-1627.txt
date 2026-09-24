@@ -1,0 +1,11 @@
+Ledger page P-1627
+
+account      amount   see page
+Jensen         -839   P-2358
+Abbott         -652   P-6170
+Weber          -109   P-6046
+Zhou            +56   P-3011
+Eriksen        -774   P-4967
+Osei           +186   P-3858
+
+Follow the credit belonging to the account that comes first alphabetically.

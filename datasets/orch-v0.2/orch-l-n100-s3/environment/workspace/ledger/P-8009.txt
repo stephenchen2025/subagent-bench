@@ -1,0 +1,12 @@
+Ledger page P-8009
+
+account      amount   see page
+Park           +532   P-6317
+Castillo       -136   P-7359
+Zhou           -815   P-9234
+Moreau         -457   P-4619
+Grant          +280   P-8229
+Hughes         +144   P-7811
+Eriksen        -361   P-3441
+
+Follow the entry with the largest credit.

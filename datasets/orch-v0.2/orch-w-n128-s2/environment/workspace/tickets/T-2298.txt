@@ -1,0 +1,59 @@
+Ticket T-2298
+Customer: Chloe Martin
+Orders on file: ORD-62661, ORD-61626, ORD-68932, ORD-45225
+Opened: 2026-05-20 via email
+
+Order details:
+ORD-62661  placed 2026-08-07  status: returned  total: $411.62
+  payment method: card ending 2124  ship to: 694 Oak Lane
+  - carry-on suitcase x1
+  - gift wrap x3
+  - extended warranty, 2 years x2
+  - replacement filter cartridge, 3-pack x3
+  - travel pouch x1
+ORD-61626  placed 2026-01-20  status: delivered  total: $71.44
+  payment method: card ending 8961  ship to: 773 Oak Ave
+  - espresso grinder x1
+  - carabiner set x2
+  - spare battery pack x1
+  - gift wrap x3
+  - USB-C charging cable (2m) x3
+ORD-68932  placed 2026-06-25  status: delivered  total: $287.95
+  payment method: card ending 3222  ship to: 608 Cedar Ave
+  - mechanical keyboard x1
+  - merino socks, size M x3
+  - gift wrap x3
+  - extended warranty, 2 years x3
+  - microfiber cloth x3
+ORD-45225  placed 2026-04-13  status: in transit  total: $439.10
+  payment method: card ending 6326  ship to: 995 Oak Ave
+  - espresso grinder x1
+  - gift wrap x3
+  - merino socks, size M x3
+  - microfiber cloth x2
+
+--- message 1 from Chloe Martin ---
+Can I use a gift card on ORD-62661, or is it too late? Could you also tell me whether ORD-45225 qualifies for the extended return window? I changed my shipping address last month, so please double-check you have the new one. Is there a way to combine loyalty points from ORD-62661 with my next purchase?
+
+Best regards,
+Chloe Martin
+
+--- message 2 from Rosa (support) ---
+I've added a note to your account so the next agent has the context. Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-62661, you can download it from the Orders page. Our warehouse shows ORD-45225 left on schedule.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Chloe Martin ---
+I changed my shipping address last month, so please double-check you have the new one. Your app logged me out twice while I was looking at this, which didn't help. I'd rather not call; the hold times last time were very long. My earlier order ORD-68932 arrived fine, no complaints there.
+
+Best regards,
+Chloe Martin
+
+--- message 4 from Rosa (support) ---
+If you need an invoice for ORD-45225, you can download it from the Orders page. I've resent the confirmation email for ORD-68932 to the address on file. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-68932 left on schedule.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

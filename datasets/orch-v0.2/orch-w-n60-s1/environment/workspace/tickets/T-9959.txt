@@ -1,0 +1,72 @@
+Ticket T-9959
+Customer: Priya Raman
+Orders on file: ORD-18349, ORD-47004, ORD-27154, ORD-33225
+Opened: 2026-03-12 via web form
+
+Order details:
+ORD-18349  placed 2026-01-24  status: returned  total: $377.61
+  payment method: card ending 2463  ship to: 889 Oak Ave
+  - standing desk x1
+  - USB-C charging cable (2m) x3
+  - replacement filter cartridge, 3-pack x1
+  - merino socks, size M x2
+ORD-47004  placed 2026-02-04  status: returned  total: $255.93
+  payment method: card ending 7287  ship to: 291 Mill St
+  - desk lamp x1
+  - extended warranty, 2 years x2
+  - spare battery pack x3
+  - USB-C charging cable (2m) x3
+ORD-27154  placed 2026-01-03  status: returned  total: $386.48
+  payment method: card ending 5429  ship to: 910 Cedar Rd
+  - blender x1
+  - carabiner set x3
+  - extended warranty, 2 years x2
+  - USB-C charging cable (2m) x1
+ORD-33225  placed 2026-04-04  status: returned  total: $443.26
+  payment method: card ending 3641  ship to: 978 Elm St
+  - yoga mat x1
+  - extended warranty, 2 years x2
+  - gift wrap x1
+  - USB-C charging cable (2m) x1
+  - merino socks, size M x2
+
+--- message 1 from Priya Raman ---
+I need to change the delivery address for ORD-27154 before it ships. Tracking for ORD-18349 hasn't updated since Tuesday. I've been a customer for a few years and usually everything goes smoothly. I'm happy to send screenshots if that helps.
+
+Thanks,
+Priya Raman
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Dana (support) ---
+Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-18349 left on schedule. Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Priya Raman ---
+I changed my shipping address last month, so please double-check you have the new one. I'd rather not call; the hold times last time were very long. Could you also tell me whether ORD-27154 qualifies for the extended return window? The confirmation email for ORD-27154 went to my spam folder, so I only just saw it.
+
+Thanks,
+Priya Raman
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Dana (support) ---
+Let me know if anything else looks off. If you need an invoice for ORD-18349, you can download it from the Orders page. I've updated your shipping address on file. For ORD-33225, the return window is 30 days from delivery.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Priya Raman ---
+My partner placed ORD-27154 on our shared account, in case that matters. I'd rather not call; the hold times last time were very long. I've been a customer for a few years and usually everything goes smoothly. Your app logged me out twice while I was looking at this, which didn't help.
+
+Priya Raman
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Dana (support) ---
+Let me know if anything else looks off. I've resent the confirmation email for ORD-33225 to the address on file. Loyalty points post about a week after an order is delivered. I can see all the orders on your account, including ORD-18349.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

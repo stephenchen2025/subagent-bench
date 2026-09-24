@@ -1,0 +1,102 @@
+Ticket T-5561
+Customer: Kofi Mensah
+Orders on file: ORD-64109, ORD-49480, ORD-66483, ORD-72141
+Opened: 2026-04-11 via email
+
+Order details:
+ORD-64109  placed 2026-06-06  status: returned  total: $51.98
+  payment method: card ending 4094  ship to: 718 Cedar St
+  - carry-on suitcase x1
+  - extended warranty, 2 years x2
+  - merino socks, size M x3
+  - replacement filter cartridge, 3-pack x1
+  - spare battery pack x2
+ORD-49480  placed 2026-07-20  status: label created  total: $181.95
+  payment method: card ending 1141  ship to: 246 Harbor Lane
+  - mechanical keyboard x1
+  - travel pouch x1
+  - microfiber cloth x2
+  - replacement filter cartridge, 3-pack x2
+  - merino socks, size M x2
+ORD-66483  placed 2026-01-17  status: in transit  total: $170.26
+  payment method: card ending 7566  ship to: 740 Mill St
+  - camping stove x1
+  - USB-C charging cable (2m) x2
+  - gift wrap x3
+  - stainless water bottle, 750ml x3
+  - merino socks, size M x3
+ORD-72141  placed 2026-08-18  status: delivered  total: $390.33
+  payment method: card ending 9738  ship to: 522 Harbor St
+  - trail running shoes x1
+  - carabiner set x1
+  - microfiber cloth x2
+  - USB-C charging cable (2m) x2
+  - merino socks, size M x1
+
+--- message 1 from Kofi Mensah ---
+How do I reset my password? The reset link keeps expiring. I'm happy to send screenshots if that helps. I've been a customer for a few years and usually everything goes smoothly. I'd rather not call; the hold times last time were very long.
+
+Kofi Mensah
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Keiko (support) ---
+For ORD-66483, the return window is 30 days from delivery. Tracking updates can lag by a day or two with this carrier. Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Kofi Mensah ---
+Before I retry the payment on ORD-64109 -- is there any risk of a double charge? The confirmation email for ORD-66483 went to my spam folder, so I only just saw it. The camping stove itself is great, for what it's worth.
+
+Thanks,
+Kofi Mensah
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Keiko (support) ---
+I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-72141 to the address on file. If you need an invoice for ORD-49480, you can download it from the Orders page.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Keiko (support) ---
+Retrying is safe. Our system blocks a second capture on ORD-64109, so a double charge can't happen. I've added a note to your account so the next agent has the context. Screenshots aren't necessary, but thank you for offering.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Kofi Mensah ---
+My partner placed ORD-72141 on our shared account, in case that matters. Your app logged me out twice while I was looking at this, which didn't help. The blender itself is great, for what it's worth.
+
+Best regards,
+Kofi Mensah
+
+--- message 7 from Kofi Mensah ---
+The box for ORD-49480 was a bit crushed but the contents were fine. I'd rather not call; the hold times last time were very long. I've been a customer for a few years and usually everything goes smoothly. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Kofi Mensah
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Keiko (support) ---
+Thanks for reaching out, and sorry for the trouble. Loyalty points post about a week after an order is delivered. I've updated your shipping address on file. Our warehouse shows ORD-66483 left on schedule.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Kofi Mensah ---
+My earlier order ORD-49480 arrived fine, no complaints there. Tracking for ORD-49480 hasn't updated since Tuesday. I changed my shipping address last month, so please double-check you have the new one. I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Kofi Mensah
+Sent from my phone -- please excuse typos.
+
+--- message 10 from Keiko (support) ---
+Our warehouse shows ORD-49480 left on schedule. I've resent the confirmation email for ORD-49480 to the address on file. Screenshots aren't necessary, but thank you for offering. I've updated your shipping address on file.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

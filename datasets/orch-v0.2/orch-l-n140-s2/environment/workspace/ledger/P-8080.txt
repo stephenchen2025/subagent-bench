@@ -1,0 +1,12 @@
+Ledger page P-8080
+
+account      amount   see page
+Eriksen        +529   P-8427
+Castillo       -831   P-5451
+Young          -371   P-8594
+Nakamura       +394   P-3609
+Moreau         +519   P-8231
+Kowalski       -859   P-6203
+Lambert        -170   P-2044
+
+Follow the debit belonging to the account that comes last alphabetically.

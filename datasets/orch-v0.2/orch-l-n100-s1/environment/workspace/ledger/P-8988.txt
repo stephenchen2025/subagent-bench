@@ -1,0 +1,12 @@
+Ledger page P-8988
+
+account      amount   see page
+Vance          +271   P-1660
+Silva          -656   P-4873
+Zhou           -104   P-2647
+Xu             -198   P-8613
+Hughes         -846   P-7693
+Eriksen         -96   P-3888
+Jensen         -506   P-2240
+
+Follow the entry with the largest credit.

@@ -1,0 +1,11 @@
+Ledger page P-8755
+
+account      amount   see page
+Vance          +284   P-6411
+Dunn           -223   P-6953
+Osei           -336   P-6115
+Hughes         +193   P-1647
+Park           +716   P-4918
+Jensen         +794   P-8853
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,96 @@
+Ticket T-6193
+Customer: Yuki Tanaka
+Orders on file: ORD-70822, ORD-78983, ORD-81040, ORD-87084
+Opened: 2026-05-22 via web form
+
+Order details:
+ORD-70822  placed 2026-03-05  status: delivered  total: $391.34
+  payment method: card ending 5655  ship to: 477 Mill Rd
+  - trail running shoes x1
+  - spare battery pack x2
+  - USB-C charging cable (2m) x1
+  - replacement filter cartridge, 3-pack x1
+  - microfiber cloth x2
+ORD-78983  placed 2026-07-10  status: in transit  total: $443.88
+  payment method: card ending 4617  ship to: 676 Mill Ave
+  - standing desk x1
+  - USB-C charging cable (2m) x1
+  - gift wrap x2
+  - stainless water bottle, 750ml x1
+ORD-81040  placed 2026-02-08  status: delivered  total: $242.80
+  payment method: card ending 7618  ship to: 755 Harbor Ave
+  - desk lamp x1
+  - spare battery pack x3
+  - travel pouch x1
+  - merino socks, size M x2
+ORD-87084  placed 2026-07-08  status: delivered  total: $431.09
+  payment method: card ending 8036  ship to: 896 Oak Ave
+  - cast iron skillet x1
+  - USB-C charging cable (2m) x3
+  - spare battery pack x2
+  - stainless water bottle, 750ml x3
+
+--- message 1 from Yuki Tanaka ---
+How do I reset my password? The reset link keeps expiring. My earlier order ORD-87084 arrived fine, no complaints there. The yoga mat itself is great, for what it's worth. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Yuki Tanaka
+
+--- message 2 from Rosa (support) ---
+Loyalty points post about a week after an order is delivered. I can see all the orders on your account, including ORD-87084. I've updated your shipping address on file. I've added a note to your account so the next agent has the context.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Yuki Tanaka ---
+I think I might have been charged twice for ORD-78983, but one of the lines on the card app still says pending, so I'm not sure yet. Tracking for ORD-87084 hasn't updated since Tuesday. My earlier order ORD-87084 arrived fine, no complaints there.
+
+Best regards,
+Yuki Tanaka
+
+--- message 4 from Yuki Tanaka ---
+Update: the second line has now posted, it's no longer pending. So both payments for ORD-78983 actually went through. I'm travelling next week, so email is the best way to reach me. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Yuki Tanaka
+
+--- message 5 from Rosa (support) ---
+Confirmed on our side -- ORD-78983 was captured twice by a retry in our checkout. One refund of $27.07 is on its way to you. Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Yuki Tanaka ---
+I tried the chat widget first but it kept disconnecting. Your app logged me out twice while I was looking at this, which didn't help. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Yuki Tanaka
+
+--- message 7 from Yuki Tanaka ---
+Is there a way to combine loyalty points from ORD-81040 with my next purchase? I'm happy to send screenshots if that helps. The confirmation email for ORD-81040 went to my spam folder, so I only just saw it. Tracking for ORD-81040 hasn't updated since Tuesday.
+
+Yuki Tanaka
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Rosa (support) ---
+I've added a note to your account so the next agent has the context. Let me know if anything else looks off. Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-87084 to the address on file.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Yuki Tanaka ---
+I'm happy to send screenshots if that helps. My earlier order ORD-70822 arrived fine, no complaints there. Your app logged me out twice while I was looking at this, which didn't help. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Yuki Tanaka
+Sent from my phone -- please excuse typos.
+
+--- message 10 from Rosa (support) ---
+I've updated your shipping address on file. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-81040 left on schedule. For ORD-81040, the return window is 30 days from delivery.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

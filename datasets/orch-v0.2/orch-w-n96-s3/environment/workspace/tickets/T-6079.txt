@@ -1,0 +1,90 @@
+Ticket T-6079
+Customer: Avery Lin
+Orders on file: ORD-45031, ORD-12049, ORD-78697, ORD-41190
+Opened: 2026-06-24 via chat transcript
+
+Order details:
+ORD-45031  placed 2026-01-16  status: delivered  total: $57.66
+  payment method: card ending 4017  ship to: 434 Oak St
+  - bike light set x1
+  - USB-C charging cable (2m) x1
+  - stainless water bottle, 750ml x1
+ORD-12049  placed 2026-05-23  status: delivered  total: $96.30
+  payment method: card ending 6424  ship to: 252 Oak Ave
+  - trail running shoes x1
+  - spare battery pack x2
+  - merino socks, size M x1
+  - microfiber cloth x2
+  - carabiner set x2
+ORD-78697  placed 2026-06-10  status: delivered  total: $142.26
+  payment method: card ending 8617  ship to: 431 Elm Lane
+  - wool blanket x1
+  - replacement filter cartridge, 3-pack x2
+  - merino socks, size M x1
+  - stainless water bottle, 750ml x3
+ORD-41190  placed 2026-06-23  status: returned  total: $368.09
+  payment method: card ending 7770  ship to: 406 Oak Lane
+  - yoga mat x1
+  - extended warranty, 2 years x1
+  - travel pouch x1
+
+--- message 1 from Avery Lin ---
+I need to change the delivery address for ORD-12049 before it ships. I changed my shipping address last month, so please double-check you have the new one. I'm happy to send screenshots if that helps. I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Avery Lin
+
+--- message 2 from Pete (support) ---
+Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-41190 left on schedule. Tracking updates can lag by a day or two with this carrier. I can see all the orders on your account, including ORD-12049.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Avery Lin ---
+You took the money for ORD-78697 a second time after it had already been paid. Your app logged me out twice while I was looking at this, which didn't help. The wool blanket itself is great, for what it's worth.
+
+Thanks,
+Avery Lin
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Pete (support) ---
+Confirmed on our side -- ORD-78697 was captured twice by a retry in our checkout. One refund of $422.33 is on its way to you. I can see all the orders on your account, including ORD-12049. I've added a note to your account so the next agent has the context.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Avery Lin ---
+I'm travelling next week, so email is the best way to reach me. The confirmation email for ORD-41190 went to my spam folder, so I only just saw it. Could you also tell me whether ORD-45031 qualifies for the extended return window?
+
+Best regards,
+Avery Lin
+
+--- message 6 from Avery Lin ---
+I've been a customer for a few years and usually everything goes smoothly. Tracking for ORD-45031 hasn't updated since Tuesday. Could you also tell me whether ORD-12049 qualifies for the extended return window? The box for ORD-12049 was a bit crushed but the contents were fine.
+
+Thanks,
+Avery Lin
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Pete (support) ---
+Let me know if anything else looks off. I've resent the confirmation email for ORD-45031 to the address on file. I've updated your shipping address on file. I can see all the orders on your account, including ORD-45031.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Avery Lin ---
+My earlier order ORD-41190 arrived fine, no complaints there. I changed my shipping address last month, so please double-check you have the new one. Could you also tell me whether ORD-45031 qualifies for the extended return window? I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Avery Lin
+Sent from my phone -- please excuse typos.
+
+--- message 9 from Pete (support) ---
+Loyalty points post about a week after an order is delivered. Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble. I've updated your shipping address on file.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

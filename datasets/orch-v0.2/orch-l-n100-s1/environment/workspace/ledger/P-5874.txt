@@ -1,0 +1,10 @@
+Ledger page P-5874
+
+account      amount   see page
+Kowalski       -757   P-1132
+Moreau         -377   P-9804
+Nakamura       -739   P-3982
+Quinn          -767   P-8683
+Jensen          +11   P-3933
+
+Follow the debit belonging to the account that comes last alphabetically.

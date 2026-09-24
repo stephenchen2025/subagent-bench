@@ -1,0 +1,11 @@
+Ledger page P-1962
+
+account      amount   see page
+Castillo       -751   P-7865
+Xu             +627   P-5607
+Fofana         +884   P-5686
+Umar           +621   P-9553
+Hughes         +320   P-8427
+Zhou           +886   P-8884
+
+Follow the entry with the largest debit (the most negative amount).

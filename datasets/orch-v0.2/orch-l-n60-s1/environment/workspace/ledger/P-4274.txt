@@ -1,0 +1,10 @@
+Ledger page P-4274
+
+account      amount   see page
+Park           -241   P-8370
+Castillo       +453   P-6639
+Dunn            -34   P-8846
+Osei           +598   P-3866
+Grant          +705   P-9918
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,11 @@
+Ledger page P-6774
+
+account      amount   see page
+Hughes         +671   P-3128
+Zhou           -293   P-9452
+Park           -278   P-5298
+Kowalski       -194   P-7551
+Osei           -105   P-8691
+Quinn          -453   P-9084
+
+Follow the debit belonging to the account that comes last alphabetically.

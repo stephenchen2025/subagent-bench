@@ -1,0 +1,12 @@
+Ledger page P-4898
+
+account      amount   see page
+Kowalski       -117   P-9964
+Fofana          +50   P-2663
+Weber          -655   P-3685
+Grant          +165   P-7050
+Quinn          +538   P-7664
+Nakamura       +347   P-2834
+Silva          -282   P-5363
+
+Follow the debit belonging to the account that comes last alphabetically.

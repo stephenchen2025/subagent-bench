@@ -1,0 +1,55 @@
+Ticket T-2859
+Customer: Noah Fischer
+Orders on file: ORD-82083, ORD-20270, ORD-57482, ORD-97974
+Opened: 2026-01-25 via web form
+
+Order details:
+ORD-82083  placed 2026-02-04  status: returned  total: $69.55
+  payment method: card ending 8480  ship to: 281 Mill Ave
+  - cast iron skillet x1
+  - extended warranty, 2 years x1
+  - stainless water bottle, 750ml x2
+  - travel pouch x2
+ORD-20270  placed 2026-07-12  status: delivered  total: $239.25
+  payment method: card ending 5558  ship to: 971 Oak St
+  - blender x1
+  - stainless water bottle, 750ml x2
+  - USB-C charging cable (2m) x3
+ORD-57482  placed 2026-03-14  status: delivered  total: $102.40
+  payment method: card ending 7764  ship to: 254 Cedar Ave
+  - carry-on suitcase x1
+  - spare battery pack x2
+  - travel pouch x3
+ORD-97974  placed 2026-01-01  status: delivered  total: $343.67
+  payment method: card ending 6863  ship to: 313 Harbor St
+  - yoga mat x1
+  - stainless water bottle, 750ml x3
+  - replacement filter cartridge, 3-pack x1
+  - spare battery pack x2
+  - extended warranty, 2 years x1
+
+--- message 1 from Noah Fischer ---
+I'd like to return the camping stove from ORD-97974; it's the wrong size. Tracking for ORD-20270 hasn't updated since Tuesday. My earlier order ORD-20270 arrived fine, no complaints there. The box for ORD-97974 was a bit crushed but the contents were fine.
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Fatima (support) ---
+I've resent the confirmation email for ORD-82083 to the address on file. I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble. For ORD-97974, the return window is 30 days from delivery.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Noah Fischer ---
+Tracking for ORD-82083 hasn't updated since Tuesday. My partner placed ORD-97974 on our shared account, in case that matters. Is there a way to combine loyalty points from ORD-20270 with my next purchase? I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Noah Fischer
+
+--- message 4 from Fatima (support) ---
+Screenshots aren't necessary, but thank you for offering. Loyalty points post about a week after an order is delivered. If you need an invoice for ORD-82083, you can download it from the Orders page. Let me know if anything else looks off.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

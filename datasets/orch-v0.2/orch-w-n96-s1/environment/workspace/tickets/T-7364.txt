@@ -1,0 +1,71 @@
+Ticket T-7364
+Customer: Samir Patel
+Orders on file: ORD-41492, ORD-12930, ORD-17464, ORD-49708
+Opened: 2026-04-02 via email
+
+Order details:
+ORD-41492  placed 2026-01-16  status: delivered  total: $256.32
+  payment method: card ending 4519  ship to: 974 Cedar Lane
+  - blender x1
+  - USB-C charging cable (2m) x1
+  - microfiber cloth x1
+  - stainless water bottle, 750ml x3
+  - extended warranty, 2 years x2
+ORD-12930  placed 2026-08-28  status: delivered  total: $394.48
+  payment method: card ending 3746  ship to: 258 Mill St
+  - carry-on suitcase x1
+  - USB-C charging cable (2m) x3
+  - extended warranty, 2 years x2
+ORD-17464  placed 2026-01-08  status: delivered  total: $113.26
+  payment method: card ending 9411  ship to: 707 Harbor St
+  - espresso grinder x1
+  - travel pouch x3
+  - merino socks, size M x3
+ORD-49708  placed 2026-04-18  status: in transit  total: $317.84
+  payment method: card ending 3210  ship to: 691 Harbor Rd
+  - standing desk x1
+  - stainless water bottle, 750ml x2
+  - extended warranty, 2 years x2
+  - replacement filter cartridge, 3-pack x2
+  - carabiner set x2
+
+--- message 1 from Samir Patel ---
+How do I reset my password? The reset link keeps expiring. Is there a way to combine loyalty points from ORD-12930 with my next purchase? I'd rather not call; the hold times last time were very long. Could you also tell me whether ORD-12930 qualifies for the extended return window?
+
+Best regards,
+Samir Patel
+
+--- message 2 from Luis (support) ---
+For ORD-49708, the return window is 30 days from delivery. I've updated your shipping address on file. Let me know if anything else looks off. I can see all the orders on your account, including ORD-12930.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Samir Patel ---
+Unrelated, but the card app double-charged me at a coffee shop last week, so I'm checking every line carefully now. Anyway, my actual question is about delivery for ORD-17464. I changed my shipping address last month, so please double-check you have the new one. Is there a way to combine loyalty points from ORD-49708 with my next purchase?
+
+Thanks,
+Samir Patel
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Luis (support) ---
+I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-49708 to the address on file. Loyalty points post about a week after an order is delivered.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Samir Patel ---
+My earlier order ORD-12930 arrived fine, no complaints there. I tried the chat widget first but it kept disconnecting. Your app logged me out twice while I was looking at this, which didn't help. I'm happy to send screenshots if that helps.
+
+Thanks,
+Samir Patel
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Luis (support) ---
+If you need an invoice for ORD-41492, you can download it from the Orders page. Loyalty points post about a week after an order is delivered. I've updated your shipping address on file. I've added a note to your account so the next agent has the context.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,10 @@
+Ledger page P-4198
+
+account      amount   see page
+Castillo       -451   P-5594
+Nakamura        +73   P-3494
+Baker          -113   P-1565
+Zhou           +761   P-6597
+Eriksen        +166   P-9840
+
+Follow the entry whose amount is closest to zero.

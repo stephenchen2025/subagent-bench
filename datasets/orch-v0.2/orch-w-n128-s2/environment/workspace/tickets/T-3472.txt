@@ -1,0 +1,58 @@
+Ticket T-3472
+Customer: Chloe Martin
+Orders on file: ORD-25451, ORD-90080, ORD-58244, ORD-28180
+Opened: 2026-02-22 via web form
+
+Order details:
+ORD-25451  placed 2026-01-03  status: label created  total: $363.35
+  payment method: card ending 6915  ship to: 900 Mill Rd
+  - espresso grinder x1
+  - travel pouch x2
+  - replacement filter cartridge, 3-pack x2
+  - USB-C charging cable (2m) x2
+  - carabiner set x3
+ORD-90080  placed 2026-03-15  status: delivered  total: $125.87
+  payment method: card ending 4895  ship to: 557 Mill Lane
+  - wool blanket x1
+  - replacement filter cartridge, 3-pack x2
+  - travel pouch x2
+  - microfiber cloth x3
+  - stainless water bottle, 750ml x2
+ORD-58244  placed 2026-05-23  status: returned  total: $446.63
+  payment method: card ending 9541  ship to: 155 Elm Lane
+  - yoga mat x1
+  - replacement filter cartridge, 3-pack x1
+  - microfiber cloth x2
+ORD-28180  placed 2026-01-14  status: label created  total: $305.98
+  payment method: card ending 7610  ship to: 600 Mill Rd
+  - blender x1
+  - merino socks, size M x3
+  - carabiner set x1
+  - spare battery pack x2
+  - gift wrap x2
+
+--- message 1 from Chloe Martin ---
+Can I use a gift card on ORD-25451, or is it too late? I'm happy to send screenshots if that helps. Tracking for ORD-58244 hasn't updated since Tuesday. The confirmation email for ORD-25451 went to my spam folder, so I only just saw it.
+
+Best regards,
+Chloe Martin
+
+--- message 2 from Keiko (support) ---
+Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-90080 to the address on file. For ORD-58244, the return window is 30 days from delivery.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Chloe Martin ---
+I'm happy to send screenshots if that helps. My partner placed ORD-25451 on our shared account, in case that matters. Your app logged me out twice while I was looking at this, which didn't help. I'd rather not call; the hold times last time were very long.
+
+Chloe Martin
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Keiko (support) ---
+I've updated your shipping address on file. Our warehouse shows ORD-58244 left on schedule. If you need an invoice for ORD-25451, you can download it from the Orders page. Tracking updates can lag by a day or two with this carrier.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,12 @@
+Ledger page P-2057
+
+account      amount   see page
+Park           +245   P-9286
+Zhou           -145   P-8065
+Xu             -856   P-7037
+Rahman         +798   P-1460
+Weber          -735   P-7391
+Umar             +1   P-2583
+Tanaka         +878   P-8244
+
+Follow the entry with the second-largest amount.

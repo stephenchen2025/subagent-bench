@@ -1,0 +1,12 @@
+Ledger page P-4852
+
+account      amount   see page
+Baker           -82   P-5307
+Weber          -508   P-6700
+Tanaka         -218   P-2246
+Vance           -96   P-4060
+Xu             -607   P-7882
+Dunn           +472   P-2084
+Moreau         +606   P-2973
+
+Follow the entry with the largest credit.

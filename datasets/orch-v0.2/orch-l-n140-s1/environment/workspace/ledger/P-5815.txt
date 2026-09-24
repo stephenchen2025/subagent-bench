@@ -1,0 +1,11 @@
+Ledger page P-5815
+
+account      amount   see page
+Baker          -588   P-2721
+Weber          +370   P-8479
+Xu             +219   P-4075
+Zhou           +823   P-2338
+Ibarra         -832   P-4111
+Abbott         +836   P-6365
+
+Follow the entry with the second-largest amount.

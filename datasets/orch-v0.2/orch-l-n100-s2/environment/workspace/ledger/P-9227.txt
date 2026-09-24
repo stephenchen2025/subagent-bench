@@ -1,0 +1,11 @@
+Ledger page P-9227
+
+account      amount   see page
+Baker          +401   P-6722
+Xu              +31   P-5642
+Silva          -660   P-4062
+Park           +277   P-3657
+Castillo        +93   P-3657
+Fofana         +576   P-3488
+
+Follow the entry with the largest credit.

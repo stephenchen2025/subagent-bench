@@ -1,0 +1,10 @@
+Ledger page P-3493
+
+account      amount   see page
+Nakamura       +614   P-3653
+Vance          -116   P-3653
+Park           +622   P-2047
+Baker          -872   P-7893
+Abbott         +816   P-4553
+
+Follow the debit belonging to the account that comes last alphabetically.

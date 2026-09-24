@@ -1,0 +1,11 @@
+Ledger page P-7315
+
+account      amount   see page
+Fofana         -862   P-8619
+Lambert        +286   P-1648
+Rahman         +788   P-6783
+Moreau          -23   P-1723
+Eriksen        +796   P-8890
+Silva           +63   P-1502
+
+Follow the entry with the second-largest amount.

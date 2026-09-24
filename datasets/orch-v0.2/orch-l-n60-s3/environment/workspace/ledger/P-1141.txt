@@ -1,0 +1,12 @@
+Ledger page P-1141
+
+account      amount   see page
+Abbott         +295   P-7491
+Moreau           +4   P-8865
+Kowalski       -321   P-1870
+Weber          +356   P-1345
+Jensen         +707   P-5070
+Young          +756   P-6208
+Tanaka         +256   P-1621
+
+Follow the entry with the largest credit.

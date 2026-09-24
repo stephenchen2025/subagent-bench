@@ -1,0 +1,93 @@
+Ticket T-8085
+Customer: Samir Patel
+Orders on file: ORD-28589, ORD-91645, ORD-78815, ORD-59005
+Opened: 2026-03-11 via web form
+
+Order details:
+ORD-28589  placed 2026-03-24  status: in transit  total: $317.30
+  payment method: card ending 5729  ship to: 23 Mill Rd
+  - wool blanket x1
+  - replacement filter cartridge, 3-pack x3
+  - extended warranty, 2 years x3
+  - carabiner set x3
+ORD-91645  placed 2026-07-06  status: returned  total: $387.22
+  payment method: card ending 5740  ship to: 291 Harbor Lane
+  - desk lamp x1
+  - gift wrap x3
+  - carabiner set x3
+ORD-78815  placed 2026-07-09  status: label created  total: $406.19
+  payment method: card ending 8923  ship to: 141 Cedar Rd
+  - camping stove x1
+  - gift wrap x2
+  - merino socks, size M x3
+ORD-59005  placed 2026-01-27  status: returned  total: $421.72
+  payment method: card ending 4060  ship to: 572 Mill Ave
+  - camping stove x1
+  - stainless water bottle, 750ml x2
+  - gift wrap x2
+  - extended warranty, 2 years x2
+
+--- message 1 from Samir Patel ---
+I'd like to return the rain jacket from ORD-78815; it's the wrong size. I tried the chat widget first but it kept disconnecting. Your app logged me out twice while I was looking at this, which didn't help. The box for ORD-59005 was a bit crushed but the contents were fine.
+
+Best regards,
+Samir Patel
+
+--- message 2 from Dana (support) ---
+I've added a note to your account so the next agent has the context. Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-78815. Loyalty points post about a week after an order is delivered.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Samir Patel ---
+You took the money for ORD-28589 a second time after it had already been paid. Is there a way to combine loyalty points from ORD-91645 with my next purchase? The box for ORD-59005 was a bit crushed but the contents were fine.
+
+Samir Patel
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Dana (support) ---
+I looked into ORD-28589: the second line is a pre-authorization hold from when the first card attempt was declined. It was never captured and it's already been released, so you were only charged once. If you need an invoice for ORD-91645, you can download it from the Orders page. I've resent the confirmation email for ORD-78815 to the address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Samir Patel ---
+The desk lamp itself is great, for what it's worth. My partner placed ORD-78815 on our shared account, in case that matters. I changed my shipping address last month, so please double-check you have the new one.
+
+Samir Patel
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Samir Patel ---
+Oh, you're right -- I checked my statement this morning and the second line is gone. Only one charge. Sorry for the false alarm! My partner placed ORD-78815 on our shared account, in case that matters. I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Samir Patel
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Samir Patel ---
+I'd rather not call; the hold times last time were very long. Is there a way to combine loyalty points from ORD-91645 with my next purchase? Your app logged me out twice while I was looking at this, which didn't help. I'm happy to send screenshots if that helps.
+
+Best regards,
+Samir Patel
+
+--- message 8 from Dana (support) ---
+If you need an invoice for ORD-59005, you can download it from the Orders page. I can see all the orders on your account, including ORD-59005. Thanks for reaching out, and sorry for the trouble. I've updated your shipping address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Samir Patel ---
+My earlier order ORD-91645 arrived fine, no complaints there. I'd rather not call; the hold times last time were very long. I'm happy to send screenshots if that helps. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Samir Patel
+
+--- message 10 from Dana (support) ---
+I've added a note to your account so the next agent has the context. Let me know if anything else looks off. If you need an invoice for ORD-59005, you can download it from the Orders page. Thanks for reaching out, and sorry for the trouble.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

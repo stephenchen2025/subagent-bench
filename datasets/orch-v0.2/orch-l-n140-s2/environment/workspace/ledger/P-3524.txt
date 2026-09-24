@@ -1,0 +1,10 @@
+Ledger page P-3524
+
+account      amount   see page
+Vance          -890   P-7336
+Zhou           -824   P-3095
+Lambert        +711   P-4823
+Castillo       -385   P-3144
+Hughes         +862   P-1910
+
+Follow the credit belonging to the account that comes first alphabetically.

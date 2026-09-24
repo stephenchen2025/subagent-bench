@@ -1,0 +1,10 @@
+Ledger page P-8396
+
+account      amount   see page
+Hughes         -545   P-9478
+Young          -635   P-5084
+Kowalski       -708   P-1462
+Tanaka         -246   P-4780
+Jensen         +373   P-1999
+
+Follow the entry with the largest credit.

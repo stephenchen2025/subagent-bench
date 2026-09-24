@@ -1,0 +1,10 @@
+Ledger page P-9201
+
+account      amount   see page
+Lambert        +394   P-7301
+Weber          +189   P-5172
+Dunn           +581   P-4037
+Xu             -787   P-8479
+Fofana         -783   P-8488
+
+Follow the credit belonging to the account that comes first alphabetically.

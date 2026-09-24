@@ -1,0 +1,67 @@
+Ticket T-8574
+Customer: Grace Mwangi
+Orders on file: ORD-90449, ORD-63452, ORD-67675, ORD-22216
+Opened: 2026-03-09 via email
+
+Order details:
+ORD-90449  placed 2026-01-28  status: label created  total: $184.83
+  payment method: card ending 8746  ship to: 372 Oak St
+  - blender x1
+  - spare battery pack x2
+  - gift wrap x1
+ORD-63452  placed 2026-04-03  status: in transit  total: $54.40
+  payment method: card ending 1841  ship to: 83 Oak Lane
+  - trail running shoes x1
+  - replacement filter cartridge, 3-pack x2
+  - carabiner set x2
+ORD-67675  placed 2026-04-01  status: delivered  total: $181.20
+  payment method: card ending 6789  ship to: 314 Elm Rd
+  - noise-cancelling headphones x1
+  - replacement filter cartridge, 3-pack x1
+  - spare battery pack x3
+ORD-22216  placed 2026-06-10  status: label created  total: $92.36
+  payment method: card ending 8649  ship to: 821 Harbor Rd
+  - blender x1
+  - microfiber cloth x3
+  - travel pouch x2
+  - extended warranty, 2 years x2
+  - USB-C charging cable (2m) x1
+
+--- message 1 from Grace Mwangi ---
+Can I use a gift card on ORD-90449, or is it too late? The box for ORD-63452 was a bit crushed but the contents were fine. My partner placed ORD-63452 on our shared account, in case that matters. I've been a customer for a few years and usually everything goes smoothly.
+
+Grace Mwangi
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Marcus (support) ---
+I've updated your shipping address on file. I can see all the orders on your account, including ORD-63452. I've added a note to your account so the next agent has the context. Loyalty points post about a week after an order is delivered.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Grace Mwangi ---
+My card was charged two times for order ORD-67675. My earlier order ORD-90449 arrived fine, no complaints there. Could you also tell me whether ORD-63452 qualifies for the extended return window?
+
+Best regards,
+Grace Mwangi
+
+--- message 4 from Marcus (support) ---
+You're right, and I'm sorry. Our records show ORD-67675 was settled two times. I've refunded the duplicate. Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Grace Mwangi ---
+I've been a customer for a few years and usually everything goes smoothly. The confirmation email for ORD-90449 went to my spam folder, so I only just saw it. Tracking for ORD-63452 hasn't updated since Tuesday. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Grace Mwangi
+
+--- message 6 from Marcus (support) ---
+For ORD-63452, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context. I've updated your shipping address on file. Our warehouse shows ORD-63452 left on schedule.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

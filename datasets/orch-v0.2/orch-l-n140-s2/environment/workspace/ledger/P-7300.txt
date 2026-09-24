@@ -1,0 +1,11 @@
+Ledger page P-7300
+
+account      amount   see page
+Fofana         +480   P-2304
+Jensen         +860   P-5144
+Vance          -241   P-5122
+Osei           +146   P-2410
+Moreau         -109   P-6740
+Lambert         +88   P-4962
+
+Follow the credit belonging to the account that comes first alphabetically.

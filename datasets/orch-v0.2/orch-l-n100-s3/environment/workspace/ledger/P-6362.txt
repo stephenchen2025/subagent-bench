@@ -1,0 +1,10 @@
+Ledger page P-6362
+
+account      amount   see page
+Grant          -705   P-3524
+Zhou           -326   P-2779
+Silva          +212   P-6253
+Vance          +103   P-4799
+Nakamura       +608   P-6184
+
+Follow the credit belonging to the account that comes first alphabetically.

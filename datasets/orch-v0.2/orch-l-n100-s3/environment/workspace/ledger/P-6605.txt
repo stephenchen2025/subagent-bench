@@ -1,0 +1,10 @@
+Ledger page P-6605
+
+account      amount   see page
+Osei           -402   P-7545
+Fofana         +874   P-1613
+Jensen         -224   P-6858
+Dunn            +89   P-4254
+Kowalski       +490   P-1945
+
+Follow the entry with the largest credit.

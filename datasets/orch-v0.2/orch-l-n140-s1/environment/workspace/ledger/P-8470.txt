@@ -1,0 +1,11 @@
+Ledger page P-8470
+
+account      amount   see page
+Castillo       -197   P-2708
+Quinn          +654   P-2417
+Umar           -325   P-5081
+Osei           -458   P-9834
+Eriksen        +426   P-8241
+Xu             -142   P-4641
+
+Follow the entry whose amount is closest to zero.

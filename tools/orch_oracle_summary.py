@@ -23,7 +23,7 @@ def main(job):
                      result.get("started_at", ""), result.get("exception_info")))
     ok = sum(1 for _, r, _, e in rows if r == 1.0 and not e)
     print("# Harbor oracle validation\n")
-    print(f"`harbor run -a oracle` over `datasets/orch-v0.1`: **{ok}/{len(rows)} tasks score 1.0.**\n")
+    print(f"`harbor run -a oracle` over `datasets/orch-v0.2`: **{ok}/{len(rows)} tasks score 1.0.**\n")
     print("Each task's Docker image was built, its `solution/solve.sh` run, and its "
           "verifier scored the result.\n")
     print("| task | reward | exception |\n|---|---|---|")

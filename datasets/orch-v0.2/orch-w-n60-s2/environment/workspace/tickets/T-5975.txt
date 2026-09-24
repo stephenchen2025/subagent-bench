@@ -1,0 +1,89 @@
+Ticket T-5975
+Customer: Priya Raman
+Orders on file: ORD-57770, ORD-57540, ORD-18254, ORD-57209
+Opened: 2026-03-04 via web form
+
+Order details:
+ORD-57770  placed 2026-07-21  status: delivered  total: $186.17
+  payment method: card ending 6142  ship to: 646 Cedar Ave
+  - standing desk x1
+  - USB-C charging cable (2m) x2
+  - spare battery pack x1
+  - travel pouch x3
+  - replacement filter cartridge, 3-pack x2
+ORD-57540  placed 2026-03-19  status: in transit  total: $203.94
+  payment method: card ending 9506  ship to: 199 Cedar Rd
+  - wool blanket x1
+  - spare battery pack x1
+  - gift wrap x2
+  - USB-C charging cable (2m) x2
+  - carabiner set x1
+ORD-18254  placed 2026-02-25  status: in transit  total: $353.92
+  payment method: card ending 4264  ship to: 695 Harbor Ave
+  - espresso grinder x1
+  - spare battery pack x2
+  - extended warranty, 2 years x1
+ORD-57209  placed 2026-01-19  status: delivered  total: $328.94
+  payment method: card ending 6102  ship to: 986 Elm St
+  - rain jacket x1
+  - USB-C charging cable (2m) x2
+  - travel pouch x2
+
+--- message 1 from Priya Raman ---
+I'd like to return the blender from ORD-18254; it's the wrong size. My partner placed ORD-57770 on our shared account, in case that matters. My earlier order ORD-57209 arrived fine, no complaints there. The blender itself is great, for what it's worth.
+
+Best regards,
+Priya Raman
+
+--- message 2 from Keiko (support) ---
+Screenshots aren't necessary, but thank you for offering. For ORD-18254, the return window is 30 days from delivery. Let me know if anything else looks off. If you need an invoice for ORD-57209, you can download it from the Orders page.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Priya Raman ---
+Duplicate charge on ORD-57540, please refund one of them. My earlier order ORD-57770 arrived fine, no complaints there. I changed my shipping address last month, so please double-check you have the new one.
+
+Priya Raman
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Keiko (support) ---
+Our warehouse shows ORD-18254 left on schedule. For ORD-57770, the return window is 30 days from delivery. Tracking updates can lag by a day or two with this carrier.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Keiko (support) ---
+Confirmed on our side -- ORD-57540 was captured twice by a retry in our checkout. One refund of $204.12 is on its way to you. Loyalty points post about a week after an order is delivered. I can see all the orders on your account, including ORD-18254.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Priya Raman ---
+Your app logged me out twice while I was looking at this, which didn't help. I'd rather not call; the hold times last time were very long. The confirmation email for ORD-18254 went to my spam folder, so I only just saw it. My partner placed ORD-57209 on our shared account, in case that matters.
+
+Best regards,
+Priya Raman
+
+--- message 7 from Keiko (support) ---
+Our warehouse shows ORD-57209 left on schedule. Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering. For ORD-57209, the return window is 30 days from delivery.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Priya Raman ---
+The wool blanket itself is great, for what it's worth. I changed my shipping address last month, so please double-check you have the new one. I tried the chat widget first but it kept disconnecting. Tracking for ORD-18254 hasn't updated since Tuesday.
+
+Priya Raman
+(Please reply by email rather than phone if possible.)
+
+--- message 9 from Keiko (support) ---
+Let me know if anything else looks off. For ORD-57209, the return window is 30 days from delivery. Tracking updates can lag by a day or two with this carrier. If you need an invoice for ORD-57770, you can download it from the Orders page.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

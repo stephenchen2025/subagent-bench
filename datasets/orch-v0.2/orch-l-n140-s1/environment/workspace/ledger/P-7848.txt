@@ -1,0 +1,10 @@
+Ledger page P-7848
+
+account      amount   see page
+Xu             -246   P-2425
+Quinn          -198   P-3429
+Fofana         -263   P-1861
+Jensen         +146   P-3654
+Osei           +745   P-2708
+
+Follow the debit belonging to the account that comes last alphabetically.

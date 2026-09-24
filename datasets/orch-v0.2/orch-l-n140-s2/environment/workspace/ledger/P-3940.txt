@@ -1,0 +1,11 @@
+Ledger page P-3940
+
+account      amount   see page
+Young           -55   P-4133
+Hughes         -897   P-8545
+Tanaka         -513   P-2080
+Silva          +322   P-9310
+Ibarra         -818   P-5751
+Osei           +798   P-4687
+
+Follow the debit belonging to the account that comes last alphabetically.

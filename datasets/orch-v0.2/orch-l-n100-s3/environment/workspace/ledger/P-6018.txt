@@ -1,0 +1,10 @@
+Ledger page P-6018
+
+account      amount   see page
+Jensen         -477   P-9359
+Ibarra         -842   P-6253
+Silva          -531   P-5069
+Park           +433   P-7178
+Tanaka          -42   P-7663
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,11 @@
+Ledger page P-2031
+
+account      amount   see page
+Dunn           -437   P-5854
+Baker          +584   P-8307
+Fofana         -509   P-6203
+Eriksen        -259   P-9793
+Abbott          -46   P-8010
+Xu             -783   P-4209
+
+Follow the credit belonging to the account that comes first alphabetically.

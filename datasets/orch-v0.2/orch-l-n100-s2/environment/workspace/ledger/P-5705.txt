@@ -1,0 +1,11 @@
+Ledger page P-5705
+
+account      amount   see page
+Young          -320   P-8934
+Lambert        +785   P-8845
+Umar           +611   P-2697
+Kowalski       +664   P-3108
+Eriksen          -2   P-5807
+Quinn          +803   P-5731
+
+Follow the credit belonging to the account that comes first alphabetically.

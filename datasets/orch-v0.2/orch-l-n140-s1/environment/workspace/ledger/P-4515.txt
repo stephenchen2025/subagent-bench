@@ -1,0 +1,10 @@
+Ledger page P-4515
+
+account      amount   see page
+Ibarra         +728   P-9614
+Young          -686   P-4098
+Moreau         +210   P-7335
+Eriksen        +432   P-5934
+Xu             -202   P-7022
+
+Follow the entry with the second-largest amount.

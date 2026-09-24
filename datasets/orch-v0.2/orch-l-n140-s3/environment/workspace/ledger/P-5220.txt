@@ -1,0 +1,12 @@
+Ledger page P-5220
+
+account      amount   see page
+Ibarra           -5   P-4576
+Fofana         +307   P-4479
+Tanaka         +234   P-4366
+Young          -665   P-9627
+Zhou           -877   P-7211
+Hughes          +49   P-3340
+Silva          +680   P-5767
+
+Follow the entry with the largest debit (the most negative amount).

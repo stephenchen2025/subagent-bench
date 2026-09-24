@@ -1,0 +1,10 @@
+Ledger page P-4735
+
+account      amount   see page
+Young          -892   P-8335
+Tanaka         +557   P-7933
+Hughes         +569   P-5992
+Zhou           +547   P-5363
+Xu             +768   P-2937
+
+Follow the entry with the largest debit (the most negative amount).

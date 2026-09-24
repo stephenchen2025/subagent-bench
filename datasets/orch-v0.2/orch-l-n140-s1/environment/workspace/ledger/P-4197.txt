@@ -1,0 +1,12 @@
+Ledger page P-4197
+
+account      amount   see page
+Kowalski       -493   P-7078
+Tanaka         -662   P-9578
+Moreau         -862   P-8772
+Grant          +620   P-4680
+Jensen         -423   P-7148
+Rahman         +463   P-5373
+Hughes         +329   P-6211
+
+Follow the entry with the largest credit.

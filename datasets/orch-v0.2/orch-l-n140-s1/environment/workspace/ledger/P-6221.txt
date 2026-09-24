@@ -1,0 +1,11 @@
+Ledger page P-6221
+
+account      amount   see page
+Rahman         -445   P-5815
+Jensen          +99   P-3654
+Dunn           -701   P-6194
+Young          +134   P-4950
+Zhou           -526   P-5405
+Xu             -439   P-8196
+
+Follow the credit belonging to the account that comes first alphabetically.

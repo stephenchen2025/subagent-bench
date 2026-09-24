@@ -1,0 +1,12 @@
+Ledger page P-2331
+
+account      amount   see page
+Kowalski       -550   P-9056
+Abbott         +764   P-9621
+Umar           +545   P-6821
+Rahman         +353   P-3128
+Quinn          -494   P-9588
+Dunn           +687   P-9002
+Silva          -214   P-1433
+
+Follow the entry with the largest credit.

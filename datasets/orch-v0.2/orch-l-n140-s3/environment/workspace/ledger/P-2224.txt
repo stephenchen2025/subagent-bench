@@ -1,0 +1,11 @@
+Ledger page P-2224
+
+account      amount   see page
+Xu             -136   P-9610
+Park           -473   P-4744
+Eriksen        +466   P-3417
+Weber          +748   P-1693
+Nakamura       -651   P-8381
+Young          -715   P-1162
+
+Follow the entry with the largest credit.

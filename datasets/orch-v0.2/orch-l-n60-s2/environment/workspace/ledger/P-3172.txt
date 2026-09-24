@@ -1,0 +1,12 @@
+Ledger page P-3172
+
+account      amount   see page
+Xu             +289   P-1331
+Baker          -702   P-2745
+Silva          -670   P-2689
+Ibarra         -812   P-1592
+Hughes         +527   P-8410
+Jensen         -783   P-5756
+Dunn           -430   P-2008
+
+Follow the entry with the second-largest amount.

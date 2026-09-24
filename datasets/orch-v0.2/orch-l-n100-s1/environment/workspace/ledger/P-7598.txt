@@ -1,0 +1,10 @@
+Ledger page P-7598
+
+account      amount   see page
+Fofana         -550   P-4334
+Hughes          -55   P-8742
+Abbott         +358   P-4344
+Park           +544   P-5850
+Vance          -594   P-2848
+
+Follow the entry with the largest credit.

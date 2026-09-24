@@ -1,0 +1,11 @@
+Ledger page P-8485
+
+account      amount   see page
+Silva          +882   P-7795
+Ibarra         -889   P-7339
+Zhou           -338   P-5616
+Grant          -106   P-6512
+Castillo        -27   P-9916
+Park           +438   P-8853
+
+Follow the entry with the second-largest amount.

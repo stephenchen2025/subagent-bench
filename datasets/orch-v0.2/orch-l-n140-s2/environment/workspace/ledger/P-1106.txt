@@ -1,0 +1,10 @@
+Ledger page P-1106
+
+account      amount   see page
+Castillo       +340   P-3287
+Abbott         +370   P-1978
+Grant          -268   P-4564
+Jensen         -738   P-3836
+Baker           -81   P-5465
+
+Follow the entry with the largest debit (the most negative amount).

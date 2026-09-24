@@ -1,0 +1,11 @@
+Ledger page P-9193
+
+account      amount   see page
+Osei            +21   P-4432
+Tanaka         -251   P-1253
+Hughes         -202   P-7302
+Silva          -452   P-5081
+Castillo       +523   P-8357
+Ibarra         +569   P-9584
+
+Follow the entry with the second-largest amount.

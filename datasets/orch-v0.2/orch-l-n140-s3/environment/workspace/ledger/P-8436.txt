@@ -1,0 +1,10 @@
+Ledger page P-8436
+
+account      amount   see page
+Nakamura       -439   P-7987
+Rahman         -225   P-1612
+Tanaka         -631   P-8384
+Fofana         -194   P-1352
+Osei           +874   P-5456
+
+Follow the entry whose amount is closest to zero.

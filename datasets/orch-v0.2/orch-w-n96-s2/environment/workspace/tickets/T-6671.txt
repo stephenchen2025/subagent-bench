@@ -1,0 +1,58 @@
+Ticket T-6671
+Customer: Leila Haddad
+Orders on file: ORD-86270, ORD-91578, ORD-36312, ORD-32000
+Opened: 2026-06-21 via email
+
+Order details:
+ORD-86270  placed 2026-06-12  status: delivered  total: $445.26
+  payment method: card ending 7448  ship to: 542 Harbor St
+  - desk lamp x1
+  - stainless water bottle, 750ml x2
+  - microfiber cloth x1
+  - extended warranty, 2 years x1
+  - spare battery pack x1
+ORD-91578  placed 2026-02-19  status: delivered  total: $435.98
+  payment method: card ending 1645  ship to: 492 Harbor Lane
+  - water filter pitcher x1
+  - replacement filter cartridge, 3-pack x1
+  - microfiber cloth x3
+  - merino socks, size M x1
+ORD-36312  placed 2026-03-24  status: in transit  total: $421.50
+  payment method: card ending 2745  ship to: 318 Elm St
+  - carry-on suitcase x1
+  - USB-C charging cable (2m) x1
+  - gift wrap x1
+  - travel pouch x2
+  - merino socks, size M x2
+ORD-32000  placed 2026-07-26  status: in transit  total: $64.77
+  payment method: card ending 5579  ship to: 613 Elm Rd
+  - desk lamp x1
+  - stainless water bottle, 750ml x1
+  - extended warranty, 2 years x2
+  - gift wrap x3
+
+--- message 1 from Leila Haddad ---
+Can I use a gift card on ORD-36312, or is it too late? The confirmation email for ORD-36312 went to my spam folder, so I only just saw it. I've been a customer for a few years and usually everything goes smoothly. The rain jacket itself is great, for what it's worth.
+
+Best regards,
+Leila Haddad
+
+--- message 2 from Marcus (support) ---
+If you need an invoice for ORD-91578, you can download it from the Orders page. Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering. For ORD-36312, the return window is 30 days from delivery.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Leila Haddad ---
+Could you also tell me whether ORD-32000 qualifies for the extended return window? My earlier order ORD-91578 arrived fine, no complaints there. The yoga mat itself is great, for what it's worth. I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Leila Haddad
+
+--- message 4 from Marcus (support) ---
+Let me know if anything else looks off. I've resent the confirmation email for ORD-32000 to the address on file. Our warehouse shows ORD-91578 left on schedule. For ORD-36312, the return window is 30 days from delivery.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

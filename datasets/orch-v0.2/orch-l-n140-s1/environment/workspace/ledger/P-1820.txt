@@ -1,0 +1,10 @@
+Ledger page P-1820
+
+account      amount   see page
+Umar           -115   P-2583
+Castillo       +463   P-3387
+Kowalski       -132   P-4587
+Tanaka         +556   P-4271
+Dunn           -868   P-5023
+
+Follow the entry whose amount is closest to zero.

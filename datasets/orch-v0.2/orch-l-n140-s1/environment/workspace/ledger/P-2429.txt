@@ -1,0 +1,12 @@
+Ledger page P-2429
+
+account      amount   see page
+Castillo       +526   P-2553
+Ibarra         +897   P-7446
+Dunn           +446   P-7290
+Weber          -227   P-9834
+Lambert        +460   P-6984
+Vance          -701   P-5207
+Fofana         +386   P-5028
+
+Follow the entry whose amount is closest to zero.

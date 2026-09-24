@@ -1,0 +1,10 @@
+Ledger page P-7383
+
+account      amount   see page
+Lambert        -510   P-1235
+Kowalski       +500   P-4360
+Young          +250   P-8298
+Fofana         -288   P-9561
+Zhou           +774   P-6673
+
+Follow the entry with the second-largest amount.

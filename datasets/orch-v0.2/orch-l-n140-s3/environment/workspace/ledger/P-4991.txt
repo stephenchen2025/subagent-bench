@@ -1,0 +1,12 @@
+Ledger page P-4991
+
+account      amount   see page
+Ibarra         +823   P-3342
+Jensen         -649   P-2536
+Young          +694   P-9265
+Kowalski       -529   P-4465
+Park           +377   P-2195
+Hughes         +182   P-4809
+Castillo       +136   P-9420
+
+Follow the entry with the second-largest amount.

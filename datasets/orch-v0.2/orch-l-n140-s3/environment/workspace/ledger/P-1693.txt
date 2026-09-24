@@ -1,0 +1,11 @@
+Ledger page P-1693
+
+account      amount   see page
+Kowalski       +677   P-4366
+Nakamura       +356   P-2566
+Rahman         +279   P-5761
+Baker          +202   P-1015
+Grant          +830   P-2431
+Jensen          -73   P-5698
+
+Follow the entry with the largest debit (the most negative amount).

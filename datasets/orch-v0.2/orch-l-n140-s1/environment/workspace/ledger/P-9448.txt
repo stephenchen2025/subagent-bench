@@ -1,0 +1,12 @@
+Ledger page P-9448
+
+account      amount   see page
+Xu             -311   P-4515
+Kowalski       -525   P-5550
+Osei           +884   P-1630
+Ibarra         -393   P-5339
+Silva          -204   P-6163
+Jensen         -844   P-2425
+Tanaka         -390   P-3086
+
+Follow the credit belonging to the account that comes first alphabetically.

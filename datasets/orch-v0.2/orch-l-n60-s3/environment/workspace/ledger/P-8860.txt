@@ -1,0 +1,12 @@
+Ledger page P-8860
+
+account      amount   see page
+Tanaka         +711   P-4252
+Umar           +670   P-8953
+Dunn           +841   P-7635
+Silva          +760   P-8865
+Ibarra         +624   P-8865
+Hughes          -26   P-3066
+Zhou           +672   P-8627
+
+Follow the entry with the largest credit.

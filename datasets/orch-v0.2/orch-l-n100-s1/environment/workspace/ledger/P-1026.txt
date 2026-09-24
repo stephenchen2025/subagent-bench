@@ -1,0 +1,12 @@
+Ledger page P-1026
+
+account      amount   see page
+Jensen         +416   P-7042
+Nakamura       +768   P-4499
+Moreau         -118   P-6511
+Weber          +159   P-8565
+Xu             -252   P-5699
+Silva          +482   P-4481
+Lambert        +476   P-3624
+
+Follow the entry with the second-largest amount.

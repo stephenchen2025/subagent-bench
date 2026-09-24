@@ -1,0 +1,11 @@
+Ledger page P-9920
+
+account      amount   see page
+Rahman         -364   P-3680
+Weber          +492   P-3287
+Lambert        -475   P-4194
+Quinn          -701   P-8020
+Castillo       +518   P-1551
+Hughes         -368   P-4016
+
+Follow the entry with the second-largest amount.

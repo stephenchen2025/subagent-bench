@@ -1,0 +1,10 @@
+Ledger page P-2868
+
+account      amount   see page
+Baker          -414   P-5461
+Castillo       +770   P-5710
+Moreau         -362   P-8165
+Dunn           +251   P-4567
+Zhou           +185   P-9213
+
+Follow the debit belonging to the account that comes last alphabetically.

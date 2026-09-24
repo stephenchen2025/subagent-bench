@@ -1,0 +1,97 @@
+Ticket T-7158
+Customer: Felix Wagner
+Orders on file: ORD-55730, ORD-13938, ORD-81167, ORD-75060
+Opened: 2026-07-08 via email
+
+Order details:
+ORD-55730  placed 2026-08-07  status: label created  total: $428.91
+  payment method: card ending 7899  ship to: 810 Harbor Rd
+  - noise-cancelling headphones x1
+  - merino socks, size M x1
+  - travel pouch x1
+  - replacement filter cartridge, 3-pack x2
+ORD-13938  placed 2026-01-24  status: delivered  total: $264.90
+  payment method: card ending 7625  ship to: 900 Elm Ave
+  - yoga mat x1
+  - stainless water bottle, 750ml x2
+  - microfiber cloth x3
+  - carabiner set x1
+ORD-81167  placed 2026-02-24  status: delivered  total: $436.15
+  payment method: card ending 7749  ship to: 116 Mill Rd
+  - mechanical keyboard x1
+  - travel pouch x1
+  - extended warranty, 2 years x3
+  - carabiner set x3
+  - spare battery pack x3
+ORD-75060  placed 2026-06-07  status: returned  total: $273.03
+  payment method: card ending 2250  ship to: 375 Harbor Ave
+  - water filter pitcher x1
+  - stainless water bottle, 750ml x3
+  - carabiner set x3
+  - spare battery pack x2
+
+--- message 1 from Felix Wagner ---
+The yoga mat from ORD-13938 arrived with a scratch on the side. Can I get a replacement? Could you also tell me whether ORD-81167 qualifies for the extended return window? I'm happy to send screenshots if that helps. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Felix Wagner
+
+--- message 2 from Rosa (support) ---
+I can see all the orders on your account, including ORD-81167. Loyalty points post about a week after an order is delivered. Let me know if anything else looks off. I've resent the confirmation email for ORD-55730 to the address on file.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Felix Wagner ---
+The checkout page for ORD-75060 timed out. If I try to pay again, will I end up being charged twice? The confirmation email for ORD-55730 went to my spam folder, so I only just saw it. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Felix Wagner
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Rosa (support) ---
+Tracking updates can lag by a day or two with this carrier. I can see all the orders on your account, including ORD-55730. I've updated your shipping address on file.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Rosa (support) ---
+No, you won't be charged twice: the first attempt for ORD-75060 failed before capture, so retrying is safe. Our warehouse shows ORD-13938 left on schedule. Loyalty points post about a week after an order is delivered.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Felix Wagner ---
+The noise-cancelling headphones itself is great, for what it's worth. I'm travelling next week, so email is the best way to reach me. The box for ORD-81167 was a bit crushed but the contents were fine.
+
+Felix Wagner
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Felix Wagner ---
+Tracking for ORD-81167 hasn't updated since Tuesday. I'd rather not call; the hold times last time were very long. I'm travelling next week, so email is the best way to reach me. I'm happy to send screenshots if that helps.
+
+Felix Wagner
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Rosa (support) ---
+I've added a note to your account so the next agent has the context. Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier. I can see all the orders on your account, including ORD-13938.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Felix Wagner ---
+I've been a customer for a few years and usually everything goes smoothly. My earlier order ORD-81167 arrived fine, no complaints there. Tracking for ORD-55730 hasn't updated since Tuesday. I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Felix Wagner
+
+--- message 10 from Rosa (support) ---
+I've resent the confirmation email for ORD-81167 to the address on file. Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering. For ORD-13938, the return window is 30 days from delivery.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

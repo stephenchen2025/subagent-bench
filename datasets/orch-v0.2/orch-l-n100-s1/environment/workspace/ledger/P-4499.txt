@@ -1,0 +1,10 @@
+Ledger page P-4499
+
+account      amount   see page
+Grant          -751   P-2683
+Jensen         -359   P-3024
+Zhou           +676   P-3629
+Young           -60   P-5699
+Xu             +450   P-1423
+
+Follow the entry with the largest credit.

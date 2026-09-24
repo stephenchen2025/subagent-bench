@@ -1,0 +1,11 @@
+Ledger page P-7613
+
+account      amount   see page
+Eriksen        -304   P-1558
+Tanaka         -493   P-2719
+Baker          -731   P-8545
+Weber          -816   P-3179
+Xu             +197   P-7470
+Grant          +247   P-4354
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,11 @@
+Ledger page P-1557
+
+account      amount   see page
+Silva           +11   P-9339
+Young          -235   P-5999
+Lambert        +295   P-6088
+Baker          -828   P-9964
+Vance          +585   P-1302
+Park             -6   P-3685
+
+Follow the entry with the largest credit.

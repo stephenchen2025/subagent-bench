@@ -1,0 +1,67 @@
+Ticket T-6273
+Customer: Priya Raman
+Orders on file: ORD-36582, ORD-37341, ORD-44211, ORD-90847
+Opened: 2026-02-03 via email
+
+Order details:
+ORD-36582  placed 2026-01-05  status: label created  total: $236.79
+  payment method: card ending 1328  ship to: 703 Cedar St
+  - carry-on suitcase x1
+  - USB-C charging cable (2m) x3
+  - extended warranty, 2 years x2
+ORD-37341  placed 2026-05-04  status: returned  total: $474.22
+  payment method: card ending 7423  ship to: 210 Harbor St
+  - desk lamp x1
+  - USB-C charging cable (2m) x3
+  - merino socks, size M x2
+ORD-44211  placed 2026-05-19  status: delivered  total: $321.72
+  payment method: card ending 1283  ship to: 28 Elm Rd
+  - standing desk x1
+  - microfiber cloth x3
+  - USB-C charging cable (2m) x3
+  - gift wrap x1
+  - replacement filter cartridge, 3-pack x2
+ORD-90847  placed 2026-01-14  status: delivered  total: $246.65
+  payment method: card ending 7818  ship to: 36 Cedar Rd
+  - carry-on suitcase x1
+  - stainless water bottle, 750ml x2
+  - carabiner set x1
+
+--- message 1 from Priya Raman ---
+How do I reset my password? The reset link keeps expiring. Tracking for ORD-90847 hasn't updated since Tuesday. Could you also tell me whether ORD-44211 qualifies for the extended return window? Your app logged me out twice while I was looking at this, which didn't help.
+
+Best regards,
+Priya Raman
+
+--- message 2 from Dana (support) ---
+I've resent the confirmation email for ORD-37341 to the address on file. I've added a note to your account so the next agent has the context. Let me know if anything else looks off. Loyalty points post about a week after an order is delivered.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Priya Raman ---
+Could you also tell me whether ORD-37341 qualifies for the extended return window? I've been a customer for a few years and usually everything goes smoothly. The carry-on suitcase itself is great, for what it's worth. Tracking for ORD-37341 hasn't updated since Tuesday.
+
+Priya Raman
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Dana (support) ---
+Tracking updates can lag by a day or two with this carrier. If you need an invoice for ORD-37341, you can download it from the Orders page. I can see all the orders on your account, including ORD-37341. Let me know if anything else looks off.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Priya Raman ---
+I changed my shipping address last month, so please double-check you have the new one. The bike light set itself is great, for what it's worth. Is there a way to combine loyalty points from ORD-44211 with my next purchase? I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Priya Raman
+
+--- message 6 from Dana (support) ---
+Tracking updates can lag by a day or two with this carrier. I've updated your shipping address on file. Our warehouse shows ORD-37341 left on schedule. For ORD-37341, the return window is 30 days from delivery.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

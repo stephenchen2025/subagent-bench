@@ -1,0 +1,11 @@
+Ledger page P-5996
+
+account      amount   see page
+Dunn           +186   P-3933
+Quinn          -216   P-4153
+Jensen         +521   P-4610
+Castillo       +670   P-8896
+Moreau         -635   P-9595
+Weber          -676   P-8170
+
+Follow the entry with the largest debit (the most negative amount).

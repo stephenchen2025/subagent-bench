@@ -1,0 +1,11 @@
+Ledger page P-3289
+
+account      amount   see page
+Castillo       -294   P-8665
+Kowalski       +607   P-8870
+Dunn           +772   P-1184
+Silva          +250   P-4479
+Osei           -319   P-9481
+Park           -133   P-3604
+
+Follow the entry whose amount is closest to zero.

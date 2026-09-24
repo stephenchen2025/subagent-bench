@@ -1,0 +1,11 @@
+Ledger page P-7400
+
+account      amount   see page
+Silva          +327   P-9741
+Moreau         -637   P-1047
+Umar            +49   P-7315
+Hughes         -204   P-5925
+Fofana         -582   P-6941
+Zhou           -210   P-4878
+
+Follow the entry with the second-largest amount.

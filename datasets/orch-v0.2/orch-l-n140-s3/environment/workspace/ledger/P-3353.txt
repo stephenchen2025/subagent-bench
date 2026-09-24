@@ -1,0 +1,12 @@
+Ledger page P-3353
+
+account      amount   see page
+Eriksen        -775   P-5193
+Young          -741   P-7391
+Nakamura        -94   P-6667
+Weber          +227   P-2006
+Dunn           -688   P-7262
+Silva          +583   P-1001
+Tanaka         +433   P-3604
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,11 @@
+Ledger page P-2801
+
+account      amount   see page
+Umar            +22   P-8856
+Castillo       -143   P-2880
+Jensen         -441   P-7354
+Kowalski       +370   P-9322
+Young          +500   P-1856
+Osei           -556   P-4731
+
+Follow the credit belonging to the account that comes first alphabetically.

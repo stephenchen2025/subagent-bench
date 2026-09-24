@@ -1,0 +1,10 @@
+Ledger page P-9054
+
+account      amount   see page
+Silva          +694   P-3984
+Lambert        -749   P-6306
+Eriksen        +218   P-9951
+Ibarra           -6   P-5688
+Quinn          -589   P-9317
+
+Follow the entry whose amount is closest to zero.

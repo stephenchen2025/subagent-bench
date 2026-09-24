@@ -1,0 +1,58 @@
+Ticket T-4986
+Customer: Samir Patel
+Orders on file: ORD-31186, ORD-44648, ORD-63871, ORD-42542
+Opened: 2026-08-27 via chat transcript
+
+Order details:
+ORD-31186  placed 2026-08-03  status: delivered  total: $158.29
+  payment method: card ending 2048  ship to: 465 Harbor Rd
+  - wool blanket x1
+  - travel pouch x1
+  - spare battery pack x2
+ORD-44648  placed 2026-01-12  status: returned  total: $450.12
+  payment method: card ending 7736  ship to: 914 Cedar Ave
+  - standing desk x1
+  - gift wrap x3
+  - merino socks, size M x2
+  - USB-C charging cable (2m) x2
+ORD-63871  placed 2026-05-21  status: in transit  total: $388.52
+  payment method: card ending 2364  ship to: 918 Harbor Lane
+  - desk lamp x1
+  - extended warranty, 2 years x2
+  - gift wrap x1
+  - stainless water bottle, 750ml x2
+  - merino socks, size M x1
+ORD-42542  placed 2026-06-27  status: label created  total: $202.18
+  payment method: card ending 3460  ship to: 941 Elm Lane
+  - water filter pitcher x1
+  - spare battery pack x3
+  - replacement filter cartridge, 3-pack x1
+  - travel pouch x1
+  - gift wrap x3
+
+--- message 1 from Samir Patel ---
+The carry-on suitcase from ORD-63871 arrived with a scratch on the side. Can I get a replacement? I tried the chat widget first but it kept disconnecting. I'm happy to send screenshots if that helps. I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Samir Patel
+
+--- message 2 from Keiko (support) ---
+Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context. For ORD-31186, the return window is 30 days from delivery.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Samir Patel ---
+Is there a way to combine loyalty points from ORD-31186 with my next purchase? Your app logged me out twice while I was looking at this, which didn't help. Tracking for ORD-63871 hasn't updated since Tuesday. The box for ORD-31186 was a bit crushed but the contents were fine.
+
+Thanks,
+Samir Patel
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Keiko (support) ---
+I've added a note to your account so the next agent has the context. I've updated your shipping address on file. For ORD-63871, the return window is 30 days from delivery. Loyalty points post about a week after an order is delivered.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,11 @@
+Ledger page P-9279
+
+account      amount   see page
+Silva          -724   P-2425
+Grant            +4   P-2553
+Park           +826   P-7022
+Tanaka          -79   P-5405
+Lambert         +45   P-3387
+Fofana         -105   P-1088
+
+Follow the credit belonging to the account that comes first alphabetically.

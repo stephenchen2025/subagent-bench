@@ -1,0 +1,11 @@
+Ledger page P-3340
+
+account      amount   see page
+Umar           -503   P-2008
+Kowalski        -41   P-2689
+Young          +379   P-3326
+Xu             -291   P-7275
+Hughes         +217   P-8020
+Tanaka         +844   P-8362
+
+Follow the entry with the largest credit.

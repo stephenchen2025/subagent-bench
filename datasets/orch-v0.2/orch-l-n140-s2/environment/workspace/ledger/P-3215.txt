@@ -1,0 +1,10 @@
+Ledger page P-3215
+
+account      amount   see page
+Ibarra          -19   P-8080
+Eriksen        -328   P-5706
+Young          +733   P-9200
+Silva           -75   P-7270
+Nakamura       -213   P-7361
+
+Follow the entry whose amount is closest to zero.

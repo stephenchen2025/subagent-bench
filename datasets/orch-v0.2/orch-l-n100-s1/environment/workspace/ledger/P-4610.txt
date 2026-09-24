@@ -1,0 +1,11 @@
+Ledger page P-4610
+
+account      amount   see page
+Kowalski       -293   P-6726
+Jensen         +458   P-1149
+Fofana         +105   P-1290
+Zhou            -98   P-8463
+Nakamura       -183   P-9581
+Moreau         +307   P-5218
+
+Follow the entry with the second-largest amount.

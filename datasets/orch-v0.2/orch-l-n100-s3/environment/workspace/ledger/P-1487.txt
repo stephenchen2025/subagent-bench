@@ -1,0 +1,12 @@
+Ledger page P-1487
+
+account      amount   see page
+Dunn           -833   P-1522
+Jensen          -29   P-9081
+Weber          -200   P-6018
+Tanaka         +313   P-2912
+Ibarra         +111   P-1634
+Umar           -407   P-7947
+Nakamura       -224   P-9554
+
+Follow the entry with the largest credit.

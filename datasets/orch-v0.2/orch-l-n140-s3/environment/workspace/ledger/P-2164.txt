@@ -1,0 +1,12 @@
+Ledger page P-2164
+
+account      amount   see page
+Castillo       +768   P-3635
+Young          +326   P-3353
+Park           -861   P-8065
+Tanaka         -753   P-6015
+Dunn            +18   P-5159
+Quinn          +264   P-6494
+Zhou           +688   P-8186
+
+Follow the debit belonging to the account that comes last alphabetically.

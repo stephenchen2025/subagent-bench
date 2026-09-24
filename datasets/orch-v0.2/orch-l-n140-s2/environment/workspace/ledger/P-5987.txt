@@ -1,0 +1,10 @@
+Ledger page P-5987
+
+account      amount   see page
+Nakamura       -543   P-2335
+Quinn          +741   P-2771
+Kowalski       +231   P-2806
+Umar           -316   P-4133
+Baker          +798   P-5039
+
+Follow the debit belonging to the account that comes last alphabetically.

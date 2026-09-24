@@ -1,0 +1,10 @@
+Ledger page P-4639
+
+account      amount   see page
+Grant          +691   P-1647
+Silva           +21   P-8097
+Kowalski       -802   P-7404
+Fofana         +569   P-1518
+Nakamura       -866   P-6238
+
+Follow the entry with the second-largest amount.

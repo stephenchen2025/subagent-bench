@@ -1,0 +1,10 @@
+Ledger page P-8187
+
+account      amount   see page
+Tanaka         -344   P-5136
+Umar           -824   P-2042
+Silva          -448   P-6897
+Castillo       +728   P-7795
+Vance          +178   P-9647
+
+Follow the entry with the second-largest amount.

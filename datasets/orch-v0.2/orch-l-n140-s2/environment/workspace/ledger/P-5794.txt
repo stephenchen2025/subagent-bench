@@ -1,0 +1,10 @@
+Ledger page P-5794
+
+account      amount   see page
+Ibarra         +674   P-3836
+Baker          +246   P-1479
+Zhou           -871   P-9589
+Osei           -656   P-4046
+Fofana         -376   P-9818
+
+Follow the entry with the largest credit.

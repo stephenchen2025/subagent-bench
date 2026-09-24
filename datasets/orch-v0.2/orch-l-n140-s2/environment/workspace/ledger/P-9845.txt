@@ -1,0 +1,10 @@
+Ledger page P-9845
+
+account      amount   see page
+Castillo       -617   P-8884
+Vance          -152   P-4944
+Zhou            +50   P-7768
+Osei           +862   P-4209
+Hughes           -1   P-1221
+
+Follow the entry with the largest credit.

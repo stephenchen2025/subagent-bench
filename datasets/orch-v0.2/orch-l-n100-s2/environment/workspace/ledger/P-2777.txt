@@ -1,0 +1,10 @@
+Ledger page P-2777
+
+account      amount   see page
+Ibarra         +237   P-6234
+Eriksen        -572   P-5516
+Nakamura       +248   P-9587
+Silva          -322   P-3994
+Weber          -325   P-6857
+
+Follow the credit belonging to the account that comes first alphabetically.

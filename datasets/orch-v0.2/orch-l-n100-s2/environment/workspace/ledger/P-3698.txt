@@ -1,0 +1,12 @@
+Ledger page P-3698
+
+account      amount   see page
+Moreau         +577   P-8857
+Rahman         -415   P-4607
+Nakamura       -457   P-7672
+Osei           +622   P-2693
+Park           +461   P-1462
+Tanaka         -331   P-9478
+Abbott         -326   P-3088
+
+Follow the entry whose amount is closest to zero.

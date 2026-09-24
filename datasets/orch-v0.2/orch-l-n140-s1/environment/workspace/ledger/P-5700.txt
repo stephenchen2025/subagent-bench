@@ -1,0 +1,11 @@
+Ledger page P-5700
+
+account      amount   see page
+Baker          -312   P-7937
+Xu             -505   P-4197
+Osei           +486   P-8727
+Abbott         +162   P-6391
+Grant          -590   P-6134
+Hughes         +244   P-2687
+
+Follow the entry whose amount is closest to zero.

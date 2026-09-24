@@ -1,0 +1,10 @@
+Ledger page P-9647
+
+account      amount   see page
+Zhou           +467   P-6698
+Rahman         +180   P-7391
+Moreau          -73   P-3985
+Eriksen        -688   P-1725
+Baker          -178   P-4918
+
+Follow the credit belonging to the account that comes first alphabetically.

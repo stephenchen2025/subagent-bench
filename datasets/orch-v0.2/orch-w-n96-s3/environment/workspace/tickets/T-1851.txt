@@ -1,0 +1,98 @@
+Ticket T-1851
+Customer: Ravi Iyer
+Orders on file: ORD-77559, ORD-23061, ORD-47619, ORD-30433
+Opened: 2026-07-13 via chat transcript
+
+Order details:
+ORD-77559  placed 2026-08-22  status: in transit  total: $177.55
+  payment method: card ending 5328  ship to: 499 Cedar Lane
+  - trail running shoes x1
+  - spare battery pack x3
+  - extended warranty, 2 years x2
+  - carabiner set x2
+  - travel pouch x1
+ORD-23061  placed 2026-03-23  status: returned  total: $267.40
+  payment method: card ending 3314  ship to: 190 Cedar Ave
+  - mechanical keyboard x1
+  - spare battery pack x3
+  - replacement filter cartridge, 3-pack x1
+  - microfiber cloth x1
+  - carabiner set x3
+ORD-47619  placed 2026-06-27  status: delivered  total: $75.42
+  payment method: card ending 3788  ship to: 101 Mill Rd
+  - yoga mat x1
+  - carabiner set x3
+  - USB-C charging cable (2m) x1
+  - gift wrap x2
+ORD-30433  placed 2026-06-20  status: delivered  total: $277.24
+  payment method: card ending 8696  ship to: 832 Oak Ave
+  - espresso grinder x1
+  - extended warranty, 2 years x2
+  - travel pouch x2
+  - microfiber cloth x1
+
+--- message 1 from Ravi Iyer ---
+I need to change the delivery address for ORD-77559 before it ships. Is there a way to combine loyalty points from ORD-47619 with my next purchase? My partner placed ORD-77559 on our shared account, in case that matters. Your app logged me out twice while I was looking at this, which didn't help.
+
+Best regards,
+Ravi Iyer
+
+--- message 2 from Dana (support) ---
+If you need an invoice for ORD-77559, you can download it from the Orders page. Tracking updates can lag by a day or two with this carrier. Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ravi Iyer ---
+The checkout page for ORD-23061 timed out. If I try to pay again, will I end up being charged twice? My earlier order ORD-47619 arrived fine, no complaints there. The water filter pitcher itself is great, for what it's worth.
+
+Ravi Iyer
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Dana (support) ---
+Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off. I've resent the confirmation email for ORD-30433 to the address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Dana (support) ---
+Retrying is safe. Our system blocks a second capture on ORD-23061, so a double charge can't happen. Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-77559 to the address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Ravi Iyer ---
+Tracking for ORD-30433 hasn't updated since Tuesday. My partner placed ORD-47619 on our shared account, in case that matters. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Ravi Iyer
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Ravi Iyer ---
+I changed my shipping address last month, so please double-check you have the new one. My earlier order ORD-77559 arrived fine, no complaints there. Could you also tell me whether ORD-77559 qualifies for the extended return window? I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Ravi Iyer
+
+--- message 8 from Dana (support) ---
+I've updated your shipping address on file. Our warehouse shows ORD-77559 left on schedule. I've resent the confirmation email for ORD-30433 to the address on file. I've added a note to your account so the next agent has the context.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Ravi Iyer ---
+My earlier order ORD-47619 arrived fine, no complaints there. My partner placed ORD-47619 on our shared account, in case that matters. The trail running shoes itself is great, for what it's worth. Your app logged me out twice while I was looking at this, which didn't help.
+
+Ravi Iyer
+(Please reply by email rather than phone if possible.)
+
+--- message 10 from Dana (support) ---
+If you need an invoice for ORD-77559, you can download it from the Orders page. I've updated your shipping address on file. I've resent the confirmation email for ORD-47619 to the address on file. Tracking updates can lag by a day or two with this carrier.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

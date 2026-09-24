@@ -1,0 +1,10 @@
+Ledger page P-2610
+
+account      amount   see page
+Dunn           +803   P-4478
+Osei           +857   P-9322
+Jensen         +169   P-2790
+Lambert        -512   P-4660
+Hughes         +539   P-1830
+
+Follow the entry with the largest credit.

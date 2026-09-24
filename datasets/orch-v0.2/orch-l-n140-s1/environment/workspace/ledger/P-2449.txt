@@ -1,0 +1,10 @@
+Ledger page P-2449
+
+account      amount   see page
+Moreau         +134   P-8451
+Ibarra         +345   P-5028
+Silva          -704   P-4075
+Lambert        +730   P-2363
+Weber          +605   P-8753
+
+Follow the entry whose amount is closest to zero.

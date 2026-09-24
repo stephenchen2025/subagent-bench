@@ -1,0 +1,55 @@
+Ticket T-1567
+Customer: Avery Lin
+Orders on file: ORD-91577, ORD-88905, ORD-62968, ORD-57934
+Opened: 2026-05-16 via web form
+
+Order details:
+ORD-91577  placed 2026-02-10  status: returned  total: $391.68
+  payment method: card ending 2763  ship to: 596 Elm St
+  - rain jacket x1
+  - USB-C charging cable (2m) x1
+  - travel pouch x1
+  - replacement filter cartridge, 3-pack x1
+  - extended warranty, 2 years x2
+ORD-88905  placed 2026-03-27  status: delivered  total: $457.52
+  payment method: card ending 2823  ship to: 654 Harbor Lane
+  - water filter pitcher x1
+  - USB-C charging cable (2m) x1
+  - replacement filter cartridge, 3-pack x1
+  - carabiner set x3
+ORD-62968  placed 2026-08-13  status: delivered  total: $265.27
+  payment method: card ending 1091  ship to: 601 Harbor Lane
+  - mechanical keyboard x1
+  - carabiner set x3
+  - USB-C charging cable (2m) x2
+ORD-57934  placed 2026-04-19  status: delivered  total: $34.88
+  payment method: card ending 5226  ship to: 175 Harbor Ave
+  - wool blanket x1
+  - stainless water bottle, 750ml x3
+  - spare battery pack x2
+
+--- message 1 from Avery Lin ---
+The water filter pitcher from ORD-88905 arrived with a scratch on the side. Can I get a replacement? I changed my shipping address last month, so please double-check you have the new one. Your app logged me out twice while I was looking at this, which didn't help. I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Avery Lin
+
+--- message 2 from Rosa (support) ---
+I can see all the orders on your account, including ORD-57934. For ORD-88905, the return window is 30 days from delivery. I've updated your shipping address on file. Screenshots aren't necessary, but thank you for offering.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Avery Lin ---
+I tried the chat widget first but it kept disconnecting. I've been a customer for a few years and usually everything goes smoothly. I changed my shipping address last month, so please double-check you have the new one. I'm travelling next week, so email is the best way to reach me.
+
+Avery Lin
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Rosa (support) ---
+For ORD-88905, the return window is 30 days from delivery. Tracking updates can lag by a day or two with this carrier. I've resent the confirmation email for ORD-57934 to the address on file. I can see all the orders on your account, including ORD-57934.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

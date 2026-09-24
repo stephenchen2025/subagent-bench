@@ -1,0 +1,11 @@
+Ledger page P-3557
+
+account      amount   see page
+Castillo       +825   P-9346
+Moreau         +653   P-3236
+Zhou           -101   P-9976
+Silva          -204   P-1974
+Nakamura        -86   P-1460
+Young          -144   P-7436
+
+Follow the entry with the largest debit (the most negative amount).

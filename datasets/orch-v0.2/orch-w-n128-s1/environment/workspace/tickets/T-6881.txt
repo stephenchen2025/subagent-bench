@@ -1,0 +1,90 @@
+Ticket T-6881
+Customer: Avery Lin
+Orders on file: ORD-53073, ORD-99127, ORD-18139, ORD-95936
+Opened: 2026-08-07 via email
+
+Order details:
+ORD-53073  placed 2026-04-26  status: delivered  total: $149.45
+  payment method: card ending 6154  ship to: 670 Cedar Rd
+  - camping stove x1
+  - gift wrap x3
+  - extended warranty, 2 years x2
+  - merino socks, size M x2
+ORD-99127  placed 2026-05-05  status: label created  total: $142.08
+  payment method: card ending 2814  ship to: 601 Harbor Lane
+  - wool blanket x1
+  - replacement filter cartridge, 3-pack x1
+  - travel pouch x1
+  - stainless water bottle, 750ml x2
+ORD-18139  placed 2026-02-09  status: in transit  total: $444.82
+  payment method: card ending 1186  ship to: 879 Elm Ave
+  - trail running shoes x1
+  - stainless water bottle, 750ml x3
+  - gift wrap x2
+ORD-95936  placed 2026-06-16  status: in transit  total: $148.86
+  payment method: card ending 9485  ship to: 620 Oak Rd
+  - standing desk x1
+  - replacement filter cartridge, 3-pack x1
+  - extended warranty, 2 years x1
+  - microfiber cloth x3
+
+--- message 1 from Avery Lin ---
+I'd like to return the blender from ORD-99127; it's the wrong size. My earlier order ORD-95936 arrived fine, no complaints there. I tried the chat widget first but it kept disconnecting. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Avery Lin
+
+--- message 2 from Fatima (support) ---
+For ORD-53073, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering. Our warehouse shows ORD-95936 left on schedule. Thanks for reaching out, and sorry for the trouble.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Avery Lin ---
+Something looks off with ORD-18139: I see what might be a second payment. My partner placed ORD-99127 on our shared account, in case that matters. My earlier order ORD-53073 arrived fine, no complaints there.
+
+Avery Lin
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Avery Lin ---
+Update: the second line has now posted, it's no longer pending. So both payments for ORD-18139 actually went through. I'm happy to send screenshots if that helps. I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Avery Lin
+Sent from my phone -- please excuse typos.
+
+--- message 5 from Fatima (support) ---
+I can see all the orders on your account, including ORD-95936. For ORD-53073, the return window is 30 days from delivery. If you need an invoice for ORD-95936, you can download it from the Orders page.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Fatima (support) ---
+I've checked with our payments team: both captures for ORD-18139 settled, so you were genuinely charged twice. I've issued a refund for the second one; it should show within 3-5 business days. I've resent the confirmation email for ORD-99127 to the address on file. I've added a note to your account so the next agent has the context.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Avery Lin ---
+My partner placed ORD-99127 on our shared account, in case that matters. The yoga mat itself is great, for what it's worth. I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Avery Lin
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Avery Lin ---
+The confirmation email for ORD-53073 went to my spam folder, so I only just saw it. I'm travelling next week, so email is the best way to reach me. Tracking for ORD-95936 hasn't updated since Tuesday. I'm happy to send screenshots if that helps.
+
+Thanks,
+Avery Lin
+Sent from my phone -- please excuse typos.
+
+--- message 9 from Fatima (support) ---
+I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-99127 left on schedule. I can see all the orders on your account, including ORD-53073.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

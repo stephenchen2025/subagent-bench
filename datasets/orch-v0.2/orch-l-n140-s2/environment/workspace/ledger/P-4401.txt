@@ -1,0 +1,11 @@
+Ledger page P-4401
+
+account      amount   see page
+Eriksen        -306   P-4237
+Castillo       -215   P-5157
+Young          -149   P-6203
+Park           -504   P-2837
+Silva          +856   P-8454
+Baker          -614   P-1122
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,10 @@
+Ledger page P-1729
+
+account      amount   see page
+Umar           +813   P-4529
+Castillo       -700   P-2533
+Young          -869   P-4306
+Abbott         -489   P-9753
+Weber          +557   P-3584
+
+Follow the entry with the largest credit.

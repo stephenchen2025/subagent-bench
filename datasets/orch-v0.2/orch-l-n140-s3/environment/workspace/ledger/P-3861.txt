@@ -1,0 +1,11 @@
+Ledger page P-3861
+
+account      amount   see page
+Zhou            +87   P-9976
+Rahman         +320   P-1465
+Tanaka         -458   P-3560
+Grant          -185   P-8919
+Moreau          -29   P-6835
+Ibarra         +257   P-6561
+
+Follow the entry with the largest credit.

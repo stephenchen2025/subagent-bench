@@ -1,0 +1,10 @@
+Ledger page P-3354
+
+account      amount   see page
+Vance          +487   P-4589
+Baker          -322   P-2443
+Grant          +578   P-8120
+Fofana         -695   P-5815
+Dunn           -204   P-5215
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,56 @@
+Ticket T-7598
+Customer: Hana Sato
+Orders on file: ORD-88085, ORD-64801, ORD-95291, ORD-10748
+Opened: 2026-04-20 via web form
+
+Order details:
+ORD-88085  placed 2026-04-15  status: delivered  total: $377.45
+  payment method: card ending 1607  ship to: 855 Mill Ave
+  - bike light set x1
+  - gift wrap x1
+  - merino socks, size M x1
+  - extended warranty, 2 years x1
+  - USB-C charging cable (2m) x3
+ORD-64801  placed 2026-08-15  status: returned  total: $157.67
+  payment method: card ending 1618  ship to: 111 Mill Rd
+  - standing desk x1
+  - travel pouch x2
+  - merino socks, size M x1
+  - spare battery pack x2
+ORD-95291  placed 2026-07-10  status: returned  total: $101.55
+  payment method: card ending 3225  ship to: 23 Harbor St
+  - cast iron skillet x1
+  - stainless water bottle, 750ml x2
+  - gift wrap x1
+  - spare battery pack x3
+ORD-10748  placed 2026-03-02  status: returned  total: $350.97
+  payment method: card ending 1182  ship to: 523 Mill St
+  - standing desk x1
+  - carabiner set x1
+  - gift wrap x2
+
+--- message 1 from Hana Sato ---
+I'd like to return the mechanical keyboard from ORD-10748; it's the wrong size. I tried the chat widget first but it kept disconnecting. The box for ORD-88085 was a bit crushed but the contents were fine. My earlier order ORD-88085 arrived fine, no complaints there.
+
+Hana Sato
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Pete (support) ---
+Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-64801, you can download it from the Orders page. For ORD-64801, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Hana Sato ---
+My earlier order ORD-10748 arrived fine, no complaints there. The camping stove itself is great, for what it's worth. Could you also tell me whether ORD-10748 qualifies for the extended return window? I tried the chat widget first but it kept disconnecting.
+
+Hana Sato
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Pete (support) ---
+I've added a note to your account so the next agent has the context. Our warehouse shows ORD-10748 left on schedule. If you need an invoice for ORD-64801, you can download it from the Orders page. Tracking updates can lag by a day or two with this carrier.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

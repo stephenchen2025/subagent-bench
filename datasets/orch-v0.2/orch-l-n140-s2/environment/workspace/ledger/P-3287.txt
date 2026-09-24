@@ -1,0 +1,11 @@
+Ledger page P-3287
+
+account      amount   see page
+Tanaka         +307   P-7470
+Xu             -676   P-2705
+Hughes          +22   P-5438
+Fofana         +759   P-3361
+Nakamura       +184   P-7117
+Jensen         -803   P-3961
+
+Follow the entry with the largest debit (the most negative amount).

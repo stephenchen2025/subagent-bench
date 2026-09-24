@@ -1,0 +1,12 @@
+Ledger page P-8020
+
+account      amount   see page
+Abbott         +437   P-4371
+Dunn           -456   P-3518
+Weber          -250   P-9865
+Ibarra         -657   P-9883
+Castillo       -745   P-5847
+Moreau         +350   P-4346
+Tanaka         +222   P-5622
+
+Follow the credit belonging to the account that comes first alphabetically.

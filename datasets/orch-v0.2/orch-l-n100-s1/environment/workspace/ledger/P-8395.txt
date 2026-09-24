@@ -1,0 +1,12 @@
+Ledger page P-8395
+
+account      amount   see page
+Dunn            +79   P-3552
+Vance          +840   P-9723
+Park           +834   P-3307
+Nakamura       -218   P-2300
+Baker          +299   P-3784
+Xu             -271   P-4094
+Tanaka         +737   P-6089
+
+Follow the entry whose amount is closest to zero.

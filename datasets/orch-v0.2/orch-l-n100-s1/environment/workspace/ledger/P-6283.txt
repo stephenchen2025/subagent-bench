@@ -1,0 +1,10 @@
+Ledger page P-6283
+
+account      amount   see page
+Dunn           -435   P-2098
+Fofana         +738   P-3888
+Park            +12   P-9647
+Eriksen        -375   P-8082
+Lambert        +801   P-1149
+
+Follow the credit belonging to the account that comes first alphabetically.

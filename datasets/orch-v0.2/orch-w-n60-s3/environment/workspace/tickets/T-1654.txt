@@ -1,0 +1,71 @@
+Ticket T-1654
+Customer: Jordan Okafor
+Orders on file: ORD-62525, ORD-71495, ORD-16608, ORD-72332
+Opened: 2026-01-14 via email
+
+Order details:
+ORD-62525  placed 2026-02-25  status: returned  total: $288.29
+  payment method: card ending 7583  ship to: 118 Oak Rd
+  - yoga mat x1
+  - merino socks, size M x3
+  - gift wrap x1
+ORD-71495  placed 2026-02-27  status: delivered  total: $439.47
+  payment method: card ending 4812  ship to: 854 Elm Ave
+  - blender x1
+  - travel pouch x1
+  - carabiner set x2
+  - stainless water bottle, 750ml x2
+ORD-16608  placed 2026-03-25  status: delivered  total: $438.72
+  payment method: card ending 6598  ship to: 403 Elm St
+  - yoga mat x1
+  - merino socks, size M x2
+  - gift wrap x2
+  - travel pouch x2
+  - stainless water bottle, 750ml x2
+ORD-72332  placed 2026-07-24  status: delivered  total: $375.86
+  payment method: card ending 6398  ship to: 996 Cedar Ave
+  - espresso grinder x1
+  - microfiber cloth x1
+  - merino socks, size M x1
+  - USB-C charging cable (2m) x1
+  - stainless water bottle, 750ml x1
+
+--- message 1 from Jordan Okafor ---
+How do I reset my password? The reset link keeps expiring. My earlier order ORD-71495 arrived fine, no complaints there. The box for ORD-71495 was a bit crushed but the contents were fine. I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Jordan Okafor
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Pete (support) ---
+For ORD-72332, the return window is 30 days from delivery. Loyalty points post about a week after an order is delivered. I can see all the orders on your account, including ORD-16608. Let me know if anything else looks off.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Jordan Okafor ---
+I'm happy to send screenshots if that helps. I'd rather not call; the hold times last time were very long. I tried the chat widget first but it kept disconnecting. Tracking for ORD-72332 hasn't updated since Tuesday.
+
+Jordan Okafor
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Pete (support) ---
+If you need an invoice for ORD-16608, you can download it from the Orders page. I've added a note to your account so the next agent has the context. For ORD-72332, the return window is 30 days from delivery. I've resent the confirmation email for ORD-72332 to the address on file.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Jordan Okafor ---
+Your app logged me out twice while I was looking at this, which didn't help. I've been a customer for a few years and usually everything goes smoothly. I'd rather not call; the hold times last time were very long. The box for ORD-71495 was a bit crushed but the contents were fine.
+
+Jordan Okafor
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Pete (support) ---
+I've added a note to your account so the next agent has the context. Loyalty points post about a week after an order is delivered. If you need an invoice for ORD-72332, you can download it from the Orders page. Thanks for reaching out, and sorry for the trouble.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

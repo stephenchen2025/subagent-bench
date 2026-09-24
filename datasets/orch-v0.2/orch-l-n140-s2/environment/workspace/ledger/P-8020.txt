@@ -1,0 +1,12 @@
+Ledger page P-8020
+
+account      amount   see page
+Hughes         +667   P-6145
+Castillo       +742   P-5027
+Quinn          -707   P-5991
+Ibarra         -690   P-8486
+Kowalski       -595   P-4105
+Xu             +206   P-4141
+Silva          +414   P-8020
+
+Follow the entry with the largest debit (the most negative amount).

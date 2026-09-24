@@ -1,0 +1,10 @@
+Ledger page P-5686
+
+account      amount   see page
+Weber          -319   P-8411
+Vance          -670   P-2086
+Baker          +425   P-6600
+Park           -552   P-8620
+Hughes          +30   P-2376
+
+Follow the entry whose amount is closest to zero.

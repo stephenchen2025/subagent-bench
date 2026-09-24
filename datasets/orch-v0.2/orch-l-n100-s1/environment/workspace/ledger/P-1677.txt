@@ -1,0 +1,12 @@
+Ledger page P-1677
+
+account      amount   see page
+Ibarra         +583   P-6196
+Vance           -49   P-4094
+Park            +34   P-1064
+Fofana         +636   P-5830
+Kowalski       +700   P-9874
+Eriksen        -604   P-2649
+Osei           +833   P-4499
+
+Follow the debit belonging to the account that comes last alphabetically.

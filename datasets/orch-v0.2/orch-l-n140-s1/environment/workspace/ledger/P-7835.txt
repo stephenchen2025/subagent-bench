@@ -1,0 +1,12 @@
+Ledger page P-7835
+
+account      amount   see page
+Weber          +297   P-7635
+Zhou           +151   P-1247
+Moreau         -580   P-2723
+Nakamura       +152   P-7127
+Xu             -613   P-3943
+Abbott         +407   P-7069
+Osei           +814   P-1340
+
+Follow the entry with the largest debit (the most negative amount).

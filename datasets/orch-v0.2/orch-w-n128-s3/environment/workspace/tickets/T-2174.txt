@@ -1,0 +1,95 @@
+Ticket T-2174
+Customer: Leila Haddad
+Orders on file: ORD-18263, ORD-94897, ORD-27692, ORD-62302
+Opened: 2026-02-17 via web form
+
+Order details:
+ORD-18263  placed 2026-03-10  status: in transit  total: $19.16
+  payment method: card ending 4022  ship to: 725 Mill Rd
+  - standing desk x1
+  - microfiber cloth x3
+  - gift wrap x2
+ORD-94897  placed 2026-02-22  status: delivered  total: $431.89
+  payment method: card ending 2456  ship to: 61 Cedar Ave
+  - trail running shoes x1
+  - carabiner set x3
+  - USB-C charging cable (2m) x1
+  - microfiber cloth x2
+ORD-27692  placed 2026-03-11  status: delivered  total: $421.09
+  payment method: card ending 8010  ship to: 827 Cedar Lane
+  - blender x1
+  - extended warranty, 2 years x1
+  - replacement filter cartridge, 3-pack x1
+  - USB-C charging cable (2m) x1
+ORD-62302  placed 2026-05-15  status: in transit  total: $103.64
+  payment method: card ending 5479  ship to: 327 Cedar Lane
+  - trail running shoes x1
+  - gift wrap x2
+  - extended warranty, 2 years x1
+
+--- message 1 from Leila Haddad ---
+The rain jacket from ORD-27692 arrived with a scratch on the side. Can I get a replacement? I changed my shipping address last month, so please double-check you have the new one. I tried the chat widget first but it kept disconnecting. My partner placed ORD-62302 on our shared account, in case that matters.
+
+Thanks,
+Leila Haddad
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Keiko (support) ---
+If you need an invoice for ORD-94897, you can download it from the Orders page. I've resent the confirmation email for ORD-62302 to the address on file. I can see all the orders on your account, including ORD-94897. For ORD-62302, the return window is 30 days from delivery.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Leila Haddad ---
+Something looks off with ORD-18263: I see what might be a second payment. I'd rather not call; the hold times last time were very long. Tracking for ORD-27692 hasn't updated since Tuesday.
+
+Thanks,
+Leila Haddad
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Keiko (support) ---
+If you need an invoice for ORD-62302, you can download it from the Orders page. Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-62302.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Leila Haddad ---
+Update: the second line has now posted, it's no longer pending. So both payments for ORD-18263 actually went through. I'm happy to send screenshots if that helps. I'm travelling next week, so email is the best way to reach me.
+
+Leila Haddad
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Keiko (support) ---
+Tracking updates can lag by a day or two with this carrier. Let me know if anything else looks off. I can see all the orders on your account, including ORD-62302.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Keiko (support) ---
+I've checked with our payments team: both captures for ORD-18263 settled, so you were genuinely charged twice. I've issued a refund for the second one; it should show within 3-5 business days. I've resent the confirmation email for ORD-62302 to the address on file. I've updated your shipping address on file.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Leila Haddad ---
+I've been a customer for a few years and usually everything goes smoothly. I tried the chat widget first but it kept disconnecting. My partner placed ORD-27692 on our shared account, in case that matters.
+
+Leila Haddad
+(Please reply by email rather than phone if possible.)
+
+--- message 9 from Leila Haddad ---
+I'd rather not call; the hold times last time were very long. I'm travelling next week, so email is the best way to reach me. I tried the chat widget first but it kept disconnecting. The confirmation email for ORD-62302 went to my spam folder, so I only just saw it.
+
+Best regards,
+Leila Haddad
+
+--- message 10 from Keiko (support) ---
+I've added a note to your account so the next agent has the context. Let me know if anything else looks off. For ORD-27692, the return window is 30 days from delivery. I've resent the confirmation email for ORD-27692 to the address on file.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

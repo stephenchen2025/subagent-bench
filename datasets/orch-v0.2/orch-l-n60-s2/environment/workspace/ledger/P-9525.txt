@@ -1,0 +1,11 @@
+Ledger page P-9525
+
+account      amount   see page
+Jensen          -28   P-5312
+Eriksen        +402   P-2745
+Baker          +526   P-3472
+Ibarra         +371   P-4828
+Xu              +81   P-3340
+Silva          -779   P-4865
+
+Follow the entry whose amount is closest to zero.

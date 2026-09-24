@@ -1,0 +1,12 @@
+Ledger page P-5696
+
+account      amount   see page
+Osei           -900   P-8445
+Eriksen        -281   P-2270
+Tanaka         +156   P-6667
+Xu             +726   P-9724
+Grant          +459   P-1886
+Dunn           +242   P-2195
+Rahman          +16   P-6859
+
+Follow the debit belonging to the account that comes last alphabetically.

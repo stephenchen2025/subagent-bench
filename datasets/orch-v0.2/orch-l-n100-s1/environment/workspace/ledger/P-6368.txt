@@ -1,0 +1,12 @@
+Ledger page P-6368
+
+account      amount   see page
+Umar           -585   P-9837
+Grant          +342   P-3474
+Dunn           -301   P-8526
+Vance          -422   P-2848
+Castillo       +795   P-5876
+Silva          +264   P-5820
+Tanaka         -759   P-4561
+
+Follow the entry with the largest credit.

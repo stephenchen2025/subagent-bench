@@ -1,0 +1,10 @@
+Ledger page P-4342
+
+account      amount   see page
+Vance           +24   P-4342
+Moreau         +105   P-1032
+Kowalski        +11   P-1032
+Eriksen         +53   P-4828
+Castillo       -193   P-2745
+
+Follow the credit belonging to the account that comes first alphabetically.

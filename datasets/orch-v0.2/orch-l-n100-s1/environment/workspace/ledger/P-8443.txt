@@ -1,0 +1,10 @@
+Ledger page P-8443
+
+account      amount   see page
+Silva          +146   P-3212
+Jensen         +341   P-8892
+Dunn           -271   P-5996
+Quinn          -335   P-3416
+Hughes         +272   P-3373
+
+Follow the entry whose amount is closest to zero.

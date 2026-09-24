@@ -1,0 +1,11 @@
+Ledger page P-4602
+
+account      amount   see page
+Grant          +104   P-9305
+Tanaka          +11   P-9366
+Castillo       +781   P-5388
+Zhou           +818   P-3667
+Lambert        -457   P-5794
+Eriksen        +301   P-3665
+
+Follow the entry with the largest debit (the most negative amount).

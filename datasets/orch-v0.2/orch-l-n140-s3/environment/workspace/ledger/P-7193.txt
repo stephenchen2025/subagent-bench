@@ -1,0 +1,11 @@
+Ledger page P-7193
+
+account      amount   see page
+Vance          +892   P-5661
+Dunn           -258   P-4101
+Tanaka         +520   P-3353
+Abbott         -885   P-7436
+Nakamura       +476   P-5991
+Lambert        -416   P-9420
+
+Follow the entry with the largest credit.

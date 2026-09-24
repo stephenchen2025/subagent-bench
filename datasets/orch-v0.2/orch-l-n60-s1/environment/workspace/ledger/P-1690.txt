@@ -1,0 +1,10 @@
+Ledger page P-1690
+
+account      amount   see page
+Silva          +562   P-9840
+Hughes         -617   P-6597
+Umar           +455   P-9733
+Young          -627   P-5893
+Fofana         +416   P-1525
+
+Follow the credit belonging to the account that comes first alphabetically.

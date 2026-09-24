@@ -1,0 +1,11 @@
+Ledger page P-4717
+
+account      amount   see page
+Nakamura        +71   P-8890
+Jensen         -122   P-3776
+Quinn          -301   P-9084
+Fofana         -794   P-4118
+Umar           +889   P-7317
+Zhou           +658   P-4173
+
+Follow the entry with the largest credit.

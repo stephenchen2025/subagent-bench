@@ -1,0 +1,11 @@
+Ledger page P-4906
+
+account      amount   see page
+Kowalski        -29   P-9310
+Lambert         +33   P-8264
+Vance          +646   P-5509
+Castillo       +746   P-3851
+Nakamura       -172   P-2719
+Jensen         +684   P-3144
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,10 @@
+Ledger page P-3860
+
+account      amount   see page
+Rahman         -244   P-8428
+Moreau         +476   P-2985
+Baker          -583   P-3354
+Park           +792   P-6883
+Grant          +675   P-6223
+
+Follow the debit belonging to the account that comes last alphabetically.

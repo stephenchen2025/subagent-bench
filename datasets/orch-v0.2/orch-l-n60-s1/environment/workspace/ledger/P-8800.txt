@@ -1,0 +1,11 @@
+Ledger page P-8800
+
+account      amount   see page
+Umar           +541   P-8846
+Osei           -563   P-1198
+Grant          -322   P-1567
+Moreau         -381   P-5258
+Eriksen        -433   P-9733
+Park            -88   P-2544
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,12 @@
+Ledger page P-3166
+
+account      amount   see page
+Jensen         +606   P-5179
+Nakamura       +614   P-2073
+Eriksen        -572   P-9568
+Quinn          +395   P-5516
+Ibarra         +828   P-6289
+Tanaka         +410   P-4704
+Baker          +348   P-8522
+
+Follow the entry with the second-largest amount.

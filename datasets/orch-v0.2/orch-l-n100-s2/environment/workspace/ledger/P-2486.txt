@@ -1,0 +1,10 @@
+Ledger page P-2486
+
+account      amount   see page
+Osei           +451   P-6525
+Park           -530   P-8439
+Weber          +725   P-3292
+Grant          -452   P-9979
+Baker          +239   P-3006
+
+Follow the entry with the largest debit (the most negative amount).

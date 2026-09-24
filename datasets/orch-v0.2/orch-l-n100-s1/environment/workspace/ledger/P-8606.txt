@@ -1,0 +1,12 @@
+Ledger page P-8606
+
+account      amount   see page
+Moreau         +349   P-9894
+Zhou           -119   P-9894
+Park           +254   P-1481
+Eriksen        +736   P-3373
+Vance          +509   P-2376
+Ibarra         -525   P-9568
+Xu             -518   P-8818
+
+Follow the credit belonging to the account that comes first alphabetically.

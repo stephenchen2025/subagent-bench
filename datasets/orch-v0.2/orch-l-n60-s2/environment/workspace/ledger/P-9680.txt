@@ -1,0 +1,11 @@
+Ledger page P-9680
+
+account      amount   see page
+Xu             +388   P-8045
+Jensen         +766   P-1725
+Abbott         +632   P-3409
+Park           -519   P-8343
+Eriksen        +862   P-2578
+Young          +256   P-2745
+
+Follow the debit belonging to the account that comes last alphabetically.

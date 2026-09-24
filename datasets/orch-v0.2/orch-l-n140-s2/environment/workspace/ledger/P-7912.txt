@@ -1,0 +1,10 @@
+Ledger page P-7912
+
+account      amount   see page
+Ibarra         +823   P-5983
+Weber          -793   P-6627
+Vance          -392   P-4881
+Fofana         +852   P-7862
+Silva          -372   P-4607
+
+Follow the credit belonging to the account that comes first alphabetically.

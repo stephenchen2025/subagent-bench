@@ -1,0 +1,71 @@
+Ticket T-4315
+Customer: Samir Patel
+Orders on file: ORD-70623, ORD-99094, ORD-72280, ORD-52602
+Opened: 2026-04-07 via email
+
+Order details:
+ORD-70623  placed 2026-06-07  status: delivered  total: $417.24
+  payment method: card ending 1202  ship to: 714 Harbor Ave
+  - noise-cancelling headphones x1
+  - microfiber cloth x3
+  - extended warranty, 2 years x1
+  - merino socks, size M x1
+ORD-99094  placed 2026-02-14  status: in transit  total: $207.74
+  payment method: card ending 5297  ship to: 64 Elm Rd
+  - noise-cancelling headphones x1
+  - carabiner set x1
+  - stainless water bottle, 750ml x3
+  - USB-C charging cable (2m) x2
+  - spare battery pack x3
+ORD-72280  placed 2026-02-16  status: delivered  total: $160.99
+  payment method: card ending 7166  ship to: 477 Oak Rd
+  - rain jacket x1
+  - microfiber cloth x1
+  - stainless water bottle, 750ml x2
+ORD-52602  placed 2026-06-10  status: returned  total: $357.41
+  payment method: card ending 7950  ship to: 361 Elm Ave
+  - noise-cancelling headphones x1
+  - stainless water bottle, 750ml x2
+  - replacement filter cartridge, 3-pack x1
+  - travel pouch x1
+  - carabiner set x1
+
+--- message 1 from Samir Patel ---
+Where is my refund for ORD-99094? You said 5 days and it has been 8. Could you also tell me whether ORD-72280 qualifies for the extended return window? Tracking for ORD-99094 hasn't updated since Tuesday. My earlier order ORD-52602 arrived fine, no complaints there.
+
+Samir Patel
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Pete (support) ---
+Loyalty points post about a week after an order is delivered. I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Samir Patel ---
+I tried the chat widget first but it kept disconnecting. Could you also tell me whether ORD-72280 qualifies for the extended return window? My partner placed ORD-99094 on our shared account, in case that matters. Is there a way to combine loyalty points from ORD-52602 with my next purchase?
+
+Thanks,
+Samir Patel
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Pete (support) ---
+Let me know if anything else looks off. I've updated your shipping address on file. Our warehouse shows ORD-52602 left on schedule. I've added a note to your account so the next agent has the context.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Samir Patel ---
+The confirmation email for ORD-52602 went to my spam folder, so I only just saw it. I changed my shipping address last month, so please double-check you have the new one. Tracking for ORD-99094 hasn't updated since Tuesday. I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Samir Patel
+
+--- message 6 from Pete (support) ---
+For ORD-72280, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-72280. If you need an invoice for ORD-99094, you can download it from the Orders page.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,12 @@
+Ledger page P-6046
+
+account      amount   see page
+Nakamura       -366   P-1723
+Jensen         +287   P-3367
+Weber          +875   P-4432
+Quinn          +566   P-2618
+Silva          +659   P-1234
+Zhou           -814   P-1253
+Hughes         -291   P-1897
+
+Follow the debit belonging to the account that comes last alphabetically.

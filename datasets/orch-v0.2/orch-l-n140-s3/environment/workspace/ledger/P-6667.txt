@@ -1,0 +1,11 @@
+Ledger page P-6667
+
+account      amount   see page
+Baker          +344   P-6796
+Eriksen        -773   P-7763
+Jensen         -542   P-9263
+Xu             +175   P-1963
+Dunn           +687   P-3644
+Park            +80   P-9080
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,12 @@
+Ledger page P-5513
+
+account      amount   see page
+Vance          +135   P-6525
+Silva          -147   P-7449
+Umar           -502   P-4553
+Fofana          +45   P-8213
+Xu              +97   P-8593
+Castillo       +476   P-8674
+Ibarra         -846   P-7334
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,11 @@
+Ledger page P-3560
+
+account      amount   see page
+Moreau         +892   P-5183
+Xu             +620   P-6408
+Baker          -398   P-9923
+Weber          +684   P-1579
+Castillo       -303   P-3282
+Umar           +401   P-5220
+
+Follow the debit belonging to the account that comes last alphabetically.

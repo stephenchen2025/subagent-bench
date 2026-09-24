@@ -1,0 +1,12 @@
+Ledger page P-8803
+
+account      amount   see page
+Abbott         -427   P-4342
+Eriksen        -129   P-4360
+Kowalski       +216   P-8298
+Tanaka         +529   P-4010
+Vance          -335   P-9045
+Hughes         +317   P-6634
+Umar           +523   P-2118
+
+Follow the credit belonging to the account that comes first alphabetically.

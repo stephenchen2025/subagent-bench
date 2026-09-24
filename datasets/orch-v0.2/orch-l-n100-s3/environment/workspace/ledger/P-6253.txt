@@ -1,0 +1,10 @@
+Ledger page P-6253
+
+account      amount   see page
+Vance          +527   P-1433
+Fofana         -395   P-9621
+Ibarra         +528   P-4154
+Kowalski       -320   P-1547
+Moreau          +69   P-2960
+
+Follow the debit belonging to the account that comes last alphabetically.

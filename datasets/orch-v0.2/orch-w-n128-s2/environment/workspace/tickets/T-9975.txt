@@ -1,0 +1,54 @@
+Ticket T-9975
+Customer: Samir Patel
+Orders on file: ORD-17972, ORD-24532, ORD-62036, ORD-67511
+Opened: 2026-07-22 via email
+
+Order details:
+ORD-17972  placed 2026-05-06  status: delivered  total: $65.35
+  payment method: card ending 8269  ship to: 133 Oak Ave
+  - trail running shoes x1
+  - extended warranty, 2 years x2
+  - replacement filter cartridge, 3-pack x2
+ORD-24532  placed 2026-06-15  status: label created  total: $456.23
+  payment method: card ending 8364  ship to: 652 Oak Ave
+  - bike light set x1
+  - microfiber cloth x2
+  - stainless water bottle, 750ml x1
+  - merino socks, size M x3
+ORD-62036  placed 2026-06-28  status: in transit  total: $342.53
+  payment method: card ending 7507  ship to: 495 Harbor St
+  - espresso grinder x1
+  - gift wrap x2
+  - replacement filter cartridge, 3-pack x2
+ORD-67511  placed 2026-03-04  status: returned  total: $216.64
+  payment method: card ending 4839  ship to: 942 Mill Rd
+  - desk lamp x1
+  - extended warranty, 2 years x2
+  - gift wrap x2
+  - replacement filter cartridge, 3-pack x1
+
+--- message 1 from Samir Patel ---
+I'd like to return the espresso grinder from ORD-62036; it's the wrong size. Is there a way to combine loyalty points from ORD-67511 with my next purchase? I tried the chat widget first but it kept disconnecting. The confirmation email for ORD-62036 went to my spam folder, so I only just saw it.
+
+Samir Patel
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Dana (support) ---
+Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-67511. I've updated your shipping address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Samir Patel ---
+I've been a customer for a few years and usually everything goes smoothly. I tried the chat widget first but it kept disconnecting. I'd rather not call; the hold times last time were very long. My earlier order ORD-62036 arrived fine, no complaints there.
+
+Samir Patel
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Dana (support) ---
+Our warehouse shows ORD-62036 left on schedule. If you need an invoice for ORD-62036, you can download it from the Orders page. Tracking updates can lag by a day or two with this carrier. Let me know if anything else looks off.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,82 @@
+Ticket T-6718
+Customer: Chloe Martin
+Orders on file: ORD-56592, ORD-15869, ORD-42711, ORD-19135
+Opened: 2026-03-01 via web form
+
+Order details:
+ORD-56592  placed 2026-07-05  status: delivered  total: $111.74
+  payment method: card ending 5258  ship to: 460 Harbor Rd
+  - blender x1
+  - stainless water bottle, 750ml x3
+  - spare battery pack x3
+  - gift wrap x1
+ORD-15869  placed 2026-01-28  status: delivered  total: $413.87
+  payment method: card ending 1728  ship to: 904 Cedar Rd
+  - trail running shoes x1
+  - extended warranty, 2 years x1
+  - stainless water bottle, 750ml x3
+ORD-42711  placed 2026-08-21  status: returned  total: $423.44
+  payment method: card ending 1540  ship to: 908 Oak St
+  - cast iron skillet x1
+  - stainless water bottle, 750ml x3
+  - replacement filter cartridge, 3-pack x1
+  - extended warranty, 2 years x2
+  - merino socks, size M x2
+ORD-19135  placed 2026-02-24  status: returned  total: $40.75
+  payment method: card ending 8440  ship to: 549 Harbor Lane
+  - noise-cancelling headphones x1
+  - stainless water bottle, 750ml x3
+  - replacement filter cartridge, 3-pack x3
+  - USB-C charging cable (2m) x2
+
+--- message 1 from Chloe Martin ---
+I need to change the delivery address for ORD-19135 before it ships. Is there a way to combine loyalty points from ORD-42711 with my next purchase? I've been a customer for a few years and usually everything goes smoothly. The confirmation email for ORD-19135 went to my spam folder, so I only just saw it.
+
+Best regards,
+Chloe Martin
+
+--- message 2 from Dana (support) ---
+For ORD-42711, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context. Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-42711 to the address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Chloe Martin ---
+There's an extra line for ORD-15869 on the card app. It could just be a hold -- can you check? Tracking for ORD-19135 hasn't updated since Tuesday. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Chloe Martin
+
+--- message 4 from Chloe Martin ---
+Just checked again -- both charges for ORD-15869 are settled now, not pending. I've been a customer for a few years and usually everything goes smoothly. I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Chloe Martin
+
+--- message 5 from Dana (support) ---
+Thanks for reaching out, and sorry for the trouble. Tracking updates can lag by a day or two with this carrier. Let me know if anything else looks off.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Dana (support) ---
+Confirmed on our side -- ORD-15869 was captured twice by a retry in our checkout. One refund of $445.39 is on its way to you. Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Chloe Martin ---
+I'm happy to send screenshots if that helps. The yoga mat itself is great, for what it's worth. I tried the chat widget first but it kept disconnecting. I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Chloe Martin
+
+--- message 8 from Dana (support) ---
+Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-56592, you can download it from the Orders page. Let me know if anything else looks off. Loyalty points post about a week after an order is delivered.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

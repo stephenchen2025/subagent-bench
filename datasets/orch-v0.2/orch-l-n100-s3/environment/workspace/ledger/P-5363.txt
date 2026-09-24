@@ -1,0 +1,10 @@
+Ledger page P-5363
+
+account      amount   see page
+Young          +171   P-8185
+Abbott          +51   P-4852
+Baker           +27   P-6513
+Jensen         -628   P-2331
+Silva          +863   P-3685
+
+Follow the credit belonging to the account that comes first alphabetically.

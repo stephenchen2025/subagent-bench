@@ -1,0 +1,10 @@
+Ledger page P-5824
+
+account      amount   see page
+Quinn          +312   P-3144
+Zhou           -707   P-9327
+Eriksen        +781   P-8166
+Fofana         -516   P-4687
+Xu             -860   P-9110
+
+Follow the entry with the largest credit.

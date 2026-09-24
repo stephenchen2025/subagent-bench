@@ -1,0 +1,60 @@
+Ticket T-6475
+Customer: Elena Petrova
+Orders on file: ORD-12205, ORD-84830, ORD-63618, ORD-89756
+Opened: 2026-02-26 via chat transcript
+
+Order details:
+ORD-12205  placed 2026-06-01  status: delivered  total: $49.16
+  payment method: card ending 6799  ship to: 965 Elm Ave
+  - cast iron skillet x1
+  - gift wrap x2
+  - merino socks, size M x2
+  - travel pouch x3
+ORD-84830  placed 2026-01-08  status: delivered  total: $333.65
+  payment method: card ending 2999  ship to: 598 Harbor Ave
+  - water filter pitcher x1
+  - spare battery pack x1
+  - stainless water bottle, 750ml x3
+ORD-63618  placed 2026-02-18  status: in transit  total: $438.17
+  payment method: card ending 9387  ship to: 819 Cedar Lane
+  - mechanical keyboard x1
+  - spare battery pack x1
+  - USB-C charging cable (2m) x3
+ORD-89756  placed 2026-07-10  status: in transit  total: $345.85
+  payment method: card ending 6591  ship to: 663 Elm Ave
+  - mechanical keyboard x1
+  - USB-C charging cable (2m) x3
+  - stainless water bottle, 750ml x3
+  - travel pouch x3
+
+--- message 1 from Elena Petrova ---
+Where is my refund for ORD-84830? You said 5 days and it has been 8. My earlier order ORD-89756 arrived fine, no complaints there. Tracking for ORD-63618 hasn't updated since Tuesday. Is there a way to combine loyalty points from ORD-84830 with my next purchase?
+
+Best regards,
+Elena Petrova
+
+--- message 2 from Arjun (support) ---
+Our warehouse shows ORD-63618 left on schedule. Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-84830, you can download it from the Orders page. I've added a note to your account so the next agent has the context.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Elena Petrova ---
+I got two receipts for ORD-12205, and both amounts actually left my account. Could you also tell me whether ORD-89756 qualifies for the extended return window? I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Elena Petrova
+
+--- message 4 from Elena Petrova ---
+My earlier order ORD-89756 arrived fine, no complaints there. I changed my shipping address last month, so please double-check you have the new one. Could you also tell me whether ORD-84830 qualifies for the extended return window? Tracking for ORD-84830 hasn't updated since Tuesday.
+
+Elena Petrova
+(Please reply by email rather than phone if possible.)
+
+--- message 5 from Arjun (support) ---
+Tracking updates can lag by a day or two with this carrier. Let me know if anything else looks off. Our warehouse shows ORD-63618 left on schedule. I can see all the orders on your account, including ORD-63618.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,11 @@
+Ledger page P-2191
+
+account      amount   see page
+Vance          +182   P-1352
+Ibarra         +803   P-9551
+Abbott         -650   P-5698
+Castillo       -155   P-4727
+Umar           -550   P-3049
+Nakamura       -646   P-4656
+
+Follow the entry whose amount is closest to zero.

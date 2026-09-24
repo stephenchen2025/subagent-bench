@@ -1,0 +1,58 @@
+Ticket T-8845
+Customer: Liam O'Neill
+Orders on file: ORD-75535, ORD-20871, ORD-21572, ORD-17046
+Opened: 2026-08-14 via email
+
+Order details:
+ORD-75535  placed 2026-01-06  status: returned  total: $164.78
+  payment method: card ending 9588  ship to: 836 Oak Rd
+  - water filter pitcher x1
+  - USB-C charging cable (2m) x1
+  - gift wrap x3
+ORD-20871  placed 2026-04-02  status: label created  total: $306.88
+  payment method: card ending 4976  ship to: 719 Oak Rd
+  - standing desk x1
+  - microfiber cloth x2
+  - replacement filter cartridge, 3-pack x3
+ORD-21572  placed 2026-02-06  status: delivered  total: $68.31
+  payment method: card ending 1142  ship to: 980 Harbor Rd
+  - yoga mat x1
+  - gift wrap x2
+  - spare battery pack x1
+ORD-17046  placed 2026-03-25  status: delivered  total: $274.87
+  payment method: card ending 4469  ship to: 682 Oak Ave
+  - bike light set x1
+  - travel pouch x1
+  - merino socks, size M x3
+
+--- message 1 from Liam O'Neill ---
+Can I use a gift card on ORD-21572, or is it too late? I'm happy to send screenshots if that helps. Tracking for ORD-21572 hasn't updated since Tuesday. The confirmation email for ORD-75535 went to my spam folder, so I only just saw it.
+
+Best regards,
+Liam O'Neill
+
+--- message 2 from Keiko (support) ---
+Tracking updates can lag by a day or two with this carrier. I've updated your shipping address on file. Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Liam O'Neill ---
+Yes, there were two payments, but they're for two different orders (ORD-20871 and ORD-17046), so that's fine. I just need a receipt for each. Is there a way to combine loyalty points from ORD-17046 with my next purchase? I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Liam O'Neill
+
+--- message 4 from Liam O'Neill ---
+I've been a customer for a few years and usually everything goes smoothly. My partner placed ORD-75535 on our shared account, in case that matters. I tried the chat widget first but it kept disconnecting. Is there a way to combine loyalty points from ORD-17046 with my next purchase?
+
+Liam O'Neill
+(Please reply by email rather than phone if possible.)
+
+--- message 5 from Keiko (support) ---
+If you need an invoice for ORD-17046, you can download it from the Orders page. I've resent the confirmation email for ORD-21572 to the address on file. I've added a note to your account so the next agent has the context. I've updated your shipping address on file.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

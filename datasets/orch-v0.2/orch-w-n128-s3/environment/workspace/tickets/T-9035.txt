@@ -1,0 +1,54 @@
+Ticket T-9035
+Customer: Sofia Rossi
+Orders on file: ORD-58620, ORD-92307, ORD-90663, ORD-70431
+Opened: 2026-03-20 via web form
+
+Order details:
+ORD-58620  placed 2026-07-02  status: returned  total: $423.25
+  payment method: card ending 4275  ship to: 793 Mill Ave
+  - desk lamp x1
+  - microfiber cloth x2
+  - extended warranty, 2 years x1
+  - replacement filter cartridge, 3-pack x1
+ORD-92307  placed 2026-02-02  status: returned  total: $303.78
+  payment method: card ending 7563  ship to: 668 Elm Rd
+  - water filter pitcher x1
+  - spare battery pack x1
+  - microfiber cloth x3
+  - replacement filter cartridge, 3-pack x2
+ORD-90663  placed 2026-07-14  status: delivered  total: $243.03
+  payment method: card ending 6025  ship to: 244 Elm Lane
+  - trail running shoes x1
+  - replacement filter cartridge, 3-pack x3
+  - spare battery pack x3
+ORD-70431  placed 2026-01-11  status: in transit  total: $155.10
+  payment method: card ending 4802  ship to: 594 Elm St
+  - cast iron skillet x1
+  - microfiber cloth x2
+  - replacement filter cartridge, 3-pack x2
+
+--- message 1 from Sofia Rossi ---
+I need to change the delivery address for ORD-58620 before it ships. The confirmation email for ORD-70431 went to my spam folder, so I only just saw it. Your app logged me out twice while I was looking at this, which didn't help. I'd rather not call; the hold times last time were very long.
+
+Sofia Rossi
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Arjun (support) ---
+I've resent the confirmation email for ORD-70431 to the address on file. For ORD-92307, the return window is 30 days from delivery. Let me know if anything else looks off. If you need an invoice for ORD-70431, you can download it from the Orders page.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Sofia Rossi ---
+The carry-on suitcase itself is great, for what it's worth. Tracking for ORD-58620 hasn't updated since Tuesday. I tried the chat widget first but it kept disconnecting. My earlier order ORD-92307 arrived fine, no complaints there.
+
+Sofia Rossi
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Arjun (support) ---
+Let me know if anything else looks off. I've resent the confirmation email for ORD-92307 to the address on file. For ORD-92307, the return window is 30 days from delivery. Tracking updates can lag by a day or two with this carrier.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,11 @@
+Ledger page P-6369
+
+account      amount   see page
+Hughes         +391   P-9044
+Quinn          -335   P-1848
+Kowalski        -12   P-8526
+Abbott         -514   P-5996
+Baker          -664   P-5699
+Rahman          -10   P-8892
+
+Follow the entry whose amount is closest to zero.

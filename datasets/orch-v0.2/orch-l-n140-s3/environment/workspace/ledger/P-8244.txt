@@ -1,0 +1,10 @@
+Ledger page P-8244
+
+account      amount   see page
+Nakamura        +64   P-4038
+Hughes          +51   P-5827
+Tanaka         +139   P-8946
+Weber           +80   P-5252
+Moreau         -411   P-5120
+
+Follow the entry with the second-largest amount.

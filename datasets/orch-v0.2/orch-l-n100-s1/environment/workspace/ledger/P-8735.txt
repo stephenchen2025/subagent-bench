@@ -1,0 +1,10 @@
+Ledger page P-8735
+
+account      amount   see page
+Moreau         +827   P-9804
+Silva          +799   P-7949
+Baker          +782   P-7418
+Jensen         -111   P-7855
+Lambert        +405   P-2116
+
+Follow the entry with the largest debit (the most negative amount).

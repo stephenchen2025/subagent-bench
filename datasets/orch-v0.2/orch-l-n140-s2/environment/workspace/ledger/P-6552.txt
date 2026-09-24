@@ -1,0 +1,10 @@
+Ledger page P-6552
+
+account      amount   see page
+Rahman         +855   P-6511
+Ibarra         -869   P-9711
+Castillo       -406   P-8495
+Lambert        -667   P-9669
+Eriksen        +714   P-3706
+
+Follow the debit belonging to the account that comes last alphabetically.

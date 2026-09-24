@@ -1,0 +1,10 @@
+Ledger page P-9850
+
+account      amount   see page
+Ibarra         -447   P-9647
+Vance          -825   P-6734
+Park           -877   P-2643
+Eriksen        -449   P-1592
+Jensen         +317   P-8020
+
+Follow the debit belonging to the account that comes last alphabetically.

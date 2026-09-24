@@ -1,0 +1,10 @@
+Ledger page P-1507
+
+account      amount   see page
+Baker           -92   P-4337
+Tanaka         -194   P-9675
+Quinn          +881   P-6703
+Rahman         -692   P-5073
+Abbott         +580   P-2868
+
+Follow the entry with the second-largest amount.

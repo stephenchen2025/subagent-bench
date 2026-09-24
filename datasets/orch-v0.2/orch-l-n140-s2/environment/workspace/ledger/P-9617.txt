@@ -1,0 +1,11 @@
+Ledger page P-9617
+
+account      amount   see page
+Xu             +248   P-6305
+Ibarra         -412   P-5607
+Kowalski       -520   P-6445
+Abbott         -318   P-5451
+Young          -850   P-6117
+Quinn          -116   P-6824
+
+Follow the entry with the second-largest amount.

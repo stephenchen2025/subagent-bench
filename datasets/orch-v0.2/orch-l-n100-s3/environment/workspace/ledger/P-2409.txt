@@ -1,0 +1,11 @@
+Ledger page P-2409
+
+account      amount   see page
+Xu             -541   P-1428
+Silva          -441   P-5602
+Fofana         +220   P-6679
+Nakamura       -792   P-8976
+Ibarra         -861   P-5363
+Rahman          +17   P-4327
+
+Follow the entry with the largest credit.

@@ -1,0 +1,11 @@
+Ledger page P-4912
+
+account      amount   see page
+Dunn           +342   P-1126
+Vance          -530   P-7275
+Quinn          +779   P-3326
+Moreau          +79   P-1032
+Park           -677   P-7404
+Osei           -800   P-9045
+
+Follow the credit belonging to the account that comes first alphabetically.

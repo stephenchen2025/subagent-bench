@@ -1,0 +1,58 @@
+Ticket T-4494
+Customer: Avery Lin
+Orders on file: ORD-53752, ORD-47769, ORD-77898, ORD-85858
+Opened: 2026-08-04 via email
+
+Order details:
+ORD-53752  placed 2026-05-19  status: in transit  total: $191.90
+  payment method: card ending 3182  ship to: 404 Elm St
+  - bike light set x1
+  - merino socks, size M x3
+  - microfiber cloth x3
+  - spare battery pack x2
+ORD-47769  placed 2026-06-16  status: delivered  total: $50.91
+  payment method: card ending 1412  ship to: 154 Harbor Lane
+  - bike light set x1
+  - merino socks, size M x3
+  - USB-C charging cable (2m) x3
+  - stainless water bottle, 750ml x1
+  - gift wrap x3
+ORD-77898  placed 2026-07-24  status: returned  total: $175.41
+  payment method: card ending 5427  ship to: 285 Mill St
+  - standing desk x1
+  - merino socks, size M x2
+  - USB-C charging cable (2m) x3
+ORD-85858  placed 2026-07-09  status: delivered  total: $25.37
+  payment method: card ending 2432  ship to: 864 Cedar Ave
+  - cast iron skillet x1
+  - extended warranty, 2 years x2
+  - microfiber cloth x2
+  - gift wrap x2
+
+--- message 1 from Avery Lin ---
+I need to change the delivery address for ORD-77898 before it ships. I changed my shipping address last month, so please double-check you have the new one. Your app logged me out twice while I was looking at this, which didn't help. I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Avery Lin
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Pete (support) ---
+Our warehouse shows ORD-77898 left on schedule. Let me know if anything else looks off. I've added a note to your account so the next agent has the context. Screenshots aren't necessary, but thank you for offering.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Avery Lin ---
+The box for ORD-47769 was a bit crushed but the contents were fine. I'm travelling next week, so email is the best way to reach me. The rain jacket itself is great, for what it's worth. I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Avery Lin
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Pete (support) ---
+I've added a note to your account so the next agent has the context. For ORD-47769, the return window is 30 days from delivery. Let me know if anything else looks off. Loyalty points post about a week after an order is delivered.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,10 @@
+Ledger page P-3054
+
+account      amount   see page
+Park            +39   P-2080
+Zhou           +743   P-8594
+Rahman         -126   P-4423
+Nakamura       -612   P-1952
+Moreau         -551   P-9414
+
+Follow the entry with the largest credit.

@@ -1,0 +1,104 @@
+Ticket T-5031
+Customer: Ravi Iyer
+Orders on file: ORD-81117, ORD-85840, ORD-64979, ORD-38281
+Opened: 2026-05-13 via chat transcript
+
+Order details:
+ORD-81117  placed 2026-04-09  status: returned  total: $480.69
+  payment method: card ending 5412  ship to: 434 Elm Rd
+  - desk lamp x1
+  - extended warranty, 2 years x2
+  - stainless water bottle, 750ml x2
+ORD-85840  placed 2026-06-09  status: returned  total: $205.35
+  payment method: card ending 7361  ship to: 402 Harbor Lane
+  - yoga mat x1
+  - replacement filter cartridge, 3-pack x1
+  - gift wrap x2
+ORD-64979  placed 2026-05-26  status: label created  total: $171.45
+  payment method: card ending 6330  ship to: 221 Harbor Lane
+  - espresso grinder x1
+  - travel pouch x3
+  - stainless water bottle, 750ml x2
+  - microfiber cloth x3
+  - carabiner set x2
+ORD-38281  placed 2026-06-04  status: label created  total: $216.71
+  payment method: card ending 9874  ship to: 64 Harbor Lane
+  - blender x1
+  - replacement filter cartridge, 3-pack x2
+  - carabiner set x3
+  - spare battery pack x2
+
+--- message 1 from Ravi Iyer ---
+The trail running shoes from ORD-38281 arrived with a scratch on the side. Can I get a replacement? Your app logged me out twice while I was looking at this, which didn't help. Could you also tell me whether ORD-85840 qualifies for the extended return window? I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Ravi Iyer
+
+--- message 2 from Keiko (support) ---
+I can see all the orders on your account, including ORD-81117. Our warehouse shows ORD-85840 left on schedule. Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ravi Iyer ---
+There's an extra line for ORD-64979 on my credit union. It could just be a hold -- can you check? I've been a customer for a few years and usually everything goes smoothly. My earlier order ORD-85840 arrived fine, no complaints there.
+
+Thanks,
+Ravi Iyer
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Ravi Iyer ---
+Just checked again -- both charges for ORD-64979 are settled now, not pending. Is there a way to combine loyalty points from ORD-81117 with my next purchase? I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Ravi Iyer
+Sent from my phone -- please excuse typos.
+
+--- message 5 from Keiko (support) ---
+I've updated your shipping address on file. Screenshots aren't necessary, but thank you for offering. I've added a note to your account so the next agent has the context.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Keiko (support) ---
+Confirmed on our side -- ORD-64979 was captured twice by a retry in our checkout. One refund of $370.07 is on its way to you. I've updated your shipping address on file. If you need an invoice for ORD-85840, you can download it from the Orders page.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Ravi Iyer ---
+I'd rather not call; the hold times last time were very long. My partner placed ORD-38281 on our shared account, in case that matters. My earlier order ORD-38281 arrived fine, no complaints there.
+
+Best regards,
+Ravi Iyer
+
+--- message 8 from Ravi Iyer ---
+The box for ORD-85840 was a bit crushed but the contents were fine. My partner placed ORD-81117 on our shared account, in case that matters. Is there a way to combine loyalty points from ORD-81117 with my next purchase? I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Ravi Iyer
+Sent from my phone -- please excuse typos.
+
+--- message 9 from Keiko (support) ---
+I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-85840 to the address on file. I can see all the orders on your account, including ORD-85840. If you need an invoice for ORD-81117, you can download it from the Orders page.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 10 from Ravi Iyer ---
+Could you also tell me whether ORD-85840 qualifies for the extended return window? Tracking for ORD-85840 hasn't updated since Tuesday. Is there a way to combine loyalty points from ORD-85840 with my next purchase? I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Ravi Iyer
+Sent from my phone -- please excuse typos.
+
+--- message 11 from Keiko (support) ---
+Our warehouse shows ORD-38281 left on schedule. Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context. Let me know if anything else looks off.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,12 @@
+Ledger page P-2927
+
+account      amount   see page
+Baker          +881   P-1521
+Weber          +516   P-7446
+Young          -726   P-4348
+Ibarra         +867   P-5623
+Xu              -35   P-2363
+Kowalski       +224   P-4641
+Abbott         -588   P-6359
+
+Follow the entry with the largest credit.

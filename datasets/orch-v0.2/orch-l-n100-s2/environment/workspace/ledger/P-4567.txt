@@ -1,0 +1,10 @@
+Ledger page P-4567
+
+account      amount   see page
+Tanaka         +107   P-2486
+Grant           +62   P-5156
+Hughes          +20   P-9838
+Rahman         -334   P-2042
+Ibarra         +433   P-9066
+
+Follow the debit belonging to the account that comes last alphabetically.

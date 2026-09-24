@@ -1,0 +1,12 @@
+Ledger page P-8991
+
+account      amount   see page
+Young          +190   P-5907
+Xu             -320   P-6297
+Tanaka          -70   P-4621
+Castillo       -210   P-9610
+Baker          -279   P-3560
+Dunn           +639   P-6015
+Grant           -83   P-3604
+
+Follow the entry with the largest debit (the most negative amount).

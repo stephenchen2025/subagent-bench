@@ -1,0 +1,10 @@
+Ledger page P-2067
+
+account      amount   see page
+Fofana         +263   P-9791
+Castillo       +447   P-4111
+Rahman         -592   P-8431
+Ibarra         -493   P-1861
+Xu             -472   P-1092
+
+Follow the entry with the largest debit (the most negative amount).

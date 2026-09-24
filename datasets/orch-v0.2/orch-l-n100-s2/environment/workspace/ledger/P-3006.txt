@@ -1,0 +1,11 @@
+Ledger page P-3006
+
+account      amount   see page
+Abbott         +783   P-7118
+Rahman         +260   P-2427
+Castillo       +492   P-3029
+Dunn           -681   P-3247
+Silva          -760   P-2046
+Fofana         -274   P-8625
+
+Follow the entry with the largest credit.

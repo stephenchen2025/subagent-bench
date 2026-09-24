@@ -1,0 +1,11 @@
+Ledger page P-3429
+
+account      amount   see page
+Zhou           +735   P-2195
+Rahman         +401   P-1685
+Silva          +380   P-7069
+Moreau         +174   P-5008
+Vance          -566   P-1384
+Fofana          -71   P-5023
+
+Follow the entry with the largest debit (the most negative amount).

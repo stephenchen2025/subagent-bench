@@ -1,0 +1,11 @@
+Ledger page P-1551
+
+account      amount   see page
+Silva           +95   P-7346
+Osei           +586   P-2691
+Fofana          -34   P-8088
+Abbott         +583   P-4259
+Moreau          +37   P-7865
+Park           +576   P-5757
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,12 @@
+Ledger page P-3628
+
+account      amount   see page
+Zhou           +181   P-7041
+Dunn           +553   P-6293
+Nakamura       -854   P-3215
+Castillo       +194   P-6627
+Eriksen        +470   P-7041
+Xu             +463   P-5438
+Ibarra         +833   P-1101
+
+Follow the debit belonging to the account that comes last alphabetically.

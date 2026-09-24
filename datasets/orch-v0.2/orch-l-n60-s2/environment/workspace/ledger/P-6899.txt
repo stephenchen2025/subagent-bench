@@ -1,0 +1,12 @@
+Ledger page P-6899
+
+account      amount   see page
+Fofana         +584   P-9559
+Tanaka          +10   P-7231
+Silva          +755   P-9605
+Abbott          -48   P-5616
+Park           +804   P-4828
+Baker          -308   P-1599
+Lambert        +187   P-1845
+
+Follow the entry with the second-largest amount.

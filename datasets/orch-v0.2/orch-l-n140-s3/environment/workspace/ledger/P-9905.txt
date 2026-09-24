@@ -1,0 +1,12 @@
+Ledger page P-9905
+
+account      amount   see page
+Jensen         +828   P-7629
+Abbott          -12   P-9317
+Umar           -589   P-8910
+Nakamura       -504   P-3049
+Grant           -87   P-3386
+Young          +334   P-5698
+Moreau           -5   P-6863
+
+Follow the entry with the second-largest amount.

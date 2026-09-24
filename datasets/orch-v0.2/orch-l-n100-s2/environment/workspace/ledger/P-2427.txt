@@ -1,0 +1,11 @@
+Ledger page P-2427
+
+account      amount   see page
+Weber          +141   P-3301
+Nakamura       -824   P-5753
+Moreau         +306   P-4477
+Abbott         -303   P-4062
+Lambert        -832   P-1647
+Umar           -765   P-2941
+
+Follow the entry with the largest debit (the most negative amount).

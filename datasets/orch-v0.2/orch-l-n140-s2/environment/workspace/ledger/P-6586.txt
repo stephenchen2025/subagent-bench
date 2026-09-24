@@ -1,0 +1,10 @@
+Ledger page P-6586
+
+account      amount   see page
+Young          -420   P-4466
+Umar           -632   P-4465
+Eriksen        -755   P-4998
+Xu              -74   P-1570
+Kowalski       +649   P-2410
+
+Follow the credit belonging to the account that comes first alphabetically.

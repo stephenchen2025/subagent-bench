@@ -1,0 +1,84 @@
+Ticket T-2482
+Customer: Ines Duarte
+Orders on file: ORD-63542, ORD-52037, ORD-16745, ORD-31853
+Opened: 2026-04-16 via chat transcript
+
+Order details:
+ORD-63542  placed 2026-08-26  status: returned  total: $121.12
+  payment method: card ending 7123  ship to: 653 Oak Lane
+  - carry-on suitcase x1
+  - USB-C charging cable (2m) x2
+  - gift wrap x2
+ORD-52037  placed 2026-04-03  status: in transit  total: $469.85
+  payment method: card ending 4351  ship to: 917 Mill Ave
+  - blender x1
+  - gift wrap x3
+  - travel pouch x2
+  - carabiner set x3
+ORD-16745  placed 2026-06-10  status: label created  total: $25.02
+  payment method: card ending 3855  ship to: 249 Harbor Rd
+  - camping stove x1
+  - microfiber cloth x2
+  - extended warranty, 2 years x2
+  - USB-C charging cable (2m) x1
+  - spare battery pack x3
+ORD-31853  placed 2026-08-05  status: returned  total: $184.06
+  payment method: card ending 1527  ship to: 916 Elm Ave
+  - desk lamp x1
+  - replacement filter cartridge, 3-pack x2
+  - microfiber cloth x2
+  - gift wrap x3
+  - USB-C charging cable (2m) x3
+
+--- message 1 from Ines Duarte ---
+The standing desk from ORD-63542 arrived with a scratch on the side. Can I get a replacement? Is there a way to combine loyalty points from ORD-16745 with my next purchase? Could you also tell me whether ORD-63542 qualifies for the extended return window? Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Ines Duarte
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Keiko (support) ---
+Tracking updates can lag by a day or two with this carrier. For ORD-52037, the return window is 30 days from delivery. Our warehouse shows ORD-16745 left on schedule. I've updated your shipping address on file.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ines Duarte ---
+Duplicate charge on ORD-31853, please refund one of them. My earlier order ORD-16745 arrived fine, no complaints there. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Ines Duarte
+
+--- message 4 from Keiko (support) ---
+I've added a note to your account so the next agent has the context. For ORD-63542, the return window is 30 days from delivery. Let me know if anything else looks off.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Keiko (support) ---
+You're right, and I'm sorry. Our records show ORD-31853 was settled two times. I've refunded the duplicate. Screenshots aren't necessary, but thank you for offering. For ORD-52037, the return window is 30 days from delivery.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Ines Duarte ---
+I changed my shipping address last month, so please double-check you have the new one. Is there a way to combine loyalty points from ORD-52037 with my next purchase? Tracking for ORD-52037 hasn't updated since Tuesday.
+
+Best regards,
+Ines Duarte
+
+--- message 7 from Ines Duarte ---
+My earlier order ORD-16745 arrived fine, no complaints there. I'm happy to send screenshots if that helps. The mechanical keyboard itself is great, for what it's worth. Your app logged me out twice while I was looking at this, which didn't help.
+
+Best regards,
+Ines Duarte
+
+--- message 8 from Keiko (support) ---
+Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context. Thanks for reaching out, and sorry for the trouble.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

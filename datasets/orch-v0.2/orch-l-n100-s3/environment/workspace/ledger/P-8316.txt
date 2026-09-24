@@ -1,0 +1,12 @@
+Ledger page P-8316
+
+account      amount   see page
+Umar           +737   P-9554
+Rahman         +673   P-6700
+Abbott         -547   P-6513
+Nakamura       -122   P-9340
+Vance          +389   P-6871
+Kowalski        +91   P-6774
+Castillo       +527   P-3574
+
+Follow the debit belonging to the account that comes last alphabetically.

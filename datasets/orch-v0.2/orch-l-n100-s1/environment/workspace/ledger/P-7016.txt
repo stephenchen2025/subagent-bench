@@ -1,0 +1,10 @@
+Ledger page P-7016
+
+account      amount   see page
+Rahman         +234   P-1317
+Dunn           -883   P-8683
+Young          +764   P-9572
+Silva          +872   P-3655
+Abbott         +522   P-9247
+
+Follow the debit belonging to the account that comes last alphabetically.

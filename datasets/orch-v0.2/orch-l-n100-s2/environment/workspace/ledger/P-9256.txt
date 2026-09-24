@@ -1,0 +1,11 @@
+Ledger page P-9256
+
+account      amount   see page
+Kowalski       -240   P-5765
+Tanaka         -895   P-5560
+Osei           +463   P-5076
+Dunn           +385   P-3301
+Hughes         +291   P-3698
+Rahman         +327   P-8619
+
+Follow the entry with the largest debit (the most negative amount).

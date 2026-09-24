@@ -1,0 +1,11 @@
+Ledger page P-3084
+
+account      amount   see page
+Vance          -123   P-5107
+Young          +645   P-8409
+Abbott         +741   P-8008
+Dunn           +262   P-2721
+Jensen         -164   P-1679
+Park            -88   P-6820
+
+Follow the entry whose amount is closest to zero.

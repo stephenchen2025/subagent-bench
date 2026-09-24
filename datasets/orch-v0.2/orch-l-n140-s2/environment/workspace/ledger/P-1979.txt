@@ -1,0 +1,12 @@
+Ledger page P-1979
+
+account      amount   see page
+Rahman         +156   P-3054
+Quinn          -158   P-8493
+Baker          -381   P-6511
+Lambert        -498   P-5983
+Tanaka         -144   P-5868
+Dunn           +506   P-4103
+Kowalski       +341   P-9793
+
+Follow the debit belonging to the account that comes last alphabetically.

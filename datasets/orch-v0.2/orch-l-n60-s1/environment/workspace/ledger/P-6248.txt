@@ -1,0 +1,11 @@
+Ledger page P-6248
+
+account      amount   see page
+Lambert        -491   P-7618
+Zhou           +129   P-3866
+Park           -510   P-9918
+Umar           -567   P-1690
+Young          -881   P-8846
+Tanaka         -300   P-1386
+
+Follow the credit belonging to the account that comes first alphabetically.

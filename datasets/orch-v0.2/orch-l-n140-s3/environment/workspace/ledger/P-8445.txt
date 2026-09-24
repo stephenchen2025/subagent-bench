@@ -1,0 +1,12 @@
+Ledger page P-8445
+
+account      amount   see page
+Rahman         -459   P-8186
+Kowalski       -892   P-6641
+Osei           +193   P-4991
+Hughes          -76   P-6651
+Silva          +758   P-9188
+Grant           -96   P-6859
+Umar            -85   P-4575
+
+Follow the entry with the second-largest amount.

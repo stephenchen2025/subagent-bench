@@ -1,0 +1,12 @@
+Ledger page P-4271
+
+account      amount   see page
+Quinn          +165   P-4379
+Nakamura       +181   P-2723
+Eriksen        +744   P-3839
+Baker          +199   P-7959
+Jensen         -630   P-8428
+Hughes           -8   P-1573
+Castillo       -131   P-3943
+
+Follow the entry with the largest debit (the most negative amount).

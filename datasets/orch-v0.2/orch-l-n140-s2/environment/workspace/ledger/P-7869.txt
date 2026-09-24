@@ -1,0 +1,10 @@
+Ledger page P-7869
+
+account      amount   see page
+Tanaka         -303   P-9553
+Fofana         +145   P-5242
+Osei           +448   P-6824
+Park            +41   P-8328
+Xu             -228   P-2410
+
+Follow the credit belonging to the account that comes first alphabetically.

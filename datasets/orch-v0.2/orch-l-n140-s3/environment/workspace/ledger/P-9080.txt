@@ -1,0 +1,11 @@
+Ledger page P-9080
+
+account      amount   see page
+Quinn          +690   P-4717
+Vance          -668   P-4991
+Jensen         -884   P-5655
+Hughes         -340   P-7391
+Rahman         -810   P-5491
+Zhou           +547   P-3644
+
+Follow the credit belonging to the account that comes first alphabetically.

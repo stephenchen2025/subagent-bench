@@ -1,0 +1,12 @@
+Ledger page P-5073
+
+account      amount   see page
+Fofana         +507   P-4097
+Moreau         -285   P-4735
+Lambert        -793   P-6673
+Xu             -429   P-2480
+Vance          -282   P-3698
+Ibarra          -61   P-2928
+Eriksen        -592   P-5516
+
+Follow the entry with the second-largest amount.

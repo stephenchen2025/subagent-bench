@@ -1,0 +1,10 @@
+Ledger page P-8357
+
+account      amount   see page
+Hughes         -396   P-3203
+Moreau          +95   P-5421
+Park           -285   P-4560
+Young          -777   P-9827
+Eriksen        -154   P-8499
+
+Follow the debit belonging to the account that comes last alphabetically.

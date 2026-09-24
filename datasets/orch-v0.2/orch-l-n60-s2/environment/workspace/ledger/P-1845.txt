@@ -1,0 +1,11 @@
+Ledger page P-1845
+
+account      amount   see page
+Grant          +344   P-4694
+Baker          -883   P-1592
+Hughes         +876   P-8094
+Eriksen        -828   P-6962
+Young          -237   P-5223
+Silva          -104   P-8948
+
+Follow the entry with the second-largest amount.

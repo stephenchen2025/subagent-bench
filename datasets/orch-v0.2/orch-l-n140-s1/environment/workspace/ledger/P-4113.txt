@@ -1,0 +1,10 @@
+Ledger page P-4113
+
+account      amount   see page
+Jensen         +132   P-9282
+Umar           -850   P-7127
+Young          -271   P-7290
+Nakamura        -16   P-8479
+Xu             -452   P-1247
+
+Follow the entry with the largest credit.

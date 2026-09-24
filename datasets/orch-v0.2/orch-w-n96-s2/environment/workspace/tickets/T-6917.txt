@@ -1,0 +1,71 @@
+Ticket T-6917
+Customer: Ravi Iyer
+Orders on file: ORD-56217, ORD-26458, ORD-82323, ORD-70026
+Opened: 2026-08-15 via web form
+
+Order details:
+ORD-56217  placed 2026-02-12  status: returned  total: $312.99
+  payment method: card ending 2459  ship to: 38 Elm St
+  - blender x1
+  - microfiber cloth x3
+  - spare battery pack x3
+  - extended warranty, 2 years x1
+ORD-26458  placed 2026-08-27  status: delivered  total: $260.06
+  payment method: card ending 7507  ship to: 449 Harbor Ave
+  - desk lamp x1
+  - spare battery pack x1
+  - merino socks, size M x3
+  - replacement filter cartridge, 3-pack x3
+ORD-82323  placed 2026-07-08  status: label created  total: $120.80
+  payment method: card ending 2806  ship to: 583 Mill St
+  - noise-cancelling headphones x1
+  - merino socks, size M x3
+  - stainless water bottle, 750ml x1
+  - microfiber cloth x3
+ORD-70026  placed 2026-04-07  status: returned  total: $35.73
+  payment method: card ending 8129  ship to: 42 Mill Lane
+  - blender x1
+  - replacement filter cartridge, 3-pack x2
+  - merino socks, size M x2
+  - stainless water bottle, 750ml x2
+
+--- message 1 from Ravi Iyer ---
+How do I reset my password? The reset link keeps expiring. Is there a way to combine loyalty points from ORD-82323 with my next purchase? The espresso grinder itself is great, for what it's worth. My partner placed ORD-70026 on our shared account, in case that matters.
+
+Thanks,
+Ravi Iyer
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Fatima (support) ---
+Let me know if anything else looks off. Our warehouse shows ORD-26458 left on schedule. If you need an invoice for ORD-26458, you can download it from the Orders page. Loyalty points post about a week after an order is delivered.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ravi Iyer ---
+Yes, there were two payments, but they're for two different orders (ORD-56217 and ORD-70026), so that's fine. I just need a receipt for each. My earlier order ORD-70026 arrived fine, no complaints there. I'm happy to send screenshots if that helps.
+
+Thanks,
+Ravi Iyer
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Fatima (support) ---
+I've resent the confirmation email for ORD-26458 to the address on file. Our warehouse shows ORD-82323 left on schedule. Loyalty points post about a week after an order is delivered.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Ravi Iyer ---
+Could you also tell me whether ORD-82323 qualifies for the extended return window? The mechanical keyboard itself is great, for what it's worth. My earlier order ORD-70026 arrived fine, no complaints there. My partner placed ORD-70026 on our shared account, in case that matters.
+
+Best regards,
+Ravi Iyer
+
+--- message 6 from Fatima (support) ---
+For ORD-82323, the return window is 30 days from delivery. Tracking updates can lag by a day or two with this carrier. If you need an invoice for ORD-82323, you can download it from the Orders page. I've resent the confirmation email for ORD-82323 to the address on file.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

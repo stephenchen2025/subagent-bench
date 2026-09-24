@@ -1,0 +1,12 @@
+Ledger page P-5075
+
+account      amount   see page
+Young           -76   P-9691
+Eriksen        -120   P-6851
+Silva          +745   P-8892
+Fofana         +609   P-2240
+Grant          +578   P-5938
+Umar           +476   P-1589
+Xu              +77   P-9109
+
+Follow the credit belonging to the account that comes first alphabetically.

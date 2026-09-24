@@ -1,0 +1,11 @@
+Ledger page P-4730
+
+account      amount   see page
+Quinn          +860   P-5788
+Park           -646   P-2912
+Abbott         -412   P-6249
+Kowalski       +515   P-6828
+Fofana         +426   P-5927
+Nakamura       +504   P-1092
+
+Follow the entry with the largest debit (the most negative amount).

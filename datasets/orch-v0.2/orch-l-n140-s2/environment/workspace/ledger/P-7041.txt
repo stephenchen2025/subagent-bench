@@ -1,0 +1,11 @@
+Ledger page P-7041
+
+account      amount   see page
+Osei           -823   P-4644
+Castillo       -294   P-1713
+Eriksen        -613   P-2245
+Baker          -533   P-1803
+Ibarra         -422   P-2044
+Moreau         +400   P-1575
+
+Follow the debit belonging to the account that comes last alphabetically.

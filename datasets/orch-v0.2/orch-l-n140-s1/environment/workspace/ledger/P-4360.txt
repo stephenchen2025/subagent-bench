@@ -1,0 +1,12 @@
+Ledger page P-4360
+
+account      amount   see page
+Dunn           +609   P-7084
+Abbott         +511   P-2338
+Zhou           -141   P-3489
+Grant          -621   P-3054
+Park           +496   P-2417
+Eriksen        -302   P-5624
+Ibarra         +743   P-5339
+
+Follow the entry whose amount is closest to zero.

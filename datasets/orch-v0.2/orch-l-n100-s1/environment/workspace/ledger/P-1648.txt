@@ -1,0 +1,12 @@
+Ledger page P-1648
+
+account      amount   see page
+Park           +273   P-8762
+Weber          +375   P-8613
+Dunn           -809   P-9720
+Osei           -576   P-1380
+Castillo       -762   P-5722
+Nakamura       +717   P-1463
+Baker          -843   P-8411
+
+Follow the entry with the second-largest amount.

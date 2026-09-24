@@ -1,0 +1,11 @@
+Ledger page P-1481
+
+account      amount   see page
+Osei           +202   P-1701
+Umar           -897   P-1064
+Rahman         -791   P-8953
+Dunn           +744   P-7388
+Xu             +357   P-9054
+Baker          +520   P-8680
+
+Follow the entry with the largest debit (the most negative amount).

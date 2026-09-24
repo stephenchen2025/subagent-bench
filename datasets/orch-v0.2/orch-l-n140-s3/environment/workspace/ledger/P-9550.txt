@@ -1,0 +1,12 @@
+Ledger page P-9550
+
+account      amount   see page
+Silva          -474   P-9084
+Rahman         +155   P-5491
+Weber          +845   P-4853
+Quinn          +492   P-2253
+Eriksen        +527   P-5128
+Nakamura       +813   P-2195
+Osei           +719   P-9923
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,12 @@
+Ledger page P-4307
+
+account      amount   see page
+Eriksen        -684   P-9942
+Lambert        -497   P-5483
+Moreau         +682   P-7140
+Park           -825   P-6525
+Ibarra         +663   P-4626
+Osei           +176   P-3653
+Jensen         -344   P-7585
+
+Follow the entry with the largest debit (the most negative amount).

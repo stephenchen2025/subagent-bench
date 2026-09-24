@@ -1,0 +1,12 @@
+Ledger page P-3010
+
+account      amount   see page
+Rahman         -872   P-7705
+Park            +27   P-5520
+Jensen         -493   P-9455
+Moreau         -177   P-1538
+Dunn            -20   P-8351
+Kowalski       -612   P-4401
+Osei           +345   P-7865
+
+Follow the entry with the second-largest amount.

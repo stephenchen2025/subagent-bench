@@ -1,0 +1,12 @@
+Ledger page P-7157
+
+account      amount   see page
+Xu             -270   P-7898
+Young          +812   P-4184
+Silva          +551   P-1507
+Eriksen        -373   P-5769
+Osei           -261   P-1382
+Zhou           +475   P-4952
+Kowalski       +377   P-2486
+
+Follow the entry whose amount is closest to zero.

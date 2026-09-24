@@ -1,0 +1,12 @@
+Ledger page P-4535
+
+account      amount   see page
+Lambert        +792   P-1679
+Tanaka         +880   P-1679
+Vance          -735   P-7454
+Moreau          +67   P-7257
+Fofana         +533   P-6218
+Rahman         -180   P-9190
+Dunn           +585   P-4098
+
+Follow the debit belonging to the account that comes last alphabetically.

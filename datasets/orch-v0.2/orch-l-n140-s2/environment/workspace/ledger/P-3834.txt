@@ -1,0 +1,10 @@
+Ledger page P-3834
+
+account      amount   see page
+Quinn          +546   P-5751
+Weber          -135   P-2691
+Castillo       -155   P-3026
+Xu             -153   P-1872
+Fofana         +376   P-3235
+
+Follow the credit belonging to the account that comes first alphabetically.

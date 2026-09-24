@@ -1,0 +1,10 @@
+Ledger page P-5313
+
+account      amount   see page
+Jensen         +189   P-1945
+Umar           -506   P-6128
+Zhou           +126   P-7576
+Young          -387   P-9621
+Hughes         +155   P-3192
+
+Follow the credit belonging to the account that comes first alphabetically.

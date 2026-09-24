@@ -1,0 +1,12 @@
+Ledger page P-2413
+
+account      amount   see page
+Umar           -551   P-1731
+Young          -628   P-8385
+Jensen         +425   P-2928
+Dunn           +840   P-4567
+Kowalski       -689   P-9420
+Lambert        -207   P-1211
+Weber          +223   P-1747
+
+Follow the credit belonging to the account that comes first alphabetically.

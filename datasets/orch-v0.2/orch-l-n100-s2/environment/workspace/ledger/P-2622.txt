@@ -1,0 +1,10 @@
+Ledger page P-2622
+
+account      amount   see page
+Umar           +485   P-6234
+Silva          -472   P-4360
+Castillo       +883   P-5287
+Park           +816   P-7672
+Grant          -486   P-9213
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,12 @@
+Ledger page P-7069
+
+account      amount   see page
+Hughes         +842   P-7601
+Park            -48   P-9796
+Moreau         -792   P-1021
+Silva          +566   P-7598
+Baker          -353   P-7546
+Eriksen        +286   P-1026
+Zhou           -560   P-6133
+
+Follow the entry with the largest debit (the most negative amount).

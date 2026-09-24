@@ -1,0 +1,10 @@
+Ledger page P-1687
+
+account      amount   see page
+Osei            +59   P-8985
+Xu             +667   P-7613
+Dunn            -30   P-8043
+Tanaka          -76   P-2719
+Vance          +394   P-8743
+
+Follow the entry whose amount is closest to zero.

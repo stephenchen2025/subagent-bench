@@ -1,0 +1,87 @@
+Ticket T-2609
+Customer: Aisha Karim
+Orders on file: ORD-47432, ORD-30329, ORD-28765, ORD-21637
+Opened: 2026-08-13 via chat transcript
+
+Order details:
+ORD-47432  placed 2026-08-24  status: delivered  total: $332.56
+  payment method: card ending 3232  ship to: 974 Cedar Lane
+  - bike light set x1
+  - replacement filter cartridge, 3-pack x1
+  - stainless water bottle, 750ml x3
+ORD-30329  placed 2026-04-27  status: delivered  total: $43.37
+  payment method: card ending 9939  ship to: 187 Cedar Ave
+  - espresso grinder x1
+  - extended warranty, 2 years x1
+  - stainless water bottle, 750ml x3
+ORD-28765  placed 2026-03-27  status: delivered  total: $449.67
+  payment method: card ending 5500  ship to: 972 Oak Ave
+  - desk lamp x1
+  - stainless water bottle, 750ml x1
+  - carabiner set x1
+ORD-21637  placed 2026-07-15  status: delivered  total: $228.92
+  payment method: card ending 5041  ship to: 470 Cedar St
+  - water filter pitcher x1
+  - merino socks, size M x2
+  - replacement filter cartridge, 3-pack x3
+
+--- message 1 from Aisha Karim ---
+Where is my refund for ORD-28765? You said 5 days and it has been 8. Is there a way to combine loyalty points from ORD-30329 with my next purchase? The camping stove itself is great, for what it's worth. I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Aisha Karim
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Keiko (support) ---
+Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble. I've resent the confirmation email for ORD-30329 to the address on file. Tracking updates can lag by a day or two with this carrier.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Aisha Karim ---
+Before I retry the payment on ORD-47432 -- is there any risk of a double charge? My partner placed ORD-21637 on our shared account, in case that matters. Your app logged me out twice while I was looking at this, which didn't help.
+
+Aisha Karim
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Keiko (support) ---
+Retrying is safe. Our system blocks a second capture on ORD-47432, so a double charge can't happen. If you need an invoice for ORD-28765, you can download it from the Orders page. I've resent the confirmation email for ORD-21637 to the address on file.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Aisha Karim ---
+Your app logged me out twice while I was looking at this, which didn't help. The confirmation email for ORD-21637 went to my spam folder, so I only just saw it. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Aisha Karim
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Aisha Karim ---
+The standing desk itself is great, for what it's worth. Tracking for ORD-30329 hasn't updated since Tuesday. The box for ORD-21637 was a bit crushed but the contents were fine. I'd rather not call; the hold times last time were very long.
+
+Aisha Karim
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Keiko (support) ---
+I've resent the confirmation email for ORD-28765 to the address on file. Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Aisha Karim ---
+Tracking for ORD-28765 hasn't updated since Tuesday. The confirmation email for ORD-30329 went to my spam folder, so I only just saw it. I'm happy to send screenshots if that helps. I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Aisha Karim
+Sent from my phone -- please excuse typos.
+
+--- message 9 from Keiko (support) ---
+Tracking updates can lag by a day or two with this carrier. If you need an invoice for ORD-28765, you can download it from the Orders page. I've updated your shipping address on file. For ORD-28765, the return window is 30 days from delivery.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

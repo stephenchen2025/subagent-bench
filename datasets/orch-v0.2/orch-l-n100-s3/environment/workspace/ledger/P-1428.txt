@@ -1,0 +1,12 @@
+Ledger page P-1428
+
+account      amount   see page
+Lambert        +445   P-7760
+Rahman         -489   P-3925
+Dunn           +519   P-7272
+Eriksen        +273   P-4226
+Abbott         -825   P-3441
+Park           +398   P-6924
+Tanaka         -795   P-3096
+
+Follow the entry with the largest credit.

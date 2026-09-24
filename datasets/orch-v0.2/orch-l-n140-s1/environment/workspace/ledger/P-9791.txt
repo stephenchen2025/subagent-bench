@@ -1,0 +1,12 @@
+Ledger page P-9791
+
+account      amount   see page
+Xu             +491   P-6874
+Osei           -355   P-6691
+Eriksen        -585   P-3340
+Hughes         -798   P-8129
+Fofana         -186   P-8127
+Abbott         +159   P-7290
+Moreau         +586   P-8246
+
+Follow the entry with the largest debit (the most negative amount).

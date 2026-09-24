@@ -1,0 +1,73 @@
+Ticket T-6735
+Customer: Chloe Martin
+Orders on file: ORD-13105, ORD-29746, ORD-28110, ORD-64520
+Opened: 2026-01-26 via web form
+
+Order details:
+ORD-13105  placed 2026-06-24  status: delivered  total: $152.55
+  payment method: card ending 4930  ship to: 116 Mill Lane
+  - trail running shoes x1
+  - stainless water bottle, 750ml x1
+  - carabiner set x2
+  - merino socks, size M x2
+  - microfiber cloth x2
+ORD-29746  placed 2026-02-28  status: label created  total: $225.29
+  payment method: card ending 9655  ship to: 439 Cedar Rd
+  - yoga mat x1
+  - merino socks, size M x3
+  - travel pouch x1
+  - USB-C charging cable (2m) x3
+ORD-28110  placed 2026-05-19  status: in transit  total: $79.08
+  payment method: card ending 7111  ship to: 391 Cedar Ave
+  - camping stove x1
+  - spare battery pack x3
+  - extended warranty, 2 years x1
+  - microfiber cloth x2
+ORD-64520  placed 2026-06-19  status: delivered  total: $187.58
+  payment method: card ending 1022  ship to: 173 Mill Ave
+  - cast iron skillet x1
+  - stainless water bottle, 750ml x2
+  - replacement filter cartridge, 3-pack x1
+  - USB-C charging cable (2m) x3
+  - merino socks, size M x3
+
+--- message 1 from Chloe Martin ---
+Where is my refund for ORD-28110? You said 5 days and it has been 8. The blender itself is great, for what it's worth. I've been a customer for a few years and usually everything goes smoothly. The confirmation email for ORD-29746 went to my spam folder, so I only just saw it.
+
+Thanks,
+Chloe Martin
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Rosa (support) ---
+Thanks for reaching out, and sorry for the trouble. Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-28110 left on schedule. Screenshots aren't necessary, but thank you for offering.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Chloe Martin ---
+The confirmation email for ORD-13105 went to my spam folder, so I only just saw it. Your app logged me out twice while I was looking at this, which didn't help. Is there a way to combine loyalty points from ORD-28110 with my next purchase? My partner placed ORD-13105 on our shared account, in case that matters.
+
+Best regards,
+Chloe Martin
+
+--- message 4 from Rosa (support) ---
+If you need an invoice for ORD-29746, you can download it from the Orders page. I can see all the orders on your account, including ORD-28110. For ORD-29746, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Chloe Martin ---
+My partner placed ORD-28110 on our shared account, in case that matters. I tried the chat widget first but it kept disconnecting. I've been a customer for a few years and usually everything goes smoothly. My earlier order ORD-29746 arrived fine, no complaints there.
+
+Thanks,
+Chloe Martin
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Rosa (support) ---
+Our warehouse shows ORD-29746 left on schedule. Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

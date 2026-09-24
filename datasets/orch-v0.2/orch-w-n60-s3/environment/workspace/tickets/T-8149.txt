@@ -1,0 +1,75 @@
+Ticket T-8149
+Customer: Avery Lin
+Orders on file: ORD-69944, ORD-52289, ORD-79939, ORD-46492
+Opened: 2026-03-07 via web form
+
+Order details:
+ORD-69944  placed 2026-07-13  status: label created  total: $315.98
+  payment method: card ending 1604  ship to: 74 Oak Ave
+  - yoga mat x1
+  - merino socks, size M x3
+  - replacement filter cartridge, 3-pack x2
+  - travel pouch x1
+ORD-52289  placed 2026-07-15  status: returned  total: $236.14
+  payment method: card ending 1189  ship to: 104 Cedar St
+  - espresso grinder x1
+  - travel pouch x2
+  - merino socks, size M x1
+ORD-79939  placed 2026-04-08  status: delivered  total: $258.85
+  payment method: card ending 3110  ship to: 17 Cedar Rd
+  - bike light set x1
+  - microfiber cloth x1
+  - replacement filter cartridge, 3-pack x1
+  - travel pouch x2
+  - extended warranty, 2 years x1
+ORD-46492  placed 2026-08-18  status: delivered  total: $208.75
+  payment method: card ending 6759  ship to: 461 Cedar Ave
+  - camping stove x1
+  - carabiner set x3
+  - USB-C charging cable (2m) x3
+  - spare battery pack x1
+
+--- message 1 from Avery Lin ---
+The mechanical keyboard from ORD-69944 arrived with a scratch on the side. Can I get a replacement? The confirmation email for ORD-52289 went to my spam folder, so I only just saw it. Tracking for ORD-46492 hasn't updated since Tuesday. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Avery Lin
+
+--- message 2 from Fatima (support) ---
+I've resent the confirmation email for ORD-69944 to the address on file. For ORD-46492, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context. I've updated your shipping address on file.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Avery Lin ---
+Yes, there were two payments, but they're for two different orders (ORD-79939 and ORD-52289), so that's fine. I just need a receipt for each. The box for ORD-69944 was a bit crushed but the contents were fine. Is there a way to combine loyalty points from ORD-52289 with my next purchase?
+
+Best regards,
+Avery Lin
+
+--- message 4 from Avery Lin ---
+Could you also tell me whether ORD-46492 qualifies for the extended return window? I've been a customer for a few years and usually everything goes smoothly. I tried the chat widget first but it kept disconnecting. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Avery Lin
+
+--- message 5 from Fatima (support) ---
+I can see all the orders on your account, including ORD-52289. I've resent the confirmation email for ORD-52289 to the address on file. I've added a note to your account so the next agent has the context. For ORD-69944, the return window is 30 days from delivery.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Avery Lin ---
+The confirmation email for ORD-52289 went to my spam folder, so I only just saw it. My partner placed ORD-69944 on our shared account, in case that matters. Your app logged me out twice while I was looking at this, which didn't help. Is there a way to combine loyalty points from ORD-52289 with my next purchase?
+
+Best regards,
+Avery Lin
+
+--- message 7 from Fatima (support) ---
+Our warehouse shows ORD-52289 left on schedule. I've resent the confirmation email for ORD-52289 to the address on file. Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,70 @@
+Ticket T-8986
+Customer: Liam O'Neill
+Orders on file: ORD-16696, ORD-89448, ORD-85080, ORD-78467
+Opened: 2026-05-19 via chat transcript
+
+Order details:
+ORD-16696  placed 2026-02-24  status: in transit  total: $217.63
+  payment method: card ending 2453  ship to: 42 Elm St
+  - water filter pitcher x1
+  - spare battery pack x1
+  - replacement filter cartridge, 3-pack x1
+  - travel pouch x2
+ORD-89448  placed 2026-08-05  status: delivered  total: $336.29
+  payment method: card ending 6956  ship to: 19 Elm Rd
+  - desk lamp x1
+  - stainless water bottle, 750ml x3
+  - merino socks, size M x2
+  - replacement filter cartridge, 3-pack x1
+  - travel pouch x3
+ORD-85080  placed 2026-02-12  status: in transit  total: $193.52
+  payment method: card ending 1984  ship to: 760 Oak Rd
+  - water filter pitcher x1
+  - carabiner set x1
+  - gift wrap x1
+ORD-78467  placed 2026-02-26  status: delivered  total: $384.50
+  payment method: card ending 3856  ship to: 933 Harbor Rd
+  - mechanical keyboard x1
+  - spare battery pack x1
+  - gift wrap x2
+  - microfiber cloth x2
+  - extended warranty, 2 years x3
+
+--- message 1 from Liam O'Neill ---
+The cast iron skillet from ORD-16696 arrived with a scratch on the side. Can I get a replacement? I tried the chat widget first but it kept disconnecting. My earlier order ORD-78467 arrived fine, no complaints there. The confirmation email for ORD-89448 went to my spam folder, so I only just saw it.
+
+Liam O'Neill
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Dana (support) ---
+I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier. Let me know if anything else looks off. I can see all the orders on your account, including ORD-89448.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Liam O'Neill ---
+Duplicate charge on ORD-85080, please refund one of them. The box for ORD-78467 was a bit crushed but the contents were fine. I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Liam O'Neill
+
+--- message 4 from Dana (support) ---
+Our warehouse shows ORD-78467 left on schedule. Loyalty points post about a week after an order is delivered. Thanks for reaching out, and sorry for the trouble.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Liam O'Neill ---
+Tracking for ORD-16696 hasn't updated since Tuesday. The confirmation email for ORD-78467 went to my spam folder, so I only just saw it. My partner placed ORD-78467 on our shared account, in case that matters. Your app logged me out twice while I was looking at this, which didn't help.
+
+Best regards,
+Liam O'Neill
+
+--- message 6 from Dana (support) ---
+I've updated your shipping address on file. I've resent the confirmation email for ORD-16696 to the address on file. Screenshots aren't necessary, but thank you for offering. For ORD-78467, the return window is 30 days from delivery.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

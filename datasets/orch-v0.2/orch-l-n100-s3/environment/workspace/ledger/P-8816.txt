@@ -1,0 +1,12 @@
+Ledger page P-8816
+
+account      amount   see page
+Zhou           -210   P-2779
+Weber          +858   P-9426
+Moreau         -733   P-3583
+Grant          +342   P-6184
+Lambert        +164   P-1547
+Quinn          +249   P-2562
+Xu              -82   P-6952
+
+Follow the entry with the second-largest amount.

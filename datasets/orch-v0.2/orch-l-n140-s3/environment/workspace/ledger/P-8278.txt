@@ -1,0 +1,10 @@
+Ledger page P-8278
+
+account      amount   see page
+Ibarra         +356   P-2057
+Park            +58   P-6651
+Dunn           +288   P-9427
+Quinn          +197   P-6186
+Tanaka         -632   P-9678
+
+Follow the entry with the largest credit.

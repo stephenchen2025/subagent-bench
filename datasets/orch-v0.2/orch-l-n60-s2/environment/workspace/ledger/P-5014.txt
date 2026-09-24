@@ -1,0 +1,11 @@
+Ledger page P-5014
+
+account      amount   see page
+Grant          -245   P-4010
+Silva          -696   P-4918
+Castillo        +48   P-4942
+Zhou           -282   P-6734
+Lambert        -511   P-6512
+Rahman          +88   P-7339
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,12 @@
+Ledger page P-4098
+
+account      amount   see page
+Castillo       -249   P-7912
+Xu             +645   P-7133
+Quinn          +304   P-5517
+Ibarra         +832   P-2067
+Nakamura       -296   P-5195
+Umar           +130   P-7835
+Baker          -826   P-5570
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,11 @@
+Ledger page P-3609
+
+account      amount   see page
+Quinn          -436   P-7331
+Fofana         +890   P-6587
+Silva          -615   P-5991
+Weber          +190   P-7314
+Tanaka         +446   P-1981
+Young          -102   P-7115
+
+Follow the credit belonging to the account that comes first alphabetically.

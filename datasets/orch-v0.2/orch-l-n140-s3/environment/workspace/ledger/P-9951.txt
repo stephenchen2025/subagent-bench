@@ -1,0 +1,10 @@
+Ledger page P-9951
+
+account      amount   see page
+Nakamura       -214   P-7436
+Hughes         -572   P-5846
+Ibarra         +352   P-5767
+Xu              -11   P-5846
+Eriksen        -127   P-9301
+
+Follow the entry whose amount is closest to zero.

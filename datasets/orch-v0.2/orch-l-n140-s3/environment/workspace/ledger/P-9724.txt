@@ -1,0 +1,10 @@
+Ledger page P-9724
+
+account      amount   see page
+Tanaka         +457   P-3733
+Moreau         +636   P-2235
+Quinn          +719   P-4653
+Kowalski       +871   P-1184
+Zhou           -558   P-3282
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,12 @@
+Ledger page P-1489
+
+account      amount   see page
+Young          +243   P-3179
+Ibarra         -429   P-4422
+Rahman         +659   P-6885
+Nakamura       +262   P-7527
+Kowalski        +82   P-4051
+Castillo       +665   P-5003
+Fofana         +408   P-7391
+
+Follow the entry with the largest debit (the most negative amount).

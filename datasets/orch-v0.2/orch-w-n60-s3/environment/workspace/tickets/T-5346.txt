@@ -1,0 +1,97 @@
+Ticket T-5346
+Customer: Amara Nwosu
+Orders on file: ORD-41128, ORD-72852, ORD-58323, ORD-48830
+Opened: 2026-07-26 via web form
+
+Order details:
+ORD-41128  placed 2026-06-16  status: returned  total: $260.17
+  payment method: card ending 1864  ship to: 163 Cedar Ave
+  - desk lamp x1
+  - merino socks, size M x1
+  - extended warranty, 2 years x1
+  - stainless water bottle, 750ml x3
+  - travel pouch x1
+ORD-72852  placed 2026-02-24  status: delivered  total: $476.94
+  payment method: card ending 6771  ship to: 878 Elm Rd
+  - wool blanket x1
+  - replacement filter cartridge, 3-pack x2
+  - gift wrap x1
+ORD-58323  placed 2026-02-21  status: delivered  total: $93.78
+  payment method: card ending 6226  ship to: 224 Elm Lane
+  - cast iron skillet x1
+  - spare battery pack x1
+  - merino socks, size M x2
+  - USB-C charging cable (2m) x3
+ORD-48830  placed 2026-05-05  status: delivered  total: $137.67
+  payment method: card ending 9077  ship to: 33 Oak Ave
+  - desk lamp x1
+  - travel pouch x3
+  - spare battery pack x3
+  - USB-C charging cable (2m) x2
+
+--- message 1 from Amara Nwosu ---
+The yoga mat from ORD-48830 arrived with a scratch on the side. Can I get a replacement? The confirmation email for ORD-48830 went to my spam folder, so I only just saw it. The desk lamp itself is great, for what it's worth. My earlier order ORD-48830 arrived fine, no complaints there.
+
+Amara Nwosu
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Keiko (support) ---
+I've added a note to your account so the next agent has the context. If you need an invoice for ORD-58323, you can download it from the Orders page. I've updated your shipping address on file. Screenshots aren't necessary, but thank you for offering.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Amara Nwosu ---
+Duplicate charge on ORD-41128, please refund one of them. I'm happy to send screenshots if that helps. The wool blanket itself is great, for what it's worth.
+
+Amara Nwosu
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Keiko (support) ---
+Screenshots aren't necessary, but thank you for offering. I've added a note to your account so the next agent has the context. Our warehouse shows ORD-48830 left on schedule.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Keiko (support) ---
+I've checked with our payments team: both captures for ORD-41128 settled, so you were genuinely charged twice. I've issued a refund for the second one; it should show within 3-5 business days. I've updated your shipping address on file. Screenshots aren't necessary, but thank you for offering.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Amara Nwosu ---
+The yoga mat itself is great, for what it's worth. I'm travelling next week, so email is the best way to reach me. Tracking for ORD-48830 hasn't updated since Tuesday.
+
+Thanks,
+Amara Nwosu
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Amara Nwosu ---
+The confirmation email for ORD-58323 went to my spam folder, so I only just saw it. I'd rather not call; the hold times last time were very long. My partner placed ORD-58323 on our shared account, in case that matters. The box for ORD-72852 was a bit crushed but the contents were fine.
+
+Amara Nwosu
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Keiko (support) ---
+For ORD-72852, the return window is 30 days from delivery. Our warehouse shows ORD-72852 left on schedule. I've updated your shipping address on file. Let me know if anything else looks off.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Amara Nwosu ---
+My earlier order ORD-72852 arrived fine, no complaints there. The bike light set itself is great, for what it's worth. The confirmation email for ORD-72852 went to my spam folder, so I only just saw it. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Amara Nwosu
+Sent from my phone -- please excuse typos.
+
+--- message 10 from Keiko (support) ---
+I can see all the orders on your account, including ORD-48830. If you need an invoice for ORD-58323, you can download it from the Orders page. Let me know if anything else looks off. For ORD-48830, the return window is 30 days from delivery.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

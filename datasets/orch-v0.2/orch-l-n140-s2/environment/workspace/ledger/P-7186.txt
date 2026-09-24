@@ -1,0 +1,12 @@
+Ledger page P-7186
+
+account      amount   see page
+Umar           -386   P-3680
+Moreau         +593   P-2991
+Osei             +8   P-4602
+Silva          +102   P-3665
+Hughes         +740   P-1637
+Abbott         -567   P-7542
+Quinn          +453   P-6352
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,12 @@
+Ledger page P-3066
+
+account      amount   see page
+Young           +37   P-3352
+Umar           +384   P-7121
+Ibarra         +787   P-9814
+Rahman         -292   P-6783
+Quinn          +892   P-1502
+Hughes           +8   P-9652
+Jensen          -18   P-6959
+
+Follow the entry with the second-largest amount.

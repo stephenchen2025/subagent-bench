@@ -1,0 +1,75 @@
+Ticket T-8486
+Customer: Jordan Okafor
+Orders on file: ORD-64025, ORD-41834, ORD-44478, ORD-91741
+Opened: 2026-05-20 via chat transcript
+
+Order details:
+ORD-64025  placed 2026-03-09  status: delivered  total: $20.77
+  payment method: card ending 2067  ship to: 550 Oak Rd
+  - desk lamp x1
+  - carabiner set x3
+  - spare battery pack x1
+  - replacement filter cartridge, 3-pack x3
+  - travel pouch x1
+ORD-41834  placed 2026-02-06  status: label created  total: $434.55
+  payment method: card ending 8061  ship to: 767 Mill Rd
+  - trail running shoes x1
+  - gift wrap x2
+  - microfiber cloth x2
+ORD-44478  placed 2026-05-05  status: delivered  total: $261.05
+  payment method: card ending 1045  ship to: 661 Elm Rd
+  - noise-cancelling headphones x1
+  - travel pouch x3
+  - microfiber cloth x3
+ORD-91741  placed 2026-06-15  status: delivered  total: $81.25
+  payment method: card ending 3641  ship to: 311 Elm Rd
+  - rain jacket x1
+  - carabiner set x1
+  - replacement filter cartridge, 3-pack x2
+  - gift wrap x1
+
+--- message 1 from Jordan Okafor ---
+How do I reset my password? The reset link keeps expiring. I tried the chat widget first but it kept disconnecting. Your app logged me out twice while I was looking at this, which didn't help. Is there a way to combine loyalty points from ORD-64025 with my next purchase?
+
+Best regards,
+Jordan Okafor
+
+--- message 2 from Marcus (support) ---
+Screenshots aren't necessary, but thank you for offering. If you need an invoice for ORD-91741, you can download it from the Orders page. I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-64025 to the address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Jordan Okafor ---
+Not your fault, but my gym billed me twice this month, which is why I'm nervous about ORD-44478. Everything on your side looks like a single charge, I just wanted to confirm the delivery date. My partner placed ORD-91741 on our shared account, in case that matters. The box for ORD-41834 was a bit crushed but the contents were fine.
+
+Best regards,
+Jordan Okafor
+
+--- message 4 from Jordan Okafor ---
+My earlier order ORD-41834 arrived fine, no complaints there. The confirmation email for ORD-64025 went to my spam folder, so I only just saw it. I'm travelling next week, so email is the best way to reach me. The box for ORD-41834 was a bit crushed but the contents were fine.
+
+Best regards,
+Jordan Okafor
+
+--- message 5 from Marcus (support) ---
+Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-91741 to the address on file. Our warehouse shows ORD-64025 left on schedule.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Jordan Okafor ---
+Could you also tell me whether ORD-41834 qualifies for the extended return window? I changed my shipping address last month, so please double-check you have the new one. I tried the chat widget first but it kept disconnecting. I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Jordan Okafor
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Marcus (support) ---
+For ORD-91741, the return window is 30 days from delivery. If you need an invoice for ORD-64025, you can download it from the Orders page. Our warehouse shows ORD-91741 left on schedule. Tracking updates can lag by a day or two with this carrier.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

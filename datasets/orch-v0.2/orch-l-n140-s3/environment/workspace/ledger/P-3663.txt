@@ -1,0 +1,10 @@
+Ledger page P-3663
+
+account      amount   see page
+Quinn          -739   P-8381
+Abbott         -299   P-1557
+Hughes         +161   P-6482
+Park           -662   P-3306
+Osei           -507   P-3193
+
+Follow the entry with the largest credit.

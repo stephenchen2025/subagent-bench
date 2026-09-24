@@ -1,0 +1,68 @@
+Ticket T-1017
+Customer: Yuki Tanaka
+Orders on file: ORD-29069, ORD-80245, ORD-43694, ORD-63014
+Opened: 2026-06-17 via email
+
+Order details:
+ORD-29069  placed 2026-06-11  status: label created  total: $120.48
+  payment method: card ending 6249  ship to: 686 Harbor St
+  - trail running shoes x1
+  - spare battery pack x2
+  - replacement filter cartridge, 3-pack x3
+  - merino socks, size M x2
+ORD-80245  placed 2026-06-17  status: label created  total: $214.34
+  payment method: card ending 4063  ship to: 823 Mill Rd
+  - wool blanket x1
+  - microfiber cloth x1
+  - USB-C charging cable (2m) x3
+ORD-43694  placed 2026-01-04  status: delivered  total: $269.48
+  payment method: card ending 2214  ship to: 921 Oak St
+  - carry-on suitcase x1
+  - merino socks, size M x3
+  - carabiner set x2
+ORD-63014  placed 2026-05-05  status: in transit  total: $409.50
+  payment method: card ending 5782  ship to: 742 Harbor Ave
+  - yoga mat x1
+  - extended warranty, 2 years x1
+  - gift wrap x1
+  - travel pouch x1
+
+--- message 1 from Yuki Tanaka ---
+Where is my refund for ORD-43694? You said 5 days and it has been 8. The confirmation email for ORD-63014 went to my spam folder, so I only just saw it. My earlier order ORD-43694 arrived fine, no complaints there. Is there a way to combine loyalty points from ORD-80245 with my next purchase?
+
+Thanks,
+Yuki Tanaka
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Dana (support) ---
+If you need an invoice for ORD-63014, you can download it from the Orders page. Tracking updates can lag by a day or two with this carrier. Let me know if anything else looks off. I've updated your shipping address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Yuki Tanaka ---
+Could you also tell me whether ORD-63014 qualifies for the extended return window? My earlier order ORD-80245 arrived fine, no complaints there. I changed my shipping address last month, so please double-check you have the new one. Your app logged me out twice while I was looking at this, which didn't help.
+
+Yuki Tanaka
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Dana (support) ---
+Our warehouse shows ORD-80245 left on schedule. If you need an invoice for ORD-43694, you can download it from the Orders page. Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Yuki Tanaka ---
+Your app logged me out twice while I was looking at this, which didn't help. The box for ORD-80245 was a bit crushed but the contents were fine. I've been a customer for a few years and usually everything goes smoothly. Could you also tell me whether ORD-80245 qualifies for the extended return window?
+
+Yuki Tanaka
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Dana (support) ---
+Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-43694 to the address on file. I've added a note to your account so the next agent has the context.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

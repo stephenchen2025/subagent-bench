@@ -1,0 +1,11 @@
+Ledger page P-7898
+
+account      amount   see page
+Jensen         +735   P-5476
+Eriksen        -696   P-1779
+Park           +445   P-1287
+Abbott         -487   P-6320
+Xu             -604   P-4337
+Young          -410   P-2868
+
+Follow the entry whose amount is closest to zero.

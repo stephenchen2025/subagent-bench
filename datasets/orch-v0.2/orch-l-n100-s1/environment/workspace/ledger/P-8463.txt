@@ -1,0 +1,12 @@
+Ledger page P-8463
+
+account      amount   see page
+Grant          +693   P-8565
+Weber          -633   P-6089
+Jensen          +54   P-4873
+Dunn            +44   P-8747
+Young           -82   P-1853
+Kowalski       -557   P-6089
+Lambert        +733   P-5209
+
+Follow the entry whose amount is closest to zero.

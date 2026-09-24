@@ -1,0 +1,11 @@
+Ledger page P-4111
+
+account      amount   see page
+Osei           +828   P-1983
+Jensen         +684   P-2235
+Silva          -414   P-7315
+Abbott         +841   P-7835
+Hughes         -487   P-4229
+Grant          -720   P-7198
+
+Follow the entry whose amount is closest to zero.

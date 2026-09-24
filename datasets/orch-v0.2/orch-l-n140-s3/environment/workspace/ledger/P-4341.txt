@@ -1,0 +1,12 @@
+Ledger page P-4341
+
+account      amount   see page
+Grant           -46   P-5991
+Abbott         -670   P-6928
+Vance          -805   P-8946
+Weber            +6   P-5767
+Umar           +550   P-4653
+Baker          +446   P-6030
+Xu             +686   P-1805
+
+Follow the entry with the largest credit.

@@ -1,0 +1,10 @@
+Ledger page P-4085
+
+account      amount   see page
+Park           -583   P-6606
+Osei           +337   P-5510
+Grant          +682   P-6884
+Lambert        +354   P-3175
+Jensen         +213   P-9134
+
+Follow the entry with the second-largest amount.

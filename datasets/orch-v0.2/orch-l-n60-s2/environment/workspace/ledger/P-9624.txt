@@ -1,0 +1,11 @@
+Ledger page P-9624
+
+account      amount   see page
+Vance          -329   P-3914
+Eriksen        +692   P-6777
+Dunn           +172   P-5616
+Tanaka         -195   P-8410
+Ibarra         +627   P-4010
+Fofana         -853   P-9214
+
+Follow the entry with the second-largest amount.

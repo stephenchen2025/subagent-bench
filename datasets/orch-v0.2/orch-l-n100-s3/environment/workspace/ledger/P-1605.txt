@@ -1,0 +1,11 @@
+Ledger page P-1605
+
+account      amount   see page
+Quinn          +356   P-1461
+Abbott         -515   P-4454
+Hughes         -454   P-9002
+Weber          +290   P-3524
+Grant          +846   P-7576
+Lambert         +75   P-9137
+
+Follow the entry with the largest credit.

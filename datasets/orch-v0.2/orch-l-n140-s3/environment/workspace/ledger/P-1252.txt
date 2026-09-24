@@ -1,0 +1,10 @@
+Ledger page P-1252
+
+account      amount   see page
+Silva           -77   P-8124
+Hughes         -336   P-3557
+Zhou           +779   P-9317
+Abbott         -131   P-2349
+Grant          -801   P-8870
+
+Follow the debit belonging to the account that comes last alphabetically.

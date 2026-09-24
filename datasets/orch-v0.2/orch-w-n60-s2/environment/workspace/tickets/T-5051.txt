@@ -1,0 +1,82 @@
+Ticket T-5051
+Customer: Yuki Tanaka
+Orders on file: ORD-27755, ORD-94100, ORD-26912, ORD-18889
+Opened: 2026-05-02 via web form
+
+Order details:
+ORD-27755  placed 2026-03-08  status: label created  total: $239.53
+  payment method: card ending 5529  ship to: 667 Oak St
+  - cast iron skillet x1
+  - travel pouch x3
+  - stainless water bottle, 750ml x2
+  - gift wrap x1
+  - carabiner set x2
+ORD-94100  placed 2026-01-06  status: label created  total: $213.94
+  payment method: card ending 8936  ship to: 178 Harbor Rd
+  - bike light set x1
+  - replacement filter cartridge, 3-pack x1
+  - stainless water bottle, 750ml x2
+  - USB-C charging cable (2m) x3
+ORD-26912  placed 2026-06-13  status: delivered  total: $94.96
+  payment method: card ending 2619  ship to: 359 Harbor Lane
+  - water filter pitcher x1
+  - USB-C charging cable (2m) x3
+  - microfiber cloth x3
+ORD-18889  placed 2026-02-04  status: delivered  total: $97.54
+  payment method: card ending 1751  ship to: 358 Mill St
+  - noise-cancelling headphones x1
+  - stainless water bottle, 750ml x3
+  - spare battery pack x2
+
+--- message 1 from Yuki Tanaka ---
+The trail running shoes from ORD-94100 arrived with a scratch on the side. Can I get a replacement? My partner placed ORD-18889 on our shared account, in case that matters. The desk lamp itself is great, for what it's worth. I changed my shipping address last month, so please double-check you have the new one.
+
+Yuki Tanaka
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Arjun (support) ---
+Tracking updates can lag by a day or two with this carrier. I've resent the confirmation email for ORD-18889 to the address on file. I can see all the orders on your account, including ORD-18889. Let me know if anything else looks off.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Yuki Tanaka ---
+I see two charges on my bank this week, one for ORD-26912 and one for ORD-18889. Both are correct -- I ordered twice on purpose -- but could you send me the invoices for my expense report? My earlier order ORD-94100 arrived fine, no complaints there. My partner placed ORD-94100 on our shared account, in case that matters.
+
+Yuki Tanaka
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Arjun (support) ---
+I've resent the confirmation email for ORD-18889 to the address on file. For ORD-27755, the return window is 30 days from delivery. I've updated your shipping address on file.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Yuki Tanaka ---
+The box for ORD-27755 was a bit crushed but the contents were fine. I changed my shipping address last month, so please double-check you have the new one. I tried the chat widget first but it kept disconnecting. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Yuki Tanaka
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Arjun (support) ---
+Let me know if anything else looks off. I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-94100 to the address on file. Loyalty points post about a week after an order is delivered.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Yuki Tanaka ---
+My partner placed ORD-94100 on our shared account, in case that matters. Is there a way to combine loyalty points from ORD-94100 with my next purchase? Your app logged me out twice while I was looking at this, which didn't help. The box for ORD-27755 was a bit crushed but the contents were fine.
+
+Best regards,
+Yuki Tanaka
+
+--- message 8 from Arjun (support) ---
+Our warehouse shows ORD-18889 left on schedule. Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context. For ORD-94100, the return window is 30 days from delivery.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

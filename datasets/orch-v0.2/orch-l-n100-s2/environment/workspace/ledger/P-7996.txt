@@ -1,0 +1,11 @@
+Ledger page P-7996
+
+account      amount   see page
+Park           -836   P-6234
+Umar            +15   P-9066
+Osei           +388   P-4263
+Jensen          -89   P-5731
+Eriksen        -683   P-1372
+Rahman         -366   P-2334
+
+Follow the entry with the largest credit.

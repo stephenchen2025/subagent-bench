@@ -1,0 +1,10 @@
+Ledger page P-3926
+
+account      amount   see page
+Hughes         +406   P-5383
+Eriksen        +717   P-3429
+Baker          -194   P-2363
+Tanaka         -773   P-5788
+Silva          -717   P-4327
+
+Follow the credit belonging to the account that comes first alphabetically.

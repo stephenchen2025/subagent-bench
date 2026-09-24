@@ -1,0 +1,10 @@
+Ledger page P-8845
+
+account      amount   see page
+Quinn          -398   P-1707
+Moreau         +186   P-4823
+Park            -74   P-6021
+Vance          -303   P-3628
+Hughes         -505   P-8864
+
+Follow the debit belonging to the account that comes last alphabetically.

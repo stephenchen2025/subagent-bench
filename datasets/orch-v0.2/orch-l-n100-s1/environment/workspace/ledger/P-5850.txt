@@ -1,0 +1,12 @@
+Ledger page P-5850
+
+account      amount   see page
+Dunn           +130   P-7465
+Park           -377   P-5458
+Umar           +802   P-6171
+Baker          +448   P-8908
+Weber           +32   P-5366
+Osei           -787   P-8489
+Nakamura       -386   P-5960
+
+Follow the entry with the largest credit.

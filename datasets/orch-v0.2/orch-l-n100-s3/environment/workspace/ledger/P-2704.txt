@@ -1,0 +1,11 @@
+Ledger page P-2704
+
+account      amount   see page
+Vance          +385   P-8160
+Park           -679   P-2331
+Ibarra         -518   P-5679
+Fofana         -104   P-8917
+Abbott         -491   P-9964
+Jensen         -331   P-7729
+
+Follow the entry whose amount is closest to zero.

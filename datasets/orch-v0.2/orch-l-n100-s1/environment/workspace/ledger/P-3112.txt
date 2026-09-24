@@ -1,0 +1,11 @@
+Ledger page P-3112
+
+account      amount   see page
+Zhou           -858   P-9887
+Ibarra         -785   P-8565
+Baker          +196   P-8526
+Weber          -269   P-8680
+Park           -633   P-8226
+Quinn          -614   P-9385
+
+Follow the entry whose amount is closest to zero.

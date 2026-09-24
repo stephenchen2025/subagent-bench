@@ -1,0 +1,12 @@
+Ledger page P-5570
+
+account      amount   see page
+Xu             -642   P-9789
+Tanaka         -697   P-3084
+Quinn          +817   P-9840
+Silva          +661   P-4810
+Lambert        -247   P-3392
+Vance          +321   P-5128
+Moreau         -650   P-6134
+
+Follow the debit belonging to the account that comes last alphabetically.

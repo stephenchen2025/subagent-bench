@@ -1,0 +1,10 @@
+Ledger page P-4151
+
+account      amount   see page
+Ibarra         +791   P-8023
+Young          -892   P-2077
+Jensen         -831   P-8502
+Abbott         +243   P-3952
+Kowalski       +855   P-8027
+
+Follow the entry with the largest credit.

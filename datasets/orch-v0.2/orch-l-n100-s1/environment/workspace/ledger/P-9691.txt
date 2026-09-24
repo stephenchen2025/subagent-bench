@@ -1,0 +1,12 @@
+Ledger page P-9691
+
+account      amount   see page
+Grant          -278   P-3094
+Jensen         +340   P-5876
+Silva          -249   P-8818
+Baker          +587   P-9855
+Ibarra           -5   P-7855
+Kowalski       +492   P-8742
+Young          -583   P-9595
+
+Follow the entry whose amount is closest to zero.

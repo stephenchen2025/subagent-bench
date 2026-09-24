@@ -1,0 +1,10 @@
+Ledger page P-5261
+
+account      amount   see page
+Weber          +864   P-7146
+Moreau         +708   P-4307
+Rahman         -490   P-8213
+Baker          -787   P-9510
+Castillo       +878   P-9840
+
+Follow the credit belonging to the account that comes first alphabetically.

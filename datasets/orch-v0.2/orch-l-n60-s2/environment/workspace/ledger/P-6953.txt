@@ -1,0 +1,12 @@
+Ledger page P-6953
+
+account      amount   see page
+Silva          +775   P-3271
+Zhou           +628   P-9944
+Tanaka         -370   P-9009
+Quinn          -346   P-1518
+Vance          -207   P-5003
+Park           +247   P-9604
+Dunn           -610   P-7369
+
+Follow the entry with the largest debit (the most negative amount).

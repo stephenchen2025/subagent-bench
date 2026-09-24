@@ -1,0 +1,10 @@
+Ledger page P-5546
+
+account      amount   see page
+Zhou           +535   P-9789
+Park           -621   P-7315
+Abbott         +197   P-5729
+Baker          +225   P-6670
+Jensen         +806   P-8470
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,12 @@
+Ledger page P-1525
+
+account      amount   see page
+Jensen         +782   P-5691
+Hughes         -895   P-5143
+Tanaka          -90   P-6165
+Grant          -206   P-2361
+Dunn           -160   P-2361
+Umar           -309   P-8643
+Vance          +187   P-1565
+
+Follow the entry whose amount is closest to zero.

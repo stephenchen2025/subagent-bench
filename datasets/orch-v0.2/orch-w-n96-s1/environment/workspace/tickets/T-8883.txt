@@ -1,0 +1,84 @@
+Ticket T-8883
+Customer: Avery Lin
+Orders on file: ORD-10414, ORD-16028, ORD-87207, ORD-42205
+Opened: 2026-07-16 via email
+
+Order details:
+ORD-10414  placed 2026-02-21  status: label created  total: $366.30
+  payment method: card ending 3420  ship to: 523 Mill St
+  - rain jacket x1
+  - stainless water bottle, 750ml x3
+  - carabiner set x3
+  - travel pouch x3
+  - gift wrap x2
+ORD-16028  placed 2026-01-17  status: delivered  total: $92.10
+  payment method: card ending 9866  ship to: 399 Cedar Lane
+  - noise-cancelling headphones x1
+  - microfiber cloth x2
+  - replacement filter cartridge, 3-pack x3
+  - USB-C charging cable (2m) x1
+ORD-87207  placed 2026-06-08  status: in transit  total: $299.60
+  payment method: card ending 6111  ship to: 348 Elm Ave
+  - cast iron skillet x1
+  - spare battery pack x2
+  - extended warranty, 2 years x1
+  - carabiner set x3
+  - gift wrap x1
+ORD-42205  placed 2026-06-11  status: returned  total: $137.99
+  payment method: card ending 1887  ship to: 665 Elm Lane
+  - wool blanket x1
+  - USB-C charging cable (2m) x3
+  - gift wrap x3
+
+--- message 1 from Avery Lin ---
+Where is my refund for ORD-87207? You said 5 days and it has been 8. My earlier order ORD-10414 arrived fine, no complaints there. Is there a way to combine loyalty points from ORD-10414 with my next purchase? The desk lamp itself is great, for what it's worth.
+
+Best regards,
+Avery Lin
+
+--- message 2 from Rosa (support) ---
+I can see all the orders on your account, including ORD-16028. For ORD-10414, the return window is 30 days from delivery. Tracking updates can lag by a day or two with this carrier. Loyalty points post about a week after an order is delivered.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Avery Lin ---
+Not your fault, but my gym billed me twice this month, which is why I'm nervous about ORD-42205. Everything on your side looks like a single charge, I just wanted to confirm the delivery date. The confirmation email for ORD-16028 went to my spam folder, so I only just saw it. Could you also tell me whether ORD-87207 qualifies for the extended return window?
+
+Thanks,
+Avery Lin
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Rosa (support) ---
+For ORD-16028, the return window is 30 days from delivery. I've updated your shipping address on file. Tracking updates can lag by a day or two with this carrier.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Avery Lin ---
+The confirmation email for ORD-16028 went to my spam folder, so I only just saw it. Tracking for ORD-10414 hasn't updated since Tuesday. The noise-cancelling headphones itself is great, for what it's worth. I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Avery Lin
+
+--- message 6 from Rosa (support) ---
+Thanks for reaching out, and sorry for the trouble. Loyalty points post about a week after an order is delivered. For ORD-16028, the return window is 30 days from delivery. I can see all the orders on your account, including ORD-87207.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Avery Lin ---
+I tried the chat widget first but it kept disconnecting. Tracking for ORD-87207 hasn't updated since Tuesday. Is there a way to combine loyalty points from ORD-16028 with my next purchase? My partner placed ORD-87207 on our shared account, in case that matters.
+
+Avery Lin
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Rosa (support) ---
+For ORD-10414, the return window is 30 days from delivery. Thanks for reaching out, and sorry for the trouble. I've resent the confirmation email for ORD-16028 to the address on file. Tracking updates can lag by a day or two with this carrier.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,10 @@
+Ledger page P-6871
+
+account      amount   see page
+Moreau         -308   P-7290
+Quinn          +323   P-9588
+Fofana         +702   P-1200
+Silva          -409   P-7576
+Xu             -420   P-2898
+
+Follow the entry whose amount is closest to zero.

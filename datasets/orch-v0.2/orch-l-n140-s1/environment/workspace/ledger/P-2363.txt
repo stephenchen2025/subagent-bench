@@ -1,0 +1,11 @@
+Ledger page P-2363
+
+account      amount   see page
+Hughes         +402   P-2282
+Zhou           +284   P-4373
+Quinn          +192   P-8078
+Jensen         +516   P-4478
+Castillo       +270   P-3990
+Lambert        -666   P-7318
+
+Follow the entry with the largest credit.

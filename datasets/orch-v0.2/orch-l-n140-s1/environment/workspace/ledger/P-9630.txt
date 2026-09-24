@@ -1,0 +1,11 @@
+Ledger page P-9630
+
+account      amount   see page
+Lambert        -790   P-4492
+Kowalski       +604   P-4413
+Umar           +645   P-7402
+Young           +43   P-2684
+Moreau         +651   P-5546
+Fofana         +511   P-5734
+
+Follow the debit belonging to the account that comes last alphabetically.

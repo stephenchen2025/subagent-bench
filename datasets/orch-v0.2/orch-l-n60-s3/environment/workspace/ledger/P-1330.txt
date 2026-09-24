@@ -1,0 +1,12 @@
+Ledger page P-1330
+
+account      amount   see page
+Umar           +120   P-9761
+Moreau          +59   P-9769
+Osei           +270   P-8715
+Abbott         -840   P-3818
+Nakamura       +557   P-5935
+Zhou           -805   P-2876
+Rahman         -637   P-4878
+
+Follow the entry whose amount is closest to zero.

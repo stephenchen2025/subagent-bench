@@ -1,0 +1,10 @@
+Ledger page P-9340
+
+account      amount   see page
+Osei           +524   P-6871
+Fofana         -253   P-6298
+Eriksen        -474   P-5770
+Kowalski       -539   P-4060
+Nakamura       +593   P-4169
+
+Follow the entry with the largest credit.

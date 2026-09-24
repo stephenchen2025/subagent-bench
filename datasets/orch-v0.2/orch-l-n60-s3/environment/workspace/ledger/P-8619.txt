@@ -1,0 +1,12 @@
+Ledger page P-8619
+
+account      amount   see page
+Xu             -874   P-1047
+Park            -35   P-8627
+Lambert        +537   P-1991
+Weber          +167   P-3623
+Jensen         -639   P-7635
+Dunn           +439   P-1141
+Grant          +152   P-1976
+
+Follow the entry whose amount is closest to zero.

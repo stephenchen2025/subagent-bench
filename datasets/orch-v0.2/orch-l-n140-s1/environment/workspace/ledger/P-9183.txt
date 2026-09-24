@@ -1,0 +1,11 @@
+Ledger page P-9183
+
+account      amount   see page
+Baker          +309   P-7197
+Osei           +466   P-9445
+Nakamura       -429   P-5618
+Eriksen        -588   P-7078
+Xu             +270   P-2610
+Grant           +43   P-2067
+
+Follow the entry with the second-largest amount.

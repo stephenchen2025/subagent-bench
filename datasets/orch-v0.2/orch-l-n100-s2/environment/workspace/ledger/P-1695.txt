@@ -1,0 +1,12 @@
+Ledger page P-1695
+
+account      amount   see page
+Baker           +99   P-4704
+Weber          +655   P-7216
+Ibarra         +640   P-8854
+Quinn          +785   P-2810
+Castillo       +231   P-8419
+Silva          -577   P-5476
+Jensen          +25   P-4086
+
+Follow the entry whose amount is closest to zero.

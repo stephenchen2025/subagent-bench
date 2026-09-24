@@ -1,0 +1,12 @@
+Ledger page P-2904
+
+account      amount   see page
+Castillo         -3   P-7576
+Eriksen        +107   P-1547
+Kowalski       -173   P-7069
+Jensen         +185   P-7760
+Tanaka         -722   P-5823
+Grant          +689   P-5602
+Dunn           +545   P-4619
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,11 @@
+Ledger page P-7117
+
+account      amount   see page
+Weber          -303   P-5078
+Xu             +861   P-1981
+Tanaka         +276   P-2898
+Grant           -45   P-6433
+Fofana         +630   P-5027
+Hughes         +879   P-4046
+
+Follow the debit belonging to the account that comes last alphabetically.

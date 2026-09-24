@@ -1,0 +1,12 @@
+Ledger page P-4873
+
+account      amount   see page
+Xu             -620   P-9581
+Tanaka         -812   P-8428
+Silva          +269   P-8463
+Umar           +587   P-8818
+Baker          +116   P-7063
+Fofana         +419   P-3452
+Nakamura       -886   P-5619
+
+Follow the entry whose amount is closest to zero.

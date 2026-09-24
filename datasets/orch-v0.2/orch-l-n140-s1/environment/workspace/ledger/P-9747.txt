@@ -1,0 +1,12 @@
+Ledger page P-9747
+
+account      amount   see page
+Fofana         -520   P-7442
+Young          -721   P-8816
+Quinn          -101   P-7318
+Umar           -602   P-9870
+Ibarra         +225   P-6183
+Moreau         +431   P-4085
+Eriksen        +644   P-9840
+
+Follow the entry with the largest credit.

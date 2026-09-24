@@ -1,0 +1,12 @@
+Ledger page P-7418
+
+account      amount   see page
+Castillo        +92   P-7598
+Young          -491   P-9874
+Dunn            -15   P-1967
+Ibarra         +165   P-8121
+Baker          +199   P-8281
+Lambert         +53   P-2812
+Hughes         +438   P-6600
+
+Follow the credit belonging to the account that comes first alphabetically.

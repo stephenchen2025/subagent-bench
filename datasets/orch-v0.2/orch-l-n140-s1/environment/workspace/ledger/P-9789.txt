@@ -1,0 +1,10 @@
+Ledger page P-9789
+
+account      amount   see page
+Fofana         +161   P-1727
+Moreau         +890   P-6167
+Quinn          +783   P-5373
+Castillo       -522   P-4863
+Vance          +644   P-5546
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,10 @@
+Ledger page P-8071
+
+account      amount   see page
+Fofana         -803   P-4226
+Abbott         -654   P-7759
+Grant          +488   P-9099
+Weber          +264   P-7775
+Tanaka         +122   P-7663
+
+Follow the entry with the largest credit.

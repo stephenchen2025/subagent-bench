@@ -1,0 +1,11 @@
+Ledger page P-1315
+
+account      amount   see page
+Young          -180   P-2044
+Rahman         -256   P-1637
+Kowalski       -380   P-4783
+Tanaka         +227   P-1108
+Ibarra         +780   P-2295
+Park           +197   P-2837
+
+Follow the debit belonging to the account that comes last alphabetically.

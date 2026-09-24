@@ -1,0 +1,11 @@
+Ledger page P-3049
+
+account      amount   see page
+Young          -213   P-3332
+Osei           -474   P-9054
+Kowalski        +77   P-7610
+Zhou           -620   P-5252
+Moreau         +435   P-9551
+Fofana         -207   P-8910
+
+Follow the entry with the second-largest amount.

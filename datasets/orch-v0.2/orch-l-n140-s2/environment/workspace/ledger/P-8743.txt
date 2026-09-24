@@ -1,0 +1,12 @@
+Ledger page P-8743
+
+account      amount   see page
+Tanaka          -90   P-7862
+Xu             +569   P-4105
+Lambert        -211   P-8080
+Ibarra         -844   P-2245
+Umar            +37   P-4236
+Weber          -878   P-8743
+Kowalski       +280   P-7768
+
+Follow the credit belonging to the account that comes first alphabetically.

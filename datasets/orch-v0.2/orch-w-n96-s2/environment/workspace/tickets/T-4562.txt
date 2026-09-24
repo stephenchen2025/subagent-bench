@@ -1,0 +1,86 @@
+Ticket T-4562
+Customer: Yuki Tanaka
+Orders on file: ORD-62700, ORD-54402, ORD-39981, ORD-51462
+Opened: 2026-06-23 via email
+
+Order details:
+ORD-62700  placed 2026-03-28  status: delivered  total: $116.96
+  payment method: card ending 2404  ship to: 294 Cedar St
+  - rain jacket x1
+  - microfiber cloth x3
+  - carabiner set x1
+ORD-54402  placed 2026-02-23  status: delivered  total: $406.85
+  payment method: card ending 2046  ship to: 651 Elm Ave
+  - mechanical keyboard x1
+  - USB-C charging cable (2m) x3
+  - travel pouch x2
+  - spare battery pack x1
+  - extended warranty, 2 years x3
+ORD-39981  placed 2026-02-18  status: delivered  total: $78.73
+  payment method: card ending 5970  ship to: 757 Elm Rd
+  - water filter pitcher x1
+  - merino socks, size M x3
+  - travel pouch x2
+ORD-51462  placed 2026-08-18  status: delivered  total: $140.02
+  payment method: card ending 3890  ship to: 102 Cedar Rd
+  - water filter pitcher x1
+  - travel pouch x1
+  - stainless water bottle, 750ml x3
+  - spare battery pack x3
+  - carabiner set x1
+
+--- message 1 from Yuki Tanaka ---
+I'd like to return the water filter pitcher from ORD-62700; it's the wrong size. I've been a customer for a few years and usually everything goes smoothly. I changed my shipping address last month, so please double-check you have the new one. The blender itself is great, for what it's worth.
+
+Thanks,
+Yuki Tanaka
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Marcus (support) ---
+If you need an invoice for ORD-51462, you can download it from the Orders page. Screenshots aren't necessary, but thank you for offering. Loyalty points post about a week after an order is delivered. Thanks for reaching out, and sorry for the trouble.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Yuki Tanaka ---
+I was billed twice for ORD-39981 -- same amount, same day. Is there a way to combine loyalty points from ORD-51462 with my next purchase? Tracking for ORD-54402 hasn't updated since Tuesday.
+
+Thanks,
+Yuki Tanaka
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Marcus (support) ---
+If you need an invoice for ORD-51462, you can download it from the Orders page. For ORD-62700, the return window is 30 days from delivery. Tracking updates can lag by a day or two with this carrier.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Yuki Tanaka ---
+Could you also tell me whether ORD-51462 qualifies for the extended return window? My partner placed ORD-51462 on our shared account, in case that matters. Tracking for ORD-51462 hasn't updated since Tuesday. The confirmation email for ORD-51462 went to my spam folder, so I only just saw it.
+
+Thanks,
+Yuki Tanaka
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Marcus (support) ---
+I've resent the confirmation email for ORD-51462 to the address on file. Our warehouse shows ORD-51462 left on schedule. Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Yuki Tanaka ---
+My partner placed ORD-62700 on our shared account, in case that matters. My earlier order ORD-51462 arrived fine, no complaints there. The confirmation email for ORD-54402 went to my spam folder, so I only just saw it. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Yuki Tanaka
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Marcus (support) ---
+I can see all the orders on your account, including ORD-51462. I've added a note to your account so the next agent has the context. Screenshots aren't necessary, but thank you for offering. Let me know if anything else looks off.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

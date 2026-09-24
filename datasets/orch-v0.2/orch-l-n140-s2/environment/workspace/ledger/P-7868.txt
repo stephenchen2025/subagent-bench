@@ -1,0 +1,12 @@
+Ledger page P-7868
+
+account      amount   see page
+Kowalski       +774   P-8010
+Umar           +734   P-6839
+Vance          +593   P-9110
+Dunn           +448   P-2801
+Ibarra         +717   P-9208
+Quinn          -485   P-8300
+Fofana         -353   P-2019
+
+Follow the credit belonging to the account that comes first alphabetically.

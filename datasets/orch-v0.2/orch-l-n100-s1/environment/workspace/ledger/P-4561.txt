@@ -1,0 +1,10 @@
+Ledger page P-4561
+
+account      amount   see page
+Eriksen        +219   P-4903
+Osei           +289   P-8606
+Moreau         +677   P-4481
+Hughes         -108   P-1351
+Nakamura       +747   P-5874
+
+Follow the entry with the largest credit.

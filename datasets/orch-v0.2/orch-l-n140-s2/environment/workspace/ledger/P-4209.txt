@@ -1,0 +1,12 @@
+Ledger page P-4209
+
+account      amount   see page
+Osei            -97   P-6615
+Ibarra         +422   P-6021
+Weber          -399   P-6740
+Fofana         +206   P-7705
+Nakamura       +336   P-7984
+Umar           +222   P-9847
+Young          +616   P-6627
+
+Follow the entry whose amount is closest to zero.

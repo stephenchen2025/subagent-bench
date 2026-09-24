@@ -1,0 +1,11 @@
+Ledger page P-2698
+
+account      amount   see page
+Vance          -646   P-7083
+Lambert        +872   P-3026
+Osei            -22   P-4281
+Xu             -200   P-4593
+Abbott         +233   P-8665
+Castillo       -415   P-4101
+
+Follow the entry with the largest credit.

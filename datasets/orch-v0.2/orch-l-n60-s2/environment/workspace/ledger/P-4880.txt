@@ -1,0 +1,12 @@
+Ledger page P-4880
+
+account      amount   see page
+Zhou           -797   P-6698
+Xu              +70   P-6238
+Osei           -145   P-7256
+Hughes         +546   P-4483
+Dunn           +529   P-2689
+Park           +616   P-4360
+Baker           +49   P-9647
+
+Follow the entry with the largest credit.

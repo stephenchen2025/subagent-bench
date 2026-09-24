@@ -1,0 +1,12 @@
+Ledger page P-5706
+
+account      amount   see page
+Hughes         -850   P-8473
+Baker          +566   P-4826
+Nakamura       -650   P-3095
+Young          -304   P-3609
+Zhou           +767   P-2879
+Weber          +597   P-3675
+Vance           -10   P-5848
+
+Follow the entry with the second-largest amount.

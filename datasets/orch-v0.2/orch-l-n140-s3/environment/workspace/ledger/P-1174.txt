@@ -1,0 +1,10 @@
+Ledger page P-1174
+
+account      amount   see page
+Silva          -352   P-9312
+Dunn           +760   P-1174
+Eriksen        -297   P-8146
+Osei            +34   P-2308
+Lambert        -758   P-8665
+
+Follow the entry with the largest credit.

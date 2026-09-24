@@ -1,0 +1,10 @@
+Ledger page P-7272
+
+account      amount   see page
+Quinn          +784   P-6278
+Moreau         -391   P-4060
+Umar           -731   P-7282
+Kowalski       +822   P-9964
+Dunn           -264   P-3301
+
+Follow the entry with the second-largest amount.

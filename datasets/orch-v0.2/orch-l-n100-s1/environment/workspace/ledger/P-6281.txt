@@ -1,0 +1,12 @@
+Ledger page P-6281
+
+account      amount   see page
+Tanaka         +745   P-4737
+Umar           -103   P-1463
+Jensen         -484   P-8170
+Quinn          -616   P-6544
+Ibarra         +319   P-9221
+Vance          -696   P-4561
+Lambert        +527   P-5458
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,10 @@
+Ledger page P-7078
+
+account      amount   see page
+Park            +91   P-9653
+Zhou           +107   P-9445
+Umar           -452   P-3989
+Abbott         -386   P-3989
+Kowalski       +758   P-1702
+
+Follow the entry with the second-largest amount.

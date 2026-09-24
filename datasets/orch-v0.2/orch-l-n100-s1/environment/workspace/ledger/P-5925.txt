@@ -1,0 +1,10 @@
+Ledger page P-5925
+
+account      amount   see page
+Moreau         +428   P-9028
+Castillo       -531   P-5739
+Hughes         +884   P-6361
+Osei           -378   P-1026
+Park           +620   P-5925
+
+Follow the credit belonging to the account that comes first alphabetically.

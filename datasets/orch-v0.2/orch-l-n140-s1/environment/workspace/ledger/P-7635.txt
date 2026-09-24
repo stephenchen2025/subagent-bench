@@ -1,0 +1,11 @@
+Ledger page P-7635
+
+account      amount   see page
+Moreau         +498   P-3519
+Ibarra         -415   P-5733
+Grant           +59   P-9105
+Rahman         -517   P-7133
+Umar           +281   P-4730
+Castillo       -270   P-8196
+
+Follow the entry with the largest credit.

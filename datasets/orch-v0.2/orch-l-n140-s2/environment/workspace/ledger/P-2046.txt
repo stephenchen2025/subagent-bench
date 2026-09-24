@@ -1,0 +1,10 @@
+Ledger page P-2046
+
+account      amount   see page
+Lambert        -212   P-5894
+Castillo       +276   P-3205
+Young          +241   P-7270
+Xu             -863   P-5574
+Dunn           +587   P-2705
+
+Follow the credit belonging to the account that comes first alphabetically.

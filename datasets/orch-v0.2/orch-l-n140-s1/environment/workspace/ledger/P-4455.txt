@@ -1,0 +1,12 @@
+Ledger page P-4455
+
+account      amount   see page
+Grant          +410   P-4452
+Park           +720   P-5788
+Baker          -552   P-7354
+Ibarra         -129   P-5405
+Moreau         -543   P-6194
+Abbott         -396   P-5008
+Tanaka         -489   P-7015
+
+Follow the entry with the largest credit.

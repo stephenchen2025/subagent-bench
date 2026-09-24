@@ -1,0 +1,11 @@
+Ledger page P-2919
+
+account      amount   see page
+Park           -756   P-6494
+Xu             -153   P-9456
+Nakamura       -855   P-2431
+Kowalski        -57   P-8065
+Quinn          -163   P-8910
+Vance            +6   P-1352
+
+Follow the credit belonging to the account that comes first alphabetically.

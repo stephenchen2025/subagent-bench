@@ -1,0 +1,12 @@
+Ledger page P-2536
+
+account      amount   see page
+Osei           +805   P-9689
+Xu             -562   P-2188
+Kowalski       -578   P-4060
+Vance           -40   P-1371
+Quinn          +337   P-2184
+Umar            +16   P-9359
+Nakamura       -217   P-7775
+
+Follow the entry whose amount is closest to zero.

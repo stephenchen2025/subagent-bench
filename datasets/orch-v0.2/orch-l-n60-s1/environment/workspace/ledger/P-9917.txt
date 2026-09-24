@@ -1,0 +1,10 @@
+Ledger page P-9917
+
+account      amount   see page
+Quinn          -869   P-8289
+Vance          -722   P-3493
+Jensen         -858   P-1230
+Osei           +119   P-2426
+Abbott         +174   P-3264
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,10 @@
+Ledger page P-8539
+
+account      amount   see page
+Vance          +732   P-9072
+Baker          +482   P-3203
+Xu              -71   P-8539
+Tanaka         +455   P-5700
+Ibarra         +172   P-7562
+
+Follow the entry whose amount is closest to zero.

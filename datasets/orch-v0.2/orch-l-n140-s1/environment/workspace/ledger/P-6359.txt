@@ -1,0 +1,12 @@
+Ledger page P-6359
+
+account      amount   see page
+Zhou            -31   P-2282
+Kowalski       +780   P-7487
+Rahman         -316   P-6194
+Silva          -844   P-4657
+Umar           -726   P-7133
+Dunn           -315   P-6134
+Quinn          -505   P-2687
+
+Follow the entry with the largest debit (the most negative amount).

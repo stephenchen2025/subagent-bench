@@ -1,0 +1,12 @@
+Ledger page P-9887
+
+account      amount   see page
+Nakamura       +435   P-3670
+Rahman          +36   P-8913
+Tanaka         -470   P-2813
+Hughes         -390   P-1317
+Weber           -48   P-7842
+Abbott         +817   P-8226
+Baker          -684   P-6281
+
+Follow the entry with the second-largest amount.

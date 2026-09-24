@@ -1,0 +1,12 @@
+Ledger page P-1611
+
+account      amount   see page
+Silva          +369   P-2370
+Lambert        +889   P-3758
+Ibarra         +217   P-2425
+Nakamura       -533   P-5493
+Quinn          +716   P-4479
+Weber          +487   P-2765
+Abbott         +665   P-4169
+
+Follow the debit belonging to the account that comes last alphabetically.

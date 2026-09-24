@@ -1,0 +1,12 @@
+Ledger page P-3340
+
+account      amount   see page
+Silva          +683   P-2971
+Jensen         -672   P-6223
+Kowalski       -212   P-8049
+Dunn           +312   P-4413
+Zhou           -228   P-4271
+Vance          +379   P-5729
+Park           -667   P-9630
+
+Follow the entry with the second-largest amount.

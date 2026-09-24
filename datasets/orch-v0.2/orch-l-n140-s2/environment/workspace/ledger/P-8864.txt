@@ -1,0 +1,10 @@
+Ledger page P-8864
+
+account      amount   see page
+Lambert        +455   P-8307
+Tanaka         -260   P-8495
+Silva           +18   P-8231
+Young          -207   P-5039
+Ibarra         -578   P-7920
+
+Follow the entry with the largest debit (the most negative amount).

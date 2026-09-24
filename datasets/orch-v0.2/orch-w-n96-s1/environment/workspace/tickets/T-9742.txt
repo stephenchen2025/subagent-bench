@@ -1,0 +1,57 @@
+Ticket T-9742
+Customer: Liam O'Neill
+Orders on file: ORD-25625, ORD-30022, ORD-71140, ORD-64943
+Opened: 2026-03-24 via email
+
+Order details:
+ORD-25625  placed 2026-03-12  status: in transit  total: $395.63
+  payment method: card ending 5738  ship to: 761 Elm Ave
+  - wool blanket x1
+  - USB-C charging cable (2m) x1
+  - spare battery pack x3
+  - carabiner set x3
+ORD-30022  placed 2026-08-11  status: delivered  total: $294.13
+  payment method: card ending 5559  ship to: 714 Elm Ave
+  - carry-on suitcase x1
+  - spare battery pack x3
+  - travel pouch x2
+  - extended warranty, 2 years x1
+  - stainless water bottle, 750ml x1
+ORD-71140  placed 2026-01-02  status: delivered  total: $248.32
+  payment method: card ending 8503  ship to: 531 Elm Lane
+  - mechanical keyboard x1
+  - stainless water bottle, 750ml x1
+  - gift wrap x1
+ORD-64943  placed 2026-02-22  status: delivered  total: $467.68
+  payment method: card ending 8063  ship to: 774 Mill Lane
+  - desk lamp x1
+  - spare battery pack x2
+  - USB-C charging cable (2m) x1
+
+--- message 1 from Liam O'Neill ---
+I need to change the delivery address for ORD-64943 before it ships. Is there a way to combine loyalty points from ORD-64943 with my next purchase? The bike light set itself is great, for what it's worth. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Liam O'Neill
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Pete (support) ---
+I can see all the orders on your account, including ORD-25625. Tracking updates can lag by a day or two with this carrier. If you need an invoice for ORD-25625, you can download it from the Orders page. Loyalty points post about a week after an order is delivered.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Liam O'Neill ---
+I'm happy to send screenshots if that helps. My earlier order ORD-64943 arrived fine, no complaints there. I'm travelling next week, so email is the best way to reach me. The confirmation email for ORD-25625 went to my spam folder, so I only just saw it.
+
+Thanks,
+Liam O'Neill
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Pete (support) ---
+Our warehouse shows ORD-64943 left on schedule. For ORD-64943, the return window is 30 days from delivery. If you need an invoice for ORD-71140, you can download it from the Orders page. Screenshots aren't necessary, but thank you for offering.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

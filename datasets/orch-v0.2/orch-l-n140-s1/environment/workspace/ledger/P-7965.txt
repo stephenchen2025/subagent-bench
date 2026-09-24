@@ -1,0 +1,10 @@
+Ledger page P-7965
+
+account      amount   see page
+Moreau         -687   P-8803
+Grant          +646   P-2195
+Quinn           -48   P-4680
+Ibarra         -268   P-2170
+Abbott         +297   P-3087
+
+Follow the entry with the second-largest amount.

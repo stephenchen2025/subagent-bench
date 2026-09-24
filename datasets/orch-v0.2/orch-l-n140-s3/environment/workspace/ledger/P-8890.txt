@@ -1,0 +1,10 @@
+Ledger page P-8890
+
+account      amount   see page
+Moreau          +30   P-2505
+Kowalski       -270   P-3984
+Grant          -184   P-4173
+Hughes         +156   P-4493
+Baker          -475   P-8937
+
+Follow the entry with the largest debit (the most negative amount).

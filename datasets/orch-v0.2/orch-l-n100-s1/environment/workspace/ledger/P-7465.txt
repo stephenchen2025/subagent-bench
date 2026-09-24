@@ -1,0 +1,12 @@
+Ledger page P-7465
+
+account      amount   see page
+Vance          +831   P-8753
+Moreau         -312   P-8733
+Nakamura       +647   P-9647
+Kowalski       -796   P-6171
+Ibarra         -406   P-4279
+Hughes         +584   P-5960
+Baker           +47   P-1648
+
+Follow the entry with the largest debit (the most negative amount).

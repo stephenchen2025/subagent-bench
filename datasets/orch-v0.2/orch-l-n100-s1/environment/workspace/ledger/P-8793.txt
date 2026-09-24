@@ -1,0 +1,10 @@
+Ledger page P-8793
+
+account      amount   see page
+Rahman         -215   P-1061
+Dunn           +556   P-2848
+Young          -385   P-4847
+Ibarra         +533   P-3112
+Nakamura       -616   P-3624
+
+Follow the entry with the largest credit.

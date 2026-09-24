@@ -1,0 +1,67 @@
+Ticket T-6757
+Customer: Tomas Novak
+Orders on file: ORD-55457, ORD-47737, ORD-48375, ORD-75982
+Opened: 2026-08-07 via email
+
+Order details:
+ORD-55457  placed 2026-06-15  status: delivered  total: $300.45
+  payment method: card ending 6238  ship to: 781 Oak Lane
+  - blender x1
+  - carabiner set x3
+  - microfiber cloth x2
+ORD-47737  placed 2026-05-10  status: delivered  total: $124.27
+  payment method: card ending 5358  ship to: 411 Cedar St
+  - trail running shoes x1
+  - gift wrap x2
+  - stainless water bottle, 750ml x2
+  - microfiber cloth x1
+ORD-48375  placed 2026-06-27  status: delivered  total: $414.92
+  payment method: card ending 6819  ship to: 79 Harbor Lane
+  - wool blanket x1
+  - extended warranty, 2 years x3
+  - spare battery pack x1
+ORD-75982  placed 2026-05-16  status: in transit  total: $443.77
+  payment method: card ending 7826  ship to: 235 Harbor Lane
+  - camping stove x1
+  - stainless water bottle, 750ml x3
+  - spare battery pack x1
+
+--- message 1 from Tomas Novak ---
+The cast iron skillet from ORD-48375 arrived with a scratch on the side. Can I get a replacement? My partner placed ORD-48375 on our shared account, in case that matters. The box for ORD-55457 was a bit crushed but the contents were fine. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Tomas Novak
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Marcus (support) ---
+Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-47737 left on schedule. I can see all the orders on your account, including ORD-47737. For ORD-55457, the return window is 30 days from delivery.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Tomas Novak ---
+Is there a way to combine loyalty points from ORD-55457 with my next purchase? I'm travelling next week, so email is the best way to reach me. Could you also tell me whether ORD-47737 qualifies for the extended return window? Tracking for ORD-47737 hasn't updated since Tuesday.
+
+Best regards,
+Tomas Novak
+
+--- message 4 from Marcus (support) ---
+I've updated your shipping address on file. Let me know if anything else looks off. Our warehouse shows ORD-55457 left on schedule. Tracking updates can lag by a day or two with this carrier.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Tomas Novak ---
+My partner placed ORD-48375 on our shared account, in case that matters. I'm happy to send screenshots if that helps. Could you also tell me whether ORD-48375 qualifies for the extended return window? I tried the chat widget first but it kept disconnecting.
+
+Tomas Novak
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Marcus (support) ---
+If you need an invoice for ORD-55457, you can download it from the Orders page. Our warehouse shows ORD-55457 left on schedule. Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

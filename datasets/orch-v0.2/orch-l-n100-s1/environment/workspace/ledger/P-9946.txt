@@ -1,0 +1,12 @@
+Ledger page P-9946
+
+account      amount   see page
+Dunn           -321   P-5858
+Quinn          -423   P-2774
+Osei           -466   P-7275
+Ibarra         +547   P-5996
+Kowalski       +410   P-3460
+Weber          +885   P-9109
+Lambert        +292   P-9617
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,10 @@
+Ledger page P-5461
+
+account      amount   see page
+Baker          -192   P-9587
+Zhou           -394   P-6871
+Ibarra         +864   P-4780
+Fofana         +574   P-5132
+Weber          -845   P-8255
+
+Follow the debit belonging to the account that comes last alphabetically.

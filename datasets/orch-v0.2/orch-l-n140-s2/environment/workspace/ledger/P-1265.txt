@@ -1,0 +1,10 @@
+Ledger page P-1265
+
+account      amount   see page
+Osei           -248   P-4465
+Quinn          -538   P-6433
+Castillo       +454   P-4046
+Fofana         -840   P-6524
+Kowalski       -421   P-3163
+
+Follow the credit belonging to the account that comes first alphabetically.

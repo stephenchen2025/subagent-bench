@@ -1,0 +1,11 @@
+Ledger page P-2560
+
+account      amount   see page
+Kowalski       +207   P-7674
+Nakamura       +259   P-6284
+Vance          +320   P-2957
+Fofana         -640   P-4837
+Abbott          +53   P-4760
+Castillo       -140   P-6020
+
+Follow the debit belonging to the account that comes last alphabetically.

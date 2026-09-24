@@ -1,0 +1,10 @@
+Ledger page P-7127
+
+account      amount   see page
+Baker          -545   P-7442
+Hughes          +95   P-1336
+Lambert        +216   P-1092
+Grant          -844   P-9584
+Castillo       +294   P-4680
+
+Follow the entry with the second-largest amount.

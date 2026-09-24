@@ -1,0 +1,10 @@
+Ledger page P-7547
+
+account      amount   see page
+Tanaka         +641   P-2941
+Rahman         -503   P-1319
+Vance          +387   P-9510
+Grant          +834   P-4274
+Young          +160   P-5483
+
+Follow the entry with the largest credit.

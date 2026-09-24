@@ -1,0 +1,11 @@
+Ledger page P-5619
+
+account      amount   see page
+Young           -51   P-6082
+Xu             -481   P-3258
+Silva           -50   P-1487
+Nakamura       +387   P-4213
+Jensen         -340   P-7005
+Quinn          -500   P-1525
+
+Follow the entry with the second-largest amount.

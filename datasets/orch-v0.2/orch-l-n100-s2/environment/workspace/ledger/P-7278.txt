@@ -1,0 +1,10 @@
+Ledger page P-7278
+
+account      amount   see page
+Nakamura       -764   P-4097
+Castillo       -896   P-4966
+Vance          +344   P-1507
+Abbott         -628   P-1731
+Weber          +545   P-3078
+
+Follow the entry with the largest debit (the most negative amount).

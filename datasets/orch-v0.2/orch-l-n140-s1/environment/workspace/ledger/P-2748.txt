@@ -1,0 +1,10 @@
+Ledger page P-2748
+
+account      amount   see page
+Kowalski       +892   P-9621
+Abbott         -643   P-5299
+Dunn           +587   P-4890
+Jensen         +684   P-2429
+Vance          -233   P-5700
+
+Follow the entry with the largest debit (the most negative amount).

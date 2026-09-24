@@ -1,0 +1,12 @@
+Ledger page P-1340
+
+account      amount   see page
+Dunn           -204   P-3686
+Young          +519   P-9578
+Silva          +858   P-7569
+Weber          +549   P-9469
+Eriksen        +154   P-9498
+Nakamura        -75   P-4607
+Rahman         -594   P-6102
+
+Follow the entry with the second-largest amount.

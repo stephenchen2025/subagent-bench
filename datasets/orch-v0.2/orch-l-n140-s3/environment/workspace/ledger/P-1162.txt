@@ -1,0 +1,11 @@
+Ledger page P-1162
+
+account      amount   see page
+Osei           +334   P-5679
+Dunn            +83   P-2041
+Xu             -677   P-9651
+Moreau         +754   P-8146
+Young          -698   P-3012
+Jensen         -733   P-3236
+
+Follow the entry with the second-largest amount.

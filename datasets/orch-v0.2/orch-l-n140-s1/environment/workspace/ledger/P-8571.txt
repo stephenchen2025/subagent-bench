@@ -1,0 +1,12 @@
+Ledger page P-8571
+
+account      amount   see page
+Baker          -241   P-4115
+Xu             -386   P-8727
+Zhou           +206   P-6653
+Vance          +868   P-4113
+Silva          +562   P-6950
+Tanaka         +446   P-5618
+Fofana         -264   P-2702
+
+Follow the credit belonging to the account that comes first alphabetically.

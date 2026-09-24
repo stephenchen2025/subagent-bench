@@ -1,0 +1,12 @@
+Ledger page P-9385
+
+account      amount   see page
+Dunn           -371   P-7274
+Kowalski        +16   P-7317
+Silva          +160   P-6359
+Zhou           -319   P-5960
+Grant          +833   P-7465
+Xu             -817   P-1857
+Baker           -23   P-7109
+
+Follow the credit belonging to the account that comes first alphabetically.

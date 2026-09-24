@@ -1,0 +1,10 @@
+Ledger page P-6512
+
+account      amount   see page
+Rahman         -123   P-5510
+Baker          -545   P-1092
+Moreau         +281   P-8246
+Abbott         +837   P-2195
+Silva          -148   P-2425
+
+Follow the debit belonging to the account that comes last alphabetically.

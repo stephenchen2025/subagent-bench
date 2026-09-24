@@ -1,0 +1,12 @@
+Ledger page P-8495
+
+account      amount   see page
+Silva          -211   P-7984
+Zhou           -422   P-8231
+Eriksen        +751   P-2046
+Vance          -540   P-5991
+Umar            -43   P-4607
+Castillo       +435   P-4103
+Moreau         -395   P-4719
+
+Follow the entry with the largest credit.

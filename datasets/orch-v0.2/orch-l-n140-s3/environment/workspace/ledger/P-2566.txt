@@ -1,0 +1,11 @@
+Ledger page P-2566
+
+account      amount   see page
+Castillo       -510   P-5767
+Fofana         -498   P-4281
+Weber          +511   P-9980
+Dunn           +336   P-3635
+Moreau         +894   P-1979
+Eriksen        -773   P-4659
+
+Follow the entry with the second-largest amount.

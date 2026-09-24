@@ -1,0 +1,10 @@
+Ledger page P-2779
+
+account      amount   see page
+Eriksen        -132   P-2898
+Fofana         +773   P-5365
+Vance          +820   P-1846
+Tanaka         +308   P-2973
+Abbott         +780   P-5770
+
+Follow the entry with the second-largest amount.

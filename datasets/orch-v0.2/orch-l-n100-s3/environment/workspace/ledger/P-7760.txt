@@ -1,0 +1,12 @@
+Ledger page P-7760
+
+account      amount   see page
+Eriksen        -664   P-7290
+Dunn           +794   P-2320
+Ibarra          -16   P-2973
+Nakamura       +877   P-2973
+Park           +516   P-5429
+Abbott         -297   P-6278
+Grant           +36   P-7050
+
+Follow the debit belonging to the account that comes last alphabetically.

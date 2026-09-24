@@ -1,0 +1,11 @@
+Ledger page P-4885
+
+account      amount   see page
+Vance          -563   P-4115
+Ibarra         +609   P-8573
+Umar           +451   P-7598
+Eriksen        +185   P-9282
+Zhou           +784   P-8479
+Kowalski       +176   P-2449
+
+Follow the entry with the second-largest amount.

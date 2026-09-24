@@ -1,0 +1,11 @@
+Ledger page P-3877
+
+account      amount   see page
+Vance          +735   P-5686
+Umar            -46   P-7693
+Quinn          -715   P-3552
+Jensen         -491   P-1317
+Xu             -310   P-9337
+Tanaka         -336   P-2774
+
+Follow the entry with the second-largest amount.

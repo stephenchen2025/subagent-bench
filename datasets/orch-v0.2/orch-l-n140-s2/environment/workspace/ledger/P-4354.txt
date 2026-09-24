@@ -1,0 +1,12 @@
+Ledger page P-4354
+
+account      amount   see page
+Eriksen        +489   P-8166
+Dunn           +270   P-3476
+Tanaka         -207   P-2304
+Moreau         +219   P-4602
+Castillo       +458   P-2245
+Grant          +879   P-6708
+Jensen         +406   P-5751
+
+Follow the entry whose amount is closest to zero.

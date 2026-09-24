@@ -1,0 +1,11 @@
+Ledger page P-9986
+
+account      amount   see page
+Weber          +370   P-7629
+Umar           +718   P-9843
+Rahman         +309   P-9263
+Xu             -381   P-8146
+Nakamura        +82   P-2698
+Zhou           +347   P-5220
+
+Follow the entry whose amount is closest to zero.

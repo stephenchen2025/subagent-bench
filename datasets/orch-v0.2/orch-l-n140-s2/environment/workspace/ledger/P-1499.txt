@@ -1,0 +1,10 @@
+Ledger page P-1499
+
+account      amount   see page
+Fofana          +85   P-5039
+Abbott          -39   P-6579
+Vance          -731   P-6577
+Silva          +654   P-2898
+Kowalski       +208   P-4881
+
+Follow the entry with the largest debit (the most negative amount).

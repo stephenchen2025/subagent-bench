@@ -1,0 +1,11 @@
+Ledger page P-9986
+
+account      amount   see page
+Jensen         +262   P-9883
+Nakamura       -797   P-3569
+Dunn           +494   P-5044
+Umar           +612   P-4597
+Zhou           +863   P-4020
+Kowalski       +431   P-2618
+
+Follow the entry with the largest credit.

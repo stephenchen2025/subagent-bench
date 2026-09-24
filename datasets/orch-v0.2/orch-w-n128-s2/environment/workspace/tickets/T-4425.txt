@@ -1,0 +1,73 @@
+Ticket T-4425
+Customer: Felix Wagner
+Orders on file: ORD-29033, ORD-37125, ORD-81122, ORD-47988
+Opened: 2026-02-22 via email
+
+Order details:
+ORD-29033  placed 2026-07-07  status: label created  total: $416.64
+  payment method: card ending 8438  ship to: 598 Harbor St
+  - yoga mat x1
+  - travel pouch x1
+  - carabiner set x2
+  - replacement filter cartridge, 3-pack x3
+ORD-37125  placed 2026-06-16  status: returned  total: $268.62
+  payment method: card ending 5430  ship to: 434 Harbor Ave
+  - blender x1
+  - travel pouch x3
+  - extended warranty, 2 years x3
+  - merino socks, size M x2
+  - carabiner set x2
+ORD-81122  placed 2026-01-08  status: label created  total: $164.77
+  payment method: card ending 1234  ship to: 435 Elm St
+  - mechanical keyboard x1
+  - microfiber cloth x1
+  - extended warranty, 2 years x3
+ORD-47988  placed 2026-08-08  status: delivered  total: $371.34
+  payment method: card ending 8282  ship to: 437 Mill Lane
+  - espresso grinder x1
+  - gift wrap x1
+  - extended warranty, 2 years x2
+  - carabiner set x3
+  - merino socks, size M x1
+
+--- message 1 from Felix Wagner ---
+How do I reset my password? The reset link keeps expiring. Could you also tell me whether ORD-81122 qualifies for the extended return window? Your app logged me out twice while I was looking at this, which didn't help. The box for ORD-47988 was a bit crushed but the contents were fine.
+
+Thanks,
+Felix Wagner
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Pete (support) ---
+Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble. I've updated your shipping address on file. Our warehouse shows ORD-47988 left on schedule.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Felix Wagner ---
+I've been a customer for a few years and usually everything goes smoothly. The box for ORD-47988 was a bit crushed but the contents were fine. I changed my shipping address last month, so please double-check you have the new one. Tracking for ORD-81122 hasn't updated since Tuesday.
+
+Thanks,
+Felix Wagner
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Pete (support) ---
+Tracking updates can lag by a day or two with this carrier. I've resent the confirmation email for ORD-37125 to the address on file. Our warehouse shows ORD-37125 left on schedule. Thanks for reaching out, and sorry for the trouble.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Felix Wagner ---
+My earlier order ORD-47988 arrived fine, no complaints there. The box for ORD-81122 was a bit crushed but the contents were fine. I'm happy to send screenshots if that helps. Is there a way to combine loyalty points from ORD-37125 with my next purchase?
+
+Thanks,
+Felix Wagner
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Pete (support) ---
+I can see all the orders on your account, including ORD-37125. For ORD-37125, the return window is 30 days from delivery. Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-47988 left on schedule.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

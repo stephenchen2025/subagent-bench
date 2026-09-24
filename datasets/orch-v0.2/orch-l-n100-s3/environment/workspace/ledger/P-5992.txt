@@ -1,0 +1,10 @@
+Ledger page P-5992
+
+account      amount   see page
+Nakamura        +32   P-2267
+Xu             +157   P-2010
+Silva            -3   P-4722
+Moreau         -153   P-3860
+Weber          -727   P-9154
+
+Follow the debit belonging to the account that comes last alphabetically.

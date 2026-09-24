@@ -1,0 +1,10 @@
+Ledger page P-5136
+
+account      amount   see page
+Umar           +843   P-9680
+Young          +640   P-3340
+Castillo       -160   P-7339
+Baker          -425   P-6953
+Dunn           -533   P-9196
+
+Follow the entry whose amount is closest to zero.

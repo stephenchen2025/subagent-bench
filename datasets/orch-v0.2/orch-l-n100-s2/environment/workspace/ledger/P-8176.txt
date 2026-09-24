@@ -1,0 +1,10 @@
+Ledger page P-8176
+
+account      amount   see page
+Abbott          +49   P-5886
+Dunn           +496   P-5626
+Xu             +463   P-9675
+Vance          -603   P-1507
+Young          -659   P-5618
+
+Follow the debit belonging to the account that comes last alphabetically.

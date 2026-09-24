@@ -1,0 +1,10 @@
+Ledger page P-7664
+
+account      amount   see page
+Xu             -524   P-9056
+Young          +635   P-9689
+Silva          +288   P-8335
+Castillo        +80   P-4722
+Osei           -155   P-9099
+
+Follow the entry with the largest credit.

@@ -1,0 +1,11 @@
+Ledger page P-9761
+
+account      amount   see page
+Abbott          -52   P-1387
+Weber          -783   P-1773
+Kowalski       +295   P-3375
+Vance          +349   P-9408
+Baker          -391   P-4197
+Eriksen        -440   P-4306
+
+Follow the entry with the second-largest amount.

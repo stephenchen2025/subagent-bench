@@ -1,0 +1,12 @@
+Ledger page P-3460
+
+account      amount   see page
+Grant          +848   P-4872
+Quinn          -344   P-8121
+Zhou           +368   P-5813
+Castillo        +41   P-5460
+Weber          -550   P-8463
+Dunn            -98   P-6610
+Osei           -380   P-6361
+
+Follow the credit belonging to the account that comes first alphabetically.

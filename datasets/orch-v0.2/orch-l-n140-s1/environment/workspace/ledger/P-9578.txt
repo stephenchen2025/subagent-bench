@@ -1,0 +1,12 @@
+Ledger page P-9578
+
+account      amount   see page
+Fofana         +166   P-2530
+Nakamura       +304   P-9105
+Baker          +474   P-1021
+Castillo       +857   P-5927
+Xu             -292   P-1903
+Hughes          +19   P-2067
+Quinn          +277   P-9655
+
+Follow the debit belonging to the account that comes last alphabetically.

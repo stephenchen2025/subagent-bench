@@ -1,0 +1,12 @@
+Ledger page P-2263
+
+account      amount   see page
+Zhou           -417   P-7047
+Park           +863   P-9863
+Weber          -189   P-3733
+Osei           -610   P-4062
+Vance          -255   P-6901
+Dunn            +86   P-2566
+Umar           +656   P-5120
+
+Follow the entry with the second-largest amount.

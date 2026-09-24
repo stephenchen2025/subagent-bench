@@ -1,0 +1,11 @@
+Ledger page P-2533
+
+account      amount   see page
+Park           +715   P-3367
+Silva          -112   P-1387
+Kowalski        -43   P-1648
+Grant          -771   P-9193
+Xu             -243   P-6783
+Weber          -360   P-1991
+
+Follow the entry with the second-largest amount.

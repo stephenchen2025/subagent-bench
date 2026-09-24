@@ -1,0 +1,10 @@
+Ledger page P-3780
+
+account      amount   see page
+Young          -477   P-7542
+Moreau         -769   P-5027
+Umar           +661   P-4287
+Abbott         -525   P-5824
+Lambert        -748   P-3758
+
+Follow the debit belonging to the account that comes last alphabetically.

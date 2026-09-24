@@ -1,0 +1,11 @@
+Ledger page P-2663
+
+account      amount   see page
+Park            +51   P-9689
+Eriksen        +791   P-3574
+Tanaka         -769   P-6018
+Silva          +576   P-6945
+Quinn          +208   P-3270
+Osei           -354   P-4226
+
+Follow the entry with the second-largest amount.

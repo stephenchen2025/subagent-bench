@@ -1,0 +1,10 @@
+Ledger page P-1117
+
+account      amount   see page
+Osei           +494   P-8800
+Xu              -18   P-8192
+Moreau         +418   P-4240
+Vance          -886   P-4260
+Rahman         -194   P-4738
+
+Follow the entry whose amount is closest to zero.

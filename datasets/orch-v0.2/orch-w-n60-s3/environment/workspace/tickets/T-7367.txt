@@ -1,0 +1,58 @@
+Ticket T-7367
+Customer: Noah Fischer
+Orders on file: ORD-26989, ORD-86097, ORD-90965, ORD-87271
+Opened: 2026-08-08 via email
+
+Order details:
+ORD-26989  placed 2026-03-17  status: in transit  total: $453.35
+  payment method: card ending 9304  ship to: 759 Cedar Lane
+  - bike light set x1
+  - microfiber cloth x1
+  - replacement filter cartridge, 3-pack x2
+  - extended warranty, 2 years x2
+  - spare battery pack x2
+ORD-86097  placed 2026-02-08  status: label created  total: $307.98
+  payment method: card ending 5608  ship to: 419 Cedar Ave
+  - yoga mat x1
+  - replacement filter cartridge, 3-pack x3
+  - USB-C charging cable (2m) x2
+  - microfiber cloth x3
+ORD-90965  placed 2026-04-19  status: in transit  total: $21.04
+  payment method: card ending 7317  ship to: 70 Oak Rd
+  - yoga mat x1
+  - travel pouch x1
+  - stainless water bottle, 750ml x2
+ORD-87271  placed 2026-06-11  status: delivered  total: $354.09
+  payment method: card ending 5738  ship to: 989 Cedar Lane
+  - yoga mat x1
+  - stainless water bottle, 750ml x2
+  - spare battery pack x3
+  - USB-C charging cable (2m) x3
+  - merino socks, size M x2
+
+--- message 1 from Noah Fischer ---
+How do I reset my password? The reset link keeps expiring. Tracking for ORD-87271 hasn't updated since Tuesday. Your app logged me out twice while I was looking at this, which didn't help. I've been a customer for a few years and usually everything goes smoothly.
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Marcus (support) ---
+Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-90965 to the address on file. Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-87271, you can download it from the Orders page.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Noah Fischer ---
+Your app logged me out twice while I was looking at this, which didn't help. The confirmation email for ORD-87271 went to my spam folder, so I only just saw it. The camping stove itself is great, for what it's worth. The box for ORD-90965 was a bit crushed but the contents were fine.
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Marcus (support) ---
+Thanks for reaching out, and sorry for the trouble. I've updated your shipping address on file. Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

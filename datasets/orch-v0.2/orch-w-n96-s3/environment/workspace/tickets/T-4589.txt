@@ -1,0 +1,91 @@
+Ticket T-4589
+Customer: Amara Nwosu
+Orders on file: ORD-82115, ORD-62388, ORD-24064, ORD-62695
+Opened: 2026-04-15 via web form
+
+Order details:
+ORD-82115  placed 2026-02-21  status: delivered  total: $90.40
+  payment method: card ending 9755  ship to: 425 Harbor Rd
+  - noise-cancelling headphones x1
+  - carabiner set x2
+  - gift wrap x1
+  - replacement filter cartridge, 3-pack x3
+ORD-62388  placed 2026-04-05  status: delivered  total: $32.25
+  payment method: card ending 3105  ship to: 843 Mill St
+  - bike light set x1
+  - gift wrap x2
+  - microfiber cloth x1
+  - carabiner set x3
+ORD-24064  placed 2026-03-26  status: in transit  total: $60.16
+  payment method: card ending 2899  ship to: 696 Mill Lane
+  - camping stove x1
+  - USB-C charging cable (2m) x2
+  - carabiner set x2
+ORD-62695  placed 2026-08-16  status: label created  total: $355.82
+  payment method: card ending 9422  ship to: 632 Cedar Rd
+  - wool blanket x1
+  - travel pouch x1
+  - microfiber cloth x3
+  - USB-C charging cable (2m) x1
+  - merino socks, size M x2
+
+--- message 1 from Amara Nwosu ---
+The camping stove from ORD-62388 arrived with a scratch on the side. Can I get a replacement? I'd rather not call; the hold times last time were very long. Your app logged me out twice while I was looking at this, which didn't help. Tracking for ORD-24064 hasn't updated since Tuesday.
+
+Amara Nwosu
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Dana (support) ---
+I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering. For ORD-82115, the return window is 30 days from delivery.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Amara Nwosu ---
+The checkout page for ORD-62695 timed out. If I try to pay again, will I end up being charged twice? I tried the chat widget first but it kept disconnecting. Is there a way to combine loyalty points from ORD-82115 with my next purchase?
+
+Thanks,
+Amara Nwosu
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Dana (support) ---
+No, you won't be charged twice: the first attempt for ORD-62695 failed before capture, so retrying is safe. Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-24064.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Amara Nwosu ---
+I'd rather not call; the hold times last time were very long. My partner placed ORD-62388 on our shared account, in case that matters. My earlier order ORD-24064 arrived fine, no complaints there.
+
+Best regards,
+Amara Nwosu
+
+--- message 6 from Amara Nwosu ---
+Could you also tell me whether ORD-82115 qualifies for the extended return window? The box for ORD-82115 was a bit crushed but the contents were fine. I've been a customer for a few years and usually everything goes smoothly. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Amara Nwosu
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Dana (support) ---
+I've resent the confirmation email for ORD-82115 to the address on file. If you need an invoice for ORD-62388, you can download it from the Orders page. Our warehouse shows ORD-62388 left on schedule. I can see all the orders on your account, including ORD-24064.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Amara Nwosu ---
+I tried the chat widget first but it kept disconnecting. My partner placed ORD-24064 on our shared account, in case that matters. My earlier order ORD-24064 arrived fine, no complaints there. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Amara Nwosu
+Sent from my phone -- please excuse typos.
+
+--- message 9 from Dana (support) ---
+Let me know if anything else looks off. I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-82115 left on schedule.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

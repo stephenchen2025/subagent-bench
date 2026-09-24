@@ -1,0 +1,12 @@
+Ledger page P-5753
+
+account      amount   see page
+Castillo        -70   P-5225
+Weber          +356   P-8300
+Nakamura       +171   P-3247
+Vance          +239   P-2413
+Quinn          +716   P-8845
+Jensen         +817   P-3108
+Baker          -879   P-8522
+
+Follow the debit belonging to the account that comes last alphabetically.

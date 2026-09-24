@@ -1,0 +1,70 @@
+Ticket T-3374
+Customer: Diego Alvarez
+Orders on file: ORD-68183, ORD-17105, ORD-42814, ORD-80482
+Opened: 2026-08-27 via email
+
+Order details:
+ORD-68183  placed 2026-01-14  status: delivered  total: $64.85
+  payment method: card ending 3785  ship to: 196 Harbor St
+  - standing desk x1
+  - replacement filter cartridge, 3-pack x3
+  - microfiber cloth x1
+  - extended warranty, 2 years x2
+  - spare battery pack x2
+ORD-17105  placed 2026-08-03  status: label created  total: $390.33
+  payment method: card ending 4168  ship to: 95 Cedar St
+  - blender x1
+  - spare battery pack x3
+  - stainless water bottle, 750ml x2
+  - gift wrap x2
+ORD-42814  placed 2026-06-28  status: delivered  total: $202.28
+  payment method: card ending 5761  ship to: 355 Cedar Ave
+  - noise-cancelling headphones x1
+  - replacement filter cartridge, 3-pack x2
+  - microfiber cloth x2
+ORD-80482  placed 2026-02-28  status: delivered  total: $82.17
+  payment method: card ending 7163  ship to: 637 Harbor Rd
+  - desk lamp x1
+  - extended warranty, 2 years x3
+  - carabiner set x3
+  - microfiber cloth x2
+
+--- message 1 from Diego Alvarez ---
+I need to change the delivery address for ORD-17105 before it ships. The box for ORD-17105 was a bit crushed but the contents were fine. My earlier order ORD-68183 arrived fine, no complaints there. I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Diego Alvarez
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Pete (support) ---
+I've added a note to your account so the next agent has the context. I can see all the orders on your account, including ORD-80482. Our warehouse shows ORD-80482 left on schedule. Thanks for reaching out, and sorry for the trouble.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Diego Alvarez ---
+My earlier order ORD-80482 arrived fine, no complaints there. The confirmation email for ORD-68183 went to my spam folder, so I only just saw it. The noise-cancelling headphones itself is great, for what it's worth. I changed my shipping address last month, so please double-check you have the new one.
+
+Diego Alvarez
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Pete (support) ---
+I can see all the orders on your account, including ORD-17105. I've added a note to your account so the next agent has the context. Our warehouse shows ORD-17105 left on schedule. I've updated your shipping address on file.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Diego Alvarez ---
+I tried the chat widget first but it kept disconnecting. The box for ORD-17105 was a bit crushed but the contents were fine. I'd rather not call; the hold times last time were very long. Tracking for ORD-17105 hasn't updated since Tuesday.
+
+Best regards,
+Diego Alvarez
+
+--- message 6 from Pete (support) ---
+I can see all the orders on your account, including ORD-80482. If you need an invoice for ORD-68183, you can download it from the Orders page. Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

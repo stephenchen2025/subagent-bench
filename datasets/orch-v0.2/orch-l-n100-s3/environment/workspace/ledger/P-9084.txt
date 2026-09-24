@@ -1,0 +1,11 @@
+Ledger page P-9084
+
+account      amount   see page
+Abbott         -720   P-2973
+Rahman         +187   P-1783
+Fofana         -755   P-9002
+Lambert        +386   P-5365
+Kowalski       -282   P-4154
+Ibarra         -767   P-1317
+
+Follow the credit belonging to the account that comes first alphabetically.

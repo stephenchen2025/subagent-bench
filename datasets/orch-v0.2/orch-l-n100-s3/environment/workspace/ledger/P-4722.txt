@@ -1,0 +1,11 @@
+Ledger page P-4722
+
+account      amount   see page
+Eriksen        -698   P-2188
+Quinn          +566   P-6298
+Jensen         -574   P-7576
+Castillo       -479   P-4261
+Ibarra         -512   P-6700
+Lambert        +486   P-5363
+
+Follow the entry with the second-largest amount.

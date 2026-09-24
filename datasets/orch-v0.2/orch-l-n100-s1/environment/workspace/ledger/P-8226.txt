@@ -1,0 +1,12 @@
+Ledger page P-8226
+
+account      amount   see page
+Eriksen        +401   P-9385
+Jensen         +267   P-9804
+Xu             +134   P-4481
+Dunn           +279   P-6296
+Grant          +565   P-1857
+Rahman         -417   P-9320
+Osei           +651   P-6283
+
+Follow the entry with the largest debit (the most negative amount).

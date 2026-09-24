@@ -1,0 +1,12 @@
+Ledger page P-9906
+
+account      amount   see page
+Castillo        +23   P-4587
+Abbott         +693   P-1727
+Park           +157   P-4657
+Tanaka         +355   P-6202
+Jensen         -770   P-7635
+Moreau         +162   P-6037
+Fofana         +878   P-6328
+
+Follow the credit belonging to the account that comes first alphabetically.

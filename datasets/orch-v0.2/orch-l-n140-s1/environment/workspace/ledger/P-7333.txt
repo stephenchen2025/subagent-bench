@@ -1,0 +1,11 @@
+Ledger page P-7333
+
+account      amount   see page
+Quinn          -717   P-6218
+Umar           -200   P-6183
+Baker          +145   P-4730
+Weber          -214   P-6691
+Lambert        +408   P-9443
+Hughes         -304   P-6876
+
+Follow the entry whose amount is closest to zero.

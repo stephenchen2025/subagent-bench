@@ -1,0 +1,11 @@
+Ledger page P-8170
+
+account      amount   see page
+Osei           +463   P-3441
+Nakamura       -395   P-8335
+Weber          -374   P-9426
+Hughes         +475   P-9081
+Zhou           +363   P-5363
+Rahman         +592   P-5211
+
+Follow the entry with the second-largest amount.

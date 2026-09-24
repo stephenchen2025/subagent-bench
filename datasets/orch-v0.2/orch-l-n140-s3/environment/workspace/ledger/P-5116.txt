@@ -1,0 +1,11 @@
+Ledger page P-5116
+
+account      amount   see page
+Nakamura       +349   P-2547
+Quinn          +281   P-4593
+Grant          +300   P-8027
+Park             -8   P-3306
+Osei           +306   P-9705
+Ibarra         +385   P-1375
+
+Follow the credit belonging to the account that comes first alphabetically.

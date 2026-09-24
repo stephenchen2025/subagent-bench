@@ -1,0 +1,10 @@
+Ledger page P-5084
+
+account      amount   see page
+Hughes          +47   P-6954
+Lambert        -825   P-1462
+Xu             +510   P-4151
+Moreau         -465   P-1647
+Jensen         -745   P-3278
+
+Follow the entry with the largest credit.

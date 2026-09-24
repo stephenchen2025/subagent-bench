@@ -1,0 +1,88 @@
+Ticket T-6326
+Customer: Liam O'Neill
+Orders on file: ORD-39333, ORD-44257, ORD-16223, ORD-28101
+Opened: 2026-05-19 via web form
+
+Order details:
+ORD-39333  placed 2026-02-07  status: label created  total: $351.02
+  payment method: card ending 1293  ship to: 817 Oak Lane
+  - desk lamp x1
+  - gift wrap x3
+  - travel pouch x3
+ORD-44257  placed 2026-04-13  status: returned  total: $128.82
+  payment method: card ending 3832  ship to: 83 Oak Ave
+  - water filter pitcher x1
+  - USB-C charging cable (2m) x1
+  - travel pouch x2
+  - carabiner set x3
+ORD-16223  placed 2026-08-12  status: delivered  total: $156.56
+  payment method: card ending 4988  ship to: 211 Oak St
+  - water filter pitcher x1
+  - microfiber cloth x1
+  - gift wrap x2
+ORD-28101  placed 2026-02-09  status: delivered  total: $163.42
+  payment method: card ending 2755  ship to: 583 Elm St
+  - rain jacket x1
+  - USB-C charging cable (2m) x1
+  - stainless water bottle, 750ml x2
+  - microfiber cloth x2
+
+--- message 1 from Liam O'Neill ---
+Where is my refund for ORD-39333? You said 5 days and it has been 8. The bike light set itself is great, for what it's worth. I changed my shipping address last month, so please double-check you have the new one. I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Liam O'Neill
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Keiko (support) ---
+Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble. I've updated your shipping address on file. I've added a note to your account so the next agent has the context.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Liam O'Neill ---
+Something looks off with ORD-44257: I see what might be a second payment. The box for ORD-39333 was a bit crushed but the contents were fine. I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Liam O'Neill
+
+--- message 4 from Liam O'Neill ---
+Just checked again -- both charges for ORD-44257 are settled now, not pending. Is there a way to combine loyalty points from ORD-16223 with my next purchase? I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Liam O'Neill
+Sent from my phone -- please excuse typos.
+
+--- message 5 from Keiko (support) ---
+I've added a note to your account so the next agent has the context. Let me know if anything else looks off. Loyalty points post about a week after an order is delivered.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Keiko (support) ---
+I've checked with our payments team: both captures for ORD-44257 settled, so you were genuinely charged twice. I've issued a refund for the second one; it should show within 3-5 business days. Loyalty points post about a week after an order is delivered. Let me know if anything else looks off.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Liam O'Neill ---
+Tracking for ORD-28101 hasn't updated since Tuesday. I've been a customer for a few years and usually everything goes smoothly. Could you also tell me whether ORD-28101 qualifies for the extended return window?
+
+Best regards,
+Liam O'Neill
+
+--- message 8 from Liam O'Neill ---
+Could you also tell me whether ORD-28101 qualifies for the extended return window? I'd rather not call; the hold times last time were very long. I'm happy to send screenshots if that helps. Is there a way to combine loyalty points from ORD-39333 with my next purchase?
+
+Liam O'Neill
+(Please reply by email rather than phone if possible.)
+
+--- message 9 from Keiko (support) ---
+Tracking updates can lag by a day or two with this carrier. Loyalty points post about a week after an order is delivered. I've updated your shipping address on file. Our warehouse shows ORD-16223 left on schedule.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

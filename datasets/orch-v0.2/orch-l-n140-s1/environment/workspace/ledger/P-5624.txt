@@ -1,0 +1,10 @@
+Ledger page P-5624
+
+account      amount   see page
+Lambert        +587   P-5879
+Xu             -428   P-5028
+Jensen         +508   P-1679
+Eriksen        +407   P-4085
+Kowalski       +219   P-7378
+
+Follow the entry with the largest credit.

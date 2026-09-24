@@ -1,0 +1,11 @@
+Ledger page P-6928
+
+account      amount   see page
+Hughes         -533   P-2164
+Umar           -262   P-5116
+Tanaka         +839   P-4991
+Grant          +115   P-8308
+Kowalski       +749   P-3203
+Jensen         -212   P-4017
+
+Follow the entry with the second-largest amount.

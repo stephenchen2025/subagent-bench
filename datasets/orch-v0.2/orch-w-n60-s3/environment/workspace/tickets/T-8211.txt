@@ -1,0 +1,94 @@
+Ticket T-8211
+Customer: Ben Carter
+Orders on file: ORD-40945, ORD-82003, ORD-83489, ORD-47515
+Opened: 2026-02-26 via chat transcript
+
+Order details:
+ORD-40945  placed 2026-01-04  status: label created  total: $407.23
+  payment method: card ending 6216  ship to: 837 Mill Ave
+  - standing desk x1
+  - merino socks, size M x2
+  - stainless water bottle, 750ml x3
+  - spare battery pack x1
+  - USB-C charging cable (2m) x2
+ORD-82003  placed 2026-03-06  status: delivered  total: $387.78
+  payment method: card ending 9810  ship to: 923 Oak Lane
+  - trail running shoes x1
+  - gift wrap x2
+  - microfiber cloth x1
+  - stainless water bottle, 750ml x3
+  - merino socks, size M x3
+ORD-83489  placed 2026-04-22  status: delivered  total: $109.43
+  payment method: card ending 7298  ship to: 66 Mill Rd
+  - standing desk x1
+  - carabiner set x3
+  - extended warranty, 2 years x3
+  - merino socks, size M x2
+ORD-47515  placed 2026-06-12  status: in transit  total: $380.20
+  payment method: card ending 2363  ship to: 55 Harbor Ave
+  - standing desk x1
+  - carabiner set x3
+  - replacement filter cartridge, 3-pack x3
+  - USB-C charging cable (2m) x2
+  - travel pouch x2
+
+--- message 1 from Ben Carter ---
+Can I use a gift card on ORD-83489, or is it too late? I'd rather not call; the hold times last time were very long. Could you also tell me whether ORD-40945 qualifies for the extended return window? I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Ben Carter
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Marcus (support) ---
+Our warehouse shows ORD-83489 left on schedule. If you need an invoice for ORD-83489, you can download it from the Orders page. I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-83489 to the address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ben Carter ---
+My card was charged two times for order ORD-47515. Tracking for ORD-40945 hasn't updated since Tuesday. Is there a way to combine loyalty points from ORD-82003 with my next purchase?
+
+Thanks,
+Ben Carter
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Marcus (support) ---
+Our warehouse shows ORD-83489 left on schedule. I can see all the orders on your account, including ORD-82003. I've updated your shipping address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Marcus (support) ---
+Good news: only one payment for ORD-47515 ever settled. The other entry was a temporary hold and your bank has dropped it. For ORD-40945, the return window is 30 days from delivery. I can see all the orders on your account, including ORD-40945.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Ben Carter ---
+Thanks, I see it now: one payment for ORD-47515, the other one disappeared. All good. My earlier order ORD-40945 arrived fine, no complaints there. Is there a way to combine loyalty points from ORD-82003 with my next purchase?
+
+Best regards,
+Ben Carter
+
+--- message 7 from Marcus (support) ---
+I've resent the confirmation email for ORD-82003 to the address on file. For ORD-40945, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Ben Carter ---
+The box for ORD-40945 was a bit crushed but the contents were fine. I changed my shipping address last month, so please double-check you have the new one. The blender itself is great, for what it's worth. My partner placed ORD-40945 on our shared account, in case that matters.
+
+Best regards,
+Ben Carter
+
+--- message 9 from Marcus (support) ---
+Tracking updates can lag by a day or two with this carrier. Loyalty points post about a week after an order is delivered. If you need an invoice for ORD-83489, you can download it from the Orders page. I've resent the confirmation email for ORD-83489 to the address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

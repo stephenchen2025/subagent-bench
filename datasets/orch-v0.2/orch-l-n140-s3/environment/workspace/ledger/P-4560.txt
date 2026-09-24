@@ -1,0 +1,10 @@
+Ledger page P-4560
+
+account      amount   see page
+Umar           -721   P-3964
+Ibarra          +40   P-1487
+Moreau         +318   P-6461
+Zhou           +110   P-4490
+Fofana         -746   P-8653
+
+Follow the entry with the second-largest amount.

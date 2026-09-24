@@ -1,0 +1,11 @@
+Ledger page P-3654
+
+account      amount   see page
+Hughes         +369   P-1247
+Umar           -277   P-5535
+Osei           -644   P-2572
+Rahman         +354   P-4680
+Dunn           +554   P-2338
+Grant          +851   P-6757
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,11 @@
+Ledger page P-8874
+
+account      amount   see page
+Fofana         +797   P-7487
+Moreau         -353   P-4913
+Osei           -163   P-2630
+Lambert        -862   P-8213
+Nakamura       -338   P-1348
+Quinn          -140   P-8481
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,12 @@
+Ledger page P-5336
+
+account      amount   see page
+Young          +225   P-7546
+Park           -268   P-2280
+Umar           -350   P-2646
+Ibarra         +865   P-2861
+Castillo       +651   P-7402
+Tanaka         +860   P-3148
+Dunn           -470   P-4102
+
+Follow the entry with the largest credit.

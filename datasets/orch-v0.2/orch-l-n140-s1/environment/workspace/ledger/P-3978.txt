@@ -1,0 +1,11 @@
+Ledger page P-3978
+
+account      amount   see page
+Zhou           -703   P-2606
+Eriksen        +598   P-8392
+Baker          +579   P-4349
+Moreau          -21   P-6988
+Ibarra         -194   P-9351
+Umar           -862   P-1630
+
+Follow the entry whose amount is closest to zero.

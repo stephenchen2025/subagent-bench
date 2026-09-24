@@ -1,0 +1,12 @@
+Ledger page P-4720
+
+account      amount   see page
+Grant          -833   P-2054
+Abbott         -374   P-2054
+Young          -697   P-9456
+Silva          -566   P-1151
+Hughes         +393   P-6427
+Lambert        +440   P-6863
+Vance           +69   P-8124
+
+Follow the entry with the largest debit (the most negative amount).

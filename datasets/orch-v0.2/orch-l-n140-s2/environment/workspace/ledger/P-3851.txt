@@ -1,0 +1,10 @@
+Ledger page P-3851
+
+account      amount   see page
+Kowalski       -513   P-7710
+Osei           -229   P-8473
+Weber           -66   P-2806
+Jensen         -630   P-7547
+Nakamura       +669   P-7098
+
+Follow the credit belonging to the account that comes first alphabetically.

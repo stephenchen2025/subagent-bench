@@ -1,0 +1,10 @@
+Ledger page P-4306
+
+account      amount   see page
+Baker          +546   P-9761
+Vance          -698   P-1930
+Weber          +264   P-5445
+Zhou           -547   P-2768
+Eriksen        -715   P-6208
+
+Follow the entry whose amount is closest to zero.

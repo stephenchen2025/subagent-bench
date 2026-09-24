@@ -1,0 +1,81 @@
+Ticket T-6221
+Customer: Leila Haddad
+Orders on file: ORD-66509, ORD-69904, ORD-77519, ORD-35100
+Opened: 2026-05-22 via chat transcript
+
+Order details:
+ORD-66509  placed 2026-07-01  status: returned  total: $33.57
+  payment method: card ending 9328  ship to: 258 Mill Ave
+  - cast iron skillet x1
+  - microfiber cloth x3
+  - spare battery pack x3
+ORD-69904  placed 2026-02-28  status: label created  total: $134.58
+  payment method: card ending 6569  ship to: 356 Elm St
+  - desk lamp x1
+  - carabiner set x2
+  - gift wrap x2
+  - USB-C charging cable (2m) x2
+  - merino socks, size M x2
+ORD-77519  placed 2026-08-28  status: delivered  total: $400.01
+  payment method: card ending 1707  ship to: 638 Oak Ave
+  - mechanical keyboard x1
+  - extended warranty, 2 years x3
+  - USB-C charging cable (2m) x3
+  - gift wrap x3
+ORD-35100  placed 2026-04-05  status: delivered  total: $460.01
+  payment method: card ending 7359  ship to: 335 Cedar Lane
+  - rain jacket x1
+  - spare battery pack x3
+  - gift wrap x2
+
+--- message 1 from Leila Haddad ---
+How do I reset my password? The reset link keeps expiring. I changed my shipping address last month, so please double-check you have the new one. Tracking for ORD-35100 hasn't updated since Tuesday. Could you also tell me whether ORD-35100 qualifies for the extended return window?
+
+Leila Haddad
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Keiko (support) ---
+Let me know if anything else looks off. Loyalty points post about a week after an order is delivered. Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-35100, you can download it from the Orders page.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Leila Haddad ---
+There are two identical debits on my statement and both reference ORD-66509. I'd rather not call; the hold times last time were very long. Is there a way to combine loyalty points from ORD-77519 with my next purchase?
+
+Leila Haddad
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Keiko (support) ---
+If you need an invoice for ORD-77519, you can download it from the Orders page. Loyalty points post about a week after an order is delivered. Screenshots aren't necessary, but thank you for offering.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Leila Haddad ---
+I tried the chat widget first but it kept disconnecting. My partner placed ORD-35100 on our shared account, in case that matters. I've been a customer for a few years and usually everything goes smoothly. The confirmation email for ORD-35100 went to my spam folder, so I only just saw it.
+
+Best regards,
+Leila Haddad
+
+--- message 6 from Keiko (support) ---
+Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-77519 to the address on file.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Leila Haddad ---
+I tried the chat widget first but it kept disconnecting. The confirmation email for ORD-69904 went to my spam folder, so I only just saw it. I'm travelling next week, so email is the best way to reach me. I'd rather not call; the hold times last time were very long.
+
+Leila Haddad
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Keiko (support) ---
+For ORD-77519, the return window is 30 days from delivery. I've resent the confirmation email for ORD-77519 to the address on file. Let me know if anything else looks off. Our warehouse shows ORD-69904 left on schedule.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,11 @@
+Ledger page P-4528
+
+account      amount   see page
+Nakamura       -335   P-4623
+Silva          -179   P-3960
+Vance          -881   P-5753
+Moreau         -107   P-8677
+Hughes         +735   P-5073
+Fofana         +427   P-8385
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,11 @@
+Ledger page P-7882
+
+account      amount   see page
+Dunn           +561   P-3170
+Kowalski       -591   P-7911
+Xu             +461   P-9726
+Abbott         -782   P-3583
+Castillo       -353   P-4852
+Eriksen        -689   P-5992
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,12 @@
+Ledger page P-6472
+
+account      amount   see page
+Moreau         -600   P-8318
+Park           +562   P-8823
+Kowalski       -414   P-7547
+Quinn          -574   P-1237
+Fofana         -313   P-4307
+Castillo       -781   P-6284
+Silva          -389   P-2814
+
+Follow the entry with the second-largest amount.

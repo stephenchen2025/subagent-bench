@@ -1,0 +1,11 @@
+Ledger page P-3864
+
+account      amount   see page
+Ibarra         +320   P-9075
+Hughes         -691   P-3362
+Vance          -318   P-8470
+Kowalski       -634   P-7022
+Park            +92   P-2880
+Nakamura       +607   P-2711
+
+Follow the debit belonging to the account that comes last alphabetically.

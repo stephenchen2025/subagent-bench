@@ -1,0 +1,11 @@
+Ledger page P-4937
+
+account      amount   see page
+Umar           -876   P-7317
+Kowalski       -601   P-4213
+Baker           +93   P-1317
+Rahman         +305   P-6833
+Eriksen        +865   P-8762
+Osei           +347   P-1026
+
+Follow the entry with the largest credit.

@@ -1,0 +1,11 @@
+Ledger page P-8934
+
+account      amount   see page
+Jensen         -275   P-8300
+Hughes         -718   P-8023
+Young          -166   P-6032
+Silva          +467   P-2863
+Weber          +833   P-9632
+Rahman         +746   P-7516
+
+Follow the entry whose amount is closest to zero.

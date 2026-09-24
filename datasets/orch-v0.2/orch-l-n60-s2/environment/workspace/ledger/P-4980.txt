@@ -1,0 +1,12 @@
+Ledger page P-4980
+
+account      amount   see page
+Rahman         -659   P-8755
+Osei           -234   P-4737
+Silva           -77   P-7164
+Park           +701   P-3368
+Castillo       -374   P-3340
+Abbott         +873   P-1781
+Nakamura       +304   P-5003
+
+Follow the entry with the second-largest amount.

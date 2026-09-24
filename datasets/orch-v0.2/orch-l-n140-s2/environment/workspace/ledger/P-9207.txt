@@ -1,0 +1,12 @@
+Ledger page P-9207
+
+account      amount   see page
+Hughes         -572   P-8427
+Rahman          +14   P-3548
+Silva          -483   P-5824
+Ibarra         -634   P-5337
+Tanaka         +791   P-3800
+Fofana         +833   P-1422
+Weber          +120   P-4944
+
+Follow the entry with the largest credit.

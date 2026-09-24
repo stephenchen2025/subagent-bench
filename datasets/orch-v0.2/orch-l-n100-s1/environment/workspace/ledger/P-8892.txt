@@ -1,0 +1,11 @@
+Ledger page P-8892
+
+account      amount   see page
+Eriksen        +868   P-2039
+Tanaka         -592   P-9385
+Silva          -257   P-5820
+Nakamura       +181   P-5619
+Grant          +242   P-3877
+Umar           +847   P-8170
+
+Follow the entry with the largest debit (the most negative amount).

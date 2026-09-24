@@ -1,0 +1,10 @@
+Ledger page P-4151
+
+account      amount   see page
+Grant          -893   P-3098
+Fofana         +296   P-4202
+Baker          -859   P-6752
+Silva          -772   P-3828
+Moreau         -784   P-6293
+
+Follow the entry with the largest debit (the most negative amount).

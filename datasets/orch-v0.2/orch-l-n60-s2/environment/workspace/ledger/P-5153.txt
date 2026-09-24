@@ -1,0 +1,11 @@
+Ledger page P-5153
+
+account      amount   see page
+Silva          -137   P-4182
+Young          -816   P-2643
+Zhou           -246   P-3985
+Park           -311   P-8948
+Dunn           +431   P-8971
+Weber          -342   P-4918
+
+Follow the entry with the largest credit.

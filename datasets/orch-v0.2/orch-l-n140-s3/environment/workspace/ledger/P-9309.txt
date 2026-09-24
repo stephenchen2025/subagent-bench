@@ -1,0 +1,10 @@
+Ledger page P-9309
+
+account      amount   see page
+Dunn           +370   P-4925
+Lambert        -274   P-9951
+Weber          +155   P-6221
+Grant          +759   P-6859
+Baker           +94   P-3408
+
+Follow the entry with the largest credit.

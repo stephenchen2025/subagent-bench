@@ -1,0 +1,10 @@
+Ledger page P-7473
+
+account      amount   see page
+Baker          +502   P-9920
+Jensen         -821   P-2425
+Nakamura       -182   P-6706
+Vance          -112   P-8035
+Dunn           +618   P-1122
+
+Follow the entry with the largest credit.

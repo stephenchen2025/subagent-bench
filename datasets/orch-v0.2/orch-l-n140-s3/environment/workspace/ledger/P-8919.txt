@@ -1,0 +1,11 @@
+Ledger page P-8919
+
+account      amount   see page
+Baker          +857   P-5676
+Grant           -50   P-6482
+Vance          +486   P-7193
+Lambert        -465   P-6863
+Xu             -749   P-1252
+Moreau         +549   P-1151
+
+Follow the debit belonging to the account that comes last alphabetically.

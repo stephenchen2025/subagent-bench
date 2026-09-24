@@ -1,0 +1,12 @@
+Ledger page P-6234
+
+account      amount   see page
+Grant          +378   P-7713
+Tanaka         -318   P-5705
+Kowalski       -202   P-8023
+Dunn           -551   P-4635
+Moreau         -130   P-8194
+Eriksen        -582   P-9056
+Young          -772   P-6243
+
+Follow the entry with the largest debit (the most negative amount).

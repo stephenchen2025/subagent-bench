@@ -1,0 +1,11 @@
+Ledger page P-2165
+
+account      amount   see page
+Grant           +19   P-5893
+Rahman         -296   P-2165
+Silva          +247   P-4760
+Moreau         -106   P-2426
+Xu             +125   P-3318
+Kowalski       +421   P-6639
+
+Follow the entry with the largest debit (the most negative amount).

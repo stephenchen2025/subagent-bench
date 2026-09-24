@@ -1,0 +1,11 @@
+Ledger page P-5103
+
+account      amount   see page
+Jensen         +112   P-9770
+Castillo       +588   P-5925
+Tanaka         -109   P-1627
+Weber          -470   P-5070
+Umar           +208   P-3467
+Grant          +447   P-9652
+
+Follow the debit belonging to the account that comes last alphabetically.

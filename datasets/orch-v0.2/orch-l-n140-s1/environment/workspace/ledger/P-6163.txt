@@ -1,0 +1,10 @@
+Ledger page P-6163
+
+account      amount   see page
+Lambert         -82   P-9870
+Ibarra         +202   P-2035
+Young          +485   P-9469
+Quinn          -161   P-8196
+Xu             -466   P-1679
+
+Follow the entry with the second-largest amount.

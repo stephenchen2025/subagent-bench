@@ -1,0 +1,11 @@
+Ledger page P-5438
+
+account      amount   see page
+Umar           +647   P-7862
+Young           +81   P-5093
+Quinn           +11   P-8440
+Moreau         +525   P-3476
+Osei           -394   P-1734
+Abbott         +354   P-4906
+
+Follow the entry with the second-largest amount.

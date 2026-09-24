@@ -1,0 +1,10 @@
+Ledger page P-3721
+
+account      amount   see page
+Castillo       -553   P-3264
+Xu             +513   P-3264
+Umar           +769   P-2919
+Baker          -898   P-3044
+Tanaka         +722   P-5199
+
+Follow the entry with the largest credit.

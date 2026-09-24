@@ -1,0 +1,11 @@
+Ledger page P-5443
+
+account      amount   see page
+Ibarra         +678   P-7987
+Umar           -596   P-8826
+Grant          -607   P-3914
+Moreau         -797   P-8547
+Silva          -861   P-3560
+Abbott         -403   P-9678
+
+Follow the entry with the largest credit.

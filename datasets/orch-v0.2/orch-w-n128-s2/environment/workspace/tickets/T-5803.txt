@@ -1,0 +1,59 @@
+Ticket T-5803
+Customer: Kofi Mensah
+Orders on file: ORD-85447, ORD-73191, ORD-60526, ORD-90563
+Opened: 2026-05-12 via web form
+
+Order details:
+ORD-85447  placed 2026-06-26  status: delivered  total: $212.85
+  payment method: card ending 1623  ship to: 832 Oak Lane
+  - desk lamp x1
+  - travel pouch x3
+  - microfiber cloth x3
+  - USB-C charging cable (2m) x2
+  - gift wrap x3
+ORD-73191  placed 2026-07-07  status: delivered  total: $457.23
+  payment method: card ending 1919  ship to: 493 Mill St
+  - standing desk x1
+  - travel pouch x2
+  - carabiner set x3
+ORD-60526  placed 2026-05-03  status: delivered  total: $330.01
+  payment method: card ending 5266  ship to: 690 Elm Ave
+  - mechanical keyboard x1
+  - travel pouch x3
+  - gift wrap x2
+  - merino socks, size M x2
+  - USB-C charging cable (2m) x2
+ORD-90563  placed 2026-07-08  status: returned  total: $287.49
+  payment method: card ending 5085  ship to: 753 Mill Lane
+  - mechanical keyboard x1
+  - microfiber cloth x1
+  - gift wrap x3
+  - spare battery pack x3
+  - extended warranty, 2 years x1
+
+--- message 1 from Kofi Mensah ---
+The bike light set from ORD-60526 arrived with a scratch on the side. Can I get a replacement? Your app logged me out twice while I was looking at this, which didn't help. The box for ORD-73191 was a bit crushed but the contents were fine. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Kofi Mensah
+
+--- message 2 from Keiko (support) ---
+I've resent the confirmation email for ORD-60526 to the address on file. I've added a note to your account so the next agent has the context. I can see all the orders on your account, including ORD-90563. Thanks for reaching out, and sorry for the trouble.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Kofi Mensah ---
+The confirmation email for ORD-60526 went to my spam folder, so I only just saw it. I'm happy to send screenshots if that helps. Could you also tell me whether ORD-73191 qualifies for the extended return window? I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Kofi Mensah
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Keiko (support) ---
+Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-60526. If you need an invoice for ORD-90563, you can download it from the Orders page. I've resent the confirmation email for ORD-73191 to the address on file.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

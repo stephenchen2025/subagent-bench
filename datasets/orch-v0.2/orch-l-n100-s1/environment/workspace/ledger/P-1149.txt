@@ -1,0 +1,12 @@
+Ledger page P-1149
+
+account      amount   see page
+Kowalski       -380   P-1745
+Silva           -78   P-9719
+Tanaka          -48   P-1525
+Quinn          -852   P-3806
+Jensen         +351   P-8953
+Grant          +577   P-7317
+Ibarra         -397   P-4873
+
+Follow the entry with the largest credit.

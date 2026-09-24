@@ -1,0 +1,11 @@
+Ledger page P-9821
+
+account      amount   see page
+Hughes         -596   P-5782
+Dunn           -617   P-3026
+Vance          -859   P-2603
+Weber           +80   P-2838
+Baker          +609   P-9610
+Osei           +624   P-8163
+
+Follow the debit belonging to the account that comes last alphabetically.

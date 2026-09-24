@@ -1,0 +1,10 @@
+Ledger page P-6667
+
+account      amount   see page
+Vance          -221   P-4381
+Hughes         +717   P-7842
+Umar           -859   P-5721
+Grant          +216   P-8600
+Rahman         -807   P-3740
+
+Follow the entry with the largest debit (the most negative amount).

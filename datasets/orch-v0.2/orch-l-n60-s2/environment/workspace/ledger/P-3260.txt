@@ -1,0 +1,10 @@
+Ledger page P-3260
+
+account      amount   see page
+Osei           +886   P-6962
+Castillo       -306   P-9792
+Umar           +779   P-6734
+Lambert        -411   P-4898
+Jensen         -809   P-9196
+
+Follow the entry whose amount is closest to zero.

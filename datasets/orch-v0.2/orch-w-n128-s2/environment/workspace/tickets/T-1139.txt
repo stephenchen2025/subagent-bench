@@ -1,0 +1,59 @@
+Ticket T-1139
+Customer: Ben Carter
+Orders on file: ORD-48655, ORD-35944, ORD-52708, ORD-52063
+Opened: 2026-08-10 via chat transcript
+
+Order details:
+ORD-48655  placed 2026-01-10  status: label created  total: $331.59
+  payment method: card ending 8109  ship to: 805 Cedar Lane
+  - yoga mat x1
+  - gift wrap x2
+  - microfiber cloth x2
+  - replacement filter cartridge, 3-pack x1
+ORD-35944  placed 2026-04-02  status: delivered  total: $189.09
+  payment method: card ending 8526  ship to: 735 Cedar Lane
+  - camping stove x1
+  - carabiner set x1
+  - replacement filter cartridge, 3-pack x1
+  - microfiber cloth x2
+  - merino socks, size M x1
+ORD-52708  placed 2026-08-10  status: delivered  total: $268.42
+  payment method: card ending 9734  ship to: 320 Elm Rd
+  - water filter pitcher x1
+  - replacement filter cartridge, 3-pack x3
+  - stainless water bottle, 750ml x3
+  - carabiner set x3
+  - microfiber cloth x1
+ORD-52063  placed 2026-06-14  status: returned  total: $121.07
+  payment method: card ending 4588  ship to: 15 Cedar Rd
+  - espresso grinder x1
+  - microfiber cloth x3
+  - spare battery pack x1
+  - replacement filter cartridge, 3-pack x3
+
+--- message 1 from Ben Carter ---
+I'd like to return the desk lamp from ORD-35944; it's the wrong size. Your app logged me out twice while I was looking at this, which didn't help. I've been a customer for a few years and usually everything goes smoothly. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Ben Carter
+
+--- message 2 from Arjun (support) ---
+I can see all the orders on your account, including ORD-35944. If you need an invoice for ORD-35944, you can download it from the Orders page. Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ben Carter ---
+The confirmation email for ORD-35944 went to my spam folder, so I only just saw it. I tried the chat widget first but it kept disconnecting. I'd rather not call; the hold times last time were very long. I'm happy to send screenshots if that helps.
+
+Thanks,
+Ben Carter
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Arjun (support) ---
+I've resent the confirmation email for ORD-52063 to the address on file. I've updated your shipping address on file. I can see all the orders on your account, including ORD-52063. Thanks for reaching out, and sorry for the trouble.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

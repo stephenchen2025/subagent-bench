@@ -1,0 +1,65 @@
+Ticket T-4097
+Customer: Aisha Karim
+Orders on file: ORD-33069, ORD-50924, ORD-22062, ORD-35126
+Opened: 2026-01-07 via chat transcript
+
+Order details:
+ORD-33069  placed 2026-05-21  status: delivered  total: $87.54
+  payment method: card ending 6691  ship to: 73 Cedar Ave
+  - wool blanket x1
+  - replacement filter cartridge, 3-pack x3
+  - merino socks, size M x3
+ORD-50924  placed 2026-07-20  status: delivered  total: $213.56
+  payment method: card ending 7580  ship to: 631 Cedar Rd
+  - noise-cancelling headphones x1
+  - stainless water bottle, 750ml x1
+  - USB-C charging cable (2m) x3
+  - replacement filter cartridge, 3-pack x3
+  - carabiner set x2
+ORD-22062  placed 2026-08-17  status: delivered  total: $379.51
+  payment method: card ending 5928  ship to: 673 Elm Lane
+  - trail running shoes x1
+  - carabiner set x2
+  - microfiber cloth x3
+  - replacement filter cartridge, 3-pack x1
+  - USB-C charging cable (2m) x1
+ORD-35126  placed 2026-04-14  status: returned  total: $342.76
+  payment method: card ending 8042  ship to: 637 Harbor Rd
+  - carry-on suitcase x1
+  - extended warranty, 2 years x3
+  - gift wrap x1
+  - stainless water bottle, 750ml x2
+  - USB-C charging cable (2m) x1
+
+--- message 1 from Aisha Karim ---
+How do I reset my password? The reset link keeps expiring. I've been a customer for a few years and usually everything goes smoothly. I'd rather not call; the hold times last time were very long. Your app logged me out twice while I was looking at this, which didn't help.
+
+Aisha Karim
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Arjun (support) ---
+Let me know if anything else looks off. Tracking updates can lag by a day or two with this carrier. Thanks for reaching out, and sorry for the trouble. I've updated your shipping address on file.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Aisha Karim ---
+Not your fault, but my gym billed me twice this month, which is why I'm nervous about ORD-22062. Everything on your side looks like a single charge, I just wanted to confirm the delivery date. Tracking for ORD-50924 hasn't updated since Tuesday. Is there a way to combine loyalty points from ORD-50924 with my next purchase?
+
+Best regards,
+Aisha Karim
+
+--- message 4 from Aisha Karim ---
+The trail running shoes itself is great, for what it's worth. Could you also tell me whether ORD-35126 qualifies for the extended return window? Is there a way to combine loyalty points from ORD-33069 with my next purchase? My earlier order ORD-35126 arrived fine, no complaints there.
+
+Thanks,
+Aisha Karim
+Sent from my phone -- please excuse typos.
+
+--- message 5 from Arjun (support) ---
+Let me know if anything else looks off. I've updated your shipping address on file. I've added a note to your account so the next agent has the context. Thanks for reaching out, and sorry for the trouble.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

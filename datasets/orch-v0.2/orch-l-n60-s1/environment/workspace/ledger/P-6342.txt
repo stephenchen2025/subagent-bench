@@ -1,0 +1,11 @@
+Ledger page P-6342
+
+account      amount   see page
+Abbott         -398   P-3866
+Young          +581   P-8192
+Park           -656   P-4626
+Eriksen        -682   P-4837
+Silva          -255   P-4366
+Ibarra         -861   P-8643
+
+Follow the entry with the second-largest amount.

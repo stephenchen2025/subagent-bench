@@ -1,0 +1,10 @@
+Ledger page P-5143
+
+account      amount   see page
+Abbott         +808   P-6020
+Quinn          +260   P-2196
+Grant          +813   P-6684
+Zhou           -450   P-9080
+Umar           -284   P-1566
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,10 @@
+Ledger page P-1831
+
+account      amount   see page
+Nakamura       -475   P-6762
+Umar           -539   P-9414
+Moreau         +813   P-2837
+Young           +73   P-6445
+Lambert         -23   P-2994
+
+Follow the entry with the largest credit.

@@ -1,0 +1,99 @@
+Ticket T-5102
+Customer: Avery Lin
+Orders on file: ORD-23783, ORD-33984, ORD-38791, ORD-64214
+Opened: 2026-01-20 via web form
+
+Order details:
+ORD-23783  placed 2026-07-23  status: returned  total: $386.08
+  payment method: card ending 8847  ship to: 733 Cedar Ave
+  - camping stove x1
+  - gift wrap x1
+  - stainless water bottle, 750ml x2
+  - carabiner set x3
+  - microfiber cloth x1
+ORD-33984  placed 2026-05-26  status: delivered  total: $39.45
+  payment method: card ending 1842  ship to: 38 Cedar Lane
+  - carry-on suitcase x1
+  - spare battery pack x1
+  - travel pouch x3
+ORD-38791  placed 2026-07-03  status: label created  total: $132.95
+  payment method: card ending 9846  ship to: 492 Elm Ave
+  - camping stove x1
+  - carabiner set x2
+  - gift wrap x2
+  - stainless water bottle, 750ml x3
+ORD-64214  placed 2026-06-12  status: in transit  total: $153.81
+  payment method: card ending 8272  ship to: 490 Elm Ave
+  - trail running shoes x1
+  - microfiber cloth x1
+  - travel pouch x2
+  - replacement filter cartridge, 3-pack x3
+  - extended warranty, 2 years x1
+
+--- message 1 from Avery Lin ---
+Can I use a gift card on ORD-23783, or is it too late? I'm travelling next week, so email is the best way to reach me. The wool blanket itself is great, for what it's worth. Is there a way to combine loyalty points from ORD-33984 with my next purchase?
+
+Avery Lin
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Marcus (support) ---
+Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier. Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Avery Lin ---
+Something looks off with ORD-38791: I see what might be a second payment. I tried the chat widget first but it kept disconnecting. The confirmation email for ORD-23783 went to my spam folder, so I only just saw it.
+
+Thanks,
+Avery Lin
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Marcus (support) ---
+I've resent the confirmation email for ORD-23783 to the address on file. Loyalty points post about a week after an order is delivered. Screenshots aren't necessary, but thank you for offering.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Avery Lin ---
+Just checked again -- both charges for ORD-38791 are settled now, not pending. Tracking for ORD-33984 hasn't updated since Tuesday. My partner placed ORD-33984 on our shared account, in case that matters.
+
+Avery Lin
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Marcus (support) ---
+Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context. If you need an invoice for ORD-33984, you can download it from the Orders page.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Marcus (support) ---
+I've checked with our payments team: both captures for ORD-38791 settled, so you were genuinely charged twice. I've issued a refund for the second one; it should show within 3-5 business days. I've resent the confirmation email for ORD-23783 to the address on file. For ORD-64214, the return window is 30 days from delivery.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Avery Lin ---
+The confirmation email for ORD-33984 went to my spam folder, so I only just saw it. My partner placed ORD-23783 on our shared account, in case that matters. Is there a way to combine loyalty points from ORD-33984 with my next purchase?
+
+Thanks,
+Avery Lin
+Sent from my phone -- please excuse typos.
+
+--- message 9 from Avery Lin ---
+I'm travelling next week, so email is the best way to reach me. The trail running shoes itself is great, for what it's worth. I'd rather not call; the hold times last time were very long. Is there a way to combine loyalty points from ORD-23783 with my next purchase?
+
+Thanks,
+Avery Lin
+Sent from my phone -- please excuse typos.
+
+--- message 10 from Marcus (support) ---
+I've added a note to your account so the next agent has the context. Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

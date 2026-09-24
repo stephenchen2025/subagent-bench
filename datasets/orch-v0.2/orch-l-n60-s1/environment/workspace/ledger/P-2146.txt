@@ -1,0 +1,10 @@
+Ledger page P-2146
+
+account      amount   see page
+Park           -385   P-7854
+Tanaka         -681   P-5258
+Zhou           -808   P-1237
+Moreau         -146   P-4274
+Rahman         +751   P-6684
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,11 @@
+Ledger page P-4142
+
+account      amount   see page
+Vance          -241   P-8335
+Young          -756   P-6821
+Dunn           +621   P-6560
+Park           -498   P-7290
+Tanaka         +825   P-4722
+Moreau         +298   P-6266
+
+Follow the entry with the largest debit (the most negative amount).

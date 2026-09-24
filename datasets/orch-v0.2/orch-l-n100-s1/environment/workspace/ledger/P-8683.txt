@@ -1,0 +1,12 @@
+Ledger page P-8683
+
+account      amount   see page
+Kowalski       +889   P-3420
+Young          +313   P-9221
+Castillo       +510   P-1351
+Quinn          -102   P-5124
+Lambert        -438   P-1157
+Osei            +69   P-3473
+Grant          +339   P-4610
+
+Follow the entry with the second-largest amount.

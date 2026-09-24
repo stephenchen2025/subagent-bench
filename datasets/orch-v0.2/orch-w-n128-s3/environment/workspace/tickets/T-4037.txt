@@ -1,0 +1,71 @@
+Ticket T-4037
+Customer: Kofi Mensah
+Orders on file: ORD-31645, ORD-52546, ORD-62972, ORD-88649
+Opened: 2026-08-19 via chat transcript
+
+Order details:
+ORD-31645  placed 2026-03-06  status: label created  total: $284.33
+  payment method: card ending 9232  ship to: 380 Oak Lane
+  - mechanical keyboard x1
+  - carabiner set x3
+  - stainless water bottle, 750ml x1
+  - USB-C charging cable (2m) x1
+ORD-52546  placed 2026-02-23  status: delivered  total: $52.20
+  payment method: card ending 8995  ship to: 991 Mill Ave
+  - camping stove x1
+  - carabiner set x2
+  - stainless water bottle, 750ml x3
+  - microfiber cloth x3
+ORD-62972  placed 2026-07-14  status: label created  total: $379.04
+  payment method: card ending 3570  ship to: 880 Harbor Lane
+  - bike light set x1
+  - microfiber cloth x1
+  - stainless water bottle, 750ml x1
+ORD-88649  placed 2026-05-19  status: in transit  total: $295.59
+  payment method: card ending 4059  ship to: 175 Elm St
+  - noise-cancelling headphones x1
+  - extended warranty, 2 years x3
+  - stainless water bottle, 750ml x3
+  - gift wrap x3
+
+--- message 1 from Kofi Mensah ---
+Can I use a gift card on ORD-31645, or is it too late? My earlier order ORD-52546 arrived fine, no complaints there. I've been a customer for a few years and usually everything goes smoothly. I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Kofi Mensah
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Rosa (support) ---
+For ORD-52546, the return window is 30 days from delivery. Our warehouse shows ORD-62972 left on schedule. Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Kofi Mensah ---
+Before I retry the payment on ORD-88649 -- is there any risk of a double charge? I'd rather not call; the hold times last time were very long. The espresso grinder itself is great, for what it's worth.
+
+Thanks,
+Kofi Mensah
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Rosa (support) ---
+No, you won't be charged twice: the first attempt for ORD-88649 failed before capture, so retrying is safe. I've added a note to your account so the next agent has the context. Loyalty points post about a week after an order is delivered.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Kofi Mensah ---
+Is there a way to combine loyalty points from ORD-62972 with my next purchase? I'd rather not call; the hold times last time were very long. The confirmation email for ORD-62972 went to my spam folder, so I only just saw it. The bike light set itself is great, for what it's worth.
+
+Thanks,
+Kofi Mensah
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Rosa (support) ---
+I can see all the orders on your account, including ORD-52546. I've updated your shipping address on file. Our warehouse shows ORD-62972 left on schedule. Thanks for reaching out, and sorry for the trouble.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

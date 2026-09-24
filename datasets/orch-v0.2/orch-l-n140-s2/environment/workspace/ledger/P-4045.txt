@@ -1,0 +1,11 @@
+Ledger page P-4045
+
+account      amount   see page
+Fofana         +288   P-3235
+Hughes         -446   P-1978
+Nakamura       +482   P-3836
+Baker          +356   P-3235
+Dunn           +791   P-4209
+Kowalski       +301   P-7117
+
+Follow the entry with the largest credit.

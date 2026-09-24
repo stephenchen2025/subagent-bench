@@ -1,0 +1,11 @@
+Ledger page P-5081
+
+account      amount   see page
+Young          +125   P-2278
+Rahman         -562   P-5934
+Hughes         -594   P-2708
+Zhou           -643   P-2985
+Osei           -873   P-3417
+Park           +668   P-6820
+
+Follow the entry whose amount is closest to zero.

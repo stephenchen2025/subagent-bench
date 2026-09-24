@@ -1,0 +1,12 @@
+Ledger page P-3524
+
+account      amount   see page
+Hughes         +433   P-7724
+Moreau          +90   P-6513
+Zhou           +179   P-2121
+Nakamura       -452   P-9657
+Silva          -525   P-6557
+Tanaka         +553   P-4812
+Rahman         +845   P-3683
+
+Follow the entry with the largest credit.

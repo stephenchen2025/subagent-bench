@@ -1,0 +1,10 @@
+Ledger page P-2941
+
+account      amount   see page
+Ibarra         +240   P-6572
+Tanaka         -593   P-1821
+Hughes         +517   P-4952
+Xu             -834   P-8073
+Weber          -402   P-9169
+
+Follow the entry with the largest debit (the most negative amount).

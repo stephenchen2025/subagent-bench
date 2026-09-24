@@ -1,0 +1,12 @@
+Ledger page P-2073
+
+account      amount   see page
+Fofana         -675   P-6140
+Hughes          -81   P-1287
+Xu             -367   P-9713
+Moreau         -584   P-3166
+Tanaka         +821   P-5692
+Osei           +303   P-2480
+Lambert        +248   P-8023
+
+Follow the debit belonging to the account that comes last alphabetically.

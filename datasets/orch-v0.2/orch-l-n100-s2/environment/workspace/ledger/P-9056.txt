@@ -1,0 +1,10 @@
+Ledger page P-9056
+
+account      amount   see page
+Jensen         +286   P-9416
+Xu              -54   P-8651
+Vance          +483   P-4910
+Tanaka         -756   P-1552
+Baker          -898   P-8625
+
+Follow the entry with the largest debit (the most negative amount).

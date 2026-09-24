@@ -1,0 +1,98 @@
+Ticket T-5922
+Customer: Avery Lin
+Orders on file: ORD-83167, ORD-92278, ORD-27066, ORD-58636
+Opened: 2026-04-17 via chat transcript
+
+Order details:
+ORD-83167  placed 2026-02-17  status: delivered  total: $401.71
+  payment method: card ending 7230  ship to: 605 Oak Ave
+  - desk lamp x1
+  - replacement filter cartridge, 3-pack x2
+  - extended warranty, 2 years x2
+  - gift wrap x3
+ORD-92278  placed 2026-08-05  status: delivered  total: $396.99
+  payment method: card ending 8212  ship to: 81 Cedar Rd
+  - yoga mat x1
+  - carabiner set x1
+  - gift wrap x1
+  - replacement filter cartridge, 3-pack x1
+ORD-27066  placed 2026-07-17  status: delivered  total: $363.56
+  payment method: card ending 5576  ship to: 566 Mill St
+  - mechanical keyboard x1
+  - extended warranty, 2 years x3
+  - microfiber cloth x3
+  - spare battery pack x1
+  - replacement filter cartridge, 3-pack x1
+ORD-58636  placed 2026-03-02  status: returned  total: $123.01
+  payment method: card ending 5712  ship to: 895 Harbor Lane
+  - trail running shoes x1
+  - replacement filter cartridge, 3-pack x1
+  - spare battery pack x1
+  - microfiber cloth x2
+  - travel pouch x3
+
+--- message 1 from Avery Lin ---
+I need to change the delivery address for ORD-83167 before it ships. The confirmation email for ORD-83167 went to my spam folder, so I only just saw it. I tried the chat widget first but it kept disconnecting. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Avery Lin
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Arjun (support) ---
+Screenshots aren't necessary, but thank you for offering. Our warehouse shows ORD-58636 left on schedule. Tracking updates can lag by a day or two with this carrier. I've resent the confirmation email for ORD-58636 to the address on file.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Avery Lin ---
+I think I might have been charged twice for ORD-92278, but one of the lines on my bank still says pending, so I'm not sure yet. I'm happy to send screenshots if that helps. My partner placed ORD-27066 on our shared account, in case that matters.
+
+Avery Lin
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Arjun (support) ---
+Let me know if anything else looks off. Our warehouse shows ORD-58636 left on schedule. Tracking updates can lag by a day or two with this carrier.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Avery Lin ---
+Just checked again -- both charges for ORD-92278 are settled now, not pending. I'm travelling next week, so email is the best way to reach me. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Avery Lin
+
+--- message 6 from Arjun (support) ---
+I've updated your shipping address on file. If you need an invoice for ORD-27066, you can download it from the Orders page. Our warehouse shows ORD-58636 left on schedule.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Arjun (support) ---
+Confirmed on our side -- ORD-92278 was captured twice by a retry in our checkout. One refund of $86.91 is on its way to you. Our warehouse shows ORD-83167 left on schedule. I can see all the orders on your account, including ORD-58636.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Avery Lin ---
+I tried the chat widget first but it kept disconnecting. I changed my shipping address last month, so please double-check you have the new one. The espresso grinder itself is great, for what it's worth.
+
+Avery Lin
+(Please reply by email rather than phone if possible.)
+
+--- message 9 from Avery Lin ---
+I'd rather not call; the hold times last time were very long. I've been a customer for a few years and usually everything goes smoothly. Could you also tell me whether ORD-27066 qualifies for the extended return window? Is there a way to combine loyalty points from ORD-83167 with my next purchase?
+
+Best regards,
+Avery Lin
+
+--- message 10 from Arjun (support) ---
+I've updated your shipping address on file. I can see all the orders on your account, including ORD-83167. Let me know if anything else looks off. I've added a note to your account so the next agent has the context.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

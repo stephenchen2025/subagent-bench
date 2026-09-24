@@ -1,0 +1,10 @@
+Ledger page P-2833
+
+account      amount   see page
+Fofana           -6   P-9481
+Umar           +469   P-1162
+Castillo       +372   P-4125
+Nakamura       +789   P-8890
+Lambert        -392   P-9905
+
+Follow the credit belonging to the account that comes first alphabetically.

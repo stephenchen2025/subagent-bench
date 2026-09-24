@@ -1,0 +1,11 @@
+Ledger page P-8191
+
+account      amount   see page
+Eriksen        -511   P-9309
+Vance          -577   P-3655
+Castillo       -122   P-4001
+Park            +11   P-5618
+Hughes         -444   P-3216
+Dunn           +745   P-1670
+
+Follow the entry with the second-largest amount.

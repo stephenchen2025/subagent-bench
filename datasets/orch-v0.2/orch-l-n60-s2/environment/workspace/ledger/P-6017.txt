@@ -1,0 +1,11 @@
+Ledger page P-6017
+
+account      amount   see page
+Tanaka         -288   P-5107
+Weber          +236   P-6378
+Grant          +122   P-3260
+Fofana         +800   P-8045
+Park           +517   P-7830
+Moreau          +31   P-3472
+
+Follow the entry with the second-largest amount.

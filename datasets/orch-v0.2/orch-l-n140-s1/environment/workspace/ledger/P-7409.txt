@@ -1,0 +1,11 @@
+Ledger page P-7409
+
+account      amount   see page
+Quinn          -390   P-8856
+Umar           -266   P-4452
+Castillo       +107   P-1092
+Moreau         -782   P-8484
+Nakamura       -425   P-7487
+Lambert        +664   P-7642
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,10 @@
+Ledger page P-1993
+
+account      amount   see page
+Lambert         +29   P-4901
+Castillo       +702   P-2228
+Tanaka         +229   P-5722
+Ibarra         +745   P-3192
+Grant          -514   P-9247
+
+Follow the debit belonging to the account that comes last alphabetically.

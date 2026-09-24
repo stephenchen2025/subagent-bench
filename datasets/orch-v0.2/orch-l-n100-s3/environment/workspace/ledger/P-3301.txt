@@ -1,0 +1,12 @@
+Ledger page P-3301
+
+account      amount   see page
+Grant          +708   P-4266
+Fofana         +299   P-3866
+Weber           -49   P-5186
+Lambert        -541   P-3866
+Zhou           +753   P-4266
+Tanaka          -87   P-7198
+Vance          -328   P-7288
+
+Follow the entry with the second-largest amount.

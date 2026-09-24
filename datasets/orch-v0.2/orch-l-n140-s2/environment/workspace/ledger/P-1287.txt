@@ -1,0 +1,10 @@
+Ledger page P-1287
+
+account      amount   see page
+Hughes         +895   P-6344
+Dunn           -738   P-8951
+Zhou           -428   P-1538
+Tanaka         +436   P-6232
+Kowalski       -242   P-6586
+
+Follow the entry whose amount is closest to zero.

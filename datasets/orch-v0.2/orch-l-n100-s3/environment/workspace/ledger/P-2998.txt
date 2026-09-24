@@ -1,0 +1,10 @@
+Ledger page P-2998
+
+account      amount   see page
+Young          -777   P-3096
+Kowalski       +461   P-6700
+Hughes         +663   P-3441
+Osei           -627   P-3192
+Umar           -206   P-8170
+
+Follow the debit belonging to the account that comes last alphabetically.

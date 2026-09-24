@@ -1,0 +1,68 @@
+Ticket T-9909
+Customer: Avery Lin
+Orders on file: ORD-92894, ORD-86201, ORD-28325, ORD-47581
+Opened: 2026-06-01 via chat transcript
+
+Order details:
+ORD-92894  placed 2026-06-26  status: delivered  total: $70.62
+  payment method: card ending 9469  ship to: 428 Cedar Ave
+  - mechanical keyboard x1
+  - USB-C charging cable (2m) x3
+  - microfiber cloth x3
+ORD-86201  placed 2026-03-08  status: delivered  total: $107.29
+  payment method: card ending 7418  ship to: 677 Mill Lane
+  - standing desk x1
+  - USB-C charging cable (2m) x3
+  - replacement filter cartridge, 3-pack x2
+ORD-28325  placed 2026-01-28  status: delivered  total: $137.40
+  payment method: card ending 5514  ship to: 186 Mill Ave
+  - blender x1
+  - stainless water bottle, 750ml x2
+  - carabiner set x2
+ORD-47581  placed 2026-07-03  status: in transit  total: $19.89
+  payment method: card ending 2959  ship to: 990 Elm Lane
+  - bike light set x1
+  - travel pouch x3
+  - gift wrap x1
+
+--- message 1 from Avery Lin ---
+I'd like to return the bike light set from ORD-92894; it's the wrong size. The mechanical keyboard itself is great, for what it's worth. My partner placed ORD-47581 on our shared account, in case that matters. My earlier order ORD-47581 arrived fine, no complaints there.
+
+Thanks,
+Avery Lin
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Luis (support) ---
+For ORD-92894, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context. I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Avery Lin ---
+I'm travelling next week, so email is the best way to reach me. Your app logged me out twice while I was looking at this, which didn't help. The confirmation email for ORD-28325 went to my spam folder, so I only just saw it. I'm happy to send screenshots if that helps.
+
+Thanks,
+Avery Lin
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Luis (support) ---
+Let me know if anything else looks off. Tracking updates can lag by a day or two with this carrier. I've resent the confirmation email for ORD-28325 to the address on file. I can see all the orders on your account, including ORD-28325.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Avery Lin ---
+I tried the chat widget first but it kept disconnecting. My partner placed ORD-92894 on our shared account, in case that matters. My earlier order ORD-47581 arrived fine, no complaints there. Could you also tell me whether ORD-47581 qualifies for the extended return window?
+
+Thanks,
+Avery Lin
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Luis (support) ---
+Our warehouse shows ORD-92894 left on schedule. I've added a note to your account so the next agent has the context. If you need an invoice for ORD-47581, you can download it from the Orders page. I can see all the orders on your account, including ORD-28325.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

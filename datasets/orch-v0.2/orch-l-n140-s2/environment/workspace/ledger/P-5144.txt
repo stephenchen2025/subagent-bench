@@ -1,0 +1,11 @@
+Ledger page P-5144
+
+account      amount   see page
+Jensen         -689   P-4906
+Xu             +321   P-2019
+Rahman         -285   P-3361
+Lambert        +541   P-6306
+Fofana         -788   P-9818
+Moreau         +664   P-7270
+
+Follow the debit belonging to the account that comes last alphabetically.

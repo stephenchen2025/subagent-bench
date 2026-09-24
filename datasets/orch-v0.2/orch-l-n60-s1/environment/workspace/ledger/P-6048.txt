@@ -1,0 +1,10 @@
+Ledger page P-6048
+
+account      amount   see page
+Grant          -697   P-8823
+Eriksen        -763   P-8674
+Moreau         +381   P-3324
+Young           +14   P-7774
+Quinn          -266   P-2361
+
+Follow the entry with the second-largest amount.

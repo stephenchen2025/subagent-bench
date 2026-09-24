@@ -1,0 +1,12 @@
+Ledger page P-2138
+
+account      amount   see page
+Quinn          -281   P-8298
+Weber          +486   P-6115
+Rahman         -558   P-1518
+Hughes         +625   P-3833
+Tanaka         +443   P-6899
+Castillo       +767   P-7164
+Zhou           +354   P-8493
+
+Follow the entry with the largest debit (the most negative amount).

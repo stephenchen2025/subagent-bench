@@ -1,0 +1,12 @@
+Ledger page P-9551
+
+account      amount   see page
+Xu             +302   P-1579
+Kowalski       -514   P-4309
+Lambert        +807   P-3879
+Silva          +195   P-8800
+Rahman         +864   P-8753
+Eriksen        +705   P-2917
+Hughes         -486   P-2565
+
+Follow the entry with the largest debit (the most negative amount).

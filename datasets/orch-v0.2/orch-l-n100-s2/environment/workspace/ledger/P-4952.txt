@@ -1,0 +1,12 @@
+Ledger page P-4952
+
+account      amount   see page
+Grant          -742   P-2495
+Eriksen        -869   P-9587
+Umar           +885   P-9431
+Jensen         -228   P-8385
+Tanaka         -653   P-1821
+Weber          -500   P-3441
+Lambert        +493   P-6935
+
+Follow the entry with the largest credit.

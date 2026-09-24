@@ -1,0 +1,12 @@
+Ledger page P-3625
+
+account      amount   see page
+Park           -632   P-3659
+Weber          -870   P-8213
+Dunn            -93   P-6020
+Osei           +436   P-1690
+Abbott         -123   P-7449
+Lambert        -101   P-9882
+Rahman         -393   P-6219
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,71 @@
+Ticket T-4987
+Customer: Tomas Novak
+Orders on file: ORD-35876, ORD-29991, ORD-83792, ORD-10317
+Opened: 2026-05-26 via chat transcript
+
+Order details:
+ORD-35876  placed 2026-07-02  status: delivered  total: $152.35
+  payment method: card ending 4050  ship to: 73 Harbor St
+  - bike light set x1
+  - merino socks, size M x1
+  - spare battery pack x2
+  - extended warranty, 2 years x1
+  - carabiner set x3
+ORD-29991  placed 2026-01-26  status: returned  total: $198.44
+  payment method: card ending 6789  ship to: 841 Oak St
+  - mechanical keyboard x1
+  - microfiber cloth x2
+  - gift wrap x2
+  - extended warranty, 2 years x3
+  - spare battery pack x1
+ORD-83792  placed 2026-07-14  status: in transit  total: $21.86
+  payment method: card ending 6814  ship to: 41 Elm Ave
+  - cast iron skillet x1
+  - extended warranty, 2 years x3
+  - gift wrap x2
+  - replacement filter cartridge, 3-pack x3
+  - stainless water bottle, 750ml x3
+ORD-10317  placed 2026-02-10  status: in transit  total: $251.97
+  payment method: card ending 4248  ship to: 982 Mill Rd
+  - espresso grinder x1
+  - spare battery pack x1
+  - microfiber cloth x2
+
+--- message 1 from Tomas Novak ---
+I need to change the delivery address for ORD-83792 before it ships. Tracking for ORD-83792 hasn't updated since Tuesday. I've been a customer for a few years and usually everything goes smoothly. The carry-on suitcase itself is great, for what it's worth.
+
+Tomas Novak
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Keiko (support) ---
+I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier. Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-35876 to the address on file.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Tomas Novak ---
+Is there a way to combine loyalty points from ORD-83792 with my next purchase? I'm happy to send screenshots if that helps. Tracking for ORD-10317 hasn't updated since Tuesday. The cast iron skillet itself is great, for what it's worth.
+
+Tomas Novak
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Keiko (support) ---
+Our warehouse shows ORD-35876 left on schedule. Thanks for reaching out, and sorry for the trouble. I've updated your shipping address on file. Loyalty points post about a week after an order is delivered.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Tomas Novak ---
+The confirmation email for ORD-10317 went to my spam folder, so I only just saw it. Tracking for ORD-83792 hasn't updated since Tuesday. The box for ORD-35876 was a bit crushed but the contents were fine. I changed my shipping address last month, so please double-check you have the new one.
+
+Tomas Novak
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Keiko (support) ---
+If you need an invoice for ORD-83792, you can download it from the Orders page. I've updated your shipping address on file. Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

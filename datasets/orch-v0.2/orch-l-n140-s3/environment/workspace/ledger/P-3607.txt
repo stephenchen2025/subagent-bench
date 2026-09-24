@@ -1,0 +1,11 @@
+Ledger page P-3607
+
+account      amount   see page
+Osei           +363   P-7264
+Abbott          -52   P-8919
+Vance          -196   P-9931
+Jensen          -23   P-3733
+Kowalski       +371   P-8994
+Rahman         +476   P-9697
+
+Follow the entry whose amount is closest to zero.

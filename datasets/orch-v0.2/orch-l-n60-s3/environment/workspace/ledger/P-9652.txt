@@ -1,0 +1,12 @@
+Ledger page P-9652
+
+account      amount   see page
+Eriksen        -574   P-8484
+Young          -479   P-8396
+Quinn          -778   P-6749
+Kowalski       -622   P-4371
+Park           +605   P-3318
+Xu             +380   P-1502
+Weber          +542   P-7407
+
+Follow the entry with the largest debit (the most negative amount).

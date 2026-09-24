@@ -1,0 +1,11 @@
+Ledger page P-2768
+
+account      amount   see page
+Quinn          -564   P-1047
+Umar           +230   P-1621
+Young          +663   P-1502
+Zhou           +153   P-3047
+Kowalski       -322   P-7315
+Tanaka         -408   P-9883
+
+Follow the entry with the second-largest amount.

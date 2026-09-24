@@ -1,0 +1,10 @@
+Ledger page P-3019
+
+account      amount   see page
+Castillo       -734   P-2562
+Quinn          +423   P-5298
+Tanaka          -48   P-2246
+Park           +825   P-1299
+Umar           -408   P-5999
+
+Follow the entry with the largest credit.

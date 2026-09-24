@@ -1,0 +1,10 @@
+Ledger page P-5710
+
+account      amount   see page
+Kowalski       +404   P-2427
+Abbott         +201   P-3994
+Quinn          -566   P-1779
+Rahman           +8   P-3301
+Baker          -492   P-8145
+
+Follow the entry with the largest credit.

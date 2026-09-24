@@ -1,0 +1,10 @@
+Ledger page P-9793
+
+account      amount   see page
+Dunn           -630   P-5093
+Xu             +870   P-8587
+Vance          +711   P-5111
+Grant           +92   P-2864
+Weber          +394   P-8937
+
+Follow the debit belonging to the account that comes last alphabetically.

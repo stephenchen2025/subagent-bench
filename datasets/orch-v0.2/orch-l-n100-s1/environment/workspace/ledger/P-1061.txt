@@ -1,0 +1,10 @@
+Ledger page P-1061
+
+account      amount   see page
+Park           -487   P-7042
+Osei           -681   P-5642
+Nakamura        -21   P-2194
+Young          +808   P-2813
+Fofana          +50   P-2774
+
+Follow the entry with the largest credit.

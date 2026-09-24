@@ -1,0 +1,69 @@
+Ticket T-4279
+Customer: Leila Haddad
+Orders on file: ORD-88936, ORD-61120, ORD-20486, ORD-41186
+Opened: 2026-03-03 via chat transcript
+
+Order details:
+ORD-88936  placed 2026-04-25  status: in transit  total: $228.75
+  payment method: card ending 2087  ship to: 712 Oak St
+  - standing desk x1
+  - spare battery pack x2
+  - carabiner set x3
+  - stainless water bottle, 750ml x1
+  - USB-C charging cable (2m) x3
+ORD-61120  placed 2026-05-09  status: delivered  total: $220.21
+  payment method: card ending 9920  ship to: 25 Mill Lane
+  - camping stove x1
+  - spare battery pack x3
+  - extended warranty, 2 years x1
+ORD-20486  placed 2026-07-18  status: delivered  total: $419.81
+  payment method: card ending 2067  ship to: 986 Harbor St
+  - wool blanket x1
+  - travel pouch x1
+  - spare battery pack x2
+  - microfiber cloth x2
+ORD-41186  placed 2026-05-02  status: label created  total: $287.66
+  payment method: card ending 4867  ship to: 804 Mill Lane
+  - standing desk x1
+  - extended warranty, 2 years x2
+  - spare battery pack x3
+  - carabiner set x2
+
+--- message 1 from Leila Haddad ---
+The standing desk from ORD-41186 arrived with a scratch on the side. Can I get a replacement? I've been a customer for a few years and usually everything goes smoothly. I'm happy to send screenshots if that helps. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Leila Haddad
+
+--- message 2 from Arjun (support) ---
+Thanks for reaching out, and sorry for the trouble. Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context. Let me know if anything else looks off.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Leila Haddad ---
+Yes, there were two payments, but they're for two different orders (ORD-61120 and ORD-41186), so that's fine. I just need a receipt for each. I'm happy to send screenshots if that helps. The confirmation email for ORD-20486 went to my spam folder, so I only just saw it.
+
+Best regards,
+Leila Haddad
+
+--- message 4 from Arjun (support) ---
+I've updated your shipping address on file. For ORD-88936, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Leila Haddad ---
+Could you also tell me whether ORD-88936 qualifies for the extended return window? My earlier order ORD-41186 arrived fine, no complaints there. I've been a customer for a few years and usually everything goes smoothly. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Leila Haddad
+
+--- message 6 from Arjun (support) ---
+I can see all the orders on your account, including ORD-20486. Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-88936 left on schedule.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

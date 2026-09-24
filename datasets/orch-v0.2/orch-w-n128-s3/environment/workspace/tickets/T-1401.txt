@@ -1,0 +1,92 @@
+Ticket T-1401
+Customer: Chloe Martin
+Orders on file: ORD-65962, ORD-67961, ORD-33223, ORD-20664
+Opened: 2026-04-26 via email
+
+Order details:
+ORD-65962  placed 2026-03-18  status: delivered  total: $326.93
+  payment method: card ending 5095  ship to: 961 Cedar Lane
+  - rain jacket x1
+  - carabiner set x1
+  - microfiber cloth x3
+  - merino socks, size M x2
+ORD-67961  placed 2026-02-03  status: in transit  total: $35.69
+  payment method: card ending 2994  ship to: 363 Cedar Lane
+  - blender x1
+  - spare battery pack x1
+  - carabiner set x2
+  - gift wrap x2
+  - microfiber cloth x3
+ORD-33223  placed 2026-05-12  status: in transit  total: $305.39
+  payment method: card ending 6093  ship to: 937 Elm Ave
+  - desk lamp x1
+  - travel pouch x1
+  - merino socks, size M x2
+ORD-20664  placed 2026-07-27  status: label created  total: $395.48
+  payment method: card ending 1889  ship to: 879 Harbor Rd
+  - desk lamp x1
+  - merino socks, size M x3
+  - extended warranty, 2 years x1
+  - carabiner set x1
+  - stainless water bottle, 750ml x3
+
+--- message 1 from Chloe Martin ---
+How do I reset my password? The reset link keeps expiring. The box for ORD-33223 was a bit crushed but the contents were fine. My earlier order ORD-65962 arrived fine, no complaints there. I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Chloe Martin
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Marcus (support) ---
+Let me know if anything else looks off. Tracking updates can lag by a day or two with this carrier. Loyalty points post about a week after an order is delivered. For ORD-20664, the return window is 30 days from delivery.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Chloe Martin ---
+Before I retry the payment on ORD-67961 -- is there any risk of a double charge? The yoga mat itself is great, for what it's worth. Your app logged me out twice while I was looking at this, which didn't help.
+
+Best regards,
+Chloe Martin
+
+--- message 4 from Marcus (support) ---
+No, you won't be charged twice: the first attempt for ORD-67961 failed before capture, so retrying is safe. Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Chloe Martin ---
+I changed my shipping address last month, so please double-check you have the new one. Could you also tell me whether ORD-20664 qualifies for the extended return window? I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Chloe Martin
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Chloe Martin ---
+I'm happy to send screenshots if that helps. I'm travelling next week, so email is the best way to reach me. My earlier order ORD-33223 arrived fine, no complaints there. The box for ORD-20664 was a bit crushed but the contents were fine.
+
+Chloe Martin
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Marcus (support) ---
+Loyalty points post about a week after an order is delivered. For ORD-20664, the return window is 30 days from delivery. I've resent the confirmation email for ORD-33223 to the address on file. Thanks for reaching out, and sorry for the trouble.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Chloe Martin ---
+Tracking for ORD-33223 hasn't updated since Tuesday. I'd rather not call; the hold times last time were very long. I'm travelling next week, so email is the best way to reach me. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Chloe Martin
+Sent from my phone -- please excuse typos.
+
+--- message 9 from Marcus (support) ---
+I've updated your shipping address on file. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-65962 left on schedule. For ORD-33223, the return window is 30 days from delivery.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

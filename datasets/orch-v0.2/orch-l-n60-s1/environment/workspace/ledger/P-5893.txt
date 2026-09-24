@@ -1,0 +1,12 @@
+Ledger page P-5893
+
+account      amount   see page
+Jensen         -338   P-3318
+Hughes          +32   P-4198
+Vance          -882   P-1210
+Weber          +594   P-9510
+Young           -83   P-6559
+Rahman         -200   P-8874
+Park           +409   P-2390
+
+Follow the entry whose amount is closest to zero.

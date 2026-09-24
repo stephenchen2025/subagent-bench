@@ -1,0 +1,10 @@
+Ledger page P-4912
+
+account      amount   see page
+Xu             +163   P-5594
+Fofana         +683   P-1567
+Vance          +517   P-2558
+Osei           +717   P-3866
+Tanaka         -672   P-3625
+
+Follow the debit belonging to the account that comes last alphabetically.

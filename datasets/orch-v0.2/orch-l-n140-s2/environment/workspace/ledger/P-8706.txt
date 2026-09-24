@@ -1,0 +1,12 @@
+Ledger page P-8706
+
+account      amount   see page
+Xu             -859   P-6680
+Tanaka         +302   P-8629
+Lambert        +237   P-4826
+Moreau         +390   P-3439
+Jensen         +294   P-8307
+Grant          +555   P-6707
+Hughes         -410   P-2837
+
+Follow the entry whose amount is closest to zero.

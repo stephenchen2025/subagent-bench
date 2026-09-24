@@ -1,0 +1,10 @@
+Ledger page P-6243
+
+account      amount   see page
+Weber          +880   P-7970
+Ibarra         -218   P-1522
+Rahman         +623   P-9189
+Abbott         -148   P-8832
+Nakamura       +756   P-9691
+
+Follow the entry whose amount is closest to zero.

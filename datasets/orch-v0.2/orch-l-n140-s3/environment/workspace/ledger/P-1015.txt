@@ -1,0 +1,10 @@
+Ledger page P-1015
+
+account      amount   see page
+Ibarra         +495   P-2187
+Tanaka          -43   P-2109
+Jensen         +714   P-8445
+Young          +344   P-5518
+Osei           -772   P-1925
+
+Follow the entry with the largest credit.

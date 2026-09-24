@@ -1,0 +1,11 @@
+Ledger page P-4806
+
+account      amount   see page
+Jensen         -440   P-8231
+Dunn           +178   P-3573
+Kowalski       -752   P-6740
+Park           -452   P-4998
+Rahman          -90   P-7470
+Weber          -543   P-2801
+
+Follow the entry with the second-largest amount.

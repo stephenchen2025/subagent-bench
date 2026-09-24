@@ -1,0 +1,10 @@
+Ledger page P-8046
+
+account      amount   see page
+Quinn          +117   P-7969
+Rahman         -197   P-7601
+Osei           +442   P-7635
+Moreau         +201   P-3005
+Umar           -514   P-9105
+
+Follow the entry with the largest credit.

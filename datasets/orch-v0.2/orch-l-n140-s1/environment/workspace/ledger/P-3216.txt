@@ -1,0 +1,10 @@
+Ledger page P-3216
+
+account      amount   see page
+Lambert        -420   P-8428
+Osei           +663   P-4589
+Umar           -670   P-6876
+Park           +148   P-8241
+Grant          +865   P-4473
+
+Follow the entry with the second-largest amount.

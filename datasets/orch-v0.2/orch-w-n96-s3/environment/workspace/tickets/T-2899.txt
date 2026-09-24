@@ -1,0 +1,76 @@
+Ticket T-2899
+Customer: Noah Fischer
+Orders on file: ORD-94487, ORD-14677, ORD-20698, ORD-76459
+Opened: 2026-01-15 via web form
+
+Order details:
+ORD-94487  placed 2026-06-26  status: delivered  total: $141.36
+  payment method: card ending 8487  ship to: 288 Oak Lane
+  - trail running shoes x1
+  - travel pouch x3
+  - replacement filter cartridge, 3-pack x3
+ORD-14677  placed 2026-03-22  status: label created  total: $111.95
+  payment method: card ending 6744  ship to: 187 Mill Ave
+  - mechanical keyboard x1
+  - stainless water bottle, 750ml x2
+  - replacement filter cartridge, 3-pack x2
+  - spare battery pack x2
+ORD-20698  placed 2026-03-28  status: delivered  total: $90.81
+  payment method: card ending 6945  ship to: 851 Elm Ave
+  - camping stove x1
+  - gift wrap x3
+  - stainless water bottle, 750ml x2
+  - replacement filter cartridge, 3-pack x2
+  - spare battery pack x3
+ORD-76459  placed 2026-06-12  status: returned  total: $129.25
+  payment method: card ending 9080  ship to: 998 Elm Lane
+  - mechanical keyboard x1
+  - travel pouch x3
+  - microfiber cloth x1
+
+--- message 1 from Noah Fischer ---
+How do I reset my password? The reset link keeps expiring. I changed my shipping address last month, so please double-check you have the new one. The confirmation email for ORD-76459 went to my spam folder, so I only just saw it. The box for ORD-76459 was a bit crushed but the contents were fine.
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Rosa (support) ---
+If you need an invoice for ORD-76459, you can download it from the Orders page. Screenshots aren't necessary, but thank you for offering. For ORD-94487, the return window is 30 days from delivery. I've resent the confirmation email for ORD-20698 to the address on file.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Noah Fischer ---
+I think I might have been charged twice for ORD-14677, but one of the lines on the card app still says pending, so I'm not sure yet. The noise-cancelling headphones itself is great, for what it's worth. The confirmation email for ORD-94487 went to my spam folder, so I only just saw it.
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Noah Fischer ---
+Just checked again -- both charges for ORD-14677 are settled now, not pending. Is there a way to combine loyalty points from ORD-76459 with my next purchase? I'm travelling next week, so email is the best way to reach me.
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 5 from Rosa (support) ---
+Confirmed on our side -- ORD-14677 was captured twice by a retry in our checkout. One refund of $173.34 is on its way to you. Thanks for reaching out, and sorry for the trouble. Tracking updates can lag by a day or two with this carrier.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Noah Fischer ---
+I've been a customer for a few years and usually everything goes smoothly. Your app logged me out twice while I was looking at this, which didn't help. Could you also tell me whether ORD-20698 qualifies for the extended return window? The box for ORD-94487 was a bit crushed but the contents were fine.
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Rosa (support) ---
+Our warehouse shows ORD-94487 left on schedule. Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-76459 to the address on file.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

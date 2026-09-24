@@ -1,0 +1,12 @@
+Ledger page P-6344
+
+account      amount   see page
+Jensen          -61   P-2426
+Park           +149   P-8451
+Silva          -580   P-7270
+Vance           +81   P-8706
+Lambert        -389   P-4301
+Castillo       -437   P-4141
+Dunn           +146   P-8166
+
+Follow the entry whose amount is closest to zero.

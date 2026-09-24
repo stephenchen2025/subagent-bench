@@ -1,0 +1,11 @@
+Ledger page P-1264
+
+account      amount   see page
+Vance          -262   P-1348
+Park           +874   P-8289
+Eriksen        +214   P-7614
+Osei           -863   P-9942
+Zhou           +817   P-2558
+Jensen         +652   P-2728
+
+Follow the entry with the largest debit (the most negative amount).

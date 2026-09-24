@@ -1,0 +1,79 @@
+Ticket T-9159
+Customer: Priya Raman
+Orders on file: ORD-55027, ORD-45367, ORD-38267, ORD-15639
+Opened: 2026-02-18 via email
+
+Order details:
+ORD-55027  placed 2026-06-19  status: delivered  total: $444.23
+  payment method: card ending 5914  ship to: 863 Cedar St
+  - water filter pitcher x1
+  - stainless water bottle, 750ml x1
+  - spare battery pack x3
+  - replacement filter cartridge, 3-pack x1
+ORD-45367  placed 2026-06-06  status: delivered  total: $237.85
+  payment method: card ending 1176  ship to: 525 Mill Lane
+  - mechanical keyboard x1
+  - merino socks, size M x2
+  - extended warranty, 2 years x3
+  - replacement filter cartridge, 3-pack x3
+ORD-38267  placed 2026-04-01  status: delivered  total: $158.54
+  payment method: card ending 3879  ship to: 461 Cedar Rd
+  - noise-cancelling headphones x1
+  - microfiber cloth x2
+  - replacement filter cartridge, 3-pack x3
+  - extended warranty, 2 years x3
+  - travel pouch x2
+ORD-15639  placed 2026-06-23  status: returned  total: $455.72
+  payment method: card ending 5533  ship to: 79 Cedar Rd
+  - yoga mat x1
+  - replacement filter cartridge, 3-pack x3
+  - USB-C charging cable (2m) x3
+  - stainless water bottle, 750ml x1
+  - gift wrap x1
+
+--- message 1 from Priya Raman ---
+Can I use a gift card on ORD-55027, or is it too late? Tracking for ORD-55027 hasn't updated since Tuesday. I've been a customer for a few years and usually everything goes smoothly. Is there a way to combine loyalty points from ORD-45367 with my next purchase?
+
+Priya Raman
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Fatima (support) ---
+Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble. I've resent the confirmation email for ORD-38267 to the address on file. Our warehouse shows ORD-55027 left on schedule.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Priya Raman ---
+There are two identical debits on my bank and both reference ORD-15639. I changed my shipping address last month, so please double-check you have the new one. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Priya Raman
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Priya Raman ---
+My partner placed ORD-45367 on our shared account, in case that matters. The confirmation email for ORD-55027 went to my spam folder, so I only just saw it. I tried the chat widget first but it kept disconnecting. I changed my shipping address last month, so please double-check you have the new one.
+
+Priya Raman
+(Please reply by email rather than phone if possible.)
+
+--- message 5 from Fatima (support) ---
+Screenshots aren't necessary, but thank you for offering. I've added a note to your account so the next agent has the context. If you need an invoice for ORD-38267, you can download it from the Orders page. Our warehouse shows ORD-45367 left on schedule.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Priya Raman ---
+My partner placed ORD-38267 on our shared account, in case that matters. The box for ORD-45367 was a bit crushed but the contents were fine. Is there a way to combine loyalty points from ORD-45367 with my next purchase? My earlier order ORD-38267 arrived fine, no complaints there.
+
+Thanks,
+Priya Raman
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Fatima (support) ---
+For ORD-45367, the return window is 30 days from delivery. If you need an invoice for ORD-45367, you can download it from the Orders page. Thanks for reaching out, and sorry for the trouble. Tracking updates can lag by a day or two with this carrier.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

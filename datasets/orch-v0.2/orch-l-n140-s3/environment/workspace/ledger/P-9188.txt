@@ -1,0 +1,10 @@
+Ledger page P-9188
+
+account      amount   see page
+Nakamura       -504   P-6868
+Park           +171   P-4793
+Fofana         -399   P-4925
+Weber          +744   P-2097
+Ibarra         +812   P-9678
+
+Follow the entry with the second-largest amount.

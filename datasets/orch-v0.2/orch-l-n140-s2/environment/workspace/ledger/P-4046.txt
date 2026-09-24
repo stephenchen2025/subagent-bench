@@ -1,0 +1,11 @@
+Ledger page P-4046
+
+account      amount   see page
+Lambert        -482   P-5634
+Kowalski       -711   P-5751
+Weber          +562   P-3205
+Quinn          -491   P-4046
+Baker          -497   P-2425
+Abbott         -762   P-1962
+
+Follow the debit belonging to the account that comes last alphabetically.

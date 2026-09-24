@@ -1,0 +1,11 @@
+Ledger page P-9724
+
+account      amount   see page
+Jensen         +269   P-2904
+Kowalski       +867   P-7261
+Park           +317   P-2246
+Umar           -278   P-3524
+Xu             -314   P-3170
+Abbott         +453   P-9722
+
+Follow the entry with the second-largest amount.

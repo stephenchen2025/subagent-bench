@@ -1,0 +1,12 @@
+Ledger page P-2083
+
+account      amount   see page
+Tanaka         +210   P-4240
+Ibarra         -574   P-2390
+Baker          +380   P-7696
+Young          +801   P-3659
+Umar           -158   P-9935
+Abbott         -856   P-2544
+Zhou           -894   P-9485
+
+Follow the entry whose amount is closest to zero.

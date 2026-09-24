@@ -1,0 +1,11 @@
+Ledger page P-5973
+
+account      amount   see page
+Silva          -614   P-8680
+Zhou           +275   P-6371
+Castillo       -768   P-4847
+Jensen         -141   P-3677
+Kowalski       +350   P-5460
+Nakamura       +652   P-8818
+
+Follow the entry with the largest credit.

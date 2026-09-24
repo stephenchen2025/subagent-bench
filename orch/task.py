@@ -19,7 +19,7 @@ LABELS = (DELEGATE, OPTIONAL, SOLO)
 # every worker; the experiment varies only whether workers exist.
 DEFAULT_LIMITS = {
     "context_tokens": 32_000,
-    "step_limit": 40,
+    "step_limit": 160,
     "observation_chars": 16_000,
     "max_concurrent_subagents": 8,
     "max_total_subagents": 16,

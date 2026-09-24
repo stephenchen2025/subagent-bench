@@ -1,0 +1,12 @@
+Ledger page P-6376
+
+account      amount   see page
+Baker          -574   P-3277
+Silva          -737   P-6836
+Abbott         -655   P-1479
+Vance          +150   P-1803
+Nakamura       +242   P-7488
+Eriksen        -868   P-4479
+Dunn           -486   P-1575
+
+Follow the debit belonging to the account that comes last alphabetically.

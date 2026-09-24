@@ -1,0 +1,10 @@
+Ledger page P-8440
+
+account      amount   see page
+Quinn          -496   P-8815
+Lambert        +288   P-5686
+Ibarra         -335   P-7336
+Umar           -159   P-1952
+Rahman         -785   P-4687
+
+Follow the entry with the largest credit.

@@ -1,0 +1,10 @@
+Ledger page P-2703
+
+account      amount   see page
+Osei            +71   P-6952
+Jensen         +269   P-4735
+Castillo       +659   P-9257
+Park            -83   P-2320
+Lambert        +721   P-9137
+
+Follow the entry whose amount is closest to zero.

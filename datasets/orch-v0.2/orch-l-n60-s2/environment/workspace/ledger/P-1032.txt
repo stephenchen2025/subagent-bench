@@ -1,0 +1,12 @@
+Ledger page P-1032
+
+account      amount   see page
+Moreau         +471   P-7795
+Dunn           -274   P-7231
+Osei           +423   P-9604
+Grant          +231   P-2118
+Ibarra         +363   P-8187
+Baker          -829   P-9214
+Fofana         -387   P-4639
+
+Follow the credit belonging to the account that comes first alphabetically.

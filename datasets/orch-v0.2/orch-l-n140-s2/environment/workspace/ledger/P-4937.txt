@@ -1,0 +1,12 @@
+Ledger page P-4937
+
+account      amount   see page
+Nakamura       +758   P-7314
+Jensen         +539   P-6656
+Hughes         +687   P-4512
+Lambert        +583   P-3573
+Moreau         -581   P-2719
+Osei           -776   P-1764
+Baker          +214   P-1825
+
+Follow the credit belonging to the account that comes first alphabetically.

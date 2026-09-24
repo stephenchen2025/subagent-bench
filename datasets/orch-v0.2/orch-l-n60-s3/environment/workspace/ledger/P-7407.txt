@@ -1,0 +1,10 @@
+Ledger page P-7407
+
+account      amount   see page
+Quinn          +727   P-4597
+Tanaka         +833   P-6337
+Osei            -38   P-2011
+Eriksen        +382   P-4878
+Lambert        +852   P-3953
+
+Follow the entry with the largest debit (the most negative amount).

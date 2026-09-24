@@ -1,0 +1,11 @@
+Ledger page P-6848
+
+account      amount   see page
+Moreau         -401   P-3878
+Park           -148   P-4898
+Baker          +192   P-8917
+Dunn           -285   P-3722
+Weber          +702   P-1963
+Eriksen        +637   P-6858
+
+Follow the entry with the largest debit (the most negative amount).

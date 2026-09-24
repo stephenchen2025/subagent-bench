@@ -1,0 +1,11 @@
+Ledger page P-7294
+
+account      amount   see page
+Park           -407   P-5868
+Zhou            +92   P-5794
+Dunn           +696   P-4479
+Xu             +892   P-5008
+Nakamura       -675   P-6217
+Jensen         -888   P-1872
+
+Follow the entry whose amount is closest to zero.

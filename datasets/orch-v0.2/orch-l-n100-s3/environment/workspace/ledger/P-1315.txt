@@ -1,0 +1,10 @@
+Ledger page P-1315
+
+account      amount   see page
+Jensen         -399   P-6298
+Quinn          +404   P-1371
+Nakamura       -426   P-2393
+Rahman         +795   P-8071
+Baker          -706   P-2238
+
+Follow the credit belonging to the account that comes first alphabetically.

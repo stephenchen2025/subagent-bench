@@ -1,0 +1,12 @@
+Ledger page P-5491
+
+account      amount   see page
+Vance          +436   P-4809
+Park           -712   P-9932
+Tanaka         -120   P-1080
+Dunn           +799   P-9084
+Moreau         +515   P-9697
+Baker          -622   P-2838
+Hughes         -608   P-3012
+
+Follow the entry with the largest debit (the most negative amount).

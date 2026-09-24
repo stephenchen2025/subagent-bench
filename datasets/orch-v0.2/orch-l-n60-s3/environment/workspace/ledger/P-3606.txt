@@ -1,0 +1,12 @@
+Ledger page P-3606
+
+account      amount   see page
+Xu             -197   P-9815
+Lambert        -478   P-9736
+Eriksen        +625   P-3497
+Kowalski       +188   P-7491
+Park            -16   P-8890
+Silva          +899   P-5485
+Abbott         -644   P-7083
+
+Follow the debit belonging to the account that comes last alphabetically.

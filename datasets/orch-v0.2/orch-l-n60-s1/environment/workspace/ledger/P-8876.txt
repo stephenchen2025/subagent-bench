@@ -1,0 +1,10 @@
+Ledger page P-8876
+
+account      amount   see page
+Weber          -284   P-2558
+Silva          -123   P-7140
+Nakamura       -697   P-4560
+Baker          -128   P-7334
+Quinn          +335   P-4626
+
+Follow the entry with the largest debit (the most negative amount).

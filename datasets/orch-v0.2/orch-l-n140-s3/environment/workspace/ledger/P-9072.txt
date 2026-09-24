@@ -1,0 +1,10 @@
+Ledger page P-9072
+
+account      amount   see page
+Moreau         -645   P-3026
+Weber          +724   P-6651
+Eriksen        +895   P-9124
+Zhou           +112   P-5907
+Silva          +803   P-1121
+
+Follow the debit belonging to the account that comes last alphabetically.

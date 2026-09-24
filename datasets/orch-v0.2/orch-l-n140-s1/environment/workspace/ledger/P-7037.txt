@@ -1,0 +1,11 @@
+Ledger page P-7037
+
+account      amount   see page
+Kowalski       -558   P-4075
+Vance          +887   P-6163
+Lambert        +342   P-6365
+Tanaka         -624   P-6134
+Weber          -740   P-8392
+Rahman         -705   P-9655
+
+Follow the entry with the largest debit (the most negative amount).

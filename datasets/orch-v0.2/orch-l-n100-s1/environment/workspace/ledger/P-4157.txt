@@ -1,0 +1,10 @@
+Ledger page P-4157
+
+account      amount   see page
+Abbott         +230   P-3192
+Moreau         -230   P-2774
+Ibarra         -345   P-8793
+Park           +693   P-6851
+Osei           +387   P-8489
+
+Follow the credit belonging to the account that comes first alphabetically.

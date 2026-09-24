@@ -1,0 +1,10 @@
+Ledger page P-8917
+
+account      amount   see page
+Kowalski       +110   P-1132
+Xu             +557   P-5458
+Weber          +164   P-9617
+Lambert        -423   P-8600
+Osei            -66   P-5699
+
+Follow the entry with the second-largest amount.

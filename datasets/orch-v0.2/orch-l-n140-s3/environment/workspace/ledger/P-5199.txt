@@ -1,0 +1,12 @@
+Ledger page P-5199
+
+account      amount   see page
+Moreau         -162   P-4744
+Tanaka         +289   P-8123
+Umar           -373   P-9022
+Grant          -535   P-1869
+Young          -390   P-5499
+Nakamura        -12   P-8027
+Vance          +235   P-7254
+
+Follow the entry with the largest debit (the most negative amount).

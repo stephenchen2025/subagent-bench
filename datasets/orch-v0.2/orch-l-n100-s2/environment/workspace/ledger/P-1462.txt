@@ -1,0 +1,11 @@
+Ledger page P-1462
+
+account      amount   see page
+Rahman         +397   P-2286
+Baker          -325   P-6025
+Grant          +735   P-7713
+Quinn          -363   P-5287
+Eriksen         -94   P-2413
+Abbott         -231   P-8919
+
+Follow the debit belonging to the account that comes last alphabetically.

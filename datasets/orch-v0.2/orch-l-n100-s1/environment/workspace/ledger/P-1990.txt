@@ -1,0 +1,10 @@
+Ledger page P-1990
+
+account      amount   see page
+Ibarra         -632   P-9048
+Eriksen        -351   P-8600
+Hughes         -132   P-7418
+Zhou           -465   P-4937
+Vance          +489   P-5218
+
+Follow the debit belonging to the account that comes last alphabetically.

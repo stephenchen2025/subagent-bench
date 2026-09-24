@@ -1,0 +1,11 @@
+Ledger page P-5527
+
+account      amount   see page
+Fofana         +771   P-5084
+Abbott         +286   P-6695
+Rahman         -215   P-2622
+Tanaka         +564   P-9487
+Grant          -850   P-8045
+Jensen         +388   P-2413
+
+Follow the entry with the largest debit (the most negative amount).

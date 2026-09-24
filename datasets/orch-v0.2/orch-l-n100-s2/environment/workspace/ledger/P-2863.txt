@@ -1,0 +1,12 @@
+Ledger page P-2863
+
+account      amount   see page
+Quinn          -351   P-4334
+Dunn            -97   P-9066
+Castillo       +295   P-4263
+Park           +509   P-5863
+Jensen          -52   P-6140
+Zhou           -324   P-2073
+Umar           -496   P-6803
+
+Follow the entry with the second-largest amount.

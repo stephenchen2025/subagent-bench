@@ -1,0 +1,12 @@
+Ledger page P-4942
+
+account      amount   see page
+Young            +5   P-4846
+Osei            -24   P-8493
+Grant          +468   P-4912
+Umar           -369   P-3833
+Zhou           -428   P-5312
+Quinn          +731   P-3913
+Moreau         +736   P-9792
+
+Follow the entry with the largest debit (the most negative amount).

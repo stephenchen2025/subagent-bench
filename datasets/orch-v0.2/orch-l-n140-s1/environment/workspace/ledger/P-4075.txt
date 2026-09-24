@@ -1,0 +1,10 @@
+Ledger page P-4075
+
+account      amount   see page
+Ibarra          -54   P-7333
+Eriksen         +68   P-5299
+Abbott         +780   P-8127
+Park           +217   P-2711
+Osei           -626   P-3005
+
+Follow the debit belonging to the account that comes last alphabetically.

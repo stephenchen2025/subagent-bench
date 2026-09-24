@@ -1,0 +1,10 @@
+Ledger page P-4281
+
+account      amount   see page
+Quinn           +23   P-5633
+Baker          -858   P-6129
+Young          +616   P-9623
+Hughes         -356   P-8065
+Ibarra         +694   P-5159
+
+Follow the entry with the second-largest amount.

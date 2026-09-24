@@ -1,0 +1,57 @@
+Ticket T-1255
+Customer: Tomas Novak
+Orders on file: ORD-84072, ORD-38093, ORD-35744, ORD-58450
+Opened: 2026-01-08 via chat transcript
+
+Order details:
+ORD-84072  placed 2026-01-17  status: in transit  total: $395.43
+  payment method: card ending 8342  ship to: 361 Harbor Rd
+  - mechanical keyboard x1
+  - spare battery pack x2
+  - microfiber cloth x2
+ORD-38093  placed 2026-03-07  status: delivered  total: $80.89
+  payment method: card ending 1958  ship to: 283 Oak Rd
+  - blender x1
+  - stainless water bottle, 750ml x2
+  - merino socks, size M x1
+ORD-35744  placed 2026-01-07  status: label created  total: $463.64
+  payment method: card ending 3518  ship to: 259 Cedar Rd
+  - bike light set x1
+  - stainless water bottle, 750ml x1
+  - merino socks, size M x1
+  - extended warranty, 2 years x2
+  - replacement filter cartridge, 3-pack x2
+ORD-58450  placed 2026-06-03  status: delivered  total: $21.37
+  payment method: card ending 7953  ship to: 264 Mill Rd
+  - carry-on suitcase x1
+  - replacement filter cartridge, 3-pack x2
+  - carabiner set x1
+  - extended warranty, 2 years x3
+
+--- message 1 from Tomas Novak ---
+I'd like to return the trail running shoes from ORD-84072; it's the wrong size. I tried the chat widget first but it kept disconnecting. Your app logged me out twice while I was looking at this, which didn't help. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Tomas Novak
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Arjun (support) ---
+I've resent the confirmation email for ORD-58450 to the address on file. Our warehouse shows ORD-58450 left on schedule. Let me know if anything else looks off. Loyalty points post about a week after an order is delivered.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Tomas Novak ---
+I'd rather not call; the hold times last time were very long. The box for ORD-84072 was a bit crushed but the contents were fine. I'm happy to send screenshots if that helps. Could you also tell me whether ORD-58450 qualifies for the extended return window?
+
+Thanks,
+Tomas Novak
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Arjun (support) ---
+I can see all the orders on your account, including ORD-84072. For ORD-84072, the return window is 30 days from delivery. Let me know if anything else looks off. Loyalty points post about a week after an order is delivered.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

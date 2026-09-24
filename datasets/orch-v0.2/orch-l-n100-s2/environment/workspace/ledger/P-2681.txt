@@ -1,0 +1,10 @@
+Ledger page P-2681
+
+account      amount   see page
+Hughes          -59   P-2042
+Young          +837   P-9251
+Jensen         +390   P-4623
+Fofana         -468   P-2522
+Umar           -240   P-9189
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,10 @@
+Ledger page P-6683
+
+account      amount   see page
+Tanaka         +463   P-6128
+Xu             -522   P-5170
+Weber          -754   P-1315
+Vance          -868   P-2295
+Umar           -642   P-2703
+
+Follow the entry whose amount is closest to zero.

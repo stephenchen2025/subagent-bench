@@ -1,0 +1,10 @@
+Ledger page P-3188
+
+account      amount   see page
+Castillo       -891   P-1886
+Xu             -692   P-9807
+Baker          +434   P-3914
+Hughes         +123   P-5159
+Fofana         -550   P-8653
+
+Follow the debit belonging to the account that comes last alphabetically.

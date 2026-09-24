@@ -1,0 +1,10 @@
+Ledger page P-2087
+
+account      amount   see page
+Silva          +142   P-8020
+Quinn          -729   P-4148
+Kowalski       -762   P-3477
+Moreau         -297   P-1976
+Castillo       -188   P-3318
+
+Follow the entry whose amount is closest to zero.

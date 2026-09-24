@@ -1,0 +1,10 @@
+Ledger page P-8523
+
+account      amount   see page
+Quinn          -350   P-7050
+Umar             +6   P-8701
+Park           +639   P-3878
+Tanaka         +267   P-1630
+Vance          -149   P-2912
+
+Follow the entry with the second-largest amount.

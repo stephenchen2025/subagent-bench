@@ -1,0 +1,10 @@
+Ledger page P-1558
+
+account      amount   see page
+Moreau         -875   P-1246
+Dunn           -588   P-2719
+Tanaka         +775   P-5686
+Grant          -144   P-6577
+Abbott         -289   P-8937
+
+Follow the entry whose amount is closest to zero.

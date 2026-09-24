@@ -1,0 +1,12 @@
+Ledger page P-9414
+
+account      amount   see page
+Park           +128   P-1764
+Dunn           -673   P-5686
+Young          +198   P-3147
+Castillo       +659   P-1611
+Weber          +817   P-8845
+Abbott         -592   P-2245
+Rahman         -541   P-7473
+
+Follow the entry with the largest credit.

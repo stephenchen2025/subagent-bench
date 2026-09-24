@@ -1,0 +1,72 @@
+Ticket T-7658
+Customer: Ines Duarte
+Orders on file: ORD-46326, ORD-67281, ORD-86071, ORD-40046
+Opened: 2026-01-15 via web form
+
+Order details:
+ORD-46326  placed 2026-03-28  status: delivered  total: $157.83
+  payment method: card ending 4510  ship to: 584 Mill Rd
+  - standing desk x1
+  - carabiner set x2
+  - replacement filter cartridge, 3-pack x1
+  - spare battery pack x1
+  - travel pouch x1
+ORD-67281  placed 2026-07-21  status: returned  total: $94.79
+  payment method: card ending 7611  ship to: 291 Oak Lane
+  - water filter pitcher x1
+  - gift wrap x1
+  - USB-C charging cable (2m) x3
+  - travel pouch x3
+  - replacement filter cartridge, 3-pack x2
+ORD-86071  placed 2026-07-23  status: delivered  total: $211.72
+  payment method: card ending 6357  ship to: 564 Mill Ave
+  - bike light set x1
+  - spare battery pack x2
+  - travel pouch x2
+ORD-40046  placed 2026-01-20  status: delivered  total: $161.17
+  payment method: card ending 8786  ship to: 932 Cedar Ave
+  - rain jacket x1
+  - travel pouch x1
+  - stainless water bottle, 750ml x1
+  - merino socks, size M x2
+
+--- message 1 from Ines Duarte ---
+Can I use a gift card on ORD-86071, or is it too late? I'm happy to send screenshots if that helps. Tracking for ORD-46326 hasn't updated since Tuesday. My partner placed ORD-40046 on our shared account, in case that matters.
+
+Thanks,
+Ines Duarte
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Rosa (support) ---
+I've added a note to your account so the next agent has the context. For ORD-86071, the return window is 30 days from delivery. Let me know if anything else looks off. I can see all the orders on your account, including ORD-40046.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ines Duarte ---
+The box for ORD-46326 was a bit crushed but the contents were fine. Your app logged me out twice while I was looking at this, which didn't help. I tried the chat widget first but it kept disconnecting. Could you also tell me whether ORD-86071 qualifies for the extended return window?
+
+Best regards,
+Ines Duarte
+
+--- message 4 from Rosa (support) ---
+If you need an invoice for ORD-46326, you can download it from the Orders page. I've resent the confirmation email for ORD-86071 to the address on file. I can see all the orders on your account, including ORD-40046. Screenshots aren't necessary, but thank you for offering.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Ines Duarte ---
+I tried the chat widget first but it kept disconnecting. I'm happy to send screenshots if that helps. I changed my shipping address last month, so please double-check you have the new one. I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Ines Duarte
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Rosa (support) ---
+Our warehouse shows ORD-86071 left on schedule. Thanks for reaching out, and sorry for the trouble. I've updated your shipping address on file. Let me know if anything else looks off.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

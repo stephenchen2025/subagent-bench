@@ -1,0 +1,11 @@
+Ledger page P-4279
+
+account      amount   see page
+Vance          -324   P-3094
+Abbott         +444   P-1481
+Park           +800   P-3460
+Baker          +248   P-8489
+Quinn          +381   P-1990
+Kowalski       +331   P-8793
+
+Follow the debit belonging to the account that comes last alphabetically.

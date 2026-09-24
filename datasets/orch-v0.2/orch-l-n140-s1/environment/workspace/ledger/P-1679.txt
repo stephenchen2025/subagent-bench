@@ -1,0 +1,10 @@
+Ledger page P-1679
+
+account      amount   see page
+Abbott         +112   P-7714
+Rahman         -134   P-8313
+Tanaka         -554   P-3690
+Castillo       -617   P-3054
+Quinn          +778   P-3839
+
+Follow the entry whose amount is closest to zero.

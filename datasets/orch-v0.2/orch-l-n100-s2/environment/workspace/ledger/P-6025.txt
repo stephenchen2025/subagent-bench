@@ -1,0 +1,12 @@
+Ledger page P-6025
+
+account      amount   see page
+Xu              -96   P-7157
+Castillo       +233   P-5626
+Jensen         +743   P-6017
+Moreau         +230   P-9746
+Zhou            -51   P-2622
+Vance          -243   P-8176
+Grant          -555   P-1779
+
+Follow the credit belonging to the account that comes first alphabetically.

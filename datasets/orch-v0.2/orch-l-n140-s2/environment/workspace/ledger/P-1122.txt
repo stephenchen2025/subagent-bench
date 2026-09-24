@@ -1,0 +1,11 @@
+Ledger page P-1122
+
+account      amount   see page
+Silva          +555   P-9553
+Abbott         -462   P-5945
+Baker          -658   P-1108
+Eriksen        -250   P-1962
+Fofana         -124   P-9072
+Ibarra          +26   P-1221
+
+Follow the debit belonging to the account that comes last alphabetically.

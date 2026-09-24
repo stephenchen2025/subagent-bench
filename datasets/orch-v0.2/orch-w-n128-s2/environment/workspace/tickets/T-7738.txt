@@ -1,0 +1,86 @@
+Ticket T-7738
+Customer: Elena Petrova
+Orders on file: ORD-53784, ORD-70718, ORD-35819, ORD-23029
+Opened: 2026-06-08 via chat transcript
+
+Order details:
+ORD-53784  placed 2026-07-09  status: in transit  total: $464.41
+  payment method: card ending 7171  ship to: 618 Harbor Lane
+  - wool blanket x1
+  - replacement filter cartridge, 3-pack x2
+  - travel pouch x1
+  - spare battery pack x1
+ORD-70718  placed 2026-01-06  status: in transit  total: $47.31
+  payment method: card ending 3547  ship to: 466 Harbor Lane
+  - cast iron skillet x1
+  - carabiner set x2
+  - USB-C charging cable (2m) x2
+  - microfiber cloth x2
+ORD-35819  placed 2026-07-26  status: delivered  total: $184.02
+  payment method: card ending 8124  ship to: 640 Elm Lane
+  - wool blanket x1
+  - spare battery pack x2
+  - merino socks, size M x1
+  - replacement filter cartridge, 3-pack x1
+  - microfiber cloth x2
+ORD-23029  placed 2026-08-23  status: label created  total: $147.85
+  payment method: card ending 8070  ship to: 170 Harbor Lane
+  - espresso grinder x1
+  - travel pouch x1
+  - spare battery pack x3
+  - stainless water bottle, 750ml x2
+  - extended warranty, 2 years x3
+
+--- message 1 from Elena Petrova ---
+Can I use a gift card on ORD-53784, or is it too late? Could you also tell me whether ORD-70718 qualifies for the extended return window? I tried the chat widget first but it kept disconnecting. Tracking for ORD-70718 hasn't updated since Tuesday.
+
+Elena Petrova
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Keiko (support) ---
+If you need an invoice for ORD-70718, you can download it from the Orders page. I've resent the confirmation email for ORD-53784 to the address on file. Loyalty points post about a week after an order is delivered. Screenshots aren't necessary, but thank you for offering.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Elena Petrova ---
+Unrelated, but my online banking double-charged me at a coffee shop last week, so I'm checking every line carefully now. Anyway, my actual question is about delivery for ORD-23029. The yoga mat itself is great, for what it's worth. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Elena Petrova
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Keiko (support) ---
+Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-70718. If you need an invoice for ORD-35819, you can download it from the Orders page.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Elena Petrova ---
+I've been a customer for a few years and usually everything goes smoothly. My earlier order ORD-70718 arrived fine, no complaints there. The box for ORD-53784 was a bit crushed but the contents were fine. Could you also tell me whether ORD-70718 qualifies for the extended return window?
+
+Elena Petrova
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Keiko (support) ---
+If you need an invoice for ORD-53784, you can download it from the Orders page. Loyalty points post about a week after an order is delivered. I've updated your shipping address on file. I can see all the orders on your account, including ORD-70718.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Elena Petrova ---
+I changed my shipping address last month, so please double-check you have the new one. I'm travelling next week, so email is the best way to reach me. My partner placed ORD-70718 on our shared account, in case that matters. Is there a way to combine loyalty points from ORD-70718 with my next purchase?
+
+Thanks,
+Elena Petrova
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Keiko (support) ---
+Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context. Screenshots aren't necessary, but thank you for offering. If you need an invoice for ORD-35819, you can download it from the Orders page.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,11 @@
+Ledger page P-1974
+
+account      amount   see page
+Grant          -754   P-7347
+Young          -147   P-8384
+Kowalski       -320   P-9588
+Eriksen        -235   P-9588
+Dunn           +892   P-2368
+Moreau         +154   P-5220
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,12 @@
+Ledger page P-5111
+
+account      amount   see page
+Moreau         +493   P-6147
+Rahman         +114   P-4401
+Ibarra         +193   P-5868
+Kowalski       +196   P-4202
+Baker          -873   P-9420
+Fofana         -813   P-3644
+Lambert        -258   P-8454
+
+Follow the credit belonging to the account that comes first alphabetically.

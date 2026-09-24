@@ -1,0 +1,12 @@
+Ledger page P-6988
+
+account      amount   see page
+Tanaka         -856   P-8127
+Zhou           +713   P-4354
+Eriksen         -23   P-7635
+Lambert        +818   P-5040
+Osei           -313   P-5624
+Young           +23   P-1076
+Kowalski       +615   P-7378
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,12 @@
+Ledger page P-8194
+
+account      amount   see page
+Zhou            +30   P-9770
+Silva           +22   P-1991
+Tanaka         -323   P-1373
+Hughes         -895   P-9769
+Baker          +219   P-5103
+Rahman         +625   P-1253
+Abbott          +45   P-6170
+
+Follow the entry with the largest debit (the most negative amount).

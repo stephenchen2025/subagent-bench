@@ -1,0 +1,11 @@
+Ledger page P-2035
+
+account      amount   see page
+Young          -573   P-1903
+Xu              +80   P-2156
+Abbott         +459   P-9322
+Umar           +678   P-1088
+Castillo       -731   P-6757
+Dunn           -334   P-7301
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,11 @@
+Ledger page P-8127
+
+account      amount   see page
+Nakamura       -521   P-1702
+Vance          +896   P-5207
+Weber          -799   P-6211
+Osei           +810   P-8313
+Rahman         -501   P-2530
+Moreau         +655   P-7257
+
+Follow the entry whose amount is closest to zero.

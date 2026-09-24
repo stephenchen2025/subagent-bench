@@ -1,0 +1,11 @@
+Ledger page P-9113
+
+account      amount   see page
+Eriksen        -606   P-2994
+Jensen         -647   P-3086
+Fofana         +509   P-1469
+Castillo       -323   P-8127
+Hughes         +756   P-1088
+Park           +216   P-5023
+
+Follow the entry with the largest credit.

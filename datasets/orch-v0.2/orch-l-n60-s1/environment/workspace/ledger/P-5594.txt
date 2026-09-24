@@ -1,0 +1,10 @@
+Ledger page P-5594
+
+account      amount   see page
+Xu             +209   P-2047
+Baker          -153   P-1566
+Grant          -462   P-2560
+Abbott         -537   P-6684
+Young          +254   P-6248
+
+Follow the debit belonging to the account that comes last alphabetically.

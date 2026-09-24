@@ -1,0 +1,12 @@
+Ledger page P-7464
+
+account      amount   see page
+Jensen         +893   P-7339
+Weber          +492   P-6897
+Rahman         -319   P-9730
+Hughes         +875   P-4898
+Umar           +502   P-8803
+Xu             -117   P-2529
+Abbott          +39   P-7067
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,12 @@
+Ledger page P-5140
+
+account      amount   see page
+Quinn          -749   P-7635
+Tanaka         -648   P-6102
+Kowalski       +697   P-3864
+Hughes         -450   P-1630
+Jensen         -785   P-8428
+Umar           +117   P-5729
+Moreau         -268   P-5023
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,12 @@
+Ledger page P-2006
+
+account      amount   see page
+Tanaka         -284   P-4717
+Umar           +234   P-5073
+Fofana          +71   P-9980
+Moreau         -215   P-2349
+Weber           +78   P-1886
+Young          -873   P-4793
+Dunn           +326   P-4744
+
+Follow the credit belonging to the account that comes first alphabetically.

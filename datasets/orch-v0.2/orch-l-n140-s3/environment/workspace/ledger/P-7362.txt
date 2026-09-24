@@ -1,0 +1,12 @@
+Ledger page P-7362
+
+account      amount   see page
+Jensen         -227   P-3306
+Quinn          +624   P-9827
+Baker          -783   P-3810
+Eriksen        +290   P-2919
+Castillo       -648   P-9588
+Kowalski       -617   P-5767
+Young           +98   P-9263
+
+Follow the entry whose amount is closest to zero.

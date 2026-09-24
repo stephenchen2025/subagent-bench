@@ -1,0 +1,12 @@
+Ledger page P-5517
+
+account      amount   see page
+Quinn          -552   P-6757
+Park           -869   P-4401
+Hughes         -844   P-8421
+Ibarra          -98   P-4972
+Abbott         +474   P-3904
+Baker          +830   P-4111
+Osei           -208   P-8313
+
+Follow the entry with the second-largest amount.

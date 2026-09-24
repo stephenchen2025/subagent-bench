@@ -1,0 +1,10 @@
+Ledger page P-4826
+
+account      amount   see page
+Vance          -653   P-7613
+Grant          +564   P-1221
+Weber          +638   P-9199
+Tanaka         -295   P-4112
+Eriksen        -525   P-6627
+
+Follow the entry whose amount is closest to zero.

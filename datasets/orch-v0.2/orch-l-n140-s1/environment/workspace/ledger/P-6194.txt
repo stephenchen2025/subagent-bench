@@ -1,0 +1,12 @@
+Ledger page P-6194
+
+account      amount   see page
+Abbott         +794   P-5550
+Umar           +123   P-5299
+Moreau         +738   P-6163
+Rahman         +419   P-3429
+Ibarra          -69   P-9630
+Vance          -154   P-5550
+Fofana          +69   P-5336
+
+Follow the entry with the largest debit (the most negative amount).

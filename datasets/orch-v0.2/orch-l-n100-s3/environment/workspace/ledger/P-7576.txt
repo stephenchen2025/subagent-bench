@@ -1,0 +1,10 @@
+Ledger page P-7576
+
+account      amount   see page
+Silva          -518   P-7551
+Abbott         +728   P-6679
+Osei           +232   P-6513
+Young          +374   P-3878
+Park           -859   P-2793
+
+Follow the entry whose amount is closest to zero.

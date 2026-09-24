@@ -1,0 +1,11 @@
+Ledger page P-3644
+
+account      amount   see page
+Xu             -200   P-8210
+Ibarra          +11   P-8018
+Nakamura       +820   P-2833
+Silva           -67   P-4744
+Zhou           -106   P-9084
+Baker          -500   P-2859
+
+Follow the entry with the second-largest amount.

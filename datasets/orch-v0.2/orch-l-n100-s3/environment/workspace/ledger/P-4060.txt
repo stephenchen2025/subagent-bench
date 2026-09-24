@@ -1,0 +1,10 @@
+Ledger page P-4060
+
+account      amount   see page
+Castillo       +240   P-1088
+Xu             +657   P-3359
+Silva          -390   P-2331
+Zhou           -149   P-6631
+Vance           -76   P-7198
+
+Follow the credit belonging to the account that comes first alphabetically.

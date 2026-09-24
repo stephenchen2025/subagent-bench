@@ -1,0 +1,10 @@
+Ledger page P-5299
+
+account      amount   see page
+Jensen         -760   P-7084
+Rahman         +124   P-5081
+Lambert         +65   P-1861
+Tanaka         +543   P-9363
+Grant          -183   P-1830
+
+Follow the entry with the largest credit.

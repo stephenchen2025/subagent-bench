@@ -1,0 +1,11 @@
+Ledger page P-2126
+
+account      amount   see page
+Weber          -610   P-8290
+Baker          +336   P-7672
+Castillo       +481   P-4056
+Lambert        +558   P-5560
+Quinn          +235   P-9546
+Nakamura       +171   P-5862
+
+Follow the entry with the second-largest amount.

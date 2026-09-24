@@ -1,0 +1,10 @@
+Ledger page P-9377
+
+account      amount   see page
+Xu              +39   P-9420
+Dunn           -235   P-3955
+Tanaka         +156   P-3677
+Abbott         +138   P-3834
+Nakamura       -882   P-1863
+
+Follow the entry whose amount is closest to zero.

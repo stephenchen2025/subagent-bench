@@ -1,0 +1,12 @@
+Ledger page P-3510
+
+account      amount   see page
+Moreau         +526   P-1648
+Nakamura       -622   P-3569
+Vance          -302   P-6981
+Quinn          +653   P-6993
+Eriksen        +570   P-5564
+Osei           -711   P-4613
+Jensen         +673   P-2856
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,11 @@
+Ledger page P-8088
+
+account      amount   see page
+Abbott         +419   P-3892
+Park           -389   P-9256
+Dunn           +710   P-7652
+Moreau         -596   P-7644
+Zhou           -878   P-9199
+Vance          -448   P-9983
+
+Follow the debit belonging to the account that comes last alphabetically.

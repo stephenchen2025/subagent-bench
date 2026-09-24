@@ -1,0 +1,12 @@
+Ledger page P-3179
+
+account      amount   see page
+Park           +702   P-7473
+Tanaka         +703   P-7613
+Castillo       -442   P-4783
+Lambert        -233   P-9669
+Young            -7   P-5499
+Baker          +451   P-3598
+Osei           +617   P-9110
+
+Follow the credit belonging to the account that comes first alphabetically.

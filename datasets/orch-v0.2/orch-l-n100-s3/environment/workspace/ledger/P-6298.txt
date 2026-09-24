@@ -1,0 +1,10 @@
+Ledger page P-6298
+
+account      amount   see page
+Tanaka         +765   P-9743
+Grant          -359   P-8917
+Hughes         +133   P-9456
+Park            -31   P-1846
+Quinn          +381   P-1945
+
+Follow the entry with the second-largest amount.

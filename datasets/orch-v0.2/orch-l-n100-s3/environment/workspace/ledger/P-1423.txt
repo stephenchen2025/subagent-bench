@@ -1,0 +1,10 @@
+Ledger page P-1423
+
+account      amount   see page
+Eriksen        +280   P-3685
+Tanaka         +401   P-2904
+Grant          -667   P-2904
+Abbott         +893   P-4812
+Baker          +197   P-3683
+
+Follow the entry with the largest credit.

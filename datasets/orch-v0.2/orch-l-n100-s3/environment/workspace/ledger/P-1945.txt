@@ -1,0 +1,11 @@
+Ledger page P-1945
+
+account      amount   see page
+Dunn           +401   P-6924
+Rahman         +247   P-6398
+Kowalski       -623   P-5206
+Abbott         -465   P-7888
+Jensen         +705   P-9689
+Weber          +544   P-5993
+
+Follow the entry with the largest debit (the most negative amount).

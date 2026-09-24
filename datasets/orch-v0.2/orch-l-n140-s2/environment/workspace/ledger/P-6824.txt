@@ -1,0 +1,10 @@
+Ledger page P-6824
+
+account      amount   see page
+Quinn          -595   P-6706
+Vance          +816   P-7865
+Fofana         -861   P-8166
+Park           +173   P-9711
+Eriksen        +575   P-3501
+
+Follow the debit belonging to the account that comes last alphabetically.

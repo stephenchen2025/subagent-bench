@@ -1,0 +1,10 @@
+Ledger page P-9669
+
+account      amount   see page
+Tanaka         +795   P-4046
+Abbott          -90   P-7470
+Grant          -441   P-9455
+Osei           -559   P-7336
+Umar           +193   P-8330
+
+Follow the entry with the second-largest amount.

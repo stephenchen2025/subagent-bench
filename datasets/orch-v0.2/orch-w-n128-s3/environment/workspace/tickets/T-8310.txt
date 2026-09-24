@@ -1,0 +1,68 @@
+Ticket T-8310
+Customer: Ben Carter
+Orders on file: ORD-20312, ORD-24110, ORD-20521, ORD-93269
+Opened: 2026-08-02 via email
+
+Order details:
+ORD-20312  placed 2026-01-28  status: label created  total: $147.11
+  payment method: card ending 2762  ship to: 768 Cedar Ave
+  - rain jacket x1
+  - extended warranty, 2 years x3
+  - replacement filter cartridge, 3-pack x3
+  - carabiner set x3
+ORD-24110  placed 2026-02-07  status: label created  total: $464.05
+  payment method: card ending 3284  ship to: 630 Mill St
+  - mechanical keyboard x1
+  - stainless water bottle, 750ml x1
+  - merino socks, size M x1
+  - carabiner set x2
+ORD-20521  placed 2026-04-09  status: delivered  total: $390.47
+  payment method: card ending 7651  ship to: 233 Cedar Lane
+  - blender x1
+  - travel pouch x2
+  - gift wrap x3
+ORD-93269  placed 2026-01-25  status: delivered  total: $187.35
+  payment method: card ending 9526  ship to: 66 Oak Lane
+  - trail running shoes x1
+  - carabiner set x2
+  - travel pouch x1
+
+--- message 1 from Ben Carter ---
+How do I reset my password? The reset link keeps expiring. My earlier order ORD-24110 arrived fine, no complaints there. Tracking for ORD-20312 hasn't updated since Tuesday. I'm happy to send screenshots if that helps.
+
+Thanks,
+Ben Carter
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Dana (support) ---
+Our warehouse shows ORD-20521 left on schedule. If you need an invoice for ORD-20312, you can download it from the Orders page. For ORD-20521, the return window is 30 days from delivery. I can see all the orders on your account, including ORD-20312.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ben Carter ---
+The box for ORD-24110 was a bit crushed but the contents were fine. I've been a customer for a few years and usually everything goes smoothly. Your app logged me out twice while I was looking at this, which didn't help. I'm happy to send screenshots if that helps.
+
+Best regards,
+Ben Carter
+
+--- message 4 from Dana (support) ---
+I've resent the confirmation email for ORD-20521 to the address on file. Let me know if anything else looks off. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-20312 left on schedule.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Ben Carter ---
+The water filter pitcher itself is great, for what it's worth. I'd rather not call; the hold times last time were very long. The confirmation email for ORD-20521 went to my spam folder, so I only just saw it. I'm travelling next week, so email is the best way to reach me.
+
+Ben Carter
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Dana (support) ---
+I've added a note to your account so the next agent has the context. I've updated your shipping address on file. I've resent the confirmation email for ORD-24110 to the address on file. Our warehouse shows ORD-20521 left on schedule.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

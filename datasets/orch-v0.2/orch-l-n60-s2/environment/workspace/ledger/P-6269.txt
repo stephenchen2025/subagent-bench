@@ -1,0 +1,11 @@
+Ledger page P-6269
+
+account      amount   see page
+Nakamura       +225   P-2008
+Ibarra          -71   P-3340
+Weber          +295   P-7464
+Kowalski       +275   P-9604
+Grant          -647   P-8410
+Silva          -665   P-3260
+
+Follow the entry whose amount is closest to zero.

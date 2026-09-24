@@ -1,0 +1,11 @@
+Ledger page P-8753
+
+account      amount   see page
+Umar           +399   P-2417
+Xu              -85   P-8805
+Silva          +163   P-2338
+Dunn           +325   P-7965
+Weber          -827   P-6883
+Vance          +162   P-4890
+
+Follow the entry with the second-largest amount.

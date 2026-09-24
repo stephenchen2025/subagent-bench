@@ -1,0 +1,68 @@
+Ticket T-4257
+Customer: Ben Carter
+Orders on file: ORD-76610, ORD-92632, ORD-92672, ORD-97355
+Opened: 2026-04-07 via web form
+
+Order details:
+ORD-76610  placed 2026-08-22  status: in transit  total: $413.79
+  payment method: card ending 4161  ship to: 996 Oak Lane
+  - mechanical keyboard x1
+  - spare battery pack x3
+  - stainless water bottle, 750ml x1
+ORD-92632  placed 2026-04-18  status: delivered  total: $399.67
+  payment method: card ending 3796  ship to: 67 Mill Ave
+  - yoga mat x1
+  - merino socks, size M x2
+  - carabiner set x1
+ORD-92672  placed 2026-01-03  status: returned  total: $318.00
+  payment method: card ending 1185  ship to: 488 Cedar Rd
+  - noise-cancelling headphones x1
+  - carabiner set x3
+  - extended warranty, 2 years x3
+ORD-97355  placed 2026-07-05  status: label created  total: $27.20
+  payment method: card ending 4613  ship to: 10 Elm Rd
+  - noise-cancelling headphones x1
+  - microfiber cloth x1
+  - carabiner set x1
+  - merino socks, size M x2
+  - USB-C charging cable (2m) x1
+
+--- message 1 from Ben Carter ---
+The wool blanket from ORD-92632 arrived with a scratch on the side. Can I get a replacement? Is there a way to combine loyalty points from ORD-92632 with my next purchase? I'm travelling next week, so email is the best way to reach me. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Ben Carter
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Fatima (support) ---
+I've updated your shipping address on file. I've added a note to your account so the next agent has the context. I can see all the orders on your account, including ORD-76610. Loyalty points post about a week after an order is delivered.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ben Carter ---
+The confirmation email for ORD-92632 went to my spam folder, so I only just saw it. Tracking for ORD-92632 hasn't updated since Tuesday. Is there a way to combine loyalty points from ORD-92632 with my next purchase? I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Ben Carter
+
+--- message 4 from Fatima (support) ---
+I've updated your shipping address on file. Screenshots aren't necessary, but thank you for offering. I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-92632 to the address on file.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Ben Carter ---
+Is there a way to combine loyalty points from ORD-76610 with my next purchase? The standing desk itself is great, for what it's worth. I'd rather not call; the hold times last time were very long. I changed my shipping address last month, so please double-check you have the new one.
+
+Ben Carter
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Fatima (support) ---
+For ORD-92632, the return window is 30 days from delivery. Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context. Let me know if anything else looks off.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

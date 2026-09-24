@@ -1,0 +1,11 @@
+Ledger page P-9689
+
+account      amount   see page
+Silva          +372   P-8185
+Eriksen        -154   P-4067
+Quinn          +327   P-5497
+Dunn           -408   P-2188
+Grant          +784   P-3009
+Fofana         -745   P-9657
+
+Follow the debit belonging to the account that comes last alphabetically.

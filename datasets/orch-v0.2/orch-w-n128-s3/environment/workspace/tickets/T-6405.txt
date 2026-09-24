@@ -1,0 +1,58 @@
+Ticket T-6405
+Customer: Ravi Iyer
+Orders on file: ORD-10245, ORD-89167, ORD-22396, ORD-90361
+Opened: 2026-03-05 via chat transcript
+
+Order details:
+ORD-10245  placed 2026-04-14  status: delivered  total: $77.41
+  payment method: card ending 3070  ship to: 278 Mill Ave
+  - trail running shoes x1
+  - spare battery pack x1
+  - carabiner set x2
+ORD-89167  placed 2026-04-20  status: returned  total: $96.92
+  payment method: card ending 6187  ship to: 50 Cedar Ave
+  - rain jacket x1
+  - travel pouch x2
+  - microfiber cloth x1
+  - spare battery pack x1
+  - replacement filter cartridge, 3-pack x1
+ORD-22396  placed 2026-06-22  status: delivered  total: $160.68
+  payment method: card ending 5335  ship to: 793 Elm Lane
+  - yoga mat x1
+  - travel pouch x1
+  - merino socks, size M x2
+  - extended warranty, 2 years x2
+ORD-90361  placed 2026-05-15  status: label created  total: $420.54
+  payment method: card ending 4838  ship to: 43 Harbor St
+  - bike light set x1
+  - stainless water bottle, 750ml x3
+  - merino socks, size M x3
+  - USB-C charging cable (2m) x3
+  - microfiber cloth x3
+
+--- message 1 from Ravi Iyer ---
+Can I use a gift card on ORD-22396, or is it too late? The box for ORD-90361 was a bit crushed but the contents were fine. The rain jacket itself is great, for what it's worth. I tried the chat widget first but it kept disconnecting.
+
+Ravi Iyer
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Luis (support) ---
+I've updated your shipping address on file. I can see all the orders on your account, including ORD-22396. Our warehouse shows ORD-89167 left on schedule. Thanks for reaching out, and sorry for the trouble.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ravi Iyer ---
+The bike light set itself is great, for what it's worth. Is there a way to combine loyalty points from ORD-22396 with my next purchase? I changed my shipping address last month, so please double-check you have the new one. My partner placed ORD-89167 on our shared account, in case that matters.
+
+Thanks,
+Ravi Iyer
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Luis (support) ---
+Screenshots aren't necessary, but thank you for offering. I've updated your shipping address on file. I can see all the orders on your account, including ORD-89167. I've added a note to your account so the next agent has the context.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

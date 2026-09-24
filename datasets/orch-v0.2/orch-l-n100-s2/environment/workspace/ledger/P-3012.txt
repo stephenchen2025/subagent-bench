@@ -1,0 +1,11 @@
+Ledger page P-3012
+
+account      amount   see page
+Castillo       -886   P-6017
+Vance          -833   P-9546
+Rahman         +748   P-2604
+Xu             -249   P-3108
+Dunn           -717   P-8857
+Jensen         +381   P-3274
+
+Follow the entry with the largest debit (the most negative amount).

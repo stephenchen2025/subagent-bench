@@ -1,0 +1,10 @@
+Ledger page P-4426
+
+account      amount   see page
+Jensen         -188   P-8755
+Kowalski       -448   P-7256
+Lambert        +519   P-4051
+Abbott         -730   P-5107
+Moreau         +511   P-6411
+
+Follow the entry with the second-largest amount.

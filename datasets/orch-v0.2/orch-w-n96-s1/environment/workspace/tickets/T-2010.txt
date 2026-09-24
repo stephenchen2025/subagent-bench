@@ -1,0 +1,84 @@
+Ticket T-2010
+Customer: Elena Petrova
+Orders on file: ORD-96719, ORD-99870, ORD-96613, ORD-89597
+Opened: 2026-05-08 via web form
+
+Order details:
+ORD-96719  placed 2026-07-12  status: label created  total: $250.13
+  payment method: card ending 7614  ship to: 860 Oak Ave
+  - yoga mat x1
+  - spare battery pack x1
+  - replacement filter cartridge, 3-pack x2
+  - gift wrap x2
+  - extended warranty, 2 years x1
+ORD-99870  placed 2026-01-04  status: delivered  total: $214.08
+  payment method: card ending 9828  ship to: 956 Cedar Ave
+  - trail running shoes x1
+  - stainless water bottle, 750ml x1
+  - carabiner set x2
+  - extended warranty, 2 years x2
+  - USB-C charging cable (2m) x2
+ORD-96613  placed 2026-05-17  status: delivered  total: $352.67
+  payment method: card ending 2116  ship to: 31 Oak Ave
+  - rain jacket x1
+  - carabiner set x3
+  - extended warranty, 2 years x2
+  - gift wrap x3
+  - USB-C charging cable (2m) x3
+ORD-89597  placed 2026-01-11  status: delivered  total: $81.86
+  payment method: card ending 8313  ship to: 333 Elm Lane
+  - rain jacket x1
+  - spare battery pack x1
+  - microfiber cloth x3
+
+--- message 1 from Elena Petrova ---
+I'd like to return the wool blanket from ORD-99870; it's the wrong size. Could you also tell me whether ORD-99870 qualifies for the extended return window? My partner placed ORD-96719 on our shared account, in case that matters. The confirmation email for ORD-99870 went to my spam folder, so I only just saw it.
+
+Elena Petrova
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Marcus (support) ---
+I've updated your shipping address on file. For ORD-96719, the return window is 30 days from delivery. I can see all the orders on your account, including ORD-96719. Let me know if anything else looks off.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Elena Petrova ---
+The $163.66 for ORD-96613 came out of my account, and then the same $163.66 came out again the next morning. I'm happy to send screenshots if that helps. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Elena Petrova
+
+--- message 4 from Marcus (support) ---
+Our warehouse shows ORD-96719 left on schedule. Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Elena Petrova ---
+Is there a way to combine loyalty points from ORD-99870 with my next purchase? The wool blanket itself is great, for what it's worth. Your app logged me out twice while I was looking at this, which didn't help. My earlier order ORD-89597 arrived fine, no complaints there.
+
+Elena Petrova
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Marcus (support) ---
+Let me know if anything else looks off. For ORD-96719, the return window is 30 days from delivery. Our warehouse shows ORD-99870 left on schedule. I've added a note to your account so the next agent has the context.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Elena Petrova ---
+My partner placed ORD-99870 on our shared account, in case that matters. Your app logged me out twice while I was looking at this, which didn't help. I tried the chat widget first but it kept disconnecting. Tracking for ORD-96719 hasn't updated since Tuesday.
+
+Best regards,
+Elena Petrova
+
+--- message 8 from Marcus (support) ---
+Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-99870, you can download it from the Orders page. I've updated your shipping address on file. Our warehouse shows ORD-99870 left on schedule.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

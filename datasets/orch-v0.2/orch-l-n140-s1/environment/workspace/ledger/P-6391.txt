@@ -1,0 +1,12 @@
+Ledger page P-6391
+
+account      amount   see page
+Abbott         +710   P-3335
+Nakamura       +367   P-4730
+Vance          -681   P-6691
+Kowalski       -614   P-3489
+Lambert        +404   P-3086
+Park           +273   P-2675
+Dunn            +87   P-4680
+
+Follow the entry with the largest credit.

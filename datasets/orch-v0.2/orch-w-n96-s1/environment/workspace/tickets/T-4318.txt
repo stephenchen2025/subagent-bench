@@ -1,0 +1,74 @@
+Ticket T-4318
+Customer: Noah Fischer
+Orders on file: ORD-48322, ORD-83039, ORD-75431, ORD-99913
+Opened: 2026-05-10 via email
+
+Order details:
+ORD-48322  placed 2026-08-13  status: returned  total: $323.48
+  payment method: card ending 5234  ship to: 529 Oak Ave
+  - bike light set x1
+  - carabiner set x3
+  - stainless water bottle, 750ml x1
+ORD-83039  placed 2026-05-08  status: returned  total: $254.81
+  payment method: card ending 4643  ship to: 121 Mill Rd
+  - mechanical keyboard x1
+  - travel pouch x3
+  - USB-C charging cable (2m) x1
+ORD-75431  placed 2026-02-11  status: delivered  total: $182.78
+  payment method: card ending 4689  ship to: 213 Oak Lane
+  - carry-on suitcase x1
+  - stainless water bottle, 750ml x3
+  - microfiber cloth x2
+  - USB-C charging cable (2m) x2
+ORD-99913  placed 2026-02-13  status: delivered  total: $232.98
+  payment method: card ending 2587  ship to: 406 Elm Ave
+  - noise-cancelling headphones x1
+  - gift wrap x1
+  - USB-C charging cable (2m) x1
+
+--- message 1 from Noah Fischer ---
+I'd like to return the cast iron skillet from ORD-83039; it's the wrong size. I've been a customer for a few years and usually everything goes smoothly. I'd rather not call; the hold times last time were very long. The confirmation email for ORD-75431 went to my spam folder, so I only just saw it.
+
+Best regards,
+Noah Fischer
+
+--- message 2 from Fatima (support) ---
+Let me know if anything else looks off. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-75431 left on schedule. If you need an invoice for ORD-48322, you can download it from the Orders page.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Noah Fischer ---
+I was billed twice for ORD-99913 -- same amount, same day. Is there a way to combine loyalty points from ORD-83039 with my next purchase? I changed my shipping address last month, so please double-check you have the new one.
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Noah Fischer ---
+I changed my shipping address last month, so please double-check you have the new one. The box for ORD-83039 was a bit crushed but the contents were fine. Could you also tell me whether ORD-75431 qualifies for the extended return window? Is there a way to combine loyalty points from ORD-75431 with my next purchase?
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 5 from Fatima (support) ---
+Our warehouse shows ORD-75431 left on schedule. I've added a note to your account so the next agent has the context. Let me know if anything else looks off. I've updated your shipping address on file.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Noah Fischer ---
+The box for ORD-83039 was a bit crushed but the contents were fine. I changed my shipping address last month, so please double-check you have the new one. I've been a customer for a few years and usually everything goes smoothly. My earlier order ORD-83039 arrived fine, no complaints there.
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Fatima (support) ---
+Screenshots aren't necessary, but thank you for offering. I've added a note to your account so the next agent has the context. If you need an invoice for ORD-83039, you can download it from the Orders page. I can see all the orders on your account, including ORD-75431.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

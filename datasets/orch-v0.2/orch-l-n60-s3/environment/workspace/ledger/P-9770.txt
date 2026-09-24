@@ -1,0 +1,11 @@
+Ledger page P-9770
+
+account      amount   see page
+Vance          +777   P-8869
+Quinn          +771   P-8860
+Lambert        +273   P-9544
+Tanaka         -394   P-4346
+Dunn           -240   P-3569
+Moreau         +578   P-3467
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,12 @@
+Ledger page P-3277
+
+account      amount   see page
+Weber          +599   P-9072
+Rahman         +628   P-9847
+Fofana         +826   P-9943
+Lambert        -432   P-7086
+Nakamura       +336   P-5124
+Silva          +733   P-8035
+Vance          +278   P-5574
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,10 @@
+Ledger page P-1352
+
+account      amount   see page
+Silva          -393   P-9602
+Nakamura       -518   P-4062
+Tanaka         -173   P-4064
+Osei            +57   P-6901
+Umar           -194   P-7037
+
+Follow the entry with the largest credit.

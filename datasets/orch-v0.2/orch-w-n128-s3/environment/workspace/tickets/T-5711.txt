@@ -1,0 +1,109 @@
+Ticket T-5711
+Customer: Samir Patel
+Orders on file: ORD-14176, ORD-10246, ORD-17681, ORD-92512
+Opened: 2026-03-25 via email
+
+Order details:
+ORD-14176  placed 2026-03-08  status: label created  total: $152.87
+  payment method: card ending 8470  ship to: 315 Harbor Lane
+  - rain jacket x1
+  - merino socks, size M x2
+  - stainless water bottle, 750ml x1
+  - carabiner set x2
+ORD-10246  placed 2026-02-10  status: label created  total: $88.61
+  payment method: card ending 1992  ship to: 350 Mill Rd
+  - standing desk x1
+  - carabiner set x1
+  - gift wrap x3
+  - merino socks, size M x3
+ORD-17681  placed 2026-08-04  status: delivered  total: $283.88
+  payment method: card ending 5647  ship to: 73 Harbor Ave
+  - water filter pitcher x1
+  - replacement filter cartridge, 3-pack x3
+  - stainless water bottle, 750ml x3
+  - carabiner set x3
+ORD-92512  placed 2026-07-05  status: delivered  total: $404.32
+  payment method: card ending 5503  ship to: 573 Elm Lane
+  - desk lamp x1
+  - stainless water bottle, 750ml x3
+  - replacement filter cartridge, 3-pack x1
+  - spare battery pack x2
+
+--- message 1 from Samir Patel ---
+The water filter pitcher from ORD-10246 arrived with a scratch on the side. Can I get a replacement? I'm happy to send screenshots if that helps. I've been a customer for a few years and usually everything goes smoothly. I tried the chat widget first but it kept disconnecting.
+
+Samir Patel
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Marcus (support) ---
+I've resent the confirmation email for ORD-14176 to the address on file. I've added a note to your account so the next agent has the context. I've updated your shipping address on file. Our warehouse shows ORD-10246 left on schedule.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Samir Patel ---
+There's an extra line for ORD-92512 on my online banking. It could just be a hold -- can you check? Is there a way to combine loyalty points from ORD-17681 with my next purchase? I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Samir Patel
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Marcus (support) ---
+Thanks for reaching out, and sorry for the trouble. For ORD-10246, the return window is 30 days from delivery. I've updated your shipping address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Samir Patel ---
+Just checked again -- both charges for ORD-92512 are settled now, not pending. I'm happy to send screenshots if that helps. The box for ORD-17681 was a bit crushed but the contents were fine.
+
+Samir Patel
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Marcus (support) ---
+I've resent the confirmation email for ORD-17681 to the address on file. If you need an invoice for ORD-17681, you can download it from the Orders page. Screenshots aren't necessary, but thank you for offering.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Marcus (support) ---
+Confirmed on our side -- ORD-92512 was captured twice by a retry in our checkout. One refund of $83.89 is on its way to you. Screenshots aren't necessary, but thank you for offering. I've added a note to your account so the next agent has the context.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Samir Patel ---
+I tried the chat widget first but it kept disconnecting. I'm travelling next week, so email is the best way to reach me. My partner placed ORD-10246 on our shared account, in case that matters.
+
+Samir Patel
+(Please reply by email rather than phone if possible.)
+
+--- message 9 from Samir Patel ---
+Tracking for ORD-14176 hasn't updated since Tuesday. I'm travelling next week, so email is the best way to reach me. The mechanical keyboard itself is great, for what it's worth. I've been a customer for a few years and usually everything goes smoothly.
+
+Samir Patel
+(Please reply by email rather than phone if possible.)
+
+--- message 10 from Marcus (support) ---
+I've updated your shipping address on file. If you need an invoice for ORD-14176, you can download it from the Orders page. I can see all the orders on your account, including ORD-10246. I've resent the confirmation email for ORD-14176 to the address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 11 from Samir Patel ---
+The confirmation email for ORD-14176 went to my spam folder, so I only just saw it. I've been a customer for a few years and usually everything goes smoothly. My partner placed ORD-17681 on our shared account, in case that matters. Tracking for ORD-10246 hasn't updated since Tuesday.
+
+Samir Patel
+(Please reply by email rather than phone if possible.)
+
+--- message 12 from Marcus (support) ---
+I can see all the orders on your account, including ORD-10246. Our warehouse shows ORD-17681 left on schedule. I've updated your shipping address on file. If you need an invoice for ORD-17681, you can download it from the Orders page.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

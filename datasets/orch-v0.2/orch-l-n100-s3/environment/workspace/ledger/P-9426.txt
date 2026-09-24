@@ -1,0 +1,12 @@
+Ledger page P-9426
+
+account      amount   see page
+Ibarra         -242   P-2589
+Zhou           -391   P-2246
+Jensen         -611   P-6140
+Dunn           -182   P-1719
+Weber          +480   P-7987
+Park           +476   P-4759
+Nakamura       -359   P-1315
+
+Follow the entry with the largest credit.

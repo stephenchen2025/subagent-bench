@@ -1,0 +1,12 @@
+Ledger page P-6371
+
+account      amount   see page
+Park           -506   P-3529
+Castillo       +315   P-3258
+Rahman         +314   P-9581
+Moreau         -731   P-1967
+Dunn           +848   P-3212
+Vance          -271   P-4344
+Eriksen        +113   P-2760
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,10 @@
+Ledger page P-1459
+
+account      amount   see page
+Rahman         -759   P-2536
+Vance          +345   P-3583
+Osei            +49   P-8523
+Hughes          -88   P-7261
+Dunn           -179   P-8185
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,11 @@
+Ledger page P-3439
+
+account      amount   see page
+Lambert        -456   P-1803
+Vance          -161   P-6680
+Castillo        -77   P-3768
+Kowalski       -272   P-6707
+Dunn           +525   P-7869
+Fofana         -240   P-5894
+
+Follow the entry with the largest debit (the most negative amount).

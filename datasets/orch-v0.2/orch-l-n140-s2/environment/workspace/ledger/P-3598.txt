@@ -1,0 +1,10 @@
+Ledger page P-3598
+
+account      amount   see page
+Tanaka         +388   P-8473
+Abbott         -774   P-8330
+Dunn           +585   P-2898
+Grant          +240   P-9589
+Moreau         +482   P-6762
+
+Follow the entry with the largest debit (the most negative amount).

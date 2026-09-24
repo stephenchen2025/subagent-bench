@@ -1,0 +1,10 @@
+Ledger page P-3203
+
+account      amount   see page
+Abbott          +53   P-5698
+Ibarra         +452   P-6306
+Kowalski       +383   P-6482
+Lambert        -215   P-7262
+Hughes         +522   P-1320
+
+Follow the credit belonging to the account that comes first alphabetically.

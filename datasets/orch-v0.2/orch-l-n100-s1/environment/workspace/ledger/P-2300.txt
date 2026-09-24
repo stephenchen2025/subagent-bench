@@ -1,0 +1,12 @@
+Ledger page P-2300
+
+account      amount   see page
+Fofana         +744   P-7388
+Vance          -401   P-2808
+Baker          -759   P-7418
+Umar           -706   P-9719
+Jensen         +877   P-4561
+Grant          +539   P-5739
+Castillo       -260   P-4344
+
+Follow the entry whose amount is closest to zero.

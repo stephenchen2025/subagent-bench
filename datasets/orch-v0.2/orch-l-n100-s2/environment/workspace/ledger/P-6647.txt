@@ -1,0 +1,10 @@
+Ledger page P-6647
+
+account      amount   see page
+Lambert        -314   P-5156
+Nakamura        +21   P-9956
+Baker           +94   P-9546
+Vance          -234   P-8027
+Zhou           -208   P-1779
+
+Follow the entry whose amount is closest to zero.

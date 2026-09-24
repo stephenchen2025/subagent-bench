@@ -1,0 +1,12 @@
+Ledger page P-1764
+
+account      amount   see page
+Tanaka         +124   P-4823
+Fofana         -282   P-5337
+Lambert        -888   P-7946
+Young          +210   P-4002
+Zhou           -424   P-5493
+Jensen         +298   P-1635
+Nakamura       -492   P-1872
+
+Follow the entry with the largest debit (the most negative amount).

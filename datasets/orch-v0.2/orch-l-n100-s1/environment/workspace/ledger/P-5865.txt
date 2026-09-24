@@ -1,0 +1,12 @@
+Ledger page P-5865
+
+account      amount   see page
+Baker          -798   P-6196
+Moreau         +285   P-8084
+Xu             +194   P-4094
+Park           -272   P-4481
+Zhou           -161   P-1608
+Vance            +1   P-8268
+Silva          -467   P-4499
+
+Follow the entry with the largest credit.

@@ -1,0 +1,10 @@
+Ledger page P-5817
+
+account      amount   see page
+Eriksen        -770   P-6511
+Ibarra         -421   P-5813
+Rahman         +532   P-2034
+Weber          +379   P-8121
+Quinn           +37   P-2812
+
+Follow the credit belonging to the account that comes first alphabetically.

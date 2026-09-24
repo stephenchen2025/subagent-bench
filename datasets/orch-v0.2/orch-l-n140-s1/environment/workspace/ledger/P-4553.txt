@@ -1,0 +1,10 @@
+Ledger page P-4553
+
+account      amount   see page
+Dunn           -885   P-4315
+Vance           +27   P-2429
+Rahman         +585   P-2985
+Lambert        +235   P-2197
+Baker          +748   P-5140
+
+Follow the entry with the largest debit (the most negative amount).

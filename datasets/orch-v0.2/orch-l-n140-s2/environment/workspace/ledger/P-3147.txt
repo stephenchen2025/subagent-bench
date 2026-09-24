@@ -1,0 +1,10 @@
+Ledger page P-3147
+
+account      amount   see page
+Xu             +125   P-4802
+Weber          +425   P-2994
+Vance          -816   P-5039
+Dunn            +27   P-6627
+Tanaka         -647   P-4194
+
+Follow the debit belonging to the account that comes last alphabetically.

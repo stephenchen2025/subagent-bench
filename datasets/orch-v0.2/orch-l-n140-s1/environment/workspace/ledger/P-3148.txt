@@ -1,0 +1,10 @@
+Ledger page P-3148
+
+account      amount   see page
+Hughes         +815   P-9113
+Vance          -233   P-5195
+Dunn           +874   P-1075
+Lambert        -803   P-4515
+Umar           -493   P-7022
+
+Follow the debit belonging to the account that comes last alphabetically.

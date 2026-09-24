@@ -1,0 +1,11 @@
+Ledger page P-7959
+
+account      amount   see page
+Silva          +697   P-6876
+Nakamura       -796   P-3686
+Castillo       -322   P-5195
+Weber          -900   P-5190
+Tanaka         -450   P-5119
+Zhou            -71   P-3691
+
+Follow the entry whose amount is closest to zero.

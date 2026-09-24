@@ -1,0 +1,10 @@
+Ledger page P-9584
+
+account      amount   see page
+Weber          +498   P-8573
+Lambert         -95   P-5535
+Xu             -303   P-9897
+Quinn          -832   P-6884
+Baker          -765   P-4327
+
+Follow the entry with the largest credit.

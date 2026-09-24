@@ -1,0 +1,11 @@
+Ledger page P-8657
+
+account      amount   see page
+Hughes         +883   P-2097
+Fofana         -398   P-4912
+Dunn           -871   P-1386
+Park           +628   P-1261
+Nakamura       +764   P-2943
+Weber          +816   P-7774
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,11 @@
+Ledger page P-2376
+
+account      amount   see page
+Weber          +765   P-5938
+Lambert         -84   P-9109
+Jensen         -852   P-8683
+Hughes         -687   P-9855
+Young          -404   P-6082
+Nakamura       -801   P-3474
+
+Follow the entry with the largest credit.

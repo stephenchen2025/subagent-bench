@@ -1,0 +1,12 @@
+Ledger page P-5261
+
+account      amount   see page
+Umar           +747   P-7763
+Nakamura       +760   P-9610
+Ibarra          -92   P-1864
+Eriksen        -675   P-9749
+Baker          -648   P-2057
+Quinn          -357   P-6581
+Kowalski       +271   P-2547
+
+Follow the entry with the second-largest amount.

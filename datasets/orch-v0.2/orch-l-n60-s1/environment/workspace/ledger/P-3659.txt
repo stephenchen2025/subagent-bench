@@ -1,0 +1,10 @@
+Ledger page P-3659
+
+account      amount   see page
+Vance           -84   P-2426
+Zhou           -874   P-4560
+Park           -693   P-8370
+Abbott         +248   P-6684
+Kowalski       -813   P-1438
+
+Follow the credit belonging to the account that comes first alphabetically.

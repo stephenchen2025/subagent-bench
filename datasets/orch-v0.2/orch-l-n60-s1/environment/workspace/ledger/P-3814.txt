@@ -1,0 +1,11 @@
+Ledger page P-3814
+
+account      amount   see page
+Hughes          -91   P-2390
+Castillo        +41   P-2390
+Abbott          -99   P-8846
+Rahman         +348   P-6342
+Weber          -734   P-2426
+Baker            +9   P-5513
+
+Follow the entry with the largest credit.

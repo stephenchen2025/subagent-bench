@@ -1,0 +1,10 @@
+Ledger page P-4593
+
+account      amount   see page
+Dunn           -860   P-2041
+Eriksen        +514   P-5116
+Young          +848   P-3219
+Moreau          -79   P-6186
+Tanaka         +274   P-2368
+
+Follow the entry whose amount is closest to zero.

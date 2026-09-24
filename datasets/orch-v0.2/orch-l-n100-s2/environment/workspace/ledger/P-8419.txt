@@ -1,0 +1,10 @@
+Ledger page P-8419
+
+account      amount   see page
+Ibarra         -255   P-6803
+Weber           +55   P-2286
+Moreau         -772   P-2413
+Hughes         -281   P-7383
+Silva          -513   P-8045
+
+Follow the entry with the largest credit.

@@ -1,0 +1,11 @@
+Ledger page P-6924
+
+account      amount   see page
+Vance          +666   P-6411
+Silva          +745   P-1252
+Fofana         -465   P-6581
+Eriksen        -190   P-3219
+Weber          -897   P-5618
+Rahman         -714   P-3721
+
+Follow the entry with the second-largest amount.

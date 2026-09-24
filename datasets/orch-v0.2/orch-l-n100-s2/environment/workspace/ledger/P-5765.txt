@@ -1,0 +1,12 @@
+Ledger page P-5765
+
+account      amount   see page
+Park           -830   P-9838
+Osei           +315   P-6025
+Castillo       +398   P-6722
+Hughes         -773   P-9241
+Rahman         -340   P-9675
+Vance           +98   P-9478
+Jensen         -569   P-3247
+
+Follow the entry with the second-largest amount.

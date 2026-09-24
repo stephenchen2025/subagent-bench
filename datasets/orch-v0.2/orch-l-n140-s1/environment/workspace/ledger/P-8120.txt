@@ -1,0 +1,11 @@
+Ledger page P-8120
+
+account      amount   see page
+Weber          -786   P-5215
+Lambert        -126   P-6512
+Nakamura       -125   P-6691
+Abbott          -14   P-6876
+Eriksen        +246   P-7487
+Umar           +441   P-2971
+
+Follow the entry with the second-largest amount.

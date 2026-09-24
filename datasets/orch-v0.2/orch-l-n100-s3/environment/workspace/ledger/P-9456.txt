@@ -1,0 +1,10 @@
+Ledger page P-9456
+
+account      amount   see page
+Silva          +133   P-7545
+Lambert        +119   P-4251
+Dunn            +61   P-3683
+Umar           +135   P-3019
+Baker          -152   P-6362
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,12 @@
+Ledger page P-8173
+
+account      amount   see page
+Quinn          +870   P-9487
+Osei           -456   P-9090
+Lambert        +307   P-8290
+Eriksen        -372   P-4735
+Tanaka         +770   P-2928
+Moreau         +771   P-7693
+Dunn           +848   P-3278
+
+Follow the entry whose amount is closest to zero.

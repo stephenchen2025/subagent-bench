@@ -1,0 +1,10 @@
+Ledger page P-8908
+
+account      amount   see page
+Rahman         -228   P-9109
+Lambert        -309   P-8892
+Ibarra         +230   P-9647
+Dunn           +543   P-9044
+Nakamura       +832   P-2779
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,10 @@
+Ledger page P-6639
+
+account      amount   see page
+Xu             +305   P-9322
+Vance          +194   P-8370
+Eriksen        -853   P-5261
+Jensen         +658   P-7893
+Umar           +165   P-2941
+
+Follow the entry with the second-largest amount.

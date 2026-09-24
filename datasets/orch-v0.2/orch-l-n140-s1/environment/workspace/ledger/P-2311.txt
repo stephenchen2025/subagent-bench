@@ -1,0 +1,11 @@
+Ledger page P-2311
+
+account      amount   see page
+Jensen          +78   P-5501
+Lambert        -817   P-8431
+Xu             -777   P-3407
+Osei            +14   P-9906
+Baker          -831   P-3686
+Ibarra         -404   P-2387
+
+Follow the entry with the largest credit.

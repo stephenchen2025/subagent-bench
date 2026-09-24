@@ -1,0 +1,10 @@
+Ledger page P-3488
+
+account      amount   see page
+Baker           +21   P-8832
+Young          -571   P-4952
+Quinn           -38   P-7970
+Zhou           -292   P-8393
+Moreau         -772   P-1695
+
+Follow the entry with the largest debit (the most negative amount).

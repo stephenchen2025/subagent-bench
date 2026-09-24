@@ -1,0 +1,11 @@
+Ledger page P-9604
+
+account      amount   see page
+Baker          -752   P-8985
+Moreau         +547   P-9683
+Quinn          +576   P-4880
+Osei           -866   P-7404
+Lambert        -420   P-3913
+Nakamura       -584   P-3249
+
+Follow the debit belonging to the account that comes last alphabetically.

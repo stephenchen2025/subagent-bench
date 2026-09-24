@@ -1,0 +1,10 @@
+Ledger page P-7848
+
+account      amount   see page
+Osei           +453   P-7763
+Ibarra         -864   P-2195
+Castillo       +881   P-8273
+Grant          +286   P-2991
+Dunn           -357   P-4993
+
+Follow the entry with the second-largest amount.

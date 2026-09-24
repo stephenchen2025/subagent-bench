@@ -1,0 +1,11 @@
+Ledger page P-3441
+
+account      amount   see page
+Umar           +636   P-6695
+Nakamura       +457   P-4727
+Park           -585   P-6572
+Dunn            -55   P-7889
+Kowalski       +323   P-5156
+Quinn          +600   P-2989
+
+Follow the entry with the largest debit (the most negative amount).

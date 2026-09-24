@@ -1,0 +1,10 @@
+Ledger page P-1536
+
+account      amount   see page
+Hughes         -294   P-7315
+Eriksen        +535   P-2708
+Vance          -619   P-5107
+Ibarra         +471   P-4478
+Umar           +690   P-6512
+
+Follow the entry with the largest credit.

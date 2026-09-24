@@ -1,0 +1,10 @@
+Ledger page P-7604
+
+account      amount   see page
+Hughes         -524   P-9572
+Lambert        +376   P-3449
+Young          +141   P-3081
+Osei           +833   P-9719
+Jensen         -481   P-5259
+
+Follow the entry whose amount is closest to zero.

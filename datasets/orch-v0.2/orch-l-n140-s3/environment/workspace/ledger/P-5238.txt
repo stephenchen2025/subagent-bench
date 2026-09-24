@@ -1,0 +1,10 @@
+Ledger page P-5238
+
+account      amount   see page
+Young          -517   P-5421
+Nakamura       +152   P-4925
+Zhou           +543   P-5661
+Rahman         +428   P-2232
+Silva          +136   P-2097
+
+Follow the entry with the largest debit (the most negative amount).

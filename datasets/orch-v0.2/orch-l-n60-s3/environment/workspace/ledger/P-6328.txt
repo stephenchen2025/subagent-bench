@@ -1,0 +1,10 @@
+Ledger page P-6328
+
+account      amount   see page
+Young          -890   P-6484
+Quinn          +599   P-6959
+Fofana         +767   P-4006
+Jensen         -479   P-7577
+Kowalski       -220   P-4661
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,12 @@
+Ledger page P-9741
+
+account      amount   see page
+Park           -271   P-1387
+Jensen         -671   P-3569
+Rahman         -628   P-6749
+Ibarra         -586   P-6046
+Young          +300   P-1621
+Hughes         -568   P-2856
+Kowalski       -512   P-4661
+
+Follow the entry whose amount is closest to zero.

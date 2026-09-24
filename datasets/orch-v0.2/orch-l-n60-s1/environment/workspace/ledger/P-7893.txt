@@ -1,0 +1,11 @@
+Ledger page P-7893
+
+account      amount   see page
+Nakamura       -577   P-1386
+Kowalski       -551   P-5513
+Moreau         -198   P-7667
+Zhou           -373   P-8318
+Castillo       -297   P-6446
+Baker          +476   P-7614
+
+Follow the entry with the largest debit (the most negative amount).

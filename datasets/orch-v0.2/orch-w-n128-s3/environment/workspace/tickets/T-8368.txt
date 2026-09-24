@@ -1,0 +1,70 @@
+Ticket T-8368
+Customer: Diego Alvarez
+Orders on file: ORD-52549, ORD-33384, ORD-11921, ORD-83447
+Opened: 2026-01-28 via chat transcript
+
+Order details:
+ORD-52549  placed 2026-07-24  status: delivered  total: $143.62
+  payment method: card ending 6359  ship to: 899 Cedar Rd
+  - carry-on suitcase x1
+  - merino socks, size M x3
+  - carabiner set x1
+  - replacement filter cartridge, 3-pack x1
+  - USB-C charging cable (2m) x3
+ORD-33384  placed 2026-04-20  status: returned  total: $416.00
+  payment method: card ending 9327  ship to: 417 Elm Rd
+  - rain jacket x1
+  - stainless water bottle, 750ml x1
+  - extended warranty, 2 years x3
+  - spare battery pack x1
+ORD-11921  placed 2026-06-10  status: delivered  total: $103.03
+  payment method: card ending 4432  ship to: 626 Mill Lane
+  - desk lamp x1
+  - extended warranty, 2 years x2
+  - stainless water bottle, 750ml x2
+ORD-83447  placed 2026-08-25  status: returned  total: $327.61
+  payment method: card ending 4988  ship to: 582 Elm Rd
+  - bike light set x1
+  - replacement filter cartridge, 3-pack x3
+  - USB-C charging cable (2m) x3
+
+--- message 1 from Diego Alvarez ---
+Can I use a gift card on ORD-33384, or is it too late? I changed my shipping address last month, so please double-check you have the new one. My earlier order ORD-33384 arrived fine, no complaints there. Could you also tell me whether ORD-33384 qualifies for the extended return window?
+
+Best regards,
+Diego Alvarez
+
+--- message 2 from Rosa (support) ---
+I can see all the orders on your account, including ORD-33384. Screenshots aren't necessary, but thank you for offering. I've updated your shipping address on file. For ORD-52549, the return window is 30 days from delivery.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Diego Alvarez ---
+Tracking for ORD-52549 hasn't updated since Tuesday. My earlier order ORD-52549 arrived fine, no complaints there. The water filter pitcher itself is great, for what it's worth. Is there a way to combine loyalty points from ORD-52549 with my next purchase?
+
+Thanks,
+Diego Alvarez
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Rosa (support) ---
+Our warehouse shows ORD-83447 left on schedule. Tracking updates can lag by a day or two with this carrier. Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Diego Alvarez ---
+I'd rather not call; the hold times last time were very long. The box for ORD-83447 was a bit crushed but the contents were fine. My earlier order ORD-83447 arrived fine, no complaints there. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Diego Alvarez
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Rosa (support) ---
+For ORD-52549, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context. If you need an invoice for ORD-83447, you can download it from the Orders page. Screenshots aren't necessary, but thank you for offering.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

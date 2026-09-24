@@ -1,0 +1,11 @@
+Ledger page P-4901
+
+account      amount   see page
+Tanaka         +408   P-1423
+Abbott         +220   P-9617
+Young          +797   P-3212
+Lambert        -712   P-4027
+Fofana          +57   P-9723
+Silva          -412   P-5876
+
+Follow the entry with the second-largest amount.

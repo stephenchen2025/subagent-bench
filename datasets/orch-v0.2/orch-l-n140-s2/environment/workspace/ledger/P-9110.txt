@@ -1,0 +1,12 @@
+Ledger page P-9110
+
+account      amount   see page
+Nakamura       -578   P-7693
+Lambert        +631   P-4607
+Ibarra         -767   P-3665
+Zhou            -25   P-5465
+Umar            -49   P-5111
+Weber          +896   P-3215
+Hughes         -407   P-6587
+
+Follow the entry whose amount is closest to zero.

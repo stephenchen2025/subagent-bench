@@ -1,0 +1,12 @@
+Ledger page P-6470
+
+account      amount   see page
+Jensen         +469   P-9065
+Moreau         -617   P-1211
+Castillo       -329   P-7121
+Zhou           -581   P-2413
+Baker          +779   P-7583
+Ibarra         +279   P-2863
+Quinn          -690   P-9256
+
+Follow the entry with the second-largest amount.

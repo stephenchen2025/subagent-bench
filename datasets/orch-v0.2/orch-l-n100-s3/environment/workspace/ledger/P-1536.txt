@@ -1,0 +1,11 @@
+Ledger page P-1536
+
+account      amount   see page
+Jensen         +390   P-2960
+Dunn           +508   P-7272
+Lambert        +743   P-3574
+Osei           -773   P-7576
+Young          +594   P-8009
+Ibarra         -328   P-1371
+
+Follow the credit belonging to the account that comes first alphabetically.

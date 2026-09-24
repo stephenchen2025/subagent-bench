@@ -1,0 +1,12 @@
+Ledger page P-3784
+
+account      amount   see page
+Quinn          +785   P-1149
+Zhou           -447   P-1720
+Weber          -769   P-7016
+Hughes         -195   P-8600
+Castillo       +810   P-6544
+Park           -623   P-1576
+Eriksen        -154   P-3596
+
+Follow the debit belonging to the account that comes last alphabetically.

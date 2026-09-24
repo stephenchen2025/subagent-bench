@@ -1,0 +1,11 @@
+Ledger page P-5858
+
+account      amount   see page
+Young          +355   P-1149
+Ibarra         +324   P-7274
+Tanaka          +45   P-1577
+Hughes          +98   P-8892
+Osei             -2   P-3473
+Xu             +843   P-7093
+
+Follow the entry with the largest credit.

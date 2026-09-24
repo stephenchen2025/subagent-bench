@@ -1,0 +1,11 @@
+Ledger page P-8035
+
+account      amount   see page
+Umar           +819   P-8864
+Rahman         -105   P-2771
+Osei           -192   P-3476
+Moreau          +21   P-5078
+Tanaka         -195   P-6147
+Weber          -606   P-2765
+
+Follow the entry with the second-largest amount.

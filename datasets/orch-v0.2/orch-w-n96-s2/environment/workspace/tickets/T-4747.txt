@@ -1,0 +1,81 @@
+Ticket T-4747
+Customer: Diego Alvarez
+Orders on file: ORD-14068, ORD-29755, ORD-54790, ORD-76696
+Opened: 2026-05-17 via chat transcript
+
+Order details:
+ORD-14068  placed 2026-05-09  status: in transit  total: $369.26
+  payment method: card ending 9886  ship to: 288 Cedar St
+  - water filter pitcher x1
+  - merino socks, size M x1
+  - travel pouch x2
+  - microfiber cloth x1
+ORD-29755  placed 2026-02-18  status: returned  total: $62.67
+  payment method: card ending 8540  ship to: 128 Harbor Rd
+  - espresso grinder x1
+  - gift wrap x3
+  - carabiner set x3
+ORD-54790  placed 2026-02-21  status: delivered  total: $132.68
+  payment method: card ending 3961  ship to: 512 Harbor Lane
+  - blender x1
+  - spare battery pack x2
+  - USB-C charging cable (2m) x1
+  - stainless water bottle, 750ml x2
+ORD-76696  placed 2026-02-26  status: delivered  total: $435.92
+  payment method: card ending 3843  ship to: 874 Harbor Ave
+  - noise-cancelling headphones x1
+  - microfiber cloth x1
+  - carabiner set x1
+
+--- message 1 from Diego Alvarez ---
+I need to change the delivery address for ORD-14068 before it ships. Your app logged me out twice while I was looking at this, which didn't help. The standing desk itself is great, for what it's worth. Could you also tell me whether ORD-54790 qualifies for the extended return window?
+
+Best regards,
+Diego Alvarez
+
+--- message 2 from Pete (support) ---
+I can see all the orders on your account, including ORD-54790. I've added a note to your account so the next agent has the context. Screenshots aren't necessary, but thank you for offering. Let me know if anything else looks off.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Diego Alvarez ---
+My card was charged two times for order ORD-29755. I've been a customer for a few years and usually everything goes smoothly. Could you also tell me whether ORD-54790 qualifies for the extended return window?
+
+Diego Alvarez
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Pete (support) ---
+Our payment logs show a single capture for ORD-29755. The extra line you saw was an authorization that expired on its own -- no money was taken for it. I can see all the orders on your account, including ORD-14068. Our warehouse shows ORD-76696 left on schedule.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Diego Alvarez ---
+My partner placed ORD-14068 on our shared account, in case that matters. I'd rather not call; the hold times last time were very long. The cast iron skillet itself is great, for what it's worth.
+
+Thanks,
+Diego Alvarez
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Diego Alvarez ---
+Thanks, I see it now: one payment for ORD-29755, the other one disappeared. All good. Is there a way to combine loyalty points from ORD-14068 with my next purchase? The confirmation email for ORD-14068 went to my spam folder, so I only just saw it.
+
+Thanks,
+Diego Alvarez
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Diego Alvarez ---
+I'm happy to send screenshots if that helps. I tried the chat widget first but it kept disconnecting. The confirmation email for ORD-76696 went to my spam folder, so I only just saw it. The noise-cancelling headphones itself is great, for what it's worth.
+
+Diego Alvarez
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Pete (support) ---
+Loyalty points post about a week after an order is delivered. Screenshots aren't necessary, but thank you for offering. I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

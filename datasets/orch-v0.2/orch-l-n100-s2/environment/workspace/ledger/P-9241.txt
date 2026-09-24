@@ -1,0 +1,12 @@
+Ledger page P-9241
+
+account      amount   see page
+Baker          +812   P-4623
+Jensen         +704   P-7118
+Grant          -725   P-2178
+Moreau         -508   P-7970
+Tanaka         +658   P-1522
+Nakamura       -887   P-7278
+Ibarra         -458   P-9826
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,10 @@
+Ledger page P-2814
+
+account      amount   see page
+Weber          +139   P-7449
+Eriksen        -228   P-3530
+Zhou           +840   P-9689
+Vance          -695   P-4540
+Umar           +399   P-9708
+
+Follow the entry with the largest credit.

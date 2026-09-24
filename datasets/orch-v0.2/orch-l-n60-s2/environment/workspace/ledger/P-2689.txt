@@ -1,0 +1,11 @@
+Ledger page P-2689
+
+account      amount   see page
+Nakamura       +115   P-1749
+Umar           +735   P-7146
+Tanaka         -503   P-8948
+Young          -571   P-1781
+Rahman         -880   P-9719
+Fofana         -135   P-4342
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,12 @@
+Ledger page P-8313
+
+account      amount   see page
+Hughes         +859   P-2278
+Umar           -457   P-9228
+Osei           +301   P-1521
+Abbott         +479   P-4327
+Park           +363   P-7454
+Moreau         -797   P-7848
+Rahman         +242   P-4315
+
+Follow the debit belonging to the account that comes last alphabetically.

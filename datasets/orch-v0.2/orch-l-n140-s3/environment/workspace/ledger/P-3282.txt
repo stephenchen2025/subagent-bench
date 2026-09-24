@@ -1,0 +1,12 @@
+Ledger page P-3282
+
+account      amount   see page
+Castillo         +5   P-9148
+Zhou            +21   P-5044
+Silva          -670   P-6482
+Eriksen        -454   P-7264
+Fofana         +263   P-1869
+Abbott          -44   P-9148
+Tanaka         +469   P-1713
+
+Follow the entry with the largest debit (the most negative amount).

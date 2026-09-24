@@ -1,0 +1,10 @@
+Ledger page P-8869
+
+account      amount   see page
+Grant          -198   P-7491
+Zhou           +736   P-9769
+Silva          -792   P-5081
+Castillo       -835   P-6465
+Fofana         -482   P-6484
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,10 @@
+Ledger page P-5489
+
+account      amount   see page
+Ibarra         +107   P-3974
+Lambert        -879   P-1423
+Hughes         +279   P-6560
+Silva          +832   P-9234
+Castillo       -454   P-7404
+
+Follow the entry with the largest credit.

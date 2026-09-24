@@ -1,0 +1,10 @@
+Ledger page P-2649
+
+account      amount   see page
+Baker          -403   P-3806
+Vance           -28   P-7317
+Moreau         +196   P-4432
+Umar           +636   P-2649
+Ibarra         -327   P-9109
+
+Follow the entry whose amount is closest to zero.

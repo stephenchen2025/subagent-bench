@@ -1,0 +1,12 @@
+Ledger page P-8289
+
+account      amount   see page
+Eriksen         +19   P-9792
+Park           -187   P-9719
+Weber          -591   P-2578
+Osei           +272   P-8959
+Grant          -714   P-3914
+Young          +623   P-8289
+Moreau         +127   P-3369
+
+Follow the debit belonging to the account that comes last alphabetically.

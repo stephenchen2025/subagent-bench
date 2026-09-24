@@ -1,0 +1,10 @@
+Ledger page P-8351
+
+account      amount   see page
+Xu             -795   P-4644
+Castillo       +683   P-8493
+Rahman         +155   P-3235
+Ibarra         +803   P-5122
+Young          +189   P-9045
+
+Follow the credit belonging to the account that comes first alphabetically.

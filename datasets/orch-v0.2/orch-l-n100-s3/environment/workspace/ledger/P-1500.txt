@@ -1,0 +1,10 @@
+Ledger page P-1500
+
+account      amount   see page
+Abbott         -291   P-6298
+Kowalski       +406   P-3974
+Jensen         -361   P-1428
+Silva          +150   P-1500
+Umar           -699   P-8145
+
+Follow the entry with the largest credit.

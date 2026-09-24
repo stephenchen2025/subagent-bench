@@ -1,0 +1,12 @@
+Ledger page P-3264
+
+account      amount   see page
+Xu             +658   P-8384
+Moreau         -327   P-6796
+Vance          +885   P-1805
+Eriksen        -207   P-9678
+Kowalski       +506   P-2420
+Weber          +179   P-3360
+Umar           +439   P-3222
+
+Follow the entry whose amount is closest to zero.

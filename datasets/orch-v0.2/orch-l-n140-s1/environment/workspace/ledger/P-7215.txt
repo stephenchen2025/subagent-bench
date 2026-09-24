@@ -1,0 +1,11 @@
+Ledger page P-7215
+
+account      amount   see page
+Grant          +303   P-6102
+Park           -173   P-6691
+Castillo       -817   P-6606
+Osei           +480   P-1075
+Weber          -572   P-7635
+Umar           +528   P-4075
+
+Follow the entry whose amount is closest to zero.

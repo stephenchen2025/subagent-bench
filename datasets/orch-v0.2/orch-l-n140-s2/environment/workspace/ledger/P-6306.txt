@@ -1,0 +1,12 @@
+Ledger page P-6306
+
+account      amount   see page
+Moreau         -610   P-9943
+Xu             -252   P-1315
+Zhou           -160   P-4522
+Vance           +64   P-3205
+Osei           -272   P-9200
+Abbott         -873   P-7186
+Eriksen        -555   P-5706
+
+Follow the credit belonging to the account that comes first alphabetically.

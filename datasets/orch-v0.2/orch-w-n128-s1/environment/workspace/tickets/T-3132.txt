@@ -1,0 +1,71 @@
+Ticket T-3132
+Customer: Noah Fischer
+Orders on file: ORD-79144, ORD-45479, ORD-35137, ORD-33581
+Opened: 2026-04-02 via chat transcript
+
+Order details:
+ORD-79144  placed 2026-08-23  status: returned  total: $318.04
+  payment method: card ending 2473  ship to: 155 Oak Lane
+  - noise-cancelling headphones x1
+  - spare battery pack x1
+  - gift wrap x2
+  - stainless water bottle, 750ml x3
+ORD-45479  placed 2026-08-09  status: returned  total: $48.92
+  payment method: card ending 6184  ship to: 707 Mill Rd
+  - yoga mat x1
+  - USB-C charging cable (2m) x2
+  - extended warranty, 2 years x2
+  - replacement filter cartridge, 3-pack x3
+  - merino socks, size M x2
+ORD-35137  placed 2026-03-24  status: label created  total: $56.07
+  payment method: card ending 6065  ship to: 605 Harbor St
+  - yoga mat x1
+  - carabiner set x3
+  - travel pouch x1
+  - replacement filter cartridge, 3-pack x1
+ORD-33581  placed 2026-06-02  status: returned  total: $406.95
+  payment method: card ending 2077  ship to: 746 Mill Rd
+  - water filter pitcher x1
+  - replacement filter cartridge, 3-pack x2
+  - carabiner set x3
+  - USB-C charging cable (2m) x3
+
+--- message 1 from Noah Fischer ---
+Where is my refund for ORD-79144? You said 5 days and it has been 8. The confirmation email for ORD-35137 went to my spam folder, so I only just saw it. The camping stove itself is great, for what it's worth. Could you also tell me whether ORD-35137 qualifies for the extended return window?
+
+Best regards,
+Noah Fischer
+
+--- message 2 from Fatima (support) ---
+Our warehouse shows ORD-79144 left on schedule. Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Noah Fischer ---
+The noise-cancelling headphones itself is great, for what it's worth. I'd rather not call; the hold times last time were very long. I tried the chat widget first but it kept disconnecting. The box for ORD-33581 was a bit crushed but the contents were fine.
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Fatima (support) ---
+Our warehouse shows ORD-35137 left on schedule. I can see all the orders on your account, including ORD-79144. I've added a note to your account so the next agent has the context. I've updated your shipping address on file.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Noah Fischer ---
+I've been a customer for a few years and usually everything goes smoothly. Tracking for ORD-79144 hasn't updated since Tuesday. I'm travelling next week, so email is the best way to reach me. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Noah Fischer
+
+--- message 6 from Fatima (support) ---
+Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering. I've added a note to your account so the next agent has the context. Let me know if anything else looks off.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

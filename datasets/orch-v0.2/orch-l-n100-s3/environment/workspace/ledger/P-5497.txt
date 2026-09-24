@@ -1,0 +1,12 @@
+Ledger page P-5497
+
+account      amount   see page
+Rahman         +345   P-3583
+Umar           -153   P-3974
+Weber          -819   P-8326
+Hughes         +138   P-4722
+Baker          -691   P-2301
+Kowalski       -267   P-7811
+Lambert        +772   P-7272
+
+Follow the entry with the largest credit.

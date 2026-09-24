@@ -1,0 +1,11 @@
+Ledger page P-3009
+
+account      amount   see page
+Kowalski       +469   P-5661
+Osei           +253   P-7545
+Tanaka         +251   P-6871
+Quinn          +602   P-6086
+Grant          +897   P-1414
+Abbott         -385   P-3453
+
+Follow the credit belonging to the account that comes first alphabetically.

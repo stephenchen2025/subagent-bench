@@ -1,0 +1,11 @@
+Ledger page P-9883
+
+account      amount   see page
+Lambert        +770   P-2856
+Abbott         +550   P-3518
+Moreau         +502   P-2716
+Eriksen        -178   P-6208
+Young          +542   P-4252
+Dunn           -552   P-4252
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,10 @@
+Ledger page P-7015
+
+account      amount   see page
+Moreau         -480   P-9228
+Ibarra         +215   P-4731
+Vance          +348   P-9066
+Eriksen        -699   P-1903
+Osei             +9   P-7546
+
+Follow the entry whose amount is closest to zero.

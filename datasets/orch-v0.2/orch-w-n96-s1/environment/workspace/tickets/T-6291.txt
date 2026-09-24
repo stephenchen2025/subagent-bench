@@ -1,0 +1,81 @@
+Ticket T-6291
+Customer: Felix Wagner
+Orders on file: ORD-25234, ORD-67981, ORD-19220, ORD-47276
+Opened: 2026-06-13 via email
+
+Order details:
+ORD-25234  placed 2026-08-25  status: delivered  total: $31.35
+  payment method: card ending 2015  ship to: 152 Cedar Ave
+  - bike light set x1
+  - travel pouch x3
+  - carabiner set x2
+ORD-67981  placed 2026-06-07  status: delivered  total: $93.43
+  payment method: card ending 1035  ship to: 181 Oak Rd
+  - bike light set x1
+  - replacement filter cartridge, 3-pack x2
+  - extended warranty, 2 years x2
+  - microfiber cloth x1
+ORD-19220  placed 2026-02-09  status: delivered  total: $464.57
+  payment method: card ending 3999  ship to: 349 Mill Ave
+  - camping stove x1
+  - extended warranty, 2 years x3
+  - travel pouch x1
+ORD-47276  placed 2026-05-28  status: delivered  total: $200.70
+  payment method: card ending 4032  ship to: 531 Oak Rd
+  - desk lamp x1
+  - gift wrap x3
+  - microfiber cloth x1
+  - travel pouch x2
+
+--- message 1 from Felix Wagner ---
+How do I reset my password? The reset link keeps expiring. I'm travelling next week, so email is the best way to reach me. Tracking for ORD-25234 hasn't updated since Tuesday. Could you also tell me whether ORD-67981 qualifies for the extended return window?
+
+Best regards,
+Felix Wagner
+
+--- message 2 from Arjun (support) ---
+For ORD-47276, the return window is 30 days from delivery. Our warehouse shows ORD-47276 left on schedule. I've resent the confirmation email for ORD-67981 to the address on file. Screenshots aren't necessary, but thank you for offering.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Felix Wagner ---
+ORD-19220 shows up once in my order history, but my online banking shows it paid for on two separate lines. Tracking for ORD-25234 hasn't updated since Tuesday. I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Felix Wagner
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Arjun (support) ---
+I looked into ORD-19220: the second line is a pre-authorization hold from when the first card attempt was declined. It was never captured and it's already been released, so you were only charged once. Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Felix Wagner ---
+My earlier order ORD-25234 arrived fine, no complaints there. I'm happy to send screenshots if that helps. I've been a customer for a few years and usually everything goes smoothly.
+
+Felix Wagner
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Felix Wagner ---
+Thanks, I see it now: one payment for ORD-19220, the other one disappeared. All good. Could you also tell me whether ORD-25234 qualifies for the extended return window? Tracking for ORD-67981 hasn't updated since Tuesday.
+
+Best regards,
+Felix Wagner
+
+--- message 7 from Felix Wagner ---
+I'm happy to send screenshots if that helps. I've been a customer for a few years and usually everything goes smoothly. My earlier order ORD-47276 arrived fine, no complaints there. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Felix Wagner
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Arjun (support) ---
+Our warehouse shows ORD-25234 left on schedule. Tracking updates can lag by a day or two with this carrier. Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

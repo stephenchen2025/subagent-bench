@@ -1,0 +1,11 @@
+Ledger page P-5003
+
+account      amount   see page
+Quinn          +617   P-8298
+Hughes         -730   P-7523
+Xu             -848   P-7391
+Tanaka         +430   P-9680
+Dunn            +48   P-3232
+Jensen         -266   P-7830
+
+Follow the entry whose amount is closest to zero.

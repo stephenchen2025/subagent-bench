@@ -1,0 +1,11 @@
+Ledger page P-5230
+
+account      amount   see page
+Young          -510   P-1423
+Umar           -735   P-2267
+Castillo       +302   P-3574
+Jensen         +249   P-2084
+Abbott         -639   P-5999
+Grant          +669   P-8671
+
+Follow the entry with the largest credit.

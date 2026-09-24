@@ -1,0 +1,11 @@
+Ledger page P-1315
+
+account      amount   see page
+Ibarra         -507   P-1075
+Jensen         +486   P-6653
+Vance           +51   P-4680
+Kowalski       -818   P-4085
+Tanaka         +190   P-3864
+Rahman         -389   P-1903
+
+Follow the entry with the largest debit (the most negative amount).

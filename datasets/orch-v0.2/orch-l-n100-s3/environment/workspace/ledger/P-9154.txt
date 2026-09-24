@@ -1,0 +1,12 @@
+Ledger page P-9154
+
+account      amount   see page
+Castillo       -814   P-1414
+Tanaka         +101   P-8123
+Park           +138   P-7669
+Zhou           -285   P-3284
+Xu             +170   P-3860
+Lambert        -262   P-3982
+Silva          -362   P-6683
+
+Follow the credit belonging to the account that comes first alphabetically.

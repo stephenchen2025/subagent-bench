@@ -1,0 +1,10 @@
+Ledger page P-6030
+
+account      amount   see page
+Xu             -513   P-3914
+Jensen         +650   P-5443
+Park           -433   P-8278
+Grant          +261   P-3964
+Dunn           -381   P-9765
+
+Follow the debit belonging to the account that comes last alphabetically.

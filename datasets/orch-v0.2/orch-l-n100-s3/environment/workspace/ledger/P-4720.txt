@@ -1,0 +1,12 @@
+Ledger page P-4720
+
+account      amount   see page
+Nakamura       +480   P-2703
+Quinn          -483   P-8229
+Jensen         +623   P-7888
+Weber          +741   P-2320
+Zhou            +84   P-2301
+Umar           -642   P-6266
+Grant          +513   P-5489
+
+Follow the entry with the largest debit (the most negative amount).

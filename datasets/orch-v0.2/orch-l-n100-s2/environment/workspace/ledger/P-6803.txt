@@ -1,0 +1,11 @@
+Ledger page P-6803
+
+account      amount   see page
+Vance          -585   P-5807
+Fofana         +459   P-4607
+Tanaka         -531   P-6928
+Kowalski       -224   P-3952
+Weber          -237   P-1747
+Abbott          -17   P-2178
+
+Follow the entry with the largest credit.

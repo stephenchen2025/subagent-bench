@@ -1,0 +1,12 @@
+Ledger page P-7063
+
+account      amount   see page
+Grant           -45   P-8793
+Dunn           -181   P-8226
+Fofana         +606   P-4502
+Vance          +540   P-5874
+Park           +567   P-6600
+Umar           -771   P-5366
+Kowalski       -197   P-5218
+
+Follow the entry whose amount is closest to zero.

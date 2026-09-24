@@ -1,0 +1,11 @@
+Ledger page P-7488
+
+account      amount   see page
+Rahman          -68   P-8440
+Grant          -832   P-7644
+Silva          +206   P-8942
+Quinn          -178   P-6145
+Lambert        +446   P-8985
+Xu             -880   P-9352
+
+Follow the entry with the largest debit (the most negative amount).

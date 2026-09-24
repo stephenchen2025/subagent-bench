@@ -1,0 +1,12 @@
+Ledger page P-6171
+
+account      amount   see page
+Park           -373   P-9573
+Eriksen        +623   P-8485
+Young          +233   P-7013
+Zhou           +351   P-8493
+Rahman         -825   P-9559
+Silva          +733   P-7527
+Dunn           +439   P-1781
+
+Follow the entry with the second-largest amount.

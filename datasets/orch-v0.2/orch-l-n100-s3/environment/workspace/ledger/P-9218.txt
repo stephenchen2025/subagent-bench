@@ -1,0 +1,11 @@
+Ledger page P-9218
+
+account      amount   see page
+Nakamura       +875   P-2274
+Vance          -351   P-2000
+Silva          -349   P-7987
+Abbott         +592   P-2937
+Lambert        -406   P-1783
+Eriksen        -250   P-4665
+
+Follow the entry with the largest debit (the most negative amount).

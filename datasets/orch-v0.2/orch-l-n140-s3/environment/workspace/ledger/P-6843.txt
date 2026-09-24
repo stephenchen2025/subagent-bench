@@ -1,0 +1,10 @@
+Ledger page P-6843
+
+account      amount   see page
+Young          +283   P-9309
+Hughes         -577   P-2566
+Eriksen        +494   P-9346
+Nakamura       -322   P-9821
+Grant          -395   P-1233
+
+Follow the credit belonging to the account that comes first alphabetically.

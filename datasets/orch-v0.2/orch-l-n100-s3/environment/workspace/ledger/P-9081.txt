@@ -1,0 +1,10 @@
+Ledger page P-9081
+
+account      amount   see page
+Castillo       -763   P-6298
+Hughes         +574   P-6576
+Moreau         -129   P-9554
+Eriksen         -83   P-9218
+Vance          -323   P-7987
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,11 @@
+Ledger page P-7642
+
+account      amount   see page
+Quinn          +666   P-2646
+Osei           -381   P-2801
+Xu             +873   P-9796
+Abbott          +65   P-4587
+Kowalski       -594   P-7004
+Young          +718   P-9774
+
+Follow the entry with the largest debit (the most negative amount).

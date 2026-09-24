@@ -1,0 +1,11 @@
+Ledger page P-8229
+
+account      amount   see page
+Moreau         +244   P-6088
+Park           +103   P-7576
+Grant            -4   P-8123
+Castillo       -725   P-3925
+Xu             +761   P-5363
+Silva          +590   P-3524
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,71 @@
+Ticket T-9271
+Customer: Amara Nwosu
+Orders on file: ORD-98294, ORD-20330, ORD-38634, ORD-61934
+Opened: 2026-02-13 via email
+
+Order details:
+ORD-98294  placed 2026-02-11  status: returned  total: $205.38
+  payment method: card ending 1040  ship to: 785 Cedar St
+  - yoga mat x1
+  - stainless water bottle, 750ml x2
+  - USB-C charging cable (2m) x1
+  - spare battery pack x1
+  - gift wrap x1
+ORD-20330  placed 2026-04-18  status: in transit  total: $147.66
+  payment method: card ending 6855  ship to: 764 Oak Rd
+  - yoga mat x1
+  - spare battery pack x3
+  - stainless water bottle, 750ml x2
+  - microfiber cloth x3
+ORD-38634  placed 2026-02-23  status: in transit  total: $384.69
+  payment method: card ending 1069  ship to: 783 Elm Rd
+  - desk lamp x1
+  - merino socks, size M x1
+  - stainless water bottle, 750ml x1
+  - extended warranty, 2 years x1
+  - spare battery pack x1
+ORD-61934  placed 2026-02-28  status: delivered  total: $60.72
+  payment method: card ending 6283  ship to: 111 Mill Lane
+  - trail running shoes x1
+  - extended warranty, 2 years x3
+  - USB-C charging cable (2m) x3
+
+--- message 1 from Amara Nwosu ---
+Can I use a gift card on ORD-61934, or is it too late? Could you also tell me whether ORD-61934 qualifies for the extended return window? The box for ORD-20330 was a bit crushed but the contents were fine. I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Amara Nwosu
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Marcus (support) ---
+Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-20330, you can download it from the Orders page. Tracking updates can lag by a day or two with this carrier. I can see all the orders on your account, including ORD-20330.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Amara Nwosu ---
+Before I retry the payment on ORD-38634 -- is there any risk of a double charge? The water filter pitcher itself is great, for what it's worth. My partner placed ORD-98294 on our shared account, in case that matters.
+
+Best regards,
+Amara Nwosu
+
+--- message 4 from Marcus (support) ---
+No, you won't be charged twice: the first attempt for ORD-38634 failed before capture, so retrying is safe. I can see all the orders on your account, including ORD-61934. I've added a note to your account so the next agent has the context.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Amara Nwosu ---
+I'd rather not call; the hold times last time were very long. The carry-on suitcase itself is great, for what it's worth. My earlier order ORD-98294 arrived fine, no complaints there. Is there a way to combine loyalty points from ORD-20330 with my next purchase?
+
+Amara Nwosu
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Marcus (support) ---
+Screenshots aren't necessary, but thank you for offering. I've updated your shipping address on file. I can see all the orders on your account, including ORD-61934. I've added a note to your account so the next agent has the context.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

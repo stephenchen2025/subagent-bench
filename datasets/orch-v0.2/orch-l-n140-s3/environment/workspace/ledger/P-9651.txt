@@ -1,0 +1,11 @@
+Ledger page P-9651
+
+account      amount   see page
+Moreau         +748   P-5456
+Baker          -273   P-8278
+Tanaka         +354   P-6843
+Xu             +362   P-4886
+Nakamura       -144   P-5116
+Quinn          +816   P-3353
+
+Follow the entry with the largest credit.

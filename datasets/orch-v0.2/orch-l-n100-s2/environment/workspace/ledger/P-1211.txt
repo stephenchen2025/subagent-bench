@@ -1,0 +1,10 @@
+Ledger page P-1211
+
+account      amount   see page
+Nakamura       +890   P-5886
+Tanaka         -205   P-5476
+Osei           +146   P-8027
+Moreau          +47   P-2535
+Grant          +445   P-6017
+
+Follow the entry whose amount is closest to zero.

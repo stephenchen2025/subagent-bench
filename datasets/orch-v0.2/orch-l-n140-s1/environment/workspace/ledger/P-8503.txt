@@ -1,0 +1,11 @@
+Ledger page P-8503
+
+account      amount   see page
+Rahman         +747   P-3084
+Jensen         +644   P-4349
+Weber           -64   P-9694
+Zhou           -697   P-1773
+Park            +47   P-2425
+Fofana         +870   P-3519
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,11 @@
+Ledger page P-3096
+
+account      amount   see page
+Vance          +541   P-7664
+Castillo       +834   P-2779
+Jensen         -474   P-2331
+Silva          +875   P-3072
+Quinn          -357   P-2779
+Ibarra         -185   P-8009
+
+Follow the entry with the largest debit (the most negative amount).

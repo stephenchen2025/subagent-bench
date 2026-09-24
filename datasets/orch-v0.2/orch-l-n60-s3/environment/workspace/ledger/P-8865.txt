@@ -1,0 +1,12 @@
+Ledger page P-8865
+
+account      amount   see page
+Lambert        +647   P-4775
+Castillo       -294   P-8308
+Xu              +60   P-1141
+Hughes         -224   P-4898
+Park           +662   P-7491
+Fofana         -110   P-3518
+Baker          -114   P-6046
+
+Follow the entry with the largest credit.

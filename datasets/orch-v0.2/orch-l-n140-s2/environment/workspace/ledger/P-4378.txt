@@ -1,0 +1,11 @@
+Ledger page P-4378
+
+account      amount   see page
+Xu             -665   P-4687
+Umar            +35   P-1295
+Osei           +355   P-2335
+Moreau         -642   P-6627
+Nakamura       +227   P-6524
+Castillo       +141   P-1713
+
+Follow the entry whose amount is closest to zero.

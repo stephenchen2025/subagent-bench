@@ -1,0 +1,11 @@
+Ledger page P-7216
+
+account      amount   see page
+Eriksen        +619   P-4097
+Umar           -617   P-2286
+Kowalski       +117   P-5461
+Ibarra         -113   P-5461
+Castillo       -567   P-8298
+Fofana         +849   P-6243
+
+Follow the entry with the largest debit (the most negative amount).

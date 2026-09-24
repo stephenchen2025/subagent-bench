@@ -1,0 +1,11 @@
+Ledger page P-5756
+
+account      amount   see page
+Moreau         +467   P-8207
+Umar           -672   P-4360
+Vance          -851   P-7339
+Fofana         +262   P-2355
+Osei           -392   P-4980
+Ibarra           -1   P-6700
+
+Follow the debit belonging to the account that comes last alphabetically.

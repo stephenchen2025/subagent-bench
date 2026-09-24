@@ -1,0 +1,12 @@
+Ledger page P-4863
+
+account      amount   see page
+Silva          -694   P-7022
+Lambert        +778   P-7937
+Xu             +217   P-7848
+Rahman         +185   P-6134
+Eriksen        +226   P-9190
+Dunn           +225   P-2748
+Castillo       -758   P-1060
+
+Follow the credit belonging to the account that comes first alphabetically.

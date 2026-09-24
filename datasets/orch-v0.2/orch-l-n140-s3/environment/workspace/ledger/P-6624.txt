@@ -1,0 +1,12 @@
+Ledger page P-6624
+
+account      amount   see page
+Kowalski       -487   P-5193
+Abbott         +332   P-7624
+Park           +169   P-3810
+Grant          +117   P-4720
+Xu             +548   P-5827
+Vance          -179   P-5247
+Moreau         +395   P-8308
+
+Follow the entry whose amount is closest to zero.

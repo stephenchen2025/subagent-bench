@@ -1,0 +1,10 @@
+Ledger page P-3961
+
+account      amount   see page
+Tanaka         +626   P-3896
+Eriksen         +81   P-6783
+Rahman         -207   P-8307
+Quinn          +424   P-2926
+Lambert        +757   P-5008
+
+Follow the debit belonging to the account that comes last alphabetically.

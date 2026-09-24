@@ -1,0 +1,12 @@
+Ledger page P-9713
+
+account      amount   see page
+Vance          -862   P-4901
+Castillo       +277   P-3401
+Moreau         -715   P-1990
+Park           +760   P-9894
+Tanaka         +347   P-4502
+Ibarra         -370   P-3982
+Osei           +600   P-4672
+
+Follow the entry whose amount is closest to zero.

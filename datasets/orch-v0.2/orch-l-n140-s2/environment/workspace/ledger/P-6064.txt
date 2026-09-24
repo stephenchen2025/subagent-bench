@@ -1,0 +1,12 @@
+Ledger page P-6064
+
+account      amount   see page
+Osei           +285   P-8954
+Vance          +728   P-4823
+Grant          -603   P-6217
+Rahman         -749   P-7862
+Jensen         +451   P-9414
+Eriksen         -37   P-5111
+Zhou           -883   P-7098
+
+Follow the debit belonging to the account that comes last alphabetically.

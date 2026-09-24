@@ -1,0 +1,71 @@
+Ticket T-7069
+Customer: Aisha Karim
+Orders on file: ORD-69492, ORD-58258, ORD-23253, ORD-75165
+Opened: 2026-06-10 via email
+
+Order details:
+ORD-69492  placed 2026-08-06  status: delivered  total: $476.92
+  payment method: card ending 8825  ship to: 259 Cedar Rd
+  - mechanical keyboard x1
+  - replacement filter cartridge, 3-pack x2
+  - spare battery pack x3
+ORD-58258  placed 2026-03-28  status: delivered  total: $341.36
+  payment method: card ending 7498  ship to: 815 Cedar Rd
+  - standing desk x1
+  - carabiner set x1
+  - microfiber cloth x1
+  - stainless water bottle, 750ml x3
+  - merino socks, size M x2
+ORD-23253  placed 2026-06-25  status: delivered  total: $239.24
+  payment method: card ending 2784  ship to: 753 Cedar St
+  - carry-on suitcase x1
+  - carabiner set x3
+  - extended warranty, 2 years x3
+  - stainless water bottle, 750ml x1
+  - spare battery pack x2
+ORD-75165  placed 2026-08-14  status: label created  total: $88.21
+  payment method: card ending 1723  ship to: 558 Mill Rd
+  - bike light set x1
+  - microfiber cloth x3
+  - stainless water bottle, 750ml x1
+
+--- message 1 from Aisha Karim ---
+Can I use a gift card on ORD-69492, or is it too late? The box for ORD-69492 was a bit crushed but the contents were fine. I'm travelling next week, so email is the best way to reach me. Is there a way to combine loyalty points from ORD-58258 with my next purchase?
+
+Thanks,
+Aisha Karim
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Rosa (support) ---
+Let me know if anything else looks off. If you need an invoice for ORD-69492, you can download it from the Orders page. Our warehouse shows ORD-75165 left on schedule. I've added a note to your account so the next agent has the context.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Aisha Karim ---
+I changed my shipping address last month, so please double-check you have the new one. My partner placed ORD-58258 on our shared account, in case that matters. Tracking for ORD-58258 hasn't updated since Tuesday. I tried the chat widget first but it kept disconnecting.
+
+Aisha Karim
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Rosa (support) ---
+If you need an invoice for ORD-69492, you can download it from the Orders page. Screenshots aren't necessary, but thank you for offering. Our warehouse shows ORD-58258 left on schedule. Thanks for reaching out, and sorry for the trouble.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Aisha Karim ---
+Is there a way to combine loyalty points from ORD-75165 with my next purchase? I'm happy to send screenshots if that helps. I'd rather not call; the hold times last time were very long. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Aisha Karim
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Rosa (support) ---
+I've resent the confirmation email for ORD-75165 to the address on file. If you need an invoice for ORD-69492, you can download it from the Orders page. I've added a note to your account so the next agent has the context. Thanks for reaching out, and sorry for the trouble.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,10 @@
+Ledger page P-4737
+
+account      amount   see page
+Silva           -49   P-7109
+Jensen          -35   P-1608
+Vance          -577   P-5124
+Baker          -428   P-9320
+Nakamura       +806   P-7949
+
+Follow the credit belonging to the account that comes first alphabetically.

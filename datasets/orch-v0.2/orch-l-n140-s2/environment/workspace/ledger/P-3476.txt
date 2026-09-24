@@ -1,0 +1,12 @@
+Ledger page P-3476
+
+account      amount   see page
+Kowalski       -429   P-3800
+Ibarra         -657   P-3768
+Quinn          -253   P-1479
+Baker          -801   P-6783
+Xu             +848   P-3961
+Grant          +684   P-8486
+Tanaka          +49   P-5720
+
+Follow the credit belonging to the account that comes first alphabetically.

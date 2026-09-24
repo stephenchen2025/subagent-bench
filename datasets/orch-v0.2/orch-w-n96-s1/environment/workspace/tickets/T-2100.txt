@@ -1,0 +1,57 @@
+Ticket T-2100
+Customer: Ben Carter
+Orders on file: ORD-70974, ORD-28508, ORD-58196, ORD-45191
+Opened: 2026-07-09 via web form
+
+Order details:
+ORD-70974  placed 2026-01-21  status: delivered  total: $185.11
+  payment method: card ending 4450  ship to: 338 Elm Rd
+  - rain jacket x1
+  - microfiber cloth x2
+  - USB-C charging cable (2m) x3
+  - carabiner set x2
+  - gift wrap x1
+ORD-28508  placed 2026-08-09  status: delivered  total: $50.09
+  payment method: card ending 2904  ship to: 824 Elm Ave
+  - noise-cancelling headphones x1
+  - spare battery pack x2
+  - carabiner set x3
+  - gift wrap x3
+ORD-58196  placed 2026-07-20  status: delivered  total: $258.12
+  payment method: card ending 3825  ship to: 619 Oak Ave
+  - wool blanket x1
+  - replacement filter cartridge, 3-pack x1
+  - gift wrap x2
+ORD-45191  placed 2026-03-08  status: delivered  total: $54.34
+  payment method: card ending 3797  ship to: 265 Cedar Rd
+  - espresso grinder x1
+  - travel pouch x2
+  - microfiber cloth x2
+  - extended warranty, 2 years x3
+  - carabiner set x1
+
+--- message 1 from Ben Carter ---
+I'd like to return the yoga mat from ORD-70974; it's the wrong size. I'm happy to send screenshots if that helps. I've been a customer for a few years and usually everything goes smoothly. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Ben Carter
+
+--- message 2 from Marcus (support) ---
+If you need an invoice for ORD-45191, you can download it from the Orders page. Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-45191 to the address on file. Our warehouse shows ORD-70974 left on schedule.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ben Carter ---
+Is there a way to combine loyalty points from ORD-58196 with my next purchase? I've been a customer for a few years and usually everything goes smoothly. The wool blanket itself is great, for what it's worth. I'm travelling next week, so email is the best way to reach me.
+
+Ben Carter
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Marcus (support) ---
+Our warehouse shows ORD-70974 left on schedule. I've added a note to your account so the next agent has the context. Screenshots aren't necessary, but thank you for offering. If you need an invoice for ORD-45191, you can download it from the Orders page.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

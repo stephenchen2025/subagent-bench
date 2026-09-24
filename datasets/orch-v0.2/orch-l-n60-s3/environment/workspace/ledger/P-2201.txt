@@ -1,0 +1,11 @@
+Ledger page P-2201
+
+account      amount   see page
+Lambert         +81   P-3318
+Osei           -264   P-3385
+Fofana         +371   P-2856
+Ibarra         +176   P-2876
+Kowalski       -736   P-5485
+Rahman          +64   P-5802
+
+Follow the entry with the second-largest amount.

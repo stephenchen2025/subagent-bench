@@ -1,0 +1,12 @@
+Ledger page P-3519
+
+account      amount   see page
+Grant          +597   P-9789
+Moreau         -473   P-5445
+Quinn          -839   P-3173
+Silva          -298   P-9183
+Umar           -787   P-4399
+Nakamura       -694   P-6879
+Baker          -343   P-4113
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,12 @@
+Ledger page P-9812
+
+account      amount   see page
+Dunn           -546   P-9697
+Baker          +464   P-5688
+Osei             -4   P-5662
+Jensen          +10   P-2387
+Ibarra         -863   P-3289
+Hughes         -537   P-8800
+Tanaka         +173   P-2536
+
+Follow the entry with the second-largest amount.

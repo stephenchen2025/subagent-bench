@@ -1,0 +1,12 @@
+Ledger page P-3249
+
+account      amount   see page
+Castillo       +533   P-9683
+Park            +52   P-4980
+Young          +724   P-6034
+Baker          -475   P-5473
+Fofana         +379   P-2643
+Rahman         +524   P-9790
+Zhou            +94   P-3260
+
+Follow the entry with the largest debit (the most negative amount).

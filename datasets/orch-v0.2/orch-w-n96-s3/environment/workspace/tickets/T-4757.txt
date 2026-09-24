@@ -1,0 +1,67 @@
+Ticket T-4757
+Customer: Leila Haddad
+Orders on file: ORD-23510, ORD-55437, ORD-86757, ORD-20490
+Opened: 2026-01-03 via web form
+
+Order details:
+ORD-23510  placed 2026-06-26  status: returned  total: $102.81
+  payment method: card ending 4812  ship to: 646 Cedar Ave
+  - desk lamp x1
+  - spare battery pack x1
+  - USB-C charging cable (2m) x1
+  - microfiber cloth x3
+ORD-55437  placed 2026-03-04  status: delivered  total: $238.46
+  payment method: card ending 9953  ship to: 523 Mill Ave
+  - camping stove x1
+  - merino socks, size M x3
+  - replacement filter cartridge, 3-pack x3
+ORD-86757  placed 2026-02-01  status: in transit  total: $445.11
+  payment method: card ending 4710  ship to: 935 Cedar Ave
+  - cast iron skillet x1
+  - spare battery pack x2
+  - gift wrap x2
+ORD-20490  placed 2026-06-15  status: in transit  total: $29.00
+  payment method: card ending 3389  ship to: 140 Cedar Rd
+  - wool blanket x1
+  - travel pouch x1
+  - replacement filter cartridge, 3-pack x2
+
+--- message 1 from Leila Haddad ---
+The cast iron skillet from ORD-20490 arrived with a scratch on the side. Can I get a replacement? My partner placed ORD-20490 on our shared account, in case that matters. I tried the chat widget first but it kept disconnecting. The box for ORD-86757 was a bit crushed but the contents were fine.
+
+Best regards,
+Leila Haddad
+
+--- message 2 from Keiko (support) ---
+I've added a note to your account so the next agent has the context. I've updated your shipping address on file. Tracking updates can lag by a day or two with this carrier. If you need an invoice for ORD-20490, you can download it from the Orders page.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Leila Haddad ---
+The standing desk itself is great, for what it's worth. My partner placed ORD-86757 on our shared account, in case that matters. I'd rather not call; the hold times last time were very long. My earlier order ORD-23510 arrived fine, no complaints there.
+
+Leila Haddad
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Keiko (support) ---
+I've updated your shipping address on file. Our warehouse shows ORD-23510 left on schedule. Let me know if anything else looks off. I've added a note to your account so the next agent has the context.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Leila Haddad ---
+I changed my shipping address last month, so please double-check you have the new one. My earlier order ORD-20490 arrived fine, no complaints there. I've been a customer for a few years and usually everything goes smoothly. I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Leila Haddad
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Keiko (support) ---
+Loyalty points post about a week after an order is delivered. I've updated your shipping address on file. If you need an invoice for ORD-23510, you can download it from the Orders page. Tracking updates can lag by a day or two with this carrier.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

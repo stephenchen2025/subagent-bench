@@ -1,0 +1,12 @@
+Ledger page P-2966
+
+account      amount   see page
+Dunn           -783   P-9454
+Young          +302   P-6783
+Tanaka         +781   P-2856
+Hughes         +803   P-9536
+Rahman         +561   P-5907
+Quinn          +156   P-9874
+Zhou           -842   P-5802
+
+Follow the entry whose amount is closest to zero.

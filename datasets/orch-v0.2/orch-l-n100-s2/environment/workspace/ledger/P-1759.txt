@@ -1,0 +1,11 @@
+Ledger page P-1759
+
+account      amount   see page
+Tanaka         -358   P-2003
+Weber          +173   P-6928
+Umar           +673   P-8834
+Osei           -789   P-5456
+Eriksen        +438   P-9478
+Hughes         +688   P-1647
+
+Follow the entry with the largest credit.

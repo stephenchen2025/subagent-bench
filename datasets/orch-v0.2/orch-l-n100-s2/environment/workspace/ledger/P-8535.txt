@@ -1,0 +1,11 @@
+Ledger page P-8535
+
+account      amount   see page
+Vance          -425   P-8298
+Castillo       +301   P-8073
+Young          -485   P-4528
+Silva          -609   P-8502
+Umar           +345   P-8677
+Nakamura       +574   P-9478
+
+Follow the entry with the second-largest amount.

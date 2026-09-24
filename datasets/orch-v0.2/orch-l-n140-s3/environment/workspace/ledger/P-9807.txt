@@ -1,0 +1,11 @@
+Ledger page P-9807
+
+account      amount   see page
+Young          -209   P-9456
+Umar           -832   P-7347
+Kowalski        +72   P-1162
+Silva          -460   P-2253
+Park           +796   P-4727
+Tanaka         +709   P-9765
+
+Follow the entry whose amount is closest to zero.

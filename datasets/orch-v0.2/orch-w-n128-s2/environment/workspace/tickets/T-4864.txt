@@ -1,0 +1,53 @@
+Ticket T-4864
+Customer: Tomas Novak
+Orders on file: ORD-56759, ORD-12108, ORD-62956, ORD-98561
+Opened: 2026-02-07 via chat transcript
+
+Order details:
+ORD-56759  placed 2026-05-24  status: in transit  total: $84.36
+  payment method: card ending 3626  ship to: 676 Mill Rd
+  - water filter pitcher x1
+  - carabiner set x2
+  - USB-C charging cable (2m) x2
+ORD-12108  placed 2026-03-16  status: in transit  total: $372.23
+  payment method: card ending 3856  ship to: 977 Harbor St
+  - standing desk x1
+  - travel pouch x1
+  - USB-C charging cable (2m) x2
+  - gift wrap x1
+ORD-62956  placed 2026-05-23  status: delivered  total: $257.73
+  payment method: card ending 7425  ship to: 831 Mill Rd
+  - desk lamp x1
+  - spare battery pack x3
+  - extended warranty, 2 years x1
+ORD-98561  placed 2026-01-07  status: delivered  total: $404.22
+  payment method: card ending 2089  ship to: 25 Harbor Rd
+  - espresso grinder x1
+  - spare battery pack x2
+  - USB-C charging cable (2m) x3
+
+--- message 1 from Tomas Novak ---
+Can I use a gift card on ORD-56759, or is it too late? Your app logged me out twice while I was looking at this, which didn't help. My partner placed ORD-12108 on our shared account, in case that matters. I'm happy to send screenshots if that helps.
+
+Tomas Novak
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Fatima (support) ---
+I've added a note to your account so the next agent has the context. Let me know if anything else looks off. I've updated your shipping address on file. Tracking updates can lag by a day or two with this carrier.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Tomas Novak ---
+I'd rather not call; the hold times last time were very long. Tracking for ORD-12108 hasn't updated since Tuesday. I'm happy to send screenshots if that helps. The camping stove itself is great, for what it's worth.
+
+Tomas Novak
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Fatima (support) ---
+Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-56759. Our warehouse shows ORD-98561 left on schedule. Tracking updates can lag by a day or two with this carrier.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

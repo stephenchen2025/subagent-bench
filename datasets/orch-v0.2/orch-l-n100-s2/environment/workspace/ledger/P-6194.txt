@@ -1,0 +1,11 @@
+Ledger page P-6194
+
+account      amount   see page
+Eriksen        -228   P-8625
+Park           -107   P-8396
+Young          -814   P-3075
+Dunn           -486   P-4635
+Xu             +558   P-1235
+Grant          +314   P-5888
+
+Follow the entry whose amount is closest to zero.

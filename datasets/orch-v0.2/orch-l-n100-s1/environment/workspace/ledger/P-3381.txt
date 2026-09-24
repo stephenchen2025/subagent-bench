@@ -1,0 +1,11 @@
+Ledger page P-3381
+
+account      amount   see page
+Osei            +48   P-3740
+Xu             +806   P-1990
+Jensen         +372   P-5739
+Umar           -727   P-2086
+Ibarra         +502   P-1577
+Quinn          +439   P-7810
+
+Follow the entry with the second-largest amount.

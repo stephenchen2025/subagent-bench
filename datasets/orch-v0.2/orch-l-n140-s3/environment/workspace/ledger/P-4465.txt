@@ -1,0 +1,11 @@
+Ledger page P-4465
+
+account      amount   see page
+Abbott         -298   P-2790
+Young          +756   P-8273
+Jensen         +110   P-3012
+Osei            +12   P-2649
+Fofana         +478   P-3207
+Nakamura       -738   P-6482
+
+Follow the entry with the second-largest amount.

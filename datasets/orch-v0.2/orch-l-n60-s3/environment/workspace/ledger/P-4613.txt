@@ -1,0 +1,12 @@
+Ledger page P-4613
+
+account      amount   see page
+Young          -150   P-8396
+Lambert        +352   P-9544
+Rahman         +549   P-4878
+Castillo        +22   P-7407
+Dunn           -759   P-1141
+Kowalski        -67   P-1648
+Baker          +653   P-1387
+
+Follow the entry whose amount is closest to zero.

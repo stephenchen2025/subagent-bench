@@ -1,0 +1,10 @@
+Ledger page P-6203
+
+account      amount   see page
+Moreau         -362   P-7862
+Zhou           -432   P-9669
+Quinn          -184   P-7693
+Baker          +747   P-4236
+Fofana         -697   P-2837
+
+Follow the entry with the largest credit.

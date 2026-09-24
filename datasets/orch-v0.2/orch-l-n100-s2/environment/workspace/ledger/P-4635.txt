@@ -1,0 +1,10 @@
+Ledger page P-4635
+
+account      amount   see page
+Zhou           +746   P-5132
+Osei           +488   P-5599
+Park           +250   P-8173
+Tanaka          -56   P-5156
+Kowalski       -654   P-2697
+
+Follow the entry whose amount is closest to zero.

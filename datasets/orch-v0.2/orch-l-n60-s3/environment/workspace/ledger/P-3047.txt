@@ -1,0 +1,11 @@
+Ledger page P-3047
+
+account      amount   see page
+Tanaka         -195   P-5925
+Hughes           -3   P-9934
+Dunn           -114   P-7899
+Young          +279   P-2277
+Osei           +529   P-6178
+Eriksen        +262   P-2087
+
+Follow the debit belonging to the account that comes last alphabetically.

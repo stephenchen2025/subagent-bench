@@ -1,0 +1,10 @@
+Ledger page P-7863
+
+account      amount   see page
+Vance          +313   P-8743
+Tanaka         +550   P-2856
+Zhou           -129   P-3226
+Lambert        -320   P-9366
+Jensen         -341   P-6783
+
+Follow the credit belonging to the account that comes first alphabetically.

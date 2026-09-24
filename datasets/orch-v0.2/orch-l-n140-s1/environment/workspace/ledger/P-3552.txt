@@ -1,0 +1,10 @@
+Ledger page P-3552
+
+account      amount   see page
+Kowalski        +75   P-8421
+Tanaka         +875   P-6163
+Baker          -770   P-7037
+Quinn          +637   P-6134
+Weber          -749   P-7569
+
+Follow the debit belonging to the account that comes last alphabetically.

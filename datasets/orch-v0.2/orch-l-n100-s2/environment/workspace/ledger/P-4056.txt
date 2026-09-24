@@ -1,0 +1,12 @@
+Ledger page P-4056
+
+account      amount   see page
+Jensen         -580   P-4727
+Dunn           -111   P-9826
+Castillo       -511   P-8132
+Hughes         -519   P-3278
+Abbott         -485   P-1287
+Xu             +757   P-3952
+Vance          -528   P-8145
+
+Follow the debit belonging to the account that comes last alphabetically.

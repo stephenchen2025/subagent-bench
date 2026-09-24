@@ -1,0 +1,94 @@
+Ticket T-3933
+Customer: Sofia Rossi
+Orders on file: ORD-78482, ORD-74207, ORD-14052, ORD-94378
+Opened: 2026-01-27 via web form
+
+Order details:
+ORD-78482  placed 2026-02-06  status: delivered  total: $400.41
+  payment method: card ending 9766  ship to: 176 Mill Rd
+  - standing desk x1
+  - carabiner set x3
+  - stainless water bottle, 750ml x1
+ORD-74207  placed 2026-02-08  status: in transit  total: $81.05
+  payment method: card ending 7101  ship to: 503 Mill Rd
+  - carry-on suitcase x1
+  - travel pouch x3
+  - carabiner set x2
+ORD-14052  placed 2026-01-28  status: returned  total: $416.90
+  payment method: card ending 7443  ship to: 735 Cedar St
+  - bike light set x1
+  - USB-C charging cable (2m) x1
+  - extended warranty, 2 years x3
+  - microfiber cloth x2
+ORD-94378  placed 2026-02-16  status: label created  total: $308.92
+  payment method: card ending 8551  ship to: 14 Elm St
+  - wool blanket x1
+  - merino socks, size M x2
+  - travel pouch x2
+
+--- message 1 from Sofia Rossi ---
+The yoga mat from ORD-94378 arrived with a scratch on the side. Can I get a replacement? I tried the chat widget first but it kept disconnecting. The confirmation email for ORD-94378 went to my spam folder, so I only just saw it. I'm happy to send screenshots if that helps.
+
+Thanks,
+Sofia Rossi
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Rosa (support) ---
+Let me know if anything else looks off. Tracking updates can lag by a day or two with this carrier. Thanks for reaching out, and sorry for the trouble. Loyalty points post about a week after an order is delivered.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Sofia Rossi ---
+There's an extra line for ORD-14052 on the card app. It could just be a hold -- can you check? Is there a way to combine loyalty points from ORD-74207 with my next purchase? The cast iron skillet itself is great, for what it's worth.
+
+Sofia Rossi
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Rosa (support) ---
+I've updated your shipping address on file. If you need an invoice for ORD-94378, you can download it from the Orders page. I can see all the orders on your account, including ORD-94378.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Sofia Rossi ---
+Just checked again -- both charges for ORD-14052 are settled now, not pending. Tracking for ORD-94378 hasn't updated since Tuesday. I've been a customer for a few years and usually everything goes smoothly.
+
+Sofia Rossi
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Rosa (support) ---
+You're right, and I'm sorry. Our records show ORD-14052 was settled two times. I've refunded the duplicate. I've added a note to your account so the next agent has the context. For ORD-74207, the return window is 30 days from delivery.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Sofia Rossi ---
+The espresso grinder itself is great, for what it's worth. The box for ORD-74207 was a bit crushed but the contents were fine. My earlier order ORD-74207 arrived fine, no complaints there. My partner placed ORD-74207 on our shared account, in case that matters.
+
+Sofia Rossi
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Rosa (support) ---
+Thanks for reaching out, and sorry for the trouble. Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-78482 left on schedule. I can see all the orders on your account, including ORD-78482.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Sofia Rossi ---
+My earlier order ORD-78482 arrived fine, no complaints there. I'd rather not call; the hold times last time were very long. Tracking for ORD-94378 hasn't updated since Tuesday. I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Sofia Rossi
+Sent from my phone -- please excuse typos.
+
+--- message 10 from Rosa (support) ---
+Our warehouse shows ORD-78482 left on schedule. Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-94378, you can download it from the Orders page. Tracking updates can lag by a day or two with this carrier.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,10 @@
+Ledger page P-9730
+
+account      amount   see page
+Zhou           -699   P-8045
+Jensen         +814   P-1489
+Eriksen        +131   P-4483
+Park           -749   P-8948
+Nakamura        +92   P-3326
+
+Follow the credit belonging to the account that comes first alphabetically.

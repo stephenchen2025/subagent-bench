@@ -1,0 +1,11 @@
+Ledger page P-8411
+
+account      amount   see page
+Nakamura       -650   P-8892
+Young          -297   P-5366
+Dunn           +861   P-2300
+Umar           +667   P-5820
+Abbott         +353   P-8281
+Baker          -412   P-3552
+
+Follow the entry with the largest credit.

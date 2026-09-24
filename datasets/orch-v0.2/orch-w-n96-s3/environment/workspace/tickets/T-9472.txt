@@ -1,0 +1,71 @@
+Ticket T-9472
+Customer: Jordan Okafor
+Orders on file: ORD-70136, ORD-37998, ORD-90297, ORD-54031
+Opened: 2026-03-18 via email
+
+Order details:
+ORD-70136  placed 2026-05-24  status: delivered  total: $359.78
+  payment method: card ending 9013  ship to: 698 Mill Rd
+  - trail running shoes x1
+  - USB-C charging cable (2m) x1
+  - carabiner set x3
+  - spare battery pack x1
+  - gift wrap x2
+ORD-37998  placed 2026-05-18  status: returned  total: $221.06
+  payment method: card ending 6982  ship to: 253 Oak Ave
+  - espresso grinder x1
+  - microfiber cloth x2
+  - gift wrap x1
+  - stainless water bottle, 750ml x3
+  - travel pouch x3
+ORD-90297  placed 2026-04-13  status: delivered  total: $48.78
+  payment method: card ending 8816  ship to: 511 Harbor Ave
+  - standing desk x1
+  - USB-C charging cable (2m) x3
+  - stainless water bottle, 750ml x1
+ORD-54031  placed 2026-07-16  status: in transit  total: $279.16
+  payment method: card ending 5950  ship to: 975 Oak Lane
+  - cast iron skillet x1
+  - replacement filter cartridge, 3-pack x3
+  - microfiber cloth x2
+  - extended warranty, 2 years x3
+  - travel pouch x2
+
+--- message 1 from Jordan Okafor ---
+How do I reset my password? The reset link keeps expiring. The box for ORD-54031 was a bit crushed but the contents were fine. Is there a way to combine loyalty points from ORD-37998 with my next purchase? I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Jordan Okafor
+
+--- message 2 from Luis (support) ---
+Let me know if anything else looks off. Our warehouse shows ORD-54031 left on schedule. I can see all the orders on your account, including ORD-70136. I've resent the confirmation email for ORD-37998 to the address on file.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Jordan Okafor ---
+I'm travelling next week, so email is the best way to reach me. I tried the chat widget first but it kept disconnecting. My partner placed ORD-54031 on our shared account, in case that matters. Could you also tell me whether ORD-37998 qualifies for the extended return window?
+
+Best regards,
+Jordan Okafor
+
+--- message 4 from Luis (support) ---
+I can see all the orders on your account, including ORD-37998. Loyalty points post about a week after an order is delivered. Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-37998 left on schedule.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Jordan Okafor ---
+Could you also tell me whether ORD-37998 qualifies for the extended return window? I changed my shipping address last month, so please double-check you have the new one. The confirmation email for ORD-37998 went to my spam folder, so I only just saw it. I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Jordan Okafor
+
+--- message 6 from Luis (support) ---
+Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering. Let me know if anything else looks off. If you need an invoice for ORD-54031, you can download it from the Orders page.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

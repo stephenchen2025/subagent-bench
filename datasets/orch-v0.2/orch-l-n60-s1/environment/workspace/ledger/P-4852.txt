@@ -1,0 +1,10 @@
+Ledger page P-4852
+
+account      amount   see page
+Vance          -415   P-2728
+Umar           -855   P-4540
+Moreau         -410   P-8846
+Grant          +633   P-2588
+Silva          -379   P-8799
+
+Follow the entry whose amount is closest to zero.

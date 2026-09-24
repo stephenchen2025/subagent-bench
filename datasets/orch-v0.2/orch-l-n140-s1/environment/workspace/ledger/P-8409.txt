@@ -1,0 +1,12 @@
+Ledger page P-8409
+
+account      amount   see page
+Ibarra         +681   P-8479
+Rahman         +719   P-3860
+Lambert        +796   P-6950
+Tanaka         +543   P-4354
+Fofana         +750   P-8246
+Castillo       +802   P-7148
+Umar           -169   P-6183
+
+Follow the entry with the largest credit.

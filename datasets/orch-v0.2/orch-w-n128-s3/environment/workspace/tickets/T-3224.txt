@@ -1,0 +1,60 @@
+Ticket T-3224
+Customer: Ines Duarte
+Orders on file: ORD-32651, ORD-43908, ORD-93805, ORD-44174
+Opened: 2026-03-14 via email
+
+Order details:
+ORD-32651  placed 2026-03-05  status: delivered  total: $331.17
+  payment method: card ending 4723  ship to: 437 Elm St
+  - trail running shoes x1
+  - spare battery pack x2
+  - gift wrap x3
+  - travel pouch x1
+  - merino socks, size M x2
+ORD-43908  placed 2026-08-28  status: delivered  total: $252.48
+  payment method: card ending 9874  ship to: 757 Elm Rd
+  - standing desk x1
+  - extended warranty, 2 years x3
+  - replacement filter cartridge, 3-pack x1
+  - merino socks, size M x1
+  - spare battery pack x2
+ORD-93805  placed 2026-07-25  status: delivered  total: $400.30
+  payment method: card ending 7938  ship to: 450 Cedar Ave
+  - mechanical keyboard x1
+  - USB-C charging cable (2m) x2
+  - replacement filter cartridge, 3-pack x3
+  - microfiber cloth x1
+ORD-44174  placed 2026-03-04  status: label created  total: $432.36
+  payment method: card ending 5418  ship to: 593 Oak Lane
+  - water filter pitcher x1
+  - spare battery pack x2
+  - travel pouch x1
+  - stainless water bottle, 750ml x2
+  - carabiner set x3
+
+--- message 1 from Ines Duarte ---
+I need to change the delivery address for ORD-43908 before it ships. The box for ORD-43908 was a bit crushed but the contents were fine. Is there a way to combine loyalty points from ORD-43908 with my next purchase? My earlier order ORD-43908 arrived fine, no complaints there.
+
+Ines Duarte
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Pete (support) ---
+Screenshots aren't necessary, but thank you for offering. Loyalty points post about a week after an order is delivered. If you need an invoice for ORD-43908, you can download it from the Orders page. Tracking updates can lag by a day or two with this carrier.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ines Duarte ---
+Could you also tell me whether ORD-32651 qualifies for the extended return window? The box for ORD-32651 was a bit crushed but the contents were fine. Tracking for ORD-44174 hasn't updated since Tuesday. Is there a way to combine loyalty points from ORD-44174 with my next purchase?
+
+Thanks,
+Ines Duarte
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Pete (support) ---
+I've updated your shipping address on file. I've resent the confirmation email for ORD-43908 to the address on file. Tracking updates can lag by a day or two with this carrier. For ORD-32651, the return window is 30 days from delivery.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

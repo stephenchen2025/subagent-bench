@@ -1,0 +1,11 @@
+Ledger page P-5366
+
+account      amount   see page
+Umar             +6   P-6544
+Abbott         -696   P-5075
+Castillo       -519   P-1648
+Fofana         -772   P-2518
+Baker          +137   P-5858
+Lambert        +647   P-9572
+
+Follow the entry with the second-largest amount.

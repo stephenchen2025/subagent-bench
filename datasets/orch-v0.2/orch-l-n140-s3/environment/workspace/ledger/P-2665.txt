@@ -1,0 +1,10 @@
+Ledger page P-2665
+
+account      amount   see page
+Abbott         -569   P-8445
+Tanaka         +557   P-5116
+Weber          -551   P-8777
+Hughes          -88   P-7211
+Silva           -54   P-2547
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,10 @@
+Ledger page P-8186
+
+account      amount   see page
+Dunn           +844   P-4465
+Tanaka         -706   P-1713
+Lambert        -739   P-8244
+Baker          -203   P-8919
+Umar           -279   P-9124
+
+Follow the debit belonging to the account that comes last alphabetically.

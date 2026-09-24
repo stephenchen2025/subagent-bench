@@ -1,0 +1,10 @@
+Ledger page P-5307
+
+account      amount   see page
+Vance           -86   P-6140
+Moreau         +291   P-4619
+Fofana         -277   P-7664
+Xu             +190   P-3284
+Baker           +53   P-1846
+
+Follow the entry with the second-largest amount.

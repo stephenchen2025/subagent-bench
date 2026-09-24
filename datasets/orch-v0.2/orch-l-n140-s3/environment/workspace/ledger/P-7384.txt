@@ -1,0 +1,10 @@
+Ledger page P-7384
+
+account      amount   see page
+Rahman         +862   P-3342
+Castillo       +439   P-2833
+Tanaka         -144   P-7262
+Fofana         -188   P-2041
+Hughes         +664   P-1121
+
+Follow the entry with the second-largest amount.

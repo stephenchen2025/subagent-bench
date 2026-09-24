@@ -1,0 +1,12 @@
+Ledger page P-2000
+
+account      amount   see page
+Silva          +881   P-5999
+Dunn            -71   P-7663
+Osei           -790   P-9608
+Ibarra         +696   P-2409
+Kowalski       -111   P-2246
+Moreau         -450   P-3574
+Weber          +765   P-9084
+
+Follow the credit belonging to the account that comes first alphabetically.

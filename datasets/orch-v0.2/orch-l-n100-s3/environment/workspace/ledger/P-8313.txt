@@ -1,0 +1,10 @@
+Ledger page P-8313
+
+account      amount   see page
+Eriksen        +254   P-3481
+Dunn           -582   P-4067
+Quinn          -480   P-3441
+Fofana         +817   P-4060
+Jensen         +345   P-5429
+
+Follow the credit belonging to the account that comes first alphabetically.

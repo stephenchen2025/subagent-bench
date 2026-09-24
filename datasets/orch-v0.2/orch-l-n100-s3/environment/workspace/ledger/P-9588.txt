@@ -1,0 +1,11 @@
+Ledger page P-9588
+
+account      amount   see page
+Castillo       -409   P-1200
+Hughes          +48   P-6128
+Eriksen        +413   P-2562
+Grant          -506   P-1783
+Vance           +68   P-1670
+Zhou           -131   P-6758
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,12 @@
+Ledger page P-4551
+
+account      amount   see page
+Hughes           +4   P-1630
+Moreau         +586   P-6249
+Baker          -539   P-2235
+Young          -116   P-8129
+Dunn           -162   P-9870
+Vance          +661   P-3943
+Weber          -639   P-6211
+
+Follow the debit belonging to the account that comes last alphabetically.

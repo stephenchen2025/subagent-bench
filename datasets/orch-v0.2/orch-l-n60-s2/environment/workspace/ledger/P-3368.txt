@@ -1,0 +1,10 @@
+Ledger page P-3368
+
+account      amount   see page
+Quinn          +381   P-5107
+Lambert        -461   P-8495
+Vance          -233   P-4120
+Abbott         -531   P-9719
+Umar           -178   P-9605
+
+Follow the entry whose amount is closest to zero.

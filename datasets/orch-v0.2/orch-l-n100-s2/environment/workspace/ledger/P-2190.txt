@@ -1,0 +1,12 @@
+Ledger page P-2190
+
+account      amount   see page
+Zhou           -846   P-9538
+Young          -833   P-5692
+Castillo       +736   P-5476
+Baker          +364   P-9420
+Park           -167   P-9251
+Lambert        +360   P-5769
+Moreau         -777   P-7553
+
+Follow the credit belonging to the account that comes first alphabetically.

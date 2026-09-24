@@ -1,0 +1,10 @@
+Ledger page P-6971
+
+account      amount   see page
+Zhou           +704   P-3336
+Silva          -647   P-3387
+Eriksen        +415   P-9690
+Hughes          -18   P-9099
+Quinn          +734   P-6133
+
+Follow the entry with the largest credit.

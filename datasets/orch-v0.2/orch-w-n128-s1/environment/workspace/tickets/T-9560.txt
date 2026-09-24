@@ -1,0 +1,67 @@
+Ticket T-9560
+Customer: Samir Patel
+Orders on file: ORD-47207, ORD-15475, ORD-46390, ORD-98753
+Opened: 2026-04-13 via email
+
+Order details:
+ORD-47207  placed 2026-05-02  status: delivered  total: $182.53
+  payment method: card ending 8734  ship to: 769 Mill St
+  - desk lamp x1
+  - merino socks, size M x2
+  - microfiber cloth x2
+ORD-15475  placed 2026-08-03  status: delivered  total: $29.86
+  payment method: card ending 3564  ship to: 637 Oak Lane
+  - noise-cancelling headphones x1
+  - extended warranty, 2 years x1
+  - spare battery pack x1
+ORD-46390  placed 2026-04-22  status: returned  total: $269.95
+  payment method: card ending 9904  ship to: 786 Cedar Lane
+  - water filter pitcher x1
+  - carabiner set x1
+  - USB-C charging cable (2m) x2
+ORD-98753  placed 2026-07-20  status: delivered  total: $64.27
+  payment method: card ending 9692  ship to: 486 Oak St
+  - blender x1
+  - travel pouch x1
+  - merino socks, size M x2
+  - stainless water bottle, 750ml x3
+  - spare battery pack x3
+
+--- message 1 from Samir Patel ---
+The espresso grinder from ORD-46390 arrived with a scratch on the side. Can I get a replacement? I'm happy to send screenshots if that helps. My earlier order ORD-98753 arrived fine, no complaints there. Could you also tell me whether ORD-15475 qualifies for the extended return window?
+
+Samir Patel
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Pete (support) ---
+I can see all the orders on your account, including ORD-15475. I've resent the confirmation email for ORD-46390 to the address on file. Our warehouse shows ORD-15475 left on schedule. For ORD-46390, the return window is 30 days from delivery.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Samir Patel ---
+The confirmation email for ORD-46390 went to my spam folder, so I only just saw it. My partner placed ORD-15475 on our shared account, in case that matters. I'm happy to send screenshots if that helps. Tracking for ORD-15475 hasn't updated since Tuesday.
+
+Best regards,
+Samir Patel
+
+--- message 4 from Pete (support) ---
+I've updated your shipping address on file. I can see all the orders on your account, including ORD-46390. I've resent the confirmation email for ORD-98753 to the address on file. If you need an invoice for ORD-15475, you can download it from the Orders page.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Samir Patel ---
+I tried the chat widget first but it kept disconnecting. I've been a customer for a few years and usually everything goes smoothly. The box for ORD-98753 was a bit crushed but the contents were fine. I changed my shipping address last month, so please double-check you have the new one.
+
+Samir Patel
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Pete (support) ---
+Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering. Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-46390 to the address on file.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

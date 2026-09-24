@@ -1,0 +1,12 @@
+Ledger page P-6507
+
+account      amount   see page
+Park           -885   P-2763
+Baker           -96   P-9134
+Rahman         -417   P-7127
+Moreau         -248   P-5215
+Umar           +456   P-6820
+Tanaka         -427   P-8198
+Zhou           +874   P-8049
+
+Follow the entry with the largest debit (the most negative amount).

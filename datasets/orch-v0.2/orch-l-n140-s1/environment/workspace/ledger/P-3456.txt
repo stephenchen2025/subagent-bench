@@ -1,0 +1,10 @@
+Ledger page P-3456
+
+account      amount   see page
+Quinn          -575   P-2711
+Eriksen        -832   P-7969
+Silva          +234   P-9690
+Ibarra         +570   P-3187
+Vance          +374   P-8349
+
+Follow the credit belonging to the account that comes first alphabetically.

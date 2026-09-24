@@ -1,0 +1,11 @@
+Ledger page P-7888
+
+account      amount   see page
+Dunn           +808   P-2188
+Ibarra         -803   P-6858
+Grant          -727   P-1575
+Eriksen        -335   P-6086
+Umar           +863   P-9722
+Fofana         -807   P-7272
+
+Follow the debit belonging to the account that comes last alphabetically.

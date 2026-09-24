@@ -1,0 +1,11 @@
+Ledger page P-1991
+
+account      amount   see page
+Castillo       +574   P-5844
+Young          -591   P-2900
+Osei           -164   P-1047
+Ibarra         +434   P-9865
+Tanaka         -633   P-1253
+Eriksen        -517   P-8890
+
+Follow the credit belonging to the account that comes first alphabetically.

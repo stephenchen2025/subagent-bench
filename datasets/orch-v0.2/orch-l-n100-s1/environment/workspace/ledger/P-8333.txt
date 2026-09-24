@@ -1,0 +1,11 @@
+Ledger page P-8333
+
+account      amount   see page
+Nakamura       +352   P-9385
+Abbott         +326   P-8489
+Kowalski       -800   P-5739
+Lambert        +505   P-1577
+Hughes          +91   P-5686
+Moreau         -605   P-9837
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,12 @@
+Ledger page P-5277
+
+account      amount   see page
+Park           +108   P-8931
+Baker          +860   P-3982
+Xu             -127   P-4279
+Quinn          +181   P-6683
+Vance          +553   P-2562
+Hughes         +302   P-7775
+Rahman         +512   P-1605
+
+Follow the entry with the largest debit (the most negative amount).

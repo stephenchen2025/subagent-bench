@@ -1,0 +1,12 @@
+Ledger page P-1891
+
+account      amount   see page
+Ibarra         +718   P-5261
+Rahman         -499   P-8381
+Grant          -170   P-9124
+Jensen         -336   P-7264
+Young          +619   P-6667
+Umar           -480   P-1519
+Abbott         +630   P-4366
+
+Follow the entry with the largest credit.

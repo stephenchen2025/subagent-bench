@@ -1,0 +1,12 @@
+Ledger page P-4644
+
+account      amount   see page
+Park           -887   P-7270
+Fofana         +478   P-8443
+Grant          -516   P-8351
+Weber          +528   P-4259
+Jensen         -594   P-9414
+Baker          +149   P-9793
+Osei            +47   P-1614
+
+Follow the entry with the largest credit.

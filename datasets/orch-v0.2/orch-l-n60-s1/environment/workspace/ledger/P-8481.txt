@@ -1,0 +1,11 @@
+Ledger page P-8481
+
+account      amount   see page
+Weber          +491   P-1438
+Hughes         +329   P-7502
+Xu             +117   P-6639
+Kowalski       -175   P-2328
+Lambert        -574   P-6271
+Quinn          -745   P-8674
+
+Follow the entry with the largest credit.

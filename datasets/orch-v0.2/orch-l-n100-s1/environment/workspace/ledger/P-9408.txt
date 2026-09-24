@@ -1,0 +1,11 @@
+Ledger page P-9408
+
+account      amount   see page
+Jensen         +210   P-4432
+Fofana         +607   P-6544
+Vance          -839   P-3740
+Dunn           -851   P-4213
+Kowalski       +482   P-3420
+Park           +176   P-3192
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,10 @@
+Ledger page P-4334
+
+account      amount   see page
+Silva          -698   P-3452
+Young           -80   P-5366
+Rahman         +626   P-4344
+Vance          +777   P-4937
+Kowalski       +657   P-4344
+
+Follow the credit belonging to the account that comes first alphabetically.

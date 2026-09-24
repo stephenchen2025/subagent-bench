@@ -1,0 +1,12 @@
+Ledger page P-8316
+
+account      amount   see page
+Vance          +647   P-7842
+Eriksen        -727   P-3596
+Baker          +549   P-8108
+Park           -738   P-4153
+Xu             -894   P-9568
+Tanaka         -743   P-8281
+Abbott         -200   P-3585
+
+Follow the entry with the second-largest amount.

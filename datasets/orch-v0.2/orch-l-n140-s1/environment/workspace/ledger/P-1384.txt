@@ -1,0 +1,11 @@
+Ledger page P-1384
+
+account      amount   see page
+Dunn           +451   P-4473
+Castillo       -377   P-7022
+Moreau         -314   P-9694
+Weber          -495   P-2711
+Park           -260   P-4589
+Umar           -472   P-5700
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,11 @@
+Ledger page P-9753
+
+account      amount   see page
+Baker          +186   P-4197
+Grant          -435   P-7315
+Rahman          +48   P-8194
+Young          +554   P-2402
+Weber          -194   P-9584
+Xu             +887   P-3368
+
+Follow the entry with the largest debit (the most negative amount).

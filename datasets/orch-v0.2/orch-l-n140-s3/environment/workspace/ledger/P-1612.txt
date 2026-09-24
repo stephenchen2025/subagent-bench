@@ -1,0 +1,11 @@
+Ledger page P-1612
+
+account      amount   see page
+Baker          +348   P-8065
+Vance          -131   P-8316
+Young          +798   P-3914
+Fofana         -366   P-5044
+Hughes         +780   P-2617
+Jensen         -845   P-8547
+
+Follow the debit belonging to the account that comes last alphabetically.

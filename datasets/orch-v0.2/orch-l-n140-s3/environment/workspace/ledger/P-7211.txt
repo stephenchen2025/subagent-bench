@@ -1,0 +1,12 @@
+Ledger page P-7211
+
+account      amount   see page
+Lambert        +870   P-2656
+Umar           -891   P-6281
+Baker          +488   P-6561
+Weber          +272   P-2187
+Castillo       +590   P-6924
+Osei           -146   P-5767
+Rahman         +525   P-4466
+
+Follow the debit belonging to the account that comes last alphabetically.

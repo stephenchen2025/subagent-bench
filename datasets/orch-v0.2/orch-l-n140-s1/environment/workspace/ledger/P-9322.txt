@@ -1,0 +1,11 @@
+Ledger page P-9322
+
+account      amount   see page
+Zhou           +292   P-5008
+Tanaka          +52   P-6874
+Hughes          -96   P-4349
+Baker          +581   P-3191
+Park           +756   P-3010
+Silva          -486   P-2983
+
+Follow the debit belonging to the account that comes last alphabetically.

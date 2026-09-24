@@ -1,0 +1,12 @@
+Ledger page P-2544
+
+account      amount   see page
+Dunn           +558   P-8874
+Hughes         -671   P-7146
+Rahman         +371   P-2361
+Young          -859   P-2558
+Baker          +844   P-4403
+Kowalski       +557   P-1566
+Lambert        -640   P-7556
+
+Follow the entry with the largest debit (the most negative amount).

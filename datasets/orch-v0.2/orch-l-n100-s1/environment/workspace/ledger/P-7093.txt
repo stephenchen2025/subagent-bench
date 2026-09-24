@@ -1,0 +1,12 @@
+Ledger page P-7093
+
+account      amount   see page
+Osei           -401   P-7609
+Baker          +147   P-4094
+Silva           +70   P-8600
+Jensen         +664   P-7240
+Hughes         +879   P-9337
+Quinn          +863   P-3624
+Eriksen        +297   P-6833
+
+Follow the entry with the largest debit (the most negative amount).

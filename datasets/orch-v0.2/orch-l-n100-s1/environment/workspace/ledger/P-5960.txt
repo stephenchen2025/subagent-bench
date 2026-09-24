@@ -1,0 +1,12 @@
+Ledger page P-5960
+
+account      amount   see page
+Nakamura       +738   P-5830
+Quinn          +798   P-2776
+Jensen         -146   P-7465
+Osei           +413   P-2086
+Vance          -492   P-4432
+Moreau         -147   P-8735
+Kowalski       +296   P-3460
+
+Follow the entry with the largest credit.

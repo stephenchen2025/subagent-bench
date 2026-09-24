@@ -1,0 +1,11 @@
+Ledger page P-8772
+
+account      amount   see page
+Tanaka         -630   P-6167
+Hughes         -516   P-7653
+Rahman         +494   P-4305
+Jensen         -766   P-7015
+Baker          -304   P-4354
+Dunn           +684   P-5215
+
+Follow the credit belonging to the account that comes first alphabetically.

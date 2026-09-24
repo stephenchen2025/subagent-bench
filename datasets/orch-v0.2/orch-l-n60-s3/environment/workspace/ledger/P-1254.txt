@@ -1,0 +1,10 @@
+Ledger page P-1254
+
+account      amount   see page
+Lambert        -623   P-5622
+Castillo       -173   P-8194
+Zhou            +21   P-5103
+Fofana         -280   P-6941
+Young           +64   P-6170
+
+Follow the credit belonging to the account that comes first alphabetically.

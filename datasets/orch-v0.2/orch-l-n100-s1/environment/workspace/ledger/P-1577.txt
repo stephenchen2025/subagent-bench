@@ -1,0 +1,10 @@
+Ledger page P-1577
+
+account      amount   see page
+Hughes         +317   P-7109
+Vance            +7   P-8683
+Fofana         +626   P-1848
+Nakamura        +48   P-5619
+Silva          -202   P-2228
+
+Follow the entry with the largest credit.

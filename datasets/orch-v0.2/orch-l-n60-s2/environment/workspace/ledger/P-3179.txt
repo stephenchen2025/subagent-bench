@@ -1,0 +1,11 @@
+Ledger page P-3179
+
+account      amount   see page
+Osei           +734   P-5322
+Baker          +321   P-9525
+Jensen         +427   P-1845
+Zhou           -269   P-8803
+Fofana         -234   P-4429
+Tanaka         -348   P-6734
+
+Follow the debit belonging to the account that comes last alphabetically.

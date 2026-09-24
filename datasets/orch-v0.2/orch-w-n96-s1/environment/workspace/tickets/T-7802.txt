@@ -1,0 +1,73 @@
+Ticket T-7802
+Customer: Sofia Rossi
+Orders on file: ORD-15690, ORD-71459, ORD-30963, ORD-96483
+Opened: 2026-01-06 via web form
+
+Order details:
+ORD-15690  placed 2026-08-08  status: delivered  total: $401.07
+  payment method: card ending 2329  ship to: 867 Oak Ave
+  - desk lamp x1
+  - extended warranty, 2 years x3
+  - travel pouch x3
+  - gift wrap x1
+ORD-71459  placed 2026-07-17  status: label created  total: $82.25
+  payment method: card ending 8716  ship to: 512 Cedar Lane
+  - trail running shoes x1
+  - merino socks, size M x2
+  - stainless water bottle, 750ml x1
+  - microfiber cloth x2
+  - gift wrap x3
+ORD-30963  placed 2026-02-01  status: returned  total: $256.95
+  payment method: card ending 9766  ship to: 839 Cedar Rd
+  - wool blanket x1
+  - replacement filter cartridge, 3-pack x2
+  - extended warranty, 2 years x3
+  - microfiber cloth x1
+  - merino socks, size M x3
+ORD-96483  placed 2026-03-09  status: label created  total: $202.46
+  payment method: card ending 7372  ship to: 842 Cedar St
+  - blender x1
+  - travel pouch x2
+  - stainless water bottle, 750ml x1
+  - replacement filter cartridge, 3-pack x3
+
+--- message 1 from Sofia Rossi ---
+Where is my refund for ORD-30963? You said 5 days and it has been 8. I'm travelling next week, so email is the best way to reach me. My earlier order ORD-30963 arrived fine, no complaints there. My partner placed ORD-96483 on our shared account, in case that matters.
+
+Thanks,
+Sofia Rossi
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Keiko (support) ---
+Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off. Our warehouse shows ORD-96483 left on schedule. I've resent the confirmation email for ORD-30963 to the address on file.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Sofia Rossi ---
+I changed my shipping address last month, so please double-check you have the new one. I tried the chat widget first but it kept disconnecting. My partner placed ORD-15690 on our shared account, in case that matters. I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Sofia Rossi
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Keiko (support) ---
+I've resent the confirmation email for ORD-96483 to the address on file. Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context. I can see all the orders on your account, including ORD-15690.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Sofia Rossi ---
+I'm travelling next week, so email is the best way to reach me. I changed my shipping address last month, so please double-check you have the new one. I'd rather not call; the hold times last time were very long. I tried the chat widget first but it kept disconnecting.
+
+Sofia Rossi
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Keiko (support) ---
+I've updated your shipping address on file. Screenshots aren't necessary, but thank you for offering. I've added a note to your account so the next agent has the context. Thanks for reaching out, and sorry for the trouble.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

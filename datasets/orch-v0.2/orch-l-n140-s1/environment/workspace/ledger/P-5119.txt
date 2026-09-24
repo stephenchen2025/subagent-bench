@@ -1,0 +1,10 @@
+Ledger page P-5119
+
+account      amount   see page
+Zhou           +162   P-4401
+Park           +435   P-2280
+Hughes         +158   P-2338
+Silva          +423   P-4075
+Xu             -128   P-5067
+
+Follow the debit belonging to the account that comes last alphabetically.

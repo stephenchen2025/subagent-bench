@@ -1,0 +1,68 @@
+Ticket T-2475
+Customer: Kofi Mensah
+Orders on file: ORD-95195, ORD-28925, ORD-56363, ORD-19669
+Opened: 2026-04-22 via email
+
+Order details:
+ORD-95195  placed 2026-06-21  status: in transit  total: $353.63
+  payment method: card ending 9049  ship to: 885 Cedar St
+  - espresso grinder x1
+  - gift wrap x2
+  - carabiner set x2
+  - stainless water bottle, 750ml x3
+  - replacement filter cartridge, 3-pack x2
+ORD-28925  placed 2026-04-04  status: in transit  total: $438.16
+  payment method: card ending 8780  ship to: 276 Mill Ave
+  - mechanical keyboard x1
+  - USB-C charging cable (2m) x1
+  - merino socks, size M x1
+  - replacement filter cartridge, 3-pack x3
+ORD-56363  placed 2026-08-21  status: delivered  total: $290.34
+  payment method: card ending 5646  ship to: 870 Elm Lane
+  - yoga mat x1
+  - stainless water bottle, 750ml x2
+  - microfiber cloth x2
+ORD-19669  placed 2026-03-14  status: delivered  total: $341.16
+  payment method: card ending 2659  ship to: 690 Elm Ave
+  - trail running shoes x1
+  - travel pouch x3
+  - microfiber cloth x1
+
+--- message 1 from Kofi Mensah ---
+Where is my refund for ORD-28925? You said 5 days and it has been 8. My earlier order ORD-28925 arrived fine, no complaints there. The box for ORD-28925 was a bit crushed but the contents were fine. The mechanical keyboard itself is great, for what it's worth.
+
+Best regards,
+Kofi Mensah
+
+--- message 2 from Pete (support) ---
+Our warehouse shows ORD-28925 left on schedule. Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-28925 to the address on file. If you need an invoice for ORD-19669, you can download it from the Orders page.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Kofi Mensah ---
+The payment for ORD-95195 went through, and then about an hour later it went through again. I've been a customer for a few years and usually everything goes smoothly. I'd rather not call; the hold times last time were very long.
+
+Kofi Mensah
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Pete (support) ---
+Loyalty points post about a week after an order is delivered. Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Kofi Mensah ---
+Is there a way to combine loyalty points from ORD-56363 with my next purchase? I'm happy to send screenshots if that helps. My partner placed ORD-56363 on our shared account, in case that matters. I've been a customer for a few years and usually everything goes smoothly.
+
+Kofi Mensah
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Pete (support) ---
+I can see all the orders on your account, including ORD-56363. Screenshots aren't necessary, but thank you for offering. If you need an invoice for ORD-56363, you can download it from the Orders page. Loyalty points post about a week after an order is delivered.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

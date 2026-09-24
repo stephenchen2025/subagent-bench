@@ -1,0 +1,12 @@
+Ledger page P-8620
+
+account      amount   see page
+Vance          -323   P-6544
+Rahman         -402   P-3528
+Grant          +835   P-6361
+Jensen         +470   P-1317
+Park           +727   P-7465
+Nakamura        +73   P-4901
+Hughes         -828   P-2779
+
+Follow the entry with the largest debit (the most negative amount).

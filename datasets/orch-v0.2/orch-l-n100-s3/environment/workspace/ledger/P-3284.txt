@@ -1,0 +1,12 @@
+Ledger page P-3284
+
+account      amount   see page
+Vance          +652   P-8701
+Nakamura       -784   P-2267
+Grant          +346   P-6355
+Rahman         +169   P-8691
+Eriksen        -612   P-1088
+Quinn          +131   P-8313
+Zhou           -627   P-3685
+
+Follow the credit belonging to the account that comes first alphabetically.

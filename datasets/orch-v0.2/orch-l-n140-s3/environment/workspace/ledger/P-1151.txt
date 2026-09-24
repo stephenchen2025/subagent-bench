@@ -1,0 +1,10 @@
+Ledger page P-1151
+
+account      amount   see page
+Rahman         +225   P-1963
+Silva          +551   P-5782
+Kowalski       +757   P-5846
+Hughes         -466   P-3511
+Young          +155   P-1233
+
+Follow the debit belonging to the account that comes last alphabetically.

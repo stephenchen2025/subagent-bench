@@ -1,0 +1,12 @@
+Ledger page P-2771
+
+account      amount   see page
+Eriksen        -141   P-5757
+Jensen          +58   P-4802
+Weber          -371   P-6680
+Zhou           -679   P-5027
+Vance          -846   P-4522
+Rahman         +536   P-2806
+Umar           +222   P-2370
+
+Follow the entry with the second-largest amount.

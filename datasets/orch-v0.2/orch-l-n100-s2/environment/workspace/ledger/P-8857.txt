@@ -1,0 +1,12 @@
+Ledger page P-8857
+
+account      amount   see page
+Baker           +55   P-4727
+Ibarra         +257   P-9826
+Park           -497   P-9256
+Jensen         +880   P-5156
+Quinn          -808   P-8717
+Eriksen        -108   P-9979
+Dunn           -603   P-4056
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,110 @@
+Ticket T-4433
+Customer: Avery Lin
+Orders on file: ORD-73412, ORD-61416, ORD-55003, ORD-87833
+Opened: 2026-07-28 via email
+
+Order details:
+ORD-73412  placed 2026-06-03  status: label created  total: $123.72
+  payment method: card ending 4212  ship to: 45 Oak St
+  - rain jacket x1
+  - extended warranty, 2 years x3
+  - replacement filter cartridge, 3-pack x1
+  - merino socks, size M x2
+  - stainless water bottle, 750ml x2
+ORD-61416  placed 2026-07-13  status: delivered  total: $132.40
+  payment method: card ending 4551  ship to: 850 Mill St
+  - carry-on suitcase x1
+  - replacement filter cartridge, 3-pack x3
+  - merino socks, size M x3
+  - spare battery pack x2
+ORD-55003  placed 2026-07-04  status: label created  total: $423.65
+  payment method: card ending 4331  ship to: 502 Oak St
+  - noise-cancelling headphones x1
+  - gift wrap x2
+  - spare battery pack x3
+  - USB-C charging cable (2m) x1
+ORD-87833  placed 2026-03-28  status: in transit  total: $64.88
+  payment method: card ending 2558  ship to: 263 Cedar Ave
+  - blender x1
+  - travel pouch x1
+  - merino socks, size M x1
+  - USB-C charging cable (2m) x1
+
+--- message 1 from Avery Lin ---
+I need to change the delivery address for ORD-55003 before it ships. I changed my shipping address last month, so please double-check you have the new one. The box for ORD-73412 was a bit crushed but the contents were fine. My partner placed ORD-73412 on our shared account, in case that matters.
+
+Best regards,
+Avery Lin
+
+--- message 2 from Keiko (support) ---
+Let me know if anything else looks off. I can see all the orders on your account, including ORD-61416. I've updated your shipping address on file. Tracking updates can lag by a day or two with this carrier.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Avery Lin ---
+Something looks off with ORD-87833: I see what might be a second payment. I'd rather not call; the hold times last time were very long. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Avery Lin
+
+--- message 4 from Keiko (support) ---
+I can see all the orders on your account, including ORD-73412. I've updated your shipping address on file. Let me know if anything else looks off.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Avery Lin ---
+Update: the second line has now posted, it's no longer pending. So both payments for ORD-87833 actually went through. I'm travelling next week, so email is the best way to reach me. My partner placed ORD-55003 on our shared account, in case that matters.
+
+Avery Lin
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Keiko (support) ---
+Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-73412 to the address on file.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Keiko (support) ---
+You're right, and I'm sorry. Our records show ORD-87833 was settled two times. I've refunded the duplicate. I've added a note to your account so the next agent has the context. Our warehouse shows ORD-55003 left on schedule.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Avery Lin ---
+My earlier order ORD-73412 arrived fine, no complaints there. Could you also tell me whether ORD-55003 qualifies for the extended return window? Tracking for ORD-73412 hasn't updated since Tuesday.
+
+Best regards,
+Avery Lin
+
+--- message 9 from Avery Lin ---
+I'd rather not call; the hold times last time were very long. The box for ORD-55003 was a bit crushed but the contents were fine. I changed my shipping address last month, so please double-check you have the new one. My earlier order ORD-55003 arrived fine, no complaints there.
+
+Thanks,
+Avery Lin
+Sent from my phone -- please excuse typos.
+
+--- message 10 from Keiko (support) ---
+Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-61416. Tracking updates can lag by a day or two with this carrier.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 11 from Avery Lin ---
+The blender itself is great, for what it's worth. Is there a way to combine loyalty points from ORD-55003 with my next purchase? I'm travelling next week, so email is the best way to reach me. I'm happy to send screenshots if that helps.
+
+Avery Lin
+(Please reply by email rather than phone if possible.)
+
+--- message 12 from Keiko (support) ---
+For ORD-55003, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-61416 left on schedule.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,12 @@
+Ledger page P-8396
+
+account      amount   see page
+Moreau         +571   P-1897
+Umar           -565   P-6476
+Dunn           -476   P-5847
+Ibarra         -137   P-2277
+Fofana         -660   P-8890
+Castillo       -659   P-1729
+Xu             -385   P-1729
+
+Follow the entry with the largest credit.

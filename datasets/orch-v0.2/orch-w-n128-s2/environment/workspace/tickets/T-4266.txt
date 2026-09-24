@@ -1,0 +1,98 @@
+Ticket T-4266
+Customer: Samir Patel
+Orders on file: ORD-68562, ORD-43294, ORD-46445, ORD-32555
+Opened: 2026-04-23 via chat transcript
+
+Order details:
+ORD-68562  placed 2026-06-20  status: returned  total: $127.30
+  payment method: card ending 3889  ship to: 480 Elm St
+  - noise-cancelling headphones x1
+  - microfiber cloth x1
+  - stainless water bottle, 750ml x2
+  - gift wrap x3
+  - spare battery pack x2
+ORD-43294  placed 2026-01-17  status: in transit  total: $392.74
+  payment method: card ending 3393  ship to: 981 Cedar Rd
+  - water filter pitcher x1
+  - spare battery pack x3
+  - merino socks, size M x2
+  - USB-C charging cable (2m) x1
+ORD-46445  placed 2026-04-14  status: delivered  total: $436.02
+  payment method: card ending 3231  ship to: 599 Mill Lane
+  - yoga mat x1
+  - travel pouch x3
+  - spare battery pack x3
+  - stainless water bottle, 750ml x3
+  - USB-C charging cable (2m) x2
+ORD-32555  placed 2026-01-25  status: returned  total: $147.15
+  payment method: card ending 6074  ship to: 911 Cedar St
+  - bike light set x1
+  - spare battery pack x1
+  - stainless water bottle, 750ml x2
+
+--- message 1 from Samir Patel ---
+I need to change the delivery address for ORD-68562 before it ships. The box for ORD-68562 was a bit crushed but the contents were fine. My earlier order ORD-43294 arrived fine, no complaints there. My partner placed ORD-68562 on our shared account, in case that matters.
+
+Thanks,
+Samir Patel
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Rosa (support) ---
+Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-68562, you can download it from the Orders page. For ORD-32555, the return window is 30 days from delivery. Loyalty points post about a week after an order is delivered.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Samir Patel ---
+There are two identical debits on my statement and both reference ORD-46445. My earlier order ORD-43294 arrived fine, no complaints there. My partner placed ORD-68562 on our shared account, in case that matters.
+
+Samir Patel
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Rosa (support) ---
+I've resent the confirmation email for ORD-32555 to the address on file. Our warehouse shows ORD-32555 left on schedule. If you need an invoice for ORD-68562, you can download it from the Orders page.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Rosa (support) ---
+Confirmed on our side -- ORD-46445 was captured twice by a retry in our checkout. One refund of $157.74 is on its way to you. If you need an invoice for ORD-68562, you can download it from the Orders page. I've resent the confirmation email for ORD-43294 to the address on file.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Samir Patel ---
+I tried the chat widget first but it kept disconnecting. I'm happy to send screenshots if that helps. I'd rather not call; the hold times last time were very long.
+
+Samir Patel
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Samir Patel ---
+My partner placed ORD-43294 on our shared account, in case that matters. The confirmation email for ORD-32555 went to my spam folder, so I only just saw it. I tried the chat widget first but it kept disconnecting. I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Samir Patel
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Rosa (support) ---
+I've resent the confirmation email for ORD-68562 to the address on file. I can see all the orders on your account, including ORD-43294. I've updated your shipping address on file. Screenshots aren't necessary, but thank you for offering.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Samir Patel ---
+The box for ORD-68562 was a bit crushed but the contents were fine. Your app logged me out twice while I was looking at this, which didn't help. Could you also tell me whether ORD-68562 qualifies for the extended return window? Tracking for ORD-43294 hasn't updated since Tuesday.
+
+Samir Patel
+(Please reply by email rather than phone if possible.)
+
+--- message 10 from Rosa (support) ---
+Tracking updates can lag by a day or two with this carrier. If you need an invoice for ORD-43294, you can download it from the Orders page. For ORD-68562, the return window is 30 days from delivery. Loyalty points post about a week after an order is delivered.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

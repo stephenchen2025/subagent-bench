@@ -1,0 +1,11 @@
+Ledger page P-2054
+
+account      amount   see page
+Tanaka         +787   P-5019
+Umar           +717   P-9427
+Rahman         +563   P-2833
+Moreau         +210   P-2263
+Zhou            -29   P-1928
+Baker          -172   P-2617
+
+Follow the entry with the largest debit (the most negative amount).

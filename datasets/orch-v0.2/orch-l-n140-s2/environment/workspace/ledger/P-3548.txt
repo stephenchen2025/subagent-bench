@@ -1,0 +1,12 @@
+Ledger page P-3548
+
+account      amount   see page
+Fofana         +812   P-1106
+Castillo        -18   P-8328
+Young          +757   P-7314
+Ibarra         -207   P-3706
+Silva          +519   P-4422
+Dunn           -551   P-2994
+Xu             +700   P-1713
+
+Follow the credit belonging to the account that comes first alphabetically.

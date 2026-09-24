@@ -1,0 +1,10 @@
+Ledger page P-9559
+
+account      amount   see page
+Castillo       +662   P-8971
+Vance          -418   P-7339
+Eriksen         +91   P-6634
+Osei           -276   P-2643
+Umar           -162   P-8298
+
+Follow the entry with the largest credit.

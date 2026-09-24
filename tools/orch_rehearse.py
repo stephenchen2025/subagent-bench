@@ -6,9 +6,11 @@ through the real reference harness, grades with the real verifier, and renders
 the report. The question it answers is whether the metrics separate policies the
 way they are supposed to:
 
-- solo is flat, and falls off on W and P as size grows;
-- judicious delegation captures the ceiling on W and P and pays no tax on C and S;
-- eager delegation captures W and P but pays a tax on C and a cost ratio on S;
+- solo falls off on W, P and C as size grows (the context wall);
+- judicious delegation captures the ceiling on W, P and C (C with the record
+  contract in every brief) and follows the L chain itself;
+- eager delegation without a contract wrecks C, which shows as harm, and its
+  decision accuracy suffers for relaying L;
 - sloppy delegation shows up as low coverage, duplication and synthesis loss.
 
 Every agent is a perfect reader, so solo-xl matches delegate: with no context rot,

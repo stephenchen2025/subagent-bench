@@ -1,0 +1,11 @@
+Ledger page P-6928
+
+account      amount   see page
+Jensen         +798   P-9213
+Eriksen        -278   P-5710
+Kowalski       -598   P-1598
+Hughes         +441   P-4635
+Zhou           +248   P-9568
+Umar           +322   P-8419
+
+Follow the entry with the largest credit.

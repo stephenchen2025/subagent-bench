@@ -1,0 +1,10 @@
+Ledger page P-6749
+
+account      amount   see page
+Park           +522   P-8865
+Xu             -750   P-8484
+Ibarra         +485   P-2917
+Silva           +94   P-4346
+Eriksen        -107   P-3368
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,12 @@
+Ledger page P-4950
+
+account      amount   see page
+Nakamura       -551   P-8236
+Fofana         -279   P-3635
+Baker          +596   P-3354
+Rahman         +740   P-3216
+Kowalski       +497   P-1702
+Hughes         -525   P-9190
+Dunn           -489   P-6183
+
+Follow the credit belonging to the account that comes first alphabetically.

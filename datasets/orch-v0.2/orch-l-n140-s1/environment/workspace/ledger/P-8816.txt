@@ -1,0 +1,12 @@
+Ledger page P-8816
+
+account      amount   see page
+Weber          +625   P-2610
+Kowalski       +289   P-9282
+Abbott         +730   P-2583
+Lambert        +358   P-3187
+Park           +601   P-2156
+Vance          -303   P-9614
+Castillo       -435   P-2583
+
+Follow the entry with the largest debit (the most negative amount).

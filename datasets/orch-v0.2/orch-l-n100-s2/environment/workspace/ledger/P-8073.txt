@@ -1,0 +1,12 @@
+Ledger page P-8073
+
+account      amount   see page
+Vance          +546   P-4704
+Tanaka         +277   P-1863
+Ibarra         +433   P-8522
+Dunn           +197   P-5991
+Weber          +328   P-7898
+Jensen         +738   P-7540
+Xu             -318   P-2807
+
+Follow the debit belonging to the account that comes last alphabetically.

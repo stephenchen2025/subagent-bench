@@ -1,0 +1,11 @@
+Ledger page P-5220
+
+account      amount   see page
+Lambert        +603   P-7795
+Silva          +621   P-9525
+Young          -370   P-1656
+Tanaka         -127   P-6953
+Ibarra         -860   P-8971
+Weber          -845   P-6885
+
+Follow the entry with the largest debit (the most negative amount).

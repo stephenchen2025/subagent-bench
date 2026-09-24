@@ -1,0 +1,10 @@
+Ledger page P-1538
+
+account      amount   see page
+Fofana         -346   P-5388
+Lambert        -224   P-4842
+Umar           +775   P-4436
+Eriksen        -606   P-5093
+Hughes         +102   P-6305
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,68 @@
+Ticket T-9851
+Customer: Ben Carter
+Orders on file: ORD-36344, ORD-71606, ORD-49893, ORD-21898
+Opened: 2026-07-19 via web form
+
+Order details:
+ORD-36344  placed 2026-05-26  status: delivered  total: $202.53
+  payment method: card ending 2261  ship to: 430 Harbor Lane
+  - cast iron skillet x1
+  - merino socks, size M x3
+  - USB-C charging cable (2m) x1
+ORD-71606  placed 2026-01-01  status: returned  total: $269.79
+  payment method: card ending 9918  ship to: 66 Harbor Lane
+  - desk lamp x1
+  - gift wrap x2
+  - extended warranty, 2 years x2
+  - travel pouch x1
+ORD-49893  placed 2026-02-25  status: delivered  total: $222.25
+  payment method: card ending 3059  ship to: 964 Cedar St
+  - noise-cancelling headphones x1
+  - replacement filter cartridge, 3-pack x2
+  - carabiner set x1
+  - merino socks, size M x2
+ORD-21898  placed 2026-02-11  status: returned  total: $25.01
+  payment method: card ending 3890  ship to: 946 Oak St
+  - trail running shoes x1
+  - stainless water bottle, 750ml x2
+  - microfiber cloth x3
+
+--- message 1 from Ben Carter ---
+The wool blanket from ORD-49893 arrived with a scratch on the side. Can I get a replacement? The confirmation email for ORD-71606 went to my spam folder, so I only just saw it. The box for ORD-49893 was a bit crushed but the contents were fine. My partner placed ORD-21898 on our shared account, in case that matters.
+
+Thanks,
+Ben Carter
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Luis (support) ---
+Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering. I've updated your shipping address on file.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ben Carter ---
+The confirmation email for ORD-21898 went to my spam folder, so I only just saw it. I tried the chat widget first but it kept disconnecting. I'm travelling next week, so email is the best way to reach me. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Ben Carter
+
+--- message 4 from Luis (support) ---
+For ORD-49893, the return window is 30 days from delivery. If you need an invoice for ORD-49893, you can download it from the Orders page. Tracking updates can lag by a day or two with this carrier. I can see all the orders on your account, including ORD-49893.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Ben Carter ---
+Tracking for ORD-49893 hasn't updated since Tuesday. I'd rather not call; the hold times last time were very long. The box for ORD-49893 was a bit crushed but the contents were fine. My earlier order ORD-71606 arrived fine, no complaints there.
+
+Best regards,
+Ben Carter
+
+--- message 6 from Luis (support) ---
+I can see all the orders on your account, including ORD-71606. I've resent the confirmation email for ORD-49893 to the address on file. If you need an invoice for ORD-71606, you can download it from the Orders page. Loyalty points post about a week after an order is delivered.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

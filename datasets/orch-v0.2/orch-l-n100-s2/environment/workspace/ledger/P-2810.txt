@@ -1,0 +1,12 @@
+Ledger page P-2810
+
+account      amount   see page
+Nakamura       +490   P-2495
+Jensen         +323   P-2286
+Weber          -841   P-8834
+Tanaka         +181   P-1759
+Kowalski       +273   P-5225
+Silva           -37   P-3834
+Eriksen        -492   P-9487
+
+Follow the entry with the second-largest amount.

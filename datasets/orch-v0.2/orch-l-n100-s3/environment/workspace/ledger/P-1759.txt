@@ -1,0 +1,12 @@
+Ledger page P-1759
+
+account      amount   see page
+Young          +628   P-6576
+Ibarra         -893   P-9743
+Park           +527   P-2589
+Moreau         +533   P-1547
+Baker          +755   P-2663
+Quinn          -433   P-7545
+Xu             +277   P-2960
+
+Follow the entry with the largest credit.

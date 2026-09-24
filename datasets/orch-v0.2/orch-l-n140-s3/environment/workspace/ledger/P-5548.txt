@@ -1,0 +1,12 @@
+Ledger page P-5548
+
+account      amount   see page
+Zhou           +164   P-8381
+Hughes         +738   P-9833
+Rahman         +421   P-6641
+Baker          +266   P-2253
+Ibarra         +110   P-2467
+Nakamura       -319   P-9827
+Vance          -240   P-7436
+
+Follow the entry with the second-largest amount.

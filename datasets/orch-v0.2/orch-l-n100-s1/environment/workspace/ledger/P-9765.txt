@@ -1,0 +1,12 @@
+Ledger page P-9765
+
+account      amount   see page
+Moreau         -653   P-5081
+Weber          -781   P-8892
+Kowalski       -447   P-3806
+Silva          -168   P-9320
+Osei            +83   P-7621
+Ibarra         -326   P-8121
+Umar           -651   P-1525
+
+Follow the debit belonging to the account that comes last alphabetically.

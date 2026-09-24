@@ -1,0 +1,55 @@
+Ticket T-3530
+Customer: Diego Alvarez
+Orders on file: ORD-53111, ORD-73465, ORD-66511, ORD-13124
+Opened: 2026-05-04 via chat transcript
+
+Order details:
+ORD-53111  placed 2026-06-24  status: label created  total: $284.42
+  payment method: card ending 9357  ship to: 348 Cedar St
+  - trail running shoes x1
+  - gift wrap x1
+  - merino socks, size M x2
+ORD-73465  placed 2026-02-11  status: delivered  total: $38.92
+  payment method: card ending 1009  ship to: 224 Elm Rd
+  - desk lamp x1
+  - merino socks, size M x3
+  - travel pouch x2
+  - microfiber cloth x1
+  - gift wrap x2
+ORD-66511  placed 2026-02-02  status: in transit  total: $55.62
+  payment method: card ending 7437  ship to: 909 Mill St
+  - espresso grinder x1
+  - travel pouch x3
+  - USB-C charging cable (2m) x1
+ORD-13124  placed 2026-06-20  status: delivered  total: $380.00
+  payment method: card ending 3225  ship to: 695 Cedar Ave
+  - blender x1
+  - gift wrap x1
+  - travel pouch x3
+  - USB-C charging cable (2m) x1
+
+--- message 1 from Diego Alvarez ---
+Where is my refund for ORD-66511? You said 5 days and it has been 8. I'm happy to send screenshots if that helps. The confirmation email for ORD-53111 went to my spam folder, so I only just saw it. I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Diego Alvarez
+
+--- message 2 from Luis (support) ---
+Let me know if anything else looks off. Our warehouse shows ORD-66511 left on schedule. If you need an invoice for ORD-73465, you can download it from the Orders page. I can see all the orders on your account, including ORD-53111.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Diego Alvarez ---
+The confirmation email for ORD-53111 went to my spam folder, so I only just saw it. I've been a customer for a few years and usually everything goes smoothly. I changed my shipping address last month, so please double-check you have the new one. My partner placed ORD-66511 on our shared account, in case that matters.
+
+Diego Alvarez
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Luis (support) ---
+Let me know if anything else looks off. I've resent the confirmation email for ORD-53111 to the address on file. Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-73465.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

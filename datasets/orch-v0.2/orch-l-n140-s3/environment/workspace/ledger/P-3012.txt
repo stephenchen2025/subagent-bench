@@ -1,0 +1,11 @@
+Ledger page P-3012
+
+account      amount   see page
+Osei           +219   P-2547
+Weber          -632   P-3721
+Abbott         -899   P-2579
+Park           +278   P-6221
+Kowalski       +590   P-3039
+Xu             +139   P-5116
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,11 @@
+Ledger page P-3364
+
+account      amount   see page
+Vance          -453   P-1522
+Hughes         -624   P-2681
+Jensen         +859   P-1462
+Eriksen        +679   P-9169
+Baker          -625   P-9256
+Castillo       -397   P-5886
+
+Follow the credit belonging to the account that comes first alphabetically.

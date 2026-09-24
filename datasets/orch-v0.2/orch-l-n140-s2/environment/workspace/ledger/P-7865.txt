@@ -1,0 +1,12 @@
+Ledger page P-7865
+
+account      amount   see page
+Xu             +563   P-7862
+Quinn          -774   P-3439
+Dunn           +861   P-2245
+Tanaka          -26   P-9589
+Weber          -786   P-2864
+Ibarra          +54   P-6013
+Fofana         +462   P-5619
+
+Follow the credit belonging to the account that comes first alphabetically.

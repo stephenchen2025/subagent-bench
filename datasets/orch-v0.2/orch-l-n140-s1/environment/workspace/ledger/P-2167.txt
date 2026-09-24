@@ -1,0 +1,12 @@
+Ledger page P-2167
+
+account      amount   see page
+Quinn          -342   P-7022
+Osei           +263   P-2068
+Tanaka         +413   P-5373
+Eriksen        +148   P-2861
+Hughes         +404   P-7301
+Fofana         +661   P-5623
+Rahman         -895   P-8049
+
+Follow the entry with the largest debit (the most negative amount).

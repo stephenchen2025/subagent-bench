@@ -1,0 +1,10 @@
+Ledger page P-5618
+
+account      amount   see page
+Young          +703   P-3834
+Baker          +706   P-2535
+Weber          +552   P-7540
+Quinn          +535   P-5705
+Xu             -309   P-5999
+
+Follow the entry with the largest debit (the most negative amount).

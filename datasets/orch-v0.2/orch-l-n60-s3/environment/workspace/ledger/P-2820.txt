@@ -1,0 +1,11 @@
+Ledger page P-2820
+
+account      amount   see page
+Young          -568   P-4306
+Eriksen        -161   P-1267
+Nakamura        -54   P-3022
+Hughes         +148   P-1387
+Kowalski       +297   P-9193
+Baker          +676   P-5103
+
+Follow the debit belonging to the account that comes last alphabetically.

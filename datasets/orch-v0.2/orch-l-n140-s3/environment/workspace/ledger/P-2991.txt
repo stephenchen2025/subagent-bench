@@ -1,0 +1,10 @@
+Ledger page P-2991
+
+account      amount   see page
+Tanaka         +125   P-5662
+Osei           +840   P-9054
+Castillo        +71   P-4001
+Jensen         -319   P-7391
+Lambert          -9   P-4309
+
+Follow the entry with the second-largest amount.

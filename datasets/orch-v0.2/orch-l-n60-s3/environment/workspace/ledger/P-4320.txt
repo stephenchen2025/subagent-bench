@@ -1,0 +1,10 @@
+Ledger page P-4320
+
+account      amount   see page
+Rahman          -90   P-3368
+Abbott         +403   P-7407
+Osei           +522   P-6476
+Ibarra         -730   P-1930
+Silva          -516   P-8396
+
+Follow the entry with the largest credit.

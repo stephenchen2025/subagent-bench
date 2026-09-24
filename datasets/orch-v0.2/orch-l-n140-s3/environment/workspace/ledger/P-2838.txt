@@ -1,0 +1,12 @@
+Ledger page P-2838
+
+account      amount   see page
+Umar            -72   P-9627
+Xu             +379   P-4659
+Nakamura       -220   P-2387
+Silva          +109   P-3810
+Quinn          -846   P-2547
+Dunn            +17   P-5679
+Moreau         +778   P-1557
+
+Follow the credit belonging to the account that comes first alphabetically.

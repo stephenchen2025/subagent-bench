@@ -1,0 +1,12 @@
+Ledger page P-4237
+
+account      amount   see page
+Grant          -545   P-4141
+Vance          -393   P-2091
+Lambert        +704   P-6117
+Silva          +139   P-7613
+Park           +881   P-6449
+Umar           -476   P-9617
+Kowalski       -779   P-2019
+
+Follow the credit belonging to the account that comes first alphabetically.

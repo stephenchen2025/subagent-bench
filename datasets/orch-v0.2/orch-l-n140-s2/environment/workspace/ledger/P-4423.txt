@@ -1,0 +1,10 @@
+Ledger page P-4423
+
+account      amount   see page
+Tanaka         +801   P-8443
+Weber          +480   P-3293
+Moreau         -773   P-9140
+Young          +627   P-7098
+Ibarra          +63   P-5493
+
+Follow the entry whose amount is closest to zero.

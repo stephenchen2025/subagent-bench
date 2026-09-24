@@ -1,0 +1,12 @@
+Ledger page P-7629
+
+account      amount   see page
+Fofana         +865   P-8229
+Moreau         +265   P-6561
+Ibarra         +706   P-2649
+Weber          +306   P-2579
+Castillo       -112   P-6651
+Zhou           -286   P-4173
+Kowalski       +571   P-1375
+
+Follow the credit belonging to the account that comes first alphabetically.

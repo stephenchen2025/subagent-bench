@@ -1,0 +1,12 @@
+Ledger page P-1102
+
+account      amount   see page
+Xu             -834   P-9976
+Quinn          -283   P-7562
+Young           -69   P-8937
+Ibarra           -5   P-7500
+Baker          +457   P-1992
+Tanaka         -534   P-6280
+Rahman         -407   P-1375
+
+Follow the entry with the second-largest amount.

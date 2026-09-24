@@ -1,0 +1,11 @@
+Ledger page P-2943
+
+account      amount   see page
+Moreau         +702   P-2957
+Park            +21   P-3493
+Zhou           -799   P-9882
+Rahman         -159   P-3659
+Baker          -396   P-1696
+Lambert        +319   P-3659
+
+Follow the debit belonging to the account that comes last alphabetically.

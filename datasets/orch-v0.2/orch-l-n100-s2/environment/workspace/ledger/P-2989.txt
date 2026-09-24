@@ -1,0 +1,12 @@
+Ledger page P-2989
+
+account      amount   see page
+Nakamura       -102   P-4780
+Ibarra         -159   P-5710
+Park           -262   P-6032
+Zhou           -697   P-7216
+Young          +608   P-5710
+Vance          +314   P-1195
+Osei           +156   P-8279
+
+Follow the credit belonging to the account that comes first alphabetically.

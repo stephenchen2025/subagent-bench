@@ -1,0 +1,12 @@
+Ledger page P-1713
+
+account      amount   see page
+Tanaka         +337   P-6306
+Umar            -45   P-4316
+Eriksen        +298   P-4644
+Nakamura       -748   P-9199
+Young          +600   P-1764
+Weber          -280   P-6708
+Hughes         +144   P-3606
+
+Follow the credit belonging to the account that comes first alphabetically.

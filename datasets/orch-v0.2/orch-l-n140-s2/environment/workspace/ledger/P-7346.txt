@@ -1,0 +1,12 @@
+Ledger page P-7346
+
+account      amount   see page
+Grant          -147   P-6021
+Dunn           +293   P-7710
+Jensen          +86   P-2245
+Hughes         -698   P-4112
+Silva          -701   P-2879
+Nakamura       +867   P-3510
+Quinn          +492   P-4826
+
+Follow the credit belonging to the account that comes first alphabetically.

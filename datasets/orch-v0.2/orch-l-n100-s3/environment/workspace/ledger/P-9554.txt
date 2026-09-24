@@ -1,0 +1,11 @@
+Ledger page P-9554
+
+account      amount   see page
+Quinn          +387   P-8701
+Hughes         -899   P-5363
+Jensen         -465   P-9657
+Baker          -848   P-1634
+Nakamura       +300   P-8316
+Grant          +547   P-9621
+
+Follow the entry with the second-largest amount.

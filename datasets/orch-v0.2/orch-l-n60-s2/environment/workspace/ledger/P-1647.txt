@@ -1,0 +1,12 @@
+Ledger page P-1647
+
+account      amount   see page
+Kowalski       +715   P-8045
+Weber          -578   P-8020
+Park           +562   P-4639
+Abbott         +175   P-9525
+Young          +454   P-8094
+Fofana         +559   P-8495
+Umar           -323   P-8094
+
+Follow the entry with the largest credit.

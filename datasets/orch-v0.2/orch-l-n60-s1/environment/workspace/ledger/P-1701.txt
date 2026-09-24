@@ -1,0 +1,11 @@
+Ledger page P-1701
+
+account      amount   see page
+Moreau         -433   P-4366
+Rahman         -449   P-2893
+Umar           -734   P-2728
+Fofana         -413   P-7854
+Silva          +183   P-4274
+Jensen         +513   P-5491
+
+Follow the credit belonging to the account that comes first alphabetically.

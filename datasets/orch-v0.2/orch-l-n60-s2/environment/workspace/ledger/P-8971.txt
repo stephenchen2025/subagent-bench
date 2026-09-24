@@ -1,0 +1,10 @@
+Ledger page P-8971
+
+account      amount   see page
+Umar            +25   P-5220
+Dunn            -51   P-9647
+Rahman         -832   P-2138
+Nakamura       -875   P-7527
+Weber          -770   P-6411
+
+Follow the debit belonging to the account that comes last alphabetically.

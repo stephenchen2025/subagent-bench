@@ -1,0 +1,95 @@
+Ticket T-1840
+Customer: Yuki Tanaka
+Orders on file: ORD-32970, ORD-72843, ORD-45858, ORD-11033
+Opened: 2026-04-24 via web form
+
+Order details:
+ORD-32970  placed 2026-07-03  status: delivered  total: $391.22
+  payment method: card ending 3361  ship to: 631 Cedar St
+  - noise-cancelling headphones x1
+  - travel pouch x3
+  - spare battery pack x2
+ORD-72843  placed 2026-05-13  status: delivered  total: $411.83
+  payment method: card ending 5673  ship to: 838 Cedar Rd
+  - bike light set x1
+  - stainless water bottle, 750ml x1
+  - replacement filter cartridge, 3-pack x3
+ORD-45858  placed 2026-06-20  status: delivered  total: $374.32
+  payment method: card ending 7416  ship to: 435 Oak Rd
+  - mechanical keyboard x1
+  - replacement filter cartridge, 3-pack x2
+  - stainless water bottle, 750ml x3
+  - merino socks, size M x2
+ORD-11033  placed 2026-08-13  status: delivered  total: $328.35
+  payment method: card ending 6723  ship to: 521 Harbor St
+  - mechanical keyboard x1
+  - extended warranty, 2 years x2
+  - gift wrap x1
+  - microfiber cloth x1
+  - spare battery pack x2
+
+--- message 1 from Yuki Tanaka ---
+Can I use a gift card on ORD-45858, or is it too late? The confirmation email for ORD-72843 went to my spam folder, so I only just saw it. The box for ORD-32970 was a bit crushed but the contents were fine. I'm happy to send screenshots if that helps.
+
+Yuki Tanaka
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Rosa (support) ---
+If you need an invoice for ORD-32970, you can download it from the Orders page. I've updated your shipping address on file. Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Yuki Tanaka ---
+Something looks off with ORD-11033: I see what might be a second payment. I'm happy to send screenshots if that helps. Tracking for ORD-72843 hasn't updated since Tuesday.
+
+Yuki Tanaka
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Rosa (support) ---
+Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-72843 left on schedule. Tracking updates can lag by a day or two with this carrier.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Yuki Tanaka ---
+Just checked again -- both charges for ORD-11033 are settled now, not pending. Tracking for ORD-45858 hasn't updated since Tuesday. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Yuki Tanaka
+
+--- message 6 from Rosa (support) ---
+Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-32970. Tracking updates can lag by a day or two with this carrier.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Rosa (support) ---
+You're right, and I'm sorry. Our records show ORD-11033 was settled two times. I've refunded the duplicate. I've resent the confirmation email for ORD-45858 to the address on file. Tracking updates can lag by a day or two with this carrier.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Yuki Tanaka ---
+Is there a way to combine loyalty points from ORD-32970 with my next purchase? My earlier order ORD-45858 arrived fine, no complaints there. Your app logged me out twice while I was looking at this, which didn't help.
+
+Yuki Tanaka
+(Please reply by email rather than phone if possible.)
+
+--- message 9 from Yuki Tanaka ---
+I changed my shipping address last month, so please double-check you have the new one. Could you also tell me whether ORD-32970 qualifies for the extended return window? I'm happy to send screenshots if that helps. I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Yuki Tanaka
+Sent from my phone -- please excuse typos.
+
+--- message 10 from Rosa (support) ---
+Screenshots aren't necessary, but thank you for offering. Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-72843 left on schedule.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

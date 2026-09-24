@@ -1,0 +1,10 @@
+Ledger page P-6707
+
+account      amount   see page
+Eriksen        -713   P-4202
+Zhou           -186   P-3524
+Park           -610   P-4466
+Quinn          -144   P-4823
+Castillo       +697   P-4963
+
+Follow the entry with the largest debit (the most negative amount).

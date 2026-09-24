@@ -1,0 +1,11 @@
+Ledger page P-5480
+
+account      amount   see page
+Young          +650   P-7863
+Xu             +580   P-6008
+Weber          -406   P-5190
+Dunn           -151   P-7912
+Vance          +330   P-8484
+Grant          -475   P-8772
+
+Follow the credit belonging to the account that comes first alphabetically.

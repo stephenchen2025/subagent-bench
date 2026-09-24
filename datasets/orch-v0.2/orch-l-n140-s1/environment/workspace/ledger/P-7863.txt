@@ -1,0 +1,10 @@
+Ledger page P-7863
+
+account      amount   see page
+Osei           +764   P-4588
+Eriksen        +249   P-2708
+Xu             -305   P-9134
+Vance          -489   P-3173
+Rahman         +389   P-3519
+
+Follow the debit belonging to the account that comes last alphabetically.

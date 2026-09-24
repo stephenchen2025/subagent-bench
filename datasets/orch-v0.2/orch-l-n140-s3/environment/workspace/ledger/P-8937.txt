@@ -1,0 +1,10 @@
+Ledger page P-8937
+
+account      amount   see page
+Zhou           +640   P-4886
+Nakamura       +841   P-9740
+Umar           +235   P-1184
+Ibarra         +857   P-2387
+Jensen          -85   P-4653
+
+Follow the entry with the largest credit.

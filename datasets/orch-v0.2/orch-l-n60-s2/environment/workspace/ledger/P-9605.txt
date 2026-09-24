@@ -1,0 +1,11 @@
+Ledger page P-9605
+
+account      amount   see page
+Silva          -506   P-5014
+Moreau         +424   P-8872
+Zhou           +722   P-1599
+Tanaka         +628   P-7391
+Umar           +390   P-5896
+Weber          +711   P-3833
+
+Follow the entry whose amount is closest to zero.

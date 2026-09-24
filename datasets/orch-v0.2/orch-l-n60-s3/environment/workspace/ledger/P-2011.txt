@@ -1,0 +1,10 @@
+Ledger page P-2011
+
+account      amount   see page
+Young          +125   P-4661
+Zhou           +869   P-2402
+Lambert        +322   P-6986
+Ibarra         +320   P-9986
+Weber          -214   P-3385
+
+Follow the entry with the largest debit (the most negative amount).

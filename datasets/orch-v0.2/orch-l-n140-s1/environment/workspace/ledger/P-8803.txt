@@ -1,0 +1,11 @@
+Ledger page P-8803
+
+account      amount   see page
+Weber          -279   P-7015
+Moreau         +254   P-7198
+Park           -513   P-3990
+Quinn          +732   P-8805
+Nakamura        -92   P-5788
+Xu             +624   P-2068
+
+Follow the debit belonging to the account that comes last alphabetically.

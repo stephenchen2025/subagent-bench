@@ -1,0 +1,12 @@
+Ledger page P-2047
+
+account      amount   see page
+Grant          -780   P-7674
+Kowalski        +60   P-2146
+Silva          -172   P-4403
+Hughes         -358   P-5691
+Jensen         -342   P-4307
+Quinn          -537   P-6342
+Osei           +892   P-6264
+
+Follow the debit belonging to the account that comes last alphabetically.

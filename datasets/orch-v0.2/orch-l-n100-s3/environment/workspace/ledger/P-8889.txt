@@ -1,0 +1,12 @@
+Ledger page P-8889
+
+account      amount   see page
+Kowalski       -104   P-3524
+Zhou           +672   P-6298
+Baker          +542   P-3925
+Abbott         -844   P-5277
+Hughes         -559   P-4254
+Fofana         -542   P-1414
+Nakamura       +184   P-5661
+
+Follow the entry with the largest debit (the most negative amount).

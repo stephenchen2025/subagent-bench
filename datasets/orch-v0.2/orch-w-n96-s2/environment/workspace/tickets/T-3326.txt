@@ -1,0 +1,66 @@
+Ticket T-3326
+Customer: Liam O'Neill
+Orders on file: ORD-50871, ORD-45083, ORD-80293, ORD-95529
+Opened: 2026-04-03 via chat transcript
+
+Order details:
+ORD-50871  placed 2026-08-22  status: in transit  total: $469.15
+  payment method: card ending 5977  ship to: 921 Oak St
+  - carry-on suitcase x1
+  - merino socks, size M x2
+  - extended warranty, 2 years x2
+ORD-45083  placed 2026-05-13  status: in transit  total: $161.95
+  payment method: card ending 2624  ship to: 155 Mill Rd
+  - rain jacket x1
+  - USB-C charging cable (2m) x2
+  - microfiber cloth x3
+  - travel pouch x3
+ORD-80293  placed 2026-07-03  status: label created  total: $459.51
+  payment method: card ending 5154  ship to: 955 Mill St
+  - carry-on suitcase x1
+  - USB-C charging cable (2m) x3
+  - microfiber cloth x3
+ORD-95529  placed 2026-06-10  status: returned  total: $427.50
+  payment method: card ending 6706  ship to: 748 Elm St
+  - water filter pitcher x1
+  - replacement filter cartridge, 3-pack x2
+  - gift wrap x1
+
+--- message 1 from Liam O'Neill ---
+Where is my refund for ORD-45083? You said 5 days and it has been 8. I tried the chat widget first but it kept disconnecting. Your app logged me out twice while I was looking at this, which didn't help. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Liam O'Neill
+
+--- message 2 from Rosa (support) ---
+I've added a note to your account so the next agent has the context. Loyalty points post about a week after an order is delivered. Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Liam O'Neill ---
+The checkout page for ORD-95529 timed out. If I try to pay again, will I end up being charged twice? I changed my shipping address last month, so please double-check you have the new one. Could you also tell me whether ORD-80293 qualifies for the extended return window?
+
+Liam O'Neill
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Rosa (support) ---
+Retrying is safe. Our system blocks a second capture on ORD-95529, so a double charge can't happen. If you need an invoice for ORD-45083, you can download it from the Orders page. I've added a note to your account so the next agent has the context.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Liam O'Neill ---
+Tracking for ORD-50871 hasn't updated since Tuesday. The yoga mat itself is great, for what it's worth. Is there a way to combine loyalty points from ORD-50871 with my next purchase? The box for ORD-80293 was a bit crushed but the contents were fine.
+
+Liam O'Neill
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Rosa (support) ---
+If you need an invoice for ORD-50871, you can download it from the Orders page. I've updated your shipping address on file. Our warehouse shows ORD-80293 left on schedule. I've added a note to your account so the next agent has the context.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

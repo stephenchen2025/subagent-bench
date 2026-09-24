@@ -1,0 +1,12 @@
+Ledger page P-3475
+
+account      amount   see page
+Moreau         -297   P-1725
+Dunn           -199   P-7391
+Eriksen        +792   P-7424
+Xu             +467   P-9792
+Rahman         -299   P-5896
+Silva          +224   P-7256
+Abbott         +270   P-9525
+
+Follow the credit belonging to the account that comes first alphabetically.

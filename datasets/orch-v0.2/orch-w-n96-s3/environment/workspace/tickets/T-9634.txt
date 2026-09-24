@@ -1,0 +1,104 @@
+Ticket T-9634
+Customer: Kofi Mensah
+Orders on file: ORD-10627, ORD-97659, ORD-71651, ORD-72596
+Opened: 2026-04-11 via email
+
+Order details:
+ORD-10627  placed 2026-03-05  status: delivered  total: $101.10
+  payment method: card ending 6221  ship to: 854 Elm Rd
+  - noise-cancelling headphones x1
+  - travel pouch x3
+  - stainless water bottle, 750ml x1
+  - gift wrap x2
+ORD-97659  placed 2026-07-14  status: delivered  total: $357.11
+  payment method: card ending 4936  ship to: 330 Mill Lane
+  - carry-on suitcase x1
+  - USB-C charging cable (2m) x1
+  - replacement filter cartridge, 3-pack x1
+ORD-71651  placed 2026-01-09  status: label created  total: $33.86
+  payment method: card ending 3630  ship to: 286 Harbor Rd
+  - camping stove x1
+  - extended warranty, 2 years x2
+  - merino socks, size M x3
+  - microfiber cloth x2
+  - gift wrap x2
+ORD-72596  placed 2026-05-25  status: in transit  total: $43.38
+  payment method: card ending 3889  ship to: 605 Mill Lane
+  - noise-cancelling headphones x1
+  - gift wrap x1
+  - extended warranty, 2 years x3
+  - USB-C charging cable (2m) x3
+
+--- message 1 from Kofi Mensah ---
+I need to change the delivery address for ORD-10627 before it ships. My partner placed ORD-72596 on our shared account, in case that matters. Is there a way to combine loyalty points from ORD-97659 with my next purchase? The mechanical keyboard itself is great, for what it's worth.
+
+Thanks,
+Kofi Mensah
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Pete (support) ---
+Our warehouse shows ORD-72596 left on schedule. Screenshots aren't necessary, but thank you for offering. Loyalty points post about a week after an order is delivered. Let me know if anything else looks off.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Kofi Mensah ---
+Duplicate charge on ORD-71651, please refund one of them. The wool blanket itself is great, for what it's worth. The confirmation email for ORD-97659 went to my spam folder, so I only just saw it.
+
+Kofi Mensah
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Pete (support) ---
+Good news: only one payment for ORD-71651 ever settled. The other entry was a temporary hold and your bank has dropped it. Our warehouse shows ORD-10627 left on schedule. Tracking updates can lag by a day or two with this carrier.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Kofi Mensah ---
+My partner placed ORD-97659 on our shared account, in case that matters. The camping stove itself is great, for what it's worth. The box for ORD-97659 was a bit crushed but the contents were fine.
+
+Thanks,
+Kofi Mensah
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Kofi Mensah ---
+Thanks, I see it now: one payment for ORD-71651, the other one disappeared. All good. Your app logged me out twice while I was looking at this, which didn't help. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Kofi Mensah
+
+--- message 7 from Pete (support) ---
+I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble. Tracking updates can lag by a day or two with this carrier.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Kofi Mensah ---
+I changed my shipping address last month, so please double-check you have the new one. I'm happy to send screenshots if that helps. The box for ORD-97659 was a bit crushed but the contents were fine. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Kofi Mensah
+
+--- message 9 from Pete (support) ---
+Screenshots aren't necessary, but thank you for offering. I've added a note to your account so the next agent has the context. I've updated your shipping address on file. Let me know if anything else looks off.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 10 from Kofi Mensah ---
+I'm travelling next week, so email is the best way to reach me. Could you also tell me whether ORD-72596 qualifies for the extended return window? My partner placed ORD-72596 on our shared account, in case that matters. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Kofi Mensah
+Sent from my phone -- please excuse typos.
+
+--- message 11 from Pete (support) ---
+I've added a note to your account so the next agent has the context. Our warehouse shows ORD-10627 left on schedule. Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

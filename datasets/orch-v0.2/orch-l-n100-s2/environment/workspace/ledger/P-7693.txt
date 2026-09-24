@@ -1,0 +1,12 @@
+Ledger page P-7693
+
+account      amount   see page
+Quinn          -542   P-6530
+Zhou           +179   P-6654
+Abbott         +284   P-3834
+Nakamura       +777   P-8834
+Ibarra         +708   P-3441
+Young          +270   P-8625
+Moreau         +699   P-9377
+
+Follow the entry whose amount is closest to zero.

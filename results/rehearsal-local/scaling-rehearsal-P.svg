@@ -12,39 +12,39 @@
 <text x="40" y="95.0" text-anchor="end">0.75</text>
 <line class="g" x1="48" x2="400" y1="36.0" y2="36.0"/>
 <text x="40" y="40.0" text-anchor="end">1.00</text>
-<text x="48.0" y="274" text-anchor="middle">3</text>
-<text x="224.0" y="274" text-anchor="middle">10</text>
-<text x="400.0" y="274" text-anchor="middle">20</text>
+<text x="48.0" y="274" text-anchor="middle">15</text>
+<text x="224.0" y="274" text-anchor="middle">25</text>
+<text x="400.0" y="274" text-anchor="middle">38</text>
 <text x="224.0" y="292" text-anchor="middle">services (K)</text>
 <line class="a" x1="48" x2="400" y1="256" y2="256"/>
 <path class="s1" d="M48.0,36.0 L224.0,36.0 L400.0,36.0" fill="none" stroke-width="2" stroke-dasharray="2 4" stroke-linejoin="round" stroke-linecap="round" style="fill:none"/>
-<circle class="s1" cx="48.0" cy="36.0" r="4"><title>solo-xl at 3: 1.00</title></circle>
-<circle class="s1" cx="224.0" cy="36.0" r="4"><title>solo-xl at 10: 1.00</title></circle>
-<circle class="s1" cx="400.0" cy="36.0" r="4"><title>solo-xl at 20: 1.00</title></circle>
+<circle class="s1" cx="48.0" cy="36.0" r="4"><title>solo-xl at 15: 1.00</title></circle>
+<circle class="s1" cx="224.0" cy="36.0" r="4"><title>solo-xl at 25: 1.00</title></circle>
+<circle class="s1" cx="400.0" cy="36.0" r="4"><title>solo-xl at 38: 1.00</title></circle>
 <path class="s2" d="M48.0,36.0 L224.0,36.0 L400.0,36.0" fill="none" stroke-width="2" stroke-dasharray="6 4" stroke-linejoin="round" stroke-linecap="round" style="fill:none"/>
-<circle class="s2" cx="48.0" cy="36.0" r="4"><title>oracle-split at 3: 1.00</title></circle>
-<circle class="s2" cx="224.0" cy="36.0" r="4"><title>oracle-split at 10: 1.00</title></circle>
-<circle class="s2" cx="400.0" cy="36.0" r="4"><title>oracle-split at 20: 1.00</title></circle>
-<path class="s0" d="M48.0,36.0 L224.0,36.0 L400.0,146.0" fill="none" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" style="fill:none"/>
-<circle class="s0" cx="48.0" cy="36.0" r="4"><title>solo at 3: 1.00</title></circle>
-<circle class="s0" cx="224.0" cy="36.0" r="4"><title>solo at 10: 1.00</title></circle>
-<circle class="s0" cx="400.0" cy="146.0" r="4"><title>solo at 20: 0.50</title></circle>
-<path class="s3" d="M48.0,36.0 L224.0,36.0 L400.0,80.0" fill="none" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" style="fill:none"/>
-<circle class="s3" cx="48.0" cy="36.0" r="4"><title>delegate:eager at 3: 1.00</title></circle>
-<circle class="s3" cx="224.0" cy="36.0" r="4"><title>delegate:eager at 10: 1.00</title></circle>
-<circle class="s3" cx="400.0" cy="80.0" r="4"><title>delegate:eager at 20: 0.80</title></circle>
+<circle class="s2" cx="48.0" cy="36.0" r="4"><title>oracle-split at 15: 1.00</title></circle>
+<circle class="s2" cx="224.0" cy="36.0" r="4"><title>oracle-split at 25: 1.00</title></circle>
+<circle class="s2" cx="400.0" cy="36.0" r="4"><title>oracle-split at 38: 1.00</title></circle>
+<path class="s0" d="M48.0,36.0 L224.0,62.4 L400.0,128.6" fill="none" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" style="fill:none"/>
+<circle class="s0" cx="48.0" cy="36.0" r="4"><title>solo at 15: 1.00</title></circle>
+<circle class="s0" cx="224.0" cy="62.4" r="4"><title>solo at 25: 0.88</title></circle>
+<circle class="s0" cx="400.0" cy="128.6" r="4"><title>solo at 38: 0.58</title></circle>
+<path class="s3" d="M48.0,36.0 L224.0,36.0 L400.0,70.7" fill="none" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" style="fill:none"/>
+<circle class="s3" cx="48.0" cy="36.0" r="4"><title>delegate:eager at 15: 1.00</title></circle>
+<circle class="s3" cx="224.0" cy="36.0" r="4"><title>delegate:eager at 25: 1.00</title></circle>
+<circle class="s3" cx="400.0" cy="70.7" r="4"><title>delegate:eager at 38: 0.84</title></circle>
 <path class="s4" d="M48.0,36.0 L224.0,36.0 L400.0,36.0" fill="none" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" style="fill:none"/>
-<circle class="s4" cx="48.0" cy="36.0" r="4"><title>delegate:judicious at 3: 1.00</title></circle>
-<circle class="s4" cx="224.0" cy="36.0" r="4"><title>delegate:judicious at 10: 1.00</title></circle>
-<circle class="s4" cx="400.0" cy="36.0" r="4"><title>delegate:judicious at 20: 1.00</title></circle>
-<path class="s5" d="M48.0,36.0 L224.0,124.0 L400.0,124.0" fill="none" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" style="fill:none"/>
-<circle class="s5" cx="48.0" cy="36.0" r="4"><title>delegate:sloppy at 3: 1.00</title></circle>
-<circle class="s5" cx="224.0" cy="124.0" r="4"><title>delegate:sloppy at 10: 0.60</title></circle>
-<circle class="s5" cx="400.0" cy="124.0" r="4"><title>delegate:sloppy at 20: 0.60</title></circle>
+<circle class="s4" cx="48.0" cy="36.0" r="4"><title>delegate:judicious at 15: 1.00</title></circle>
+<circle class="s4" cx="224.0" cy="36.0" r="4"><title>delegate:judicious at 25: 1.00</title></circle>
+<circle class="s4" cx="400.0" cy="36.0" r="4"><title>delegate:judicious at 38: 1.00</title></circle>
+<path class="s5" d="M48.0,168.0 L224.0,150.4 L400.0,151.8" fill="none" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" style="fill:none"/>
+<circle class="s5" cx="48.0" cy="168.0" r="4"><title>delegate:sloppy at 15: 0.40</title></circle>
+<circle class="s5" cx="224.0" cy="150.4" r="4"><title>delegate:sloppy at 25: 0.48</title></circle>
+<circle class="s5" cx="400.0" cy="151.8" r="4"><title>delegate:sloppy at 38: 0.47</title></circle>
 <text x="410" y="40.0"><tspan class="s1" style="stroke:none">■</tspan> solo-xl (dotted) 1.00</text>
 <text x="410" y="54.0"><tspan class="s2" style="stroke:none">■</tspan> oracle-split (dashed) 1.00</text>
 <text x="410" y="68.0"><tspan class="s4" style="stroke:none">■</tspan> delegate:judicious 1.00</text>
-<text x="410" y="84.0"><tspan class="s3" style="stroke:none">■</tspan> delegate:eager 0.80</text>
-<text x="410" y="128.0"><tspan class="s5" style="stroke:none">■</tspan> delegate:sloppy 0.60</text>
-<text x="410" y="150.0"><tspan class="s0" style="stroke:none">■</tspan> solo 0.50</text>
+<text x="410" y="88.7"><tspan class="s3" style="stroke:none">■</tspan> delegate:eager 0.84</text>
+<text x="410" y="132.6"><tspan class="s0" style="stroke:none">■</tspan> solo 0.58</text>
+<text x="410" y="155.8"><tspan class="s5" style="stroke:none">■</tspan> delegate:sloppy 0.47</text>
 </svg>

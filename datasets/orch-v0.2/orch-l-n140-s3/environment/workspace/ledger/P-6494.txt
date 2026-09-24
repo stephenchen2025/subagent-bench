@@ -1,0 +1,11 @@
+Ledger page P-6494
+
+account      amount   see page
+Kowalski       +554   P-8065
+Osei           +142   P-1102
+Weber          +741   P-3475
+Umar           -470   P-7264
+Young          +563   P-3607
+Xu             +175   P-5456
+
+Follow the debit belonging to the account that comes last alphabetically.

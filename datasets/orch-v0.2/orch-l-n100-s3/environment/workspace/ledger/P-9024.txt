@@ -1,0 +1,12 @@
+Ledger page P-9024
+
+account      amount   see page
+Tanaka         -446   P-3925
+Young          -498   P-1605
+Nakamura       -336   P-7013
+Ibarra         +745   P-5170
+Kowalski       -241   P-3284
+Grant          +141   P-7288
+Dunn           -662   P-4759
+
+Follow the entry with the second-largest amount.

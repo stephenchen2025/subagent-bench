@@ -1,0 +1,12 @@
+Ledger page P-1465
+
+account      amount   see page
+Dunn           -676   P-8991
+Rahman         +643   P-6868
+Kowalski       +175   P-4001
+Zhou           -135   P-9905
+Castillo       -270   P-5846
+Quinn          +548   P-9749
+Tanaka         -473   P-3306
+
+Follow the entry with the largest credit.

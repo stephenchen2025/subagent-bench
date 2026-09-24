@@ -1,0 +1,11 @@
+Ledger page P-7729
+
+account      amount   see page
+Umar           -837   P-2704
+Castillo       +251   P-4852
+Silva          -756   P-4226
+Park           +387   P-2793
+Young          -887   P-2184
+Quinn          -295   P-6069
+
+Follow the entry with the second-largest amount.

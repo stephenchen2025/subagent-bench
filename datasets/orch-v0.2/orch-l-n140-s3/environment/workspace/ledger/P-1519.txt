@@ -1,0 +1,11 @@
+Ledger page P-1519
+
+account      amount   see page
+Weber          -414   P-9548
+Kowalski       +805   P-3282
+Moreau         -694   P-8384
+Osei           -147   P-4886
+Rahman          +22   P-5128
+Eriksen        -671   P-4621
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,11 @@
+Ledger page P-5445
+
+account      amount   see page
+Lambert        -611   P-2675
+Dunn           +486   P-9201
+Xu             +428   P-8816
+Zhou           -259   P-4115
+Moreau         +756   P-3926
+Jensen         +384   P-4399
+
+Follow the entry whose amount is closest to zero.

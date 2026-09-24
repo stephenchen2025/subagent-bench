@@ -1,0 +1,10 @@
+Ledger page P-1544
+
+account      amount   see page
+Jensen          -75   P-8099
+Weber          +589   P-9826
+Dunn           +428   P-7350
+Hughes         +677   P-8099
+Fofana         +816   P-7740
+
+Follow the entry with the largest credit.

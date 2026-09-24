@@ -1,0 +1,12 @@
+Ledger page P-5602
+
+account      amount   see page
+Moreau         -527   P-1634
+Zhou           -454   P-1270
+Baker          +560   P-9426
+Grant          +234   P-6821
+Hughes           +1   P-1719
+Vance          +406   P-3574
+Weber          -477   P-4226
+
+Follow the entry with the largest debit (the most negative amount).

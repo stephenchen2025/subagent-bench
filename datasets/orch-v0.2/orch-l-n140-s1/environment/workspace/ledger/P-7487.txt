@@ -1,0 +1,10 @@
+Ledger page P-7487
+
+account      amount   see page
+Nakamura       +697   P-2678
+Castillo       +430   P-8246
+Vance          +809   P-9694
+Ibarra         -113   P-1469
+Abbott         +241   P-1247
+
+Follow the entry with the largest credit.

@@ -1,0 +1,11 @@
+Ledger page P-1060
+
+account      amount   see page
+Zhou           -127   P-7354
+Fofana         +301   P-7333
+Umar           -544   P-1076
+Quinn           +20   P-5023
+Osei           +264   P-8479
+Lambert        -274   P-2983
+
+Follow the debit belonging to the account that comes last alphabetically.

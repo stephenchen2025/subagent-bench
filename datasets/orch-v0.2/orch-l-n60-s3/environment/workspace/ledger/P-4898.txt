@@ -1,0 +1,10 @@
+Ledger page P-4898
+
+account      amount   see page
+Fofana         +628   P-7121
+Eriksen        -417   P-3477
+Ibarra         +774   P-9193
+Hughes         +206   P-2820
+Zhou           +294   P-3041
+
+Follow the debit belonging to the account that comes last alphabetically.

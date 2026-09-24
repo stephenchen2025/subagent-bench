@@ -1,0 +1,11 @@
+Ledger page P-4429
+
+account      amount   see page
+Dunn            -61   P-6953
+Osei           +887   P-9944
+Lambert        +327   P-7865
+Quinn          -530   P-7067
+Grant           +33   P-8045
+Tanaka         -830   P-4812
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,11 @@
+Ledger page P-3367
+
+account      amount   see page
+Hughes          +42   P-9741
+Ibarra         +557   P-1773
+Weber          +670   P-1991
+Grant          -468   P-9544
+Eriksen        +401   P-1870
+Vance          +618   P-6337
+
+Follow the entry with the largest credit.

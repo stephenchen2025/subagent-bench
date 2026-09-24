@@ -1,0 +1,11 @@
+Ledger page P-5807
+
+account      amount   see page
+Baker          +106   P-9099
+Fofana         -887   P-7937
+Xu             -249   P-4197
+Eriksen        -423   P-7546
+Quinn          -374   P-3635
+Tanaka         -171   P-4810
+
+Follow the entry with the largest debit (the most negative amount).

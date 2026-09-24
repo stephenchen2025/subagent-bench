@@ -1,0 +1,12 @@
+Ledger page P-3810
+
+account      amount   see page
+Nakamura       +537   P-9951
+Lambert        +499   P-1713
+Ibarra         +180   P-9022
+Silva          +333   P-1080
+Kowalski       +352   P-1886
+Umar           -839   P-7624
+Quinn           +99   P-5120
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,12 @@
+Ledger page P-2855
+
+account      amount   see page
+Vance          -565   P-5258
+Kowalski       -490   P-9485
+Tanaka         +304   P-3390
+Zhou           -880   P-8674
+Weber           -34   P-3659
+Nakamura        +32   P-1264
+Jensen         +485   P-2361
+
+Follow the entry whose amount is closest to zero.

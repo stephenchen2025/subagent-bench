@@ -1,0 +1,10 @@
+Ledger page P-3352
+
+account      amount   see page
+Dunn           +878   P-2087
+Abbott         +471   P-3375
+Nakamura        -25   P-8357
+Moreau         -691   P-1253
+Hughes         +140   P-9769
+
+Follow the credit belonging to the account that comes first alphabetically.

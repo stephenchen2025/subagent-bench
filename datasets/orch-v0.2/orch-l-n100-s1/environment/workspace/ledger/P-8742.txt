@@ -1,0 +1,10 @@
+Ledger page P-8742
+
+account      amount   see page
+Moreau         +201   P-7949
+Park           +431   P-7317
+Lambert        +180   P-3258
+Dunn           -876   P-1648
+Xu             -407   P-1589
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,58 @@
+Ticket T-9787
+Customer: Samir Patel
+Orders on file: ORD-16216, ORD-23300, ORD-16609, ORD-53231
+Opened: 2026-01-27 via web form
+
+Order details:
+ORD-16216  placed 2026-05-24  status: delivered  total: $150.81
+  payment method: card ending 8035  ship to: 321 Cedar Lane
+  - cast iron skillet x1
+  - replacement filter cartridge, 3-pack x3
+  - travel pouch x1
+  - merino socks, size M x1
+ORD-23300  placed 2026-02-26  status: returned  total: $392.72
+  payment method: card ending 4177  ship to: 703 Mill Rd
+  - noise-cancelling headphones x1
+  - replacement filter cartridge, 3-pack x2
+  - microfiber cloth x3
+  - extended warranty, 2 years x1
+  - stainless water bottle, 750ml x3
+ORD-16609  placed 2026-05-20  status: returned  total: $147.24
+  payment method: card ending 5604  ship to: 320 Mill Ave
+  - noise-cancelling headphones x1
+  - merino socks, size M x3
+  - extended warranty, 2 years x3
+  - USB-C charging cable (2m) x3
+  - gift wrap x2
+ORD-53231  placed 2026-06-13  status: delivered  total: $213.37
+  payment method: card ending 5338  ship to: 633 Oak St
+  - blender x1
+  - microfiber cloth x1
+  - merino socks, size M x1
+
+--- message 1 from Samir Patel ---
+Where is my refund for ORD-23300? You said 5 days and it has been 8. I changed my shipping address last month, so please double-check you have the new one. Is there a way to combine loyalty points from ORD-53231 with my next purchase? I'd rather not call; the hold times last time were very long.
+
+Samir Patel
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Pete (support) ---
+Our warehouse shows ORD-23300 left on schedule. I've added a note to your account so the next agent has the context. If you need an invoice for ORD-23300, you can download it from the Orders page. For ORD-23300, the return window is 30 days from delivery.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Samir Patel ---
+I changed my shipping address last month, so please double-check you have the new one. The confirmation email for ORD-23300 went to my spam folder, so I only just saw it. I'm travelling next week, so email is the best way to reach me. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Samir Patel
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Pete (support) ---
+I've added a note to your account so the next agent has the context. Let me know if anything else looks off. If you need an invoice for ORD-53231, you can download it from the Orders page. For ORD-53231, the return window is 30 days from delivery.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

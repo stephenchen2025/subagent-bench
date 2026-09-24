@@ -1,0 +1,11 @@
+Ledger page P-6758
+
+account      amount   see page
+Castillo       -764   P-2704
+Quinn          +109   P-3481
+Grant           -81   P-4266
+Moreau         -298   P-6088
+Fofana         -752   P-9340
+Lambert        -231   P-9150
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,10 @@
+Ledger page P-3477
+
+account      amount   see page
+Moreau         +632   P-2329
+Rahman         -441   P-5485
+Vance          +300   P-3467
+Silva          +790   P-8865
+Fofana         -515   P-2618
+
+Follow the credit belonging to the account that comes first alphabetically.

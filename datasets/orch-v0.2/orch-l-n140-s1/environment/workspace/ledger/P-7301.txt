@@ -1,0 +1,11 @@
+Ledger page P-7301
+
+account      amount   see page
+Baker          -457   P-4660
+Ibarra         +361   P-8479
+Fofana         +255   P-9099
+Kowalski       -851   P-7959
+Zhou           +875   P-8573
+Park           -689   P-2708
+
+Follow the entry whose amount is closest to zero.

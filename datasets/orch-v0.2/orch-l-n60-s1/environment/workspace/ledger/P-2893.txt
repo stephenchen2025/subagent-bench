@@ -1,0 +1,12 @@
+Ledger page P-2893
+
+account      amount   see page
+Quinn          -447   P-3659
+Nakamura        -10   P-8674
+Abbott         -601   P-2544
+Vance          +517   P-6248
+Lambert        -597   P-3264
+Silva          -642   P-9689
+Rahman          +71   P-2544
+
+Follow the entry with the largest debit (the most negative amount).

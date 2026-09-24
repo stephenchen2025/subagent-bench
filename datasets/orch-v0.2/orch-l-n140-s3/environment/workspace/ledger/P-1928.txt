@@ -1,0 +1,11 @@
+Ledger page P-1928
+
+account      amount   see page
+Rahman         +663   P-5073
+Weber          -550   P-6641
+Eriksen        -367   P-7384
+Jensen         -217   P-8123
+Osei           -861   P-5456
+Castillo       -885   P-7262
+
+Follow the credit belonging to the account that comes first alphabetically.

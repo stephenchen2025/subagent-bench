@@ -1,0 +1,72 @@
+Ticket T-9789
+Customer: Noah Fischer
+Orders on file: ORD-83162, ORD-66872, ORD-50776, ORD-24587
+Opened: 2026-04-08 via web form
+
+Order details:
+ORD-83162  placed 2026-07-18  status: delivered  total: $344.19
+  payment method: card ending 7528  ship to: 44 Harbor Ave
+  - yoga mat x1
+  - spare battery pack x1
+  - extended warranty, 2 years x1
+  - microfiber cloth x2
+  - stainless water bottle, 750ml x1
+ORD-66872  placed 2026-04-19  status: in transit  total: $343.41
+  payment method: card ending 8511  ship to: 718 Harbor Lane
+  - blender x1
+  - merino socks, size M x2
+  - replacement filter cartridge, 3-pack x2
+  - carabiner set x3
+ORD-50776  placed 2026-04-13  status: delivered  total: $470.96
+  payment method: card ending 8053  ship to: 459 Mill Rd
+  - wool blanket x1
+  - replacement filter cartridge, 3-pack x1
+  - travel pouch x1
+  - stainless water bottle, 750ml x3
+ORD-24587  placed 2026-05-09  status: delivered  total: $166.25
+  payment method: card ending 1779  ship to: 244 Harbor Lane
+  - noise-cancelling headphones x1
+  - replacement filter cartridge, 3-pack x1
+  - travel pouch x3
+  - carabiner set x2
+  - microfiber cloth x2
+
+--- message 1 from Noah Fischer ---
+I'd like to return the blender from ORD-24587; it's the wrong size. I changed my shipping address last month, so please double-check you have the new one. Could you also tell me whether ORD-66872 qualifies for the extended return window? I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Noah Fischer
+
+--- message 2 from Fatima (support) ---
+Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering. For ORD-24587, the return window is 30 days from delivery. I can see all the orders on your account, including ORD-50776.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Noah Fischer ---
+The camping stove itself is great, for what it's worth. Your app logged me out twice while I was looking at this, which didn't help. The box for ORD-66872 was a bit crushed but the contents were fine. Is there a way to combine loyalty points from ORD-50776 with my next purchase?
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Fatima (support) ---
+I can see all the orders on your account, including ORD-50776. Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-24587, you can download it from the Orders page. Let me know if anything else looks off.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Noah Fischer ---
+Could you also tell me whether ORD-24587 qualifies for the extended return window? I changed my shipping address last month, so please double-check you have the new one. I'm happy to send screenshots if that helps. The wool blanket itself is great, for what it's worth.
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Fatima (support) ---
+I've added a note to your account so the next agent has the context. Let me know if anything else looks off. I've updated your shipping address on file. I can see all the orders on your account, including ORD-50776.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

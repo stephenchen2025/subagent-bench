@@ -1,0 +1,11 @@
+Ledger page P-8213
+
+account      amount   see page
+Kowalski       -703   P-9917
+Nakamura       -633   P-4275
+Umar             +7   P-5594
+Quinn          -532   P-9080
+Young          +319   P-8213
+Osei           -316   P-8657
+
+Follow the debit belonging to the account that comes last alphabetically.

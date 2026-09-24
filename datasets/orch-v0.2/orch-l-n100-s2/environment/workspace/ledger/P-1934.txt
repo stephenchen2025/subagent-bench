@@ -1,0 +1,12 @@
+Ledger page P-1934
+
+account      amount   see page
+Rahman         -783   P-5642
+Kowalski       +341   P-3108
+Zhou           +705   P-5179
+Young          -770   P-8023
+Jensen          +60   P-8857
+Quinn          -227   P-6166
+Hughes         -313   P-9431
+
+Follow the entry with the second-largest amount.

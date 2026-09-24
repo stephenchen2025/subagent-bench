@@ -1,0 +1,11 @@
+Ledger page P-4727
+
+account      amount   see page
+Rahman          +99   P-9746
+Umar           +411   P-8919
+Castillo       +336   P-4780
+Moreau          +15   P-1978
+Dunn           +517   P-5692
+Jensen          -24   P-1406
+
+Follow the entry with the second-largest amount.

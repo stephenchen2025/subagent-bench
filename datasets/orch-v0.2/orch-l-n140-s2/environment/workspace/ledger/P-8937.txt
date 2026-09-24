@@ -1,0 +1,12 @@
+Ledger page P-8937
+
+account      amount   see page
+Lambert        -551   P-8010
+Castillo       +432   P-4259
+Tanaka         -821   P-9414
+Dunn            -24   P-1122
+Zhou           -878   P-4422
+Park           -165   P-3836
+Osei           -313   P-3163
+
+Follow the debit belonging to the account that comes last alphabetically.

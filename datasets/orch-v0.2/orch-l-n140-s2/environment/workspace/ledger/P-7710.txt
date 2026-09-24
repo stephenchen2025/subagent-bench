@@ -1,0 +1,11 @@
+Ledger page P-7710
+
+account      amount   see page
+Silva          -614   P-3510
+Fofana         +261   P-7117
+Rahman          +81   P-2823
+Osei           +796   P-2705
+Young          +363   P-8587
+Ibarra         +494   P-7336
+
+Follow the debit belonging to the account that comes last alphabetically.

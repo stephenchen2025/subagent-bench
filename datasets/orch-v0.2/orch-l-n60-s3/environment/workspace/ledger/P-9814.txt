@@ -1,0 +1,10 @@
+Ledger page P-9814
+
+account      amount   see page
+Hughes          +60   P-5927
+Quinn          +673   P-4775
+Abbott         -231   P-1773
+Grant          -490   P-9874
+Rahman         -462   P-7491
+
+Follow the entry with the second-largest amount.

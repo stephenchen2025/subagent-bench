@@ -1,0 +1,11 @@
+Ledger page P-2956
+
+account      amount   see page
+Young          -162   P-7274
+Castillo       +127   P-3460
+Ibarra           -9   P-6368
+Umar           -786   P-8395
+Moreau         +718   P-1157
+Tanaka          -54   P-6359
+
+Follow the credit belonging to the account that comes first alphabetically.

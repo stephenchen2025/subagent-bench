@@ -1,0 +1,12 @@
+Ledger page P-7487
+
+account      amount   see page
+Tanaka         -416   P-3324
+Fofana         +466   P-7893
+Hughes         -337   P-6360
+Ibarra         +863   P-9228
+Jensen         -432   P-4631
+Abbott         +164   P-8481
+Kowalski       -211   P-6684
+
+Follow the entry whose amount is closest to zero.

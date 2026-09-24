@@ -1,0 +1,89 @@
+Ticket T-8976
+Customer: Hana Sato
+Orders on file: ORD-94650, ORD-40558, ORD-32719, ORD-13893
+Opened: 2026-01-13 via email
+
+Order details:
+ORD-94650  placed 2026-01-21  status: returned  total: $210.01
+  payment method: card ending 2647  ship to: 116 Oak Rd
+  - rain jacket x1
+  - spare battery pack x3
+  - gift wrap x1
+ORD-40558  placed 2026-06-17  status: delivered  total: $53.91
+  payment method: card ending 2088  ship to: 957 Elm Ave
+  - desk lamp x1
+  - replacement filter cartridge, 3-pack x2
+  - carabiner set x1
+  - gift wrap x3
+ORD-32719  placed 2026-06-03  status: returned  total: $58.52
+  payment method: card ending 6701  ship to: 31 Harbor Rd
+  - water filter pitcher x1
+  - gift wrap x3
+  - merino socks, size M x2
+  - extended warranty, 2 years x3
+ORD-13893  placed 2026-05-26  status: delivered  total: $425.50
+  payment method: card ending 4044  ship to: 822 Mill Lane
+  - cast iron skillet x1
+  - microfiber cloth x2
+  - USB-C charging cable (2m) x1
+  - stainless water bottle, 750ml x2
+
+--- message 1 from Hana Sato ---
+How do I reset my password? The reset link keeps expiring. The standing desk itself is great, for what it's worth. I tried the chat widget first but it kept disconnecting. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Hana Sato
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Rosa (support) ---
+I can see all the orders on your account, including ORD-94650. If you need an invoice for ORD-40558, you can download it from the Orders page. Tracking updates can lag by a day or two with this carrier. For ORD-94650, the return window is 30 days from delivery.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Hana Sato ---
+There's an extra line for ORD-13893 on my bank. It could just be a hold -- can you check? The confirmation email for ORD-94650 went to my spam folder, so I only just saw it. I tried the chat widget first but it kept disconnecting.
+
+Hana Sato
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Rosa (support) ---
+For ORD-40558, the return window is 30 days from delivery. Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-94650.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Hana Sato ---
+Just checked again -- both charges for ORD-13893 are settled now, not pending. My partner placed ORD-32719 on our shared account, in case that matters. I'm travelling next week, so email is the best way to reach me.
+
+Hana Sato
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Rosa (support) ---
+I've checked with our payments team: both captures for ORD-13893 settled, so you were genuinely charged twice. I've issued a refund for the second one; it should show within 3-5 business days. Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-40558 to the address on file.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Hana Sato ---
+My earlier order ORD-94650 arrived fine, no complaints there. The confirmation email for ORD-94650 went to my spam folder, so I only just saw it. I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Hana Sato
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Hana Sato ---
+I've been a customer for a few years and usually everything goes smoothly. I changed my shipping address last month, so please double-check you have the new one. My partner placed ORD-40558 on our shared account, in case that matters. Your app logged me out twice while I was looking at this, which didn't help.
+
+Hana Sato
+(Please reply by email rather than phone if possible.)
+
+--- message 9 from Rosa (support) ---
+Loyalty points post about a week after an order is delivered. I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

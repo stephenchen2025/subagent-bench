@@ -1,0 +1,12 @@
+Ledger page P-8027
+
+account      amount   see page
+Weber          -668   P-3006
+Castillo       +306   P-2622
+Fofana         -839   P-3072
+Zhou           +371   P-2178
+Young          -495   P-3072
+Xu             -347   P-8099
+Kowalski       -599   P-6695
+
+Follow the entry with the largest debit (the most negative amount).

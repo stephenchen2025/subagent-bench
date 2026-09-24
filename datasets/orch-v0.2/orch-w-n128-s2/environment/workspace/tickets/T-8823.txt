@@ -1,0 +1,89 @@
+Ticket T-8823
+Customer: Noah Fischer
+Orders on file: ORD-15739, ORD-38223, ORD-75781, ORD-70193
+Opened: 2026-01-08 via web form
+
+Order details:
+ORD-15739  placed 2026-04-22  status: delivered  total: $41.61
+  payment method: card ending 2850  ship to: 232 Mill Rd
+  - carry-on suitcase x1
+  - carabiner set x1
+  - merino socks, size M x3
+ORD-38223  placed 2026-07-13  status: delivered  total: $205.28
+  payment method: card ending 7667  ship to: 689 Harbor Rd
+  - cast iron skillet x1
+  - travel pouch x2
+  - carabiner set x2
+ORD-75781  placed 2026-08-08  status: delivered  total: $163.84
+  payment method: card ending 6566  ship to: 74 Oak Ave
+  - standing desk x1
+  - microfiber cloth x3
+  - gift wrap x3
+  - stainless water bottle, 750ml x1
+  - merino socks, size M x2
+ORD-70193  placed 2026-03-05  status: returned  total: $71.18
+  payment method: card ending 8579  ship to: 400 Elm St
+  - standing desk x1
+  - USB-C charging cable (2m) x2
+  - stainless water bottle, 750ml x2
+  - travel pouch x1
+  - microfiber cloth x2
+
+--- message 1 from Noah Fischer ---
+Can I use a gift card on ORD-38223, or is it too late? The box for ORD-38223 was a bit crushed but the contents were fine. My earlier order ORD-15739 arrived fine, no complaints there. I've been a customer for a few years and usually everything goes smoothly.
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Dana (support) ---
+Tracking updates can lag by a day or two with this carrier. I can see all the orders on your account, including ORD-15739. Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-15739 to the address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Noah Fischer ---
+The $381.37 for ORD-70193 came out of my account, and then the same $381.37 came out again the next morning. I tried the chat widget first but it kept disconnecting. Is there a way to combine loyalty points from ORD-15739 with my next purchase?
+
+Best regards,
+Noah Fischer
+
+--- message 4 from Dana (support) ---
+Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering. If you need an invoice for ORD-38223, you can download it from the Orders page.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Dana (support) ---
+Our payment logs show a single capture for ORD-70193. The extra line you saw was an authorization that expired on its own -- no money was taken for it. Our warehouse shows ORD-15739 left on schedule. For ORD-75781, the return window is 30 days from delivery.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Noah Fischer ---
+The confirmation email for ORD-15739 went to my spam folder, so I only just saw it. I'm happy to send screenshots if that helps. I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Noah Fischer ---
+Oh, you're right -- I checked my statement this morning and the second line is gone. Only one charge. Sorry for the false alarm! The box for ORD-38223 was a bit crushed but the contents were fine. I'm happy to send screenshots if that helps.
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Noah Fischer ---
+I'd rather not call; the hold times last time were very long. Tracking for ORD-75781 hasn't updated since Tuesday. The confirmation email for ORD-75781 went to my spam folder, so I only just saw it. I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Noah Fischer
+
+--- message 9 from Dana (support) ---
+I've added a note to your account so the next agent has the context. Our warehouse shows ORD-15739 left on schedule. Thanks for reaching out, and sorry for the trouble. Loyalty points post about a week after an order is delivered.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

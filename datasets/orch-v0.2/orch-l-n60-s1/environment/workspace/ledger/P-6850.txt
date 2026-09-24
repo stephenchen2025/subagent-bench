@@ -1,0 +1,11 @@
+Ledger page P-6850
+
+account      amount   see page
+Jensen         +393   P-2047
+Dunn           -778   P-7200
+Kowalski       +671   P-5258
+Ibarra         -593   P-3494
+Lambert         -82   P-6048
+Baker           +29   P-6248
+
+Follow the entry with the largest debit (the most negative amount).

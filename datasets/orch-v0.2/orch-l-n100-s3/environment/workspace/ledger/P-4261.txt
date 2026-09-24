@@ -1,0 +1,12 @@
+Ledger page P-4261
+
+account      amount   see page
+Quinn           -49   P-5602
+Silva          +661   P-8931
+Osei           +463   P-1575
+Umar           -138   P-1630
+Dunn           +636   P-5770
+Lambert        +250   P-3007
+Castillo       +552   P-7198
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,96 @@
+Ticket T-7882
+Customer: Kofi Mensah
+Orders on file: ORD-99541, ORD-68819, ORD-63073, ORD-88942
+Opened: 2026-04-27 via chat transcript
+
+Order details:
+ORD-99541  placed 2026-04-18  status: returned  total: $145.60
+  payment method: card ending 1036  ship to: 297 Harbor St
+  - noise-cancelling headphones x1
+  - merino socks, size M x1
+  - stainless water bottle, 750ml x2
+ORD-68819  placed 2026-01-08  status: delivered  total: $342.89
+  payment method: card ending 2044  ship to: 741 Mill St
+  - carry-on suitcase x1
+  - replacement filter cartridge, 3-pack x2
+  - microfiber cloth x2
+  - carabiner set x1
+ORD-63073  placed 2026-03-17  status: delivered  total: $435.14
+  payment method: card ending 6701  ship to: 370 Elm Lane
+  - camping stove x1
+  - stainless water bottle, 750ml x2
+  - merino socks, size M x3
+  - travel pouch x2
+  - carabiner set x1
+ORD-88942  placed 2026-06-03  status: delivered  total: $234.39
+  payment method: card ending 6626  ship to: 131 Elm St
+  - noise-cancelling headphones x1
+  - gift wrap x2
+  - replacement filter cartridge, 3-pack x1
+  - stainless water bottle, 750ml x3
+
+--- message 1 from Kofi Mensah ---
+The bike light set from ORD-88942 arrived with a scratch on the side. Can I get a replacement? Could you also tell me whether ORD-63073 qualifies for the extended return window? Your app logged me out twice while I was looking at this, which didn't help. I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Kofi Mensah
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Fatima (support) ---
+Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-63073. I've resent the confirmation email for ORD-63073 to the address on file.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Kofi Mensah ---
+I think I might have been charged twice for ORD-99541, but one of the lines on the card app still says pending, so I'm not sure yet. The rain jacket itself is great, for what it's worth. Tracking for ORD-68819 hasn't updated since Tuesday.
+
+Best regards,
+Kofi Mensah
+
+--- message 4 from Fatima (support) ---
+Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Kofi Mensah ---
+Just checked again -- both charges for ORD-99541 are settled now, not pending. I'd rather not call; the hold times last time were very long. Your app logged me out twice while I was looking at this, which didn't help.
+
+Kofi Mensah
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Fatima (support) ---
+You're right, and I'm sorry. Our records show ORD-99541 was settled two times. I've refunded the duplicate. Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Kofi Mensah ---
+Could you also tell me whether ORD-88942 qualifies for the extended return window? I'm happy to send screenshots if that helps. My earlier order ORD-63073 arrived fine, no complaints there. The box for ORD-63073 was a bit crushed but the contents were fine.
+
+Kofi Mensah
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Fatima (support) ---
+I can see all the orders on your account, including ORD-68819. I've updated your shipping address on file. Let me know if anything else looks off. For ORD-63073, the return window is 30 days from delivery.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Kofi Mensah ---
+The confirmation email for ORD-63073 went to my spam folder, so I only just saw it. The box for ORD-88942 was a bit crushed but the contents were fine. I'm travelling next week, so email is the best way to reach me. I've been a customer for a few years and usually everything goes smoothly.
+
+Kofi Mensah
+(Please reply by email rather than phone if possible.)
+
+--- message 10 from Fatima (support) ---
+I've resent the confirmation email for ORD-63073 to the address on file. Our warehouse shows ORD-88942 left on schedule. Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-88942.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

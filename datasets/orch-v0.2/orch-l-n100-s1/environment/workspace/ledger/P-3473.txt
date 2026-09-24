@@ -1,0 +1,10 @@
+Ledger page P-3473
+
+account      amount   see page
+Ibarra          -30   P-5996
+Young          -773   P-9048
+Silva          -310   P-7274
+Zhou           +124   P-2649
+Kowalski        +79   P-3552
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,10 @@
+Ledger page P-5700
+
+account      amount   see page
+Abbott         +571   P-4465
+Rahman         -182   P-3663
+Jensen           +3   P-9588
+Baker          +626   P-9309
+Osei           +178   P-3776
+
+Follow the entry with the largest debit (the most negative amount).

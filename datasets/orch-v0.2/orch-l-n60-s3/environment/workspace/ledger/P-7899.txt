@@ -1,0 +1,12 @@
+Ledger page P-7899
+
+account      amount   see page
+Hughes         +231   P-9193
+Kowalski       +210   P-1047
+Tanaka         -423   P-9536
+Xu              +68   P-6749
+Castillo       -505   P-8357
+Zhou            +19   P-3477
+Quinn          +598   P-3011
+
+Follow the entry with the largest credit.

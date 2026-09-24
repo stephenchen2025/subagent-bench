@@ -1,0 +1,12 @@
+Ledger page P-8326
+
+account      amount   see page
+Ibarra         +594   P-7888
+Baker          +637   P-5999
+Moreau         +265   P-7050
+Lambert         -77   P-1423
+Rahman         -463   P-5277
+Umar            +39   P-2965
+Dunn           -138   P-1500
+
+Follow the entry with the largest debit (the most negative amount).

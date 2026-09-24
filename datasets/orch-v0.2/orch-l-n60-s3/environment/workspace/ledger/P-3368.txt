@@ -1,0 +1,10 @@
+Ledger page P-3368
+
+account      amount   see page
+Vance          +856   P-8627
+Ibarra         -517   P-1234
+Grant          -487   P-8308
+Osei           +721   P-7491
+Castillo       -360   P-8953
+
+Follow the debit belonging to the account that comes last alphabetically.

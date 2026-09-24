@@ -1,0 +1,11 @@
+Ledger page P-3191
+
+account      amount   see page
+Xu             -678   P-7069
+Moreau         +495   P-4478
+Umar           +102   P-9630
+Ibarra         -196   P-7215
+Park           -159   P-9653
+Dunn           -607   P-5119
+
+Follow the credit belonging to the account that comes first alphabetically.

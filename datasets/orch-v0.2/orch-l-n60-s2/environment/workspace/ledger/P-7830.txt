@@ -1,0 +1,11 @@
+Ledger page P-7830
+
+account      amount   see page
+Umar           +642   P-4639
+Rahman         +700   P-8362
+Ibarra         -718   P-1126
+Park           +260   P-8362
+Xu             +425   P-4918
+Young          -770   P-8020
+
+Follow the debit belonging to the account that comes last alphabetically.

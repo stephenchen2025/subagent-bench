@@ -1,0 +1,11 @@
+Ledger page P-7005
+
+account      amount   see page
+Rahman         -490   P-9874
+Moreau         +415   P-4432
+Park           -858   P-3785
+Xu              +83   P-1967
+Tanaka         -819   P-7063
+Umar           +533   P-7609
+
+Follow the entry with the largest credit.

@@ -1,0 +1,11 @@
+Ledger page P-1670
+
+account      amount   see page
+Rahman         +877   P-1864
+Castillo       +694   P-2505
+Quinn          +668   P-4717
+Nakamura       -389   P-3219
+Lambert        -434   P-6641
+Dunn           -398   P-2420
+
+Follow the entry with the largest credit.

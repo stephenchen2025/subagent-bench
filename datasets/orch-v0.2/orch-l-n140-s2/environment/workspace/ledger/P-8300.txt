@@ -1,0 +1,10 @@
+Ledger page P-8300
+
+account      amount   see page
+Umar           -708   P-2410
+Nakamura       +702   P-5438
+Castillo       -761   P-7920
+Grant          -289   P-6740
+Silva            -1   P-2856
+
+Follow the entry whose amount is closest to zero.

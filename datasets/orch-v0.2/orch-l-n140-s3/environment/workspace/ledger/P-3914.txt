@@ -1,0 +1,10 @@
+Ledger page P-3914
+
+account      amount   see page
+Rahman         -798   P-9054
+Grant          -164   P-7624
+Silva          +352   P-5700
+Park            +73   P-7987
+Lambert        +744   P-5009
+
+Follow the entry with the second-largest amount.

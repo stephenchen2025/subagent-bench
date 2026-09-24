@@ -1,0 +1,10 @@
+Ledger page P-1461
+
+account      amount   see page
+Hughes         +306   P-3270
+Moreau         +569   P-5245
+Castillo       -148   P-5116
+Young          -147   P-6140
+Weber          -331   P-1963
+
+Follow the entry whose amount is closest to zero.

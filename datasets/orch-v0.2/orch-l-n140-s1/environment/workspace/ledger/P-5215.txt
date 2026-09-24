@@ -1,0 +1,10 @@
+Ledger page P-5215
+
+account      amount   see page
+Dunn           +792   P-6328
+Kowalski       +894   P-4222
+Tanaka         +328   P-3970
+Castillo       -141   P-2606
+Lambert        +606   P-7546
+
+Follow the entry with the largest debit (the most negative amount).

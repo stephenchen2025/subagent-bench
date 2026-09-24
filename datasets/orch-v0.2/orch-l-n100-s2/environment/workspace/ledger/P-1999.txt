@@ -1,0 +1,11 @@
+Ledger page P-1999
+
+account      amount   see page
+Weber          +868   P-5669
+Zhou           -218   P-1934
+Moreau         -493   P-3677
+Xu             +534   P-5626
+Kowalski       -821   P-1934
+Quinn          -146   P-2522
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,89 @@
+Ticket T-3654
+Customer: Felix Wagner
+Orders on file: ORD-96147, ORD-57538, ORD-44886, ORD-77513
+Opened: 2026-01-23 via email
+
+Order details:
+ORD-96147  placed 2026-07-17  status: label created  total: $206.22
+  payment method: card ending 9390  ship to: 457 Elm Lane
+  - yoga mat x1
+  - microfiber cloth x3
+  - USB-C charging cable (2m) x2
+  - stainless water bottle, 750ml x1
+  - spare battery pack x2
+ORD-57538  placed 2026-02-01  status: in transit  total: $253.72
+  payment method: card ending 5892  ship to: 637 Elm St
+  - wool blanket x1
+  - stainless water bottle, 750ml x1
+  - carabiner set x1
+ORD-44886  placed 2026-02-14  status: delivered  total: $320.02
+  payment method: card ending 6277  ship to: 731 Cedar Lane
+  - water filter pitcher x1
+  - extended warranty, 2 years x2
+  - spare battery pack x3
+ORD-77513  placed 2026-03-01  status: in transit  total: $20.76
+  payment method: card ending 1519  ship to: 686 Elm St
+  - bike light set x1
+  - carabiner set x1
+  - replacement filter cartridge, 3-pack x2
+  - USB-C charging cable (2m) x1
+
+--- message 1 from Felix Wagner ---
+How do I reset my password? The reset link keeps expiring. I changed my shipping address last month, so please double-check you have the new one. The confirmation email for ORD-96147 went to my spam folder, so I only just saw it. Tracking for ORD-96147 hasn't updated since Tuesday.
+
+Best regards,
+Felix Wagner
+
+--- message 2 from Pete (support) ---
+Screenshots aren't necessary, but thank you for offering. Our warehouse shows ORD-77513 left on schedule. Let me know if anything else looks off. For ORD-96147, the return window is 30 days from delivery.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Felix Wagner ---
+ORD-57538 shows up once in my order history, but the card app shows it paid for on two separate lines. The box for ORD-77513 was a bit crushed but the contents were fine. The confirmation email for ORD-44886 went to my spam folder, so I only just saw it.
+
+Best regards,
+Felix Wagner
+
+--- message 4 from Pete (support) ---
+I've checked with our payments team: both captures for ORD-57538 settled, so you were genuinely charged twice. I've issued a refund for the second one; it should show within 3-5 business days. I can see all the orders on your account, including ORD-44886. Our warehouse shows ORD-44886 left on schedule.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Felix Wagner ---
+Is there a way to combine loyalty points from ORD-96147 with my next purchase? The confirmation email for ORD-96147 went to my spam folder, so I only just saw it. I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Felix Wagner
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Felix Wagner ---
+The yoga mat itself is great, for what it's worth. Could you also tell me whether ORD-77513 qualifies for the extended return window? The confirmation email for ORD-77513 went to my spam folder, so I only just saw it. I'm happy to send screenshots if that helps.
+
+Best regards,
+Felix Wagner
+
+--- message 7 from Pete (support) ---
+I've updated your shipping address on file. If you need an invoice for ORD-96147, you can download it from the Orders page. I've added a note to your account so the next agent has the context. For ORD-96147, the return window is 30 days from delivery.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Felix Wagner ---
+The confirmation email for ORD-44886 went to my spam folder, so I only just saw it. My partner placed ORD-44886 on our shared account, in case that matters. Could you also tell me whether ORD-96147 qualifies for the extended return window? I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Felix Wagner
+Sent from my phone -- please excuse typos.
+
+--- message 9 from Pete (support) ---
+I can see all the orders on your account, including ORD-77513. Tracking updates can lag by a day or two with this carrier. I've resent the confirmation email for ORD-96147 to the address on file. For ORD-77513, the return window is 30 days from delivery.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,10 @@
+Ledger page P-6631
+
+account      amount   see page
+Weber          +497   P-1615
+Fofana         +711   P-5429
+Grant          -125   P-2393
+Jensen         +252   P-3072
+Osei           +800   P-3252
+
+Follow the entry with the largest credit.

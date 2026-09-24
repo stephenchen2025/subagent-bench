@@ -1,0 +1,10 @@
+Ledger page P-2196
+
+account      amount   see page
+Umar           +776   P-8213
+Rahman         +601   P-7585
+Vance          +820   P-4240
+Xu             -111   P-9976
+Zhou           -234   P-4738
+
+Follow the debit belonging to the account that comes last alphabetically.

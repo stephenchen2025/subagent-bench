@@ -1,0 +1,67 @@
+Ticket T-6830
+Customer: Leila Haddad
+Orders on file: ORD-69676, ORD-73834, ORD-36671, ORD-44544
+Opened: 2026-01-01 via chat transcript
+
+Order details:
+ORD-69676  placed 2026-02-09  status: delivered  total: $308.17
+  payment method: card ending 3196  ship to: 71 Harbor Rd
+  - yoga mat x1
+  - replacement filter cartridge, 3-pack x1
+  - stainless water bottle, 750ml x3
+  - spare battery pack x2
+  - carabiner set x3
+ORD-73834  placed 2026-03-10  status: label created  total: $179.68
+  payment method: card ending 1976  ship to: 471 Mill St
+  - standing desk x1
+  - replacement filter cartridge, 3-pack x3
+  - stainless water bottle, 750ml x2
+ORD-36671  placed 2026-06-04  status: delivered  total: $78.40
+  payment method: card ending 6863  ship to: 80 Harbor Ave
+  - rain jacket x1
+  - extended warranty, 2 years x2
+  - travel pouch x3
+ORD-44544  placed 2026-03-08  status: delivered  total: $265.97
+  payment method: card ending 4822  ship to: 912 Oak St
+  - water filter pitcher x1
+  - replacement filter cartridge, 3-pack x2
+  - stainless water bottle, 750ml x2
+
+--- message 1 from Leila Haddad ---
+I need to change the delivery address for ORD-69676 before it ships. Could you also tell me whether ORD-73834 qualifies for the extended return window? I've been a customer for a few years and usually everything goes smoothly. I'm happy to send screenshots if that helps.
+
+Best regards,
+Leila Haddad
+
+--- message 2 from Keiko (support) ---
+I've resent the confirmation email for ORD-69676 to the address on file. I've added a note to your account so the next agent has the context. If you need an invoice for ORD-69676, you can download it from the Orders page. Loyalty points post about a week after an order is delivered.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Leila Haddad ---
+The payment for ORD-44544 went through, and then about an hour later it went through again. I've been a customer for a few years and usually everything goes smoothly. I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Leila Haddad
+
+--- message 4 from Keiko (support) ---
+You're right, and I'm sorry. Our records show ORD-44544 was settled two times. I've refunded the duplicate. Let me know if anything else looks off. Tracking updates can lag by a day or two with this carrier.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Leila Haddad ---
+My earlier order ORD-73834 arrived fine, no complaints there. I'm happy to send screenshots if that helps. I'm travelling next week, so email is the best way to reach me. Is there a way to combine loyalty points from ORD-69676 with my next purchase?
+
+Best regards,
+Leila Haddad
+
+--- message 6 from Keiko (support) ---
+Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering. For ORD-69676, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

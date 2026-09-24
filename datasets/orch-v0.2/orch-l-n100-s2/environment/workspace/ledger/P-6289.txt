@@ -1,0 +1,12 @@
+Ledger page P-6289
+
+account      amount   see page
+Jensen         +227   P-4056
+Nakamura       -344   P-2618
+Hughes         +357   P-9675
+Castillo       -617   P-7121
+Abbott         +326   P-7898
+Silva          -419   P-2042
+Eriksen        +218   P-4735
+
+Follow the debit belonging to the account that comes last alphabetically.

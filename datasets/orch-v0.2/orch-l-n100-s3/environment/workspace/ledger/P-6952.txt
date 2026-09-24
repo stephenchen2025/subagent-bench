@@ -1,0 +1,11 @@
+Ledger page P-6952
+
+account      amount   see page
+Grant          -870   P-3866
+Silva          +661   P-9743
+Osei            -67   P-8889
+Abbott         +574   P-6605
+Dunn           -342   P-6317
+Fofana          +58   P-7013
+
+Follow the entry with the second-largest amount.

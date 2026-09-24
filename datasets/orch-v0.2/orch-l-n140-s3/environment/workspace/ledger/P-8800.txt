@@ -1,0 +1,12 @@
+Ledger page P-8800
+
+account      amount   see page
+Xu             -710   P-2054
+Silva          +503   P-2041
+Hughes         -878   P-1992
+Lambert        +501   P-4082
+Rahman         +311   P-9548
+Park           +307   P-6030
+Quinn           -58   P-2387
+
+Follow the credit belonging to the account that comes first alphabetically.

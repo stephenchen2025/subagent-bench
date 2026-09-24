@@ -1,0 +1,12 @@
+Ledger page P-9481
+
+account      amount   see page
+Umar           +680   P-9932
+Tanaka         -125   P-4341
+Lambert        +270   P-3861
+Osei            +97   P-3408
+Weber          -589   P-9054
+Nakamura       -553   P-1637
+Rahman         +497   P-5044
+
+Follow the entry with the second-largest amount.

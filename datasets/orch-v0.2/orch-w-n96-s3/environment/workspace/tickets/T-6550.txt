@@ -1,0 +1,100 @@
+Ticket T-6550
+Customer: Elena Petrova
+Orders on file: ORD-88641, ORD-25086, ORD-41106, ORD-24839
+Opened: 2026-01-27 via chat transcript
+
+Order details:
+ORD-88641  placed 2026-01-27  status: delivered  total: $198.72
+  payment method: card ending 6366  ship to: 652 Harbor Lane
+  - bike light set x1
+  - replacement filter cartridge, 3-pack x2
+  - USB-C charging cable (2m) x3
+ORD-25086  placed 2026-06-28  status: delivered  total: $472.16
+  payment method: card ending 7432  ship to: 216 Harbor Ave
+  - desk lamp x1
+  - replacement filter cartridge, 3-pack x2
+  - gift wrap x1
+ORD-41106  placed 2026-06-19  status: delivered  total: $304.72
+  payment method: card ending 6268  ship to: 864 Oak St
+  - camping stove x1
+  - carabiner set x2
+  - microfiber cloth x2
+  - USB-C charging cable (2m) x2
+ORD-24839  placed 2026-03-11  status: label created  total: $152.52
+  payment method: card ending 9931  ship to: 979 Oak Ave
+  - yoga mat x1
+  - microfiber cloth x3
+  - replacement filter cartridge, 3-pack x3
+  - merino socks, size M x1
+
+--- message 1 from Elena Petrova ---
+The desk lamp from ORD-24839 arrived with a scratch on the side. Can I get a replacement? I tried the chat widget first but it kept disconnecting. I'm happy to send screenshots if that helps. I changed my shipping address last month, so please double-check you have the new one.
+
+Elena Petrova
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Keiko (support) ---
+If you need an invoice for ORD-41106, you can download it from the Orders page. Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-41106 left on schedule. For ORD-41106, the return window is 30 days from delivery.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Elena Petrova ---
+You took the money for ORD-25086 a second time after it had already been paid. My partner placed ORD-88641 on our shared account, in case that matters. I'm happy to send screenshots if that helps.
+
+Best regards,
+Elena Petrova
+
+--- message 4 from Keiko (support) ---
+Good news: only one payment for ORD-25086 ever settled. The other entry was a temporary hold and your bank has dropped it. Screenshots aren't necessary, but thank you for offering. I've updated your shipping address on file.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Elena Petrova ---
+Could you also tell me whether ORD-41106 qualifies for the extended return window? I'd rather not call; the hold times last time were very long. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Elena Petrova
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Elena Petrova ---
+Thanks, I see it now: one payment for ORD-25086, the other one disappeared. All good. My partner placed ORD-88641 on our shared account, in case that matters. My earlier order ORD-88641 arrived fine, no complaints there.
+
+Elena Petrova
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Keiko (support) ---
+I've added a note to your account so the next agent has the context. Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-24839.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Elena Petrova ---
+I'm travelling next week, so email is the best way to reach me. My partner placed ORD-24839 on our shared account, in case that matters. Could you also tell me whether ORD-88641 qualifies for the extended return window? I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Elena Petrova
+
+--- message 9 from Keiko (support) ---
+For ORD-88641, the return window is 30 days from delivery. Loyalty points post about a week after an order is delivered. If you need an invoice for ORD-24839, you can download it from the Orders page. I've resent the confirmation email for ORD-24839 to the address on file.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 10 from Elena Petrova ---
+The water filter pitcher itself is great, for what it's worth. I'm happy to send screenshots if that helps. Tracking for ORD-24839 hasn't updated since Tuesday. The box for ORD-24839 was a bit crushed but the contents were fine.
+
+Elena Petrova
+(Please reply by email rather than phone if possible.)
+
+--- message 11 from Keiko (support) ---
+If you need an invoice for ORD-88641, you can download it from the Orders page. Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context. I've updated your shipping address on file.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

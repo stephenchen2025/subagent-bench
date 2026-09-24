@@ -1,0 +1,10 @@
+Ledger page P-4713
+
+account      amount   see page
+Quinn          +822   P-8120
+Kowalski       +319   P-9351
+Jensen         +428   P-9789
+Tanaka         -582   P-2167
+Castillo       -669   P-8621
+
+Follow the credit belonging to the account that comes first alphabetically.

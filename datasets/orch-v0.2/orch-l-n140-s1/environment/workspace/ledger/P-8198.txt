@@ -1,0 +1,11 @@
+Ledger page P-8198
+
+account      amount   see page
+Tanaka         -269   P-5107
+Zhou           +160   P-7402
+Xu             -384   P-7835
+Dunn           -164   P-8772
+Castillo       +363   P-3362
+Osei            -59   P-6820
+
+Follow the entry with the largest credit.

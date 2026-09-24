@@ -1,0 +1,12 @@
+Ledger page P-1088
+
+account      amount   see page
+Moreau         -835   P-7551
+Jensen         +665   P-2998
+Osei           -200   P-9056
+Ibarra         -293   P-2780
+Lambert        -297   P-1522
+Dunn           +693   P-9997
+Eriksen        +382   P-7664
+
+Follow the credit belonging to the account that comes first alphabetically.

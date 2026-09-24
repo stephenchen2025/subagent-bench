@@ -1,0 +1,11 @@
+Ledger page P-4001
+
+account      amount   see page
+Lambert        +771   P-4341
+Zhou           +783   P-5247
+Xu             +556   P-6427
+Umar             -6   P-2603
+Ibarra         -434   P-2923
+Castillo       -508   P-3861
+
+Follow the credit belonging to the account that comes first alphabetically.

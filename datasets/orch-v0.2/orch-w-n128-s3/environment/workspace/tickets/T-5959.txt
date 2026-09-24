@@ -1,0 +1,73 @@
+Ticket T-5959
+Customer: Felix Wagner
+Orders on file: ORD-83794, ORD-20902, ORD-13400, ORD-86310
+Opened: 2026-04-26 via chat transcript
+
+Order details:
+ORD-83794  placed 2026-03-01  status: delivered  total: $89.57
+  payment method: card ending 2185  ship to: 200 Elm St
+  - noise-cancelling headphones x1
+  - spare battery pack x3
+  - extended warranty, 2 years x1
+  - carabiner set x3
+  - microfiber cloth x1
+ORD-20902  placed 2026-02-10  status: delivered  total: $387.37
+  payment method: card ending 5532  ship to: 198 Harbor St
+  - carry-on suitcase x1
+  - microfiber cloth x2
+  - replacement filter cartridge, 3-pack x1
+  - spare battery pack x1
+ORD-13400  placed 2026-07-26  status: delivered  total: $421.51
+  payment method: card ending 7330  ship to: 968 Oak Ave
+  - water filter pitcher x1
+  - travel pouch x3
+  - stainless water bottle, 750ml x2
+  - merino socks, size M x3
+  - replacement filter cartridge, 3-pack x1
+ORD-86310  placed 2026-01-02  status: label created  total: $34.57
+  payment method: card ending 4696  ship to: 157 Harbor St
+  - desk lamp x1
+  - spare battery pack x3
+  - gift wrap x2
+  - microfiber cloth x1
+  - replacement filter cartridge, 3-pack x1
+
+--- message 1 from Felix Wagner ---
+How do I reset my password? The reset link keeps expiring. My earlier order ORD-20902 arrived fine, no complaints there. Tracking for ORD-86310 hasn't updated since Tuesday. I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Felix Wagner
+
+--- message 2 from Pete (support) ---
+Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering. Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-20902 to the address on file.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Felix Wagner ---
+Tracking for ORD-13400 hasn't updated since Tuesday. My earlier order ORD-20902 arrived fine, no complaints there. The box for ORD-13400 was a bit crushed but the contents were fine. Could you also tell me whether ORD-86310 qualifies for the extended return window?
+
+Felix Wagner
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Pete (support) ---
+For ORD-86310, the return window is 30 days from delivery. Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-20902.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Felix Wagner ---
+I'd rather not call; the hold times last time were very long. I changed my shipping address last month, so please double-check you have the new one. Is there a way to combine loyalty points from ORD-13400 with my next purchase? The water filter pitcher itself is great, for what it's worth.
+
+Thanks,
+Felix Wagner
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Pete (support) ---
+I've resent the confirmation email for ORD-13400 to the address on file. Loyalty points post about a week after an order is delivered. I can see all the orders on your account, including ORD-20902. Screenshots aren't necessary, but thank you for offering.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

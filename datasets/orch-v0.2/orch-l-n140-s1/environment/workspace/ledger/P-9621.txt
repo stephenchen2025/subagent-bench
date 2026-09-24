@@ -1,0 +1,10 @@
+Ledger page P-9621
+
+account      amount   see page
+Quinn           -23   P-2983
+Moreau         -497   P-6874
+Jensen         +523   P-9201
+Rahman         -621   P-1469
+Castillo         -2   P-4413
+
+Follow the debit belonging to the account that comes last alphabetically.

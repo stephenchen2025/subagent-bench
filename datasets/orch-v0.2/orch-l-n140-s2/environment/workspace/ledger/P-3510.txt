@@ -1,0 +1,12 @@
+Ledger page P-3510
+
+account      amount   see page
+Silva            +7   P-7324
+Umar           +155   P-2864
+Young          -577   P-6511
+Castillo       -780   P-5908
+Eriksen        -285   P-5451
+Baker          +833   P-8441
+Fofana         -580   P-8495
+
+Follow the credit belonging to the account that comes first alphabetically.

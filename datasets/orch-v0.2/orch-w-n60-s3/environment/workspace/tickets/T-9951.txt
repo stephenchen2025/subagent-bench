@@ -1,0 +1,59 @@
+Ticket T-9951
+Customer: Avery Lin
+Orders on file: ORD-52891, ORD-52653, ORD-16403, ORD-55678
+Opened: 2026-07-11 via web form
+
+Order details:
+ORD-52891  placed 2026-08-07  status: returned  total: $310.64
+  payment method: card ending 9485  ship to: 510 Oak Rd
+  - trail running shoes x1
+  - gift wrap x3
+  - spare battery pack x3
+ORD-52653  placed 2026-04-10  status: delivered  total: $122.92
+  payment method: card ending 7237  ship to: 654 Mill Ave
+  - water filter pitcher x1
+  - stainless water bottle, 750ml x2
+  - spare battery pack x2
+  - merino socks, size M x3
+  - gift wrap x1
+ORD-16403  placed 2026-03-22  status: returned  total: $117.02
+  payment method: card ending 3375  ship to: 949 Oak Lane
+  - camping stove x1
+  - spare battery pack x2
+  - carabiner set x3
+  - microfiber cloth x3
+  - USB-C charging cable (2m) x3
+ORD-55678  placed 2026-06-19  status: in transit  total: $411.72
+  payment method: card ending 3713  ship to: 648 Oak St
+  - cast iron skillet x1
+  - gift wrap x3
+  - stainless water bottle, 750ml x2
+  - merino socks, size M x2
+  - travel pouch x3
+
+--- message 1 from Avery Lin ---
+I'd like to return the espresso grinder from ORD-16403; it's the wrong size. My earlier order ORD-16403 arrived fine, no complaints there. Is there a way to combine loyalty points from ORD-55678 with my next purchase? The confirmation email for ORD-16403 went to my spam folder, so I only just saw it.
+
+Thanks,
+Avery Lin
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Marcus (support) ---
+If you need an invoice for ORD-16403, you can download it from the Orders page. For ORD-55678, the return window is 30 days from delivery. Our warehouse shows ORD-52891 left on schedule. Tracking updates can lag by a day or two with this carrier.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Avery Lin ---
+The bike light set itself is great, for what it's worth. Could you also tell me whether ORD-52891 qualifies for the extended return window? My partner placed ORD-16403 on our shared account, in case that matters. I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Avery Lin
+
+--- message 4 from Marcus (support) ---
+Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context. Our warehouse shows ORD-16403 left on schedule.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

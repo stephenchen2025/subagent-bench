@@ -1,0 +1,10 @@
+Ledger page P-7545
+
+account      amount   see page
+Osei           +511   P-9150
+Zhou           -323   P-3574
+Baker          -416   P-2973
+Silva           -28   P-7724
+Ibarra         +466   P-1433
+
+Follow the entry whose amount is closest to zero.

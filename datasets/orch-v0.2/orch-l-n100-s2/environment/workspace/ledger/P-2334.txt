@@ -1,0 +1,12 @@
+Ledger page P-2334
+
+account      amount   see page
+Silva          +541   P-4097
+Moreau         +397   P-2077
+Hughes         -355   P-6320
+Park           +323   P-8300
+Eriksen        -190   P-2082
+Ibarra         -876   P-6695
+Osei           -136   P-4263
+
+Follow the entry with the second-largest amount.

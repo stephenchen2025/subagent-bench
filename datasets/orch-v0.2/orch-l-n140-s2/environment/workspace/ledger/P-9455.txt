@@ -1,0 +1,12 @@
+Ledger page P-9455
+
+account      amount   see page
+Rahman         -525   P-3836
+Park           -326   P-7086
+Osei            -66   P-8440
+Zhou            -35   P-2879
+Moreau          -38   P-6783
+Ibarra         +111   P-2425
+Lambert        -178   P-3235
+
+Follow the entry whose amount is closest to zero.

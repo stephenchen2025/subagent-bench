@@ -1,0 +1,12 @@
+Ledger page P-3306
+
+account      amount   see page
+Rahman         +644   P-3511
+Grant          -798   P-8991
+Abbott         +684   P-5618
+Umar           -846   P-9346
+Nakamura       +157   P-1579
+Castillo       +462   P-9286
+Baker          -410   P-8910
+
+Follow the entry whose amount is closest to zero.

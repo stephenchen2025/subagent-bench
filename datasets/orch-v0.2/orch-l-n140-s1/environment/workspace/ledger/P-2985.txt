@@ -1,0 +1,12 @@
+Ledger page P-2985
+
+account      amount   see page
+Baker          +615   P-5008
+Osei           -113   P-1679
+Lambert        -259   P-8727
+Tanaka         -166   P-8479
+Hughes         -361   P-7969
+Dunn           -673   P-5934
+Zhou           -648   P-5190
+
+Follow the entry whose amount is closest to zero.

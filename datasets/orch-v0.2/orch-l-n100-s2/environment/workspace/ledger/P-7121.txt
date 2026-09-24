@@ -1,0 +1,10 @@
+Ledger page P-7121
+
+account      amount   see page
+Castillo       -742   P-2622
+Xu             +340   P-7583
+Tanaka         -148   P-7898
+Silva          +350   P-3278
+Eriksen        +151   P-5888
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,11 @@
+Ledger page P-1983
+
+account      amount   see page
+Vance          -718   P-4413
+Castillo       +275   P-4348
+Young          -676   P-4641
+Park           +677   P-5570
+Hughes         +460   P-6249
+Nakamura       +626   P-1165
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,11 @@
+Ledger page P-1634
+
+account      amount   see page
+Grant          -403   P-1382
+Xu             -301   P-5461
+Weber          +579   P-8419
+Jensen          +73   P-8993
+Umar           +639   P-7996
+Zhou           +791   P-4910
+
+Follow the credit belonging to the account that comes first alphabetically.

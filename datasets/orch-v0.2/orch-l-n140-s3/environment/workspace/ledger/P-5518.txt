@@ -1,0 +1,12 @@
+Ledger page P-5518
+
+account      amount   see page
+Jensen         -686   P-8186
+Osei            -73   P-7763
+Zhou           -231   P-3360
+Castillo       -256   P-3861
+Abbott         -163   P-9548
+Baker          +303   P-9976
+Nakamura       -406   P-7793
+
+Follow the entry with the largest debit (the most negative amount).

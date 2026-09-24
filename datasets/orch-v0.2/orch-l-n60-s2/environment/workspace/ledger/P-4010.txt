@@ -1,0 +1,12 @@
+Ledger page P-4010
+
+account      amount   see page
+Abbott         +854   P-9559
+Rahman         +463   P-1746
+Weber          +866   P-7464
+Grant          +703   P-3409
+Osei           -607   P-1599
+Umar           -310   P-9944
+Park           -831   P-4793
+
+Follow the entry whose amount is closest to zero.

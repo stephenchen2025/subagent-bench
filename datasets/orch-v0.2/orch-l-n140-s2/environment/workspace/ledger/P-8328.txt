@@ -1,0 +1,12 @@
+Ledger page P-8328
+
+account      amount   see page
+Park           -344   P-4046
+Umar           +396   P-8706
+Hughes         -378   P-3644
+Kowalski       +453   P-8451
+Zhou            +39   P-8985
+Young          -628   P-5854
+Dunn           +695   P-9847
+
+Follow the entry with the largest credit.

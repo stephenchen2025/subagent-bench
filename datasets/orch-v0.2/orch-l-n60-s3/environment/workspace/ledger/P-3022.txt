@@ -1,0 +1,11 @@
+Ledger page P-3022
+
+account      amount   see page
+Xu             +783   P-5622
+Eriksen        -450   P-1897
+Hughes         -465   P-1855
+Park           +589   P-9769
+Rahman         -822   P-9652
+Silva          +806   P-3606
+
+Follow the entry with the largest credit.

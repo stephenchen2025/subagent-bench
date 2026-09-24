@@ -1,0 +1,11 @@
+Ledger page P-5698
+
+account      amount   see page
+Grant          +368   P-6873
+Kowalski       -334   P-5044
+Baker          -507   P-2458
+Weber          +383   P-9309
+Nakamura        -55   P-4925
+Rahman         +825   P-4479
+
+Follow the debit belonging to the account that comes last alphabetically.

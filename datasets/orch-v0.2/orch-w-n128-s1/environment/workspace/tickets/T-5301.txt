@@ -1,0 +1,67 @@
+Ticket T-5301
+Customer: Sofia Rossi
+Orders on file: ORD-91068, ORD-77620, ORD-78751, ORD-15471
+Opened: 2026-05-12 via chat transcript
+
+Order details:
+ORD-91068  placed 2026-03-14  status: delivered  total: $315.78
+  payment method: card ending 5324  ship to: 723 Mill Rd
+  - espresso grinder x1
+  - microfiber cloth x3
+  - carabiner set x3
+  - travel pouch x2
+ORD-77620  placed 2026-05-18  status: label created  total: $416.26
+  payment method: card ending 9644  ship to: 133 Elm Ave
+  - noise-cancelling headphones x1
+  - extended warranty, 2 years x3
+  - stainless water bottle, 750ml x1
+ORD-78751  placed 2026-06-18  status: delivered  total: $250.32
+  payment method: card ending 4518  ship to: 647 Oak Rd
+  - noise-cancelling headphones x1
+  - merino socks, size M x3
+  - spare battery pack x3
+ORD-15471  placed 2026-07-18  status: returned  total: $83.93
+  payment method: card ending 3497  ship to: 369 Mill Ave
+  - blender x1
+  - microfiber cloth x1
+  - merino socks, size M x2
+  - carabiner set x3
+
+--- message 1 from Sofia Rossi ---
+I need to change the delivery address for ORD-77620 before it ships. I'm travelling next week, so email is the best way to reach me. The box for ORD-78751 was a bit crushed but the contents were fine. The camping stove itself is great, for what it's worth.
+
+Sofia Rossi
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Keiko (support) ---
+Screenshots aren't necessary, but thank you for offering. Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-78751 to the address on file. For ORD-78751, the return window is 30 days from delivery.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Sofia Rossi ---
+The water filter pitcher itself is great, for what it's worth. I'm happy to send screenshots if that helps. Could you also tell me whether ORD-77620 qualifies for the extended return window? I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Sofia Rossi
+
+--- message 4 from Keiko (support) ---
+I've resent the confirmation email for ORD-78751 to the address on file. I've added a note to your account so the next agent has the context. Let me know if anything else looks off. I can see all the orders on your account, including ORD-78751.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Sofia Rossi ---
+I changed my shipping address last month, so please double-check you have the new one. Could you also tell me whether ORD-91068 qualifies for the extended return window? Is there a way to combine loyalty points from ORD-91068 with my next purchase? My earlier order ORD-78751 arrived fine, no complaints there.
+
+Sofia Rossi
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Keiko (support) ---
+Let me know if anything else looks off. I've resent the confirmation email for ORD-78751 to the address on file. I've updated your shipping address on file. For ORD-78751, the return window is 30 days from delivery.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

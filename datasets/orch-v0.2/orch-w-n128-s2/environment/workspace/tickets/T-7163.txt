@@ -1,0 +1,84 @@
+Ticket T-7163
+Customer: Mateo Silva
+Orders on file: ORD-75458, ORD-44121, ORD-75108, ORD-54317
+Opened: 2026-05-04 via web form
+
+Order details:
+ORD-75458  placed 2026-06-03  status: returned  total: $247.36
+  payment method: card ending 9445  ship to: 501 Harbor Rd
+  - mechanical keyboard x1
+  - extended warranty, 2 years x3
+  - spare battery pack x1
+  - gift wrap x3
+ORD-44121  placed 2026-05-19  status: delivered  total: $424.07
+  payment method: card ending 3443  ship to: 415 Elm St
+  - desk lamp x1
+  - extended warranty, 2 years x3
+  - carabiner set x1
+  - gift wrap x1
+  - travel pouch x3
+ORD-75108  placed 2026-04-17  status: returned  total: $345.06
+  payment method: card ending 5776  ship to: 397 Mill Lane
+  - espresso grinder x1
+  - gift wrap x3
+  - carabiner set x1
+ORD-54317  placed 2026-01-13  status: delivered  total: $331.27
+  payment method: card ending 4163  ship to: 243 Mill Ave
+  - bike light set x1
+  - extended warranty, 2 years x2
+  - gift wrap x3
+  - spare battery pack x3
+
+--- message 1 from Mateo Silva ---
+How do I reset my password? The reset link keeps expiring. I'm happy to send screenshots if that helps. I changed my shipping address last month, so please double-check you have the new one. The box for ORD-75108 was a bit crushed but the contents were fine.
+
+Best regards,
+Mateo Silva
+
+--- message 2 from Keiko (support) ---
+Our warehouse shows ORD-44121 left on schedule. Loyalty points post about a week after an order is delivered. If you need an invoice for ORD-75458, you can download it from the Orders page. I've added a note to your account so the next agent has the context.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Mateo Silva ---
+I was billed twice for ORD-54317 -- same amount, same day. I'm happy to send screenshots if that helps. Tracking for ORD-75458 hasn't updated since Tuesday.
+
+Thanks,
+Mateo Silva
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Keiko (support) ---
+Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-75108, you can download it from the Orders page. Our warehouse shows ORD-75458 left on schedule.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Keiko (support) ---
+Confirmed on our side -- ORD-54317 was captured twice by a retry in our checkout. One refund of $339.80 is on its way to you. I've resent the confirmation email for ORD-75458 to the address on file. For ORD-75458, the return window is 30 days from delivery.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Mateo Silva ---
+Tracking for ORD-75108 hasn't updated since Tuesday. The confirmation email for ORD-75458 went to my spam folder, so I only just saw it. The box for ORD-75108 was a bit crushed but the contents were fine.
+
+Mateo Silva
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Mateo Silva ---
+My partner placed ORD-75108 on our shared account, in case that matters. My earlier order ORD-75458 arrived fine, no complaints there. Your app logged me out twice while I was looking at this, which didn't help. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Mateo Silva
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Keiko (support) ---
+Let me know if anything else looks off. Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-75108 left on schedule. I've added a note to your account so the next agent has the context.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

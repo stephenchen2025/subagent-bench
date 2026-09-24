@@ -1,0 +1,11 @@
+Ledger page P-2719
+
+account      amount   see page
+Dunn           -348   P-8351
+Zhou           +650   P-9455
+Osei           -793   P-7470
+Castillo       +883   P-8454
+Fofana         +435   P-7314
+Vance          +697   P-6217
+
+Follow the debit belonging to the account that comes last alphabetically.

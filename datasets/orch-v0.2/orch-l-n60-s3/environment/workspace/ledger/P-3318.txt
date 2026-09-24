@@ -1,0 +1,10 @@
+Ledger page P-3318
+
+account      amount   see page
+Hughes         -184   P-9769
+Rahman         +532   P-7400
+Park           -796   P-7899
+Jensen         -352   P-9652
+Eriksen        +802   P-8627
+
+Follow the entry whose amount is closest to zero.

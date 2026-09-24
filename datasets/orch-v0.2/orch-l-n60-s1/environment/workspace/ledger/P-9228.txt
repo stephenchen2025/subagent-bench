@@ -1,0 +1,12 @@
+Ledger page P-9228
+
+account      amount   see page
+Weber          +629   P-1386
+Grant          -713   P-2426
+Ibarra         +297   P-1701
+Eriksen        +631   P-8236
+Abbott         +129   P-8823
+Tanaka         -752   P-4760
+Baker           -21   P-4490
+
+Follow the debit belonging to the account that comes last alphabetically.

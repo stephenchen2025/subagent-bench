@@ -1,0 +1,69 @@
+Ticket T-9631
+Customer: Maya Cohen
+Orders on file: ORD-53158, ORD-88760, ORD-86000, ORD-97769
+Opened: 2026-06-18 via chat transcript
+
+Order details:
+ORD-53158  placed 2026-06-16  status: delivered  total: $399.43
+  payment method: card ending 8049  ship to: 839 Mill St
+  - water filter pitcher x1
+  - travel pouch x3
+  - spare battery pack x2
+  - gift wrap x2
+ORD-88760  placed 2026-04-09  status: label created  total: $214.09
+  payment method: card ending 9026  ship to: 824 Harbor Lane
+  - mechanical keyboard x1
+  - stainless water bottle, 750ml x1
+  - travel pouch x3
+ORD-86000  placed 2026-05-24  status: delivered  total: $336.80
+  payment method: card ending 7775  ship to: 339 Cedar St
+  - espresso grinder x1
+  - travel pouch x2
+  - merino socks, size M x2
+ORD-97769  placed 2026-03-02  status: delivered  total: $247.04
+  payment method: card ending 8009  ship to: 455 Mill Rd
+  - mechanical keyboard x1
+  - merino socks, size M x3
+  - travel pouch x1
+  - stainless water bottle, 750ml x2
+
+--- message 1 from Maya Cohen ---
+I'd like to return the wool blanket from ORD-97769; it's the wrong size. The blender itself is great, for what it's worth. I'm happy to send screenshots if that helps. My partner placed ORD-53158 on our shared account, in case that matters.
+
+Thanks,
+Maya Cohen
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Keiko (support) ---
+If you need an invoice for ORD-97769, you can download it from the Orders page. Tracking updates can lag by a day or two with this carrier. Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Maya Cohen ---
+There are two identical debits on my statement and both reference ORD-86000. I'd rather not call; the hold times last time were very long. The noise-cancelling headphones itself is great, for what it's worth.
+
+Thanks,
+Maya Cohen
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Keiko (support) ---
+Loyalty points post about a week after an order is delivered. I've updated your shipping address on file. Tracking updates can lag by a day or two with this carrier.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Maya Cohen ---
+Tracking for ORD-88760 hasn't updated since Tuesday. I'm happy to send screenshots if that helps. My partner placed ORD-53158 on our shared account, in case that matters. Could you also tell me whether ORD-97769 qualifies for the extended return window?
+
+Maya Cohen
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Keiko (support) ---
+I've updated your shipping address on file. Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-97769 to the address on file. I can see all the orders on your account, including ORD-53158.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

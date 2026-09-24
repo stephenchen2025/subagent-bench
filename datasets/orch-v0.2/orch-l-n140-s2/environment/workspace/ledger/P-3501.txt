@@ -1,0 +1,10 @@
+Ledger page P-3501
+
+account      amount   see page
+Moreau         -681   P-6293
+Lambert        +800   P-3147
+Eriksen        +334   P-8010
+Vance          -465   P-6445
+Hughes         -670   P-3680
+
+Follow the entry with the second-largest amount.

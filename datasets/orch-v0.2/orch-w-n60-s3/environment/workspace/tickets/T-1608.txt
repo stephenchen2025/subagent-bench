@@ -1,0 +1,96 @@
+Ticket T-1608
+Customer: Jordan Okafor
+Orders on file: ORD-95765, ORD-29881, ORD-27397, ORD-47636
+Opened: 2026-03-19 via chat transcript
+
+Order details:
+ORD-95765  placed 2026-04-20  status: in transit  total: $356.68
+  payment method: card ending 4037  ship to: 396 Mill Lane
+  - standing desk x1
+  - replacement filter cartridge, 3-pack x1
+  - stainless water bottle, 750ml x3
+ORD-29881  placed 2026-01-15  status: label created  total: $474.66
+  payment method: card ending 2115  ship to: 931 Elm St
+  - bike light set x1
+  - spare battery pack x1
+  - extended warranty, 2 years x1
+  - carabiner set x1
+  - replacement filter cartridge, 3-pack x3
+ORD-27397  placed 2026-07-01  status: delivered  total: $168.75
+  payment method: card ending 7525  ship to: 715 Oak Rd
+  - wool blanket x1
+  - merino socks, size M x1
+  - USB-C charging cable (2m) x2
+  - replacement filter cartridge, 3-pack x3
+ORD-47636  placed 2026-02-12  status: returned  total: $258.42
+  payment method: card ending 8937  ship to: 247 Cedar Ave
+  - espresso grinder x1
+  - spare battery pack x3
+  - USB-C charging cable (2m) x1
+  - gift wrap x3
+
+--- message 1 from Jordan Okafor ---
+The desk lamp from ORD-29881 arrived with a scratch on the side. Can I get a replacement? The yoga mat itself is great, for what it's worth. Your app logged me out twice while I was looking at this, which didn't help. The box for ORD-47636 was a bit crushed but the contents were fine.
+
+Jordan Okafor
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Luis (support) ---
+I've added a note to your account so the next agent has the context. Our warehouse shows ORD-29881 left on schedule. For ORD-95765, the return window is 30 days from delivery. I can see all the orders on your account, including ORD-95765.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Jordan Okafor ---
+Something looks off with ORD-27397: I see what might be a second payment. Is there a way to combine loyalty points from ORD-95765 with my next purchase? I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Jordan Okafor
+
+--- message 4 from Luis (support) ---
+Let me know if anything else looks off. For ORD-29881, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Jordan Okafor ---
+Update: the second line has now posted, it's no longer pending. So both payments for ORD-27397 actually went through. The confirmation email for ORD-47636 went to my spam folder, so I only just saw it. The trail running shoes itself is great, for what it's worth.
+
+Best regards,
+Jordan Okafor
+
+--- message 6 from Luis (support) ---
+Let me know if anything else looks off. For ORD-47636, the return window is 30 days from delivery. Loyalty points post about a week after an order is delivered.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Luis (support) ---
+I've checked with our payments team: both captures for ORD-27397 settled, so you were genuinely charged twice. I've issued a refund for the second one; it should show within 3-5 business days. If you need an invoice for ORD-47636, you can download it from the Orders page. Tracking updates can lag by a day or two with this carrier.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Jordan Okafor ---
+My partner placed ORD-47636 on our shared account, in case that matters. I'm travelling next week, so email is the best way to reach me. The standing desk itself is great, for what it's worth.
+
+Thanks,
+Jordan Okafor
+Sent from my phone -- please excuse typos.
+
+--- message 9 from Jordan Okafor ---
+I'd rather not call; the hold times last time were very long. I'm travelling next week, so email is the best way to reach me. My partner placed ORD-29881 on our shared account, in case that matters. The box for ORD-95765 was a bit crushed but the contents were fine.
+
+Jordan Okafor
+(Please reply by email rather than phone if possible.)
+
+--- message 10 from Luis (support) ---
+I can see all the orders on your account, including ORD-95765. I've added a note to your account so the next agent has the context. Let me know if anything else looks off. Our warehouse shows ORD-47636 left on schedule.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

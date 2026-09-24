@@ -1,0 +1,10 @@
+Ledger page P-8834
+
+account      amount   see page
+Hughes         +255   P-5201
+Silva          -878   P-2046
+Lambert        +593   P-9090
+Nakamura       -885   P-3834
+Grant          -431   P-4952
+
+Follow the entry with the largest credit.

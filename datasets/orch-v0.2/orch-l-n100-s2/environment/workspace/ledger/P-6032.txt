@@ -1,0 +1,12 @@
+Ledger page P-6032
+
+account      amount   see page
+Hughes         -549   P-6355
+Zhou           +274   P-8279
+Vance          +887   P-1522
+Kowalski       +359   P-1934
+Grant            -6   P-2073
+Castillo       -317   P-4751
+Eriksen        +132   P-5807
+
+Follow the entry whose amount is closest to zero.

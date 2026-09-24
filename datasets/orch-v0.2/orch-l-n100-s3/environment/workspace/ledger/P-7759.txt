@@ -1,0 +1,11 @@
+Ledger page P-7759
+
+account      amount   see page
+Dunn           -536   P-8846
+Young          -623   P-8185
+Eriksen        +552   P-1719
+Lambert        -455   P-6945
+Hughes         +472   P-2331
+Fofana         +869   P-6088
+
+Follow the debit belonging to the account that comes last alphabetically.

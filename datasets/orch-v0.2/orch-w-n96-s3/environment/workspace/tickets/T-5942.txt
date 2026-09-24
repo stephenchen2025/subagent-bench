@@ -1,0 +1,70 @@
+Ticket T-5942
+Customer: Diego Alvarez
+Orders on file: ORD-28429, ORD-67029, ORD-26225, ORD-72829
+Opened: 2026-02-09 via email
+
+Order details:
+ORD-28429  placed 2026-02-08  status: delivered  total: $429.44
+  payment method: card ending 9783  ship to: 238 Mill Ave
+  - carry-on suitcase x1
+  - USB-C charging cable (2m) x2
+  - microfiber cloth x2
+ORD-67029  placed 2026-03-02  status: in transit  total: $222.40
+  payment method: card ending 3851  ship to: 887 Cedar Rd
+  - espresso grinder x1
+  - replacement filter cartridge, 3-pack x3
+  - stainless water bottle, 750ml x3
+  - extended warranty, 2 years x1
+  - microfiber cloth x1
+ORD-26225  placed 2026-03-06  status: returned  total: $72.89
+  payment method: card ending 9384  ship to: 35 Cedar Rd
+  - carry-on suitcase x1
+  - travel pouch x1
+  - microfiber cloth x2
+ORD-72829  placed 2026-01-17  status: returned  total: $210.43
+  payment method: card ending 2294  ship to: 685 Oak Ave
+  - carry-on suitcase x1
+  - spare battery pack x2
+  - carabiner set x1
+  - replacement filter cartridge, 3-pack x3
+  - extended warranty, 2 years x1
+
+--- message 1 from Diego Alvarez ---
+The camping stove from ORD-26225 arrived with a scratch on the side. Can I get a replacement? I'm travelling next week, so email is the best way to reach me. The water filter pitcher itself is great, for what it's worth. Is there a way to combine loyalty points from ORD-67029 with my next purchase?
+
+Thanks,
+Diego Alvarez
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Rosa (support) ---
+Loyalty points post about a week after an order is delivered. Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off. I've updated your shipping address on file.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Diego Alvarez ---
+Not your fault, but my gym billed me twice this month, which is why I'm nervous about ORD-28429. Everything on your side looks like a single charge, I just wanted to confirm the delivery date. The box for ORD-67029 was a bit crushed but the contents were fine. Is there a way to combine loyalty points from ORD-72829 with my next purchase?
+
+Best regards,
+Diego Alvarez
+
+--- message 4 from Rosa (support) ---
+Screenshots aren't necessary, but thank you for offering. If you need an invoice for ORD-26225, you can download it from the Orders page. I can see all the orders on your account, including ORD-67029.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Diego Alvarez ---
+My earlier order ORD-26225 arrived fine, no complaints there. I'm travelling next week, so email is the best way to reach me. The rain jacket itself is great, for what it's worth. The confirmation email for ORD-26225 went to my spam folder, so I only just saw it.
+
+Diego Alvarez
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Rosa (support) ---
+For ORD-72829, the return window is 30 days from delivery. I've updated your shipping address on file. Tracking updates can lag by a day or two with this carrier. Let me know if anything else looks off.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

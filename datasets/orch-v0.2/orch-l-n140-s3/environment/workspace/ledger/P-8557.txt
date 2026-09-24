@@ -1,0 +1,10 @@
+Ledger page P-8557
+
+account      amount   see page
+Moreau         -153   P-4309
+Hughes         +573   P-6406
+Vance           +67   P-6297
+Zhou           +842   P-1693
+Quinn          -841   P-1121
+
+Follow the entry with the second-largest amount.

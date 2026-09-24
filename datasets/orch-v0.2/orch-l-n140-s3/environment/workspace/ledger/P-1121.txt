@@ -1,0 +1,12 @@
+Ledger page P-1121
+
+account      amount   see page
+Nakamura       -640   P-8557
+Abbott         -695   P-3599
+Silva          -564   P-1115
+Fofana         +344   P-5019
+Osei           -328   P-2858
+Zhou           -231   P-1352
+Vance          +375   P-1837
+
+Follow the debit belonging to the account that comes last alphabetically.

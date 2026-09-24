@@ -1,0 +1,69 @@
+Ticket T-6759
+Customer: Aisha Karim
+Orders on file: ORD-34347, ORD-88822, ORD-65118, ORD-41305
+Opened: 2026-05-08 via email
+
+Order details:
+ORD-34347  placed 2026-07-01  status: label created  total: $113.35
+  payment method: card ending 4620  ship to: 38 Cedar Rd
+  - noise-cancelling headphones x1
+  - USB-C charging cable (2m) x1
+  - stainless water bottle, 750ml x1
+  - replacement filter cartridge, 3-pack x1
+ORD-88822  placed 2026-01-22  status: delivered  total: $459.94
+  payment method: card ending 7532  ship to: 657 Oak Lane
+  - yoga mat x1
+  - microfiber cloth x1
+  - merino socks, size M x2
+ORD-65118  placed 2026-02-24  status: in transit  total: $346.72
+  payment method: card ending 1939  ship to: 279 Elm Ave
+  - standing desk x1
+  - extended warranty, 2 years x1
+  - stainless water bottle, 750ml x2
+ORD-41305  placed 2026-01-15  status: delivered  total: $88.50
+  payment method: card ending 8151  ship to: 459 Elm Rd
+  - camping stove x1
+  - USB-C charging cable (2m) x1
+  - merino socks, size M x1
+  - extended warranty, 2 years x2
+  - stainless water bottle, 750ml x2
+
+--- message 1 from Aisha Karim ---
+Can I use a gift card on ORD-34347, or is it too late? The box for ORD-34347 was a bit crushed but the contents were fine. I'm happy to send screenshots if that helps. My partner placed ORD-34347 on our shared account, in case that matters.
+
+Aisha Karim
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Pete (support) ---
+Loyalty points post about a week after an order is delivered. If you need an invoice for ORD-65118, you can download it from the Orders page. Our warehouse shows ORD-65118 left on schedule. Let me know if anything else looks off.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Aisha Karim ---
+I see two charges on my online banking this week, one for ORD-41305 and one for ORD-34347. Both are correct -- I ordered twice on purpose -- but could you send me the invoices for my expense report? Your app logged me out twice while I was looking at this, which didn't help. Is there a way to combine loyalty points from ORD-34347 with my next purchase?
+
+Thanks,
+Aisha Karim
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Pete (support) ---
+I've updated your shipping address on file. I can see all the orders on your account, including ORD-88822. Our warehouse shows ORD-88822 left on schedule.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Aisha Karim ---
+Is there a way to combine loyalty points from ORD-88822 with my next purchase? I'm travelling next week, so email is the best way to reach me. I'd rather not call; the hold times last time were very long. I'm happy to send screenshots if that helps.
+
+Best regards,
+Aisha Karim
+
+--- message 6 from Pete (support) ---
+Our warehouse shows ORD-34347 left on schedule. I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-88822 to the address on file. Let me know if anything else looks off.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,10 @@
+Ledger page P-7905
+
+account      amount   see page
+Xu             -758   P-8959
+Abbott         +259   P-7231
+Nakamura       -299   P-1781
+Osei           -421   P-7370
+Kowalski       +541   P-4422
+
+Follow the debit belonging to the account that comes last alphabetically.

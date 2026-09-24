@@ -1,0 +1,11 @@
+Ledger page P-6305
+
+account      amount   see page
+Zhou            +68   P-1422
+Silva          -265   P-3896
+Hughes         +406   P-3892
+Osei           -893   P-2771
+Grant          -588   P-5751
+Castillo       -494   P-3515
+
+Follow the entry with the second-largest amount.

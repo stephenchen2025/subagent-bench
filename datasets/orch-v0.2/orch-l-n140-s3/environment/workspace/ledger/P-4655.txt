@@ -1,0 +1,10 @@
+Ledger page P-4655
+
+account      amount   see page
+Park           -305   P-9765
+Xu              -40   P-2248
+Baker          +605   P-1121
+Abbott          +75   P-9312
+Eriksen        +373   P-5633
+
+Follow the entry whose amount is closest to zero.

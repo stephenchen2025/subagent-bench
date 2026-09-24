@@ -1,0 +1,11 @@
+Ledger page P-6482
+
+account      amount   see page
+Xu             -265   P-8186
+Vance          -383   P-1184
+Jensen         +316   P-2041
+Castillo       +527   P-9550
+Dunn           -425   P-6581
+Abbott         -421   P-1579
+
+Follow the entry with the largest credit.

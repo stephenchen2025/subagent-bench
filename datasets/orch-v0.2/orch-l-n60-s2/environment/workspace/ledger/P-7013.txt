@@ -1,0 +1,12 @@
+Ledger page P-7013
+
+account      amount   see page
+Nakamura       +844   P-8289
+Quinn          -612   P-8410
+Grant          -803   P-1725
+Abbott         -253   P-1647
+Dunn           +331   P-3985
+Castillo       +578   P-8853
+Eriksen        +467   P-4942
+
+Follow the entry with the largest credit.

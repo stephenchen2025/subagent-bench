@@ -1,0 +1,11 @@
+Ledger page P-1547
+
+account      amount   see page
+Lambert        -182   P-7050
+Eriksen        +461   P-7882
+Weber          -330   P-1267
+Dunn            -60   P-1630
+Ibarra         +700   P-4142
+Fofana          +88   P-7272
+
+Follow the entry with the second-largest amount.

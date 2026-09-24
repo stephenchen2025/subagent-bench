@@ -1,0 +1,10 @@
+Ledger page P-3475
+
+account      amount   see page
+Silva          -188   P-7931
+Kowalski       -172   P-9258
+Young          -522   P-1015
+Dunn           +783   P-8316
+Fofana         +742   P-4560
+
+Follow the entry whose amount is closest to zero.

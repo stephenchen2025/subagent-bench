@@ -1,0 +1,12 @@
+Ledger page P-9882
+
+account      amount   see page
+Hughes         -621   P-7674
+Grant          -111   P-2943
+Abbott         +537   P-7893
+Quinn          -881   P-8481
+Nakamura       +784   P-1210
+Baker          -179   P-7595
+Rahman         +765   P-6151
+
+Follow the debit belonging to the account that comes last alphabetically.

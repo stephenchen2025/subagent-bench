@@ -1,0 +1,10 @@
+Ledger page P-7464
+
+account      amount   see page
+Zhou           +488   P-4097
+Weber          -494   P-4966
+Jensen         -460   P-5940
+Ibarra         +340   P-4263
+Eriksen        +636   P-3006
+
+Follow the entry with the largest debit (the most negative amount).

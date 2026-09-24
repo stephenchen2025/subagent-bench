@@ -1,0 +1,11 @@
+Ledger page P-1469
+
+account      amount   see page
+Quinn           -86   P-6123
+Tanaka          -51   P-1983
+Umar           +120   P-8856
+Ibarra         +477   P-5972
+Vance          -798   P-3417
+Young          -461   P-2723
+
+Follow the credit belonging to the account that comes first alphabetically.

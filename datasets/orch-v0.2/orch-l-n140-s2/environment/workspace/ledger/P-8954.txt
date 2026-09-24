@@ -1,0 +1,12 @@
+Ledger page P-8954
+
+account      amount   see page
+Eriksen        +101   P-3940
+Fofana         +729   P-3010
+Weber          +685   P-4963
+Baker           +17   P-4944
+Quinn          +855   P-6445
+Vance          -419   P-4783
+Nakamura       -224   P-8864
+
+Follow the entry with the second-largest amount.

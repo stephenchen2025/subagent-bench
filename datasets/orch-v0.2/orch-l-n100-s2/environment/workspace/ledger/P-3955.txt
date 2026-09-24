@@ -1,0 +1,10 @@
+Ledger page P-3955
+
+account      amount   see page
+Abbott         +397   P-7121
+Baker          +497   P-7036
+Lambert        +876   P-2480
+Hughes         -392   P-9478
+Fofana         -448   P-7713
+
+Follow the credit belonging to the account that comes first alphabetically.

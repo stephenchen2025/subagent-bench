@@ -1,0 +1,10 @@
+Ledger page P-3819
+
+account      amount   see page
+Tanaka         -588   P-5619
+Ibarra         -106   P-9221
+Silva          -529   P-7063
+Hughes         +647   P-9028
+Lambert        +693   P-8226
+
+Follow the entry with the largest debit (the most negative amount).

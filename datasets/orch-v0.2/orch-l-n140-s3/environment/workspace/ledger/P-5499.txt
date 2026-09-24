@@ -1,0 +1,12 @@
+Ledger page P-5499
+
+account      amount   see page
+Moreau         -567   P-3604
+Young           +77   P-8308
+Baker          +183   P-4341
+Tanaka         +614   P-3475
+Umar           -606   P-3607
+Park           +651   P-4125
+Zhou           -716   P-2566
+
+Follow the credit belonging to the account that comes first alphabetically.

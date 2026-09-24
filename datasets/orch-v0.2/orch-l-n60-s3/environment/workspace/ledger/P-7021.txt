@@ -1,0 +1,11 @@
+Ledger page P-7021
+
+account      amount   see page
+Fofana         -536   P-2820
+Moreau         -679   P-1781
+Umar           -547   P-4006
+Abbott          +60   P-3858
+Castillo        -41   P-7899
+Osei           -863   P-5120
+
+Follow the entry with the largest credit.

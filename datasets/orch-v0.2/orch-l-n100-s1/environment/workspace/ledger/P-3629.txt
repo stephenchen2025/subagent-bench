@@ -1,0 +1,10 @@
+Ledger page P-3629
+
+account      amount   see page
+Xu             +235   P-3946
+Umar           -748   P-1061
+Silva           +92   P-8226
+Lambert        -579   P-5813
+Vance          +748   P-9454
+
+Follow the entry with the largest debit (the most negative amount).

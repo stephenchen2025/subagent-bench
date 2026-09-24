@@ -1,0 +1,96 @@
+Ticket T-8582
+Customer: Grace Mwangi
+Orders on file: ORD-47657, ORD-68899, ORD-60044, ORD-20006
+Opened: 2026-07-25 via chat transcript
+
+Order details:
+ORD-47657  placed 2026-06-13  status: label created  total: $182.01
+  payment method: card ending 8377  ship to: 347 Cedar Rd
+  - espresso grinder x1
+  - gift wrap x2
+  - microfiber cloth x2
+  - extended warranty, 2 years x3
+ORD-68899  placed 2026-05-11  status: delivered  total: $466.27
+  payment method: card ending 4173  ship to: 174 Elm Rd
+  - noise-cancelling headphones x1
+  - microfiber cloth x1
+  - extended warranty, 2 years x3
+ORD-60044  placed 2026-01-02  status: delivered  total: $102.38
+  payment method: card ending 3728  ship to: 964 Oak Lane
+  - wool blanket x1
+  - stainless water bottle, 750ml x1
+  - USB-C charging cable (2m) x2
+ORD-20006  placed 2026-02-08  status: delivered  total: $364.34
+  payment method: card ending 1686  ship to: 332 Mill Lane
+  - rain jacket x1
+  - microfiber cloth x3
+  - carabiner set x2
+  - extended warranty, 2 years x3
+  - stainless water bottle, 750ml x1
+
+--- message 1 from Grace Mwangi ---
+Can I use a gift card on ORD-20006, or is it too late? I'd rather not call; the hold times last time were very long. I'm travelling next week, so email is the best way to reach me. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Grace Mwangi
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Marcus (support) ---
+Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-68899, you can download it from the Orders page. I can see all the orders on your account, including ORD-68899. Screenshots aren't necessary, but thank you for offering.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Grace Mwangi ---
+Something looks off with ORD-60044: I see what might be a second payment. I changed my shipping address last month, so please double-check you have the new one. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Grace Mwangi
+
+--- message 4 from Marcus (support) ---
+I've added a note to your account so the next agent has the context. I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Grace Mwangi ---
+Just checked again -- both charges for ORD-60044 are settled now, not pending. I changed my shipping address last month, so please double-check you have the new one. I've been a customer for a few years and usually everything goes smoothly.
+
+Grace Mwangi
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Marcus (support) ---
+Screenshots aren't necessary, but thank you for offering. I've added a note to your account so the next agent has the context. If you need an invoice for ORD-20006, you can download it from the Orders page.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Marcus (support) ---
+I've checked with our payments team: both captures for ORD-60044 settled, so you were genuinely charged twice. I've issued a refund for the second one; it should show within 3-5 business days. I can see all the orders on your account, including ORD-20006. Our warehouse shows ORD-68899 left on schedule.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Grace Mwangi ---
+The box for ORD-68899 was a bit crushed but the contents were fine. I changed my shipping address last month, so please double-check you have the new one. Is there a way to combine loyalty points from ORD-20006 with my next purchase?
+
+Best regards,
+Grace Mwangi
+
+--- message 9 from Grace Mwangi ---
+I've been a customer for a few years and usually everything goes smoothly. Could you also tell me whether ORD-47657 qualifies for the extended return window? I'm happy to send screenshots if that helps. I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Grace Mwangi
+Sent from my phone -- please excuse typos.
+
+--- message 10 from Marcus (support) ---
+Our warehouse shows ORD-20006 left on schedule. Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering. Let me know if anything else looks off.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

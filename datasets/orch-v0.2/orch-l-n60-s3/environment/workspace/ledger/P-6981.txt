@@ -1,0 +1,10 @@
+Ledger page P-6981
+
+account      amount   see page
+Ibarra         -749   P-5935
+Castillo       +446   P-8627
+Kowalski       -337   P-4898
+Osei            +71   P-3569
+Baker          +122   P-7766
+
+Follow the credit belonging to the account that comes first alphabetically.

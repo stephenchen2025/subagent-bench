@@ -1,0 +1,11 @@
+Ledger page P-6665
+
+account      amount   see page
+Fofana         -851   P-3982
+Xu             +530   P-3819
+Quinn          +523   P-6184
+Osei           -688   P-9713
+Abbott         -426   P-1380
+Umar           -452   P-4279
+
+Follow the entry with the largest credit.

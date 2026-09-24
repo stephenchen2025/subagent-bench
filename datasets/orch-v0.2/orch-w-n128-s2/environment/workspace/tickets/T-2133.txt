@@ -1,0 +1,110 @@
+Ticket T-2133
+Customer: Ines Duarte
+Orders on file: ORD-78737, ORD-59434, ORD-74764, ORD-93824
+Opened: 2026-01-11 via web form
+
+Order details:
+ORD-78737  placed 2026-07-10  status: label created  total: $479.23
+  payment method: card ending 7098  ship to: 869 Oak Lane
+  - carry-on suitcase x1
+  - spare battery pack x2
+  - replacement filter cartridge, 3-pack x2
+ORD-59434  placed 2026-07-06  status: in transit  total: $26.04
+  payment method: card ending 9272  ship to: 21 Mill Rd
+  - noise-cancelling headphones x1
+  - extended warranty, 2 years x2
+  - USB-C charging cable (2m) x2
+  - travel pouch x1
+ORD-74764  placed 2026-04-23  status: delivered  total: $156.93
+  payment method: card ending 1428  ship to: 515 Cedar St
+  - bike light set x1
+  - gift wrap x3
+  - travel pouch x1
+ORD-93824  placed 2026-07-10  status: delivered  total: $118.20
+  payment method: card ending 8136  ship to: 147 Oak Rd
+  - noise-cancelling headphones x1
+  - gift wrap x1
+  - merino socks, size M x1
+  - extended warranty, 2 years x2
+  - carabiner set x1
+
+--- message 1 from Ines Duarte ---
+Where is my refund for ORD-93824? You said 5 days and it has been 8. The box for ORD-78737 was a bit crushed but the contents were fine. I've been a customer for a few years and usually everything goes smoothly. I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Ines Duarte
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Marcus (support) ---
+Our warehouse shows ORD-93824 left on schedule. I've added a note to your account so the next agent has the context. I've updated your shipping address on file. Loyalty points post about a week after an order is delivered.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ines Duarte ---
+There's an extra line for ORD-74764 on the card app. It could just be a hold -- can you check? I changed my shipping address last month, so please double-check you have the new one. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Ines Duarte
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Marcus (support) ---
+If you need an invoice for ORD-78737, you can download it from the Orders page. Tracking updates can lag by a day or two with this carrier. For ORD-78737, the return window is 30 days from delivery.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Ines Duarte ---
+Update: the second line has now posted, it's no longer pending. So both payments for ORD-74764 actually went through. The confirmation email for ORD-78737 went to my spam folder, so I only just saw it. The box for ORD-59434 was a bit crushed but the contents were fine.
+
+Ines Duarte
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Marcus (support) ---
+I can see all the orders on your account, including ORD-93824. Our warehouse shows ORD-78737 left on schedule. I've added a note to your account so the next agent has the context.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Marcus (support) ---
+You're right, and I'm sorry. Our records show ORD-74764 was settled two times. I've refunded the duplicate. If you need an invoice for ORD-78737, you can download it from the Orders page. I've updated your shipping address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Ines Duarte ---
+I'd rather not call; the hold times last time were very long. The camping stove itself is great, for what it's worth. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Ines Duarte
+Sent from my phone -- please excuse typos.
+
+--- message 9 from Ines Duarte ---
+My partner placed ORD-59434 on our shared account, in case that matters. I'm travelling next week, so email is the best way to reach me. I'm happy to send screenshots if that helps. Could you also tell me whether ORD-93824 qualifies for the extended return window?
+
+Ines Duarte
+(Please reply by email rather than phone if possible.)
+
+--- message 10 from Marcus (support) ---
+I've resent the confirmation email for ORD-59434 to the address on file. I've added a note to your account so the next agent has the context. Our warehouse shows ORD-59434 left on schedule. I've updated your shipping address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 11 from Ines Duarte ---
+The confirmation email for ORD-93824 went to my spam folder, so I only just saw it. Could you also tell me whether ORD-93824 qualifies for the extended return window? I've been a customer for a few years and usually everything goes smoothly. I'd rather not call; the hold times last time were very long.
+
+Ines Duarte
+(Please reply by email rather than phone if possible.)
+
+--- message 12 from Marcus (support) ---
+I've added a note to your account so the next agent has the context. Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-78737, you can download it from the Orders page. I've resent the confirmation email for ORD-93824 to the address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

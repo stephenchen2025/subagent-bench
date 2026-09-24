@@ -1,0 +1,84 @@
+Ticket T-4616
+Customer: Jordan Okafor
+Orders on file: ORD-35282, ORD-97628, ORD-97735, ORD-42512
+Opened: 2026-06-27 via email
+
+Order details:
+ORD-35282  placed 2026-07-18  status: in transit  total: $471.60
+  payment method: card ending 8843  ship to: 742 Oak Lane
+  - standing desk x1
+  - spare battery pack x1
+  - merino socks, size M x2
+ORD-97628  placed 2026-03-24  status: delivered  total: $399.13
+  payment method: card ending 1103  ship to: 679 Harbor Ave
+  - standing desk x1
+  - extended warranty, 2 years x1
+  - carabiner set x3
+  - spare battery pack x3
+  - merino socks, size M x2
+ORD-97735  placed 2026-04-16  status: in transit  total: $226.82
+  payment method: card ending 5077  ship to: 665 Harbor St
+  - standing desk x1
+  - replacement filter cartridge, 3-pack x2
+  - travel pouch x2
+  - microfiber cloth x2
+ORD-42512  placed 2026-04-07  status: label created  total: $270.37
+  payment method: card ending 9028  ship to: 512 Elm St
+  - noise-cancelling headphones x1
+  - travel pouch x1
+  - merino socks, size M x2
+
+--- message 1 from Jordan Okafor ---
+Where is my refund for ORD-97735? You said 5 days and it has been 8. The confirmation email for ORD-97735 went to my spam folder, so I only just saw it. Tracking for ORD-97628 hasn't updated since Tuesday. I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Jordan Okafor
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Keiko (support) ---
+I've resent the confirmation email for ORD-42512 to the address on file. I can see all the orders on your account, including ORD-97735. Our warehouse shows ORD-97735 left on schedule. Tracking updates can lag by a day or two with this carrier.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Jordan Okafor ---
+Unrelated, but my online banking double-charged me at a coffee shop last week, so I'm checking every line carefully now. Anyway, my actual question is about delivery for ORD-35282. I tried the chat widget first but it kept disconnecting. The confirmation email for ORD-42512 went to my spam folder, so I only just saw it.
+
+Thanks,
+Jordan Okafor
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Keiko (support) ---
+Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-97735 left on schedule. For ORD-97735, the return window is 30 days from delivery.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Jordan Okafor ---
+I'd rather not call; the hold times last time were very long. My earlier order ORD-42512 arrived fine, no complaints there. The box for ORD-97628 was a bit crushed but the contents were fine. The rain jacket itself is great, for what it's worth.
+
+Best regards,
+Jordan Okafor
+
+--- message 6 from Keiko (support) ---
+I've updated your shipping address on file. Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble. I've resent the confirmation email for ORD-97735 to the address on file.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Jordan Okafor ---
+The confirmation email for ORD-97735 went to my spam folder, so I only just saw it. I tried the chat widget first but it kept disconnecting. I'm happy to send screenshots if that helps. Could you also tell me whether ORD-42512 qualifies for the extended return window?
+
+Thanks,
+Jordan Okafor
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Keiko (support) ---
+Loyalty points post about a week after an order is delivered. Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble. For ORD-97628, the return window is 30 days from delivery.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

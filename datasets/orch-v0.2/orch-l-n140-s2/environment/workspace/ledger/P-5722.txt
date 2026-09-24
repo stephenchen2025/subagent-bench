@@ -1,0 +1,12 @@
+Ledger page P-5722
+
+account      amount   see page
+Zhou           -844   P-4045
+Moreau         +393   P-2638
+Osei           -281   P-8261
+Nakamura       +440   P-6627
+Hughes         +823   P-6344
+Lambert        +723   P-7346
+Umar           +283   P-9553
+
+Follow the debit belonging to the account that comes last alphabetically.

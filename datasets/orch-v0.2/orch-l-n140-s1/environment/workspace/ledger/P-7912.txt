@@ -1,0 +1,12 @@
+Ledger page P-7912
+
+account      amount   see page
+Young           +36   P-9469
+Zhou           -303   P-4399
+Abbott         -756   P-2429
+Hughes         +405   P-8236
+Baker          +708   P-4731
+Weber          +608   P-2723
+Kowalski       -424   P-7333
+
+Follow the entry with the second-largest amount.

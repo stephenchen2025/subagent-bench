@@ -1,0 +1,12 @@
+Ledger page P-6833
+
+account      amount   see page
+Silva          +816   P-6544
+Kowalski        +81   P-6911
+Dunn           +378   P-3670
+Abbott         -304   P-1589
+Eriksen        +621   P-9765
+Lambert        +801   P-8489
+Rahman         -299   P-7202
+
+Follow the entry with the largest credit.

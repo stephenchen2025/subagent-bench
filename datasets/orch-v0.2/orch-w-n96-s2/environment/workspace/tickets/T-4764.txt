@@ -1,0 +1,96 @@
+Ticket T-4764
+Customer: Mateo Silva
+Orders on file: ORD-25692, ORD-32405, ORD-23448, ORD-10572
+Opened: 2026-03-10 via chat transcript
+
+Order details:
+ORD-25692  placed 2026-06-22  status: in transit  total: $461.04
+  payment method: card ending 8920  ship to: 844 Cedar Ave
+  - blender x1
+  - stainless water bottle, 750ml x2
+  - carabiner set x2
+  - travel pouch x2
+  - microfiber cloth x3
+ORD-32405  placed 2026-07-09  status: returned  total: $425.46
+  payment method: card ending 3928  ship to: 906 Mill Ave
+  - blender x1
+  - extended warranty, 2 years x1
+  - spare battery pack x3
+  - USB-C charging cable (2m) x2
+  - merino socks, size M x2
+ORD-23448  placed 2026-02-03  status: label created  total: $95.47
+  payment method: card ending 8146  ship to: 729 Harbor Ave
+  - cast iron skillet x1
+  - extended warranty, 2 years x1
+  - merino socks, size M x2
+ORD-10572  placed 2026-07-09  status: delivered  total: $134.79
+  payment method: card ending 7205  ship to: 808 Mill Ave
+  - standing desk x1
+  - carabiner set x3
+  - extended warranty, 2 years x3
+  - spare battery pack x1
+
+--- message 1 from Mateo Silva ---
+I need to change the delivery address for ORD-32405 before it ships. My partner placed ORD-25692 on our shared account, in case that matters. I tried the chat widget first but it kept disconnecting. The box for ORD-10572 was a bit crushed but the contents were fine.
+
+Best regards,
+Mateo Silva
+
+--- message 2 from Luis (support) ---
+For ORD-32405, the return window is 30 days from delivery. Our warehouse shows ORD-32405 left on schedule. I've resent the confirmation email for ORD-25692 to the address on file. Tracking updates can lag by a day or two with this carrier.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Mateo Silva ---
+Something looks off with ORD-23448: I see what might be a second payment. The cast iron skillet itself is great, for what it's worth. My earlier order ORD-25692 arrived fine, no complaints there.
+
+Mateo Silva
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Mateo Silva ---
+Update: the second line has now posted, it's no longer pending. So both payments for ORD-23448 actually went through. I'm happy to send screenshots if that helps. I tried the chat widget first but it kept disconnecting.
+
+Mateo Silva
+(Please reply by email rather than phone if possible.)
+
+--- message 5 from Luis (support) ---
+Confirmed on our side -- ORD-23448 was captured twice by a retry in our checkout. One refund of $57.17 is on its way to you. I've updated your shipping address on file. If you need an invoice for ORD-10572, you can download it from the Orders page.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Mateo Silva ---
+Could you also tell me whether ORD-32405 qualifies for the extended return window? The box for ORD-10572 was a bit crushed but the contents were fine. My partner placed ORD-10572 on our shared account, in case that matters.
+
+Best regards,
+Mateo Silva
+
+--- message 7 from Mateo Silva ---
+Your app logged me out twice while I was looking at this, which didn't help. I'd rather not call; the hold times last time were very long. Is there a way to combine loyalty points from ORD-25692 with my next purchase? Could you also tell me whether ORD-32405 qualifies for the extended return window?
+
+Mateo Silva
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Luis (support) ---
+Screenshots aren't necessary, but thank you for offering. Our warehouse shows ORD-32405 left on schedule. Tracking updates can lag by a day or two with this carrier. If you need an invoice for ORD-25692, you can download it from the Orders page.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Mateo Silva ---
+My partner placed ORD-32405 on our shared account, in case that matters. I'd rather not call; the hold times last time were very long. My earlier order ORD-32405 arrived fine, no complaints there. Tracking for ORD-32405 hasn't updated since Tuesday.
+
+Thanks,
+Mateo Silva
+Sent from my phone -- please excuse typos.
+
+--- message 10 from Luis (support) ---
+I've added a note to your account so the next agent has the context. If you need an invoice for ORD-32405, you can download it from the Orders page. Our warehouse shows ORD-32405 left on schedule. I've updated your shipping address on file.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

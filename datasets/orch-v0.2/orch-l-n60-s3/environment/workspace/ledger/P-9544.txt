@@ -1,0 +1,10 @@
+Ledger page P-9544
+
+account      amount   see page
+Young          +174   P-8860
+Umar           -305   P-6178
+Quinn          -801   P-2966
+Abbott          -61   P-8953
+Park           +258   P-3569
+
+Follow the credit belonging to the account that comes first alphabetically.

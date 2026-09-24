@@ -1,0 +1,69 @@
+Ticket T-8804
+Customer: Chloe Martin
+Orders on file: ORD-83120, ORD-46135, ORD-56567, ORD-53081
+Opened: 2026-06-20 via web form
+
+Order details:
+ORD-83120  placed 2026-05-02  status: delivered  total: $78.86
+  payment method: card ending 1656  ship to: 996 Cedar Ave
+  - cast iron skillet x1
+  - gift wrap x2
+  - spare battery pack x1
+ORD-46135  placed 2026-02-25  status: returned  total: $22.64
+  payment method: card ending 5619  ship to: 316 Oak Ave
+  - bike light set x1
+  - travel pouch x2
+  - microfiber cloth x3
+  - merino socks, size M x2
+ORD-56567  placed 2026-01-09  status: returned  total: $128.37
+  payment method: card ending 2163  ship to: 174 Elm Lane
+  - wool blanket x1
+  - replacement filter cartridge, 3-pack x2
+  - stainless water bottle, 750ml x2
+  - gift wrap x3
+ORD-53081  placed 2026-07-15  status: label created  total: $314.56
+  payment method: card ending 6036  ship to: 969 Cedar Ave
+  - rain jacket x1
+  - carabiner set x3
+  - stainless water bottle, 750ml x2
+  - spare battery pack x3
+  - USB-C charging cable (2m) x3
+
+--- message 1 from Chloe Martin ---
+The trail running shoes from ORD-56567 arrived with a scratch on the side. Can I get a replacement? Your app logged me out twice while I was looking at this, which didn't help. I tried the chat widget first but it kept disconnecting. Could you also tell me whether ORD-56567 qualifies for the extended return window?
+
+Chloe Martin
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Dana (support) ---
+If you need an invoice for ORD-56567, you can download it from the Orders page. Thanks for reaching out, and sorry for the trouble. I've resent the confirmation email for ORD-83120 to the address on file. I've added a note to your account so the next agent has the context.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Chloe Martin ---
+ORD-53081 shows up once in my order history, but my online banking shows it paid for on two separate lines. The confirmation email for ORD-56567 went to my spam folder, so I only just saw it. I've been a customer for a few years and usually everything goes smoothly.
+
+Chloe Martin
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Dana (support) ---
+Screenshots aren't necessary, but thank you for offering. For ORD-56567, the return window is 30 days from delivery. If you need an invoice for ORD-83120, you can download it from the Orders page.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Chloe Martin ---
+The desk lamp itself is great, for what it's worth. Could you also tell me whether ORD-46135 qualifies for the extended return window? I've been a customer for a few years and usually everything goes smoothly. Your app logged me out twice while I was looking at this, which didn't help.
+
+Best regards,
+Chloe Martin
+
+--- message 6 from Dana (support) ---
+Loyalty points post about a week after an order is delivered. I can see all the orders on your account, including ORD-83120. Screenshots aren't necessary, but thank you for offering. Let me know if anything else looks off.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

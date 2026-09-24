@@ -1,0 +1,83 @@
+Ticket T-3639
+Customer: Ben Carter
+Orders on file: ORD-67148, ORD-36447, ORD-25992, ORD-85501
+Opened: 2026-07-04 via email
+
+Order details:
+ORD-67148  placed 2026-01-10  status: label created  total: $424.55
+  payment method: card ending 3562  ship to: 262 Oak Lane
+  - blender x1
+  - spare battery pack x1
+  - travel pouch x2
+ORD-36447  placed 2026-02-02  status: delivered  total: $263.28
+  payment method: card ending 3487  ship to: 574 Mill St
+  - rain jacket x1
+  - replacement filter cartridge, 3-pack x2
+  - spare battery pack x2
+  - extended warranty, 2 years x1
+  - merino socks, size M x2
+ORD-25992  placed 2026-06-21  status: delivered  total: $54.71
+  payment method: card ending 2200  ship to: 492 Cedar St
+  - noise-cancelling headphones x1
+  - carabiner set x3
+  - microfiber cloth x3
+  - stainless water bottle, 750ml x3
+  - extended warranty, 2 years x3
+ORD-85501  placed 2026-02-01  status: label created  total: $131.90
+  payment method: card ending 1927  ship to: 407 Cedar Ave
+  - noise-cancelling headphones x1
+  - spare battery pack x1
+  - merino socks, size M x2
+
+--- message 1 from Ben Carter ---
+I need to change the delivery address for ORD-25992 before it ships. I'm travelling next week, so email is the best way to reach me. Could you also tell me whether ORD-85501 qualifies for the extended return window? My earlier order ORD-36447 arrived fine, no complaints there.
+
+Best regards,
+Ben Carter
+
+--- message 2 from Marcus (support) ---
+Our warehouse shows ORD-36447 left on schedule. For ORD-85501, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ben Carter ---
+ORD-67148 shows up once in my order history, but my statement shows it paid for on two separate lines. I'm happy to send screenshots if that helps. I'd rather not call; the hold times last time were very long.
+
+Ben Carter
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Marcus (support) ---
+If you need an invoice for ORD-25992, you can download it from the Orders page. Our warehouse shows ORD-85501 left on schedule. Tracking updates can lag by a day or two with this carrier.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Marcus (support) ---
+I've checked with our payments team: both captures for ORD-67148 settled, so you were genuinely charged twice. I've issued a refund for the second one; it should show within 3-5 business days. Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Ben Carter ---
+Is there a way to combine loyalty points from ORD-85501 with my next purchase? I'd rather not call; the hold times last time were very long. I changed my shipping address last month, so please double-check you have the new one.
+
+Ben Carter
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Ben Carter ---
+Tracking for ORD-36447 hasn't updated since Tuesday. I changed my shipping address last month, so please double-check you have the new one. I'm travelling next week, so email is the best way to reach me. The noise-cancelling headphones itself is great, for what it's worth.
+
+Thanks,
+Ben Carter
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Marcus (support) ---
+I've updated your shipping address on file. Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier. If you need an invoice for ORD-25992, you can download it from the Orders page.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

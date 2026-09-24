@@ -1,0 +1,10 @@
+Ledger page P-2578
+
+account      amount   see page
+Hughes          +32   P-4426
+Dunn             -1   P-1749
+Grant          -123   P-4182
+Osei           +659   P-7013
+Abbott         +434   P-6034
+
+Follow the entry whose amount is closest to zero.

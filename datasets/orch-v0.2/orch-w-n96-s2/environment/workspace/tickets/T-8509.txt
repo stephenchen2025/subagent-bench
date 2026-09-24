@@ -1,0 +1,97 @@
+Ticket T-8509
+Customer: Aisha Karim
+Orders on file: ORD-51372, ORD-28305, ORD-73025, ORD-46735
+Opened: 2026-01-07 via chat transcript
+
+Order details:
+ORD-51372  placed 2026-04-13  status: in transit  total: $198.92
+  payment method: card ending 9773  ship to: 374 Elm St
+  - carry-on suitcase x1
+  - stainless water bottle, 750ml x1
+  - microfiber cloth x1
+  - carabiner set x1
+  - extended warranty, 2 years x2
+ORD-28305  placed 2026-02-18  status: delivered  total: $150.17
+  payment method: card ending 4744  ship to: 394 Mill Lane
+  - wool blanket x1
+  - gift wrap x3
+  - travel pouch x2
+  - USB-C charging cable (2m) x1
+ORD-73025  placed 2026-04-04  status: delivered  total: $475.69
+  payment method: card ending 1311  ship to: 460 Oak St
+  - carry-on suitcase x1
+  - extended warranty, 2 years x2
+  - stainless water bottle, 750ml x1
+ORD-46735  placed 2026-08-08  status: in transit  total: $280.99
+  payment method: card ending 7486  ship to: 87 Mill St
+  - rain jacket x1
+  - extended warranty, 2 years x3
+  - carabiner set x1
+  - spare battery pack x3
+
+--- message 1 from Aisha Karim ---
+The yoga mat from ORD-46735 arrived with a scratch on the side. Can I get a replacement? I'm happy to send screenshots if that helps. I've been a customer for a few years and usually everything goes smoothly. Is there a way to combine loyalty points from ORD-51372 with my next purchase?
+
+Thanks,
+Aisha Karim
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Pete (support) ---
+For ORD-28305, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier. I've resent the confirmation email for ORD-28305 to the address on file.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Aisha Karim ---
+I think I might have been charged twice for ORD-73025, but one of the lines on my statement still says pending, so I'm not sure yet. The box for ORD-51372 was a bit crushed but the contents were fine. I'm travelling next week, so email is the best way to reach me.
+
+Aisha Karim
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Pete (support) ---
+Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-28305 to the address on file. I can see all the orders on your account, including ORD-51372.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Aisha Karim ---
+Just checked again -- both charges for ORD-73025 are settled now, not pending. I tried the chat widget first but it kept disconnecting. The box for ORD-51372 was a bit crushed but the contents were fine.
+
+Best regards,
+Aisha Karim
+
+--- message 6 from Pete (support) ---
+Confirmed on our side -- ORD-73025 was captured twice by a retry in our checkout. One refund of $410.77 is on its way to you. Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Aisha Karim ---
+Tracking for ORD-28305 hasn't updated since Tuesday. Is there a way to combine loyalty points from ORD-28305 with my next purchase? I'd rather not call; the hold times last time were very long. The noise-cancelling headphones itself is great, for what it's worth.
+
+Thanks,
+Aisha Karim
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Pete (support) ---
+Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context. Let me know if anything else looks off. I've resent the confirmation email for ORD-51372 to the address on file.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Aisha Karim ---
+I'm travelling next week, so email is the best way to reach me. My earlier order ORD-51372 arrived fine, no complaints there. I changed my shipping address last month, so please double-check you have the new one. Is there a way to combine loyalty points from ORD-28305 with my next purchase?
+
+Best regards,
+Aisha Karim
+
+--- message 10 from Pete (support) ---
+I can see all the orders on your account, including ORD-28305. Our warehouse shows ORD-46735 left on schedule. Thanks for reaching out, and sorry for the trouble. Loyalty points post about a week after an order is delivered.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

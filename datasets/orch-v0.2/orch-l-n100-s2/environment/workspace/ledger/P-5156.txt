@@ -1,0 +1,10 @@
+Ledger page P-5156
+
+account      amount   see page
+Weber          -761   P-5888
+Eriksen        +325   P-7970
+Vance          -573   P-9066
+Umar           +748   P-6914
+Park            -16   P-8202
+
+Follow the entry with the largest debit (the most negative amount).

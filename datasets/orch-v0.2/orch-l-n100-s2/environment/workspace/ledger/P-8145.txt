@@ -1,0 +1,11 @@
+Ledger page P-8145
+
+account      amount   see page
+Tanaka         +378   P-1598
+Lambert        -381   P-6194
+Grant          -124   P-3062
+Nakamura       +393   P-9691
+Eriksen        -106   P-8857
+Umar           +244   P-7889
+
+Follow the debit belonging to the account that comes last alphabetically.

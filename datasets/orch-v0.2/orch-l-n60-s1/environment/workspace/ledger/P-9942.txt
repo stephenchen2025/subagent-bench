@@ -1,0 +1,11 @@
+Ledger page P-9942
+
+account      amount   see page
+Moreau         +322   P-3318
+Castillo       -673   P-2957
+Dunn           +165   P-6276
+Kowalski       +192   P-5594
+Ibarra         -787   P-2814
+Vance          +781   P-9080
+
+Follow the entry with the largest debit (the most negative amount).

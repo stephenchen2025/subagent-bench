@@ -1,0 +1,12 @@
+Ledger page P-5935
+
+account      amount   see page
+Vance          +883   P-2912
+Osei           +872   P-7282
+Dunn           +379   P-5186
+Lambert        +494   P-7663
+Tanaka         +265   P-6758
+Zhou           -201   P-2301
+Moreau         -406   P-2366
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,10 @@
+Ledger page P-1869
+
+account      amount   see page
+Osei           +556   P-9669
+Jensen         -183   P-9749
+Fofana         +684   P-9054
+Abbott         +399   P-6281
+Young          +219   P-9651
+
+Follow the entry with the largest credit.

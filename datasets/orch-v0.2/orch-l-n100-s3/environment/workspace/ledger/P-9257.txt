@@ -1,0 +1,10 @@
+Ledger page P-9257
+
+account      amount   see page
+Park           +691   P-3007
+Jensen         +301   P-5602
+Silva          -615   P-3359
+Nakamura       -759   P-2274
+Weber          +575   P-6821
+
+Follow the entry with the largest debit (the most negative amount).

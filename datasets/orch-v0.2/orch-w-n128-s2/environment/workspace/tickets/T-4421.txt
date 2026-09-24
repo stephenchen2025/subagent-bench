@@ -1,0 +1,58 @@
+Ticket T-4421
+Customer: Amara Nwosu
+Orders on file: ORD-76178, ORD-76036, ORD-28199, ORD-24261
+Opened: 2026-06-26 via web form
+
+Order details:
+ORD-76178  placed 2026-01-10  status: delivered  total: $343.28
+  payment method: card ending 5884  ship to: 243 Mill Rd
+  - blender x1
+  - extended warranty, 2 years x2
+  - stainless water bottle, 750ml x1
+  - replacement filter cartridge, 3-pack x1
+  - carabiner set x3
+ORD-76036  placed 2026-03-14  status: delivered  total: $367.36
+  payment method: card ending 3392  ship to: 675 Mill Lane
+  - water filter pitcher x1
+  - carabiner set x1
+  - gift wrap x1
+ORD-28199  placed 2026-08-20  status: delivered  total: $274.24
+  payment method: card ending 3946  ship to: 96 Elm St
+  - bike light set x1
+  - travel pouch x2
+  - USB-C charging cable (2m) x1
+  - gift wrap x1
+ORD-24261  placed 2026-05-17  status: delivered  total: $68.77
+  payment method: card ending 6323  ship to: 72 Mill Lane
+  - mechanical keyboard x1
+  - extended warranty, 2 years x1
+  - travel pouch x3
+  - merino socks, size M x3
+  - carabiner set x1
+
+--- message 1 from Amara Nwosu ---
+Where is my refund for ORD-76178? You said 5 days and it has been 8. I'm happy to send screenshots if that helps. I'd rather not call; the hold times last time were very long. I tried the chat widget first but it kept disconnecting.
+
+Amara Nwosu
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Keiko (support) ---
+I've resent the confirmation email for ORD-76178 to the address on file. For ORD-76178, the return window is 30 days from delivery. Our warehouse shows ORD-76178 left on schedule. I've added a note to your account so the next agent has the context.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Amara Nwosu ---
+The wool blanket itself is great, for what it's worth. My partner placed ORD-28199 on our shared account, in case that matters. My earlier order ORD-28199 arrived fine, no complaints there. The confirmation email for ORD-76036 went to my spam folder, so I only just saw it.
+
+Thanks,
+Amara Nwosu
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Keiko (support) ---
+I've added a note to your account so the next agent has the context. Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble. Tracking updates can lag by a day or two with this carrier.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

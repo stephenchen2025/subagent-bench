@@ -1,0 +1,11 @@
+Ledger page P-8727
+
+account      amount   see page
+Umar           +320   P-5934
+Kowalski       +248   P-9747
+Grant          -754   P-7524
+Jensen         +456   P-6202
+Tanaka         +795   P-4348
+Silva          -542   P-4348
+
+Follow the entry with the second-largest amount.

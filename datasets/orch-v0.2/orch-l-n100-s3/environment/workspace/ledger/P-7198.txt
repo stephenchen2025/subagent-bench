@@ -1,0 +1,12 @@
+Ledger page P-7198
+
+account      amount   see page
+Quinn          +400   P-7663
+Weber          -775   P-8701
+Tanaka         -730   P-2960
+Castillo       +360   P-5661
+Lambert        -111   P-4759
+Dunn           -821   P-3170
+Hughes         -854   P-8316
+
+Follow the entry with the largest debit (the most negative amount).

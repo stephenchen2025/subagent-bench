@@ -1,0 +1,10 @@
+Ledger page P-3292
+
+account      amount   see page
+Fofana         +320   P-7193
+Osei           +722   P-1487
+Ibarra         +604   P-5128
+Dunn            -10   P-9980
+Moreau         -555   P-3219
+
+Follow the entry whose amount is closest to zero.

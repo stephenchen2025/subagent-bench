@@ -1,0 +1,10 @@
+Ledger page P-1433
+
+account      amount   see page
+Abbott         -711   P-8558
+Osei           -540   P-2793
+Ibarra         -290   P-2904
+Castillo       +854   P-9137
+Baker          -460   P-9137
+
+Follow the debit belonging to the account that comes last alphabetically.

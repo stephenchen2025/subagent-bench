@@ -1,0 +1,12 @@
+Ledger page P-9584
+
+account      amount   see page
+Moreau         +175   P-4967
+Tanaka         +589   P-3477
+Baker          -429   P-6476
+Zhou           -255   P-3497
+Dunn           -572   P-5121
+Abbott         +423   P-8396
+Umar            +50   P-1991
+
+Follow the entry with the largest debit (the most negative amount).

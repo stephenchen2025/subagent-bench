@@ -1,0 +1,12 @@
+Ledger page P-7231
+
+account      amount   see page
+Vance          +281   P-3172
+Umar           +316   P-5312
+Hughes         -674   P-3369
+Grant          +773   P-1592
+Nakamura       -697   P-7523
+Baker           +83   P-7275
+Tanaka          -88   P-8207
+
+Follow the debit belonging to the account that comes last alphabetically.

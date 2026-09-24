@@ -1,0 +1,55 @@
+Ticket T-6466
+Customer: Yuki Tanaka
+Orders on file: ORD-91989, ORD-83169, ORD-52652, ORD-93519
+Opened: 2026-02-22 via web form
+
+Order details:
+ORD-91989  placed 2026-06-05  status: label created  total: $55.18
+  payment method: card ending 7545  ship to: 893 Harbor Ave
+  - water filter pitcher x1
+  - extended warranty, 2 years x2
+  - stainless water bottle, 750ml x2
+ORD-83169  placed 2026-08-02  status: in transit  total: $444.55
+  payment method: card ending 4777  ship to: 538 Elm St
+  - mechanical keyboard x1
+  - stainless water bottle, 750ml x3
+  - carabiner set x3
+  - USB-C charging cable (2m) x1
+ORD-52652  placed 2026-05-04  status: delivered  total: $309.67
+  payment method: card ending 4148  ship to: 814 Mill St
+  - water filter pitcher x1
+  - USB-C charging cable (2m) x3
+  - stainless water bottle, 750ml x2
+  - microfiber cloth x3
+ORD-93519  placed 2026-02-20  status: delivered  total: $457.21
+  payment method: card ending 1707  ship to: 865 Cedar Rd
+  - rain jacket x1
+  - microfiber cloth x3
+  - replacement filter cartridge, 3-pack x3
+
+--- message 1 from Yuki Tanaka ---
+I'd like to return the water filter pitcher from ORD-52652; it's the wrong size. I'm travelling next week, so email is the best way to reach me. The box for ORD-52652 was a bit crushed but the contents were fine. Your app logged me out twice while I was looking at this, which didn't help.
+
+Best regards,
+Yuki Tanaka
+
+--- message 2 from Marcus (support) ---
+Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering. For ORD-93519, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Yuki Tanaka ---
+The confirmation email for ORD-52652 went to my spam folder, so I only just saw it. Tracking for ORD-93519 hasn't updated since Tuesday. Is there a way to combine loyalty points from ORD-91989 with my next purchase? I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Yuki Tanaka
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Marcus (support) ---
+Thanks for reaching out, and sorry for the trouble. Tracking updates can lag by a day or two with this carrier. I've updated your shipping address on file. Screenshots aren't necessary, but thank you for offering.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

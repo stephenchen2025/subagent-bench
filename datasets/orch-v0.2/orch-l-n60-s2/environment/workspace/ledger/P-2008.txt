@@ -1,0 +1,11 @@
+Ledger page P-2008
+
+account      amount   see page
+Grant          +554   P-8097
+Castillo        +26   P-1489
+Ibarra         -354   P-4162
+Dunn           +337   P-8289
+Fofana         +771   P-5107
+Park           -379   P-8495
+
+Follow the entry with the largest debit (the most negative amount).

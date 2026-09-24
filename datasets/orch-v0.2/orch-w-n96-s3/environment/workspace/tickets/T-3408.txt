@@ -1,0 +1,56 @@
+Ticket T-3408
+Customer: Chloe Martin
+Orders on file: ORD-85770, ORD-89063, ORD-98779, ORD-39531
+Opened: 2026-04-02 via email
+
+Order details:
+ORD-85770  placed 2026-05-18  status: delivered  total: $244.55
+  payment method: card ending 1422  ship to: 909 Elm Ave
+  - camping stove x1
+  - carabiner set x1
+  - replacement filter cartridge, 3-pack x2
+ORD-89063  placed 2026-02-19  status: delivered  total: $391.89
+  payment method: card ending 8473  ship to: 172 Harbor St
+  - wool blanket x1
+  - USB-C charging cable (2m) x1
+  - extended warranty, 2 years x1
+  - microfiber cloth x2
+  - spare battery pack x3
+ORD-98779  placed 2026-02-18  status: in transit  total: $337.68
+  payment method: card ending 4656  ship to: 428 Harbor Rd
+  - wool blanket x1
+  - microfiber cloth x3
+  - carabiner set x3
+  - spare battery pack x2
+ORD-39531  placed 2026-05-28  status: delivered  total: $166.42
+  payment method: card ending 4588  ship to: 238 Elm Ave
+  - trail running shoes x1
+  - microfiber cloth x3
+  - replacement filter cartridge, 3-pack x3
+
+--- message 1 from Chloe Martin ---
+The wool blanket from ORD-39531 arrived with a scratch on the side. Can I get a replacement? The box for ORD-98779 was a bit crushed but the contents were fine. My partner placed ORD-39531 on our shared account, in case that matters. I'd rather not call; the hold times last time were very long.
+
+Chloe Martin
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Arjun (support) ---
+Thanks for reaching out, and sorry for the trouble. I've resent the confirmation email for ORD-89063 to the address on file. I've added a note to your account so the next agent has the context. If you need an invoice for ORD-39531, you can download it from the Orders page.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Chloe Martin ---
+I'm happy to send screenshots if that helps. I've been a customer for a few years and usually everything goes smoothly. I changed my shipping address last month, so please double-check you have the new one. Is there a way to combine loyalty points from ORD-98779 with my next purchase?
+
+Thanks,
+Chloe Martin
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Arjun (support) ---
+Tracking updates can lag by a day or two with this carrier. I can see all the orders on your account, including ORD-39531. I've added a note to your account so the next agent has the context. Loyalty points post about a week after an order is delivered.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

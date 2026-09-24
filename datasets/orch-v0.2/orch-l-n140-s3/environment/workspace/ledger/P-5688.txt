@@ -1,0 +1,12 @@
+Ledger page P-5688
+
+account      amount   see page
+Quinn          +742   P-6859
+Nakamura       -464   P-8229
+Baker          +723   P-1612
+Fofana         -825   P-3386
+Young          +219   P-4925
+Castillo       -735   P-9084
+Jensen         -722   P-8994
+
+Follow the debit belonging to the account that comes last alphabetically.

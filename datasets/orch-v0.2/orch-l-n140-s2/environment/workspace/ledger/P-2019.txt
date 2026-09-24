@@ -1,0 +1,10 @@
+Ledger page P-2019
+
+account      amount   see page
+Fofana         -579   P-8845
+Umar           +264   P-6783
+Eriksen        -632   P-4522
+Osei           +578   P-1265
+Kowalski       +163   P-4436
+
+Follow the entry with the largest credit.

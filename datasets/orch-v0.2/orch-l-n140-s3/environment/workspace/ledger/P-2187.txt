@@ -1,0 +1,11 @@
+Ledger page P-2187
+
+account      amount   see page
+Tanaka         -655   P-5456
+Castillo       -347   P-9312
+Nakamura       -561   P-6030
+Jensen         +683   P-4717
+Quinn          -144   P-2698
+Hughes         -691   P-6102
+
+Follow the entry with the largest debit (the most negative amount).

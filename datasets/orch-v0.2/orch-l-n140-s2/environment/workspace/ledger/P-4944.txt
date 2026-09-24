@@ -1,0 +1,12 @@
+Ledger page P-4944
+
+account      amount   see page
+Castillo       +339   P-4301
+Eriksen        +233   P-5509
+Kowalski       -678   P-4422
+Ibarra         +736   P-9669
+Young          +358   P-1122
+Osei           +894   P-2410
+Lambert        +312   P-8335
+
+Follow the entry with the largest debit (the most negative amount).

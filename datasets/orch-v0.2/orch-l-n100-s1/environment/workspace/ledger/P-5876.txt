@@ -1,0 +1,10 @@
+Ledger page P-5876
+
+account      amount   see page
+Zhou            -45   P-2956
+Vance          +885   P-1487
+Abbott         -850   P-4903
+Eriksen        +523   P-7071
+Xu             +873   P-6089
+
+Follow the entry with the second-largest amount.

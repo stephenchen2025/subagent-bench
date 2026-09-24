@@ -1,0 +1,10 @@
+Ledger page P-3806
+
+account      amount   see page
+Tanaka         +191   P-3528
+Nakamura       +842   P-9691
+Rahman         -107   P-7693
+Baker          -754   P-3416
+Hughes          -34   P-5960
+
+Follow the entry with the second-largest amount.

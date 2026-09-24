@@ -1,0 +1,72 @@
+Ticket T-9414
+Customer: Samir Patel
+Orders on file: ORD-81501, ORD-43069, ORD-42051, ORD-59033
+Opened: 2026-01-16 via web form
+
+Order details:
+ORD-81501  placed 2026-02-25  status: delivered  total: $301.78
+  payment method: card ending 5331  ship to: 106 Elm Lane
+  - mechanical keyboard x1
+  - USB-C charging cable (2m) x1
+  - replacement filter cartridge, 3-pack x1
+  - spare battery pack x1
+  - extended warranty, 2 years x3
+ORD-43069  placed 2026-01-19  status: label created  total: $142.64
+  payment method: card ending 2511  ship to: 259 Elm Rd
+  - standing desk x1
+  - USB-C charging cable (2m) x3
+  - replacement filter cartridge, 3-pack x3
+  - gift wrap x3
+  - travel pouch x2
+ORD-42051  placed 2026-06-16  status: delivered  total: $388.82
+  payment method: card ending 9281  ship to: 351 Harbor Lane
+  - water filter pitcher x1
+  - gift wrap x1
+  - merino socks, size M x2
+  - microfiber cloth x1
+  - carabiner set x3
+ORD-59033  placed 2026-02-01  status: in transit  total: $347.18
+  payment method: card ending 3150  ship to: 336 Elm Ave
+  - carry-on suitcase x1
+  - stainless water bottle, 750ml x1
+  - USB-C charging cable (2m) x3
+
+--- message 1 from Samir Patel ---
+I'd like to return the desk lamp from ORD-59033; it's the wrong size. My partner placed ORD-81501 on our shared account, in case that matters. I've been a customer for a few years and usually everything goes smoothly. The bike light set itself is great, for what it's worth.
+
+Thanks,
+Samir Patel
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Luis (support) ---
+Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-43069. If you need an invoice for ORD-43069, you can download it from the Orders page. I've added a note to your account so the next agent has the context.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Samir Patel ---
+Duplicate charge on ORD-42051, please refund one of them. I'd rather not call; the hold times last time were very long. My earlier order ORD-81501 arrived fine, no complaints there.
+
+Samir Patel
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Luis (support) ---
+Screenshots aren't necessary, but thank you for offering. Our warehouse shows ORD-81501 left on schedule. I've added a note to your account so the next agent has the context.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Samir Patel ---
+I changed my shipping address last month, so please double-check you have the new one. I tried the chat widget first but it kept disconnecting. I'd rather not call; the hold times last time were very long. My partner placed ORD-59033 on our shared account, in case that matters.
+
+Best regards,
+Samir Patel
+
+--- message 6 from Luis (support) ---
+I've added a note to your account so the next agent has the context. I can see all the orders on your account, including ORD-81501. Thanks for reaching out, and sorry for the trouble. Tracking updates can lag by a day or two with this carrier.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

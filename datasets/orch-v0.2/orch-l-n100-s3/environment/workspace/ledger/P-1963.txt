@@ -1,0 +1,11 @@
+Ledger page P-1963
+
+account      amount   see page
+Vance          -669   P-2973
+Hughes         -609   P-4178
+Grant          -334   P-8313
+Young          -889   P-2366
+Castillo       +865   P-4067
+Abbott          +36   P-9548
+
+Follow the credit belonging to the account that comes first alphabetically.

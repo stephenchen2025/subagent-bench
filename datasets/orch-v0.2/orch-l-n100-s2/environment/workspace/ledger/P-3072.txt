@@ -1,0 +1,11 @@
+Ledger page P-3072
+
+account      amount   see page
+Weber           -94   P-4086
+Hughes         -752   P-5225
+Rahman         +636   P-2777
+Kowalski       -390   P-9746
+Young          +802   P-4337
+Fofana         -155   P-9066
+
+Follow the entry with the second-largest amount.

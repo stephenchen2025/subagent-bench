@@ -1,0 +1,12 @@
+Ledger page P-2928
+
+account      amount   see page
+Tanaka         -378   P-6703
+Vance          -127   P-8045
+Rahman         +402   P-2535
+Ibarra         -440   P-5456
+Fofana         +596   P-6871
+Hughes         +212   P-7583
+Weber           -31   P-2522
+
+Follow the debit belonging to the account that comes last alphabetically.

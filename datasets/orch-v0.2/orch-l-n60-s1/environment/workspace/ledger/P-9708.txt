@@ -1,0 +1,11 @@
+Ledger page P-9708
+
+account      amount   see page
+Nakamura       -102   P-9689
+Moreau         +441   P-9811
+Abbott         +497   P-9733
+Zhou           +552   P-2728
+Xu             +859   P-2097
+Weber          -352   P-8289
+
+Follow the entry whose amount is closest to zero.

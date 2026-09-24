@@ -1,0 +1,11 @@
+Ledger page P-5225
+
+account      amount   see page
+Osei           -221   P-1235
+Park           -649   P-6194
+Hughes         -305   P-4623
+Castillo       -799   P-1598
+Xu             +327   P-4567
+Jensen         +686   P-6065
+
+Follow the credit belonging to the account that comes first alphabetically.

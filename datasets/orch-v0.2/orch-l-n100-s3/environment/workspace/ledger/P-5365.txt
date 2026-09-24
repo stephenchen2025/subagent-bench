@@ -1,0 +1,12 @@
+Ledger page P-5365
+
+account      amount   see page
+Grant          +395   P-7097
+Fofana         +641   P-6821
+Moreau         -711   P-7888
+Umar           -338   P-7783
+Castillo       -522   P-6069
+Ibarra         -202   P-6254
+Silva          -424   P-2274
+
+Follow the entry whose amount is closest to zero.

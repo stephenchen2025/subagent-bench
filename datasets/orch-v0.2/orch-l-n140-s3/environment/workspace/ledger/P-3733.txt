@@ -1,0 +1,12 @@
+Ledger page P-3733
+
+account      amount   see page
+Weber          -626   P-6873
+Hughes          -28   P-1174
+Dunn           -678   P-2467
+Baker           +95   P-4656
+Castillo       +635   P-9724
+Rahman          -24   P-7083
+Grant          -454   P-4590
+
+Follow the entry with the largest debit (the most negative amount).

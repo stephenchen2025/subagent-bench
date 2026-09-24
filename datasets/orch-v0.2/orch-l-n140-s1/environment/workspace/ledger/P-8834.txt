@@ -1,0 +1,10 @@
+Ledger page P-8834
+
+account      amount   see page
+Nakamura       -197   P-3148
+Zhou           -327   P-3336
+Osei            +65   P-2429
+Silva          +224   P-7290
+Baker          -746   P-7409
+
+Follow the entry with the second-largest amount.

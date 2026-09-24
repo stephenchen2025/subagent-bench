@@ -1,0 +1,11 @@
+Ledger page P-9056
+
+account      amount   see page
+Hughes         -277   P-9743
+Grant          +118   P-8671
+Moreau         +754   P-3128
+Lambert        +813   P-9722
+Dunn           +364   P-1461
+Kowalski       -109   P-7404
+
+Follow the debit belonging to the account that comes last alphabetically.

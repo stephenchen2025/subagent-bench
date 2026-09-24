@@ -1,0 +1,12 @@
+Ledger page P-9317
+
+account      amount   see page
+Vance           -75   P-4465
+Quinn          +334   P-5655
+Lambert        +488   P-3360
+Castillo       +177   P-8870
+Hughes         -183   P-8870
+Nakamura       -864   P-1352
+Jensen         +273   P-7193
+
+Follow the entry with the largest credit.

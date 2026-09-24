@@ -1,0 +1,12 @@
+Ledger page P-3170
+
+account      amount   see page
+Eriksen        -575   P-1945
+Fofana         +200   P-3974
+Weber          -458   P-2366
+Lambert        +791   P-4720
+Silva          -514   P-9339
+Abbott         +767   P-5679
+Umar            -12   P-7933
+
+Follow the entry with the largest debit (the most negative amount).

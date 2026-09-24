@@ -1,0 +1,57 @@
+Ticket T-2386
+Customer: Hana Sato
+Orders on file: ORD-76004, ORD-79561, ORD-37219, ORD-98709
+Opened: 2026-06-13 via web form
+
+Order details:
+ORD-76004  placed 2026-07-20  status: delivered  total: $50.52
+  payment method: card ending 3441  ship to: 618 Oak Rd
+  - carry-on suitcase x1
+  - spare battery pack x2
+  - gift wrap x2
+  - microfiber cloth x2
+ORD-79561  placed 2026-01-28  status: delivered  total: $444.26
+  payment method: card ending 1815  ship to: 421 Harbor Rd
+  - espresso grinder x1
+  - microfiber cloth x1
+  - gift wrap x1
+  - stainless water bottle, 750ml x1
+  - spare battery pack x3
+ORD-37219  placed 2026-02-02  status: returned  total: $196.61
+  payment method: card ending 5645  ship to: 340 Oak Ave
+  - wool blanket x1
+  - extended warranty, 2 years x2
+  - replacement filter cartridge, 3-pack x3
+  - carabiner set x2
+ORD-98709  placed 2026-04-04  status: delivered  total: $259.27
+  payment method: card ending 2363  ship to: 465 Harbor Rd
+  - espresso grinder x1
+  - replacement filter cartridge, 3-pack x2
+  - carabiner set x2
+
+--- message 1 from Hana Sato ---
+I'd like to return the carry-on suitcase from ORD-79561; it's the wrong size. I've been a customer for a few years and usually everything goes smoothly. Tracking for ORD-37219 hasn't updated since Tuesday. Could you also tell me whether ORD-98709 qualifies for the extended return window?
+
+Thanks,
+Hana Sato
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Pete (support) ---
+Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-98709. If you need an invoice for ORD-98709, you can download it from the Orders page. Let me know if anything else looks off.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Hana Sato ---
+I tried the chat widget first but it kept disconnecting. I'm travelling next week, so email is the best way to reach me. The bike light set itself is great, for what it's worth. Your app logged me out twice while I was looking at this, which didn't help.
+
+Best regards,
+Hana Sato
+
+--- message 4 from Pete (support) ---
+I can see all the orders on your account, including ORD-98709. Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-37219 left on schedule. I've added a note to your account so the next agent has the context.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

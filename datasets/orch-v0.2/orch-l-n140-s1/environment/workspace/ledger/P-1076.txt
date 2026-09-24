@@ -1,0 +1,11 @@
+Ledger page P-1076
+
+account      amount   see page
+Castillo       +126   P-7127
+Hughes         -254   P-8573
+Weber          -419   P-8236
+Baker          -704   P-8196
+Vance          +445   P-4222
+Quinn          +873   P-8784
+
+Follow the debit belonging to the account that comes last alphabetically.

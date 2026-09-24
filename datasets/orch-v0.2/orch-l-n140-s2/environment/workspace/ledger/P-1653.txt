@@ -1,0 +1,12 @@
+Ledger page P-1653
+
+account      amount   see page
+Weber          -610   P-1122
+Osei           +520   P-7239
+Dunn            +92   P-8942
+Grant          +700   P-7294
+Lambert        +760   P-8080
+Abbott         -809   P-9072
+Ibarra         +774   P-8010
+
+Follow the entry whose amount is closest to zero.

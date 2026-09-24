@@ -1,0 +1,12 @@
+Ledger page P-4913
+
+account      amount   see page
+Fofana         +148   P-1081
+Young          +502   P-7614
+Osei           +564   P-2855
+Hughes          +31   P-1386
+Quinn          +113   P-9840
+Grant          -732   P-7674
+Lambert        +300   P-8823
+
+Follow the credit belonging to the account that comes first alphabetically.

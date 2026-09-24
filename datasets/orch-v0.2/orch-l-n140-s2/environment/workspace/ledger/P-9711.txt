@@ -1,0 +1,12 @@
+Ledger page P-9711
+
+account      amount   see page
+Hughes          +93   P-2705
+Grant          +556   P-5124
+Vance          -270   P-6707
+Weber          +573   P-1825
+Lambert        -709   P-7115
+Park           -338   P-2856
+Nakamura        +84   P-8330
+
+Follow the entry with the largest debit (the most negative amount).

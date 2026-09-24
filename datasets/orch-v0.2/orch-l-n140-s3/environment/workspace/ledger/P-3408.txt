@@ -1,0 +1,12 @@
+Ledger page P-3408
+
+account      amount   see page
+Lambert        -829   P-3222
+Park           -761   P-8777
+Castillo       +424   P-8316
+Baker          +209   P-4173
+Abbott           +4   P-7443
+Tanaka         -653   P-6843
+Vance          -647   P-8186
+
+Follow the entry with the largest credit.

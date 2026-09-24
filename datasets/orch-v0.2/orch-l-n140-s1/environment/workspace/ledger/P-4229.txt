@@ -1,0 +1,10 @@
+Ledger page P-4229
+
+account      amount   see page
+Dunn           +720   P-2620
+Lambert        +897   P-9840
+Ibarra         -551   P-3978
+Umar           -582   P-2983
+Zhou           -496   P-3005
+
+Follow the entry with the largest credit.

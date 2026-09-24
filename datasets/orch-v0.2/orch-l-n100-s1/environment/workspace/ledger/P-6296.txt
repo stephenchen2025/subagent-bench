@@ -1,0 +1,11 @@
+Ledger page P-6296
+
+account      amount   see page
+Weber          +451   P-1648
+Baker          +322   P-7930
+Zhou           +141   P-3192
+Ibarra         +258   P-4561
+Lambert        -610   P-3655
+Kowalski       -803   P-4903
+
+Follow the entry whose amount is closest to zero.

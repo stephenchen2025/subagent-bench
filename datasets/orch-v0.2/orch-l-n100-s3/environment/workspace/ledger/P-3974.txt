@@ -1,0 +1,10 @@
+Ledger page P-3974
+
+account      amount   see page
+Xu             +380   P-1522
+Young          +447   P-6821
+Baker          -592   P-7013
+Lambert        -116   P-4898
+Ibarra         +789   P-8816
+
+Follow the credit belonging to the account that comes first alphabetically.

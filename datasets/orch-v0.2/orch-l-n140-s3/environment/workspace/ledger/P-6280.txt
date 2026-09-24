@@ -1,0 +1,10 @@
+Ledger page P-6280
+
+account      amount   see page
+Nakamura       +660   P-5116
+Ibarra         +559   P-3810
+Osei           -820   P-6641
+Young          -422   P-4309
+Castillo       +767   P-8123
+
+Follow the entry with the largest debit (the most negative amount).

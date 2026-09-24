@@ -1,0 +1,68 @@
+Ticket T-8444
+Customer: Grace Mwangi
+Orders on file: ORD-39770, ORD-79183, ORD-14660, ORD-24322
+Opened: 2026-04-18 via chat transcript
+
+Order details:
+ORD-39770  placed 2026-03-23  status: in transit  total: $257.44
+  payment method: card ending 4731  ship to: 274 Mill Lane
+  - trail running shoes x1
+  - gift wrap x2
+  - stainless water bottle, 750ml x1
+  - replacement filter cartridge, 3-pack x3
+  - spare battery pack x1
+ORD-79183  placed 2026-03-24  status: delivered  total: $431.10
+  payment method: card ending 7456  ship to: 280 Oak Ave
+  - standing desk x1
+  - extended warranty, 2 years x3
+  - spare battery pack x2
+ORD-14660  placed 2026-08-18  status: label created  total: $465.97
+  payment method: card ending 1620  ship to: 289 Elm St
+  - cast iron skillet x1
+  - microfiber cloth x2
+  - spare battery pack x3
+ORD-24322  placed 2026-07-04  status: in transit  total: $88.74
+  payment method: card ending 4945  ship to: 955 Cedar Ave
+  - wool blanket x1
+  - travel pouch x3
+  - replacement filter cartridge, 3-pack x2
+  - gift wrap x1
+
+--- message 1 from Grace Mwangi ---
+I'd like to return the yoga mat from ORD-79183; it's the wrong size. Your app logged me out twice while I was looking at this, which didn't help. The box for ORD-14660 was a bit crushed but the contents were fine. I'm happy to send screenshots if that helps.
+
+Grace Mwangi
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Rosa (support) ---
+If you need an invoice for ORD-24322, you can download it from the Orders page. I've resent the confirmation email for ORD-14660 to the address on file. I've added a note to your account so the next agent has the context. For ORD-14660, the return window is 30 days from delivery.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Grace Mwangi ---
+My partner placed ORD-24322 on our shared account, in case that matters. The noise-cancelling headphones itself is great, for what it's worth. Could you also tell me whether ORD-24322 qualifies for the extended return window? I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Grace Mwangi
+
+--- message 4 from Rosa (support) ---
+Loyalty points post about a week after an order is delivered. For ORD-79183, the return window is 30 days from delivery. Our warehouse shows ORD-14660 left on schedule. I've added a note to your account so the next agent has the context.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Grace Mwangi ---
+Could you also tell me whether ORD-24322 qualifies for the extended return window? The box for ORD-79183 was a bit crushed but the contents were fine. My earlier order ORD-79183 arrived fine, no complaints there. Is there a way to combine loyalty points from ORD-79183 with my next purchase?
+
+Best regards,
+Grace Mwangi
+
+--- message 6 from Rosa (support) ---
+Let me know if anything else looks off. Our warehouse shows ORD-79183 left on schedule. Loyalty points post about a week after an order is delivered. Thanks for reaching out, and sorry for the trouble.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

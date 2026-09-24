@@ -1,0 +1,101 @@
+Ticket T-1632
+Customer: Jordan Okafor
+Orders on file: ORD-76858, ORD-25131, ORD-37224, ORD-30706
+Opened: 2026-04-16 via email
+
+Order details:
+ORD-76858  placed 2026-04-09  status: in transit  total: $181.73
+  payment method: card ending 6149  ship to: 691 Mill Ave
+  - rain jacket x1
+  - extended warranty, 2 years x3
+  - travel pouch x2
+  - carabiner set x1
+ORD-25131  placed 2026-06-13  status: returned  total: $93.61
+  payment method: card ending 5504  ship to: 731 Mill Ave
+  - blender x1
+  - carabiner set x1
+  - spare battery pack x3
+ORD-37224  placed 2026-04-02  status: delivered  total: $446.12
+  payment method: card ending 3517  ship to: 759 Elm Rd
+  - water filter pitcher x1
+  - travel pouch x3
+  - microfiber cloth x3
+  - USB-C charging cable (2m) x2
+ORD-30706  placed 2026-06-22  status: delivered  total: $64.38
+  payment method: card ending 4131  ship to: 379 Mill St
+  - desk lamp x1
+  - spare battery pack x3
+  - USB-C charging cable (2m) x3
+
+--- message 1 from Jordan Okafor ---
+I need to change the delivery address for ORD-25131 before it ships. My earlier order ORD-25131 arrived fine, no complaints there. I'm happy to send screenshots if that helps. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Jordan Okafor
+
+--- message 2 from Pete (support) ---
+Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-76858. I've updated your shipping address on file. If you need an invoice for ORD-30706, you can download it from the Orders page.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Jordan Okafor ---
+You took the money for ORD-37224 a second time after it had already been paid. Could you also tell me whether ORD-25131 qualifies for the extended return window? The confirmation email for ORD-25131 went to my spam folder, so I only just saw it.
+
+Jordan Okafor
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Pete (support) ---
+I've added a note to your account so the next agent has the context. For ORD-30706, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Pete (support) ---
+I looked into ORD-37224: the second line is a pre-authorization hold from when the first card attempt was declined. It was never captured and it's already been released, so you were only charged once. Let me know if anything else looks off. Loyalty points post about a week after an order is delivered.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Jordan Okafor ---
+The confirmation email for ORD-30706 went to my spam folder, so I only just saw it. I changed my shipping address last month, so please double-check you have the new one. Could you also tell me whether ORD-76858 qualifies for the extended return window?
+
+Thanks,
+Jordan Okafor
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Jordan Okafor ---
+Thanks, I see it now: one payment for ORD-37224, the other one disappeared. All good. Is there a way to combine loyalty points from ORD-25131 with my next purchase? I'm happy to send screenshots if that helps.
+
+Best regards,
+Jordan Okafor
+
+--- message 8 from Jordan Okafor ---
+The confirmation email for ORD-25131 went to my spam folder, so I only just saw it. I'd rather not call; the hold times last time were very long. Tracking for ORD-25131 hasn't updated since Tuesday. The standing desk itself is great, for what it's worth.
+
+Thanks,
+Jordan Okafor
+Sent from my phone -- please excuse typos.
+
+--- message 9 from Pete (support) ---
+Thanks for reaching out, and sorry for the trouble. I've updated your shipping address on file. I can see all the orders on your account, including ORD-25131. Tracking updates can lag by a day or two with this carrier.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 10 from Jordan Okafor ---
+Your app logged me out twice while I was looking at this, which didn't help. I'm happy to send screenshots if that helps. The bike light set itself is great, for what it's worth. I tried the chat widget first but it kept disconnecting.
+
+Jordan Okafor
+(Please reply by email rather than phone if possible.)
+
+--- message 11 from Pete (support) ---
+If you need an invoice for ORD-25131, you can download it from the Orders page. Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

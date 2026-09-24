@@ -1,0 +1,12 @@
+Ledger page P-9632
+
+account      amount   see page
+Dunn           -847   P-5535
+Park            +54   P-4098
+Abbott         +328   P-5618
+Umar           +226   P-6163
+Osei             +2   P-7069
+Silva          -862   P-3539
+Nakamura       +793   P-4890
+
+Follow the entry with the largest debit (the most negative amount).

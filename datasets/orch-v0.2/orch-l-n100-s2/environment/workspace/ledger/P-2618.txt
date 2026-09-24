@@ -1,0 +1,10 @@
+Ledger page P-2618
+
+account      amount   see page
+Rahman         +727   P-8279
+Xu             +251   P-9847
+Baker          +369   P-4704
+Grant          +891   P-5084
+Castillo       -844   P-7383
+
+Follow the entry with the largest credit.

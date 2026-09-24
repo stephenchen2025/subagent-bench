@@ -1,0 +1,11 @@
+Ledger page P-4202
+
+account      amount   see page
+Fofana         -123   P-1757
+Lambert        +392   P-8594
+Park            -19   P-1910
+Dunn           -330   P-2091
+Castillo       +410   P-5093
+Abbott          -65   P-1910
+
+Follow the entry with the largest debit (the most negative amount).

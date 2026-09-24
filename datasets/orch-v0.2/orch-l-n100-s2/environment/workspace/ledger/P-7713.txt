@@ -1,0 +1,11 @@
+Ledger page P-7713
+
+account      amount   see page
+Baker          -157   P-2042
+Nakamura       +449   P-4567
+Castillo       -557   P-7996
+Weber          -476   P-7216
+Abbott         +402   P-5560
+Hughes         -137   P-5201
+
+Follow the debit belonging to the account that comes last alphabetically.

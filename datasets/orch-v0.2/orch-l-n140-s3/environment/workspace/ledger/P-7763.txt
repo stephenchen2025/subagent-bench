@@ -1,0 +1,11 @@
+Ledger page P-7763
+
+account      amount   see page
+Rahman         -447   P-1676
+Kowalski       +576   P-9456
+Young          +526   P-8244
+Osei           +719   P-8653
+Jensen         +338   P-9368
+Baker          +633   P-4366
+
+Follow the entry whose amount is closest to zero.

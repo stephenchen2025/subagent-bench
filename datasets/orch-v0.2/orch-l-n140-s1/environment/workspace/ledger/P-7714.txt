@@ -1,0 +1,12 @@
+Ledger page P-7714
+
+account      amount   see page
+Zhou           -369   P-7524
+Ibarra         +508   P-2333
+Young          +321   P-9443
+Park           -106   P-5040
+Lambert        +743   P-3387
+Abbott         +262   P-3970
+Weber          +797   P-8428
+
+Follow the entry with the largest debit (the most negative amount).

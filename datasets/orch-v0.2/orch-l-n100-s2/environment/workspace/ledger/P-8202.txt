@@ -1,0 +1,12 @@
+Ledger page P-8202
+
+account      amount   see page
+Silva          +472   P-6140
+Weber          +860   P-8502
+Rahman         +821   P-8625
+Quinn          -585   P-6289
+Moreau         +605   P-6871
+Umar           +592   P-9478
+Abbott         +395   P-8099
+
+Follow the entry whose amount is closest to zero.

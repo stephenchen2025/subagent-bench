@@ -1,0 +1,10 @@
+Ledger page P-7153
+
+account      amount   see page
+Lambert         -63   P-1648
+Jensen         -530   P-4213
+Tanaka         +817   P-3321
+Grant          +875   P-7418
+Young          +622   P-5699
+
+Follow the entry with the second-largest amount.

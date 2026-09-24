@@ -1,0 +1,10 @@
+Ledger page P-2923
+
+account      amount   see page
+Abbott          -98   P-3948
+Kowalski       +562   P-6561
+Baker          +881   P-8649
+Osei           +379   P-5655
+Xu             +387   P-9481
+
+Follow the entry with the largest credit.

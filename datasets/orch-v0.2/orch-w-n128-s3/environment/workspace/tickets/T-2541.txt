@@ -1,0 +1,55 @@
+Ticket T-2541
+Customer: Chloe Martin
+Orders on file: ORD-35454, ORD-98419, ORD-24954, ORD-12973
+Opened: 2026-05-07 via email
+
+Order details:
+ORD-35454  placed 2026-03-15  status: delivered  total: $151.78
+  payment method: card ending 5132  ship to: 765 Harbor Ave
+  - mechanical keyboard x1
+  - merino socks, size M x1
+  - carabiner set x2
+  - gift wrap x3
+ORD-98419  placed 2026-06-20  status: delivered  total: $306.25
+  payment method: card ending 7784  ship to: 508 Mill St
+  - espresso grinder x1
+  - USB-C charging cable (2m) x1
+  - travel pouch x1
+  - replacement filter cartridge, 3-pack x2
+ORD-24954  placed 2026-03-23  status: in transit  total: $200.75
+  payment method: card ending 4860  ship to: 408 Mill Rd
+  - trail running shoes x1
+  - travel pouch x3
+  - USB-C charging cable (2m) x1
+  - gift wrap x1
+ORD-12973  placed 2026-04-25  status: returned  total: $64.05
+  payment method: card ending 4396  ship to: 578 Mill Ave
+  - water filter pitcher x1
+  - gift wrap x3
+  - carabiner set x2
+
+--- message 1 from Chloe Martin ---
+How do I reset my password? The reset link keeps expiring. The confirmation email for ORD-24954 went to my spam folder, so I only just saw it. Tracking for ORD-98419 hasn't updated since Tuesday. The water filter pitcher itself is great, for what it's worth.
+
+Best regards,
+Chloe Martin
+
+--- message 2 from Rosa (support) ---
+I've updated your shipping address on file. I've resent the confirmation email for ORD-35454 to the address on file. Let me know if anything else looks off. Loyalty points post about a week after an order is delivered.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Chloe Martin ---
+Your app logged me out twice while I was looking at this, which didn't help. I'd rather not call; the hold times last time were very long. I changed my shipping address last month, so please double-check you have the new one. I've been a customer for a few years and usually everything goes smoothly.
+
+Chloe Martin
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Rosa (support) ---
+For ORD-98419, the return window is 30 days from delivery. Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-35454 to the address on file. I've added a note to your account so the next agent has the context.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

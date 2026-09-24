@@ -1,0 +1,10 @@
+Ledger page P-2044
+
+account      amount   see page
+Rahman         -205   P-7542
+Dunn           +780   P-8937
+Nakamura       +805   P-7098
+Ibarra         -623   P-4354
+Eriksen        +392   P-8451
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,12 @@
+Ledger page P-3392
+
+account      amount   see page
+Park           +837   P-7338
+Eriksen        -215   P-4327
+Weber          -131   P-3519
+Rahman         +335   P-2338
+Kowalski       +804   P-7378
+Dunn           -589   P-9870
+Umar           -494   P-4271
+
+Follow the entry with the largest credit.

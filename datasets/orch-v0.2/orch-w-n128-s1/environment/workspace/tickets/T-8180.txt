@@ -1,0 +1,93 @@
+Ticket T-8180
+Customer: Kofi Mensah
+Orders on file: ORD-92794, ORD-44674, ORD-29550, ORD-34010
+Opened: 2026-04-25 via chat transcript
+
+Order details:
+ORD-92794  placed 2026-05-19  status: delivered  total: $132.30
+  payment method: card ending 2831  ship to: 568 Elm St
+  - noise-cancelling headphones x1
+  - merino socks, size M x3
+  - microfiber cloth x3
+  - extended warranty, 2 years x2
+ORD-44674  placed 2026-07-20  status: label created  total: $273.03
+  payment method: card ending 9792  ship to: 414 Elm St
+  - desk lamp x1
+  - replacement filter cartridge, 3-pack x3
+  - USB-C charging cable (2m) x3
+ORD-29550  placed 2026-05-10  status: label created  total: $145.24
+  payment method: card ending 7200  ship to: 127 Oak Lane
+  - camping stove x1
+  - carabiner set x1
+  - microfiber cloth x1
+  - extended warranty, 2 years x1
+ORD-34010  placed 2026-08-01  status: in transit  total: $247.75
+  payment method: card ending 4671  ship to: 420 Cedar Lane
+  - camping stove x1
+  - spare battery pack x2
+  - USB-C charging cable (2m) x1
+
+--- message 1 from Kofi Mensah ---
+I need to change the delivery address for ORD-92794 before it ships. I'd rather not call; the hold times last time were very long. My earlier order ORD-44674 arrived fine, no complaints there. Could you also tell me whether ORD-34010 qualifies for the extended return window?
+
+Kofi Mensah
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Fatima (support) ---
+I've added a note to your account so the next agent has the context. Loyalty points post about a week after an order is delivered. If you need an invoice for ORD-92794, you can download it from the Orders page. I've updated your shipping address on file.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Kofi Mensah ---
+Something looks off with ORD-29550: I see what might be a second payment. I tried the chat widget first but it kept disconnecting. The box for ORD-44674 was a bit crushed but the contents were fine.
+
+Best regards,
+Kofi Mensah
+
+--- message 4 from Fatima (support) ---
+Let me know if anything else looks off. I can see all the orders on your account, including ORD-34010. I've added a note to your account so the next agent has the context.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Kofi Mensah ---
+Just checked again -- both charges for ORD-29550 are settled now, not pending. The mechanical keyboard itself is great, for what it's worth. Is there a way to combine loyalty points from ORD-34010 with my next purchase?
+
+Kofi Mensah
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Fatima (support) ---
+Let me know if anything else looks off. Tracking updates can lag by a day or two with this carrier. If you need an invoice for ORD-44674, you can download it from the Orders page.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Fatima (support) ---
+You're right, and I'm sorry. Our records show ORD-29550 was settled two times. I've refunded the duplicate. Thanks for reaching out, and sorry for the trouble. For ORD-92794, the return window is 30 days from delivery.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Kofi Mensah ---
+The yoga mat itself is great, for what it's worth. My earlier order ORD-34010 arrived fine, no complaints there. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Kofi Mensah
+
+--- message 9 from Kofi Mensah ---
+I changed my shipping address last month, so please double-check you have the new one. Could you also tell me whether ORD-44674 qualifies for the extended return window? My earlier order ORD-44674 arrived fine, no complaints there. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Kofi Mensah
+
+--- message 10 from Fatima (support) ---
+Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering. I've updated your shipping address on file. I've resent the confirmation email for ORD-92794 to the address on file.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

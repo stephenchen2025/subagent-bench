@@ -1,0 +1,105 @@
+Ticket T-7254
+Customer: Felix Wagner
+Orders on file: ORD-15003, ORD-99625, ORD-79001, ORD-45549
+Opened: 2026-07-16 via web form
+
+Order details:
+ORD-15003  placed 2026-01-11  status: returned  total: $346.22
+  payment method: card ending 2028  ship to: 219 Cedar St
+  - bike light set x1
+  - stainless water bottle, 750ml x2
+  - microfiber cloth x2
+ORD-99625  placed 2026-02-22  status: delivered  total: $388.85
+  payment method: card ending 8303  ship to: 977 Cedar Lane
+  - desk lamp x1
+  - microfiber cloth x1
+  - replacement filter cartridge, 3-pack x3
+ORD-79001  placed 2026-08-21  status: delivered  total: $24.87
+  payment method: card ending 2739  ship to: 169 Mill Ave
+  - yoga mat x1
+  - replacement filter cartridge, 3-pack x2
+  - microfiber cloth x2
+ORD-45549  placed 2026-01-19  status: delivered  total: $229.10
+  payment method: card ending 3439  ship to: 159 Cedar Ave
+  - camping stove x1
+  - spare battery pack x2
+  - extended warranty, 2 years x3
+
+--- message 1 from Felix Wagner ---
+How do I reset my password? The reset link keeps expiring. I tried the chat widget first but it kept disconnecting. I'm travelling next week, so email is the best way to reach me. The mechanical keyboard itself is great, for what it's worth.
+
+Best regards,
+Felix Wagner
+
+--- message 2 from Keiko (support) ---
+I've updated your shipping address on file. I've added a note to your account so the next agent has the context. If you need an invoice for ORD-45549, you can download it from the Orders page. Thanks for reaching out, and sorry for the trouble.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Felix Wagner ---
+Something looks off with ORD-15003: I see what might be a second payment. The noise-cancelling headphones itself is great, for what it's worth. I've been a customer for a few years and usually everything goes smoothly.
+
+Felix Wagner
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Keiko (support) ---
+Let me know if anything else looks off. Our warehouse shows ORD-99625 left on schedule. Loyalty points post about a week after an order is delivered.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Felix Wagner ---
+Update: the second line has now posted, it's no longer pending. So both payments for ORD-15003 actually went through. I'm happy to send screenshots if that helps. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Felix Wagner
+
+--- message 6 from Keiko (support) ---
+Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-79001. I've resent the confirmation email for ORD-99625 to the address on file.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Keiko (support) ---
+I've checked with our payments team: both captures for ORD-15003 settled, so you were genuinely charged twice. I've issued a refund for the second one; it should show within 3-5 business days. I've added a note to your account so the next agent has the context. Let me know if anything else looks off.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Felix Wagner ---
+The confirmation email for ORD-99625 went to my spam folder, so I only just saw it. I tried the chat widget first but it kept disconnecting. I changed my shipping address last month, so please double-check you have the new one.
+
+Felix Wagner
+(Please reply by email rather than phone if possible.)
+
+--- message 9 from Felix Wagner ---
+My partner placed ORD-45549 on our shared account, in case that matters. I'm travelling next week, so email is the best way to reach me. I've been a customer for a few years and usually everything goes smoothly. I'm happy to send screenshots if that helps.
+
+Thanks,
+Felix Wagner
+Sent from my phone -- please excuse typos.
+
+--- message 10 from Keiko (support) ---
+If you need an invoice for ORD-99625, you can download it from the Orders page. Tracking updates can lag by a day or two with this carrier. I can see all the orders on your account, including ORD-99625. Loyalty points post about a week after an order is delivered.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 11 from Felix Wagner ---
+My earlier order ORD-79001 arrived fine, no complaints there. I'm happy to send screenshots if that helps. Is there a way to combine loyalty points from ORD-99625 with my next purchase? Tracking for ORD-99625 hasn't updated since Tuesday.
+
+Felix Wagner
+(Please reply by email rather than phone if possible.)
+
+--- message 12 from Keiko (support) ---
+I can see all the orders on your account, including ORD-45549. I've added a note to your account so the next agent has the context. Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-79001, you can download it from the Orders page.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

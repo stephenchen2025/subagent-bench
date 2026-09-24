@@ -1,0 +1,10 @@
+Ledger page P-2779
+
+account      amount   see page
+Zhou            -24   P-7810
+Eriksen        +573   P-1290
+Tanaka         -857   P-8680
+Osei           -846   P-6851
+Jensen         +313   P-9408
+
+Follow the credit belonging to the account that comes first alphabetically.

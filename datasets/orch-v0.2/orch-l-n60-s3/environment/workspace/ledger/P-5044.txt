@@ -1,0 +1,11 @@
+Ledger page P-5044
+
+account      amount   see page
+Quinn            +7   P-8300
+Dunn            +76   P-6328
+Eriksen        +244   P-1976
+Moreau          +24   P-9934
+Young          -635   P-4006
+Park           +566   P-6749
+
+Follow the entry with the second-largest amount.

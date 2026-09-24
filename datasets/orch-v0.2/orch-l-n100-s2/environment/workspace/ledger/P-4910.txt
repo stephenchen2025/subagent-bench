@@ -1,0 +1,12 @@
+Ledger page P-4910
+
+account      amount   see page
+Fofana         +382   P-4727
+Tanaka         -783   P-1634
+Eriksen        -163   P-3278
+Kowalski        +34   P-6654
+Hughes         +198   P-2941
+Lambert        +690   P-1978
+Young          +715   P-1695
+
+Follow the entry with the largest debit (the most negative amount).

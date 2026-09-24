@@ -1,0 +1,10 @@
+Ledger page P-6140
+
+account      amount   see page
+Silva          -824   P-5661
+Quinn          -286   P-2184
+Eriksen        +181   P-2780
+Fofana         +844   P-8976
+Umar           -179   P-1759
+
+Follow the debit belonging to the account that comes last alphabetically.

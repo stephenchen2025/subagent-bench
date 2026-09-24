@@ -1,0 +1,11 @@
+Ledger page P-1400
+
+account      amount   see page
+Xu             -105   P-2985
+Jensen          +98   P-1856
+Vance          -566   P-8313
+Kowalski        +51   P-2449
+Abbott          -65   P-9655
+Osei           -746   P-1026
+
+Follow the entry with the largest debit (the most negative amount).

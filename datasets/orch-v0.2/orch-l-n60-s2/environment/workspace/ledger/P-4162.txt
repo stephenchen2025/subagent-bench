@@ -1,0 +1,10 @@
+Ledger page P-4162
+
+account      amount   see page
+Rahman         +202   P-6171
+Xu             +297   P-5136
+Zhou           -160   P-3732
+Quinn           +45   P-4694
+Dunn           +147   P-4793
+
+Follow the entry with the largest debit (the most negative amount).

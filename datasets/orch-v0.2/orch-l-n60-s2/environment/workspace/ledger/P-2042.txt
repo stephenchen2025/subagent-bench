@@ -1,0 +1,12 @@
+Ledger page P-2042
+
+account      amount   see page
+Grant          +283   P-2745
+Osei           +519   P-5220
+Fofana         +742   P-6378
+Vance          +810   P-9045
+Ibarra         -471   P-6512
+Moreau         -474   P-1332
+Tanaka         -476   P-4694
+
+Follow the entry with the second-largest amount.

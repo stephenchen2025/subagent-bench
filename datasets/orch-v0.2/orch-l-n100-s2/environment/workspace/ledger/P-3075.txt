@@ -1,0 +1,10 @@
+Ledger page P-3075
+
+account      amount   see page
+Eriksen        +687   P-4528
+Castillo       -804   P-2334
+Young          -824   P-2077
+Rahman         +788   P-4334
+Abbott         -705   P-8073
+
+Follow the debit belonging to the account that comes last alphabetically.

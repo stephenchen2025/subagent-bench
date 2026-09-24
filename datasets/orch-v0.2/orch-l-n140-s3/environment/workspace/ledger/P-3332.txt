@@ -1,0 +1,11 @@
+Ledger page P-3332
+
+account      amount   see page
+Baker          -342   P-8400
+Park           -834   P-5661
+Ibarra         -434   P-9651
+Nakamura       +741   P-2054
+Tanaka          +79   P-3861
+Moreau         -784   P-7047
+
+Follow the entry with the largest credit.

@@ -1,0 +1,12 @@
+Ledger page P-1773
+
+account      amount   see page
+Hughes         -503   P-9883
+Grant          -431   P-9874
+Young          +668   P-8627
+Osei           +187   P-3230
+Fofana         +761   P-8715
+Park           -706   P-7577
+Dunn           -555   P-6484
+
+Follow the entry with the second-largest amount.

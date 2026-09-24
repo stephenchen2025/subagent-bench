@@ -1,0 +1,12 @@
+Ledger page P-2649
+
+account      amount   see page
+Castillo       +581   P-8381
+Grant          -595   P-9697
+Hughes         +863   P-5252
+Fofana         +346   P-2900
+Zhou           +351   P-9697
+Quinn           +12   P-4744
+Ibarra         +529   P-6370
+
+Follow the entry with the largest debit (the most negative amount).

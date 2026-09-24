@@ -1,0 +1,10 @@
+Ledger page P-4921
+
+account      amount   see page
+Silva          -804   P-4037
+Grant           +78   P-8428
+Nakamura       +556   P-2282
+Jensen         +754   P-5028
+Lambert        +280   P-3519
+
+Follow the debit belonging to the account that comes last alphabetically.

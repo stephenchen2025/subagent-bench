@@ -1,0 +1,10 @@
+Ledger page P-1290
+
+account      amount   see page
+Xu             +423   P-4153
+Lambert        +716   P-9855
+Castillo       -352   P-2376
+Ibarra         +613   P-4610
+Rahman         -740   P-4873
+
+Follow the entry with the largest credit.

@@ -1,0 +1,70 @@
+Ticket T-4685
+Customer: Sofia Rossi
+Orders on file: ORD-19437, ORD-41161, ORD-48888, ORD-52256
+Opened: 2026-05-04 via email
+
+Order details:
+ORD-19437  placed 2026-03-06  status: delivered  total: $225.75
+  payment method: card ending 4345  ship to: 383 Elm Ave
+  - mechanical keyboard x1
+  - carabiner set x3
+  - travel pouch x3
+  - stainless water bottle, 750ml x2
+ORD-41161  placed 2026-05-23  status: delivered  total: $112.87
+  payment method: card ending 6079  ship to: 715 Cedar Lane
+  - wool blanket x1
+  - microfiber cloth x1
+  - replacement filter cartridge, 3-pack x3
+  - carabiner set x1
+ORD-48888  placed 2026-03-03  status: delivered  total: $295.35
+  payment method: card ending 5087  ship to: 71 Mill Lane
+  - camping stove x1
+  - spare battery pack x2
+  - replacement filter cartridge, 3-pack x1
+  - merino socks, size M x2
+  - USB-C charging cable (2m) x1
+ORD-52256  placed 2026-04-07  status: delivered  total: $35.04
+  payment method: card ending 5216  ship to: 787 Mill Lane
+  - trail running shoes x1
+  - gift wrap x1
+  - merino socks, size M x3
+  - microfiber cloth x3
+
+--- message 1 from Sofia Rossi ---
+Can I use a gift card on ORD-41161, or is it too late? Is there a way to combine loyalty points from ORD-48888 with my next purchase? I've been a customer for a few years and usually everything goes smoothly. My earlier order ORD-48888 arrived fine, no complaints there.
+
+Sofia Rossi
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Luis (support) ---
+Our warehouse shows ORD-48888 left on schedule. Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble. For ORD-52256, the return window is 30 days from delivery.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Sofia Rossi ---
+I tried the chat widget first but it kept disconnecting. Could you also tell me whether ORD-48888 qualifies for the extended return window? Is there a way to combine loyalty points from ORD-41161 with my next purchase? My partner placed ORD-41161 on our shared account, in case that matters.
+
+Best regards,
+Sofia Rossi
+
+--- message 4 from Luis (support) ---
+I've resent the confirmation email for ORD-41161 to the address on file. Loyalty points post about a week after an order is delivered. Let me know if anything else looks off. For ORD-48888, the return window is 30 days from delivery.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Sofia Rossi ---
+I've been a customer for a few years and usually everything goes smoothly. Your app logged me out twice while I was looking at this, which didn't help. My partner placed ORD-52256 on our shared account, in case that matters. The desk lamp itself is great, for what it's worth.
+
+Sofia Rossi
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Luis (support) ---
+Let me know if anything else looks off. Tracking updates can lag by a day or two with this carrier. I've updated your shipping address on file. Screenshots aren't necessary, but thank you for offering.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

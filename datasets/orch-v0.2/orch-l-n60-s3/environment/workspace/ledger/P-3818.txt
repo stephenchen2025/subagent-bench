@@ -1,0 +1,11 @@
+Ledger page P-3818
+
+account      amount   see page
+Vance          -430   P-5600
+Moreau         -562   P-8890
+Zhou           +511   P-1253
+Baker          -893   P-1729
+Umar            -28   P-9536
+Jensen         +303   P-3830
+
+Follow the debit belonging to the account that comes last alphabetically.

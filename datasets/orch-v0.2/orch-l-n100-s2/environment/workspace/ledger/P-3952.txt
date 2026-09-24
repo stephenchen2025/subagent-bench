@@ -1,0 +1,10 @@
+Ledger page P-3952
+
+account      amount   see page
+Silva          +337   P-1978
+Xu             +431   P-4227
+Abbott         -799   P-6695
+Dunn           -555   P-6065
+Jensen         -829   P-6530
+
+Follow the entry with the largest credit.

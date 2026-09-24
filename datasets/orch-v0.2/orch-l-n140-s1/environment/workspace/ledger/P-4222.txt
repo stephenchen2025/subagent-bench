@@ -1,0 +1,11 @@
+Ledger page P-4222
+
+account      amount   see page
+Silva          -845   P-2378
+Nakamura        +77   P-7969
+Tanaka         -266   P-7333
+Xu             -367   P-5195
+Baker           +95   P-7688
+Zhou           +653   P-9363
+
+Follow the debit belonging to the account that comes last alphabetically.

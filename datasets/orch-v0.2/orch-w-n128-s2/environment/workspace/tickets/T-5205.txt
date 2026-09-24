@@ -1,0 +1,72 @@
+Ticket T-5205
+Customer: Oskar Berg
+Orders on file: ORD-87247, ORD-63148, ORD-80874, ORD-42627
+Opened: 2026-04-11 via web form
+
+Order details:
+ORD-87247  placed 2026-03-16  status: returned  total: $99.05
+  payment method: card ending 6942  ship to: 947 Harbor St
+  - yoga mat x1
+  - merino socks, size M x2
+  - replacement filter cartridge, 3-pack x3
+  - extended warranty, 2 years x3
+ORD-63148  placed 2026-03-21  status: label created  total: $379.11
+  payment method: card ending 8093  ship to: 271 Harbor Ave
+  - trail running shoes x1
+  - stainless water bottle, 750ml x3
+  - gift wrap x3
+  - spare battery pack x2
+  - merino socks, size M x2
+ORD-80874  placed 2026-05-24  status: in transit  total: $381.32
+  payment method: card ending 4705  ship to: 831 Mill Lane
+  - camping stove x1
+  - merino socks, size M x2
+  - replacement filter cartridge, 3-pack x2
+  - extended warranty, 2 years x2
+  - carabiner set x1
+ORD-42627  placed 2026-08-09  status: delivered  total: $225.95
+  payment method: card ending 6238  ship to: 282 Cedar St
+  - desk lamp x1
+  - travel pouch x2
+  - microfiber cloth x3
+
+--- message 1 from Oskar Berg ---
+How do I reset my password? The reset link keeps expiring. The confirmation email for ORD-63148 went to my spam folder, so I only just saw it. I changed my shipping address last month, so please double-check you have the new one. Is there a way to combine loyalty points from ORD-87247 with my next purchase?
+
+Thanks,
+Oskar Berg
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Fatima (support) ---
+Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-87247. Loyalty points post about a week after an order is delivered. Let me know if anything else looks off.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Oskar Berg ---
+There are two identical debits on the card app and both reference ORD-80874. Could you also tell me whether ORD-63148 qualifies for the extended return window? I'm happy to send screenshots if that helps.
+
+Oskar Berg
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Fatima (support) ---
+For ORD-63148, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering. Our warehouse shows ORD-87247 left on schedule.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Oskar Berg ---
+Is there a way to combine loyalty points from ORD-63148 with my next purchase? The confirmation email for ORD-87247 went to my spam folder, so I only just saw it. Tracking for ORD-42627 hasn't updated since Tuesday. My earlier order ORD-42627 arrived fine, no complaints there.
+
+Thanks,
+Oskar Berg
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Fatima (support) ---
+If you need an invoice for ORD-87247, you can download it from the Orders page. I've updated your shipping address on file. I've resent the confirmation email for ORD-87247 to the address on file. Let me know if anything else looks off.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

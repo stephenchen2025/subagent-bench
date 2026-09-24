@@ -1,0 +1,12 @@
+Ledger page P-6013
+
+account      amount   see page
+Baker          +560   P-8307
+Nakamura       +833   P-4236
+Rahman         -575   P-2801
+Vance          +885   P-7098
+Xu             -601   P-6752
+Grant          +415   P-6824
+Castillo       -415   P-3821
+
+Follow the entry whose amount is closest to zero.

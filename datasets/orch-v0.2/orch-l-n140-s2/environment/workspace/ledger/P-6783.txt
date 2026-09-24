@@ -1,0 +1,10 @@
+Ledger page P-6783
+
+account      amount   see page
+Jensen         +506   P-1981
+Quinn          +733   P-4119
+Baker          -418   P-4842
+Xu             +603   P-9366
+Weber          +574   P-9423
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,10 @@
+Ledger page P-8942
+
+account      amount   see page
+Eriksen        -462   P-9836
+Vance          +608   P-7547
+Rahman          -16   P-6376
+Quinn          +874   P-6147
+Baker          -233   P-6762
+
+Follow the entry with the largest debit (the most negative amount).

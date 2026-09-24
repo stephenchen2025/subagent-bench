@@ -1,0 +1,10 @@
+Ledger page P-3539
+
+account      amount   see page
+Rahman         +741   P-9075
+Osei           +301   P-5207
+Silva           -22   P-2702
+Hughes          -48   P-5451
+Vance          +718   P-8241
+
+Follow the entry with the second-largest amount.

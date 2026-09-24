@@ -1,0 +1,11 @@
+Ledger page P-8123
+
+account      amount   see page
+Dunn           -189   P-5999
+Baker          +455   P-7669
+Grant          -689   P-5497
+Moreau         +620   P-6868
+Ibarra         -876   P-4722
+Umar           +675   P-2281
+
+Follow the entry whose amount is closest to zero.

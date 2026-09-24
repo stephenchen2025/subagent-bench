@@ -1,0 +1,56 @@
+Ticket T-9146
+Customer: Samir Patel
+Orders on file: ORD-58010, ORD-19263, ORD-41512, ORD-58144
+Opened: 2026-04-11 via chat transcript
+
+Order details:
+ORD-58010  placed 2026-01-20  status: label created  total: $320.38
+  payment method: card ending 4187  ship to: 223 Cedar St
+  - yoga mat x1
+  - stainless water bottle, 750ml x3
+  - spare battery pack x1
+  - replacement filter cartridge, 3-pack x3
+ORD-19263  placed 2026-07-20  status: label created  total: $79.45
+  payment method: card ending 9047  ship to: 685 Elm Lane
+  - blender x1
+  - replacement filter cartridge, 3-pack x1
+  - spare battery pack x2
+  - stainless water bottle, 750ml x2
+ORD-41512  placed 2026-01-17  status: delivered  total: $168.90
+  payment method: card ending 9697  ship to: 621 Elm Rd
+  - blender x1
+  - gift wrap x2
+  - USB-C charging cable (2m) x2
+ORD-58144  placed 2026-04-13  status: delivered  total: $39.04
+  payment method: card ending 8504  ship to: 554 Mill St
+  - noise-cancelling headphones x1
+  - spare battery pack x2
+  - merino socks, size M x3
+  - replacement filter cartridge, 3-pack x2
+
+--- message 1 from Samir Patel ---
+The mechanical keyboard from ORD-41512 arrived with a scratch on the side. Can I get a replacement? I tried the chat widget first but it kept disconnecting. The espresso grinder itself is great, for what it's worth. I've been a customer for a few years and usually everything goes smoothly.
+
+Samir Patel
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Fatima (support) ---
+I've resent the confirmation email for ORD-58010 to the address on file. For ORD-58144, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering. If you need an invoice for ORD-58144, you can download it from the Orders page.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Samir Patel ---
+I've been a customer for a few years and usually everything goes smoothly. Tracking for ORD-58144 hasn't updated since Tuesday. My earlier order ORD-58144 arrived fine, no complaints there. I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Samir Patel
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Fatima (support) ---
+Our warehouse shows ORD-41512 left on schedule. Tracking updates can lag by a day or two with this carrier. I've resent the confirmation email for ORD-58010 to the address on file. Thanks for reaching out, and sorry for the trouble.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

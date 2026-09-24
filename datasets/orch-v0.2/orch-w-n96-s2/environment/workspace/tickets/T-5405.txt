@@ -1,0 +1,91 @@
+Ticket T-5405
+Customer: Amara Nwosu
+Orders on file: ORD-16896, ORD-80152, ORD-94903, ORD-39301
+Opened: 2026-05-13 via chat transcript
+
+Order details:
+ORD-16896  placed 2026-01-23  status: label created  total: $229.95
+  payment method: card ending 1796  ship to: 632 Elm Lane
+  - carry-on suitcase x1
+  - merino socks, size M x3
+  - replacement filter cartridge, 3-pack x2
+ORD-80152  placed 2026-03-20  status: delivered  total: $28.02
+  payment method: card ending 2440  ship to: 534 Oak Rd
+  - trail running shoes x1
+  - stainless water bottle, 750ml x3
+  - microfiber cloth x2
+ORD-94903  placed 2026-02-02  status: in transit  total: $142.07
+  payment method: card ending 4409  ship to: 827 Oak Rd
+  - wool blanket x1
+  - gift wrap x2
+  - microfiber cloth x3
+ORD-39301  placed 2026-02-11  status: label created  total: $150.99
+  payment method: card ending 1413  ship to: 243 Elm Ave
+  - espresso grinder x1
+  - stainless water bottle, 750ml x3
+  - travel pouch x2
+
+--- message 1 from Amara Nwosu ---
+The standing desk from ORD-80152 arrived with a scratch on the side. Can I get a replacement? I tried the chat widget first but it kept disconnecting. I've been a customer for a few years and usually everything goes smoothly. Tracking for ORD-39301 hasn't updated since Tuesday.
+
+Best regards,
+Amara Nwosu
+
+--- message 2 from Dana (support) ---
+Let me know if anything else looks off. If you need an invoice for ORD-80152, you can download it from the Orders page. Thanks for reaching out, and sorry for the trouble. Loyalty points post about a week after an order is delivered.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Amara Nwosu ---
+There are two identical debits on my bank and both reference ORD-16896. The water filter pitcher itself is great, for what it's worth. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Amara Nwosu
+
+--- message 4 from Dana (support) ---
+I've resent the confirmation email for ORD-94903 to the address on file. If you need an invoice for ORD-80152, you can download it from the Orders page. Let me know if anything else looks off.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Dana (support) ---
+Our payment logs show a single capture for ORD-16896. The extra line you saw was an authorization that expired on its own -- no money was taken for it. For ORD-80152, the return window is 30 days from delivery. If you need an invoice for ORD-94903, you can download it from the Orders page.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Amara Nwosu ---
+I tried the chat widget first but it kept disconnecting. Is there a way to combine loyalty points from ORD-94903 with my next purchase? Your app logged me out twice while I was looking at this, which didn't help.
+
+Best regards,
+Amara Nwosu
+
+--- message 7 from Amara Nwosu ---
+Thanks, I see it now: one payment for ORD-16896, the other one disappeared. All good. Could you also tell me whether ORD-39301 qualifies for the extended return window? I'd rather not call; the hold times last time were very long.
+
+Amara Nwosu
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Dana (support) ---
+Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-39301 left on schedule. I've resent the confirmation email for ORD-80152 to the address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Amara Nwosu ---
+I'm happy to send screenshots if that helps. Could you also tell me whether ORD-39301 qualifies for the extended return window? The box for ORD-94903 was a bit crushed but the contents were fine. The cast iron skillet itself is great, for what it's worth.
+
+Best regards,
+Amara Nwosu
+
+--- message 10 from Dana (support) ---
+I've added a note to your account so the next agent has the context. Our warehouse shows ORD-39301 left on schedule. Screenshots aren't necessary, but thank you for offering. I've updated your shipping address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

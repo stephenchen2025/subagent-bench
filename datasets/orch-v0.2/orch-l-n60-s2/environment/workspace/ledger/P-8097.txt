@@ -1,0 +1,11 @@
+Ledger page P-8097
+
+account      amount   see page
+Silva          +364   P-9214
+Kowalski        -86   P-7370
+Umar           +330   P-4865
+Ibarra         -861   P-6512
+Baker          +695   P-2689
+Young          +303   P-7795
+
+Follow the entry with the largest credit.

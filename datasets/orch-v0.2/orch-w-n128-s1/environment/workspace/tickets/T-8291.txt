@@ -1,0 +1,71 @@
+Ticket T-8291
+Customer: Felix Wagner
+Orders on file: ORD-57943, ORD-95023, ORD-79460, ORD-47645
+Opened: 2026-03-11 via email
+
+Order details:
+ORD-57943  placed 2026-02-10  status: delivered  total: $458.66
+  payment method: card ending 1784  ship to: 970 Mill St
+  - water filter pitcher x1
+  - microfiber cloth x1
+  - extended warranty, 2 years x1
+  - spare battery pack x2
+  - travel pouch x1
+ORD-95023  placed 2026-06-26  status: delivered  total: $431.32
+  payment method: card ending 4701  ship to: 529 Harbor Ave
+  - cast iron skillet x1
+  - microfiber cloth x1
+  - merino socks, size M x1
+  - USB-C charging cable (2m) x2
+  - carabiner set x1
+ORD-79460  placed 2026-03-08  status: delivered  total: $437.59
+  payment method: card ending 1358  ship to: 901 Mill Lane
+  - water filter pitcher x1
+  - replacement filter cartridge, 3-pack x3
+  - carabiner set x3
+  - merino socks, size M x1
+  - gift wrap x1
+ORD-47645  placed 2026-08-20  status: delivered  total: $273.83
+  payment method: card ending 6085  ship to: 358 Cedar St
+  - yoga mat x1
+  - extended warranty, 2 years x1
+  - gift wrap x3
+
+--- message 1 from Felix Wagner ---
+Can I use a gift card on ORD-57943, or is it too late? I'm travelling next week, so email is the best way to reach me. The box for ORD-79460 was a bit crushed but the contents were fine. Could you also tell me whether ORD-79460 qualifies for the extended return window?
+
+Best regards,
+Felix Wagner
+
+--- message 2 from Luis (support) ---
+Loyalty points post about a week after an order is delivered. I've updated your shipping address on file. I've added a note to your account so the next agent has the context. If you need an invoice for ORD-79460, you can download it from the Orders page.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Felix Wagner ---
+Tracking for ORD-79460 hasn't updated since Tuesday. I changed my shipping address last month, so please double-check you have the new one. The confirmation email for ORD-95023 went to my spam folder, so I only just saw it. I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Felix Wagner
+
+--- message 4 from Luis (support) ---
+I've added a note to your account so the next agent has the context. I've updated your shipping address on file. Loyalty points post about a week after an order is delivered. If you need an invoice for ORD-57943, you can download it from the Orders page.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Felix Wagner ---
+The box for ORD-95023 was a bit crushed but the contents were fine. I'm happy to send screenshots if that helps. My earlier order ORD-79460 arrived fine, no complaints there. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Felix Wagner
+
+--- message 6 from Luis (support) ---
+Let me know if anything else looks off. If you need an invoice for ORD-57943, you can download it from the Orders page. For ORD-79460, the return window is 30 days from delivery. Thanks for reaching out, and sorry for the trouble.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

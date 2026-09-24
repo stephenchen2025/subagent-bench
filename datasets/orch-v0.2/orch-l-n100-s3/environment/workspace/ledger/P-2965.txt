@@ -1,0 +1,10 @@
+Ledger page P-2965
+
+account      amount   see page
+Lambert        +501   P-5429
+Nakamura       +731   P-2274
+Hughes         -792   P-1575
+Xu             +775   P-5298
+Baker          +481   P-5307
+
+Follow the credit belonging to the account that comes first alphabetically.

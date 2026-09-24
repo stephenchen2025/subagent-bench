@@ -1,0 +1,11 @@
+Ledger page P-9620
+
+account      amount   see page
+Park           +473   P-1685
+Silva          -183   P-5912
+Zhou           +106   P-9578
+Jensen         -756   P-7487
+Grant          +881   P-7378
+Baker          +702   P-6988
+
+Follow the credit belonging to the account that comes first alphabetically.

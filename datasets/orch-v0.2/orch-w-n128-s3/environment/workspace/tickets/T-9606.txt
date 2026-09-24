@@ -1,0 +1,99 @@
+Ticket T-9606
+Customer: Ines Duarte
+Orders on file: ORD-15619, ORD-17759, ORD-20439, ORD-67715
+Opened: 2026-04-21 via chat transcript
+
+Order details:
+ORD-15619  placed 2026-06-14  status: returned  total: $186.07
+  payment method: card ending 6483  ship to: 842 Oak Ave
+  - water filter pitcher x1
+  - spare battery pack x3
+  - merino socks, size M x2
+  - extended warranty, 2 years x2
+  - carabiner set x2
+ORD-17759  placed 2026-05-14  status: delivered  total: $247.33
+  payment method: card ending 1024  ship to: 431 Harbor Rd
+  - desk lamp x1
+  - travel pouch x3
+  - USB-C charging cable (2m) x2
+  - stainless water bottle, 750ml x3
+  - microfiber cloth x1
+ORD-20439  placed 2026-05-28  status: delivered  total: $265.85
+  payment method: card ending 6222  ship to: 977 Oak St
+  - trail running shoes x1
+  - spare battery pack x2
+  - replacement filter cartridge, 3-pack x2
+  - carabiner set x1
+ORD-67715  placed 2026-07-20  status: label created  total: $426.77
+  payment method: card ending 5315  ship to: 34 Oak Lane
+  - blender x1
+  - USB-C charging cable (2m) x2
+  - spare battery pack x2
+  - replacement filter cartridge, 3-pack x3
+
+--- message 1 from Ines Duarte ---
+I'd like to return the wool blanket from ORD-15619; it's the wrong size. My partner placed ORD-20439 on our shared account, in case that matters. I'd rather not call; the hold times last time were very long. I've been a customer for a few years and usually everything goes smoothly.
+
+Ines Duarte
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Marcus (support) ---
+If you need an invoice for ORD-20439, you can download it from the Orders page. Tracking updates can lag by a day or two with this carrier. Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ines Duarte ---
+Something looks off with ORD-17759: I see what might be a second payment. Tracking for ORD-15619 hasn't updated since Tuesday. My partner placed ORD-67715 on our shared account, in case that matters.
+
+Thanks,
+Ines Duarte
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Marcus (support) ---
+Let me know if anything else looks off. Loyalty points post about a week after an order is delivered. If you need an invoice for ORD-15619, you can download it from the Orders page.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Ines Duarte ---
+Update: the second line has now posted, it's no longer pending. So both payments for ORD-17759 actually went through. Tracking for ORD-67715 hasn't updated since Tuesday. The rain jacket itself is great, for what it's worth.
+
+Thanks,
+Ines Duarte
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Marcus (support) ---
+Screenshots aren't necessary, but thank you for offering. If you need an invoice for ORD-20439, you can download it from the Orders page. I can see all the orders on your account, including ORD-20439.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Marcus (support) ---
+You're right, and I'm sorry. Our records show ORD-17759 was settled two times. I've refunded the duplicate. Loyalty points post about a week after an order is delivered. For ORD-20439, the return window is 30 days from delivery.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Ines Duarte ---
+Your app logged me out twice while I was looking at this, which didn't help. I'm travelling next week, so email is the best way to reach me. I'd rather not call; the hold times last time were very long.
+
+Ines Duarte
+(Please reply by email rather than phone if possible.)
+
+--- message 9 from Ines Duarte ---
+Is there a way to combine loyalty points from ORD-67715 with my next purchase? I'm happy to send screenshots if that helps. My earlier order ORD-15619 arrived fine, no complaints there. I'd rather not call; the hold times last time were very long.
+
+Ines Duarte
+(Please reply by email rather than phone if possible.)
+
+--- message 10 from Marcus (support) ---
+Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-67715 left on schedule. I've added a note to your account so the next agent has the context.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

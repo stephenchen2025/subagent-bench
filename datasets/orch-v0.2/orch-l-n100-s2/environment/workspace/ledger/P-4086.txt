@@ -1,0 +1,10 @@
+Ledger page P-4086
+
+account      amount   see page
+Umar           +774   P-4086
+Hughes         +548   P-6194
+Kowalski       -762   P-1507
+Quinn          -192   P-5527
+Zhou           +899   P-3834
+
+Follow the entry with the second-largest amount.

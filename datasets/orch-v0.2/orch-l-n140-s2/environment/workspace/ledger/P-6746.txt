@@ -1,0 +1,11 @@
+Ledger page P-6746
+
+account      amount   see page
+Weber          +866   P-3721
+Quinn          -364   P-2044
+Vance            -3   P-9845
+Kowalski       -722   P-6824
+Nakamura        -56   P-1412
+Castillo       -705   P-4783
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,11 @@
+Ledger page P-3094
+
+account      amount   see page
+Jensen         -568   P-9719
+Weber           -54   P-7274
+Fofana         +869   P-2972
+Eriksen        +704   P-4027
+Silva          -143   P-3491
+Umar           +676   P-9894
+
+Follow the credit belonging to the account that comes first alphabetically.

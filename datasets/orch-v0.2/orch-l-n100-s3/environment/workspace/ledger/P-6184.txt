@@ -1,0 +1,10 @@
+Ledger page P-6184
+
+account      amount   see page
+Xu              -25   P-8326
+Lambert        +847   P-7198
+Hughes         +704   P-8931
+Silva          -884   P-8008
+Weber           +50   P-5429
+
+Follow the entry with the largest credit.

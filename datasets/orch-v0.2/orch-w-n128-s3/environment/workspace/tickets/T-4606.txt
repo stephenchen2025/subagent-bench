@@ -1,0 +1,57 @@
+Ticket T-4606
+Customer: Ben Carter
+Orders on file: ORD-96877, ORD-90898, ORD-48387, ORD-30813
+Opened: 2026-01-11 via chat transcript
+
+Order details:
+ORD-96877  placed 2026-05-13  status: delivered  total: $403.30
+  payment method: card ending 2548  ship to: 662 Mill Rd
+  - blender x1
+  - extended warranty, 2 years x2
+  - spare battery pack x3
+  - stainless water bottle, 750ml x2
+ORD-90898  placed 2026-06-24  status: returned  total: $435.82
+  payment method: card ending 1849  ship to: 973 Harbor Lane
+  - yoga mat x1
+  - merino socks, size M x1
+  - carabiner set x1
+ORD-48387  placed 2026-07-14  status: in transit  total: $63.83
+  payment method: card ending 4642  ship to: 626 Mill St
+  - water filter pitcher x1
+  - replacement filter cartridge, 3-pack x3
+  - spare battery pack x1
+  - carabiner set x2
+  - stainless water bottle, 750ml x3
+ORD-30813  placed 2026-07-02  status: label created  total: $257.82
+  payment method: card ending 6583  ship to: 437 Mill Rd
+  - espresso grinder x1
+  - merino socks, size M x3
+  - carabiner set x3
+  - extended warranty, 2 years x3
+
+--- message 1 from Ben Carter ---
+The desk lamp from ORD-90898 arrived with a scratch on the side. Can I get a replacement? I'm travelling next week, so email is the best way to reach me. My earlier order ORD-96877 arrived fine, no complaints there. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Ben Carter
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Arjun (support) ---
+If you need an invoice for ORD-96877, you can download it from the Orders page. Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-96877 left on schedule. I can see all the orders on your account, including ORD-30813.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ben Carter ---
+Your app logged me out twice while I was looking at this, which didn't help. My partner placed ORD-90898 on our shared account, in case that matters. Is there a way to combine loyalty points from ORD-30813 with my next purchase? I'm happy to send screenshots if that helps.
+
+Ben Carter
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Arjun (support) ---
+For ORD-96877, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context. Loyalty points post about a week after an order is delivered. Let me know if anything else looks off.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

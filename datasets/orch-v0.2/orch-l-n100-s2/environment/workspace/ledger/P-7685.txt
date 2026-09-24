@@ -1,0 +1,11 @@
+Ledger page P-7685
+
+account      amount   see page
+Fofana           -5   P-8300
+Abbott         +878   P-1195
+Moreau         +586   P-3301
+Umar           -855   P-2777
+Young           +23   P-4607
+Hughes         +168   P-9847
+
+Follow the entry with the second-largest amount.

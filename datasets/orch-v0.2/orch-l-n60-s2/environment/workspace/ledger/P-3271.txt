@@ -1,0 +1,11 @@
+Ledger page P-3271
+
+account      amount   see page
+Hughes         -595   P-4660
+Xu             +843   P-1126
+Park           -500   P-6885
+Weber          +188   P-9045
+Vance          +672   P-9647
+Grant          +392   P-4768
+
+Follow the entry with the largest credit.

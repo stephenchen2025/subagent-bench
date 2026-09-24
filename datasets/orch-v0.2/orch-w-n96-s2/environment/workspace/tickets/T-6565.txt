@@ -1,0 +1,75 @@
+Ticket T-6565
+Customer: Yuki Tanaka
+Orders on file: ORD-24263, ORD-63129, ORD-12944, ORD-20214
+Opened: 2026-06-18 via chat transcript
+
+Order details:
+ORD-24263  placed 2026-01-08  status: delivered  total: $60.22
+  payment method: card ending 5487  ship to: 365 Mill Ave
+  - water filter pitcher x1
+  - travel pouch x1
+  - extended warranty, 2 years x3
+ORD-63129  placed 2026-04-13  status: label created  total: $135.88
+  payment method: card ending 9578  ship to: 825 Mill Rd
+  - noise-cancelling headphones x1
+  - stainless water bottle, 750ml x2
+  - USB-C charging cable (2m) x2
+  - merino socks, size M x2
+ORD-12944  placed 2026-06-21  status: returned  total: $283.45
+  payment method: card ending 9191  ship to: 309 Oak St
+  - cast iron skillet x1
+  - stainless water bottle, 750ml x2
+  - microfiber cloth x1
+ORD-20214  placed 2026-03-09  status: label created  total: $427.12
+  payment method: card ending 6435  ship to: 589 Cedar Ave
+  - wool blanket x1
+  - carabiner set x1
+  - travel pouch x1
+  - USB-C charging cable (2m) x1
+
+--- message 1 from Yuki Tanaka ---
+I'd like to return the trail running shoes from ORD-12944; it's the wrong size. Your app logged me out twice while I was looking at this, which didn't help. I'm travelling next week, so email is the best way to reach me. My earlier order ORD-63129 arrived fine, no complaints there.
+
+Thanks,
+Yuki Tanaka
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Dana (support) ---
+Our warehouse shows ORD-12944 left on schedule. Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context. Loyalty points post about a week after an order is delivered.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Yuki Tanaka ---
+The payment for ORD-20214 went through, and then about an hour later it went through again. I changed my shipping address last month, so please double-check you have the new one. Could you also tell me whether ORD-12944 qualifies for the extended return window?
+
+Yuki Tanaka
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Dana (support) ---
+Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-24263. Let me know if anything else looks off.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Dana (support) ---
+Confirmed on our side -- ORD-20214 was captured twice by a retry in our checkout. One refund of $397.68 is on its way to you. For ORD-12944, the return window is 30 days from delivery. Our warehouse shows ORD-12944 left on schedule.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Yuki Tanaka ---
+Your app logged me out twice while I was looking at this, which didn't help. I tried the chat widget first but it kept disconnecting. I'm travelling next week, so email is the best way to reach me. I've been a customer for a few years and usually everything goes smoothly.
+
+Yuki Tanaka
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Dana (support) ---
+I've updated your shipping address on file. For ORD-24263, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering. Our warehouse shows ORD-12944 left on schedule.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

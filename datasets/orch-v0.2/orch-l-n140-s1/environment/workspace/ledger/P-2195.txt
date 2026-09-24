@@ -1,0 +1,12 @@
+Ledger page P-2195
+
+account      amount   see page
+Young            +4   P-2278
+Jensen         +656   P-5815
+Eriksen        +604   P-2333
+Nakamura       +622   P-7354
+Silva          +275   P-7338
+Moreau         -805   P-8198
+Umar           +217   P-7835
+
+Follow the entry with the largest credit.

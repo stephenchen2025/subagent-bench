@@ -1,0 +1,11 @@
+Ledger page P-8008
+
+account      amount   see page
+Umar           -757   P-6576
+Vance          -111   P-8009
+Zhou            -54   P-6266
+Quinn          +348   P-2409
+Lambert        -112   P-6557
+Eriksen        +105   P-8976
+
+Follow the credit belonging to the account that comes first alphabetically.

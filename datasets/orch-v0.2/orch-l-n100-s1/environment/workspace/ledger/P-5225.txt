@@ -1,0 +1,11 @@
+Ledger page P-5225
+
+account      amount   see page
+Tanaka         -310   P-3491
+Grant          +593   P-5850
+Jensen         -304   P-5820
+Weber          +704   P-2116
+Young          -690   P-4094
+Quinn           +65   P-9109
+
+Follow the credit belonging to the account that comes first alphabetically.

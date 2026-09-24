@@ -1,0 +1,56 @@
+Ticket T-4079
+Customer: Ben Carter
+Orders on file: ORD-64447, ORD-96335, ORD-99357, ORD-41656
+Opened: 2026-01-25 via chat transcript
+
+Order details:
+ORD-64447  placed 2026-05-08  status: returned  total: $291.70
+  payment method: card ending 1508  ship to: 843 Harbor Lane
+  - trail running shoes x1
+  - spare battery pack x2
+  - microfiber cloth x2
+  - USB-C charging cable (2m) x1
+ORD-96335  placed 2026-01-25  status: in transit  total: $106.95
+  payment method: card ending 2355  ship to: 617 Elm Ave
+  - blender x1
+  - USB-C charging cable (2m) x2
+  - spare battery pack x3
+ORD-99357  placed 2026-02-27  status: delivered  total: $165.89
+  payment method: card ending 7531  ship to: 689 Oak Lane
+  - standing desk x1
+  - replacement filter cartridge, 3-pack x1
+  - travel pouch x3
+  - microfiber cloth x2
+  - USB-C charging cable (2m) x3
+ORD-41656  placed 2026-04-18  status: delivered  total: $37.39
+  payment method: card ending 9151  ship to: 772 Oak Lane
+  - carry-on suitcase x1
+  - merino socks, size M x2
+  - spare battery pack x2
+
+--- message 1 from Ben Carter ---
+How do I reset my password? The reset link keeps expiring. I've been a customer for a few years and usually everything goes smoothly. My partner placed ORD-41656 on our shared account, in case that matters. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Ben Carter
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Fatima (support) ---
+I can see all the orders on your account, including ORD-96335. I've updated your shipping address on file. Screenshots aren't necessary, but thank you for offering. Our warehouse shows ORD-99357 left on schedule.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ben Carter ---
+I'd rather not call; the hold times last time were very long. My partner placed ORD-41656 on our shared account, in case that matters. The box for ORD-41656 was a bit crushed but the contents were fine. I'm happy to send screenshots if that helps.
+
+Best regards,
+Ben Carter
+
+--- message 4 from Fatima (support) ---
+Let me know if anything else looks off. I can see all the orders on your account, including ORD-99357. Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,10 @@
+Ledger page P-1317
+
+account      amount   see page
+Nakamura       -261   P-1557
+Young          +632   P-9689
+Grant          +397   P-7811
+Vance          -197   P-7967
+Moreau         -875   P-3270
+
+Follow the debit belonging to the account that comes last alphabetically.

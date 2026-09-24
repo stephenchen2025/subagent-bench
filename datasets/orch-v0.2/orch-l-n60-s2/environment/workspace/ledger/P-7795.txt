@@ -1,0 +1,11 @@
+Ledger page P-7795
+
+account      amount   see page
+Quinn           +38   P-2643
+Osei           -126   P-7339
+Umar            +14   P-3340
+Fofana         -239   P-5616
+Hughes         +132   P-1749
+Grant          +371   P-7391
+
+Follow the debit belonging to the account that comes last alphabetically.

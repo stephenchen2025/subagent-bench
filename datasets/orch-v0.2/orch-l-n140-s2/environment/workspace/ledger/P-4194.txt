@@ -1,0 +1,12 @@
+Ledger page P-4194
+
+account      amount   see page
+Fofana         +167   P-5868
+Rahman         -527   P-8382
+Weber          +296   P-6577
+Quinn          +254   P-7294
+Hughes         +890   P-5824
+Vance          -460   P-8454
+Park            +32   P-1649
+
+Follow the entry with the largest debit (the most negative amount).

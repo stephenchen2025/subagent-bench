@@ -1,0 +1,12 @@
+Ledger page P-3683
+
+account      amount   see page
+Fofana         +676   P-2366
+Hughes         +576   P-5116
+Baker          +101   P-1634
+Quinn          -426   P-6871
+Young          +762   P-4261
+Eriksen        +126   P-6595
+Lambert        -173   P-1461
+
+Follow the entry with the second-largest amount.

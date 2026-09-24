@@ -1,0 +1,81 @@
+Ticket T-5412
+Customer: Hana Sato
+Orders on file: ORD-85223, ORD-83804, ORD-15404, ORD-68189
+Opened: 2026-05-28 via chat transcript
+
+Order details:
+ORD-85223  placed 2026-01-23  status: in transit  total: $411.70
+  payment method: card ending 1828  ship to: 215 Mill St
+  - trail running shoes x1
+  - spare battery pack x1
+  - extended warranty, 2 years x3
+  - travel pouch x1
+ORD-83804  placed 2026-03-10  status: delivered  total: $304.97
+  payment method: card ending 3573  ship to: 506 Mill Ave
+  - standing desk x1
+  - gift wrap x2
+  - travel pouch x3
+  - merino socks, size M x3
+  - stainless water bottle, 750ml x2
+ORD-15404  placed 2026-08-27  status: returned  total: $275.36
+  payment method: card ending 3894  ship to: 801 Harbor Ave
+  - wool blanket x1
+  - USB-C charging cable (2m) x1
+  - stainless water bottle, 750ml x2
+ORD-68189  placed 2026-06-04  status: label created  total: $239.23
+  payment method: card ending 9131  ship to: 367 Cedar Lane
+  - wool blanket x1
+  - merino socks, size M x3
+  - replacement filter cartridge, 3-pack x1
+
+--- message 1 from Hana Sato ---
+Where is my refund for ORD-85223? You said 5 days and it has been 8. I'm travelling next week, so email is the best way to reach me. Tracking for ORD-68189 hasn't updated since Tuesday. I'm happy to send screenshots if that helps.
+
+Hana Sato
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Arjun (support) ---
+Let me know if anything else looks off. Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-68189 left on schedule. I've resent the confirmation email for ORD-15404 to the address on file.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Hana Sato ---
+I see two charges on my online banking this week, one for ORD-83804 and one for ORD-68189. Both are correct -- I ordered twice on purpose -- but could you send me the invoices for my expense report? I'm happy to send screenshots if that helps. My partner placed ORD-85223 on our shared account, in case that matters.
+
+Best regards,
+Hana Sato
+
+--- message 4 from Arjun (support) ---
+Thanks for reaching out, and sorry for the trouble. For ORD-68189, the return window is 30 days from delivery. I've updated your shipping address on file.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Hana Sato ---
+Tracking for ORD-15404 hasn't updated since Tuesday. Could you also tell me whether ORD-15404 qualifies for the extended return window? Is there a way to combine loyalty points from ORD-68189 with my next purchase? The box for ORD-68189 was a bit crushed but the contents were fine.
+
+Best regards,
+Hana Sato
+
+--- message 6 from Arjun (support) ---
+For ORD-15404, the return window is 30 days from delivery. Let me know if anything else looks off. I've resent the confirmation email for ORD-85223 to the address on file. Screenshots aren't necessary, but thank you for offering.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Hana Sato ---
+The desk lamp itself is great, for what it's worth. I tried the chat widget first but it kept disconnecting. I'm travelling next week, so email is the best way to reach me. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Hana Sato
+
+--- message 8 from Arjun (support) ---
+If you need an invoice for ORD-15404, you can download it from the Orders page. Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-85223 left on schedule.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

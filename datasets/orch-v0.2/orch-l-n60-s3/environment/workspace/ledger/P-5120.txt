@@ -1,0 +1,12 @@
+Ledger page P-5120
+
+account      amount   see page
+Quinn           -92   P-8484
+Jensen         +174   P-8020
+Moreau         -442   P-9544
+Park           -155   P-8484
+Lambert        +636   P-3022
+Fofana         -283   P-1648
+Young          -578   P-3510
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,10 @@
+Ledger page P-9788
+
+account      amount   see page
+Vance          +121   P-2191
+Eriksen        +128   P-1655
+Osei           -764   P-3635
+Rahman         -409   P-1864
+Tanaka         +208   P-3342
+
+Follow the entry with the second-largest amount.

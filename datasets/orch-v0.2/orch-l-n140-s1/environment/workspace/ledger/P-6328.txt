@@ -1,0 +1,11 @@
+Ledger page P-6328
+
+account      amount   see page
+Abbott         -182   P-2708
+Tanaka         +832   P-2363
+Lambert        -228   P-5383
+Rahman         +733   P-9282
+Baker          +164   P-8727
+Umar           -420   P-5985
+
+Follow the entry with the second-largest amount.

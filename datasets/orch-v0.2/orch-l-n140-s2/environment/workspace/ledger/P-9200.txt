@@ -1,0 +1,11 @@
+Ledger page P-9200
+
+account      amount   see page
+Park           -726   P-5162
+Moreau         +596   P-8981
+Quinn          +805   P-1635
+Osei           -862   P-4479
+Silva          -331   P-4944
+Fofana         +449   P-5987
+
+Follow the entry whose amount is closest to zero.

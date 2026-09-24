@@ -17,44 +17,48 @@ compute-matched control (**solo-xl**) separates "subagents helped" from
 "subagents spent more tokens". Tasks where delegating does *not* pay carry an
 over-delegation **tax**, so "always fan out" does not win.
 
+Every task is **long-horizon** (60–160 steps even for a perfect scripted agent)
+and splits into **explicit units**, except the one control that deliberately
+doesn't:
+
 | Family | Delegate? | What it tests |
 |---|---|---|
-| **W** wide sweep | yes, at scale | N support tickets to read; grep narrows but cannot finish. Hits the **context** wall. |
-| **P** parallel probes | yes, at scale | K services, three dependent diagnostic hops each. Hits the **step** wall; parallel workers also cut wall-clock. |
-| **C** coupled change | no | Add a field across modules. The record format is unspecified, so isolated workers each pick one and the integration test fails. |
-| **S** small fix | no | One bug, one file. Delegating only adds cost. |
+| **W** wide sweep | yes | 60–128 support tickets to read; grep narrows but cannot finish. Solo hits the **context** wall at every size. |
+| **P** parallel probes | yes | 15–38 services, three dependent diagnostic hops each. Solo hits the wall from K=25. |
+| **C** coupled views | yes, *behind a contract* | 20–40 views, each with its own spec, all reading one job record whose format the instruction leaves open. Delegating works only if the lead fixes the format and puts it in every brief. |
+| **L** ledger chain | no | 60–140 strictly sequential hops. Long, but nothing to parallelise. |
 
 Every task is a Harbor task with a stdlib-only verifier and an oracle solution.
 The ground truth lives only in `tests/`, which Harbor uploads after the agent
 finishes.
 
 ```bash
-make orch-generate                        # regenerate datasets/orch-v0.1 (27 tasks, 3 seeds; checked in)
+make orch-generate                        # regenerate datasets/orch-v0.2 (36 tasks, 3 seeds; checked in)
 make orch-validate                        # Harbor oracle agent: every task must score 1.0 (Docker)
 make orch-rehearse                        # scripted policies through the real harness (no key)
 
 # reference harness (mini-swe-agent + a `subagent` command), one job per condition
-harbor run -p datasets/orch-v0.1 -a orch.harbor_agent:OrchMiniAgent \
-    -m anthropic/claude-sonnet-5 --ak mode=solo -o jobs/sonnet-solo
-harbor run -p datasets/orch-v0.1 -a orch.harbor_agent:OrchMiniAgent \
-    -m anthropic/claude-sonnet-5 --ak mode=delegate -o jobs/sonnet-delegate
+harbor run -p datasets/orch-v0.2 -a orch.harbor_agent:OrchMiniAgent \
+    -m anthropic/claude-haiku-4-5-20251001 --ak mode=solo -o jobs/haiku-solo
+harbor run -p datasets/orch-v0.2 -a orch.harbor_agent:OrchMiniAgent \
+    -m anthropic/claude-haiku-4-5-20251001 --ak mode=delegate -o jobs/haiku-delegate
 #   ... and --ak mode=solo-xl, --ak mode=oracle-split
 
 # system track: any Harbor agent, e.g. Claude Code with and without its Agent tool
-harbor run -p datasets/orch-v0.1 -a claude-code -m anthropic/claude-sonnet-5 \
+harbor run -p datasets/orch-v0.2 -a claude-code -m anthropic/claude-haiku-4-5-20251001 \
     --ak disallowed_tools=Agent,Task -o jobs/cc-solo
-harbor run -p datasets/orch-v0.1 -a claude-code -m anthropic/claude-sonnet-5 -o jobs/cc-delegate
+harbor run -p datasets/orch-v0.2 -a claude-code -m anthropic/claude-haiku-4-5-20251001 -o jobs/cc-delegate
 
-python tools/orch_collect.py jobs/sonnet-solo jobs/sonnet-delegate   # -> build/orch-report/report.md
+python tools/orch_collect.py jobs/haiku-solo jobs/haiku-delegate   # -> build/orch-report/report.md
 ```
 
 `orch_collect` reads the reference harness's telemetry directly, and
 reconstructs it for any other scaffold from Harbor's ATIF trajectory. It
 detects system and condition from the job config; force them with
 `JOBDIR=system:condition`. For a first live look without Docker, `make orch-run
-MODELS=anthropic/claude-sonnet-5` runs the same conditions on local temp copies.
+MODELS=anthropic/claude-haiku-4-5-20251001` runs the same conditions on local temp copies.
 
-Status: the task set is checked in at `datasets/orch-v0.1`, and rehearsal and
+Status: the task set is checked in at `datasets/orch-v0.2`, and rehearsal and
 validation results are in [`results/`](results/). Everything above is verified against harbor 0.23.0 in Docker with no
 API key. The Harbor oracle scores 1.0 on every task, and the reference harness
 runs parallel workers in real containers under scripted policies. **No real

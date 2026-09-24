@@ -1,0 +1,10 @@
+Ledger page P-6207
+
+account      amount   see page
+Vance          +534   P-8680
+Xu             -375   P-9837
+Eriksen        -619   P-4432
+Quinn          -654   P-1525
+Castillo       +279   P-8683
+
+Follow the credit belonging to the account that comes first alphabetically.

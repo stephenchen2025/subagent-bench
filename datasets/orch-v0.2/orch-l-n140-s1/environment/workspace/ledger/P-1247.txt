@@ -1,0 +1,10 @@
+Ledger page P-1247
+
+account      amount   see page
+Umar           -647   P-7569
+Weber           -19   P-8772
+Baker          -618   P-9584
+Xu              -39   P-8479
+Vance          +266   P-4863
+
+Follow the debit belonging to the account that comes last alphabetically.

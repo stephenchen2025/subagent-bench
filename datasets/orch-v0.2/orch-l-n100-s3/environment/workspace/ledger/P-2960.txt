@@ -1,0 +1,11 @@
+Ledger page P-2960
+
+account      amount   see page
+Jensen         -202   P-4619
+Grant          +807   P-2010
+Osei           +854   P-9726
+Ibarra         +306   P-5429
+Hughes         -326   P-9689
+Lambert        -267   P-3252
+
+Follow the credit belonging to the account that comes first alphabetically.

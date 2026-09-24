@@ -1,0 +1,12 @@
+Ledger page P-3081
+
+account      amount   see page
+Castillo       -181   P-8509
+Ibarra         +334   P-1061
+Osei           +857   P-8818
+Grant          +273   P-6726
+Park           +205   P-3785
+Rahman         +811   P-5820
+Quinn          +639   P-8908
+
+Follow the entry whose amount is closest to zero.

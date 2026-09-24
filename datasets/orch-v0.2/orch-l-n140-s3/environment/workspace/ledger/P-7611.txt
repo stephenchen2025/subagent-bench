@@ -1,0 +1,10 @@
+Ledger page P-7611
+
+account      amount   see page
+Vance          +295   P-5633
+Fofana         +118   P-6297
+Nakamura       -287   P-1693
+Grant          +863   P-5633
+Eriksen        -504   P-5159
+
+Follow the debit belonging to the account that comes last alphabetically.

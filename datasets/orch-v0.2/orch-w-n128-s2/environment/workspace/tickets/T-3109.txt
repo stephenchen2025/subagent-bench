@@ -1,0 +1,83 @@
+Ticket T-3109
+Customer: Mateo Silva
+Orders on file: ORD-94644, ORD-99564, ORD-50075, ORD-28768
+Opened: 2026-06-12 via chat transcript
+
+Order details:
+ORD-94644  placed 2026-05-22  status: delivered  total: $202.65
+  payment method: card ending 6536  ship to: 917 Mill St
+  - camping stove x1
+  - extended warranty, 2 years x1
+  - merino socks, size M x1
+ORD-99564  placed 2026-05-11  status: delivered  total: $382.56
+  payment method: card ending 1415  ship to: 543 Cedar St
+  - water filter pitcher x1
+  - microfiber cloth x2
+  - USB-C charging cable (2m) x1
+  - merino socks, size M x2
+  - gift wrap x1
+ORD-50075  placed 2026-01-27  status: delivered  total: $108.63
+  payment method: card ending 9598  ship to: 878 Elm Lane
+  - rain jacket x1
+  - travel pouch x1
+  - merino socks, size M x1
+ORD-28768  placed 2026-07-05  status: delivered  total: $230.27
+  payment method: card ending 3919  ship to: 750 Oak Ave
+  - standing desk x1
+  - spare battery pack x3
+  - stainless water bottle, 750ml x1
+  - USB-C charging cable (2m) x1
+  - carabiner set x2
+
+--- message 1 from Mateo Silva ---
+Where is my refund for ORD-50075? You said 5 days and it has been 8. I'm happy to send screenshots if that helps. I tried the chat widget first but it kept disconnecting. The carry-on suitcase itself is great, for what it's worth.
+
+Best regards,
+Mateo Silva
+
+--- message 2 from Dana (support) ---
+Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context. Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Mateo Silva ---
+Yes, there were two payments, but they're for two different orders (ORD-94644 and ORD-28768), so that's fine. I just need a receipt for each. Your app logged me out twice while I was looking at this, which didn't help. I'm travelling next week, so email is the best way to reach me.
+
+Mateo Silva
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Dana (support) ---
+If you need an invoice for ORD-50075, you can download it from the Orders page. I can see all the orders on your account, including ORD-50075. Screenshots aren't necessary, but thank you for offering.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Mateo Silva ---
+I tried the chat widget first but it kept disconnecting. My earlier order ORD-50075 arrived fine, no complaints there. I've been a customer for a few years and usually everything goes smoothly. The confirmation email for ORD-28768 went to my spam folder, so I only just saw it.
+
+Mateo Silva
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Dana (support) ---
+If you need an invoice for ORD-99564, you can download it from the Orders page. I can see all the orders on your account, including ORD-50075. For ORD-99564, the return window is 30 days from delivery. Let me know if anything else looks off.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Mateo Silva ---
+The box for ORD-50075 was a bit crushed but the contents were fine. The confirmation email for ORD-99564 went to my spam folder, so I only just saw it. I'm happy to send screenshots if that helps. Is there a way to combine loyalty points from ORD-50075 with my next purchase?
+
+Thanks,
+Mateo Silva
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Dana (support) ---
+I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier. I've resent the confirmation email for ORD-50075 to the address on file. Thanks for reaching out, and sorry for the trouble.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

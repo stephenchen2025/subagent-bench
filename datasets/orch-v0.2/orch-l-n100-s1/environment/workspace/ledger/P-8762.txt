@@ -1,0 +1,10 @@
+Ledger page P-8762
+
+account      amount   see page
+Castillo        -84   P-3307
+Ibarra         -163   P-4153
+Dunn           -173   P-9713
+Jensen         -799   P-3452
+Moreau         +176   P-5874
+
+Follow the entry with the largest credit.

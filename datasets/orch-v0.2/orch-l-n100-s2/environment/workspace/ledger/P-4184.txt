@@ -1,0 +1,12 @@
+Ledger page P-4184
+
+account      amount   see page
+Castillo       +422   P-4623
+Park            -53   P-4623
+Young          +650   P-3994
+Vance          -684   P-2413
+Hughes         +721   P-7900
+Kowalski       +264   P-7036
+Eriksen        +281   P-6032
+
+Follow the entry whose amount is closest to zero.

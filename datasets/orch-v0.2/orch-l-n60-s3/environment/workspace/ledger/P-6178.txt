@@ -1,0 +1,12 @@
+Ledger page P-6178
+
+account      amount   see page
+Rahman         -369   P-9761
+Moreau          -81   P-1729
+Dunn           +278   P-7196
+Umar           -619   P-3510
+Kowalski       +833   P-8627
+Abbott          -45   P-1773
+Baker          +309   P-6328
+
+Follow the credit belonging to the account that comes first alphabetically.

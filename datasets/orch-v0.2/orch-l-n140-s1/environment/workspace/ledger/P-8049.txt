@@ -1,0 +1,10 @@
+Ledger page P-8049
+
+account      amount   see page
+Umar           -733   P-1536
+Lambert        -826   P-4455
+Silva          +291   P-3690
+Fofana         -502   P-1856
+Rahman         +640   P-3054
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,11 @@
+Ledger page P-4413
+
+account      amount   see page
+Jensen         +810   P-6391
+Rahman         +512   P-3175
+Abbott         -732   P-6874
+Lambert        +330   P-1092
+Osei           -354   P-2363
+Dunn           -417   P-9620
+
+Follow the entry with the largest credit.

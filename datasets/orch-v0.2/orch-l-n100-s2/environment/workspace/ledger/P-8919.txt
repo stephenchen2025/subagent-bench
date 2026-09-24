@@ -1,0 +1,11 @@
+Ledger page P-8919
+
+account      amount   see page
+Park           -850   P-5076
+Abbott         +632   P-4704
+Baker          +695   P-9956
+Weber          +415   P-5179
+Silva          +674   P-4607
+Dunn           +105   P-2286
+
+Follow the credit belonging to the account that comes first alphabetically.

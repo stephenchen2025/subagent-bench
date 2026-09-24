@@ -1,0 +1,11 @@
+Ledger page P-7984
+
+account      amount   see page
+Quinn          -806   P-3095
+Rahman         -878   P-8264
+Umar           +672   P-9199
+Osei           -485   P-7912
+Hughes          +44   P-9793
+Zhou           +827   P-1713
+
+Follow the debit belonging to the account that comes last alphabetically.

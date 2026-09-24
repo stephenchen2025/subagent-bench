@@ -1,0 +1,70 @@
+Ticket T-5624
+Customer: Avery Lin
+Orders on file: ORD-87830, ORD-94518, ORD-32516, ORD-90561
+Opened: 2026-06-09 via email
+
+Order details:
+ORD-87830  placed 2026-04-21  status: delivered  total: $93.47
+  payment method: card ending 4095  ship to: 741 Mill Ave
+  - wool blanket x1
+  - gift wrap x1
+  - microfiber cloth x2
+  - carabiner set x3
+ORD-94518  placed 2026-03-16  status: delivered  total: $51.44
+  payment method: card ending 3947  ship to: 689 Oak Ave
+  - water filter pitcher x1
+  - travel pouch x3
+  - spare battery pack x2
+ORD-32516  placed 2026-01-18  status: delivered  total: $478.90
+  payment method: card ending 5412  ship to: 25 Cedar Ave
+  - camping stove x1
+  - merino socks, size M x2
+  - extended warranty, 2 years x1
+ORD-90561  placed 2026-04-25  status: returned  total: $159.84
+  payment method: card ending 7438  ship to: 574 Elm Lane
+  - rain jacket x1
+  - gift wrap x1
+  - extended warranty, 2 years x1
+  - merino socks, size M x1
+  - travel pouch x3
+
+--- message 1 from Avery Lin ---
+Where is my refund for ORD-90561? You said 5 days and it has been 8. Could you also tell me whether ORD-32516 qualifies for the extended return window? My partner placed ORD-32516 on our shared account, in case that matters. I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Avery Lin
+
+--- message 2 from Rosa (support) ---
+Let me know if anything else looks off. I've resent the confirmation email for ORD-90561 to the address on file. Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-90561 left on schedule.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Avery Lin ---
+Could you also tell me whether ORD-90561 qualifies for the extended return window? Is there a way to combine loyalty points from ORD-32516 with my next purchase? Tracking for ORD-87830 hasn't updated since Tuesday. I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Avery Lin
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Rosa (support) ---
+Screenshots aren't necessary, but thank you for offering. Let me know if anything else looks off. I've updated your shipping address on file. I've added a note to your account so the next agent has the context.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Avery Lin ---
+I tried the chat widget first but it kept disconnecting. My earlier order ORD-32516 arrived fine, no complaints there. The confirmation email for ORD-87830 went to my spam folder, so I only just saw it. I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Avery Lin
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Rosa (support) ---
+Let me know if anything else looks off. I can see all the orders on your account, including ORD-90561. Tracking updates can lag by a day or two with this carrier. If you need an invoice for ORD-32516, you can download it from the Orders page.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

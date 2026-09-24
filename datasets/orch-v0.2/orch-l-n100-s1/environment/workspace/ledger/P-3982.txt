@@ -1,0 +1,11 @@
+Ledger page P-3982
+
+account      amount   see page
+Hughes         -800   P-5259
+Castillo       +166   P-1967
+Young          -658   P-4873
+Baker          +204   P-5817
+Tanaka         -639   P-8753
+Kowalski       -353   P-6184
+
+Follow the entry whose amount is closest to zero.

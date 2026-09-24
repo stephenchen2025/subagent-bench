@@ -1,0 +1,12 @@
+Ledger page P-3230
+
+account      amount   see page
+Hughes          +45   P-6783
+Baker          +463   P-1234
+Tanaka          +69   P-9865
+Ibarra          +58   P-8300
+Rahman         +382   P-9193
+Vance          -141   P-3041
+Osei           -602   P-1648
+
+Follow the credit belonging to the account that comes first alphabetically.

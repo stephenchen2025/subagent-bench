@@ -1,0 +1,59 @@
+Ticket T-8690
+Customer: Chloe Martin
+Orders on file: ORD-46212, ORD-64395, ORD-99733, ORD-66568
+Opened: 2026-01-15 via web form
+
+Order details:
+ORD-46212  placed 2026-08-22  status: delivered  total: $238.87
+  payment method: card ending 1687  ship to: 276 Harbor Lane
+  - standing desk x1
+  - spare battery pack x1
+  - gift wrap x1
+  - replacement filter cartridge, 3-pack x2
+  - extended warranty, 2 years x3
+ORD-64395  placed 2026-08-25  status: delivered  total: $467.49
+  payment method: card ending 6698  ship to: 273 Cedar Ave
+  - desk lamp x1
+  - USB-C charging cable (2m) x1
+  - stainless water bottle, 750ml x1
+  - merino socks, size M x1
+ORD-99733  placed 2026-02-21  status: in transit  total: $163.90
+  payment method: card ending 9553  ship to: 997 Harbor Lane
+  - trail running shoes x1
+  - USB-C charging cable (2m) x3
+  - carabiner set x1
+  - merino socks, size M x1
+  - extended warranty, 2 years x2
+ORD-66568  placed 2026-05-13  status: returned  total: $135.53
+  payment method: card ending 1643  ship to: 108 Mill Ave
+  - camping stove x1
+  - carabiner set x1
+  - replacement filter cartridge, 3-pack x2
+  - stainless water bottle, 750ml x1
+  - microfiber cloth x3
+
+--- message 1 from Chloe Martin ---
+Where is my refund for ORD-46212? You said 5 days and it has been 8. My partner placed ORD-66568 on our shared account, in case that matters. Tracking for ORD-64395 hasn't updated since Tuesday. The desk lamp itself is great, for what it's worth.
+
+Chloe Martin
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Pete (support) ---
+Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off. I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-64395 to the address on file.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Chloe Martin ---
+My earlier order ORD-66568 arrived fine, no complaints there. My partner placed ORD-64395 on our shared account, in case that matters. The noise-cancelling headphones itself is great, for what it's worth. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Chloe Martin
+
+--- message 4 from Pete (support) ---
+Screenshots aren't necessary, but thank you for offering. For ORD-64395, the return window is 30 days from delivery. Our warehouse shows ORD-46212 left on schedule. Tracking updates can lag by a day or two with this carrier.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

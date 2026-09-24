@@ -1,0 +1,11 @@
+Ledger page P-4178
+
+account      amount   see page
+Lambert        +543   P-2793
+Xu             +314   P-5170
+Tanaka         +455   P-8160
+Zhou           -475   P-1675
+Vance          +652   P-5116
+Eriksen        +120   P-9154
+
+Follow the entry with the largest debit (the most negative amount).

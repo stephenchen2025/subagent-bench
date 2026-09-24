@@ -1,0 +1,11 @@
+Ledger page P-8124
+
+account      amount   see page
+Young          -364   P-9084
+Vance          +571   P-3216
+Fofana         -735   P-3353
+Silva          -298   P-9765
+Jensen         -285   P-8919
+Xu             -642   P-4173
+
+Follow the entry whose amount is closest to zero.

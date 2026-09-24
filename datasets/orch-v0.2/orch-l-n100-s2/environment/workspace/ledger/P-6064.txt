@@ -1,0 +1,12 @@
+Ledger page P-6064
+
+account      amount   see page
+Ibarra         -358   P-9487
+Kowalski        -28   P-5073
+Umar            -43   P-6470
+Grant           +36   P-7216
+Lambert        +596   P-6243
+Nakamura       +145   P-3005
+Moreau         +855   P-4334
+
+Follow the entry with the largest credit.

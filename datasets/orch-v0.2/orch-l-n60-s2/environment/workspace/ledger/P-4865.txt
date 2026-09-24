@@ -1,0 +1,12 @@
+Ledger page P-4865
+
+account      amount   see page
+Tanaka         +638   P-5220
+Quinn          -247   P-4898
+Lambert        +122   P-2643
+Park           +675   P-4942
+Jensen         +176   P-7424
+Weber          +174   P-8755
+Nakamura       +871   P-8094
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,62 @@
+Ticket T-1597
+Customer: Yuki Tanaka
+Orders on file: ORD-88636, ORD-14278, ORD-50172, ORD-28425
+Opened: 2026-01-22 via chat transcript
+
+Order details:
+ORD-88636  placed 2026-01-04  status: label created  total: $51.47
+  payment method: card ending 2903  ship to: 187 Cedar Ave
+  - blender x1
+  - gift wrap x1
+  - extended warranty, 2 years x3
+ORD-14278  placed 2026-01-22  status: returned  total: $427.04
+  payment method: card ending 4458  ship to: 381 Cedar Ave
+  - rain jacket x1
+  - USB-C charging cable (2m) x1
+  - microfiber cloth x1
+  - gift wrap x2
+ORD-50172  placed 2026-05-07  status: in transit  total: $127.20
+  payment method: card ending 9817  ship to: 990 Cedar Rd
+  - cast iron skillet x1
+  - travel pouch x2
+  - merino socks, size M x3
+  - USB-C charging cable (2m) x1
+ORD-28425  placed 2026-05-18  status: delivered  total: $132.37
+  payment method: card ending 7952  ship to: 543 Mill Rd
+  - standing desk x1
+  - replacement filter cartridge, 3-pack x1
+  - spare battery pack x2
+  - microfiber cloth x2
+
+--- message 1 from Yuki Tanaka ---
+The noise-cancelling headphones from ORD-28425 arrived with a scratch on the side. Can I get a replacement? Is there a way to combine loyalty points from ORD-50172 with my next purchase? Your app logged me out twice while I was looking at this, which didn't help. I'd rather not call; the hold times last time were very long.
+
+Yuki Tanaka
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Rosa (support) ---
+I can see all the orders on your account, including ORD-50172. Tracking updates can lag by a day or two with this carrier. I've resent the confirmation email for ORD-50172 to the address on file. I've updated your shipping address on file.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Yuki Tanaka ---
+Unrelated, but my online banking double-charged me at a coffee shop last week, so I'm checking every line carefully now. Anyway, my actual question is about delivery for ORD-88636. I'm travelling next week, so email is the best way to reach me. Is there a way to combine loyalty points from ORD-14278 with my next purchase?
+
+Thanks,
+Yuki Tanaka
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Yuki Tanaka ---
+The confirmation email for ORD-28425 went to my spam folder, so I only just saw it. I'm happy to send screenshots if that helps. The blender itself is great, for what it's worth. Tracking for ORD-28425 hasn't updated since Tuesday.
+
+Best regards,
+Yuki Tanaka
+
+--- message 5 from Rosa (support) ---
+For ORD-14278, the return window is 30 days from delivery. Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-50172 to the address on file. I've added a note to your account so the next agent has the context.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

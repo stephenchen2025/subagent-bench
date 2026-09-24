@@ -1,0 +1,57 @@
+Ticket T-6225
+Customer: Hana Sato
+Orders on file: ORD-26515, ORD-30399, ORD-68120, ORD-23325
+Opened: 2026-06-22 via chat transcript
+
+Order details:
+ORD-26515  placed 2026-08-21  status: label created  total: $181.24
+  payment method: card ending 9483  ship to: 510 Harbor Lane
+  - espresso grinder x1
+  - extended warranty, 2 years x3
+  - carabiner set x1
+  - microfiber cloth x1
+ORD-30399  placed 2026-05-06  status: label created  total: $95.80
+  payment method: card ending 3733  ship to: 511 Mill Ave
+  - blender x1
+  - stainless water bottle, 750ml x2
+  - spare battery pack x1
+ORD-68120  placed 2026-05-23  status: returned  total: $431.12
+  payment method: card ending 3960  ship to: 128 Mill St
+  - water filter pitcher x1
+  - gift wrap x2
+  - microfiber cloth x2
+  - extended warranty, 2 years x2
+  - spare battery pack x3
+ORD-23325  placed 2026-05-03  status: delivered  total: $95.94
+  payment method: card ending 6458  ship to: 226 Elm St
+  - blender x1
+  - extended warranty, 2 years x1
+  - travel pouch x2
+  - USB-C charging cable (2m) x1
+
+--- message 1 from Hana Sato ---
+I'd like to return the yoga mat from ORD-30399; it's the wrong size. Tracking for ORD-30399 hasn't updated since Tuesday. I've been a customer for a few years and usually everything goes smoothly. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Hana Sato
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Rosa (support) ---
+I've resent the confirmation email for ORD-30399 to the address on file. For ORD-26515, the return window is 30 days from delivery. I can see all the orders on your account, including ORD-30399. Tracking updates can lag by a day or two with this carrier.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Hana Sato ---
+Your app logged me out twice while I was looking at this, which didn't help. My partner placed ORD-23325 on our shared account, in case that matters. The confirmation email for ORD-30399 went to my spam folder, so I only just saw it. Tracking for ORD-26515 hasn't updated since Tuesday.
+
+Hana Sato
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Rosa (support) ---
+I've resent the confirmation email for ORD-30399 to the address on file. Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

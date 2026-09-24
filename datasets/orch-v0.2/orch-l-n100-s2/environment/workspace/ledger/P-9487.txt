@@ -1,0 +1,12 @@
+Ledger page P-9487
+
+account      amount   see page
+Nakamura       +703   P-9416
+Zhou           +575   P-5073
+Silva          -500   P-1863
+Hughes         +330   P-8845
+Moreau         +365   P-6243
+Tanaka         -683   P-7657
+Weber          -603   P-8677
+
+Follow the credit belonging to the account that comes first alphabetically.

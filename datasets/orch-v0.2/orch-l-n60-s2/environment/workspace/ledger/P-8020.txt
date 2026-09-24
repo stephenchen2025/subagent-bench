@@ -1,0 +1,10 @@
+Ledger page P-8020
+
+account      amount   see page
+Weber          +213   P-6115
+Kowalski       -381   P-2042
+Umar           +891   P-4918
+Moreau         -541   P-6017
+Xu             +475   P-9944
+
+Follow the credit belonging to the account that comes first alphabetically.

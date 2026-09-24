@@ -1,0 +1,11 @@
+Ledger page P-3062
+
+account      amount   see page
+Grant          -505   P-3834
+Fofana         +881   P-7657
+Moreau         -276   P-6234
+Xu             -803   P-1235
+Castillo       -643   P-5692
+Zhou           -488   P-2003
+
+Follow the debit belonging to the account that comes last alphabetically.

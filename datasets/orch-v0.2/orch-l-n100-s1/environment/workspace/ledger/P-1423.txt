@@ -1,0 +1,10 @@
+Ledger page P-1423
+
+account      amount   see page
+Umar           -547   P-2956
+Park           +872   P-5876
+Ibarra         +440   P-8911
+Xu             +154   P-1660
+Eriksen        +398   P-2779
+
+Follow the debit belonging to the account that comes last alphabetically.

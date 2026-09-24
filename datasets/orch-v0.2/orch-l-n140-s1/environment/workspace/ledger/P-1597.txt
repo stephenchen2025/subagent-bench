@@ -1,0 +1,11 @@
+Ledger page P-1597
+
+account      amount   see page
+Zhou           +756   P-2282
+Park           -347   P-4535
+Kowalski       +736   P-6171
+Xu             +198   P-6757
+Young          +509   P-3539
+Abbott          -63   P-5535
+
+Follow the entry with the second-largest amount.

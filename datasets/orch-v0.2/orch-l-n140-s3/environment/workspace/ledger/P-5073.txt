@@ -1,0 +1,12 @@
+Ledger page P-5073
+
+account      amount   see page
+Hughes         -559   P-8870
+Castillo       -464   P-9054
+Kowalski       -698   P-2656
+Xu             +383   P-3219
+Grant          -137   P-2838
+Jensen         -243   P-3026
+Abbott          -94   P-9935
+
+Follow the entry whose amount is closest to zero.

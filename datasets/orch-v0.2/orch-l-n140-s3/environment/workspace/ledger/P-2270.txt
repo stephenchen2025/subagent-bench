@@ -1,0 +1,11 @@
+Ledger page P-2270
+
+account      amount   see page
+Moreau         -807   P-7436
+Osei            +64   P-7941
+Umar           -897   P-3222
+Lambert        -577   P-2263
+Baker          +514   P-2011
+Grant          -898   P-2011
+
+Follow the debit belonging to the account that comes last alphabetically.

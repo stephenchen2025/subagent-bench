@@ -1,0 +1,10 @@
+Ledger page P-6597
+
+account      amount   see page
+Kowalski       +623   P-9917
+Ibarra         +791   P-4240
+Vance          -148   P-8643
+Baker          +865   P-1198
+Castillo       -523   P-9708
+
+Follow the credit belonging to the account that comes first alphabetically.

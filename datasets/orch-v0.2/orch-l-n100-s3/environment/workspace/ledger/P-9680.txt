@@ -1,0 +1,10 @@
+Ledger page P-9680
+
+account      amount   see page
+Dunn           -312   P-4266
+Rahman         +845   P-9621
+Osei            -89   P-2184
+Quinn          -492   P-6683
+Tanaka         +135   P-2121
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,12 @@
+Ledger page P-7164
+
+account      amount   see page
+Eriksen        -887   P-7275
+Fofana         +266   P-8298
+Lambert        +670   P-7424
+Jensen         -889   P-4622
+Xu             +652   P-5014
+Nakamura       +332   P-9196
+Osei           -135   P-6634
+
+Follow the entry with the largest debit (the most negative amount).

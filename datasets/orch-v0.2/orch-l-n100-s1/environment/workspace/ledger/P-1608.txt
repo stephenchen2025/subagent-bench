@@ -1,0 +1,12 @@
+Ledger page P-1608
+
+account      amount   see page
+Park           -323   P-7388
+Tanaka         -262   P-1677
+Umar           +450   P-3381
+Osei           -873   P-9572
+Dunn           +141   P-5209
+Fofana         -362   P-3351
+Vance          -744   P-2360
+
+Follow the debit belonging to the account that comes last alphabetically.

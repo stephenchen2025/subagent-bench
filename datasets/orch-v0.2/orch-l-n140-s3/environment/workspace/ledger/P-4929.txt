@@ -1,0 +1,12 @@
+Ledger page P-4929
+
+account      amount   see page
+Silva          +460   P-9863
+Jensen         -531   P-9610
+Grant          +488   P-6129
+Weber           -40   P-5901
+Hughes         +656   P-2617
+Young          +184   P-2191
+Nakamura       +494   P-3353
+
+Follow the credit belonging to the account that comes first alphabetically.

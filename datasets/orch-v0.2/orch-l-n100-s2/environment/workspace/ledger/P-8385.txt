@@ -1,0 +1,11 @@
+Ledger page P-8385
+
+account      amount   see page
+Osei           -837   P-2515
+Dunn           +612   P-4704
+Nakamura       -330   P-8396
+Umar           +616   P-8176
+Jensen         -589   P-1695
+Xu             -457   P-1821
+
+Follow the debit belonging to the account that comes last alphabetically.

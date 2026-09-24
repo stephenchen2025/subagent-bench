@@ -1,0 +1,12 @@
+Ledger page P-3373
+
+account      amount   see page
+Hughes         -242   P-5081
+Osei           -394   P-5642
+Eriksen        -864   P-4610
+Fofana          -16   P-9454
+Ibarra         +481   P-3024
+Grant          +383   P-6610
+Lambert        -421   P-8084
+
+Follow the entry with the largest credit.

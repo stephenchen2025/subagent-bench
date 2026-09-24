@@ -1,0 +1,12 @@
+Ledger page P-1925
+
+account      amount   see page
+Grant            +9   P-8244
+Osei           -609   P-4575
+Weber          +353   P-6581
+Hughes         +875   P-3289
+Zhou           +459   P-1465
+Umar            -51   P-4347
+Silva          +672   P-9606
+
+Follow the entry with the largest credit.

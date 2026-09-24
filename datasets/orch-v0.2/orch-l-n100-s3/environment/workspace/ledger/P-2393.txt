@@ -1,0 +1,10 @@
+Ledger page P-2393
+
+account      amount   see page
+Grant          +355   P-8009
+Nakamura       -180   P-2536
+Xu             -736   P-2840
+Ibarra         -270   P-7811
+Eriksen        -821   P-2562
+
+Follow the entry whose amount is closest to zero.

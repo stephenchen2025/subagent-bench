@@ -1,0 +1,12 @@
+Ledger page P-2082
+
+account      amount   see page
+Eriksen        +605   P-4952
+Fofana         -224   P-6025
+Baker          -635   P-9956
+Jensen          +79   P-9227
+Ibarra         +643   P-5179
+Moreau          +16   P-1695
+Osei           +525   P-4151
+
+Follow the entry with the largest debit (the most negative amount).

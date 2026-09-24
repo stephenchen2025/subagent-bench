@@ -1,0 +1,81 @@
+Ticket T-3497
+Customer: Mateo Silva
+Orders on file: ORD-98652, ORD-22863, ORD-17368, ORD-68964
+Opened: 2026-03-14 via web form
+
+Order details:
+ORD-98652  placed 2026-05-07  status: label created  total: $295.77
+  payment method: card ending 7099  ship to: 69 Cedar Ave
+  - blender x1
+  - USB-C charging cable (2m) x3
+  - spare battery pack x3
+ORD-22863  placed 2026-08-01  status: label created  total: $103.47
+  payment method: card ending 7941  ship to: 331 Harbor Lane
+  - noise-cancelling headphones x1
+  - stainless water bottle, 750ml x2
+  - gift wrap x3
+  - merino socks, size M x1
+ORD-17368  placed 2026-05-15  status: delivered  total: $55.78
+  payment method: card ending 1854  ship to: 756 Oak Lane
+  - mechanical keyboard x1
+  - spare battery pack x3
+  - stainless water bottle, 750ml x2
+  - USB-C charging cable (2m) x2
+ORD-68964  placed 2026-02-23  status: returned  total: $281.05
+  payment method: card ending 6183  ship to: 79 Elm Lane
+  - mechanical keyboard x1
+  - extended warranty, 2 years x2
+  - replacement filter cartridge, 3-pack x2
+
+--- message 1 from Mateo Silva ---
+Can I use a gift card on ORD-17368, or is it too late? The blender itself is great, for what it's worth. Is there a way to combine loyalty points from ORD-98652 with my next purchase? I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Mateo Silva
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Keiko (support) ---
+If you need an invoice for ORD-98652, you can download it from the Orders page. I've updated your shipping address on file. I've resent the confirmation email for ORD-98652 to the address on file. Thanks for reaching out, and sorry for the trouble.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Mateo Silva ---
+ORD-22863 shows up once in my order history, but my online banking shows it paid for on two separate lines. I'd rather not call; the hold times last time were very long. Tracking for ORD-98652 hasn't updated since Tuesday.
+
+Mateo Silva
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Keiko (support) ---
+Tracking updates can lag by a day or two with this carrier. Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Mateo Silva ---
+Your app logged me out twice while I was looking at this, which didn't help. I'm travelling next week, so email is the best way to reach me. I'm happy to send screenshots if that helps. I tried the chat widget first but it kept disconnecting.
+
+Mateo Silva
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Keiko (support) ---
+If you need an invoice for ORD-17368, you can download it from the Orders page. For ORD-98652, the return window is 30 days from delivery. I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Mateo Silva ---
+My earlier order ORD-68964 arrived fine, no complaints there. I tried the chat widget first but it kept disconnecting. Could you also tell me whether ORD-98652 qualifies for the extended return window? I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Mateo Silva
+
+--- message 8 from Keiko (support) ---
+Let me know if anything else looks off. If you need an invoice for ORD-98652, you can download it from the Orders page. I've updated your shipping address on file. Loyalty points post about a week after an order is delivered.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

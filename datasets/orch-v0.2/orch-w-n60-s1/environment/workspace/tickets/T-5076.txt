@@ -1,0 +1,97 @@
+Ticket T-5076
+Customer: Jordan Okafor
+Orders on file: ORD-66897, ORD-88309, ORD-94286, ORD-12170
+Opened: 2026-07-21 via chat transcript
+
+Order details:
+ORD-66897  placed 2026-08-02  status: label created  total: $293.56
+  payment method: card ending 9048  ship to: 514 Mill St
+  - camping stove x1
+  - replacement filter cartridge, 3-pack x1
+  - microfiber cloth x1
+ORD-88309  placed 2026-03-03  status: delivered  total: $131.57
+  payment method: card ending 2347  ship to: 470 Harbor St
+  - yoga mat x1
+  - replacement filter cartridge, 3-pack x3
+  - spare battery pack x3
+ORD-94286  placed 2026-05-10  status: delivered  total: $47.64
+  payment method: card ending 7964  ship to: 452 Oak Ave
+  - blender x1
+  - spare battery pack x1
+  - USB-C charging cable (2m) x2
+  - replacement filter cartridge, 3-pack x3
+ORD-12170  placed 2026-05-13  status: delivered  total: $130.18
+  payment method: card ending 2465  ship to: 21 Elm Lane
+  - noise-cancelling headphones x1
+  - microfiber cloth x1
+  - merino socks, size M x3
+  - spare battery pack x2
+
+--- message 1 from Jordan Okafor ---
+Where is my refund for ORD-88309? You said 5 days and it has been 8. The confirmation email for ORD-88309 went to my spam folder, so I only just saw it. Is there a way to combine loyalty points from ORD-12170 with my next purchase? Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Jordan Okafor
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Luis (support) ---
+I've resent the confirmation email for ORD-12170 to the address on file. Tracking updates can lag by a day or two with this carrier. I can see all the orders on your account, including ORD-88309. Thanks for reaching out, and sorry for the trouble.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Jordan Okafor ---
+Before I retry the payment on ORD-94286 -- is there any risk of a double charge? Could you also tell me whether ORD-12170 qualifies for the extended return window? I'm happy to send screenshots if that helps.
+
+Jordan Okafor
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Luis (support) ---
+Loyalty points post about a week after an order is delivered. Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Luis (support) ---
+Retrying is safe. Our system blocks a second capture on ORD-94286, so a double charge can't happen. I can see all the orders on your account, including ORD-12170. I've added a note to your account so the next agent has the context.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Jordan Okafor ---
+Your app logged me out twice while I was looking at this, which didn't help. Could you also tell me whether ORD-66897 qualifies for the extended return window? My partner placed ORD-88309 on our shared account, in case that matters.
+
+Thanks,
+Jordan Okafor
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Jordan Okafor ---
+Is there a way to combine loyalty points from ORD-66897 with my next purchase? I tried the chat widget first but it kept disconnecting. I'd rather not call; the hold times last time were very long. I'm happy to send screenshots if that helps.
+
+Thanks,
+Jordan Okafor
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Luis (support) ---
+Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-12170. Let me know if anything else looks off. If you need an invoice for ORD-12170, you can download it from the Orders page.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Jordan Okafor ---
+The noise-cancelling headphones itself is great, for what it's worth. I'm happy to send screenshots if that helps. I'd rather not call; the hold times last time were very long. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Jordan Okafor
+Sent from my phone -- please excuse typos.
+
+--- message 10 from Luis (support) ---
+I've updated your shipping address on file. I've resent the confirmation email for ORD-88309 to the address on file. Screenshots aren't necessary, but thank you for offering. Let me know if anything else looks off.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

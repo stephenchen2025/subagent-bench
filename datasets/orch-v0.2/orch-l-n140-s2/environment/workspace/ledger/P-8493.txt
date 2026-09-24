@@ -1,0 +1,11 @@
+Ledger page P-8493
+
+account      amount   see page
+Grant          +175   P-8307
+Young          +696   P-7946
+Hughes         -307   P-9199
+Eriksen        +471   P-4287
+Ibarra         +280   P-8981
+Xu             +131   P-9045
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,10 @@
+Ledger page P-9075
+
+account      amount   see page
+Baker          +595   P-7524
+Kowalski       +287   P-3753
+Eriksen         -39   P-3635
+Park           -145   P-5807
+Vance          +221   P-7457
+
+Follow the entry whose amount is closest to zero.

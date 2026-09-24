@@ -1,0 +1,10 @@
+Ledger page P-6695
+
+account      amount   see page
+Rahman         -104   P-7516
+Moreau         +543   P-3834
+Grant          +170   P-2486
+Dunn            -70   P-6525
+Tanaka         -276   P-1235
+
+Follow the entry whose amount is closest to zero.

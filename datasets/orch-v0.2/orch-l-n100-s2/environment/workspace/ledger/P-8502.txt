@@ -1,0 +1,10 @@
+Ledger page P-8502
+
+account      amount   see page
+Rahman          -87   P-3301
+Jensen         +799   P-1695
+Xu             +299   P-6935
+Baker          +613   P-1082
+Kowalski       +316   P-7898
+
+Follow the debit belonging to the account that comes last alphabetically.

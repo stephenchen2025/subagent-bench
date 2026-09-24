@@ -1,0 +1,11 @@
+Ledger page P-7967
+
+account      amount   see page
+Jensen         +641   P-6848
+Grant          +203   P-2188
+Quinn            +5   P-2301
+Lambert        -674   P-6952
+Xu             +482   P-4759
+Castillo       -199   P-2084
+
+Follow the entry with the largest credit.

@@ -1,0 +1,12 @@
+Ledger page P-3221
+
+account      amount   see page
+Young          +109   P-1869
+Park           -756   P-3292
+Vance          +711   P-3306
+Dunn           +732   P-5421
+Nakamura        -15   P-2387
+Moreau         +452   P-6581
+Baker          -456   P-2431
+
+Follow the entry with the largest credit.

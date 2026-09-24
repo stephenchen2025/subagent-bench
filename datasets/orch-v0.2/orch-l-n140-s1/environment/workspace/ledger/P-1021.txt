@@ -1,0 +1,11 @@
+Ledger page P-1021
+
+account      amount   see page
+Umar           +182   P-2195
+Dunn           -751   P-6365
+Lambert        +376   P-5028
+Young          -129   P-9105
+Silva          +264   P-9351
+Grant          -309   P-5501
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,12 @@
+Ledger page P-5894
+
+account      amount   see page
+Vance          +736   P-5008
+Umar           -355   P-8942
+Moreau         -596   P-8443
+Nakamura       -492   P-6511
+Silva           +91   P-9669
+Quinn          -430   P-8382
+Kowalski       +518   P-7920
+
+Follow the entry with the second-largest amount.

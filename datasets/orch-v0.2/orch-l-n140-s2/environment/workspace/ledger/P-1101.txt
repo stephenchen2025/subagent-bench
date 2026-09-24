@@ -1,0 +1,11 @@
+Ledger page P-1101
+
+account      amount   see page
+Vance          -490   P-1734
+Baker          -226   P-3628
+Weber          +305   P-8985
+Abbott         -100   P-6577
+Osei           -198   P-9818
+Nakamura       -620   P-1831
+
+Follow the entry whose amount is closest to zero.

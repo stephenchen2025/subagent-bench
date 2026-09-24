@@ -1,0 +1,12 @@
+Ledger page P-3933
+
+account      amount   see page
+Dunn           +310   P-3321
+Silva          -236   P-9691
+Hughes         -877   P-1660
+Nakamura        +23   P-4937
+Moreau         +518   P-5619
+Lambert        -610   P-7109
+Park           -757   P-4153
+
+Follow the credit belonging to the account that comes first alphabetically.

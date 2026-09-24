@@ -1,0 +1,10 @@
+Ledger page P-1328
+
+account      amount   see page
+Zhou           -457   P-3284
+Ibarra         +213   P-2283
+Dunn           -659   P-3009
+Lambert        +701   P-9689
+Vance          +439   P-9726
+
+Follow the entry whose amount is closest to zero.

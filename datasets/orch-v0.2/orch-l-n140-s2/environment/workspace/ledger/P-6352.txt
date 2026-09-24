@@ -1,0 +1,11 @@
+Ledger page P-6352
+
+account      amount   see page
+Kowalski       +861   P-4602
+Baker          -793   P-6445
+Lambert        +859   P-5607
+Eriksen        +161   P-4046
+Rahman         -877   P-2044
+Ibarra         -674   P-7041
+
+Follow the entry with the second-largest amount.

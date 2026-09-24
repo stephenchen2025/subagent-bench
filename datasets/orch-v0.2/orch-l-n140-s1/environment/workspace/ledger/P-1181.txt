@@ -1,0 +1,11 @@
+Ledger page P-1181
+
+account      amount   see page
+Xu             -312   P-7290
+Grant          +392   P-2387
+Kowalski       +146   P-1400
+Jensen         -409   P-1679
+Dunn           +166   P-1536
+Weber          -554   P-3148
+
+Follow the debit belonging to the account that comes last alphabetically.

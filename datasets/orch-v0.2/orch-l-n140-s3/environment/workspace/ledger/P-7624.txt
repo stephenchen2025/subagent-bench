@@ -1,0 +1,10 @@
+Ledger page P-7624
+
+account      amount   see page
+Moreau         -170   P-7047
+Abbott         -667   P-1693
+Lambert        -753   P-2006
+Vance           +59   P-4465
+Kowalski       -882   P-4173
+
+Follow the debit belonging to the account that comes last alphabetically.

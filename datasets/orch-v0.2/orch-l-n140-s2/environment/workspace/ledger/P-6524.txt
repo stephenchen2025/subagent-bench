@@ -1,0 +1,11 @@
+Ledger page P-6524
+
+account      amount   see page
+Zhou           -685   P-8884
+Weber          +470   P-9208
+Baker           -62   P-4046
+Jensen         +790   P-6627
+Silva          -357   P-8493
+Tanaka         +822   P-9310
+
+Follow the debit belonging to the account that comes last alphabetically.

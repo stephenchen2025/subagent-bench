@@ -1,0 +1,68 @@
+Ticket T-2346
+Customer: Noah Fischer
+Orders on file: ORD-74561, ORD-97749, ORD-69664, ORD-89735
+Opened: 2026-01-01 via chat transcript
+
+Order details:
+ORD-74561  placed 2026-06-21  status: delivered  total: $204.32
+  payment method: card ending 7531  ship to: 321 Elm St
+  - carry-on suitcase x1
+  - travel pouch x3
+  - USB-C charging cable (2m) x3
+ORD-97749  placed 2026-02-26  status: returned  total: $342.48
+  payment method: card ending 5110  ship to: 196 Cedar Ave
+  - noise-cancelling headphones x1
+  - travel pouch x3
+  - replacement filter cartridge, 3-pack x3
+ORD-69664  placed 2026-05-24  status: delivered  total: $382.42
+  payment method: card ending 9433  ship to: 918 Cedar Ave
+  - wool blanket x1
+  - gift wrap x2
+  - spare battery pack x3
+  - extended warranty, 2 years x2
+ORD-89735  placed 2026-01-04  status: in transit  total: $153.61
+  payment method: card ending 8660  ship to: 886 Elm St
+  - yoga mat x1
+  - microfiber cloth x3
+  - merino socks, size M x2
+  - travel pouch x2
+
+--- message 1 from Noah Fischer ---
+The camping stove from ORD-97749 arrived with a scratch on the side. Can I get a replacement? I'm travelling next week, so email is the best way to reach me. The box for ORD-69664 was a bit crushed but the contents were fine. Tracking for ORD-97749 hasn't updated since Tuesday.
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Arjun (support) ---
+If you need an invoice for ORD-69664, you can download it from the Orders page. Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off. I've added a note to your account so the next agent has the context.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Noah Fischer ---
+Tracking for ORD-69664 hasn't updated since Tuesday. My earlier order ORD-89735 arrived fine, no complaints there. The yoga mat itself is great, for what it's worth. Could you also tell me whether ORD-97749 qualifies for the extended return window?
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Arjun (support) ---
+Our warehouse shows ORD-69664 left on schedule. Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-97749.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Noah Fischer ---
+My earlier order ORD-69664 arrived fine, no complaints there. I'm travelling next week, so email is the best way to reach me. I'd rather not call; the hold times last time were very long. The confirmation email for ORD-97749 went to my spam folder, so I only just saw it.
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Arjun (support) ---
+Our warehouse shows ORD-69664 left on schedule. Loyalty points post about a week after an order is delivered. For ORD-89735, the return window is 30 days from delivery. Tracking updates can lag by a day or two with this carrier.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,53 @@
+Ticket T-7440
+Customer: Grace Mwangi
+Orders on file: ORD-81478, ORD-55140, ORD-18487, ORD-14250
+Opened: 2026-07-12 via web form
+
+Order details:
+ORD-81478  placed 2026-05-22  status: delivered  total: $149.05
+  payment method: card ending 9401  ship to: 349 Elm Ave
+  - noise-cancelling headphones x1
+  - USB-C charging cable (2m) x3
+  - stainless water bottle, 750ml x3
+ORD-55140  placed 2026-07-09  status: label created  total: $319.45
+  payment method: card ending 7797  ship to: 892 Harbor Lane
+  - yoga mat x1
+  - merino socks, size M x2
+  - carabiner set x2
+ORD-18487  placed 2026-04-02  status: delivered  total: $333.69
+  payment method: card ending 4652  ship to: 542 Mill Rd
+  - blender x1
+  - USB-C charging cable (2m) x3
+  - gift wrap x3
+ORD-14250  placed 2026-02-14  status: label created  total: $362.46
+  payment method: card ending 7486  ship to: 517 Elm Ave
+  - trail running shoes x1
+  - microfiber cloth x2
+  - USB-C charging cable (2m) x3
+
+--- message 1 from Grace Mwangi ---
+I need to change the delivery address for ORD-55140 before it ships. Could you also tell me whether ORD-81478 qualifies for the extended return window? I tried the chat widget first but it kept disconnecting. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Grace Mwangi
+
+--- message 2 from Dana (support) ---
+For ORD-55140, the return window is 30 days from delivery. Our warehouse shows ORD-55140 left on schedule. I've added a note to your account so the next agent has the context. If you need an invoice for ORD-55140, you can download it from the Orders page.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Grace Mwangi ---
+I'm happy to send screenshots if that helps. The confirmation email for ORD-81478 went to my spam folder, so I only just saw it. I'd rather not call; the hold times last time were very long. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Grace Mwangi
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Dana (support) ---
+I've resent the confirmation email for ORD-55140 to the address on file. If you need an invoice for ORD-18487, you can download it from the Orders page. Thanks for reaching out, and sorry for the trouble. I've updated your shipping address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

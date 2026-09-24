@@ -1,0 +1,11 @@
+Ledger page P-5008
+
+account      amount   see page
+Abbott          -18   P-1400
+Lambert        +625   P-4349
+Weber          -249   P-6202
+Hughes         -298   P-5067
+Castillo       +404   P-2983
+Eriksen        -683   P-7257
+
+Follow the debit belonging to the account that comes last alphabetically.

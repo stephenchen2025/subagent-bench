@@ -1,0 +1,69 @@
+Ticket T-2969
+Customer: Yuki Tanaka
+Orders on file: ORD-80173, ORD-85951, ORD-50294, ORD-32208
+Opened: 2026-03-26 via chat transcript
+
+Order details:
+ORD-80173  placed 2026-05-26  status: delivered  total: $203.50
+  payment method: card ending 9878  ship to: 42 Cedar Lane
+  - noise-cancelling headphones x1
+  - extended warranty, 2 years x1
+  - carabiner set x3
+  - merino socks, size M x3
+ORD-85951  placed 2026-08-23  status: returned  total: $410.25
+  payment method: card ending 1793  ship to: 257 Harbor Lane
+  - espresso grinder x1
+  - carabiner set x1
+  - spare battery pack x3
+  - merino socks, size M x2
+  - travel pouch x1
+ORD-50294  placed 2026-05-22  status: delivered  total: $231.29
+  payment method: card ending 1029  ship to: 924 Harbor Lane
+  - yoga mat x1
+  - microfiber cloth x3
+  - stainless water bottle, 750ml x3
+ORD-32208  placed 2026-04-06  status: delivered  total: $180.25
+  payment method: card ending 1257  ship to: 729 Mill Rd
+  - carry-on suitcase x1
+  - replacement filter cartridge, 3-pack x1
+  - gift wrap x2
+  - stainless water bottle, 750ml x2
+
+--- message 1 from Yuki Tanaka ---
+Where is my refund for ORD-85951? You said 5 days and it has been 8. I've been a customer for a few years and usually everything goes smoothly. I tried the chat widget first but it kept disconnecting. Is there a way to combine loyalty points from ORD-85951 with my next purchase?
+
+Best regards,
+Yuki Tanaka
+
+--- message 2 from Marcus (support) ---
+Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-80173 to the address on file. Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Yuki Tanaka ---
+I'm travelling next week, so email is the best way to reach me. Tracking for ORD-50294 hasn't updated since Tuesday. The standing desk itself is great, for what it's worth. Your app logged me out twice while I was looking at this, which didn't help.
+
+Best regards,
+Yuki Tanaka
+
+--- message 4 from Marcus (support) ---
+Loyalty points post about a week after an order is delivered. If you need an invoice for ORD-85951, you can download it from the Orders page. I've updated your shipping address on file. Our warehouse shows ORD-50294 left on schedule.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Yuki Tanaka ---
+Could you also tell me whether ORD-50294 qualifies for the extended return window? The cast iron skillet itself is great, for what it's worth. My earlier order ORD-80173 arrived fine, no complaints there. I'm happy to send screenshots if that helps.
+
+Yuki Tanaka
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Marcus (support) ---
+I've resent the confirmation email for ORD-50294 to the address on file. I've added a note to your account so the next agent has the context. I can see all the orders on your account, including ORD-85951. Our warehouse shows ORD-85951 left on schedule.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,12 @@
+Ledger page P-9416
+
+account      amount   see page
+Umar           -695   P-4227
+Abbott         -322   P-2604
+Castillo       +712   P-9675
+Ibarra         -485   P-7516
+Eriksen        +555   P-5940
+Jensen         +749   P-6355
+Young           -96   P-7672
+
+Follow the entry with the largest debit (the most negative amount).

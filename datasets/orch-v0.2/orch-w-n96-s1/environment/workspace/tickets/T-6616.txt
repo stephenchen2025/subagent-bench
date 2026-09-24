@@ -1,0 +1,69 @@
+Ticket T-6616
+Customer: Samir Patel
+Orders on file: ORD-84999, ORD-50530, ORD-11059, ORD-23680
+Opened: 2026-07-15 via chat transcript
+
+Order details:
+ORD-84999  placed 2026-05-04  status: in transit  total: $84.71
+  payment method: card ending 9236  ship to: 221 Oak St
+  - rain jacket x1
+  - spare battery pack x2
+  - carabiner set x3
+ORD-50530  placed 2026-06-27  status: label created  total: $394.96
+  payment method: card ending 7415  ship to: 512 Harbor Ave
+  - noise-cancelling headphones x1
+  - spare battery pack x2
+  - replacement filter cartridge, 3-pack x1
+  - stainless water bottle, 750ml x1
+ORD-11059  placed 2026-06-01  status: delivered  total: $199.11
+  payment method: card ending 6776  ship to: 298 Mill Ave
+  - cast iron skillet x1
+  - extended warranty, 2 years x1
+  - microfiber cloth x3
+  - travel pouch x1
+ORD-23680  placed 2026-05-06  status: delivered  total: $437.62
+  payment method: card ending 5516  ship to: 582 Harbor Rd
+  - trail running shoes x1
+  - merino socks, size M x3
+  - gift wrap x3
+
+--- message 1 from Samir Patel ---
+I need to change the delivery address for ORD-11059 before it ships. The blender itself is great, for what it's worth. I'm happy to send screenshots if that helps. The box for ORD-84999 was a bit crushed but the contents were fine.
+
+Thanks,
+Samir Patel
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Dana (support) ---
+Screenshots aren't necessary, but thank you for offering. For ORD-11059, the return window is 30 days from delivery. I can see all the orders on your account, including ORD-84999. I've resent the confirmation email for ORD-50530 to the address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Samir Patel ---
+The wool blanket itself is great, for what it's worth. The confirmation email for ORD-84999 went to my spam folder, so I only just saw it. I'm happy to send screenshots if that helps. I changed my shipping address last month, so please double-check you have the new one.
+
+Samir Patel
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Dana (support) ---
+Our warehouse shows ORD-84999 left on schedule. Thanks for reaching out, and sorry for the trouble. I've updated your shipping address on file. Screenshots aren't necessary, but thank you for offering.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Samir Patel ---
+Tracking for ORD-84999 hasn't updated since Tuesday. Could you also tell me whether ORD-50530 qualifies for the extended return window? I'm travelling next week, so email is the best way to reach me. I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Samir Patel
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Dana (support) ---
+Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-84999 left on schedule. If you need an invoice for ORD-84999, you can download it from the Orders page. Let me know if anything else looks off.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

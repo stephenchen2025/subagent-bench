@@ -1,0 +1,10 @@
+Ledger page P-2683
+
+account      amount   see page
+Nakamura       -125   P-7388
+Ibarra         +688   P-3784
+Moreau         -365   P-3624
+Hughes         +814   P-8463
+Jensen         -340   P-8606
+
+Follow the entry with the second-largest amount.

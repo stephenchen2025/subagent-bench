@@ -1,0 +1,12 @@
+Ledger page P-4493
+
+account      amount   see page
+Moreau         +797   P-6561
+Jensen         +685   P-6859
+Vance          +447   P-6461
+Ibarra          -11   P-5846
+Abbott         +542   P-6306
+Grant          +502   P-8229
+Castillo       -799   P-9951
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,12 @@
+Ledger page P-3270
+
+account      amount   see page
+Tanaka         -851   P-1487
+Quinn          +455   P-6700
+Dunn           +109   P-4665
+Young          +162   P-6086
+Grant          +709   P-3583
+Park           -188   P-7050
+Osei            +53   P-6858
+
+Follow the debit belonging to the account that comes last alphabetically.

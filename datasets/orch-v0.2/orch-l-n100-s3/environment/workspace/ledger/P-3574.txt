@@ -1,0 +1,12 @@
+Ledger page P-3574
+
+account      amount   see page
+Tanaka         +801   P-7576
+Young          +844   P-2579
+Dunn           +841   P-6821
+Umar           +203   P-7775
+Rahman         -544   P-4735
+Xu             -789   P-2393
+Hughes         -246   P-6298
+
+Follow the credit belonging to the account that comes first alphabetically.

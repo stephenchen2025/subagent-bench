@@ -1,0 +1,10 @@
+Ledger page P-5739
+
+account      amount   see page
+Grant          -754   P-6911
+Jensen          +94   P-2376
+Nakamura       +880   P-2779
+Lambert         +32   P-2776
+Weber          +251   P-7810
+
+Follow the entry whose amount is closest to zero.

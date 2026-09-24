@@ -1,0 +1,10 @@
+Ledger page P-2745
+
+account      amount   see page
+Zhou           +397   P-9525
+Baker          -148   P-7523
+Eriksen        +448   P-2648
+Moreau         +881   P-4694
+Ibarra         +833   P-4694
+
+Follow the entry with the largest credit.

@@ -1,0 +1,11 @@
+Ledger page P-5618
+
+account      amount   see page
+Baker          -332   P-2858
+Vance          +444   P-9905
+Lambert        +112   P-8115
+Rahman         +656   P-4064
+Fofana         +835   P-9309
+Silva          +250   P-9317
+
+Follow the entry with the largest debit (the most negative amount).

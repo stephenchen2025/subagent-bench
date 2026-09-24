@@ -1,0 +1,12 @@
+Ledger page P-2267
+
+account      amount   see page
+Fofana         +626   P-6821
+Rahman         -290   P-7545
+Eriksen        +366   P-3009
+Kowalski       +466   P-4735
+Silva          -680   P-2010
+Umar           -186   P-6560
+Abbott         +372   P-3425
+
+Follow the entry whose amount is closest to zero.

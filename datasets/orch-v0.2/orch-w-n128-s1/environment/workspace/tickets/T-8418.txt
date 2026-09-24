@@ -1,0 +1,88 @@
+Ticket T-8418
+Customer: Avery Lin
+Orders on file: ORD-18062, ORD-83294, ORD-76220, ORD-54203
+Opened: 2026-08-15 via chat transcript
+
+Order details:
+ORD-18062  placed 2026-02-25  status: returned  total: $451.72
+  payment method: card ending 7293  ship to: 149 Elm Rd
+  - wool blanket x1
+  - USB-C charging cable (2m) x3
+  - stainless water bottle, 750ml x2
+  - extended warranty, 2 years x2
+ORD-83294  placed 2026-07-15  status: label created  total: $273.73
+  payment method: card ending 3005  ship to: 709 Cedar St
+  - mechanical keyboard x1
+  - spare battery pack x2
+  - stainless water bottle, 750ml x1
+ORD-76220  placed 2026-01-10  status: label created  total: $331.27
+  payment method: card ending 2139  ship to: 764 Cedar Lane
+  - water filter pitcher x1
+  - USB-C charging cable (2m) x3
+  - travel pouch x3
+  - extended warranty, 2 years x3
+ORD-54203  placed 2026-06-18  status: delivered  total: $247.97
+  payment method: card ending 1193  ship to: 54 Mill Ave
+  - espresso grinder x1
+  - extended warranty, 2 years x1
+  - USB-C charging cable (2m) x2
+  - carabiner set x2
+
+--- message 1 from Avery Lin ---
+I need to change the delivery address for ORD-18062 before it ships. I changed my shipping address last month, so please double-check you have the new one. The confirmation email for ORD-54203 went to my spam folder, so I only just saw it. I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Avery Lin
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Fatima (support) ---
+Loyalty points post about a week after an order is delivered. Let me know if anything else looks off. I've resent the confirmation email for ORD-76220 to the address on file. Thanks for reaching out, and sorry for the trouble.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Avery Lin ---
+The checkout page for ORD-83294 timed out. If I try to pay again, will I end up being charged twice? Tracking for ORD-18062 hasn't updated since Tuesday. I'm happy to send screenshots if that helps.
+
+Avery Lin
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Fatima (support) ---
+No, you won't be charged twice: the first attempt for ORD-83294 failed before capture, so retrying is safe. Tracking updates can lag by a day or two with this carrier. I've resent the confirmation email for ORD-18062 to the address on file.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Avery Lin ---
+My partner placed ORD-54203 on our shared account, in case that matters. My earlier order ORD-54203 arrived fine, no complaints there. The confirmation email for ORD-54203 went to my spam folder, so I only just saw it.
+
+Best regards,
+Avery Lin
+
+--- message 6 from Avery Lin ---
+I changed my shipping address last month, so please double-check you have the new one. I tried the chat widget first but it kept disconnecting. My partner placed ORD-18062 on our shared account, in case that matters. The box for ORD-54203 was a bit crushed but the contents were fine.
+
+Best regards,
+Avery Lin
+
+--- message 7 from Fatima (support) ---
+Loyalty points post about a week after an order is delivered. I've updated your shipping address on file. If you need an invoice for ORD-54203, you can download it from the Orders page. I've added a note to your account so the next agent has the context.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Avery Lin ---
+I'd rather not call; the hold times last time were very long. Is there a way to combine loyalty points from ORD-18062 with my next purchase? The box for ORD-54203 was a bit crushed but the contents were fine. The confirmation email for ORD-76220 went to my spam folder, so I only just saw it.
+
+Avery Lin
+(Please reply by email rather than phone if possible.)
+
+--- message 9 from Fatima (support) ---
+Thanks for reaching out, and sorry for the trouble. Loyalty points post about a week after an order is delivered. Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-76220.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

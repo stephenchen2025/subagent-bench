@@ -1,0 +1,12 @@
+Ledger page P-4102
+
+account      amount   see page
+Ibarra         -438   P-7004
+Hughes         -824   P-3990
+Tanaka         +716   P-8470
+Jensen         +179   P-6249
+Umar           -444   P-3926
+Nakamura       -105   P-7338
+Osei           +482   P-2763
+
+Follow the credit belonging to the account that comes first alphabetically.

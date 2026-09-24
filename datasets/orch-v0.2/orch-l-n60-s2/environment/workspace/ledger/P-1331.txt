@@ -1,0 +1,10 @@
+Ledger page P-1331
+
+account      amount   see page
+Quinn          -826   P-9680
+Hughes         +156   P-5568
+Vance          +638   P-3833
+Silva          -683   P-6996
+Jensen         -884   P-2008
+
+Follow the entry with the second-largest amount.

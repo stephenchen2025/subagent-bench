@@ -1,0 +1,12 @@
+Ledger page P-4809
+
+account      amount   see page
+Osei           +522   P-8163
+Lambert        -113   P-6129
+Moreau         -206   P-3635
+Kowalski       -405   P-6863
+Abbott         -558   P-9976
+Baker          +289   P-1460
+Eriksen        +748   P-9022
+
+Follow the entry with the largest debit (the most negative amount).

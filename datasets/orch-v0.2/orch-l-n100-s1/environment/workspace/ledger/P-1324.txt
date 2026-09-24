@@ -1,0 +1,11 @@
+Ledger page P-1324
+
+account      amount   see page
+Umar           +609   P-9931
+Abbott         -808   P-2194
+Fofana         -642   P-6833
+Moreau         -189   P-9454
+Young          +777   P-4157
+Baker          +316   P-7240
+
+Follow the entry with the largest credit.

@@ -1,0 +1,11 @@
+Ledger page P-5206
+
+account      amount   see page
+Abbott          +70   P-2246
+Umar           -679   P-1487
+Lambert        +802   P-2393
+Castillo       +660   P-7050
+Tanaka         -123   P-9058
+Vance          +488   P-6858
+
+Follow the entry with the largest debit (the most negative amount).

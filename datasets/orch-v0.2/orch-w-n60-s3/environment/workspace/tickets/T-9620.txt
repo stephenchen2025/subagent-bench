@@ -1,0 +1,93 @@
+Ticket T-9620
+Customer: Kofi Mensah
+Orders on file: ORD-12429, ORD-55978, ORD-58909, ORD-13604
+Opened: 2026-05-25 via email
+
+Order details:
+ORD-12429  placed 2026-05-17  status: label created  total: $469.11
+  payment method: card ending 9308  ship to: 463 Mill St
+  - camping stove x1
+  - spare battery pack x3
+  - carabiner set x2
+ORD-55978  placed 2026-07-05  status: delivered  total: $145.63
+  payment method: card ending 3447  ship to: 521 Mill Lane
+  - yoga mat x1
+  - stainless water bottle, 750ml x3
+  - extended warranty, 2 years x2
+ORD-58909  placed 2026-05-10  status: in transit  total: $293.17
+  payment method: card ending 1298  ship to: 729 Cedar Rd
+  - camping stove x1
+  - carabiner set x3
+  - extended warranty, 2 years x3
+ORD-13604  placed 2026-08-06  status: returned  total: $480.81
+  payment method: card ending 6061  ship to: 572 Mill Lane
+  - wool blanket x1
+  - replacement filter cartridge, 3-pack x2
+  - extended warranty, 2 years x3
+
+--- message 1 from Kofi Mensah ---
+The carry-on suitcase from ORD-12429 arrived with a scratch on the side. Can I get a replacement? I tried the chat widget first but it kept disconnecting. Could you also tell me whether ORD-58909 qualifies for the extended return window? Tracking for ORD-58909 hasn't updated since Tuesday.
+
+Best regards,
+Kofi Mensah
+
+--- message 2 from Keiko (support) ---
+I've resent the confirmation email for ORD-12429 to the address on file. Loyalty points post about a week after an order is delivered. For ORD-55978, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Kofi Mensah ---
+I got two receipts for ORD-13604, and both amounts actually left my account. Tracking for ORD-58909 hasn't updated since Tuesday. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Kofi Mensah
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Keiko (support) ---
+Our payment logs show a single capture for ORD-13604. The extra line you saw was an authorization that expired on its own -- no money was taken for it. Let me know if anything else looks off. Our warehouse shows ORD-12429 left on schedule.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Kofi Mensah ---
+I changed my shipping address last month, so please double-check you have the new one. I'm happy to send screenshots if that helps. The bike light set itself is great, for what it's worth.
+
+Kofi Mensah
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Kofi Mensah ---
+Oh, you're right -- I checked my bank this morning and the second line is gone. Only one charge. Sorry for the false alarm! I've been a customer for a few years and usually everything goes smoothly. My earlier order ORD-12429 arrived fine, no complaints there.
+
+Thanks,
+Kofi Mensah
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Kofi Mensah ---
+I've been a customer for a few years and usually everything goes smoothly. Could you also tell me whether ORD-55978 qualifies for the extended return window? I'm travelling next week, so email is the best way to reach me. I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Kofi Mensah
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Keiko (support) ---
+Screenshots aren't necessary, but thank you for offering. For ORD-55978, the return window is 30 days from delivery. Thanks for reaching out, and sorry for the trouble. I've updated your shipping address on file.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Kofi Mensah ---
+Tracking for ORD-58909 hasn't updated since Tuesday. I tried the chat widget first but it kept disconnecting. The box for ORD-55978 was a bit crushed but the contents were fine. The confirmation email for ORD-55978 went to my spam folder, so I only just saw it.
+
+Kofi Mensah
+(Please reply by email rather than phone if possible.)
+
+--- message 10 from Keiko (support) ---
+Loyalty points post about a week after an order is delivered. If you need an invoice for ORD-55978, you can download it from the Orders page. Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

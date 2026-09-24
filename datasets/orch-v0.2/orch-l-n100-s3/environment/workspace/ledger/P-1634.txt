@@ -1,0 +1,10 @@
+Ledger page P-1634
+
+account      amount   see page
+Silva          +180   P-2704
+Park           +260   P-5069
+Grant          -710   P-3866
+Eriksen        -575   P-1428
+Hughes         +275   P-6140
+
+Follow the entry with the second-largest amount.

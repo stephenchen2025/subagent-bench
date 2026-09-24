@@ -1,0 +1,11 @@
+Ledger page P-4422
+
+account      amount   see page
+Kowalski       -117   P-7710
+Fofana         +143   P-9420
+Jensen         +108   P-9200
+Lambert        +793   P-9589
+Silva          -458   P-8300
+Park           +149   P-9532
+
+Follow the entry with the second-largest amount.

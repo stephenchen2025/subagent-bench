@@ -1,0 +1,10 @@
+Ledger page P-1846
+
+account      amount   see page
+Grant          -436   P-1547
+Park           -464   P-7050
+Castillo       +372   P-7069
+Tanaka         -681   P-8170
+Dunn           +455   P-3128
+
+Follow the entry whose amount is closest to zero.

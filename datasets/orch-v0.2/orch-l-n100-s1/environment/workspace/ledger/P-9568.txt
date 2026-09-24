@@ -1,0 +1,11 @@
+Ledger page P-9568
+
+account      amount   see page
+Young          +506   P-2086
+Lambert        -742   P-2228
+Moreau         +552   P-3946
+Tanaka         +255   P-3596
+Xu             +182   P-6667
+Rahman         +538   P-3888
+
+Follow the entry with the second-largest amount.

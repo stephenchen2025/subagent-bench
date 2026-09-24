@@ -1,0 +1,10 @@
+Ledger page P-2098
+
+account      amount   see page
+Osei           -214   P-3784
+Baker          -297   P-9408
+Quinn          +790   P-8683
+Park           -822   P-1380
+Nakamura       +126   P-2116
+
+Follow the entry whose amount is closest to zero.

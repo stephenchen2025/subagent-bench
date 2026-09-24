@@ -1,0 +1,12 @@
+Ledger page P-3409
+
+account      amount   see page
+Umar           +838   P-6269
+Abbott         -383   P-8493
+Lambert        -583   P-3833
+Vance          -684   P-6953
+Dunn           -489   P-9916
+Baker          -538   P-7795
+Rahman         -784   P-7572
+
+Follow the entry with the largest credit.

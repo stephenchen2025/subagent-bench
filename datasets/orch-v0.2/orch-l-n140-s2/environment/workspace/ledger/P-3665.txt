@@ -1,0 +1,12 @@
+Ledger page P-3665
+
+account      amount   see page
+Jensen          -85   P-3573
+Ibarra         +630   P-4422
+Weber          +828   P-1649
+Zhou           +231   P-1575
+Vance          -784   P-9328
+Castillo       -227   P-3961
+Moreau         +818   P-8427
+
+Follow the debit belonging to the account that comes last alphabetically.

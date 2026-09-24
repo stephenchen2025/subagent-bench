@@ -1,0 +1,12 @@
+Ledger page P-8621
+
+account      amount   see page
+Kowalski        +48   P-9747
+Hughes         +624   P-1469
+Castillo       +420   P-5535
+Xu             -777   P-1830
+Lambert        +150   P-3354
+Young          -635   P-4111
+Weber          -292   P-8479
+
+Follow the credit belonging to the account that comes first alphabetically.

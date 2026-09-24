@@ -1,0 +1,10 @@
+Ledger page P-4381
+
+account      amount   see page
+Abbott         -655   P-3933
+Hughes         +779   P-5865
+Park            +26   P-1648
+Umar           +505   P-8620
+Tanaka         +848   P-2376
+
+Follow the entry with the second-largest amount.

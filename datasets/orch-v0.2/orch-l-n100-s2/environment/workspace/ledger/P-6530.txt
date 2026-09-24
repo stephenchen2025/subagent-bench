@@ -1,0 +1,11 @@
+Ledger page P-6530
+
+account      amount   see page
+Silva          +484   P-6140
+Nakamura       -838   P-1382
+Lambert        +842   P-7353
+Dunn           +557   P-7353
+Vance          +628   P-8934
+Castillo       -817   P-2622
+
+Follow the entry with the second-largest amount.

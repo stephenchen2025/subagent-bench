@@ -1,0 +1,10 @@
+Ledger page P-8231
+
+account      amount   see page
+Abbott         +533   P-9140
+Castillo       -611   P-9072
+Young          -469   P-5499
+Silva          -323   P-1551
+Zhou           -150   P-9920
+
+Follow the credit belonging to the account that comes first alphabetically.

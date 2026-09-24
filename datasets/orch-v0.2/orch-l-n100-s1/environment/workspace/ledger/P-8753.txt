@@ -1,0 +1,11 @@
+Ledger page P-8753
+
+account      amount   see page
+Young          -294   P-5225
+Eriksen        -344   P-6544
+Nakamura       -659   P-8793
+Zhou           +117   P-8316
+Lambert        +759   P-8913
+Castillo       +617   P-9713
+
+Follow the entry whose amount is closest to zero.

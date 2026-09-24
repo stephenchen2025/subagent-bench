@@ -1,0 +1,12 @@
+Ledger page P-5888
+
+account      amount   see page
+Abbott         -170   P-8535
+Silva          +766   P-1821
+Castillo       -273   P-5516
+Hughes          -75   P-4751
+Kowalski       -553   P-2868
+Vance          +497   P-8419
+Tanaka           +6   P-1747
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,11 @@
+Ledger page P-4309
+
+account      amount   see page
+Umar           -143   P-1979
+Lambert        -890   P-8887
+Young          +372   P-2467
+Jensen         -238   P-3914
+Vance          -872   P-9263
+Grant          -454   P-1992
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,11 @@
+Ledger page P-3833
+
+account      amount   see page
+Umar           -731   P-4865
+Lambert        -865   P-6962
+Kowalski        -75   P-7572
+Zhou           -789   P-4793
+Moreau         +558   P-3260
+Tanaka         +847   P-1845
+
+Follow the debit belonging to the account that comes last alphabetically.

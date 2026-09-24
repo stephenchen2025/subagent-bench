@@ -1,0 +1,10 @@
+Ledger page P-3011
+
+account      amount   see page
+Moreau         +362   P-9934
+Castillo       +676   P-4433
+Quinn           -62   P-8869
+Tanaka         -291   P-3953
+Eriksen        -613   P-6046
+
+Follow the credit belonging to the account that comes first alphabetically.

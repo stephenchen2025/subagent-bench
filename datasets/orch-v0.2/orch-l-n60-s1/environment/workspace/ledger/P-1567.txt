@@ -1,0 +1,11 @@
+Ledger page P-1567
+
+account      amount   see page
+Ibarra         -658   P-6048
+Umar           +373   P-1348
+Quinn          +265   P-2083
+Abbott          -74   P-4490
+Nakamura       +689   P-9918
+Silva          +172   P-8817
+
+Follow the credit belonging to the account that comes first alphabetically.

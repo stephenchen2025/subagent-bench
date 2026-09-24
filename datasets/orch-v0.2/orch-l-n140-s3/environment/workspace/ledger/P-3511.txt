@@ -1,0 +1,12 @@
+Ledger page P-3511
+
+account      amount   see page
+Kowalski       -355   P-6667
+Nakamura       +852   P-1557
+Rahman         +356   P-1184
+Baker          +704   P-7193
+Ibarra         +722   P-2057
+Xu             -221   P-2006
+Grant          -201   P-7443
+
+Follow the entry whose amount is closest to zero.

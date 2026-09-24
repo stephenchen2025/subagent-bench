@@ -1,0 +1,10 @@
+Ledger page P-4846
+
+account      amount   see page
+Ibarra         -388   P-7523
+Eriksen        +114   P-4898
+Tanaka          +60   P-4051
+Weber          -482   P-9719
+Vance          -129   P-7275
+
+Follow the entry with the largest debit (the most negative amount).

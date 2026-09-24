@@ -1,0 +1,12 @@
+Ledger page P-2212
+
+account      amount   see page
+Hughes         +645   P-1734
+Moreau         +364   P-5493
+Rahman         -299   P-6552
+Vance          -716   P-3800
+Fofana         -801   P-8985
+Zhou            -25   P-9923
+Umar           -869   P-6445
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,81 @@
+Ticket T-7291
+Customer: Maya Cohen
+Orders on file: ORD-70903, ORD-30856, ORD-63877, ORD-70360
+Opened: 2026-03-24 via email
+
+Order details:
+ORD-70903  placed 2026-07-01  status: delivered  total: $242.87
+  payment method: card ending 6559  ship to: 929 Elm Lane
+  - camping stove x1
+  - stainless water bottle, 750ml x1
+  - gift wrap x2
+ORD-30856  placed 2026-06-08  status: delivered  total: $29.61
+  payment method: card ending 2170  ship to: 292 Cedar St
+  - carry-on suitcase x1
+  - merino socks, size M x3
+  - USB-C charging cable (2m) x2
+  - spare battery pack x3
+ORD-63877  placed 2026-05-16  status: label created  total: $141.37
+  payment method: card ending 2341  ship to: 666 Mill Lane
+  - carry-on suitcase x1
+  - travel pouch x1
+  - replacement filter cartridge, 3-pack x3
+  - carabiner set x3
+ORD-70360  placed 2026-07-19  status: delivered  total: $261.95
+  payment method: card ending 9460  ship to: 185 Harbor St
+  - camping stove x1
+  - USB-C charging cable (2m) x1
+  - gift wrap x2
+  - extended warranty, 2 years x2
+
+--- message 1 from Maya Cohen ---
+I need to change the delivery address for ORD-70360 before it ships. The box for ORD-63877 was a bit crushed but the contents were fine. I'm happy to send screenshots if that helps. The cast iron skillet itself is great, for what it's worth.
+
+Best regards,
+Maya Cohen
+
+--- message 2 from Rosa (support) ---
+Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-70903, you can download it from the Orders page. Tracking updates can lag by a day or two with this carrier. I can see all the orders on your account, including ORD-70903.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Maya Cohen ---
+I see two charges on the card app this week, one for ORD-30856 and one for ORD-63877. Both are correct -- I ordered twice on purpose -- but could you send me the invoices for my expense report? I tried the chat widget first but it kept disconnecting. The box for ORD-63877 was a bit crushed but the contents were fine.
+
+Maya Cohen
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Rosa (support) ---
+If you need an invoice for ORD-63877, you can download it from the Orders page. Tracking updates can lag by a day or two with this carrier. I've resent the confirmation email for ORD-70903 to the address on file.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Maya Cohen ---
+Your app logged me out twice while I was looking at this, which didn't help. My partner placed ORD-70903 on our shared account, in case that matters. I'd rather not call; the hold times last time were very long. Tracking for ORD-70360 hasn't updated since Tuesday.
+
+Best regards,
+Maya Cohen
+
+--- message 6 from Rosa (support) ---
+Our warehouse shows ORD-70903 left on schedule. I've resent the confirmation email for ORD-70903 to the address on file. Tracking updates can lag by a day or two with this carrier. If you need an invoice for ORD-70360, you can download it from the Orders page.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Maya Cohen ---
+I've been a customer for a few years and usually everything goes smoothly. I tried the chat widget first but it kept disconnecting. I'd rather not call; the hold times last time were very long. My earlier order ORD-70360 arrived fine, no complaints there.
+
+Best regards,
+Maya Cohen
+
+--- message 8 from Rosa (support) ---
+Loyalty points post about a week after an order is delivered. For ORD-63877, the return window is 30 days from delivery. If you need an invoice for ORD-70360, you can download it from the Orders page. Let me know if anything else looks off.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

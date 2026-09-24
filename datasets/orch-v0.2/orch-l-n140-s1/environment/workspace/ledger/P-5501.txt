@@ -1,0 +1,11 @@
+Ledger page P-5501
+
+account      amount   see page
+Quinn          +163   P-6163
+Tanaka         -595   P-3417
+Castillo        +82   P-6391
+Silva          -275   P-7848
+Hughes         +880   P-9621
+Grant          -518   P-9834
+
+Follow the entry with the largest debit (the most negative amount).

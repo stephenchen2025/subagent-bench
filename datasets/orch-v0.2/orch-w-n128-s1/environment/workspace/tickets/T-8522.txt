@@ -1,0 +1,82 @@
+Ticket T-8522
+Customer: Noah Fischer
+Orders on file: ORD-14825, ORD-61865, ORD-83853, ORD-72279
+Opened: 2026-07-15 via chat transcript
+
+Order details:
+ORD-14825  placed 2026-04-22  status: delivered  total: $407.05
+  payment method: card ending 7520  ship to: 324 Elm Lane
+  - rain jacket x1
+  - spare battery pack x3
+  - gift wrap x3
+ORD-61865  placed 2026-03-17  status: label created  total: $466.06
+  payment method: card ending 2911  ship to: 301 Harbor Rd
+  - water filter pitcher x1
+  - merino socks, size M x2
+  - USB-C charging cable (2m) x3
+ORD-83853  placed 2026-06-28  status: label created  total: $331.08
+  payment method: card ending 1551  ship to: 706 Elm Lane
+  - wool blanket x1
+  - extended warranty, 2 years x2
+  - microfiber cloth x1
+ORD-72279  placed 2026-02-11  status: label created  total: $397.71
+  payment method: card ending 8651  ship to: 272 Oak Ave
+  - bike light set x1
+  - spare battery pack x3
+  - gift wrap x1
+  - extended warranty, 2 years x2
+  - carabiner set x3
+
+--- message 1 from Noah Fischer ---
+Can I use a gift card on ORD-61865, or is it too late? I've been a customer for a few years and usually everything goes smoothly. I'm happy to send screenshots if that helps. I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Dana (support) ---
+Tracking updates can lag by a day or two with this carrier. I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble. Loyalty points post about a week after an order is delivered.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Noah Fischer ---
+Before I retry the payment on ORD-83853 -- is there any risk of a double charge? I'd rather not call; the hold times last time were very long. Tracking for ORD-61865 hasn't updated since Tuesday.
+
+Best regards,
+Noah Fischer
+
+--- message 4 from Dana (support) ---
+Retrying is safe. Our system blocks a second capture on ORD-83853, so a double charge can't happen. Tracking updates can lag by a day or two with this carrier. I can see all the orders on your account, including ORD-72279.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Noah Fischer ---
+The box for ORD-14825 was a bit crushed but the contents were fine. The mechanical keyboard itself is great, for what it's worth. I'm travelling next week, so email is the best way to reach me. I'm happy to send screenshots if that helps.
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Dana (support) ---
+Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context. I've updated your shipping address on file. Tracking updates can lag by a day or two with this carrier.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Noah Fischer ---
+I'd rather not call; the hold times last time were very long. Is there a way to combine loyalty points from ORD-14825 with my next purchase? I've been a customer for a few years and usually everything goes smoothly. The box for ORD-72279 was a bit crushed but the contents were fine.
+
+Best regards,
+Noah Fischer
+
+--- message 8 from Dana (support) ---
+Let me know if anything else looks off. Our warehouse shows ORD-72279 left on schedule. I can see all the orders on your account, including ORD-61865. Loyalty points post about a week after an order is delivered.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

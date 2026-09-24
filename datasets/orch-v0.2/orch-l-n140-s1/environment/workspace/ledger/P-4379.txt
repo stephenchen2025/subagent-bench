@@ -1,0 +1,11 @@
+Ledger page P-4379
+
+account      amount   see page
+Jensen         -643   P-3084
+Tanaka         -160   P-7378
+Moreau         -418   P-6163
+Quinn           +16   P-9791
+Lambert        +315   P-5624
+Dunn           +234   P-8236
+
+Follow the entry with the second-largest amount.

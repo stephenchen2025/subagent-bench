@@ -1,0 +1,12 @@
+Ledger page P-3745
+
+account      amount   see page
+Fofana         +110   P-5044
+Vance          -562   P-8027
+Weber          +181   P-8665
+Moreau          +68   P-2579
+Nakamura       -577   P-1713
+Tanaka         +201   P-5907
+Baker           +15   P-4593
+
+Follow the credit belonging to the account that comes first alphabetically.

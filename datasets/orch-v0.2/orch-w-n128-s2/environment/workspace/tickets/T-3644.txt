@@ -1,0 +1,56 @@
+Ticket T-3644
+Customer: Yuki Tanaka
+Orders on file: ORD-19189, ORD-35424, ORD-40178, ORD-63231
+Opened: 2026-05-06 via web form
+
+Order details:
+ORD-19189  placed 2026-08-20  status: label created  total: $152.77
+  payment method: card ending 1661  ship to: 550 Mill Lane
+  - bike light set x1
+  - replacement filter cartridge, 3-pack x1
+  - stainless water bottle, 750ml x1
+  - microfiber cloth x3
+ORD-35424  placed 2026-06-17  status: delivered  total: $255.48
+  payment method: card ending 5001  ship to: 259 Cedar Ave
+  - rain jacket x1
+  - microfiber cloth x1
+  - extended warranty, 2 years x2
+  - USB-C charging cable (2m) x3
+  - spare battery pack x1
+ORD-40178  placed 2026-05-15  status: delivered  total: $37.52
+  payment method: card ending 8026  ship to: 371 Cedar Ave
+  - yoga mat x1
+  - travel pouch x3
+  - microfiber cloth x2
+ORD-63231  placed 2026-05-08  status: delivered  total: $134.94
+  payment method: card ending 5618  ship to: 759 Elm St
+  - carry-on suitcase x1
+  - USB-C charging cable (2m) x3
+  - carabiner set x1
+
+--- message 1 from Yuki Tanaka ---
+The rain jacket from ORD-35424 arrived with a scratch on the side. Can I get a replacement? My partner placed ORD-35424 on our shared account, in case that matters. I'm travelling next week, so email is the best way to reach me. Tracking for ORD-19189 hasn't updated since Tuesday.
+
+Best regards,
+Yuki Tanaka
+
+--- message 2 from Dana (support) ---
+I can see all the orders on your account, including ORD-40178. Our warehouse shows ORD-19189 left on schedule. Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-40178, you can download it from the Orders page.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Yuki Tanaka ---
+My earlier order ORD-40178 arrived fine, no complaints there. I've been a customer for a few years and usually everything goes smoothly. I tried the chat widget first but it kept disconnecting. I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Yuki Tanaka
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Dana (support) ---
+I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble. Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

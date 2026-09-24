@@ -1,0 +1,11 @@
+Ledger page P-1195
+
+account      amount   see page
+Silva          +518   P-3474
+Rahman         -175   P-9647
+Young          -549   P-6361
+Baker           +70   P-3624
+Hughes          -16   P-9109
+Castillo       -221   P-7465
+
+Follow the entry with the largest credit.

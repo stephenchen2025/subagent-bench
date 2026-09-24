@@ -1,0 +1,11 @@
+Ledger page P-9690
+
+account      amount   see page
+Vance          +811   P-9363
+Moreau         +600   P-3084
+Umar           -547   P-9834
+Zhou            -25   P-5405
+Nakamura       +422   P-1820
+Xu             -585   P-1092
+
+Follow the entry with the second-largest amount.

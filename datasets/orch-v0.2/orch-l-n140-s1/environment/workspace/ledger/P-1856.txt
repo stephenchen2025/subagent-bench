@@ -1,0 +1,11 @@
+Ledger page P-1856
+
+account      amount   see page
+Dunn           -402   P-4680
+Weber          +743   P-6988
+Moreau          -10   P-3392
+Xu             +172   P-5320
+Hughes         +860   P-1384
+Castillo       +367   P-3864
+
+Follow the entry with the largest credit.

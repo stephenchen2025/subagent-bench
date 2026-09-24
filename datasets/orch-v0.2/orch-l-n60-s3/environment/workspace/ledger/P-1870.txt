@@ -1,0 +1,10 @@
+Ledger page P-1870
+
+account      amount   see page
+Nakamura       +335   P-7083
+Park           -613   P-7407
+Xu             -417   P-4252
+Lambert        -688   P-1648
+Zhou           -725   P-3584
+
+Follow the entry with the second-largest amount.

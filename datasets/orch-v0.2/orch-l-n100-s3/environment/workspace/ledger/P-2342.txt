@@ -1,0 +1,11 @@
+Ledger page P-2342
+
+account      amount   see page
+Weber          -524   P-4759
+Abbott         +341   P-5602
+Grant          -536   P-7050
+Nakamura       +839   P-9150
+Lambert        +402   P-8123
+Xu             +396   P-9218
+
+Follow the entry with the second-largest amount.

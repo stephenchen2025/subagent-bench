@@ -1,0 +1,12 @@
+Ledger page P-2973
+
+account      amount   see page
+Castillo       +115   P-8691
+Grant           +85   P-2238
+Vance          +591   P-8558
+Xu             +189   P-6868
+Park           -352   P-8008
+Jensen          -69   P-6266
+Quinn          +145   P-8691
+
+Follow the entry with the largest credit.

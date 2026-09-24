@@ -1,0 +1,12 @@
+Ledger page P-3892
+
+account      amount   see page
+Hughes         +235   P-7041
+Grant          -331   P-1635
+Kowalski       +110   P-9423
+Fofana          -66   P-4998
+Weber          +680   P-6783
+Quinn          +138   P-8493
+Park           -894   P-8427
+
+Follow the entry with the largest credit.

@@ -1,0 +1,10 @@
+Ledger page P-6525
+
+account      amount   see page
+Xu             -193   P-3659
+Park           +875   P-6271
+Nakamura       +608   P-1081
+Jensen         -850   P-8674
+Vance          -710   P-8643
+
+Follow the entry with the second-largest amount.

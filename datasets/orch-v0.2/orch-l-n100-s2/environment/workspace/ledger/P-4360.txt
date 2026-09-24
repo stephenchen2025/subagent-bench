@@ -1,0 +1,12 @@
+Ledger page P-4360
+
+account      amount   see page
+Rahman         +642   P-5940
+Jensen         +461   P-6673
+Silva          -521   P-2681
+Umar           +459   P-1082
+Nakamura       -760   P-2082
+Vance          +286   P-2618
+Osei           -187   P-3078
+
+Follow the debit belonging to the account that comes last alphabetically.

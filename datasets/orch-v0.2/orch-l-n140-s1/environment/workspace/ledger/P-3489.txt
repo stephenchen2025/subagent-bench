@@ -1,0 +1,11 @@
+Ledger page P-3489
+
+account      amount   see page
+Grant          -762   P-9578
+Vance          -868   P-3990
+Weber          +406   P-6163
+Osei           +200   P-9322
+Hughes         +809   P-4197
+Lambert        +170   P-1204
+
+Follow the entry whose amount is closest to zero.

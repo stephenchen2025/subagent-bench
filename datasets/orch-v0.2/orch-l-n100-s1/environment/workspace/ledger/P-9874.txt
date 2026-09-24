@@ -1,0 +1,10 @@
+Ledger page P-9874
+
+account      amount   see page
+Dunn           -325   P-2760
+Kowalski       +724   P-3528
+Vance          +880   P-3212
+Rahman         -339   P-5664
+Nakamura       -868   P-9897
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,2072 @@
+{
+  "checks": [
+    "check_order",
+    "check_invalid",
+    "check_legacy_order",
+    "check_regression",
+    "check_view_jira_comment",
+    "check_view_invoice_note",
+    "check_view_csv_line",
+    "check_view_exec_summary",
+    "check_view_printer_slip",
+    "check_view_wiki_table",
+    "check_view_teams_card",
+    "check_view_archive_label",
+    "check_view_discord_embed",
+    "check_view_sms_brief",
+    "check_view_qa_checklist",
+    "check_view_cli_table",
+    "check_view_markdown_list",
+    "check_view_mobile_push",
+    "check_view_webhook_payload",
+    "check_view_tv_wall",
+    "check_view_desktop_toast",
+    "check_view_html_row",
+    "check_view_slack_alert",
+    "check_view_kiosk_screen"
+  ],
+  "views": {
+    "jira_comment": {
+      "style": "bracket",
+      "position": "suffix",
+      "layout": 3,
+      "audience": "release managers",
+      "history": [
+        "A request to add colours in the terminal was declined to keep output plain text.",
+        "Switched from a fixed-width layout after complaints about truncation on small screens.",
+        "Moved from the legacy notifier into views/ as part of the views consolidation.",
+        "Added the state column; before that the view only showed the job name.",
+        "Renamed from its old module name; the old name is gone.",
+        "The layout was reviewed with the design team; keep separators exactly as they are.",
+        "Owners asked that the format stay stable because downstream parsers depend on it.",
+        "Localisation was considered and deferred; everything is English for now."
+      ],
+      "examples": [
+        [
+          "job-0374",
+          "purge-cache",
+          "running",
+          "high"
+        ],
+        [
+          "job-0711",
+          "compact-logs",
+          "running",
+          "normal"
+        ],
+        [
+          "job-0588",
+          "sync-inventory",
+          "pending",
+          "high"
+        ],
+        [
+          "job-0511",
+          "export-ledger",
+          "pending",
+          "low"
+        ],
+        [
+          "job-0072",
+          "purge-cache",
+          "failed",
+          "high"
+        ],
+        [
+          "job-0535",
+          "rebuild-feed",
+          "running",
+          "normal"
+        ],
+        [
+          "job-0662",
+          "compact-logs",
+          "pending",
+          "low"
+        ],
+        [
+          "job-0047",
+          "renew-certs",
+          "done",
+          "low"
+        ],
+        [
+          "job-0118",
+          "invoice-run",
+          "running",
+          "high"
+        ],
+        [
+          "job-0499",
+          "renew-certs",
+          "running",
+          "low"
+        ],
+        [
+          "job-0403",
+          "send-digest",
+          "running",
+          "normal"
+        ],
+        [
+          "job-0487",
+          "compact-logs",
+          "pending",
+          "low"
+        ],
+        [
+          "job-0063",
+          "compact-logs",
+          "failed",
+          "high"
+        ],
+        [
+          "job-0672",
+          "rotate-keys",
+          "failed",
+          "low"
+        ]
+      ]
+    },
+    "invoice_note": {
+      "style": "p_number",
+      "position": "prefix",
+      "layout": 2,
+      "audience": "mobile users",
+      "history": [
+        "Switched from a fixed-width layout after complaints about truncation on small screens.",
+        "Renamed from its old module name; the old name is gone.",
+        "Owners asked that the format stay stable because downstream parsers depend on it.",
+        "Moved from the legacy notifier into views/ as part of the views consolidation.",
+        "A request to add colours in the terminal was declined to keep output plain text.",
+        "The layout was reviewed with the design team; keep separators exactly as they are.",
+        "Localisation was considered and deferred; everything is English for now.",
+        "Added the state column; before that the view only showed the job name."
+      ],
+      "examples": [
+        [
+          "job-0642",
+          "send-digest",
+          "pending",
+          "low"
+        ],
+        [
+          "job-0525",
+          "purge-cache",
+          "running",
+          "high"
+        ],
+        [
+          "job-0399",
+          "reindex-search",
+          "failed",
+          "high"
+        ],
+        [
+          "job-0209",
+          "resize-images",
+          "pending",
+          "low"
+        ],
+        [
+          "job-0986",
+          "compact-logs",
+          "pending",
+          "normal"
+        ],
+        [
+          "job-0430",
+          "send-digest",
+          "running",
+          "normal"
+        ],
+        [
+          "job-0009",
+          "rotate-keys",
+          "pending",
+          "low"
+        ],
+        [
+          "job-0399",
+          "renew-certs",
+          "pending",
+          "low"
+        ],
+        [
+          "job-0830",
+          "send-digest",
+          "running",
+          "normal"
+        ],
+        [
+          "job-0254",
+          "export-ledger",
+          "running",
+          "low"
+        ],
+        [
+          "job-0004",
+          "rebuild-feed",
+          "running",
+          "low"
+        ],
+        [
+          "job-0082",
+          "rotate-keys",
+          "running",
+          "low"
+        ],
+        [
+          "job-0752",
+          "invoice-run",
+          "failed",
+          "low"
+        ],
+        [
+          "job-0680",
+          "invoice-run",
+          "running",
+          "high"
+        ]
+      ]
+    },
+    "csv_line": {
+      "style": "stars",
+      "position": "suffix",
+      "layout": 3,
+      "audience": "release managers",
+      "history": [
+        "Owners asked that the format stay stable because downstream parsers depend on it.",
+        "The layout was reviewed with the design team; keep separators exactly as they are.",
+        "Renamed from its old module name; the old name is gone.",
+        "Added the state column; before that the view only showed the job name.",
+        "A request to add colours in the terminal was declined to keep output plain text.",
+        "Switched from a fixed-width layout after complaints about truncation on small screens.",
+        "Localisation was considered and deferred; everything is English for now.",
+        "Moved from the legacy notifier into views/ as part of the views consolidation."
+      ],
+      "examples": [
+        [
+          "job-0628",
+          "purge-cache",
+          "pending",
+          "high"
+        ],
+        [
+          "job-0242",
+          "invoice-run",
+          "running",
+          "high"
+        ],
+        [
+          "job-0636",
+          "export-ledger",
+          "pending",
+          "low"
+        ],
+        [
+          "job-0262",
+          "reindex-search",
+          "failed",
+          "high"
+        ],
+        [
+          "job-0631",
+          "export-ledger",
+          "running",
+          "normal"
+        ],
+        [
+          "job-0769",
+          "export-ledger",
+          "running",
+          "high"
+        ],
+        [
+          "job-0303",
+          "compact-logs",
+          "failed",
+          "normal"
+        ],
+        [
+          "job-0586",
+          "export-ledger",
+          "failed",
+          "low"
+        ],
+        [
+          "job-0028",
+          "compact-logs",
+          "running",
+          "normal"
+        ],
+        [
+          "job-0309",
+          "invoice-run",
+          "running",
+          "high"
+        ],
+        [
+          "job-0592",
+          "purge-cache",
+          "done",
+          "low"
+        ],
+        [
+          "job-0354",
+          "purge-cache",
+          "running",
+          "normal"
+        ],
+        [
+          "job-0900",
+          "rotate-keys",
+          "pending",
+          "low"
+        ],
+        [
+          "job-0897",
+          "resize-images",
+          "failed",
+          "normal"
+        ]
+      ]
+    },
+    "exec_summary": {
+      "style": "bangs",
+      "position": "prefix",
+      "layout": 3,
+      "audience": "the platform team's wall display",
+      "history": [
+        "Owners asked that the format stay stable because downstream parsers depend on it.",
+        "A request to add colours in the terminal was declined to keep output plain text.",
+        "Added the state column; before that the view only showed the job name.",
+        "The layout was reviewed with the design team; keep separators exactly as they are.",
+        "Moved from the legacy notifier into views/ as part of the views consolidation.",
+        "Localisation was considered and deferred; everything is English for now.",
+        "Switched from a fixed-width layout after complaints about truncation on small screens.",
+        "Renamed from its old module name; the old name is gone."
+      ],
+      "examples": [
+        [
+          "job-0416",
+          "rotate-keys",
+          "running",
+          "high"
+        ],
+        [
+          "job-0731",
+          "sync-inventory",
+          "done",
+          "low"
+        ],
+        [
+          "job-0265",
+          "rotate-keys",
+          "failed",
+          "normal"
+        ],
+        [
+          "job-0679",
+          "sync-inventory",
+          "running",
+          "high"
+        ],
+        [
+          "job-0757",
+          "rebuild-feed",
+          "failed",
+          "low"
+        ],
+        [
+          "job-0626",
+          "reindex-search",
+          "pending",
+          "high"
+        ],
+        [
+          "job-0632",
+          "renew-certs",
+          "failed",
+          "low"
+        ],
+        [
+          "job-0412",
+          "rebuild-feed",
+          "running",
+          "normal"
+        ],
+        [
+          "job-0609",
+          "purge-cache",
+          "failed",
+          "normal"
+        ],
+        [
+          "job-0065",
+          "reindex-search",
+          "failed",
+          "normal"
+        ],
+        [
+          "job-0323",
+          "compact-logs",
+          "running",
+          "low"
+        ],
+        [
+          "job-0615",
+          "nightly-backup",
+          "pending",
+          "low"
+        ],
+        [
+          "job-0280",
+          "nightly-backup",
+          "failed",
+          "normal"
+        ],
+        [
+          "job-0006",
+          "compact-logs",
+          "done",
+          "low"
+        ]
+      ]
+    },
+    "printer_slip": {
+      "style": "color",
+      "position": "suffix",
+      "layout": 2,
+      "audience": "the executive summary email",
+      "history": [
+        "Moved from the legacy notifier into views/ as part of the views consolidation.",
+        "Renamed from its old module name; the old name is gone.",
+        "A request to add colours in the terminal was declined to keep output plain text.",
+        "Localisation was considered and deferred; everything is English for now.",
+        "The layout was reviewed with the design team; keep separators exactly as they are.",
+        "Added the state column; before that the view only showed the job name.",
+        "Owners asked that the format stay stable because downstream parsers depend on it.",
+        "Switched from a fixed-width layout after complaints about truncation on small screens."
+      ],
+      "examples": [
+        [
+          "job-0703",
+          "compact-logs",
+          "done",
+          "high"
+        ],
+        [
+          "job-0096",
+          "rotate-keys",
+          "running",
+          "high"
+        ],
+        [
+          "job-0021",
+          "purge-cache",
+          "done",
+          "low"
+        ],
+        [
+          "job-0509",
+          "reindex-search",
+          "failed",
+          "normal"
+        ],
+        [
+          "job-0542",
+          "export-ledger",
+          "pending",
+          "high"
+        ],
+        [
+          "job-0946",
+          "reindex-search",
+          "pending",
+          "normal"
+        ],
+        [
+          "job-0488",
+          "renew-certs",
+          "failed",
+          "high"
+        ],
+        [
+          "job-0032",
+          "sync-inventory",
+          "done",
+          "normal"
+        ],
+        [
+          "job-0394",
+          "invoice-run",
+          "running",
+          "low"
+        ],
+        [
+          "job-0245",
+          "nightly-backup",
+          "pending",
+          "low"
+        ],
+        [
+          "job-0057",
+          "export-ledger",
+          "failed",
+          "low"
+        ],
+        [
+          "job-0963",
+          "resize-images",
+          "running",
+          "low"
+        ],
+        [
+          "job-0383",
+          "sync-inventory",
+          "done",
+          "high"
+        ],
+        [
+          "job-0052",
+          "sync-inventory",
+          "running",
+          "normal"
+        ]
+      ]
+    },
+    "wiki_table": {
+      "style": "word",
+      "position": "suffix",
+      "layout": 1,
+      "audience": "the finance team's weekly review",
+      "history": [
+        "Localisation was considered and deferred; everything is English for now.",
+        "Added the state column; before that the view only showed the job name.",
+        "Moved from the legacy notifier into views/ as part of the views consolidation.",
+        "Renamed from its old module name; the old name is gone.",
+        "Switched from a fixed-width layout after complaints about truncation on small screens.",
+        "Owners asked that the format stay stable because downstream parsers depend on it.",
+        "The layout was reviewed with the design team; keep separators exactly as they are.",
+        "A request to add colours in the terminal was declined to keep output plain text."
+      ],
+      "examples": [
+        [
+          "job-0696",
+          "purge-cache",
+          "done",
+          "normal"
+        ],
+        [
+          "job-0589",
+          "sync-inventory",
+          "pending",
+          "normal"
+        ],
+        [
+          "job-0623",
+          "rebuild-feed",
+          "done",
+          "low"
+        ],
+        [
+          "job-0012",
+          "compact-logs",
+          "done",
+          "normal"
+        ],
+        [
+          "job-0619",
+          "nightly-backup",
+          "pending",
+          "high"
+        ],
+        [
+          "job-0959",
+          "sync-inventory",
+          "running",
+          "low"
+        ],
+        [
+          "job-0735",
+          "nightly-backup",
+          "failed",
+          "normal"
+        ],
+        [
+          "job-0268",
+          "export-ledger",
+          "pending",
+          "low"
+        ],
+        [
+          "job-0830",
+          "sync-inventory",
+          "failed",
+          "high"
+        ],
+        [
+          "job-0664",
+          "purge-cache",
+          "done",
+          "normal"
+        ],
+        [
+          "job-0312",
+          "purge-cache",
+          "done",
+          "low"
+        ],
+        [
+          "job-0126",
+          "nightly-backup",
+          "done",
+          "normal"
+        ],
+        [
+          "job-0386",
+          "export-ledger",
+          "done",
+          "high"
+        ],
+        [
+          "job-0731",
+          "send-digest",
+          "running",
+          "low"
+        ]
+      ]
+    },
+    "teams_card": {
+      "style": "level",
+      "position": "suffix",
+      "layout": 4,
+      "audience": "the finance team's weekly review",
+      "history": [
+        "Added the state column; before that the view only showed the job name.",
+        "Switched from a fixed-width layout after complaints about truncation on small screens.",
+        "Localisation was considered and deferred; everything is English for now.",
+        "Owners asked that the format stay stable because downstream parsers depend on it.",
+        "Renamed from its old module name; the old name is gone.",
+        "The layout was reviewed with the design team; keep separators exactly as they are.",
+        "Moved from the legacy notifier into views/ as part of the views consolidation.",
+        "A request to add colours in the terminal was declined to keep output plain text."
+      ],
+      "examples": [
+        [
+          "job-0914",
+          "nightly-backup",
+          "running",
+          "high"
+        ],
+        [
+          "job-0317",
+          "renew-certs",
+          "running",
+          "normal"
+        ],
+        [
+          "job-0551",
+          "invoice-run",
+          "running",
+          "high"
+        ],
+        [
+          "job-0462",
+          "export-ledger",
+          "done",
+          "high"
+        ],
+        [
+          "job-0681",
+          "export-ledger",
+          "pending",
+          "normal"
+        ],
+        [
+          "job-0451",
+          "resize-images",
+          "done",
+          "high"
+        ],
+        [
+          "job-0804",
+          "nightly-backup",
+          "failed",
+          "normal"
+        ],
+        [
+          "job-0889",
+          "renew-certs",
+          "failed",
+          "normal"
+        ],
+        [
+          "job-0275",
+          "invoice-run",
+          "running",
+          "normal"
+        ],
+        [
+          "job-0113",
+          "export-ledger",
+          "pending",
+          "high"
+        ],
+        [
+          "job-0347",
+          "export-ledger",
+          "failed",
+          "low"
+        ],
+        [
+          "job-0412",
+          "renew-certs",
+          "done",
+          "low"
+        ],
+        [
+          "job-0059",
+          "purge-cache",
+          "failed",
+          "low"
+        ],
+        [
+          "job-0596",
+          "send-digest",
+          "running",
+          "low"
+        ]
+      ]
+    },
+    "archive_label": {
+      "style": "arrows",
+      "position": "prefix",
+      "layout": 4,
+      "audience": "the executive summary email",
+      "history": [
+        "Renamed from its old module name; the old name is gone.",
+        "Added the state column; before that the view only showed the job name.",
+        "Owners asked that the format stay stable because downstream parsers depend on it.",
+        "A request to add colours in the terminal was declined to keep output plain text.",
+        "The layout was reviewed with the design team; keep separators exactly as they are.",
+        "Switched from a fixed-width layout after complaints about truncation on small screens.",
+        "Moved from the legacy notifier into views/ as part of the views consolidation.",
+        "Localisation was considered and deferred; everything is English for now."
+      ],
+      "examples": [
+        [
+          "job-0231",
+          "invoice-run",
+          "failed",
+          "normal"
+        ],
+        [
+          "job-0128",
+          "invoice-run",
+          "running",
+          "low"
+        ],
+        [
+          "job-0584",
+          "purge-cache",
+          "running",
+          "high"
+        ],
+        [
+          "job-0003",
+          "nightly-backup",
+          "running",
+          "normal"
+        ],
+        [
+          "job-0360",
+          "sync-inventory",
+          "done",
+          "high"
+        ],
+        [
+          "job-0242",
+          "resize-images",
+          "failed",
+          "normal"
+        ],
+        [
+          "job-0240",
+          "sync-inventory",
+          "pending",
+          "low"
+        ],
+        [
+          "job-0085",
+          "resize-images",
+          "failed",
+          "normal"
+        ],
+        [
+          "job-0865",
+          "invoice-run",
+          "pending",
+          "normal"
+        ],
+        [
+          "job-0900",
+          "sync-inventory",
+          "done",
+          "normal"
+        ],
+        [
+          "job-0493",
+          "nightly-backup",
+          "pending",
+          "normal"
+        ],
+        [
+          "job-0802",
+          "purge-cache",
+          "done",
+          "normal"
+        ],
+        [
+          "job-0951",
+          "rebuild-feed",
+          "done",
+          "normal"
+        ],
+        [
+          "job-0548",
+          "resize-images",
+          "failed",
+          "low"
+        ]
+      ]
+    },
+    "discord_embed": {
+      "style": "urgency",
+      "position": "suffix",
+      "layout": 1,
+      "audience": "customer support leads",
+      "history": [
+        "Moved from the legacy notifier into views/ as part of the views consolidation.",
+        "A request to add colours in the terminal was declined to keep output plain text.",
+        "Localisation was considered and deferred; everything is English for now.",
+        "Renamed from its old module name; the old name is gone.",
+        "Switched from a fixed-width layout after complaints about truncation on small screens.",
+        "The layout was reviewed with the design team; keep separators exactly as they are.",
+        "Added the state column; before that the view only showed the job name.",
+        "Owners asked that the format stay stable because downstream parsers depend on it."
+      ],
+      "examples": [
+        [
+          "job-0649",
+          "purge-cache",
+          "running",
+          "high"
+        ],
+        [
+          "job-0563",
+          "send-digest",
+          "done",
+          "low"
+        ],
+        [
+          "job-0521",
+          "invoice-run",
+          "failed",
+          "low"
+        ],
+        [
+          "job-0080",
+          "nightly-backup",
+          "done",
+          "low"
+        ],
+        [
+          "job-0242",
+          "compact-logs",
+          "running",
+          "low"
+        ],
+        [
+          "job-0908",
+          "purge-cache",
+          "running",
+          "normal"
+        ],
+        [
+          "job-0117",
+          "resize-images",
+          "failed",
+          "low"
+        ],
+        [
+          "job-0755",
+          "rebuild-feed",
+          "running",
+          "normal"
+        ],
+        [
+          "job-0198",
+          "export-ledger",
+          "running",
+          "low"
+        ],
+        [
+          "job-0761",
+          "reindex-search",
+          "done",
+          "normal"
+        ],
+        [
+          "job-0122",
+          "rotate-keys",
+          "failed",
+          "low"
+        ],
+        [
+          "job-0543",
+          "send-digest",
+          "done",
+          "low"
+        ],
+        [
+          "job-0071",
+          "export-ledger",
+          "running",
+          "high"
+        ],
+        [
+          "job-0301",
+          "rebuild-feed",
+          "failed",
+          "normal"
+        ]
+      ]
+    },
+    "sms_brief": {
+      "style": "word",
+      "position": "prefix",
+      "layout": 2,
+      "audience": "the finance team's weekly review",
+      "history": [
+        "Localisation was considered and deferred; everything is English for now.",
+        "Added the state column; before that the view only showed the job name.",
+        "Renamed from its old module name; the old name is gone.",
+        "Owners asked that the format stay stable because downstream parsers depend on it.",
+        "A request to add colours in the terminal was declined to keep output plain text.",
+        "Switched from a fixed-width layout after complaints about truncation on small screens.",
+        "Moved from the legacy notifier into views/ as part of the views consolidation.",
+        "The layout was reviewed with the design team; keep separators exactly as they are."
+      ],
+      "examples": [
+        [
+          "job-0396",
+          "export-ledger",
+          "running",
+          "low"
+        ],
+        [
+          "job-0685",
+          "reindex-search",
+          "pending",
+          "low"
+        ],
+        [
+          "job-0071",
+          "invoice-run",
+          "pending",
+          "high"
+        ],
+        [
+          "job-0279",
+          "rotate-keys",
+          "done",
+          "high"
+        ],
+        [
+          "job-0435",
+          "renew-certs",
+          "failed",
+          "normal"
+        ],
+        [
+          "job-0700",
+          "compact-logs",
+          "failed",
+          "low"
+        ],
+        [
+          "job-0904",
+          "send-digest",
+          "done",
+          "normal"
+        ],
+        [
+          "job-0536",
+          "send-digest",
+          "pending",
+          "high"
+        ],
+        [
+          "job-0069",
+          "reindex-search",
+          "running",
+          "high"
+        ],
+        [
+          "job-0856",
+          "export-ledger",
+          "done",
+          "normal"
+        ],
+        [
+          "job-0731",
+          "sync-inventory",
+          "failed",
+          "high"
+        ],
+        [
+          "job-0329",
+          "rebuild-feed",
+          "done",
+          "normal"
+        ],
+        [
+          "job-0684",
+          "rebuild-feed",
+          "running",
+          "normal"
+        ],
+        [
+          "job-0101",
+          "renew-certs",
+          "failed",
+          "normal"
+        ]
+      ]
+    },
+    "qa_checklist": {
+      "style": "bracket",
+      "position": "suffix",
+      "layout": 1,
+      "audience": "the finance team's weekly review",
+      "history": [
+        "Added the state column; before that the view only showed the job name.",
+        "The layout was reviewed with the design team; keep separators exactly as they are.",
+        "Renamed from its old module name; the old name is gone.",
+        "Switched from a fixed-width layout after complaints about truncation on small screens.",
+        "Moved from the legacy notifier into views/ as part of the views consolidation.",
+        "Owners asked that the format stay stable because downstream parsers depend on it.",
+        "Localisation was considered and deferred; everything is English for now.",
+        "A request to add colours in the terminal was declined to keep output plain text."
+      ],
+      "examples": [
+        [
+          "job-0330",
+          "purge-cache",
+          "failed",
+          "normal"
+        ],
+        [
+          "job-0149",
+          "resize-images",
+          "done",
+          "low"
+        ],
+        [
+          "job-0403",
+          "invoice-run",
+          "done",
+          "high"
+        ],
+        [
+          "job-0182",
+          "export-ledger",
+          "done",
+          "normal"
+        ],
+        [
+          "job-0639",
+          "sync-inventory",
+          "done",
+          "high"
+        ],
+        [
+          "job-0936",
+          "sync-inventory",
+          "pending",
+          "high"
+        ],
+        [
+          "job-0686",
+          "rotate-keys",
+          "running",
+          "high"
+        ],
+        [
+          "job-0733",
+          "renew-certs",
+          "failed",
+          "high"
+        ],
+        [
+          "job-0878",
+          "reindex-search",
+          "failed",
+          "normal"
+        ],
+        [
+          "job-0486",
+          "resize-images",
+          "failed",
+          "normal"
+        ],
+        [
+          "job-0340",
+          "rebuild-feed",
+          "running",
+          "high"
+        ],
+        [
+          "job-0549",
+          "rotate-keys",
+          "done",
+          "high"
+        ],
+        [
+          "job-0807",
+          "rotate-keys",
+          "failed",
+          "high"
+        ],
+        [
+          "job-0112",
+          "compact-logs",
+          "done",
+          "normal"
+        ]
+      ]
+    },
+    "cli_table": {
+      "style": "level",
+      "position": "prefix",
+      "layout": 4,
+      "audience": "release managers",
+      "history": [
+        "The layout was reviewed with the design team; keep separators exactly as they are.",
+        "A request to add colours in the terminal was declined to keep output plain text.",
+        "Renamed from its old module name; the old name is gone.",
+        "Switched from a fixed-width layout after complaints about truncation on small screens.",
+        "Owners asked that the format stay stable because downstream parsers depend on it.",
+        "Moved from the legacy notifier into views/ as part of the views consolidation.",
+        "Added the state column; before that the view only showed the job name.",
+        "Localisation was considered and deferred; everything is English for now."
+      ],
+      "examples": [
+        [
+          "job-0454",
+          "export-ledger",
+          "running",
+          "low"
+        ],
+        [
+          "job-0309",
+          "rebuild-feed",
+          "pending",
+          "normal"
+        ],
+        [
+          "job-0752",
+          "compact-logs",
+          "pending",
+          "high"
+        ],
+        [
+          "job-0164",
+          "rotate-keys",
+          "pending",
+          "normal"
+        ],
+        [
+          "job-0496",
+          "reindex-search",
+          "running",
+          "normal"
+        ],
+        [
+          "job-0420",
+          "resize-images",
+          "running",
+          "high"
+        ],
+        [
+          "job-0043",
+          "rebuild-feed",
+          "failed",
+          "high"
+        ],
+        [
+          "job-0447",
+          "purge-cache",
+          "pending",
+          "normal"
+        ],
+        [
+          "job-0651",
+          "rebuild-feed",
+          "pending",
+          "high"
+        ],
+        [
+          "job-0621",
+          "rebuild-feed",
+          "failed",
+          "low"
+        ],
+        [
+          "job-0591",
+          "rebuild-feed",
+          "running",
+          "normal"
+        ],
+        [
+          "job-0378",
+          "nightly-backup",
+          "done",
+          "high"
+        ],
+        [
+          "job-0218",
+          "rebuild-feed",
+          "failed",
+          "high"
+        ],
+        [
+          "job-0284",
+          "purge-cache",
+          "pending",
+          "low"
+        ]
+      ]
+    },
+    "markdown_list": {
+      "style": "arrows",
+      "position": "prefix",
+      "layout": 3,
+      "audience": "the executive summary email",
+      "history": [
+        "Moved from the legacy notifier into views/ as part of the views consolidation.",
+        "A request to add colours in the terminal was declined to keep output plain text.",
+        "Switched from a fixed-width layout after complaints about truncation on small screens.",
+        "Added the state column; before that the view only showed the job name.",
+        "Renamed from its old module name; the old name is gone.",
+        "Owners asked that the format stay stable because downstream parsers depend on it.",
+        "The layout was reviewed with the design team; keep separators exactly as they are.",
+        "Localisation was considered and deferred; everything is English for now."
+      ],
+      "examples": [
+        [
+          "job-0928",
+          "send-digest",
+          "running",
+          "low"
+        ],
+        [
+          "job-0747",
+          "rotate-keys",
+          "running",
+          "high"
+        ],
+        [
+          "job-0607",
+          "reindex-search",
+          "pending",
+          "high"
+        ],
+        [
+          "job-0860",
+          "reindex-search",
+          "done",
+          "normal"
+        ],
+        [
+          "job-0410",
+          "export-ledger",
+          "done",
+          "high"
+        ],
+        [
+          "job-0971",
+          "renew-certs",
+          "pending",
+          "low"
+        ],
+        [
+          "job-0569",
+          "rotate-keys",
+          "running",
+          "low"
+        ],
+        [
+          "job-0767",
+          "renew-certs",
+          "pending",
+          "high"
+        ],
+        [
+          "job-0325",
+          "purge-cache",
+          "failed",
+          "low"
+        ],
+        [
+          "job-0285",
+          "rebuild-feed",
+          "running",
+          "normal"
+        ],
+        [
+          "job-0996",
+          "nightly-backup",
+          "done",
+          "high"
+        ],
+        [
+          "job-0298",
+          "nightly-backup",
+          "done",
+          "normal"
+        ],
+        [
+          "job-0175",
+          "send-digest",
+          "done",
+          "high"
+        ],
+        [
+          "job-0674",
+          "reindex-search",
+          "running",
+          "low"
+        ]
+      ]
+    },
+    "mobile_push": {
+      "style": "urgency",
+      "position": "prefix",
+      "layout": 1,
+      "audience": "the finance team's weekly review",
+      "history": [
+        "Switched from a fixed-width layout after complaints about truncation on small screens.",
+        "Renamed from its old module name; the old name is gone.",
+        "Localisation was considered and deferred; everything is English for now.",
+        "Owners asked that the format stay stable because downstream parsers depend on it.",
+        "The layout was reviewed with the design team; keep separators exactly as they are.",
+        "Moved from the legacy notifier into views/ as part of the views consolidation.",
+        "A request to add colours in the terminal was declined to keep output plain text.",
+        "Added the state column; before that the view only showed the job name."
+      ],
+      "examples": [
+        [
+          "job-0968",
+          "renew-certs",
+          "pending",
+          "normal"
+        ],
+        [
+          "job-0242",
+          "export-ledger",
+          "running",
+          "normal"
+        ],
+        [
+          "job-0259",
+          "send-digest",
+          "done",
+          "high"
+        ],
+        [
+          "job-0856",
+          "rotate-keys",
+          "pending",
+          "high"
+        ],
+        [
+          "job-0740",
+          "purge-cache",
+          "done",
+          "low"
+        ],
+        [
+          "job-0675",
+          "resize-images",
+          "failed",
+          "low"
+        ],
+        [
+          "job-0289",
+          "purge-cache",
+          "running",
+          "normal"
+        ],
+        [
+          "job-0500",
+          "purge-cache",
+          "failed",
+          "high"
+        ],
+        [
+          "job-0215",
+          "compact-logs",
+          "done",
+          "high"
+        ],
+        [
+          "job-0245",
+          "nightly-backup",
+          "done",
+          "low"
+        ],
+        [
+          "job-0989",
+          "renew-certs",
+          "done",
+          "low"
+        ],
+        [
+          "job-0979",
+          "reindex-search",
+          "failed",
+          "high"
+        ],
+        [
+          "job-0607",
+          "reindex-search",
+          "failed",
+          "high"
+        ],
+        [
+          "job-0977",
+          "send-digest",
+          "pending",
+          "high"
+        ]
+      ]
+    },
+    "webhook_payload": {
+      "style": "stars",
+      "position": "prefix",
+      "layout": 3,
+      "audience": "the platform team's wall display",
+      "history": [
+        "Added the state column; before that the view only showed the job name.",
+        "The layout was reviewed with the design team; keep separators exactly as they are.",
+        "A request to add colours in the terminal was declined to keep output plain text.",
+        "Localisation was considered and deferred; everything is English for now.",
+        "Owners asked that the format stay stable because downstream parsers depend on it.",
+        "Renamed from its old module name; the old name is gone.",
+        "Switched from a fixed-width layout after complaints about truncation on small screens.",
+        "Moved from the legacy notifier into views/ as part of the views consolidation."
+      ],
+      "examples": [
+        [
+          "job-0127",
+          "invoice-run",
+          "pending",
+          "normal"
+        ],
+        [
+          "job-0987",
+          "compact-logs",
+          "done",
+          "normal"
+        ],
+        [
+          "job-0435",
+          "send-digest",
+          "done",
+          "low"
+        ],
+        [
+          "job-0627",
+          "sync-inventory",
+          "done",
+          "high"
+        ],
+        [
+          "job-0162",
+          "renew-certs",
+          "running",
+          "low"
+        ],
+        [
+          "job-0858",
+          "rebuild-feed",
+          "failed",
+          "low"
+        ],
+        [
+          "job-0326",
+          "resize-images",
+          "failed",
+          "low"
+        ],
+        [
+          "job-0989",
+          "rotate-keys",
+          "failed",
+          "low"
+        ],
+        [
+          "job-0675",
+          "sync-inventory",
+          "pending",
+          "low"
+        ],
+        [
+          "job-0066",
+          "rotate-keys",
+          "done",
+          "normal"
+        ],
+        [
+          "job-0747",
+          "invoice-run",
+          "failed",
+          "low"
+        ],
+        [
+          "job-0633",
+          "send-digest",
+          "running",
+          "low"
+        ],
+        [
+          "job-0093",
+          "rebuild-feed",
+          "running",
+          "normal"
+        ],
+        [
+          "job-0717",
+          "rotate-keys",
+          "failed",
+          "high"
+        ]
+      ]
+    },
+    "tv_wall": {
+      "style": "word",
+      "position": "suffix",
+      "layout": 0,
+      "audience": "the executive summary email",
+      "history": [
+        "Owners asked that the format stay stable because downstream parsers depend on it.",
+        "A request to add colours in the terminal was declined to keep output plain text.",
+        "Renamed from its old module name; the old name is gone.",
+        "Switched from a fixed-width layout after complaints about truncation on small screens.",
+        "Localisation was considered and deferred; everything is English for now.",
+        "The layout was reviewed with the design team; keep separators exactly as they are.",
+        "Added the state column; before that the view only showed the job name.",
+        "Moved from the legacy notifier into views/ as part of the views consolidation."
+      ],
+      "examples": [
+        [
+          "job-0510",
+          "rebuild-feed",
+          "done",
+          "high"
+        ],
+        [
+          "job-0710",
+          "rebuild-feed",
+          "running",
+          "normal"
+        ],
+        [
+          "job-0914",
+          "purge-cache",
+          "running",
+          "normal"
+        ],
+        [
+          "job-0208",
+          "compact-logs",
+          "done",
+          "low"
+        ],
+        [
+          "job-0122",
+          "rotate-keys",
+          "pending",
+          "normal"
+        ],
+        [
+          "job-0065",
+          "purge-cache",
+          "failed",
+          "low"
+        ],
+        [
+          "job-0234",
+          "sync-inventory",
+          "pending",
+          "normal"
+        ],
+        [
+          "job-0074",
+          "reindex-search",
+          "running",
+          "high"
+        ],
+        [
+          "job-0510",
+          "compact-logs",
+          "failed",
+          "low"
+        ],
+        [
+          "job-0914",
+          "renew-certs",
+          "running",
+          "low"
+        ],
+        [
+          "job-0816",
+          "purge-cache",
+          "failed",
+          "normal"
+        ],
+        [
+          "job-0953",
+          "compact-logs",
+          "running",
+          "high"
+        ],
+        [
+          "job-0124",
+          "invoice-run",
+          "done",
+          "low"
+        ],
+        [
+          "job-0685",
+          "resize-images",
+          "done",
+          "high"
+        ]
+      ]
+    },
+    "desktop_toast": {
+      "style": "bracket",
+      "position": "prefix",
+      "layout": 1,
+      "audience": "the on-call engineer who is paged at night",
+      "history": [
+        "Renamed from its old module name; the old name is gone.",
+        "The layout was reviewed with the design team; keep separators exactly as they are.",
+        "Moved from the legacy notifier into views/ as part of the views consolidation.",
+        "Switched from a fixed-width layout after complaints about truncation on small screens.",
+        "A request to add colours in the terminal was declined to keep output plain text.",
+        "Added the state column; before that the view only showed the job name.",
+        "Localisation was considered and deferred; everything is English for now.",
+        "Owners asked that the format stay stable because downstream parsers depend on it."
+      ],
+      "examples": [
+        [
+          "job-0163",
+          "resize-images",
+          "pending",
+          "normal"
+        ],
+        [
+          "job-0300",
+          "renew-certs",
+          "pending",
+          "high"
+        ],
+        [
+          "job-0048",
+          "sync-inventory",
+          "done",
+          "low"
+        ],
+        [
+          "job-0919",
+          "sync-inventory",
+          "failed",
+          "high"
+        ],
+        [
+          "job-0990",
+          "nightly-backup",
+          "running",
+          "normal"
+        ],
+        [
+          "job-0065",
+          "sync-inventory",
+          "done",
+          "high"
+        ],
+        [
+          "job-0249",
+          "sync-inventory",
+          "running",
+          "normal"
+        ],
+        [
+          "job-0519",
+          "rebuild-feed",
+          "pending",
+          "normal"
+        ],
+        [
+          "job-0969",
+          "send-digest",
+          "done",
+          "high"
+        ],
+        [
+          "job-0823",
+          "compact-logs",
+          "pending",
+          "normal"
+        ],
+        [
+          "job-0706",
+          "purge-cache",
+          "running",
+          "low"
+        ],
+        [
+          "job-0818",
+          "resize-images",
+          "failed",
+          "low"
+        ],
+        [
+          "job-0333",
+          "reindex-search",
+          "failed",
+          "high"
+        ],
+        [
+          "job-0713",
+          "sync-inventory",
+          "failed",
+          "normal"
+        ]
+      ]
+    },
+    "html_row": {
+      "style": "bracket",
+      "position": "suffix",
+      "layout": 2,
+      "audience": "the executive summary email",
+      "history": [
+        "The layout was reviewed with the design team; keep separators exactly as they are.",
+        "Moved from the legacy notifier into views/ as part of the views consolidation.",
+        "Renamed from its old module name; the old name is gone.",
+        "Owners asked that the format stay stable because downstream parsers depend on it.",
+        "Localisation was considered and deferred; everything is English for now.",
+        "Switched from a fixed-width layout after complaints about truncation on small screens.",
+        "Added the state column; before that the view only showed the job name.",
+        "A request to add colours in the terminal was declined to keep output plain text."
+      ],
+      "examples": [
+        [
+          "job-0111",
+          "nightly-backup",
+          "failed",
+          "low"
+        ],
+        [
+          "job-0949",
+          "sync-inventory",
+          "pending",
+          "low"
+        ],
+        [
+          "job-0947",
+          "nightly-backup",
+          "pending",
+          "high"
+        ],
+        [
+          "job-0390",
+          "rotate-keys",
+          "failed",
+          "low"
+        ],
+        [
+          "job-0538",
+          "resize-images",
+          "done",
+          "high"
+        ],
+        [
+          "job-0214",
+          "renew-certs",
+          "done",
+          "normal"
+        ],
+        [
+          "job-0867",
+          "rebuild-feed",
+          "failed",
+          "normal"
+        ],
+        [
+          "job-0868",
+          "nightly-backup",
+          "failed",
+          "normal"
+        ],
+        [
+          "job-0383",
+          "compact-logs",
+          "pending",
+          "low"
+        ],
+        [
+          "job-0297",
+          "rotate-keys",
+          "failed",
+          "high"
+        ],
+        [
+          "job-0280",
+          "nightly-backup",
+          "done",
+          "low"
+        ],
+        [
+          "job-0710",
+          "purge-cache",
+          "failed",
+          "low"
+        ],
+        [
+          "job-0159",
+          "purge-cache",
+          "done",
+          "high"
+        ],
+        [
+          "job-0515",
+          "export-ledger",
+          "running",
+          "normal"
+        ]
+      ]
+    },
+    "slack_alert": {
+      "style": "color",
+      "position": "prefix",
+      "layout": 4,
+      "audience": "the platform team's wall display",
+      "history": [
+        "The layout was reviewed with the design team; keep separators exactly as they are.",
+        "Renamed from its old module name; the old name is gone.",
+        "Owners asked that the format stay stable because downstream parsers depend on it.",
+        "Switched from a fixed-width layout after complaints about truncation on small screens.",
+        "A request to add colours in the terminal was declined to keep output plain text.",
+        "Added the state column; before that the view only showed the job name.",
+        "Localisation was considered and deferred; everything is English for now.",
+        "Moved from the legacy notifier into views/ as part of the views consolidation."
+      ],
+      "examples": [
+        [
+          "job-0679",
+          "reindex-search",
+          "running",
+          "high"
+        ],
+        [
+          "job-0482",
+          "invoice-run",
+          "failed",
+          "low"
+        ],
+        [
+          "job-0852",
+          "rotate-keys",
+          "running",
+          "high"
+        ],
+        [
+          "job-0256",
+          "sync-inventory",
+          "pending",
+          "low"
+        ],
+        [
+          "job-0589",
+          "nightly-backup",
+          "done",
+          "normal"
+        ],
+        [
+          "job-0247",
+          "rebuild-feed",
+          "running",
+          "normal"
+        ],
+        [
+          "job-0013",
+          "rotate-keys",
+          "running",
+          "low"
+        ],
+        [
+          "job-0297",
+          "renew-certs",
+          "failed",
+          "low"
+        ],
+        [
+          "job-0024",
+          "compact-logs",
+          "running",
+          "low"
+        ],
+        [
+          "job-0546",
+          "reindex-search",
+          "pending",
+          "high"
+        ],
+        [
+          "job-0023",
+          "send-digest",
+          "failed",
+          "normal"
+        ],
+        [
+          "job-0373",
+          "invoice-run",
+          "pending",
+          "high"
+        ],
+        [
+          "job-0443",
+          "reindex-search",
+          "pending",
+          "high"
+        ],
+        [
+          "job-0423",
+          "export-ledger",
+          "done",
+          "high"
+        ]
+      ]
+    },
+    "kiosk_screen": {
+      "style": "arrows",
+      "position": "suffix",
+      "layout": 4,
+      "audience": "customer support leads",
+      "history": [
+        "Localisation was considered and deferred; everything is English for now.",
+        "A request to add colours in the terminal was declined to keep output plain text.",
+        "Added the state column; before that the view only showed the job name.",
+        "Moved from the legacy notifier into views/ as part of the views consolidation.",
+        "Switched from a fixed-width layout after complaints about truncation on small screens.",
+        "Owners asked that the format stay stable because downstream parsers depend on it.",
+        "The layout was reviewed with the design team; keep separators exactly as they are.",
+        "Renamed from its old module name; the old name is gone."
+      ],
+      "examples": [
+        [
+          "job-0195",
+          "nightly-backup",
+          "pending",
+          "low"
+        ],
+        [
+          "job-0054",
+          "resize-images",
+          "done",
+          "high"
+        ],
+        [
+          "job-0213",
+          "rebuild-feed",
+          "failed",
+          "normal"
+        ],
+        [
+          "job-0071",
+          "compact-logs",
+          "done",
+          "high"
+        ],
+        [
+          "job-0278",
+          "rebuild-feed",
+          "failed",
+          "normal"
+        ],
+        [
+          "job-0629",
+          "rotate-keys",
+          "done",
+          "normal"
+        ],
+        [
+          "job-0640",
+          "rotate-keys",
+          "pending",
+          "normal"
+        ],
+        [
+          "job-0645",
+          "reindex-search",
+          "running",
+          "high"
+        ],
+        [
+          "job-0044",
+          "resize-images",
+          "running",
+          "low"
+        ],
+        [
+          "job-0091",
+          "rebuild-feed",
+          "failed",
+          "low"
+        ],
+        [
+          "job-0937",
+          "compact-logs",
+          "running",
+          "normal"
+        ],
+        [
+          "job-0922",
+          "rotate-keys",
+          "pending",
+          "low"
+        ],
+        [
+          "job-0036",
+          "send-digest",
+          "running",
+          "normal"
+        ],
+        [
+          "job-0479",
+          "renew-certs",
+          "done",
+          "low"
+        ]
+      ]
+    }
+  },
+  "family": "C",
+  "task_id": "orch-c-n20-s2"
+}

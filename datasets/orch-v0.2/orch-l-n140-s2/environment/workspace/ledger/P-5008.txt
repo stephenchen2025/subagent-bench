@@ -1,0 +1,10 @@
+Ledger page P-5008
+
+account      amount   see page
+Grant          +899   P-3287
+Nakamura       +643   P-8884
+Jensen         +595   P-5757
+Rahman         +573   P-3743
+Umar           -603   P-1106
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,11 @@
+Ledger page P-1115
+
+account      amount   see page
+Hughes         +413   P-5499
+Baker          -776   P-2057
+Quinn          +891   P-2253
+Vance          -760   P-5247
+Lambert        -824   P-4064
+Eriksen        +112   P-5991
+
+Follow the credit belonging to the account that comes first alphabetically.

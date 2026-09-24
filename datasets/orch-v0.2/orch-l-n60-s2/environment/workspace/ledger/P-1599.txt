@@ -1,0 +1,11 @@
+Ledger page P-1599
+
+account      amount   see page
+Ibarra         -235   P-8045
+Zhou            +24   P-9719
+Weber          +789   P-9214
+Hughes         -764   P-3232
+Young          -257   P-4898
+Osei           +846   P-6238
+
+Follow the debit belonging to the account that comes last alphabetically.

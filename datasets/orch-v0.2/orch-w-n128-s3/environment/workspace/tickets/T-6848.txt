@@ -1,0 +1,58 @@
+Ticket T-6848
+Customer: Yuki Tanaka
+Orders on file: ORD-92005, ORD-38812, ORD-70372, ORD-60099
+Opened: 2026-08-25 via email
+
+Order details:
+ORD-92005  placed 2026-04-25  status: in transit  total: $211.45
+  payment method: card ending 5744  ship to: 958 Harbor Rd
+  - cast iron skillet x1
+  - USB-C charging cable (2m) x3
+  - travel pouch x3
+  - microfiber cloth x1
+  - stainless water bottle, 750ml x2
+ORD-38812  placed 2026-08-13  status: delivered  total: $124.40
+  payment method: card ending 5176  ship to: 931 Oak Rd
+  - cast iron skillet x1
+  - replacement filter cartridge, 3-pack x3
+  - carabiner set x2
+ORD-70372  placed 2026-07-07  status: delivered  total: $279.44
+  payment method: card ending 7006  ship to: 144 Oak Lane
+  - mechanical keyboard x1
+  - microfiber cloth x3
+  - spare battery pack x2
+  - replacement filter cartridge, 3-pack x2
+ORD-60099  placed 2026-01-15  status: delivered  total: $439.29
+  payment method: card ending 2314  ship to: 347 Mill Lane
+  - espresso grinder x1
+  - gift wrap x2
+  - merino socks, size M x1
+  - carabiner set x3
+  - extended warranty, 2 years x1
+
+--- message 1 from Yuki Tanaka ---
+I'd like to return the espresso grinder from ORD-38812; it's the wrong size. My earlier order ORD-60099 arrived fine, no complaints there. I've been a customer for a few years and usually everything goes smoothly. The bike light set itself is great, for what it's worth.
+
+Thanks,
+Yuki Tanaka
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Marcus (support) ---
+Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-70372 to the address on file. For ORD-70372, the return window is 30 days from delivery. Let me know if anything else looks off.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Yuki Tanaka ---
+Is there a way to combine loyalty points from ORD-60099 with my next purchase? I'm happy to send screenshots if that helps. The confirmation email for ORD-38812 went to my spam folder, so I only just saw it. I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Yuki Tanaka
+
+--- message 4 from Marcus (support) ---
+For ORD-70372, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier. I've resent the confirmation email for ORD-60099 to the address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

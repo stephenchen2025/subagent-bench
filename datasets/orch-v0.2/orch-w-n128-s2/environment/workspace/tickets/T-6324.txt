@@ -1,0 +1,59 @@
+Ticket T-6324
+Customer: Leila Haddad
+Orders on file: ORD-92721, ORD-65439, ORD-16584, ORD-92401
+Opened: 2026-01-04 via chat transcript
+
+Order details:
+ORD-92721  placed 2026-02-13  status: delivered  total: $43.60
+  payment method: card ending 2889  ship to: 26 Oak Lane
+  - trail running shoes x1
+  - gift wrap x3
+  - stainless water bottle, 750ml x1
+  - merino socks, size M x3
+  - carabiner set x3
+ORD-65439  placed 2026-08-01  status: in transit  total: $164.32
+  payment method: card ending 4070  ship to: 718 Mill Rd
+  - bike light set x1
+  - extended warranty, 2 years x1
+  - travel pouch x2
+  - microfiber cloth x1
+ORD-16584  placed 2026-03-05  status: in transit  total: $95.48
+  payment method: card ending 1781  ship to: 442 Oak St
+  - water filter pitcher x1
+  - travel pouch x2
+  - gift wrap x3
+  - stainless water bottle, 750ml x1
+  - merino socks, size M x1
+ORD-92401  placed 2026-08-02  status: delivered  total: $339.05
+  payment method: card ending 9262  ship to: 212 Elm St
+  - yoga mat x1
+  - gift wrap x2
+  - carabiner set x1
+  - USB-C charging cable (2m) x2
+
+--- message 1 from Leila Haddad ---
+Where is my refund for ORD-65439? You said 5 days and it has been 8. I'm happy to send screenshots if that helps. I changed my shipping address last month, so please double-check you have the new one. I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Leila Haddad
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Pete (support) ---
+Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off. I've updated your shipping address on file.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Leila Haddad ---
+Your app logged me out twice while I was looking at this, which didn't help. The desk lamp itself is great, for what it's worth. I tried the chat widget first but it kept disconnecting. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Leila Haddad
+
+--- message 4 from Pete (support) ---
+Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-92401 to the address on file. I can see all the orders on your account, including ORD-65439. Screenshots aren't necessary, but thank you for offering.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

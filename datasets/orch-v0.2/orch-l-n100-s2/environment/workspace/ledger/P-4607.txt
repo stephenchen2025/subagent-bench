@@ -1,0 +1,10 @@
+Ledger page P-4607
+
+account      amount   see page
+Young          +274   P-2486
+Kowalski       +272   P-4062
+Ibarra         -171   P-5961
+Dunn           +414   P-9979
+Lambert        +854   P-9979
+
+Follow the debit belonging to the account that comes last alphabetically.

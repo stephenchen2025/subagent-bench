@@ -1,0 +1,12 @@
+Ledger page P-9932
+
+account      amount   see page
+Weber          +123   P-8163
+Lambert        +153   P-3207
+Kowalski       -396   P-3216
+Abbott         -587   P-7384
+Baker          +740   P-2368
+Umar           +303   P-2431
+Jensen         +400   P-8800
+
+Follow the entry with the second-largest amount.

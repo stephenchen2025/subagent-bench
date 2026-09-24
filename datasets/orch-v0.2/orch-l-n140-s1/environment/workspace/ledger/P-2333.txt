@@ -1,0 +1,11 @@
+Ledger page P-2333
+
+account      amount   see page
+Dunn           -604   P-2971
+Jensen         +163   P-3686
+Osei           -545   P-8856
+Lambert        -883   P-6670
+Quinn          +692   P-9228
+Nakamura       -839   P-9774
+
+Follow the entry with the largest credit.

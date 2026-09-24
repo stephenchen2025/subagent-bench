@@ -1,0 +1,11 @@
+Ledger page P-6411
+
+account      amount   see page
+Baker          +415   P-8187
+Osei           -100   P-2847
+Quinn          +885   P-3271
+Eriksen        -729   P-7097
+Zhou           -126   P-7527
+Tanaka         -174   P-9045
+
+Follow the entry with the largest credit.

@@ -1,0 +1,11 @@
+Ledger page P-2240
+
+account      amount   see page
+Jensen         -507   P-3982
+Young          +841   P-4279
+Hughes         -165   P-6196
+Silva          +703   P-7005
+Park            +93   P-1857
+Fofana         -255   P-9581
+
+Follow the credit belonging to the account that comes first alphabetically.

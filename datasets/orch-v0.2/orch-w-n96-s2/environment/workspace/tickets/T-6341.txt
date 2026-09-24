@@ -1,0 +1,110 @@
+Ticket T-6341
+Customer: Sofia Rossi
+Orders on file: ORD-99408, ORD-51450, ORD-51999, ORD-99723
+Opened: 2026-07-16 via web form
+
+Order details:
+ORD-99408  placed 2026-03-12  status: returned  total: $153.16
+  payment method: card ending 1938  ship to: 596 Mill Rd
+  - carry-on suitcase x1
+  - spare battery pack x2
+  - gift wrap x2
+ORD-51450  placed 2026-06-15  status: label created  total: $403.60
+  payment method: card ending 6657  ship to: 884 Harbor St
+  - cast iron skillet x1
+  - USB-C charging cable (2m) x1
+  - carabiner set x2
+  - merino socks, size M x3
+ORD-51999  placed 2026-02-28  status: label created  total: $438.69
+  payment method: card ending 1041  ship to: 137 Elm Ave
+  - wool blanket x1
+  - extended warranty, 2 years x1
+  - stainless water bottle, 750ml x3
+ORD-99723  placed 2026-08-05  status: delivered  total: $248.55
+  payment method: card ending 4449  ship to: 766 Harbor St
+  - espresso grinder x1
+  - spare battery pack x1
+  - merino socks, size M x2
+  - replacement filter cartridge, 3-pack x1
+  - microfiber cloth x3
+
+--- message 1 from Sofia Rossi ---
+Can I use a gift card on ORD-51999, or is it too late? The box for ORD-99408 was a bit crushed but the contents were fine. Could you also tell me whether ORD-51450 qualifies for the extended return window? The confirmation email for ORD-99408 went to my spam folder, so I only just saw it.
+
+Thanks,
+Sofia Rossi
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Marcus (support) ---
+If you need an invoice for ORD-99408, you can download it from the Orders page. For ORD-99408, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering. Our warehouse shows ORD-99408 left on schedule.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Sofia Rossi ---
+Something looks off with ORD-99723: I see what might be a second payment. My earlier order ORD-99408 arrived fine, no complaints there. I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Sofia Rossi
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Marcus (support) ---
+Thanks for reaching out, and sorry for the trouble. I've resent the confirmation email for ORD-51999 to the address on file. Loyalty points post about a week after an order is delivered.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Sofia Rossi ---
+Update: the second line has now posted, it's no longer pending. So both payments for ORD-99723 actually went through. The water filter pitcher itself is great, for what it's worth. I'm happy to send screenshots if that helps.
+
+Thanks,
+Sofia Rossi
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Marcus (support) ---
+I've updated your shipping address on file. I've resent the confirmation email for ORD-51450 to the address on file. I've added a note to your account so the next agent has the context.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Marcus (support) ---
+I've checked with our payments team: both captures for ORD-99723 settled, so you were genuinely charged twice. I've issued a refund for the second one; it should show within 3-5 business days. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-99408 left on schedule.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Sofia Rossi ---
+The box for ORD-51999 was a bit crushed but the contents were fine. The confirmation email for ORD-51450 went to my spam folder, so I only just saw it. The desk lamp itself is great, for what it's worth.
+
+Best regards,
+Sofia Rossi
+
+--- message 9 from Sofia Rossi ---
+Tracking for ORD-99408 hasn't updated since Tuesday. The box for ORD-51450 was a bit crushed but the contents were fine. The confirmation email for ORD-99408 went to my spam folder, so I only just saw it. The water filter pitcher itself is great, for what it's worth.
+
+Sofia Rossi
+(Please reply by email rather than phone if possible.)
+
+--- message 10 from Marcus (support) ---
+Our warehouse shows ORD-99408 left on schedule. I can see all the orders on your account, including ORD-51450. I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-51999 to the address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 11 from Sofia Rossi ---
+Tracking for ORD-51999 hasn't updated since Tuesday. The box for ORD-51999 was a bit crushed but the contents were fine. I changed my shipping address last month, so please double-check you have the new one. I'm happy to send screenshots if that helps.
+
+Sofia Rossi
+(Please reply by email rather than phone if possible.)
+
+--- message 12 from Marcus (support) ---
+I've resent the confirmation email for ORD-99408 to the address on file. For ORD-51999, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,12 @@
+Ledger page P-2678
+
+account      amount   see page
+Jensen         -668   P-5972
+Castillo       -823   P-9578
+Young          +698   P-2170
+Eriksen         -90   P-9105
+Kowalski       +788   P-7848
+Moreau         -359   P-8451
+Zhou           -582   P-6223
+
+Follow the entry with the largest credit.

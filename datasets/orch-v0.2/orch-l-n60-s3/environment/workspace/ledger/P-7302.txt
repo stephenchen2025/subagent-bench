@@ -1,0 +1,12 @@
+Ledger page P-7302
+
+account      amount   see page
+Ibarra         -471   P-8627
+Umar           -241   P-3022
+Quinn          +710   P-1855
+Osei            -32   P-1621
+Abbott          -65   P-1047
+Xu             +792   P-6328
+Dunn           +297   P-7577
+
+Follow the entry with the largest credit.

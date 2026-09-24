@@ -1,0 +1,12 @@
+Ledger page P-7317
+
+account      amount   see page
+Osei            -52   P-9792
+Grant          -656   P-9944
+Silva          +114   P-4912
+Tanaka         -622   P-5568
+Young          +340   P-3732
+Park           +857   P-6700
+Eriksen        +406   P-6885
+
+Follow the entry with the second-largest amount.

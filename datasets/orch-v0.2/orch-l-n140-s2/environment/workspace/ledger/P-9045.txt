@@ -1,0 +1,11 @@
+Ledger page P-9045
+
+account      amount   see page
+Xu             -711   P-7300
+Fofana         +456   P-5122
+Silva           +80   P-6145
+Baker          +223   P-9110
+Vance          +350   P-5465
+Nakamura       +134   P-4401
+
+Follow the entry whose amount is closest to zero.

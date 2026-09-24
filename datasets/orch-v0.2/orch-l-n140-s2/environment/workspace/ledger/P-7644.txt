@@ -1,0 +1,11 @@
+Ledger page P-7644
+
+account      amount   see page
+Umar           +858   P-4422
+Osei           +719   P-2638
+Silva          +467   P-6306
+Park           +173   P-1246
+Nakamura         +4   P-9836
+Ibarra         -696   P-6232
+
+Follow the entry whose amount is closest to zero.

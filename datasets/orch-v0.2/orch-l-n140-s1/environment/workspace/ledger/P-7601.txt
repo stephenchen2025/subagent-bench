@@ -1,0 +1,10 @@
+Ledger page P-7601
+
+account      amount   see page
+Jensen         -135   P-1685
+Rahman         +588   P-4037
+Hughes         -768   P-1597
+Silva          -654   P-5535
+Quinn          -170   P-1315
+
+Follow the debit belonging to the account that comes last alphabetically.

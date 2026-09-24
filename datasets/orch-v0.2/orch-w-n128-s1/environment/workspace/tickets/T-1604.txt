@@ -1,0 +1,68 @@
+Ticket T-1604
+Customer: Kofi Mensah
+Orders on file: ORD-42894, ORD-68603, ORD-68884, ORD-39081
+Opened: 2026-08-13 via email
+
+Order details:
+ORD-42894  placed 2026-08-18  status: returned  total: $321.67
+  payment method: card ending 2457  ship to: 692 Cedar Ave
+  - yoga mat x1
+  - replacement filter cartridge, 3-pack x2
+  - stainless water bottle, 750ml x1
+ORD-68603  placed 2026-08-12  status: delivered  total: $93.57
+  payment method: card ending 8649  ship to: 561 Elm St
+  - rain jacket x1
+  - stainless water bottle, 750ml x2
+  - microfiber cloth x3
+  - carabiner set x2
+ORD-68884  placed 2026-08-21  status: in transit  total: $358.59
+  payment method: card ending 4948  ship to: 643 Mill Lane
+  - camping stove x1
+  - carabiner set x2
+  - USB-C charging cable (2m) x3
+ORD-39081  placed 2026-07-20  status: delivered  total: $330.26
+  payment method: card ending 4604  ship to: 357 Mill Rd
+  - trail running shoes x1
+  - replacement filter cartridge, 3-pack x2
+  - spare battery pack x2
+  - carabiner set x1
+
+--- message 1 from Kofi Mensah ---
+The bike light set from ORD-42894 arrived with a scratch on the side. Can I get a replacement? My partner placed ORD-39081 on our shared account, in case that matters. I changed my shipping address last month, so please double-check you have the new one. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Kofi Mensah
+
+--- message 2 from Arjun (support) ---
+I've updated your shipping address on file. Tracking updates can lag by a day or two with this carrier. I've resent the confirmation email for ORD-42894 to the address on file. Loyalty points post about a week after an order is delivered.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Kofi Mensah ---
+The bike light set itself is great, for what it's worth. My earlier order ORD-68884 arrived fine, no complaints there. Tracking for ORD-68884 hasn't updated since Tuesday. My partner placed ORD-39081 on our shared account, in case that matters.
+
+Thanks,
+Kofi Mensah
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Arjun (support) ---
+Our warehouse shows ORD-68884 left on schedule. Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering. Loyalty points post about a week after an order is delivered.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Kofi Mensah ---
+My partner placed ORD-68884 on our shared account, in case that matters. Tracking for ORD-68884 hasn't updated since Tuesday. Is there a way to combine loyalty points from ORD-39081 with my next purchase? I'm travelling next week, so email is the best way to reach me.
+
+Kofi Mensah
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Arjun (support) ---
+Screenshots aren't necessary, but thank you for offering. Our warehouse shows ORD-68884 left on schedule. If you need an invoice for ORD-68884, you can download it from the Orders page. Thanks for reaching out, and sorry for the trouble.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,10 @@
+Ledger page P-2675
+
+account      amount   see page
+Hughes         +295   P-1340
+Ibarra         +259   P-8470
+Tanaka         -752   P-5546
+Castillo       -897   P-2333
+Nakamura       -363   P-2235
+
+Follow the entry with the largest debit (the most negative amount).

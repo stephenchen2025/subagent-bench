@@ -1,0 +1,10 @@
+Ledger page P-2912
+
+account      amount   see page
+Ibarra         -444   P-6513
+Jensen         -257   P-2834
+Quinn          -752   P-5298
+Baker          +173   P-5429
+Vance          -855   P-4812
+
+Follow the entry with the second-largest amount.

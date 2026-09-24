@@ -1,0 +1,10 @@
+Ledger page P-4332
+
+account      amount   see page
+Lambert        -425   P-7614
+Vance          -768   P-2426
+Nakamura       +115   P-9485
+Young          -642   P-2957
+Moreau         -117   P-6031
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,10 @@
+Ledger page P-6221
+
+account      amount   see page
+Grant          +782   P-5456
+Castillo       -727   P-1487
+Weber          -823   P-4038
+Hughes         -497   P-3964
+Rahman          -10   P-9669
+
+Follow the entry whose amount is closest to zero.

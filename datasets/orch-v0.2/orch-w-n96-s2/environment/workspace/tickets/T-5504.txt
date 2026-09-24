@@ -1,0 +1,85 @@
+Ticket T-5504
+Customer: Chloe Martin
+Orders on file: ORD-64716, ORD-99525, ORD-22269, ORD-40567
+Opened: 2026-05-03 via chat transcript
+
+Order details:
+ORD-64716  placed 2026-05-07  status: delivered  total: $317.74
+  payment method: card ending 5476  ship to: 406 Harbor St
+  - mechanical keyboard x1
+  - USB-C charging cable (2m) x2
+  - stainless water bottle, 750ml x1
+  - travel pouch x1
+  - carabiner set x3
+ORD-99525  placed 2026-08-04  status: in transit  total: $254.49
+  payment method: card ending 1213  ship to: 551 Elm Rd
+  - blender x1
+  - stainless water bottle, 750ml x1
+  - microfiber cloth x1
+  - replacement filter cartridge, 3-pack x3
+ORD-22269  placed 2026-07-19  status: delivered  total: $35.99
+  payment method: card ending 3546  ship to: 728 Harbor Ave
+  - espresso grinder x1
+  - merino socks, size M x1
+  - spare battery pack x1
+ORD-40567  placed 2026-06-27  status: delivered  total: $91.56
+  payment method: card ending 2801  ship to: 353 Mill Ave
+  - rain jacket x1
+  - microfiber cloth x3
+  - travel pouch x2
+  - stainless water bottle, 750ml x1
+  - extended warranty, 2 years x3
+
+--- message 1 from Chloe Martin ---
+I need to change the delivery address for ORD-99525 before it ships. The bike light set itself is great, for what it's worth. Tracking for ORD-22269 hasn't updated since Tuesday. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Chloe Martin
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Keiko (support) ---
+I've resent the confirmation email for ORD-22269 to the address on file. I've added a note to your account so the next agent has the context. Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Chloe Martin ---
+Before I retry the payment on ORD-64716 -- is there any risk of a double charge? The box for ORD-40567 was a bit crushed but the contents were fine. My partner placed ORD-22269 on our shared account, in case that matters.
+
+Best regards,
+Chloe Martin
+
+--- message 4 from Keiko (support) ---
+No, you won't be charged twice: the first attempt for ORD-64716 failed before capture, so retrying is safe. Screenshots aren't necessary, but thank you for offering. For ORD-40567, the return window is 30 days from delivery.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Chloe Martin ---
+Could you also tell me whether ORD-40567 qualifies for the extended return window? Your app logged me out twice while I was looking at this, which didn't help. The box for ORD-40567 was a bit crushed but the contents were fine. My partner placed ORD-99525 on our shared account, in case that matters.
+
+Thanks,
+Chloe Martin
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Keiko (support) ---
+Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-22269 left on schedule. I can see all the orders on your account, including ORD-40567. I've added a note to your account so the next agent has the context.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Chloe Martin ---
+My earlier order ORD-99525 arrived fine, no complaints there. I'm happy to send screenshots if that helps. The box for ORD-22269 was a bit crushed but the contents were fine. Could you also tell me whether ORD-99525 qualifies for the extended return window?
+
+Chloe Martin
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Keiko (support) ---
+I've resent the confirmation email for ORD-22269 to the address on file. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-22269 left on schedule. For ORD-99525, the return window is 30 days from delivery.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

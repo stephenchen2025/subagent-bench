@@ -1,0 +1,10 @@
+Ledger page P-3584
+
+account      amount   see page
+Grant          +399   P-4727
+Young          -309   P-5445
+Nakamura       -607   P-2966
+Osei           +549   P-3467
+Xu             +407   P-2533
+
+Follow the debit belonging to the account that comes last alphabetically.

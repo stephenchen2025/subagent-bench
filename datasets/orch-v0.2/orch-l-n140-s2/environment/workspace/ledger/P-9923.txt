@@ -1,0 +1,11 @@
+Ledger page P-9923
+
+account      amount   see page
+Grant          -535   P-3163
+Young          -221   P-7868
+Rahman         -809   P-5945
+Baker          +369   P-6147
+Silva           +19   P-4167
+Xu             -413   P-4401
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,12 @@
+Ledger page P-9420
+
+account      amount   see page
+Hughes         +390   P-2046
+Kowalski       -758   P-2381
+Moreau         -214   P-8385
+Xu             +831   P-6673
+Weber          -142   P-4952
+Castillo       -291   P-1166
+Nakamura       -746   P-7222
+
+Follow the entry with the largest debit (the most negative amount).

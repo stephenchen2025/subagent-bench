@@ -1,0 +1,12 @@
+Ledger page P-1557
+
+account      amount   see page
+Grant           -47   P-8910
+Silva          +349   P-5443
+Nakamura       +247   P-2603
+Tanaka         -637   P-5044
+Vance          +473   P-4720
+Lambert        -326   P-8870
+Weber          +795   P-2790
+
+Follow the debit belonging to the account that comes last alphabetically.

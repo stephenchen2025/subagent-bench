@@ -1,0 +1,11 @@
+Ledger page P-9769
+
+account      amount   see page
+Dunn           -712   P-1387
+Weber          +524   P-9193
+Grant          +352   P-1773
+Vance           -59   P-2011
+Hughes         +110   P-8860
+Osei           +501   P-4148
+
+Follow the entry with the largest debit (the most negative amount).

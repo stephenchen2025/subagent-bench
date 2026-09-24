@@ -1,0 +1,71 @@
+Ticket T-9548
+Customer: Elena Petrova
+Orders on file: ORD-66283, ORD-64950, ORD-71229, ORD-45235
+Opened: 2026-03-23 via web form
+
+Order details:
+ORD-66283  placed 2026-04-27  status: delivered  total: $334.58
+  payment method: card ending 4853  ship to: 548 Harbor Lane
+  - rain jacket x1
+  - spare battery pack x2
+  - stainless water bottle, 750ml x1
+ORD-64950  placed 2026-01-25  status: label created  total: $186.57
+  payment method: card ending 7876  ship to: 755 Harbor Rd
+  - trail running shoes x1
+  - spare battery pack x2
+  - extended warranty, 2 years x2
+  - carabiner set x2
+ORD-71229  placed 2026-03-12  status: returned  total: $264.30
+  payment method: card ending 5543  ship to: 154 Cedar Lane
+  - desk lamp x1
+  - carabiner set x2
+  - merino socks, size M x1
+  - microfiber cloth x1
+  - extended warranty, 2 years x3
+ORD-45235  placed 2026-05-06  status: returned  total: $327.24
+  payment method: card ending 8194  ship to: 729 Elm Lane
+  - wool blanket x1
+  - gift wrap x2
+  - USB-C charging cable (2m) x3
+  - stainless water bottle, 750ml x2
+  - merino socks, size M x2
+
+--- message 1 from Elena Petrova ---
+I need to change the delivery address for ORD-66283 before it ships. I changed my shipping address last month, so please double-check you have the new one. Could you also tell me whether ORD-45235 qualifies for the extended return window? My earlier order ORD-66283 arrived fine, no complaints there.
+
+Elena Petrova
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Keiko (support) ---
+I can see all the orders on your account, including ORD-45235. Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-66283 to the address on file. Tracking updates can lag by a day or two with this carrier.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Elena Petrova ---
+Is there a way to combine loyalty points from ORD-71229 with my next purchase? The trail running shoes itself is great, for what it's worth. I'm travelling next week, so email is the best way to reach me. I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Elena Petrova
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Keiko (support) ---
+For ORD-45235, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-45235 to the address on file. Tracking updates can lag by a day or two with this carrier.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Elena Petrova ---
+I'm happy to send screenshots if that helps. My partner placed ORD-66283 on our shared account, in case that matters. My earlier order ORD-45235 arrived fine, no complaints there. Your app logged me out twice while I was looking at this, which didn't help.
+
+Best regards,
+Elena Petrova
+
+--- message 6 from Keiko (support) ---
+Thanks for reaching out, and sorry for the trouble. I've resent the confirmation email for ORD-45235 to the address on file. Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,96 @@
+Ticket T-7047
+Customer: Chloe Martin
+Orders on file: ORD-10259, ORD-34090, ORD-96282, ORD-62473
+Opened: 2026-06-27 via email
+
+Order details:
+ORD-10259  placed 2026-06-14  status: returned  total: $188.21
+  payment method: card ending 4903  ship to: 307 Oak St
+  - carry-on suitcase x1
+  - USB-C charging cable (2m) x1
+  - microfiber cloth x1
+ORD-34090  placed 2026-03-03  status: label created  total: $433.78
+  payment method: card ending 9578  ship to: 81 Cedar St
+  - yoga mat x1
+  - replacement filter cartridge, 3-pack x2
+  - travel pouch x1
+  - gift wrap x1
+  - carabiner set x1
+ORD-96282  placed 2026-08-20  status: label created  total: $465.57
+  payment method: card ending 9647  ship to: 510 Harbor St
+  - yoga mat x1
+  - spare battery pack x3
+  - USB-C charging cable (2m) x3
+ORD-62473  placed 2026-01-17  status: delivered  total: $26.31
+  payment method: card ending 7159  ship to: 257 Cedar Rd
+  - water filter pitcher x1
+  - USB-C charging cable (2m) x3
+  - merino socks, size M x1
+  - stainless water bottle, 750ml x1
+  - replacement filter cartridge, 3-pack x2
+
+--- message 1 from Chloe Martin ---
+How do I reset my password? The reset link keeps expiring. I'd rather not call; the hold times last time were very long. Tracking for ORD-10259 hasn't updated since Tuesday. My earlier order ORD-10259 arrived fine, no complaints there.
+
+Chloe Martin
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Marcus (support) ---
+For ORD-62473, the return window is 30 days from delivery. Loyalty points post about a week after an order is delivered. I've updated your shipping address on file. Our warehouse shows ORD-10259 left on schedule.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Chloe Martin ---
+The checkout page for ORD-34090 timed out. If I try to pay again, will I end up being charged twice? Could you also tell me whether ORD-96282 qualifies for the extended return window? I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Chloe Martin
+
+--- message 4 from Marcus (support) ---
+Screenshots aren't necessary, but thank you for offering. Our warehouse shows ORD-62473 left on schedule. For ORD-96282, the return window is 30 days from delivery.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Marcus (support) ---
+Retrying is safe. Our system blocks a second capture on ORD-34090, so a double charge can't happen. For ORD-10259, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Chloe Martin ---
+I've been a customer for a few years and usually everything goes smoothly. Tracking for ORD-96282 hasn't updated since Tuesday. The mechanical keyboard itself is great, for what it's worth.
+
+Chloe Martin
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Chloe Martin ---
+I'm travelling next week, so email is the best way to reach me. I'd rather not call; the hold times last time were very long. Is there a way to combine loyalty points from ORD-10259 with my next purchase? The confirmation email for ORD-10259 went to my spam folder, so I only just saw it.
+
+Thanks,
+Chloe Martin
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Marcus (support) ---
+If you need an invoice for ORD-96282, you can download it from the Orders page. I've updated your shipping address on file. For ORD-10259, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Chloe Martin ---
+Is there a way to combine loyalty points from ORD-62473 with my next purchase? My earlier order ORD-62473 arrived fine, no complaints there. Your app logged me out twice while I was looking at this, which didn't help. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Chloe Martin
+
+--- message 10 from Marcus (support) ---
+I've added a note to your account so the next agent has the context. I can see all the orders on your account, including ORD-62473. Loyalty points post about a week after an order is delivered. Screenshots aren't necessary, but thank you for offering.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

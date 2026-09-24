@@ -1,0 +1,103 @@
+Ticket T-4185
+Customer: Mateo Silva
+Orders on file: ORD-77719, ORD-68381, ORD-45293, ORD-54297
+Opened: 2026-04-20 via chat transcript
+
+Order details:
+ORD-77719  placed 2026-02-20  status: label created  total: $297.57
+  payment method: card ending 6956  ship to: 13 Elm Lane
+  - noise-cancelling headphones x1
+  - carabiner set x3
+  - gift wrap x1
+  - merino socks, size M x1
+ORD-68381  placed 2026-08-03  status: delivered  total: $418.74
+  payment method: card ending 1249  ship to: 479 Harbor Rd
+  - trail running shoes x1
+  - carabiner set x3
+  - merino socks, size M x2
+  - spare battery pack x1
+ORD-45293  placed 2026-07-17  status: returned  total: $357.42
+  payment method: card ending 7622  ship to: 204 Oak Rd
+  - espresso grinder x1
+  - microfiber cloth x3
+  - USB-C charging cable (2m) x3
+  - gift wrap x3
+ORD-54297  placed 2026-08-04  status: delivered  total: $90.45
+  payment method: card ending 5448  ship to: 135 Mill Lane
+  - espresso grinder x1
+  - replacement filter cartridge, 3-pack x1
+  - gift wrap x1
+
+--- message 1 from Mateo Silva ---
+How do I reset my password? The reset link keeps expiring. I tried the chat widget first but it kept disconnecting. I'd rather not call; the hold times last time were very long. My earlier order ORD-45293 arrived fine, no complaints there.
+
+Thanks,
+Mateo Silva
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Fatima (support) ---
+Thanks for reaching out, and sorry for the trouble. For ORD-45293, the return window is 30 days from delivery. I can see all the orders on your account, including ORD-45293. If you need an invoice for ORD-45293, you can download it from the Orders page.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Mateo Silva ---
+There are two identical debits on my bank and both reference ORD-77719. I changed my shipping address last month, so please double-check you have the new one. Could you also tell me whether ORD-45293 qualifies for the extended return window?
+
+Mateo Silva
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Fatima (support) ---
+Our payment logs show a single capture for ORD-77719. The extra line you saw was an authorization that expired on its own -- no money was taken for it. Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Mateo Silva ---
+The espresso grinder itself is great, for what it's worth. I'm travelling next week, so email is the best way to reach me. Could you also tell me whether ORD-68381 qualifies for the extended return window?
+
+Thanks,
+Mateo Silva
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Mateo Silva ---
+Thanks, I see it now: one payment for ORD-77719, the other one disappeared. All good. My earlier order ORD-54297 arrived fine, no complaints there. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Mateo Silva
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Fatima (support) ---
+Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble. Loyalty points post about a week after an order is delivered.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Mateo Silva ---
+Tracking for ORD-68381 hasn't updated since Tuesday. I'm happy to send screenshots if that helps. I'm travelling next week, so email is the best way to reach me. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Mateo Silva
+
+--- message 9 from Fatima (support) ---
+Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context. Loyalty points post about a week after an order is delivered. Let me know if anything else looks off.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 10 from Mateo Silva ---
+I'd rather not call; the hold times last time were very long. Is there a way to combine loyalty points from ORD-68381 with my next purchase? I tried the chat widget first but it kept disconnecting. Your app logged me out twice while I was looking at this, which didn't help.
+
+Mateo Silva
+(Please reply by email rather than phone if possible.)
+
+--- message 11 from Fatima (support) ---
+For ORD-45293, the return window is 30 days from delivery. If you need an invoice for ORD-45293, you can download it from the Orders page. I've resent the confirmation email for ORD-68381 to the address on file. Our warehouse shows ORD-54297 left on schedule.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

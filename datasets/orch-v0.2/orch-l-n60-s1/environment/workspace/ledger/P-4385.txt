@@ -1,0 +1,10 @@
+Ledger page P-4385
+
+account      amount   see page
+Park           -104   P-6850
+Nakamura       +525   P-3659
+Osei           +410   P-8799
+Eriksen        -715   P-8643
+Abbott         -847   P-2728
+
+Follow the entry with the second-largest amount.

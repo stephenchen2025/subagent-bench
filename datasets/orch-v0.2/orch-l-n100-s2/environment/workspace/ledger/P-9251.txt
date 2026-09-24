@@ -1,0 +1,10 @@
+Ledger page P-9251
+
+account      amount   see page
+Grant          +815   P-3952
+Eriksen        -200   P-8993
+Rahman          -56   P-2807
+Park           -682   P-7713
+Fofana         +787   P-2807
+
+Follow the entry whose amount is closest to zero.

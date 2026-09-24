@@ -1,0 +1,12 @@
+Ledger page P-1969
+
+account      amount   see page
+Rahman         -865   P-5206
+Dunn           +210   P-4735
+Fofana         +674   P-2589
+Osei           -801   P-4735
+Eriksen        +781   P-7664
+Castillo        +49   P-1945
+Moreau         +247   P-5116
+
+Follow the entry with the largest debit (the most negative amount).

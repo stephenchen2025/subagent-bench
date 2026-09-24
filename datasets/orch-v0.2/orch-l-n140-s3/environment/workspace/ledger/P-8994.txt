@@ -1,0 +1,11 @@
+Ledger page P-8994
+
+account      amount   see page
+Jensen         -346   P-9258
+Quinn          -667   P-1015
+Dunn           +367   P-9923
+Osei           -857   P-7347
+Umar           +184   P-9623
+Park            +59   P-1252
+
+Follow the credit belonging to the account that comes first alphabetically.

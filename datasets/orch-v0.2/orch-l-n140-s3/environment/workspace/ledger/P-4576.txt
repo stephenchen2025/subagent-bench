@@ -1,0 +1,12 @@
+Ledger page P-4576
+
+account      amount   see page
+Weber          +794   P-8890
+Rahman         +637   P-6129
+Nakamura       -823   P-9481
+Abbott         +703   P-6667
+Quinn          +603   P-1612
+Baker           -58   P-4343
+Zhou           +641   P-4347
+
+Follow the entry with the largest credit.

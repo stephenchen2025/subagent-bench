@@ -1,0 +1,12 @@
+Ledger page P-9359
+
+account      amount   see page
+Hughes         -703   P-5727
+Young          +769   P-2960
+Grant          +303   P-3860
+Kowalski       +186   P-3019
+Quinn          +579   P-2267
+Jensen         +789   P-9068
+Umar           +494   P-5661
+
+Follow the entry whose amount is closest to zero.

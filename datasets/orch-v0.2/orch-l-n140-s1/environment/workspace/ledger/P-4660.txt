@@ -1,0 +1,12 @@
+Ledger page P-4660
+
+account      amount   see page
+Umar           -451   P-3704
+Osei           -600   P-6123
+Silva          +870   P-1060
+Ibarra         -658   P-7457
+Xu             -319   P-4399
+Nakamura       +338   P-7015
+Fofana         -723   P-9621
+
+Follow the debit belonging to the account that comes last alphabetically.

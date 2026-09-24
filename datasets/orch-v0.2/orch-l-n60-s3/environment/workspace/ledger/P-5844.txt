@@ -1,0 +1,11 @@
+Ledger page P-5844
+
+account      amount   see page
+Castillo       +383   P-7577
+Silva          -585   P-7407
+Quinn          -415   P-3041
+Dunn           -595   P-4469
+Ibarra         -511   P-4006
+Fofana         -810   P-9770
+
+Follow the entry with the largest debit (the most negative amount).

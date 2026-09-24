@@ -1,0 +1,57 @@
+Ticket T-5459
+Customer: Ravi Iyer
+Orders on file: ORD-76059, ORD-86645, ORD-30366, ORD-38171
+Opened: 2026-04-17 via web form
+
+Order details:
+ORD-76059  placed 2026-05-07  status: returned  total: $241.65
+  payment method: card ending 5973  ship to: 213 Oak Ave
+  - noise-cancelling headphones x1
+  - carabiner set x2
+  - travel pouch x3
+  - microfiber cloth x3
+  - extended warranty, 2 years x3
+ORD-86645  placed 2026-07-07  status: delivered  total: $292.30
+  payment method: card ending 7056  ship to: 908 Mill Ave
+  - camping stove x1
+  - extended warranty, 2 years x2
+  - travel pouch x2
+ORD-30366  placed 2026-01-15  status: delivered  total: $232.38
+  payment method: card ending 1337  ship to: 733 Elm St
+  - yoga mat x1
+  - replacement filter cartridge, 3-pack x1
+  - spare battery pack x2
+ORD-38171  placed 2026-07-27  status: returned  total: $231.51
+  payment method: card ending 8336  ship to: 532 Elm Lane
+  - yoga mat x1
+  - travel pouch x3
+  - replacement filter cartridge, 3-pack x2
+  - carabiner set x2
+  - spare battery pack x3
+
+--- message 1 from Ravi Iyer ---
+The carry-on suitcase from ORD-38171 arrived with a scratch on the side. Can I get a replacement? Tracking for ORD-38171 hasn't updated since Tuesday. I changed my shipping address last month, so please double-check you have the new one. My earlier order ORD-30366 arrived fine, no complaints there.
+
+Thanks,
+Ravi Iyer
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Keiko (support) ---
+Tracking updates can lag by a day or two with this carrier. Let me know if anything else looks off. I've added a note to your account so the next agent has the context. If you need an invoice for ORD-76059, you can download it from the Orders page.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ravi Iyer ---
+The confirmation email for ORD-30366 went to my spam folder, so I only just saw it. Your app logged me out twice while I was looking at this, which didn't help. Tracking for ORD-76059 hasn't updated since Tuesday. Could you also tell me whether ORD-76059 qualifies for the extended return window?
+
+Best regards,
+Ravi Iyer
+
+--- message 4 from Keiko (support) ---
+Screenshots aren't necessary, but thank you for offering. Our warehouse shows ORD-30366 left on schedule. Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-30366, you can download it from the Orders page.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

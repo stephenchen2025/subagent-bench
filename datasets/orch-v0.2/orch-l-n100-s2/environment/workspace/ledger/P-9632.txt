@@ -1,0 +1,12 @@
+Ledger page P-9632
+
+account      amount   see page
+Weber          +322   P-9979
+Xu             +123   P-4097
+Umar           -738   P-6914
+Rahman         -226   P-7996
+Nakamura       -650   P-3955
+Abbott         +450   P-1552
+Osei           +454   P-1647
+
+Follow the credit belonging to the account that comes first alphabetically.

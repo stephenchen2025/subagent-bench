@@ -1,0 +1,12 @@
+Ledger page P-7335
+
+account      amount   see page
+Dunn           +283   P-6512
+Castillo       -382   P-8753
+Nakamura       -627   P-1685
+Silva          -647   P-5815
+Grant          -185   P-7409
+Quinn          +290   P-2646
+Kowalski       -555   P-4551
+
+Follow the entry with the largest debit (the most negative amount).

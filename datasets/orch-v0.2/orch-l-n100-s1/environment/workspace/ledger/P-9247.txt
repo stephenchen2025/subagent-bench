@@ -1,0 +1,10 @@
+Ledger page P-9247
+
+account      amount   see page
+Baker          -553   P-8753
+Silva          +391   P-6726
+Moreau          -29   P-8793
+Rahman         +630   P-7855
+Lambert        +681   P-5925
+
+Follow the entry with the second-largest amount.

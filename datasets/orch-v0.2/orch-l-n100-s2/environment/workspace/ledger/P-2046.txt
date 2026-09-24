@@ -1,0 +1,10 @@
+Ledger page P-2046
+
+account      amount   see page
+Eriksen        -495   P-2681
+Rahman         +708   P-2042
+Kowalski       +822   P-9561
+Osei           -222   P-8832
+Abbott         -475   P-1759
+
+Follow the entry with the second-largest amount.

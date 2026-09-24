@@ -1,0 +1,10 @@
+Ledger page P-7324
+
+account      amount   see page
+Park           -372   P-5122
+Jensen         -163   P-4783
+Moreau         +520   P-7011
+Fofana         -176   P-4602
+Silva          -169   P-6883
+
+Follow the entry with the second-largest amount.

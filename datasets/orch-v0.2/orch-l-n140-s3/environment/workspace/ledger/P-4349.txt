@@ -1,0 +1,10 @@
+Ledger page P-4349
+
+account      amount   see page
+Young          -103   P-6924
+Fofana         +135   P-9697
+Zhou           +843   P-1579
+Kowalski       +870   P-1676
+Dunn           +819   P-4655
+
+Follow the credit belonging to the account that comes first alphabetically.

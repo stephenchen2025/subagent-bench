@@ -1,0 +1,12 @@
+Ledger page P-2991
+
+account      amount   see page
+Rahman         -567   P-5945
+Nakamura       -705   P-8937
+Osei            -12   P-8440
+Zhou           +515   P-2019
+Abbott         +299   P-1635
+Umar           +644   P-1108
+Young          +593   P-1614
+
+Follow the entry with the second-largest amount.

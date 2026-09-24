@@ -1,0 +1,11 @@
+Ledger page P-1036
+
+account      amount   see page
+Dunn           -204   P-3858
+Fofana         -210   P-7083
+Zhou           -168   P-2900
+Grant          -286   P-9408
+Abbott          +37   P-2876
+Young          +372   P-3497
+
+Follow the entry with the largest credit.

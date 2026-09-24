@@ -1,0 +1,84 @@
+Ticket T-5974
+Customer: Ines Duarte
+Orders on file: ORD-29766, ORD-54133, ORD-69149, ORD-68689
+Opened: 2026-08-14 via web form
+
+Order details:
+ORD-29766  placed 2026-04-15  status: delivered  total: $420.00
+  payment method: card ending 4066  ship to: 275 Oak St
+  - yoga mat x1
+  - microfiber cloth x2
+  - replacement filter cartridge, 3-pack x1
+  - carabiner set x2
+ORD-54133  placed 2026-07-01  status: returned  total: $238.16
+  payment method: card ending 5902  ship to: 451 Elm Rd
+  - wool blanket x1
+  - merino socks, size M x2
+  - USB-C charging cable (2m) x3
+  - replacement filter cartridge, 3-pack x2
+ORD-69149  placed 2026-08-09  status: label created  total: $382.97
+  payment method: card ending 8387  ship to: 710 Mill Rd
+  - bike light set x1
+  - replacement filter cartridge, 3-pack x3
+  - gift wrap x1
+  - spare battery pack x3
+ORD-68689  placed 2026-05-19  status: delivered  total: $69.96
+  payment method: card ending 4796  ship to: 982 Cedar St
+  - mechanical keyboard x1
+  - gift wrap x2
+  - extended warranty, 2 years x2
+  - travel pouch x3
+  - spare battery pack x2
+
+--- message 1 from Ines Duarte ---
+Can I use a gift card on ORD-29766, or is it too late? I'm travelling next week, so email is the best way to reach me. I've been a customer for a few years and usually everything goes smoothly. My partner placed ORD-69149 on our shared account, in case that matters.
+
+Best regards,
+Ines Duarte
+
+--- message 2 from Fatima (support) ---
+I've added a note to your account so the next agent has the context. Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-29766 to the address on file.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ines Duarte ---
+The checkout page for ORD-54133 timed out. If I try to pay again, will I end up being charged twice? Tracking for ORD-68689 hasn't updated since Tuesday. Is there a way to combine loyalty points from ORD-68689 with my next purchase?
+
+Best regards,
+Ines Duarte
+
+--- message 4 from Fatima (support) ---
+I've resent the confirmation email for ORD-69149 to the address on file. I can see all the orders on your account, including ORD-68689. Tracking updates can lag by a day or two with this carrier.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Fatima (support) ---
+No, you won't be charged twice: the first attempt for ORD-54133 failed before capture, so retrying is safe. Let me know if anything else looks off. I've updated your shipping address on file.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Ines Duarte ---
+I'd rather not call; the hold times last time were very long. Tracking for ORD-29766 hasn't updated since Tuesday. My earlier order ORD-68689 arrived fine, no complaints there.
+
+Thanks,
+Ines Duarte
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Ines Duarte ---
+My earlier order ORD-68689 arrived fine, no complaints there. I'm travelling next week, so email is the best way to reach me. The bike light set itself is great, for what it's worth. Your app logged me out twice while I was looking at this, which didn't help.
+
+Ines Duarte
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Fatima (support) ---
+Loyalty points post about a week after an order is delivered. If you need an invoice for ORD-29766, you can download it from the Orders page. I can see all the orders on your account, including ORD-69149. Screenshots aren't necessary, but thank you for offering.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

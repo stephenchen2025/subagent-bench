@@ -1,0 +1,10 @@
+Ledger page P-7614
+
+account      amount   see page
+Zhou           +715   P-9485
+Lambert        -270   P-7893
+Umar            -85   P-2167
+Park           +505   P-9882
+Rahman         -818   P-6559
+
+Follow the entry with the second-largest amount.

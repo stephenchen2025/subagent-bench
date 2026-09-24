@@ -1,0 +1,12 @@
+Ledger page P-8953
+
+account      amount   see page
+Osei           -631   P-4613
+Castillo       +411   P-3830
+Weber          +706   P-7021
+Eriksen        +760   P-7083
+Baker          -739   P-5925
+Rahman         -726   P-8869
+Park             +6   P-8865
+
+Follow the credit belonging to the account that comes first alphabetically.

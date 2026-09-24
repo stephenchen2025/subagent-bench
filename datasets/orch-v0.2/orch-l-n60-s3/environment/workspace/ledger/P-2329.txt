@@ -1,0 +1,12 @@
+Ledger page P-2329
+
+account      amount   see page
+Abbott         +840   P-5120
+Young          +665   P-3830
+Moreau         +484   P-9454
+Xu              +12   P-2402
+Quinn          -417   P-9934
+Fofana         +144   P-6046
+Weber          +710   P-8619
+
+Follow the entry with the largest credit.

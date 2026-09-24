@@ -1,0 +1,11 @@
+Ledger page P-1132
+
+account      amount   see page
+Abbott         -857   P-3629
+Hughes         +174   P-8226
+Eriksen        -412   P-5925
+Jensen         +325   P-1990
+Quinn           +80   P-4213
+Nakamura         +8   P-8742
+
+Follow the entry with the largest credit.

@@ -1,0 +1,11 @@
+Ledger page P-1522
+
+account      amount   see page
+Zhou           +480   P-2190
+Quinn          +212   P-1522
+Silva          +784   P-2480
+Lambert        -505   P-2989
+Weber          -239   P-3274
+Vance          +364   P-3301
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,10 @@
+Ledger page P-8826
+
+account      amount   see page
+Kowalski       -721   P-3557
+Fofana           +4   P-7047
+Castillo       +205   P-6901
+Abbott         +285   P-7384
+Moreau         +289   P-8539
+
+Follow the entry with the largest credit.

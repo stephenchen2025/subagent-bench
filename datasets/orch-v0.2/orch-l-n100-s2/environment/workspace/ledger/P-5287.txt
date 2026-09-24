@@ -1,0 +1,11 @@
+Ledger page P-5287
+
+account      amount   see page
+Osei           +778   P-2863
+Quinn          +194   P-5132
+Lambert        -777   P-9546
+Fofana         -643   P-2286
+Nakamura       +537   P-9416
+Vance          +804   P-7353
+
+Follow the entry with the largest credit.

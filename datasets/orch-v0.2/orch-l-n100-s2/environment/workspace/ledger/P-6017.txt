@@ -1,0 +1,10 @@
+Ledger page P-6017
+
+account      amount   see page
+Castillo       +391   P-7553
+Hughes         -194   P-5132
+Kowalski        +27   P-3199
+Grant          -721   P-2989
+Umar           +337   P-7516
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,10 @@
+Ledger page P-2505
+
+account      amount   see page
+Xu             +451   P-9788
+Silva          -214   P-5247
+Nakamura       -849   P-4744
+Zhou           -741   P-3879
+Osei           +717   P-6859
+
+Follow the entry with the second-largest amount.

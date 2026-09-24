@@ -1,0 +1,90 @@
+Ticket T-3340
+Customer: Maya Cohen
+Orders on file: ORD-97522, ORD-74097, ORD-26610, ORD-50874
+Opened: 2026-01-15 via chat transcript
+
+Order details:
+ORD-97522  placed 2026-02-18  status: delivered  total: $155.47
+  payment method: card ending 6564  ship to: 955 Harbor Ave
+  - mechanical keyboard x1
+  - travel pouch x3
+  - stainless water bottle, 750ml x3
+  - microfiber cloth x1
+  - merino socks, size M x1
+ORD-74097  placed 2026-08-03  status: label created  total: $39.75
+  payment method: card ending 8981  ship to: 850 Oak Ave
+  - camping stove x1
+  - spare battery pack x1
+  - carabiner set x3
+  - merino socks, size M x3
+ORD-26610  placed 2026-08-22  status: delivered  total: $37.50
+  payment method: card ending 9420  ship to: 155 Mill Rd
+  - espresso grinder x1
+  - spare battery pack x2
+  - extended warranty, 2 years x2
+  - USB-C charging cable (2m) x1
+  - travel pouch x3
+ORD-50874  placed 2026-07-21  status: delivered  total: $414.21
+  payment method: card ending 5766  ship to: 184 Mill Rd
+  - blender x1
+  - spare battery pack x1
+  - stainless water bottle, 750ml x2
+
+--- message 1 from Maya Cohen ---
+How do I reset my password? The reset link keeps expiring. Is there a way to combine loyalty points from ORD-26610 with my next purchase? I've been a customer for a few years and usually everything goes smoothly. Could you also tell me whether ORD-97522 qualifies for the extended return window?
+
+Maya Cohen
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Dana (support) ---
+For ORD-97522, the return window is 30 days from delivery. Our warehouse shows ORD-26610 left on schedule. Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-50874.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Maya Cohen ---
+Something looks off with ORD-74097: I see what might be a second payment. Your app logged me out twice while I was looking at this, which didn't help. The noise-cancelling headphones itself is great, for what it's worth.
+
+Maya Cohen
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Maya Cohen ---
+Update: the second line has now posted, it's no longer pending. So both payments for ORD-74097 actually went through. Could you also tell me whether ORD-26610 qualifies for the extended return window? The blender itself is great, for what it's worth.
+
+Thanks,
+Maya Cohen
+Sent from my phone -- please excuse typos.
+
+--- message 5 from Dana (support) ---
+I've checked with our payments team: both captures for ORD-74097 settled, so you were genuinely charged twice. I've issued a refund for the second one; it should show within 3-5 business days. If you need an invoice for ORD-26610, you can download it from the Orders page. I've updated your shipping address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Maya Cohen ---
+I tried the chat widget first but it kept disconnecting. Your app logged me out twice while I was looking at this, which didn't help. I've been a customer for a few years and usually everything goes smoothly. The confirmation email for ORD-97522 went to my spam folder, so I only just saw it.
+
+Best regards,
+Maya Cohen
+
+--- message 7 from Dana (support) ---
+Let me know if anything else looks off. I've updated your shipping address on file. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-97522 left on schedule.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Maya Cohen ---
+Tracking for ORD-97522 hasn't updated since Tuesday. I changed my shipping address last month, so please double-check you have the new one. I'm travelling next week, so email is the best way to reach me. I tried the chat widget first but it kept disconnecting.
+
+Maya Cohen
+(Please reply by email rather than phone if possible.)
+
+--- message 9 from Dana (support) ---
+Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context. Screenshots aren't necessary, but thank you for offering. For ORD-26610, the return window is 30 days from delivery.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

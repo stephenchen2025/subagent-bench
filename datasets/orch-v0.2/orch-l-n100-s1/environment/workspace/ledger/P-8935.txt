@@ -1,0 +1,12 @@
+Ledger page P-8935
+
+account      amount   see page
+Kowalski       +536   P-8742
+Eriksen        +141   P-6361
+Vance          +771   P-1701
+Weber          -608   P-1463
+Fofana         +861   P-5830
+Baker          +504   P-6950
+Moreau         -310   P-9386
+
+Follow the debit belonging to the account that comes last alphabetically.

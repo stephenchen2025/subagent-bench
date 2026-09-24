@@ -1,0 +1,12 @@
+Ledger page P-6777
+
+account      amount   see page
+Fofana         +488   P-2529
+Castillo       -273   P-7256
+Dunn           +776   P-5136
+Xu             -119   P-9792
+Nakamura       -705   P-5322
+Tanaka          -43   P-2008
+Vance           -32   P-2648
+
+Follow the debit belonging to the account that comes last alphabetically.

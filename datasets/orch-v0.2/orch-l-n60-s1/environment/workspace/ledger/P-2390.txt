@@ -1,0 +1,12 @@
+Ledger page P-2390
+
+account      amount   see page
+Lambert        -383   P-6264
+Abbott         +730   P-4260
+Dunn           -653   P-1210
+Nakamura       +696   P-8236
+Jensen         -649   P-8874
+Hughes         -614   P-6276
+Baker          +332   P-9935
+
+Follow the entry with the largest debit (the most negative amount).

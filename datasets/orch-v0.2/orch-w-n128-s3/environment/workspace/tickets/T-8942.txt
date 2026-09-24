@@ -1,0 +1,84 @@
+Ticket T-8942
+Customer: Samir Patel
+Orders on file: ORD-25220, ORD-28020, ORD-58416, ORD-38864
+Opened: 2026-04-14 via chat transcript
+
+Order details:
+ORD-25220  placed 2026-02-18  status: returned  total: $217.71
+  payment method: card ending 1991  ship to: 131 Harbor Ave
+  - blender x1
+  - stainless water bottle, 750ml x3
+  - merino socks, size M x3
+  - carabiner set x2
+  - replacement filter cartridge, 3-pack x2
+ORD-28020  placed 2026-07-23  status: in transit  total: $441.41
+  payment method: card ending 5982  ship to: 684 Harbor Ave
+  - yoga mat x1
+  - gift wrap x1
+  - merino socks, size M x1
+ORD-58416  placed 2026-06-14  status: delivered  total: $390.67
+  payment method: card ending 2319  ship to: 789 Mill Rd
+  - standing desk x1
+  - merino socks, size M x2
+  - stainless water bottle, 750ml x3
+  - carabiner set x3
+  - extended warranty, 2 years x2
+ORD-38864  placed 2026-04-10  status: delivered  total: $224.93
+  payment method: card ending 6597  ship to: 22 Mill Rd
+  - noise-cancelling headphones x1
+  - USB-C charging cable (2m) x1
+  - travel pouch x1
+
+--- message 1 from Samir Patel ---
+The standing desk from ORD-38864 arrived with a scratch on the side. Can I get a replacement? I changed my shipping address last month, so please double-check you have the new one. Tracking for ORD-38864 hasn't updated since Tuesday. Is there a way to combine loyalty points from ORD-38864 with my next purchase?
+
+Best regards,
+Samir Patel
+
+--- message 2 from Marcus (support) ---
+I've added a note to your account so the next agent has the context. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-58416 left on schedule. For ORD-28020, the return window is 30 days from delivery.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Samir Patel ---
+Duplicate charge on ORD-25220, please refund one of them. I'm travelling next week, so email is the best way to reach me. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Samir Patel
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Marcus (support) ---
+I've resent the confirmation email for ORD-38864 to the address on file. Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Marcus (support) ---
+Our payment logs show a single capture for ORD-25220. The extra line you saw was an authorization that expired on its own -- no money was taken for it. Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Samir Patel ---
+Thanks, I see it now: one payment for ORD-25220, the other one disappeared. All good. The confirmation email for ORD-38864 went to my spam folder, so I only just saw it. Is there a way to combine loyalty points from ORD-28020 with my next purchase?
+
+Thanks,
+Samir Patel
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Samir Patel ---
+Is there a way to combine loyalty points from ORD-58416 with my next purchase? Tracking for ORD-58416 hasn't updated since Tuesday. Your app logged me out twice while I was looking at this, which didn't help. I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Samir Patel
+
+--- message 8 from Marcus (support) ---
+I've added a note to your account so the next agent has the context. Our warehouse shows ORD-38864 left on schedule. Loyalty points post about a week after an order is delivered. Screenshots aren't necessary, but thank you for offering.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

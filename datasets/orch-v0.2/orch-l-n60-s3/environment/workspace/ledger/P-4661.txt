@@ -1,0 +1,10 @@
+Ledger page P-4661
+
+account      amount   see page
+Quinn           +58   P-4469
+Rahman         -148   P-2277
+Jensen         +442   P-5927
+Kowalski       -267   P-3953
+Osei           +390   P-6178
+
+Follow the entry with the largest credit.

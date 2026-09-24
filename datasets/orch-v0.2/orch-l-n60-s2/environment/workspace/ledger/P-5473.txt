@@ -1,0 +1,10 @@
+Ledger page P-5473
+
+account      amount   see page
+Fofana         -513   P-8343
+Kowalski       +375   P-4429
+Grant           +25   P-9573
+Weber          +593   P-7067
+Quinn          -483   P-1749
+
+Follow the entry with the largest credit.

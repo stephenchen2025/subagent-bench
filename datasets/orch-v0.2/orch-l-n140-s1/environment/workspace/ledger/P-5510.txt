@@ -1,0 +1,12 @@
+Ledger page P-5510
+
+account      amount   see page
+Zhou           -788   P-5067
+Silva          -547   P-1773
+Ibarra         -439   P-6102
+Grant          -376   P-8479
+Hughes         -898   P-6133
+Park           +429   P-8847
+Vance          +496   P-5299
+
+Follow the entry with the largest credit.

@@ -1,0 +1,12 @@
+Ledger page P-5186
+
+account      amount   see page
+Abbott         +679   P-9548
+Tanaka         +259   P-6184
+Silva          +829   P-7947
+Quinn          +648   P-1500
+Castillo       -457   P-2238
+Umar           +395   P-1969
+Young          +485   P-2779
+
+Follow the credit belonging to the account that comes first alphabetically.

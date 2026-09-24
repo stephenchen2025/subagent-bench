@@ -1,0 +1,11 @@
+Ledger page P-5339
+
+account      amount   see page
+Lambert        -122   P-3335
+Osei           -367   P-9789
+Silva          +102   P-8421
+Baker          -831   P-5815
+Abbott         -540   P-9282
+Castillo       -370   P-2443
+
+Follow the entry with the largest credit.

@@ -1,0 +1,11 @@
+Ledger page P-2042
+
+account      amount   see page
+Osei           +810   P-5807
+Tanaka         -526   P-1978
+Young          +466   P-7970
+Silva          -287   P-1634
+Castillo       -728   P-9431
+Umar           -841   P-2126
+
+Follow the entry whose amount is closest to zero.

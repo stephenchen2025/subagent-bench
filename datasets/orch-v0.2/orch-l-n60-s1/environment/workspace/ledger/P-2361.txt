@@ -1,0 +1,12 @@
+Ledger page P-2361
+
+account      amount   see page
+Young          -409   P-2941
+Rahman         +533   P-2083
+Park           -417   P-4553
+Hughes         +171   P-3814
+Nakamura       -141   P-6284
+Umar           -597   P-7912
+Grant          -452   P-4913
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,11 @@
+Ledger page P-6166
+
+account      amount   see page
+Young          -463   P-7869
+Moreau         +119   P-3657
+Hughes         +435   P-2082
+Tanaka         -360   P-9561
+Silva          +187   P-5642
+Abbott         -569   P-1406
+
+Follow the entry with the largest debit (the most negative amount).

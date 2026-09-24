@@ -1,0 +1,11 @@
+Ledger page P-4540
+
+account      amount   see page
+Zhou           -581   P-9918
+Nakamura       +398   P-1525
+Umar           -716   P-6639
+Hughes         +598   P-3530
+Moreau         -419   P-6160
+Dunn           -754   P-2196
+
+Follow the entry with the second-largest amount.

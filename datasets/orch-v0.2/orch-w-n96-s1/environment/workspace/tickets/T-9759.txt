@@ -1,0 +1,74 @@
+Ticket T-9759
+Customer: Elena Petrova
+Orders on file: ORD-96207, ORD-71233, ORD-25921, ORD-15996
+Opened: 2026-05-11 via chat transcript
+
+Order details:
+ORD-96207  placed 2026-01-27  status: in transit  total: $410.18
+  payment method: card ending 6916  ship to: 13 Oak Ave
+  - wool blanket x1
+  - travel pouch x3
+  - extended warranty, 2 years x2
+ORD-71233  placed 2026-07-07  status: label created  total: $289.35
+  payment method: card ending 4588  ship to: 778 Mill Rd
+  - wool blanket x1
+  - microfiber cloth x1
+  - stainless water bottle, 750ml x2
+  - spare battery pack x3
+ORD-25921  placed 2026-01-27  status: returned  total: $447.41
+  payment method: card ending 1744  ship to: 782 Cedar St
+  - bike light set x1
+  - stainless water bottle, 750ml x1
+  - replacement filter cartridge, 3-pack x2
+  - USB-C charging cable (2m) x2
+ORD-15996  placed 2026-02-22  status: delivered  total: $441.59
+  payment method: card ending 8634  ship to: 438 Cedar Ave
+  - mechanical keyboard x1
+  - replacement filter cartridge, 3-pack x2
+  - carabiner set x2
+
+--- message 1 from Elena Petrova ---
+I'd like to return the desk lamp from ORD-96207; it's the wrong size. I'd rather not call; the hold times last time were very long. The box for ORD-71233 was a bit crushed but the contents were fine. Is there a way to combine loyalty points from ORD-96207 with my next purchase?
+
+Elena Petrova
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Pete (support) ---
+Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering. If you need an invoice for ORD-71233, you can download it from the Orders page.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Elena Petrova ---
+The checkout page for ORD-25921 timed out. If I try to pay again, will I end up being charged twice? Is there a way to combine loyalty points from ORD-71233 with my next purchase? I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Elena Petrova
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Pete (support) ---
+Retrying is safe. Our system blocks a second capture on ORD-25921, so a double charge can't happen. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-71233 left on schedule.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Elena Petrova ---
+Your app logged me out twice while I was looking at this, which didn't help. I changed my shipping address last month, so please double-check you have the new one. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Elena Petrova
+
+--- message 6 from Elena Petrova ---
+Could you also tell me whether ORD-96207 qualifies for the extended return window? My earlier order ORD-96207 arrived fine, no complaints there. Your app logged me out twice while I was looking at this, which didn't help. My partner placed ORD-71233 on our shared account, in case that matters.
+
+Elena Petrova
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Pete (support) ---
+I've updated your shipping address on file. Our warehouse shows ORD-71233 left on schedule. I've added a note to your account so the next agent has the context. Screenshots aren't necessary, but thank you for offering.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

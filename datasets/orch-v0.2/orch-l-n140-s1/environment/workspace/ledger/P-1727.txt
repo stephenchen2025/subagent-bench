@@ -1,0 +1,10 @@
+Ledger page P-1727
+
+account      amount   see page
+Moreau         +426   P-3387
+Baker           -79   P-6171
+Kowalski       -539   P-6359
+Park           +819   P-6171
+Quinn          -281   P-3943
+
+Follow the entry with the largest debit (the most negative amount).

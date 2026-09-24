@@ -1,0 +1,12 @@
+Ledger page P-2572
+
+account      amount   see page
+Dunn           +858   P-2068
+Baker          +605   P-5028
+Abbott         -589   P-6153
+Hughes         +807   P-4102
+Park           +692   P-1597
+Zhou           -524   P-7315
+Osei           +824   P-7127
+
+Follow the entry whose amount is closest to zero.

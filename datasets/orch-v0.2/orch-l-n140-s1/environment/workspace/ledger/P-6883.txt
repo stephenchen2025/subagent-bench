@@ -1,0 +1,11 @@
+Ledger page P-6883
+
+account      amount   see page
+Silva          -891   P-9791
+Vance           +33   P-5172
+Eriksen        -525   P-8753
+Grant          +647   P-8008
+Rahman         +583   P-8196
+Xu             -218   P-3191
+
+Follow the credit belonging to the account that comes first alphabetically.

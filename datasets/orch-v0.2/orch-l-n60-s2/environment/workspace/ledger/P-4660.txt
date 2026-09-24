@@ -1,0 +1,11 @@
+Ledger page P-4660
+
+account      amount   see page
+Baker          -531   P-5014
+Ibarra         +864   P-1350
+Kowalski       -702   P-2008
+Xu             +134   P-5756
+Fofana         +126   P-9605
+Quinn          +792   P-1489
+
+Follow the entry with the second-largest amount.

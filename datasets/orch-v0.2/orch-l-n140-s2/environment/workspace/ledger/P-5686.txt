@@ -1,0 +1,11 @@
+Ledger page P-5686
+
+account      amount   see page
+Quinn          +733   P-4378
+Hughes          -16   P-7331
+Rahman         +132   P-2765
+Park           -484   P-2558
+Abbott          +90   P-5706
+Moreau          +62   P-2031
+
+Follow the entry with the largest credit.

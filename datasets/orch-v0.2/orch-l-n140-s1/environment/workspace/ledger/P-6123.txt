@@ -1,0 +1,11 @@
+Ledger page P-6123
+
+account      amount   see page
+Dunn           -873   P-4730
+Young          +403   P-7257
+Silva          -668   P-6507
+Castillo       +196   P-7714
+Hughes         -655   P-9791
+Abbott         -336   P-5535
+
+Follow the entry with the largest debit (the most negative amount).

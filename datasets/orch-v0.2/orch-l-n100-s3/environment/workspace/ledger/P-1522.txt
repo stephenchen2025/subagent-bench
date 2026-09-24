@@ -1,0 +1,11 @@
+Ledger page P-1522
+
+account      amount   see page
+Jensen         -618   P-2779
+Zhou           +362   P-8123
+Hughes         -854   P-9588
+Castillo       +760   P-8701
+Moreau         -695   P-6700
+Ibarra         +105   P-2579
+
+Follow the entry whose amount is closest to zero.

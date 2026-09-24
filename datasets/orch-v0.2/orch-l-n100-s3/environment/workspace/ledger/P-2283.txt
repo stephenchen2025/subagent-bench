@@ -1,0 +1,10 @@
+Ledger page P-2283
+
+account      amount   see page
+Fofana         -484   P-7933
+Tanaka         +186   P-8523
+Ibarra         +458   P-2780
+Moreau         +357   P-1557
+Umar           -634   P-5992
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,82 @@
+Ticket T-2854
+Customer: Aisha Karim
+Orders on file: ORD-69528, ORD-29319, ORD-74986, ORD-46033
+Opened: 2026-01-02 via chat transcript
+
+Order details:
+ORD-69528  placed 2026-03-05  status: delivered  total: $334.35
+  payment method: card ending 9864  ship to: 258 Cedar Rd
+  - wool blanket x1
+  - stainless water bottle, 750ml x2
+  - microfiber cloth x1
+  - spare battery pack x2
+ORD-29319  placed 2026-05-28  status: delivered  total: $400.58
+  payment method: card ending 1668  ship to: 416 Harbor Lane
+  - blender x1
+  - carabiner set x3
+  - gift wrap x2
+ORD-74986  placed 2026-05-04  status: returned  total: $283.76
+  payment method: card ending 2989  ship to: 915 Harbor St
+  - blender x1
+  - merino socks, size M x3
+  - USB-C charging cable (2m) x1
+ORD-46033  placed 2026-07-15  status: delivered  total: $94.90
+  payment method: card ending 9144  ship to: 628 Mill Rd
+  - camping stove x1
+  - replacement filter cartridge, 3-pack x1
+  - extended warranty, 2 years x1
+
+--- message 1 from Aisha Karim ---
+I'd like to return the camping stove from ORD-69528; it's the wrong size. Tracking for ORD-69528 hasn't updated since Tuesday. Could you also tell me whether ORD-29319 qualifies for the extended return window? Is there a way to combine loyalty points from ORD-69528 with my next purchase?
+
+Aisha Karim
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Arjun (support) ---
+Tracking updates can lag by a day or two with this carrier. Loyalty points post about a week after an order is delivered. Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Aisha Karim ---
+The checkout page for ORD-74986 timed out. If I try to pay again, will I end up being charged twice? The box for ORD-29319 was a bit crushed but the contents were fine. I'm happy to send screenshots if that helps.
+
+Thanks,
+Aisha Karim
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Arjun (support) ---
+Let me know if anything else looks off. For ORD-46033, the return window is 30 days from delivery. If you need an invoice for ORD-46033, you can download it from the Orders page.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Arjun (support) ---
+No, you won't be charged twice: the first attempt for ORD-74986 failed before capture, so retrying is safe. Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-46033 to the address on file.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Aisha Karim ---
+Could you also tell me whether ORD-69528 qualifies for the extended return window? I tried the chat widget first but it kept disconnecting. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Aisha Karim
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Aisha Karim ---
+Is there a way to combine loyalty points from ORD-69528 with my next purchase? My partner placed ORD-29319 on our shared account, in case that matters. I tried the chat widget first but it kept disconnecting. Tracking for ORD-29319 hasn't updated since Tuesday.
+
+Thanks,
+Aisha Karim
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Arjun (support) ---
+I've resent the confirmation email for ORD-29319 to the address on file. Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off. Loyalty points post about a week after an order is delivered.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

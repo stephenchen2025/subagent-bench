@@ -1,0 +1,10 @@
+Ledger page P-1246
+
+account      amount   see page
+Zhou           -121   P-3860
+Abbott         -228   P-4944
+Moreau         +519   P-5124
+Tanaka         +837   P-5987
+Nakamura       +259   P-5389
+
+Follow the debit belonging to the account that comes last alphabetically.

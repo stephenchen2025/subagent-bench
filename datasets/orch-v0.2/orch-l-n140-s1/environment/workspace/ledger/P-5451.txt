@@ -1,0 +1,11 @@
+Ledger page P-5451
+
+account      amount   see page
+Rahman         +642   P-2927
+Eriksen        -402   P-4950
+Tanaka         +273   P-5172
+Grant          -386   P-2687
+Park           -735   P-4730
+Ibarra         +115   P-3407
+
+Follow the entry with the second-largest amount.

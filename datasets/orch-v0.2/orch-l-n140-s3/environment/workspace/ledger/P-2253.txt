@@ -1,0 +1,12 @@
+Ledger page P-2253
+
+account      amount   see page
+Castillo       +744   P-3219
+Zhou           -550   P-3222
+Abbott         +309   P-5238
+Silva          +646   P-1963
+Tanaka         +488   P-3203
+Weber          -542   P-2431
+Young          +287   P-2164
+
+Follow the entry with the largest credit.

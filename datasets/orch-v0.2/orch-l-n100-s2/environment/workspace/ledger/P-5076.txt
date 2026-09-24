@@ -1,0 +1,10 @@
+Ledger page P-5076
+
+account      amount   see page
+Tanaka         +628   P-5961
+Vance          +591   P-7693
+Dunn           +547   P-8045
+Young          +718   P-7693
+Xu             -208   P-3278
+
+Follow the entry whose amount is closest to zero.

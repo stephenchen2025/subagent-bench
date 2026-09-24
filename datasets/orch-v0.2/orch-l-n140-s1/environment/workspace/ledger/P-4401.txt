@@ -1,0 +1,12 @@
+Ledger page P-4401
+
+account      amount   see page
+Quinn          -101   P-4085
+Nakamura       -742   P-4413
+Osei           -176   P-4810
+Park           -238   P-6133
+Grant          -772   P-5215
+Rahman         +794   P-3691
+Dunn           +394   P-6249
+
+Follow the credit belonging to the account that comes first alphabetically.

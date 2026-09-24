@@ -1,0 +1,70 @@
+Ticket T-2859
+Customer: Noah Fischer
+Orders on file: ORD-22754, ORD-31384, ORD-68543, ORD-99281
+Opened: 2026-04-25 via email
+
+Order details:
+ORD-22754  placed 2026-02-04  status: label created  total: $470.12
+  payment method: card ending 4472  ship to: 824 Elm Rd
+  - standing desk x1
+  - stainless water bottle, 750ml x1
+  - gift wrap x2
+  - spare battery pack x3
+ORD-31384  placed 2026-06-22  status: label created  total: $313.33
+  payment method: card ending 6170  ship to: 722 Mill Rd
+  - noise-cancelling headphones x1
+  - USB-C charging cable (2m) x1
+  - merino socks, size M x3
+  - travel pouch x3
+ORD-68543  placed 2026-01-17  status: delivered  total: $114.98
+  payment method: card ending 2320  ship to: 596 Elm St
+  - trail running shoes x1
+  - extended warranty, 2 years x3
+  - USB-C charging cable (2m) x2
+  - spare battery pack x2
+ORD-99281  placed 2026-06-07  status: in transit  total: $132.43
+  payment method: card ending 6330  ship to: 836 Elm Rd
+  - bike light set x1
+  - stainless water bottle, 750ml x2
+  - merino socks, size M x3
+  - extended warranty, 2 years x3
+
+--- message 1 from Noah Fischer ---
+Can I use a gift card on ORD-68543, or is it too late? My earlier order ORD-99281 arrived fine, no complaints there. I tried the chat widget first but it kept disconnecting. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Luis (support) ---
+I've added a note to your account so the next agent has the context. Thanks for reaching out, and sorry for the trouble. I've updated your shipping address on file. For ORD-99281, the return window is 30 days from delivery.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Noah Fischer ---
+My earlier order ORD-99281 arrived fine, no complaints there. Tracking for ORD-99281 hasn't updated since Tuesday. Is there a way to combine loyalty points from ORD-68543 with my next purchase? I'm happy to send screenshots if that helps.
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Luis (support) ---
+Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-99281 to the address on file. Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Noah Fischer ---
+The box for ORD-68543 was a bit crushed but the contents were fine. Could you also tell me whether ORD-31384 qualifies for the extended return window? I'm travelling next week, so email is the best way to reach me. The standing desk itself is great, for what it's worth.
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Luis (support) ---
+Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier. I can see all the orders on your account, including ORD-68543. I've added a note to your account so the next agent has the context.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

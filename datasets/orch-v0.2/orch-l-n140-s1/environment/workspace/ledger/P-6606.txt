@@ -1,0 +1,12 @@
+Ledger page P-6606
+
+account      amount   see page
+Lambert        -898   P-2983
+Abbott         +607   P-1026
+Weber          +541   P-1536
+Hughes         -244   P-4373
+Jensen         +471   P-3552
+Fofana         +637   P-7318
+Silva          +738   P-5336
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,11 @@
+Ledger page P-9897
+
+account      amount   see page
+Rahman          -54   P-1132
+Abbott         +430   P-2760
+Baker          +623   P-2683
+Jensen         +895   P-6368
+Zhou           -368   P-4636
+Silva          -326   P-6544
+
+Follow the entry with the second-largest amount.

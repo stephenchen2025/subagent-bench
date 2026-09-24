@@ -1,0 +1,69 @@
+Ticket T-9893
+Customer: Leila Haddad
+Orders on file: ORD-26642, ORD-57015, ORD-53389, ORD-82841
+Opened: 2026-02-12 via web form
+
+Order details:
+ORD-26642  placed 2026-07-27  status: returned  total: $456.83
+  payment method: card ending 5504  ship to: 796 Cedar Lane
+  - carry-on suitcase x1
+  - spare battery pack x3
+  - microfiber cloth x2
+ORD-57015  placed 2026-08-16  status: delivered  total: $145.76
+  payment method: card ending 4574  ship to: 906 Cedar St
+  - standing desk x1
+  - spare battery pack x3
+  - carabiner set x1
+  - replacement filter cartridge, 3-pack x3
+  - gift wrap x1
+ORD-53389  placed 2026-07-10  status: in transit  total: $417.94
+  payment method: card ending 4104  ship to: 806 Harbor Rd
+  - desk lamp x1
+  - replacement filter cartridge, 3-pack x1
+  - gift wrap x2
+  - travel pouch x3
+  - stainless water bottle, 750ml x1
+ORD-82841  placed 2026-02-12  status: in transit  total: $403.10
+  payment method: card ending 5334  ship to: 649 Cedar St
+  - bike light set x1
+  - microfiber cloth x3
+  - USB-C charging cable (2m) x3
+
+--- message 1 from Leila Haddad ---
+Where is my refund for ORD-82841? You said 5 days and it has been 8. I'd rather not call; the hold times last time were very long. I changed my shipping address last month, so please double-check you have the new one. Could you also tell me whether ORD-82841 qualifies for the extended return window?
+
+Leila Haddad
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Luis (support) ---
+I can see all the orders on your account, including ORD-82841. For ORD-82841, the return window is 30 days from delivery. Our warehouse shows ORD-26642 left on schedule. Let me know if anything else looks off.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Leila Haddad ---
+Not your fault, but my gym billed me twice this month, which is why I'm nervous about ORD-53389. Everything on your side looks like a single charge, I just wanted to confirm the delivery date. The box for ORD-82841 was a bit crushed but the contents were fine. Your app logged me out twice while I was looking at this, which didn't help.
+
+Leila Haddad
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Luis (support) ---
+Let me know if anything else looks off. I've resent the confirmation email for ORD-26642 to the address on file. I've updated your shipping address on file.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Leila Haddad ---
+My earlier order ORD-26642 arrived fine, no complaints there. I've been a customer for a few years and usually everything goes smoothly. Tracking for ORD-57015 hasn't updated since Tuesday. I tried the chat widget first but it kept disconnecting.
+
+Leila Haddad
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Luis (support) ---
+I've added a note to your account so the next agent has the context. Let me know if anything else looks off. For ORD-26642, the return window is 30 days from delivery. Our warehouse shows ORD-82841 left on schedule.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

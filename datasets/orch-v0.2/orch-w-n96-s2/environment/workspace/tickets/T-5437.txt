@@ -1,0 +1,83 @@
+Ticket T-5437
+Customer: Priya Raman
+Orders on file: ORD-33606, ORD-31560, ORD-11297, ORD-39885
+Opened: 2026-07-17 via email
+
+Order details:
+ORD-33606  placed 2026-01-25  status: returned  total: $262.00
+  payment method: card ending 5220  ship to: 638 Mill Rd
+  - rain jacket x1
+  - gift wrap x1
+  - microfiber cloth x3
+  - spare battery pack x3
+ORD-31560  placed 2026-05-12  status: label created  total: $353.77
+  payment method: card ending 9975  ship to: 645 Harbor Rd
+  - camping stove x1
+  - carabiner set x3
+  - replacement filter cartridge, 3-pack x1
+ORD-11297  placed 2026-04-22  status: returned  total: $40.08
+  payment method: card ending 4495  ship to: 626 Mill St
+  - cast iron skillet x1
+  - extended warranty, 2 years x2
+  - USB-C charging cable (2m) x2
+  - gift wrap x3
+  - merino socks, size M x2
+ORD-39885  placed 2026-04-20  status: delivered  total: $87.04
+  payment method: card ending 9815  ship to: 972 Harbor Ave
+  - blender x1
+  - microfiber cloth x1
+  - travel pouch x2
+  - stainless water bottle, 750ml x3
+
+--- message 1 from Priya Raman ---
+Can I use a gift card on ORD-31560, or is it too late? Tracking for ORD-31560 hasn't updated since Tuesday. I'm happy to send screenshots if that helps. I tried the chat widget first but it kept disconnecting.
+
+Priya Raman
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Pete (support) ---
+I've resent the confirmation email for ORD-31560 to the address on file. If you need an invoice for ORD-33606, you can download it from the Orders page. Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-33606 left on schedule.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Priya Raman ---
+Before I retry the payment on ORD-39885 -- is there any risk of a double charge? I'd rather not call; the hold times last time were very long. Is there a way to combine loyalty points from ORD-11297 with my next purchase?
+
+Best regards,
+Priya Raman
+
+--- message 4 from Pete (support) ---
+Screenshots aren't necessary, but thank you for offering. Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Pete (support) ---
+Retrying is safe. Our system blocks a second capture on ORD-39885, so a double charge can't happen. I can see all the orders on your account, including ORD-33606. I've added a note to your account so the next agent has the context.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Priya Raman ---
+The trail running shoes itself is great, for what it's worth. I'd rather not call; the hold times last time were very long. My earlier order ORD-11297 arrived fine, no complaints there.
+
+Priya Raman
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Priya Raman ---
+The camping stove itself is great, for what it's worth. The confirmation email for ORD-33606 went to my spam folder, so I only just saw it. I've been a customer for a few years and usually everything goes smoothly. Is there a way to combine loyalty points from ORD-11297 with my next purchase?
+
+Thanks,
+Priya Raman
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Pete (support) ---
+Let me know if anything else looks off. Tracking updates can lag by a day or two with this carrier. I've updated your shipping address on file. Our warehouse shows ORD-11297 left on schedule.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

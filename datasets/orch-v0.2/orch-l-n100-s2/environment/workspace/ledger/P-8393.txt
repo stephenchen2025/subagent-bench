@@ -1,0 +1,12 @@
+Ledger page P-8393
+
+account      amount   see page
+Abbott         -813   P-6654
+Moreau         -343   P-2003
+Rahman         +378   P-2604
+Castillo       -771   P-5461
+Nakamura       +634   P-4227
+Lambert        +687   P-5516
+Xu             -228   P-9169
+
+Follow the entry with the second-largest amount.

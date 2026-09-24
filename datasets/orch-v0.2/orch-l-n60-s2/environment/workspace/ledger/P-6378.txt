@@ -1,0 +1,12 @@
+Ledger page P-6378
+
+account      amount   see page
+Baker          -138   P-9916
+Young            -9   P-9719
+Park           -663   P-4828
+Lambert        +840   P-5153
+Umar           -710   P-5107
+Quinn           -73   P-8289
+Dunn           +525   P-4980
+
+Follow the entry with the largest credit.

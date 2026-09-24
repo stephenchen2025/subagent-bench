@@ -1,0 +1,12 @@
+Ledger page P-1469
+
+account      amount   see page
+Jensen         -218   P-8919
+Rahman          -89   P-1676
+Weber           -73   P-3193
+Quinn          -625   P-5183
+Fofana         -503   P-2617
+Dunn           +781   P-9905
+Castillo       +103   P-6370
+
+Follow the entry with the second-largest amount.

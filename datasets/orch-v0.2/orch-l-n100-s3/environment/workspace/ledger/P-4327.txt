@@ -1,0 +1,12 @@
+Ledger page P-4327
+
+account      amount   see page
+Vance          +276   P-6513
+Osei           -847   P-8671
+Kowalski        +80   P-4169
+Ibarra         +246   P-8931
+Nakamura       +478   P-1088
+Moreau         +896   P-1487
+Castillo       -402   P-7783
+
+Follow the credit belonging to the account that comes first alphabetically.

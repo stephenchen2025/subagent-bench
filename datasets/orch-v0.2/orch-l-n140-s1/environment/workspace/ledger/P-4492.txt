@@ -1,0 +1,11 @@
+Ledger page P-4492
+
+account      amount   see page
+Kowalski       -885   P-2449
+Tanaka         -404   P-6249
+Fofana          -70   P-7714
+Lambert        +637   P-1630
+Jensen         +872   P-5107
+Castillo       +551   P-8479
+
+Follow the debit belonging to the account that comes last alphabetically.

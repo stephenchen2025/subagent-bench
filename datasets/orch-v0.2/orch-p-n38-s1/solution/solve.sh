@@ -1,0 +1,161 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cd /workspace
+cat > answer.json <<'EOF'
+{
+  "services": {
+    "survey-collector": {
+      "component": "batch-assembler",
+      "cause": "config-typo"
+    },
+    "schema-registry": {
+      "component": "blob-writer",
+      "cause": "disk-full"
+    },
+    "billing-sync": {
+      "component": "http-frontend",
+      "cause": "dns-failure"
+    },
+    "catalog-api": {
+      "component": "cache-warmer",
+      "cause": "expired-credential"
+    },
+    "loyalty-points": {
+      "component": "schema-migrator",
+      "cause": "out-of-memory"
+    },
+    "inventory-sync": {
+      "component": "metrics-shipper",
+      "cause": "disk-full"
+    },
+    "payout-batch": {
+      "component": "blob-writer",
+      "cause": "expired-credential"
+    },
+    "quota-keeper": {
+      "component": "batch-assembler",
+      "cause": "out-of-memory"
+    },
+    "consent-log": {
+      "component": "schema-migrator",
+      "cause": "config-typo"
+    },
+    "search-indexer": {
+      "component": "batch-assembler",
+      "cause": "config-typo"
+    },
+    "cost-reporter": {
+      "component": "peer-resolver",
+      "cause": "config-typo"
+    },
+    "notifier": {
+      "component": "batch-assembler",
+      "cause": "expired-credential"
+    },
+    "tax-calc": {
+      "component": "peer-resolver",
+      "cause": "dns-failure"
+    },
+    "returns-desk": {
+      "component": "blob-writer",
+      "cause": "disk-full"
+    },
+    "review-moderator": {
+      "component": "config-loader",
+      "cause": "config-typo"
+    },
+    "media-resizer": {
+      "component": "blob-writer",
+      "cause": "expired-credential"
+    },
+    "chat-router": {
+      "component": "queue-consumer",
+      "cause": "expired-credential"
+    },
+    "label-printer": {
+      "component": "schema-migrator",
+      "cause": "out-of-memory"
+    },
+    "session-store": {
+      "component": "queue-consumer",
+      "cause": "disk-full"
+    },
+    "audit-trail": {
+      "component": "peer-resolver",
+      "cause": "dns-failure"
+    },
+    "export-worker": {
+      "component": "http-frontend",
+      "cause": "out-of-memory"
+    },
+    "shipment-tracker": {
+      "component": "peer-resolver",
+      "cause": "config-typo"
+    },
+    "dns-updater": {
+      "component": "token-refresher",
+      "cause": "expired-credential"
+    },
+    "sms-gateway": {
+      "component": "metrics-shipper",
+      "cause": "disk-full"
+    },
+    "sso-bridge": {
+      "component": "queue-consumer",
+      "cause": "out-of-memory"
+    },
+    "ledger": {
+      "component": "batch-assembler",
+      "cause": "dns-failure"
+    },
+    "fraud-score": {
+      "component": "batch-assembler",
+      "cause": "disk-full"
+    },
+    "thumbnailer": {
+      "component": "token-refresher",
+      "cause": "config-typo"
+    },
+    "email-digest": {
+      "component": "schema-migrator",
+      "cause": "disk-full"
+    },
+    "ledger-archiver": {
+      "component": "token-refresher",
+      "cause": "disk-full"
+    },
+    "price-watch": {
+      "component": "blob-writer",
+      "cause": "dns-failure"
+    },
+    "cdn-purger": {
+      "component": "config-loader",
+      "cause": "out-of-memory"
+    },
+    "authz": {
+      "component": "peer-resolver",
+      "cause": "out-of-memory"
+    },
+    "invoice-render": {
+      "component": "blob-writer",
+      "cause": "expired-credential"
+    },
+    "rate-limiter": {
+      "component": "token-refresher",
+      "cause": "expired-credential"
+    },
+    "pdf-stamper": {
+      "component": "token-refresher",
+      "cause": "config-typo"
+    },
+    "geo-lookup": {
+      "component": "batch-assembler",
+      "cause": "disk-full"
+    },
+    "feed-builder": {
+      "component": "batch-assembler",
+      "cause": "disk-full"
+    }
+  }
+}
+EOF

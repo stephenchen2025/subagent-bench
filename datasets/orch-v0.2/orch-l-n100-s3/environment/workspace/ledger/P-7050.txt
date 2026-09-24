@@ -1,0 +1,12 @@
+Ledger page P-7050
+
+account      amount   see page
+Castillo       +271   P-6128
+Abbott         +505   P-2188
+Weber          -493   P-8185
+Rahman         -616   P-2898
+Jensen         -307   P-6398
+Lambert        -369   P-5935
+Park           -332   P-1200
+
+Follow the credit belonging to the account that comes first alphabetically.

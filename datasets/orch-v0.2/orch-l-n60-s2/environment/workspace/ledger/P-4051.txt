@@ -1,0 +1,11 @@
+Ledger page P-4051
+
+account      amount   see page
+Park           -505   P-9792
+Quinn          +820   P-3409
+Eriksen        +883   P-7317
+Kowalski        -58   P-8097
+Tanaka          +74   P-4422
+Ibarra         +646   P-9511
+
+Follow the entry with the second-largest amount.

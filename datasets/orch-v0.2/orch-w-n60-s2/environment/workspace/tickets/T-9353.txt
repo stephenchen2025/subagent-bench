@@ -1,0 +1,102 @@
+Ticket T-9353
+Customer: Tomas Novak
+Orders on file: ORD-91314, ORD-96058, ORD-41820, ORD-85404
+Opened: 2026-06-20 via chat transcript
+
+Order details:
+ORD-91314  placed 2026-07-06  status: delivered  total: $298.82
+  payment method: card ending 9202  ship to: 431 Elm St
+  - yoga mat x1
+  - travel pouch x1
+  - extended warranty, 2 years x2
+  - carabiner set x1
+  - replacement filter cartridge, 3-pack x3
+ORD-96058  placed 2026-05-26  status: delivered  total: $364.59
+  payment method: card ending 6610  ship to: 703 Cedar Ave
+  - carry-on suitcase x1
+  - gift wrap x3
+  - spare battery pack x3
+  - stainless water bottle, 750ml x3
+ORD-41820  placed 2026-07-06  status: in transit  total: $89.41
+  payment method: card ending 8251  ship to: 163 Oak Rd
+  - mechanical keyboard x1
+  - carabiner set x3
+  - gift wrap x1
+ORD-85404  placed 2026-03-06  status: delivered  total: $360.97
+  payment method: card ending 8355  ship to: 436 Elm Ave
+  - wool blanket x1
+  - merino socks, size M x3
+  - extended warranty, 2 years x2
+  - replacement filter cartridge, 3-pack x1
+
+--- message 1 from Tomas Novak ---
+The espresso grinder from ORD-91314 arrived with a scratch on the side. Can I get a replacement? The box for ORD-41820 was a bit crushed but the contents were fine. I'm happy to send screenshots if that helps. The confirmation email for ORD-96058 went to my spam folder, so I only just saw it.
+
+Tomas Novak
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Arjun (support) ---
+I've updated your shipping address on file. I've resent the confirmation email for ORD-96058 to the address on file. Screenshots aren't necessary, but thank you for offering. Our warehouse shows ORD-96058 left on schedule.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Tomas Novak ---
+There are two identical debits on my credit union and both reference ORD-85404. My earlier order ORD-41820 arrived fine, no complaints there. I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Tomas Novak
+
+--- message 4 from Arjun (support) ---
+I can see all the orders on your account, including ORD-96058. If you need an invoice for ORD-91314, you can download it from the Orders page. Thanks for reaching out, and sorry for the trouble.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Arjun (support) ---
+Our payment logs show a single capture for ORD-85404. The extra line you saw was an authorization that expired on its own -- no money was taken for it. I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Tomas Novak ---
+Thanks, I see it now: one payment for ORD-85404, the other one disappeared. All good. Your app logged me out twice while I was looking at this, which didn't help. The box for ORD-41820 was a bit crushed but the contents were fine.
+
+Tomas Novak
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Arjun (support) ---
+Our warehouse shows ORD-96058 left on schedule. Thanks for reaching out, and sorry for the trouble. For ORD-41820, the return window is 30 days from delivery.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Tomas Novak ---
+I'm happy to send screenshots if that helps. Is there a way to combine loyalty points from ORD-91314 with my next purchase? The confirmation email for ORD-91314 went to my spam folder, so I only just saw it. My partner placed ORD-41820 on our shared account, in case that matters.
+
+Tomas Novak
+(Please reply by email rather than phone if possible.)
+
+--- message 9 from Arjun (support) ---
+I can see all the orders on your account, including ORD-91314. Loyalty points post about a week after an order is delivered. Thanks for reaching out, and sorry for the trouble. I've updated your shipping address on file.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 10 from Tomas Novak ---
+Could you also tell me whether ORD-96058 qualifies for the extended return window? Your app logged me out twice while I was looking at this, which didn't help. I changed my shipping address last month, so please double-check you have the new one. The confirmation email for ORD-91314 went to my spam folder, so I only just saw it.
+
+Tomas Novak
+(Please reply by email rather than phone if possible.)
+
+--- message 11 from Arjun (support) ---
+I've updated your shipping address on file. If you need an invoice for ORD-91314, you can download it from the Orders page. Tracking updates can lag by a day or two with this carrier. I can see all the orders on your account, including ORD-96058.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

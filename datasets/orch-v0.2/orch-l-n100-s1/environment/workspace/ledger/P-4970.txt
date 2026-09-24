@@ -1,0 +1,12 @@
+Ledger page P-4970
+
+account      amount   see page
+Quinn          +678   P-5960
+Castillo       +184   P-5218
+Silva          -311   P-5858
+Nakamura       +204   P-1589
+Grant          +892   P-9386
+Osei           +290   P-4499
+Moreau         -878   P-4502
+
+Follow the debit belonging to the account that comes last alphabetically.

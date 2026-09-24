@@ -1,0 +1,11 @@
+Ledger page P-3340
+
+account      amount   see page
+Quinn          +717   P-8919
+Young           +59   P-2109
+Park            -44   P-9550
+Hughes         +491   P-9807
+Abbott          -62   P-1713
+Jensen         -884   P-1151
+
+Follow the debit belonging to the account that comes last alphabetically.

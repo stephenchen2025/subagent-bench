@@ -1,9 +1,0 @@
-{
-  "checks": [
-    "check_chunks",
-    "check_errors"
-  ],
-  "module": "chunks",
-  "family": "S",
-  "task_id": "orch-s-n1-s1"
-}

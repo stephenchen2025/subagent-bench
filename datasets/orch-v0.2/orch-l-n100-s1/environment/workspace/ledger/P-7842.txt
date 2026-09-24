@@ -1,0 +1,12 @@
+Ledger page P-7842
+
+account      amount   see page
+Nakamura       +324   P-2779
+Rahman         -810   P-3528
+Eriksen        +265   P-9713
+Castillo       -884   P-3351
+Baker          +616   P-9647
+Jensen         +103   P-6184
+Vance          +285   P-4872
+
+Follow the entry whose amount is closest to zero.

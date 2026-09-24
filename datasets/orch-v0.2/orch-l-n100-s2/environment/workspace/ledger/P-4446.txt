@@ -1,0 +1,11 @@
+Ledger page P-4446
+
+account      amount   see page
+Eriksen        +505   P-5225
+Fofana         -284   P-3062
+Kowalski       +726   P-8535
+Ibarra         -764   P-1211
+Park           +213   P-2989
+Jensen         +718   P-2413
+
+Follow the entry with the largest credit.

@@ -1,0 +1,10 @@
+Ledger page P-5802
+
+account      amount   see page
+Weber          -734   P-3818
+Hughes         -618   P-3510
+Abbott          +64   P-2618
+Fofana         +180   P-3047
+Vance          -894   P-5120
+
+Follow the entry with the second-largest amount.

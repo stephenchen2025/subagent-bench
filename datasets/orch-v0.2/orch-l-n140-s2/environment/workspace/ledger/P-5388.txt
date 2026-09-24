@@ -1,0 +1,12 @@
+Ledger page P-5388
+
+account      amount   see page
+Rahman         +676   P-1412
+Zhou           +600   P-2252
+Hughes          +88   P-6783
+Ibarra          +58   P-2771
+Lambert        +365   P-1786
+Baker           -22   P-8415
+Fofana          -76   P-4806
+
+Follow the entry with the second-largest amount.

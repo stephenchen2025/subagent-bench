@@ -1,0 +1,10 @@
+Ledger page P-5023
+
+account      amount   see page
+Xu             +298   P-8816
+Osei           -777   P-8431
+Silva          -606   P-6653
+Baker          -699   P-4713
+Grant          -511   P-7912
+
+Follow the entry with the largest debit (the most negative amount).

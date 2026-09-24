@@ -1,0 +1,12 @@
+Ledger page P-1701
+
+account      amount   see page
+Fofana         +249   P-5366
+Zhou           -571   P-6726
+Abbott         -275   P-1132
+Kowalski       +423   P-3624
+Castillo       +334   P-6600
+Weber          +730   P-6171
+Grant          -828   P-2034
+
+Follow the entry with the largest credit.

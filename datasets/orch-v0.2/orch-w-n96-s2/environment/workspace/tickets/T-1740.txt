@@ -1,0 +1,68 @@
+Ticket T-1740
+Customer: Felix Wagner
+Orders on file: ORD-73942, ORD-30616, ORD-89915, ORD-24509
+Opened: 2026-08-16 via chat transcript
+
+Order details:
+ORD-73942  placed 2026-07-01  status: delivered  total: $161.34
+  payment method: card ending 6528  ship to: 89 Cedar Ave
+  - standing desk x1
+  - replacement filter cartridge, 3-pack x2
+  - gift wrap x2
+  - carabiner set x2
+ORD-30616  placed 2026-02-07  status: delivered  total: $204.38
+  payment method: card ending 7080  ship to: 192 Mill Lane
+  - cast iron skillet x1
+  - carabiner set x2
+  - microfiber cloth x2
+ORD-89915  placed 2026-05-03  status: returned  total: $237.62
+  payment method: card ending 6206  ship to: 873 Harbor Lane
+  - noise-cancelling headphones x1
+  - stainless water bottle, 750ml x3
+  - extended warranty, 2 years x3
+  - spare battery pack x3
+ORD-24509  placed 2026-08-07  status: delivered  total: $152.25
+  payment method: card ending 5917  ship to: 89 Oak Lane
+  - rain jacket x1
+  - gift wrap x2
+  - spare battery pack x1
+
+--- message 1 from Felix Wagner ---
+I need to change the delivery address for ORD-24509 before it ships. My earlier order ORD-89915 arrived fine, no complaints there. The confirmation email for ORD-89915 went to my spam folder, so I only just saw it. My partner placed ORD-24509 on our shared account, in case that matters.
+
+Felix Wagner
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Marcus (support) ---
+For ORD-30616, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-30616. If you need an invoice for ORD-24509, you can download it from the Orders page.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Felix Wagner ---
+I see two charges on my credit union this week, one for ORD-73942 and one for ORD-89915. Both are correct -- I ordered twice on purpose -- but could you send me the invoices for my expense report? The confirmation email for ORD-89915 went to my spam folder, so I only just saw it. The box for ORD-30616 was a bit crushed but the contents were fine.
+
+Best regards,
+Felix Wagner
+
+--- message 4 from Marcus (support) ---
+I've updated your shipping address on file. Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Felix Wagner ---
+The box for ORD-24509 was a bit crushed but the contents were fine. I'd rather not call; the hold times last time were very long. Could you also tell me whether ORD-24509 qualifies for the extended return window? Tracking for ORD-89915 hasn't updated since Tuesday.
+
+Thanks,
+Felix Wagner
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Marcus (support) ---
+Our warehouse shows ORD-89915 left on schedule. Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-89915. I've updated your shipping address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

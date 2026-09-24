@@ -1,0 +1,12 @@
+Ledger page P-9548
+
+account      amount   see page
+Ibarra         -391   P-6835
+Abbott         +164   P-9286
+Eriksen        -242   P-4397
+Lambert        -321   P-8499
+Osei           +345   P-4001
+Grant          -452   P-6482
+Baker          -518   P-5782
+
+Follow the credit belonging to the account that comes first alphabetically.

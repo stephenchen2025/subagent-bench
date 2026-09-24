@@ -1,0 +1,12 @@
+Ledger page P-3839
+
+account      amount   see page
+Weber          +880   P-4111
+Kowalski       -796   P-4113
+Abbott         +234   P-7197
+Umar           -526   P-6153
+Zhou           +568   P-1336
+Dunn           -340   P-2687
+Fofana         -104   P-4921
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,12 @@
+Ledger page P-8985
+
+account      amount   see page
+Vance          -268   P-3849
+Xu             +345   P-7768
+Nakamura       -477   P-8440
+Osei           -243   P-5039
+Lambert        +478   P-3680
+Weber           +75   P-8981
+Kowalski       +611   P-1649
+
+Follow the entry with the largest debit (the most negative amount).

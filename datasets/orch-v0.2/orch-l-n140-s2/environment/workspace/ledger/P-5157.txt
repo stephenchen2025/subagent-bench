@@ -1,0 +1,11 @@
+Ledger page P-5157
+
+account      amount   see page
+Osei           +753   P-1734
+Weber          -750   P-2977
+Rahman          -49   P-3743
+Moreau         +330   P-1962
+Jensen         +412   P-1730
+Eriksen        -402   P-6752
+
+Follow the entry with the second-largest amount.

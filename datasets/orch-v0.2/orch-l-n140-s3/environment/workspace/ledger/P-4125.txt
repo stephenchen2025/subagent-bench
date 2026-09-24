@@ -1,0 +1,10 @@
+Ledger page P-4125
+
+account      amount   see page
+Quinn          -167   P-2656
+Rahman         +479   P-6641
+Abbott         -181   P-4236
+Weber          +562   P-8244
+Ibarra         -886   P-5767
+
+Follow the entry whose amount is closest to zero.

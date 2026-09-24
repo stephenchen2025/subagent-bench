@@ -1,0 +1,11 @@
+Ledger page P-8318
+
+account      amount   see page
+Ibarra         +646   P-7614
+Eriksen        +131   P-9708
+Tanaka         +666   P-2146
+Nakamura       -369   P-5258
+Moreau         +507   P-2544
+Quinn          -500   P-7474
+
+Follow the debit belonging to the account that comes last alphabetically.

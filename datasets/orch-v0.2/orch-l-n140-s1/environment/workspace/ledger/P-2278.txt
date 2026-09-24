@@ -1,0 +1,10 @@
+Ledger page P-2278
+
+account      amount   see page
+Umar           -664   P-1861
+Baker          -730   P-2068
+Zhou           +579   P-5623
+Rahman         +102   P-8046
+Park            -18   P-9105
+
+Follow the entry with the largest credit.

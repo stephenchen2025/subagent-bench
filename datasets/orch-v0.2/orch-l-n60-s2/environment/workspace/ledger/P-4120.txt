@@ -1,0 +1,10 @@
+Ledger page P-4120
+
+account      amount   see page
+Umar           +344   P-4891
+Eriksen        -370   P-5322
+Ibarra         +218   P-1656
+Xu             +757   P-6115
+Abbott         +513   P-2529
+
+Follow the debit belonging to the account that comes last alphabetically.

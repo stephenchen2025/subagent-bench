@@ -1,0 +1,10 @@
+Ledger page P-3072
+
+account      amount   see page
+Quinn          -687   P-2010
+Jensen         -458   P-3270
+Fofana         +155   P-2409
+Weber          +121   P-3974
+Castillo       -837   P-7729
+
+Follow the entry with the largest credit.

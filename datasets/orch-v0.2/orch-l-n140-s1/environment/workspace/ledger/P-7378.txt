@@ -1,0 +1,11 @@
+Ledger page P-7378
+
+account      amount   see page
+Castillo       +854   P-3191
+Quinn          -402   P-7338
+Nakamura       -714   P-7037
+Xu             +895   P-8805
+Abbott          +70   P-9469
+Baker          -467   P-2610
+
+Follow the entry with the second-largest amount.

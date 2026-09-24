@@ -1,0 +1,11 @@
+Ledger page P-8034
+
+account      amount   see page
+Osei           +266   P-7186
+Fofana         -300   P-5162
+Xu             -342   P-3743
+Grant          -890   P-8493
+Silva          -456   P-4465
+Jensen         -873   P-7613
+
+Follow the entry whose amount is closest to zero.

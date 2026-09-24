@@ -1,0 +1,10 @@
+Ledger page P-2847
+
+account      amount   see page
+Ibarra         +885   P-3472
+Silva          -206   P-3249
+Young          +549   P-8045
+Hughes         +206   P-3833
+Jensen         +584   P-2355
+
+Follow the entry with the largest credit.

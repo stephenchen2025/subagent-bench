@@ -1,0 +1,11 @@
+Ledger page P-8001
+
+account      amount   see page
+Abbott         -619   P-2765
+Nakamura       +377   P-7862
+Tanaka         -683   P-5894
+Xu             -765   P-2705
+Park           +454   P-4564
+Hughes         -544   P-2991
+
+Follow the entry with the second-largest amount.

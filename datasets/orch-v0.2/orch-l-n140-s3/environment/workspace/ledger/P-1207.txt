@@ -1,0 +1,12 @@
+Ledger page P-1207
+
+account      amount   see page
+Jensen         -293   P-8210
+Tanaka         +719   P-8753
+Moreau         -704   P-6651
+Osei           -357   P-1612
+Xu             -672   P-7967
+Ibarra         -430   P-6835
+Grant          +377   P-9456
+
+Follow the entry with the largest credit.

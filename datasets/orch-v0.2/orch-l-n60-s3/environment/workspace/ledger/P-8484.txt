@@ -1,0 +1,11 @@
+Ledger page P-8484
+
+account      amount   see page
+Moreau         -720   P-1729
+Grant          -383   P-2277
+Eriksen        +504   P-7577
+Quinn          +617   P-7899
+Park           -386   P-5844
+Fofana         +419   P-5445
+
+Follow the entry with the second-largest amount.

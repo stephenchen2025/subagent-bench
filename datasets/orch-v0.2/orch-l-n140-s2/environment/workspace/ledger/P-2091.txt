@@ -1,0 +1,12 @@
+Ledger page P-2091
+
+account      amount   see page
+Silva          +428   P-6203
+Young          -368   P-8261
+Fofana         -593   P-1106
+Lambert        +842   P-1221
+Nakamura        -42   P-7331
+Ibarra         -129   P-4074
+Jensen         -839   P-1614
+
+Follow the entry whose amount is closest to zero.

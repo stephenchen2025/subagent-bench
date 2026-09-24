@@ -1,0 +1,10 @@
+Ledger page P-8384
+
+account      amount   see page
+Fofana         +899   P-4349
+Park           -651   P-4349
+Osei           -805   P-4017
+Quinn          -836   P-2097
+Moreau         -424   P-1579
+
+Follow the entry with the largest credit.

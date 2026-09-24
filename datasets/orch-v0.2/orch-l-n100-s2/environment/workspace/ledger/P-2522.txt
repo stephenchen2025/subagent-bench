@@ -1,0 +1,12 @@
+Ledger page P-2522
+
+account      amount   see page
+Quinn          +171   P-9979
+Lambert        +851   P-5527
+Baker          -434   P-7672
+Weber          +263   P-6000
+Hughes         -198   P-7583
+Jensen         +879   P-7222
+Rahman         -822   P-5618
+
+Follow the debit belonging to the account that comes last alphabetically.

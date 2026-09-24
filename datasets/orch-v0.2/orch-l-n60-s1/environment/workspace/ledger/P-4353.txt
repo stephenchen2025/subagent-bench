@@ -1,0 +1,12 @@
+Ledger page P-4353
+
+account      amount   see page
+Zhou           +588   P-2361
+Dunn           -207   P-9322
+Silva          +527   P-1438
+Park           +638   P-1690
+Ibarra         -778   P-5226
+Rahman          +97   P-1081
+Quinn          -509   P-1117
+
+Follow the credit belonging to the account that comes first alphabetically.

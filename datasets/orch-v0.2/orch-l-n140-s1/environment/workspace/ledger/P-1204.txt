@@ -1,0 +1,10 @@
+Ledger page P-1204
+
+account      amount   see page
+Xu             -205   P-9322
+Moreau         +702   P-6810
+Castillo       +869   P-2278
+Dunn           -170   P-9870
+Eriksen        -594   P-3084
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,11 @@
+Ledger page P-9733
+
+account      amount   see page
+Moreau         +823   P-2588
+Grant          +407   P-2390
+Tanaka         +438   P-9917
+Rahman         -494   P-1261
+Osei            -23   P-4738
+Kowalski       +646   P-2893
+
+Follow the entry with the second-largest amount.

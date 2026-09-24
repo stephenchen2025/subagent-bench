@@ -1,0 +1,11 @@
+Ledger page P-5600
+
+account      amount   see page
+Kowalski        +89   P-1234
+Quinn          -555   P-4320
+Zhou           +379   P-3047
+Young          +366   P-5991
+Rahman         +597   P-2716
+Castillo       -468   P-8715
+
+Follow the entry with the largest debit (the most negative amount).

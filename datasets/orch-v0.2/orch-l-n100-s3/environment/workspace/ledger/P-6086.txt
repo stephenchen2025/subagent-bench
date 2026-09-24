@@ -1,0 +1,12 @@
+Ledger page P-6086
+
+account      amount   see page
+Young           -14   P-2184
+Kowalski       +694   P-9084
+Osei           +604   P-4720
+Umar           +551   P-1547
+Silva          -670   P-8476
+Dunn           -206   P-1200
+Tanaka         +753   P-3270
+
+Follow the entry with the largest debit (the most negative amount).

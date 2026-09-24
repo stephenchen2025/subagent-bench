@@ -1,0 +1,11 @@
+Ledger page P-2458
+
+account      amount   see page
+Ibarra         +187   P-6221
+Nakamura       -675   P-3026
+Kowalski       -572   P-1207
+Fofana         -598   P-4929
+Eriksen        -534   P-9072
+Weber          -336   P-8445
+
+Follow the entry with the largest debit (the most negative amount).

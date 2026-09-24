@@ -1,0 +1,11 @@
+Ledger page P-4301
+
+account      amount   see page
+Eriksen        -761   P-9256
+Rahman         -152   P-8473
+Young          +520   P-2046
+Vance          -341   P-6013
+Nakamura       +632   P-4103
+Abbott         -377   P-9375
+
+Follow the entry with the second-largest amount.

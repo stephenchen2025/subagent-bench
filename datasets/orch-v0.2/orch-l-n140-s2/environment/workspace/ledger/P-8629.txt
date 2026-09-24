@@ -1,0 +1,12 @@
+Ledger page P-8629
+
+account      amount   see page
+Eriksen         +73   P-4826
+Moreau         +532   P-6654
+Osei           -703   P-4167
+Rahman         +614   P-7862
+Young          +641   P-6217
+Xu             -871   P-6656
+Grant          -807   P-1265
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,12 @@
+Ledger page P-8677
+
+account      amount   see page
+Quinn          -695   P-6695
+Rahman          +97   P-5516
+Moreau         -784   P-1759
+Fofana          -49   P-9838
+Ibarra         -798   P-6722
+Young           +72   P-6064
+Zhou            -63   P-2003
+
+Follow the debit belonging to the account that comes last alphabetically.

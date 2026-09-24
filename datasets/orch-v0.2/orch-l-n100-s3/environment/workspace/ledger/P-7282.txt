@@ -1,0 +1,11 @@
+Ledger page P-7282
+
+account      amount   see page
+Baker          -649   P-2301
+Osei           +362   P-9426
+Xu             -346   P-2562
+Hughes         +532   P-1575
+Dunn           -304   P-9997
+Silva          -214   P-6868
+
+Follow the entry with the second-largest amount.

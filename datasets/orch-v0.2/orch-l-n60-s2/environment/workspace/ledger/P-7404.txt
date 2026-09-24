@@ -1,0 +1,10 @@
+Ledger page P-7404
+
+account      amount   see page
+Xu              -91   P-9214
+Weber           +16   P-7404
+Castillo       -628   P-8959
+Nakamura       +627   P-3260
+Lambert        +141   P-9916
+
+Follow the entry whose amount is closest to zero.

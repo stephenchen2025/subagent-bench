@@ -1,0 +1,11 @@
+Ledger page P-6821
+
+account      amount   see page
+Weber           +29   P-7551
+Nakamura        -96   P-2000
+Kowalski       -371   P-8889
+Ibarra         +640   P-7911
+Hughes         +189   P-2965
+Zhou           +263   P-9743
+
+Follow the entry with the second-largest amount.

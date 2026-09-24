@@ -1,0 +1,10 @@
+Ledger page P-9697
+
+account      amount   see page
+Silva          +880   P-3964
+Vance           -80   P-3599
+Zhou            +84   P-1465
+Young          -829   P-2790
+Grant          +774   P-7264
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,70 @@
+Ticket T-4572
+Customer: Yuki Tanaka
+Orders on file: ORD-32229, ORD-40965, ORD-45204, ORD-38636
+Opened: 2026-06-17 via email
+
+Order details:
+ORD-32229  placed 2026-03-10  status: in transit  total: $141.33
+  payment method: card ending 1999  ship to: 691 Oak St
+  - camping stove x1
+  - stainless water bottle, 750ml x3
+  - gift wrap x1
+  - spare battery pack x3
+  - USB-C charging cable (2m) x1
+ORD-40965  placed 2026-01-10  status: delivered  total: $40.50
+  payment method: card ending 7424  ship to: 673 Harbor Lane
+  - bike light set x1
+  - spare battery pack x3
+  - carabiner set x1
+ORD-45204  placed 2026-08-12  status: delivered  total: $309.09
+  payment method: card ending 1873  ship to: 337 Mill Lane
+  - noise-cancelling headphones x1
+  - microfiber cloth x3
+  - travel pouch x3
+  - extended warranty, 2 years x3
+  - spare battery pack x3
+ORD-38636  placed 2026-02-21  status: label created  total: $49.60
+  payment method: card ending 2585  ship to: 101 Elm Ave
+  - camping stove x1
+  - USB-C charging cable (2m) x3
+  - stainless water bottle, 750ml x2
+  - gift wrap x2
+
+--- message 1 from Yuki Tanaka ---
+How do I reset my password? The reset link keeps expiring. I'm travelling next week, so email is the best way to reach me. The box for ORD-38636 was a bit crushed but the contents were fine. Your app logged me out twice while I was looking at this, which didn't help.
+
+Yuki Tanaka
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Arjun (support) ---
+Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-32229 to the address on file. Loyalty points post about a week after an order is delivered. I can see all the orders on your account, including ORD-40965.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Yuki Tanaka ---
+Is there a way to combine loyalty points from ORD-32229 with my next purchase? The wool blanket itself is great, for what it's worth. My partner placed ORD-32229 on our shared account, in case that matters. Tracking for ORD-38636 hasn't updated since Tuesday.
+
+Yuki Tanaka
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Arjun (support) ---
+I've resent the confirmation email for ORD-38636 to the address on file. Tracking updates can lag by a day or two with this carrier. Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-32229 left on schedule.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Yuki Tanaka ---
+Is there a way to combine loyalty points from ORD-40965 with my next purchase? I've been a customer for a few years and usually everything goes smoothly. My partner placed ORD-38636 on our shared account, in case that matters. My earlier order ORD-40965 arrived fine, no complaints there.
+
+Yuki Tanaka
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Arjun (support) ---
+Thanks for reaching out, and sorry for the trouble. I've resent the confirmation email for ORD-40965 to the address on file. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-38636 left on schedule.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

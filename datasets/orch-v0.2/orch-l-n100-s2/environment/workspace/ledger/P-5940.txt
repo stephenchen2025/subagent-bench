@@ -1,0 +1,11 @@
+Ledger page P-5940
+
+account      amount   see page
+Vance          -577   P-1382
+Castillo       -591   P-1378
+Rahman         +131   P-2077
+Xu             -112   P-7222
+Zhou           -390   P-7353
+Silva           -43   P-6289
+
+Follow the debit belonging to the account that comes last alphabetically.

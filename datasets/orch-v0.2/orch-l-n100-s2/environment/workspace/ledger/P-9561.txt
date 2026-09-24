@@ -1,0 +1,10 @@
+Ledger page P-9561
+
+account      amount   see page
+Castillo       +316   P-7157
+Hughes         +103   P-1731
+Osei            -93   P-7157
+Lambert         +77   P-9713
+Abbott         -472   P-1934
+
+Follow the entry whose amount is closest to zero.

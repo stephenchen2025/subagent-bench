@@ -1,0 +1,11 @@
+Ledger page P-2425
+
+account      amount   see page
+Lambert        +691   P-9199
+Park           +618   P-5607
+Vance          +249   P-8629
+Silva          -855   P-3706
+Hughes          +55   P-8587
+Ibarra         +623   P-2765
+
+Follow the entry whose amount is closest to zero.

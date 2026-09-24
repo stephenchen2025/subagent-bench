@@ -1,0 +1,12 @@
+Ledger page P-2944
+
+account      amount   see page
+Quinn          +891   P-1315
+Grant           -13   P-9589
+Tanaka         +470   P-4998
+Zhou           -277   P-1101
+Baker          -645   P-7022
+Young          +121   P-3828
+Fofana         +219   P-9423
+
+Follow the credit belonging to the account that comes first alphabetically.

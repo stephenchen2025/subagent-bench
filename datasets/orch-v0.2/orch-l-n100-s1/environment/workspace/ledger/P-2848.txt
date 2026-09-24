@@ -1,0 +1,11 @@
+Ledger page P-2848
+
+account      amount   see page
+Silva          -233   P-4672
+Fofana         +863   P-3624
+Abbott         +550   P-4847
+Eriksen        -803   P-1993
+Umar           +252   P-7240
+Vance          -521   P-1990
+
+Follow the debit belonging to the account that comes last alphabetically.

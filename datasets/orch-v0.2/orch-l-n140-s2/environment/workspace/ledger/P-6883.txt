@@ -1,0 +1,12 @@
+Ledger page P-6883
+
+account      amount   see page
+Eriksen        -852   P-3217
+Moreau          +78   P-6680
+Park           +136   P-4422
+Kowalski       +229   P-5008
+Lambert        +196   P-9199
+Ibarra          +83   P-6344
+Nakamura       +269   P-3179
+
+Follow the entry with the largest credit.

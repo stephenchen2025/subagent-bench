@@ -1,0 +1,12 @@
+Ledger page P-6359
+
+account      amount   see page
+Quinn          -205   P-3784
+Xu             +708   P-2098
+Dunn           -200   P-5925
+Moreau         +538   P-4937
+Castillo        +56   P-7604
+Lambert         +11   P-7246
+Abbott         -189   P-6368
+
+Follow the debit belonging to the account that comes last alphabetically.

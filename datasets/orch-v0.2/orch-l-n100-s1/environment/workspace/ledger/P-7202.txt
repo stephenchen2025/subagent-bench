@@ -1,0 +1,12 @@
+Ledger page P-7202
+
+account      amount   see page
+Baker          -203   P-8226
+Weber          +827   P-8411
+Vance          -779   P-9617
+Fofana         +207   P-3913
+Quinn          -677   P-9758
+Abbott         +323   P-3460
+Moreau         -835   P-4937
+
+Follow the debit belonging to the account that comes last alphabetically.

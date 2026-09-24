@@ -1,0 +1,10 @@
+Ledger page P-2716
+
+account      amount   see page
+Zhou           -152   P-6981
+Baker          +472   P-1253
+Fofana         +294   P-9761
+Osei           +513   P-7491
+Rahman         +859   P-5622
+
+Follow the debit belonging to the account that comes last alphabetically.

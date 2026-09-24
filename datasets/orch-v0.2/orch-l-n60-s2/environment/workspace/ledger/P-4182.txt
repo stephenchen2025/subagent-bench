@@ -1,0 +1,10 @@
+Ledger page P-4182
+
+account      amount   see page
+Jensen         -146   P-4010
+Young          +247   P-1781
+Abbott         +119   P-4793
+Tanaka         +726   P-6885
+Hughes         +411   P-4182
+
+Follow the entry with the largest credit.

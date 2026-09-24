@@ -1,0 +1,10 @@
+Ledger page P-2588
+
+account      amount   see page
+Osei           -594   P-1713
+Castillo       -246   P-4173
+Park           -898   P-4349
+Fofana         +804   P-7931
+Baker          +274   P-3560
+
+Follow the entry with the largest debit (the most negative amount).

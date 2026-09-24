@@ -1,0 +1,10 @@
+Ledger page P-1081
+
+account      amount   see page
+Tanaka         -235   P-6151
+Lambert        +476   P-6048
+Kowalski       +440   P-4240
+Jensen         +177   P-2957
+Abbott         +520   P-6264
+
+Follow the entry with the largest debit (the most negative amount).

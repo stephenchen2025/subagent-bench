@@ -1,0 +1,10 @@
+Ledger page P-4240
+
+account      amount   see page
+Xu             -864   P-7334
+Lambert        +401   P-4912
+Moreau          -80   P-3318
+Rahman         +653   P-2146
+Eriksen         +94   P-1701
+
+Follow the entry whose amount is closest to zero.

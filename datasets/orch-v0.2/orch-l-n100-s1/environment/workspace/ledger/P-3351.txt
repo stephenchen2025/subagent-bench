@@ -1,0 +1,11 @@
+Ledger page P-3351
+
+account      amount   see page
+Ibarra         +226   P-5118
+Jensen         -453   P-7598
+Dunn           -574   P-8753
+Vance          -259   P-2972
+Young          -827   P-2116
+Quinn           -20   P-1149
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,83 @@
+Ticket T-7055
+Customer: Liam O'Neill
+Orders on file: ORD-52949, ORD-24031, ORD-73753, ORD-98848
+Opened: 2026-08-05 via email
+
+Order details:
+ORD-52949  placed 2026-06-28  status: delivered  total: $195.96
+  payment method: card ending 2525  ship to: 427 Mill St
+  - rain jacket x1
+  - replacement filter cartridge, 3-pack x2
+  - travel pouch x1
+  - extended warranty, 2 years x1
+ORD-24031  placed 2026-08-26  status: delivered  total: $350.54
+  payment method: card ending 5777  ship to: 391 Oak St
+  - carry-on suitcase x1
+  - travel pouch x1
+  - microfiber cloth x3
+ORD-73753  placed 2026-05-28  status: delivered  total: $437.07
+  payment method: card ending 9093  ship to: 547 Cedar St
+  - standing desk x1
+  - stainless water bottle, 750ml x3
+  - microfiber cloth x2
+  - spare battery pack x3
+ORD-98848  placed 2026-02-23  status: label created  total: $255.85
+  payment method: card ending 8878  ship to: 145 Elm Lane
+  - carry-on suitcase x1
+  - USB-C charging cable (2m) x3
+  - carabiner set x1
+  - gift wrap x3
+
+--- message 1 from Liam O'Neill ---
+I need to change the delivery address for ORD-73753 before it ships. Tracking for ORD-52949 hasn't updated since Tuesday. Your app logged me out twice while I was looking at this, which didn't help. I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Liam O'Neill
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Luis (support) ---
+Screenshots aren't necessary, but thank you for offering. For ORD-73753, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-52949 to the address on file.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Liam O'Neill ---
+I see two charges on my statement this week, one for ORD-98848 and one for ORD-52949. Both are correct -- I ordered twice on purpose -- but could you send me the invoices for my expense report? Tracking for ORD-52949 hasn't updated since Tuesday. The box for ORD-24031 was a bit crushed but the contents were fine.
+
+Thanks,
+Liam O'Neill
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Luis (support) ---
+I've added a note to your account so the next agent has the context. I've updated your shipping address on file. I can see all the orders on your account, including ORD-52949.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Liam O'Neill ---
+Is there a way to combine loyalty points from ORD-73753 with my next purchase? My partner placed ORD-73753 on our shared account, in case that matters. The box for ORD-24031 was a bit crushed but the contents were fine. Your app logged me out twice while I was looking at this, which didn't help.
+
+Best regards,
+Liam O'Neill
+
+--- message 6 from Luis (support) ---
+I've updated your shipping address on file. Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context. Screenshots aren't necessary, but thank you for offering.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Liam O'Neill ---
+I'm happy to send screenshots if that helps. I changed my shipping address last month, so please double-check you have the new one. I'm travelling next week, so email is the best way to reach me. Your app logged me out twice while I was looking at this, which didn't help.
+
+Liam O'Neill
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Luis (support) ---
+I can see all the orders on your account, including ORD-73753. Our warehouse shows ORD-73753 left on schedule. For ORD-24031, the return window is 30 days from delivery. Tracking updates can lag by a day or two with this carrier.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

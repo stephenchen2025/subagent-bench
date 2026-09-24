@@ -1,0 +1,11 @@
+Ledger page P-8308
+
+account      amount   see page
+Zhou           -201   P-6993
+Rahman         +621   P-4775
+Kowalski       +764   P-3497
+Moreau         +655   P-1976
+Castillo        +46   P-1234
+Abbott         -148   P-5564
+
+Follow the entry with the largest debit (the most negative amount).

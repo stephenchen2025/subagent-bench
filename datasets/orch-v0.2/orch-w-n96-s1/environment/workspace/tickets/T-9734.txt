@@ -1,0 +1,88 @@
+Ticket T-9734
+Customer: Samir Patel
+Orders on file: ORD-12796, ORD-44410, ORD-75541, ORD-89790
+Opened: 2026-05-14 via web form
+
+Order details:
+ORD-12796  placed 2026-06-10  status: returned  total: $367.55
+  payment method: card ending 6874  ship to: 319 Mill St
+  - yoga mat x1
+  - carabiner set x2
+  - microfiber cloth x2
+  - extended warranty, 2 years x2
+ORD-44410  placed 2026-08-26  status: delivered  total: $390.24
+  payment method: card ending 5187  ship to: 208 Oak St
+  - yoga mat x1
+  - spare battery pack x2
+  - gift wrap x3
+  - stainless water bottle, 750ml x1
+  - merino socks, size M x2
+ORD-75541  placed 2026-05-14  status: delivered  total: $144.66
+  payment method: card ending 5364  ship to: 89 Cedar St
+  - noise-cancelling headphones x1
+  - microfiber cloth x1
+  - carabiner set x3
+  - USB-C charging cable (2m) x2
+  - merino socks, size M x2
+ORD-89790  placed 2026-01-22  status: delivered  total: $209.62
+  payment method: card ending 2023  ship to: 308 Elm Lane
+  - carry-on suitcase x1
+  - spare battery pack x1
+  - travel pouch x3
+  - gift wrap x1
+  - extended warranty, 2 years x2
+
+--- message 1 from Samir Patel ---
+I'd like to return the cast iron skillet from ORD-75541; it's the wrong size. I've been a customer for a few years and usually everything goes smoothly. The confirmation email for ORD-12796 went to my spam folder, so I only just saw it. I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Samir Patel
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Arjun (support) ---
+If you need an invoice for ORD-75541, you can download it from the Orders page. Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-44410 to the address on file.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Samir Patel ---
+Before I retry the payment on ORD-89790 -- is there any risk of a double charge? My earlier order ORD-44410 arrived fine, no complaints there. I'm happy to send screenshots if that helps.
+
+Best regards,
+Samir Patel
+
+--- message 4 from Arjun (support) ---
+Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering. If you need an invoice for ORD-44410, you can download it from the Orders page.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Arjun (support) ---
+Retrying is safe. Our system blocks a second capture on ORD-89790, so a double charge can't happen. Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-44410.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Samir Patel ---
+I've been a customer for a few years and usually everything goes smoothly. I'm happy to send screenshots if that helps. The yoga mat itself is great, for what it's worth.
+
+Thanks,
+Samir Patel
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Samir Patel ---
+My partner placed ORD-12796 on our shared account, in case that matters. The confirmation email for ORD-44410 went to my spam folder, so I only just saw it. I'm travelling next week, so email is the best way to reach me. Could you also tell me whether ORD-75541 qualifies for the extended return window?
+
+Thanks,
+Samir Patel
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Arjun (support) ---
+For ORD-12796, the return window is 30 days from delivery. Our warehouse shows ORD-75541 left on schedule. Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

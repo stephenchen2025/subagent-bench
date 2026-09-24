@@ -1,0 +1,10 @@
+Ledger page P-3594
+
+account      amount   see page
+Eriksen        -363   P-4254
+Park           -867   P-9588
+Vance          -112   P-8335
+Castillo       +841   P-4060
+Young          +311   P-8691
+
+Follow the entry with the largest debit (the most negative amount).

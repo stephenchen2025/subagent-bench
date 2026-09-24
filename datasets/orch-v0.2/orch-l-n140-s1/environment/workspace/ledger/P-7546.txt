@@ -1,0 +1,10 @@
+Ledger page P-7546
+
+account      amount   see page
+Eriksen        +559   P-6879
+Umar           -289   P-2927
+Jensen         -799   P-4890
+Castillo       -566   P-1165
+Osei           -577   P-2156
+
+Follow the debit belonging to the account that comes last alphabetically.

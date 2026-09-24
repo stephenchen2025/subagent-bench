@@ -1,0 +1,11 @@
+Ledger page P-9602
+
+account      amount   see page
+Ibarra         +745   P-5518
+Silva          +350   P-1676
+Young          +633   P-4576
+Moreau         -822   P-1015
+Rahman         -714   P-3879
+Umar           -681   P-8229
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,12 @@
+Ledger page P-5693
+
+account      amount   see page
+Nakamura        -33   P-6651
+Baker          -394   P-3861
+Hughes         +100   P-3282
+Zhou           +237   P-6129
+Weber          +539   P-9221
+Eriksen         +73   P-3090
+Tanaka         -879   P-5116
+
+Follow the entry whose amount is closest to zero.

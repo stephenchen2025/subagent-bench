@@ -1,0 +1,88 @@
+Ticket T-6938
+Customer: Tomas Novak
+Orders on file: ORD-34831, ORD-12512, ORD-57264, ORD-30837
+Opened: 2026-04-15 via web form
+
+Order details:
+ORD-34831  placed 2026-07-21  status: delivered  total: $405.23
+  payment method: card ending 6618  ship to: 475 Cedar Lane
+  - wool blanket x1
+  - stainless water bottle, 750ml x3
+  - carabiner set x1
+  - extended warranty, 2 years x3
+ORD-12512  placed 2026-04-20  status: delivered  total: $293.33
+  payment method: card ending 2183  ship to: 985 Harbor Ave
+  - blender x1
+  - spare battery pack x3
+  - replacement filter cartridge, 3-pack x2
+  - extended warranty, 2 years x2
+ORD-57264  placed 2026-07-09  status: label created  total: $402.41
+  payment method: card ending 4613  ship to: 699 Elm Ave
+  - wool blanket x1
+  - stainless water bottle, 750ml x3
+  - USB-C charging cable (2m) x2
+  - replacement filter cartridge, 3-pack x1
+ORD-30837  placed 2026-07-18  status: label created  total: $65.59
+  payment method: card ending 5582  ship to: 597 Oak Ave
+  - camping stove x1
+  - replacement filter cartridge, 3-pack x3
+  - merino socks, size M x3
+
+--- message 1 from Tomas Novak ---
+I'd like to return the mechanical keyboard from ORD-34831; it's the wrong size. The box for ORD-12512 was a bit crushed but the contents were fine. Is there a way to combine loyalty points from ORD-12512 with my next purchase? Could you also tell me whether ORD-12512 qualifies for the extended return window?
+
+Tomas Novak
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Marcus (support) ---
+If you need an invoice for ORD-34831, you can download it from the Orders page. I've updated your shipping address on file. I can see all the orders on your account, including ORD-12512. Screenshots aren't necessary, but thank you for offering.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Tomas Novak ---
+Before I retry the payment on ORD-30837 -- is there any risk of a double charge? The confirmation email for ORD-34831 went to my spam folder, so I only just saw it. Is there a way to combine loyalty points from ORD-57264 with my next purchase?
+
+Best regards,
+Tomas Novak
+
+--- message 4 from Marcus (support) ---
+I can see all the orders on your account, including ORD-34831. I've added a note to your account so the next agent has the context. If you need an invoice for ORD-12512, you can download it from the Orders page.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Marcus (support) ---
+No, you won't be charged twice: the first attempt for ORD-30837 failed before capture, so retrying is safe. Loyalty points post about a week after an order is delivered. If you need an invoice for ORD-34831, you can download it from the Orders page.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Tomas Novak ---
+I'm travelling next week, so email is the best way to reach me. I changed my shipping address last month, so please double-check you have the new one. I tried the chat widget first but it kept disconnecting. Tracking for ORD-57264 hasn't updated since Tuesday.
+
+Tomas Novak
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Marcus (support) ---
+Let me know if anything else looks off. For ORD-12512, the return window is 30 days from delivery. If you need an invoice for ORD-57264, you can download it from the Orders page. Our warehouse shows ORD-34831 left on schedule.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Tomas Novak ---
+I tried the chat widget first but it kept disconnecting. I'm travelling next week, so email is the best way to reach me. Tracking for ORD-57264 hasn't updated since Tuesday. Is there a way to combine loyalty points from ORD-57264 with my next purchase?
+
+Best regards,
+Tomas Novak
+
+--- message 9 from Marcus (support) ---
+If you need an invoice for ORD-34831, you can download it from the Orders page. I've resent the confirmation email for ORD-12512 to the address on file. I've updated your shipping address on file. Screenshots aren't necessary, but thank you for offering.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

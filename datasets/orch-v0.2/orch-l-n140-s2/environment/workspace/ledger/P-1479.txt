@@ -1,0 +1,10 @@
+Ledger page P-1479
+
+account      amount   see page
+Silva          -547   P-9110
+Zhou           +484   P-2523
+Vance          +436   P-4881
+Young          -900   P-9207
+Jensen         -700   P-4644
+
+Follow the entry whose amount is closest to zero.

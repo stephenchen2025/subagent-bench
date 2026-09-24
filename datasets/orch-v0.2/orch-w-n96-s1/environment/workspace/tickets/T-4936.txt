@@ -1,0 +1,84 @@
+Ticket T-4936
+Customer: Mateo Silva
+Orders on file: ORD-50385, ORD-73401, ORD-40654, ORD-22876
+Opened: 2026-02-08 via email
+
+Order details:
+ORD-50385  placed 2026-08-01  status: delivered  total: $362.65
+  payment method: card ending 9808  ship to: 181 Harbor St
+  - wool blanket x1
+  - spare battery pack x1
+  - microfiber cloth x2
+  - carabiner set x1
+ORD-73401  placed 2026-08-18  status: delivered  total: $193.45
+  payment method: card ending 1814  ship to: 282 Elm Lane
+  - cast iron skillet x1
+  - extended warranty, 2 years x2
+  - USB-C charging cable (2m) x3
+ORD-40654  placed 2026-08-21  status: delivered  total: $294.01
+  payment method: card ending 9394  ship to: 915 Mill Rd
+  - desk lamp x1
+  - gift wrap x3
+  - USB-C charging cable (2m) x3
+  - replacement filter cartridge, 3-pack x1
+ORD-22876  placed 2026-06-24  status: in transit  total: $188.26
+  payment method: card ending 8752  ship to: 904 Harbor Ave
+  - yoga mat x1
+  - gift wrap x2
+  - carabiner set x1
+  - microfiber cloth x3
+  - spare battery pack x1
+
+--- message 1 from Mateo Silva ---
+I'd like to return the camping stove from ORD-50385; it's the wrong size. Is there a way to combine loyalty points from ORD-50385 with my next purchase? I've been a customer for a few years and usually everything goes smoothly. My partner placed ORD-50385 on our shared account, in case that matters.
+
+Best regards,
+Mateo Silva
+
+--- message 2 from Marcus (support) ---
+I've updated your shipping address on file. I've resent the confirmation email for ORD-73401 to the address on file. Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Mateo Silva ---
+I see two charges on my statement this week, one for ORD-40654 and one for ORD-50385. Both are correct -- I ordered twice on purpose -- but could you send me the invoices for my expense report? I'd rather not call; the hold times last time were very long. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Mateo Silva
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Marcus (support) ---
+Our warehouse shows ORD-73401 left on schedule. For ORD-50385, the return window is 30 days from delivery. I can see all the orders on your account, including ORD-73401.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Mateo Silva ---
+Tracking for ORD-22876 hasn't updated since Tuesday. I tried the chat widget first but it kept disconnecting. The blender itself is great, for what it's worth. I've been a customer for a few years and usually everything goes smoothly.
+
+Mateo Silva
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Marcus (support) ---
+For ORD-50385, the return window is 30 days from delivery. I've updated your shipping address on file. I've added a note to your account so the next agent has the context. Let me know if anything else looks off.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Mateo Silva ---
+Your app logged me out twice while I was looking at this, which didn't help. I'm happy to send screenshots if that helps. The water filter pitcher itself is great, for what it's worth. Is there a way to combine loyalty points from ORD-22876 with my next purchase?
+
+Thanks,
+Mateo Silva
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Marcus (support) ---
+Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-73401 to the address on file. I can see all the orders on your account, including ORD-22876. For ORD-50385, the return window is 30 days from delivery.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

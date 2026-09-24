@@ -1,0 +1,11 @@
+Ledger page P-4236
+
+account      amount   see page
+Weber          +559   P-7946
+Umar           +272   P-5026
+Xu             -651   P-4802
+Castillo       -778   P-1786
+Moreau         -523   P-7652
+Jensen         -167   P-8035
+
+Follow the entry whose amount is closest to zero.

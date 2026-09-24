@@ -1,0 +1,10 @@
+Ledger page P-7585
+
+account      amount   see page
+Tanaka         +892   P-6360
+Fofana         +553   P-1159
+Ibarra         +854   P-1696
+Eriksen        -724   P-8213
+Lambert         +11   P-4307
+
+Follow the credit belonging to the account that comes first alphabetically.

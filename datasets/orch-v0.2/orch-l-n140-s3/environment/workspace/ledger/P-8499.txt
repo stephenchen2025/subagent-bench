@@ -1,0 +1,12 @@
+Ledger page P-8499
+
+account      amount   see page
+Hughes         +305   P-2349
+Moreau         +370   P-9551
+Ibarra         -663   P-8278
+Grant          +634   P-7436
+Tanaka         -152   P-4309
+Quinn          -750   P-4991
+Dunn           +406   P-4590
+
+Follow the debit belonging to the account that comes last alphabetically.

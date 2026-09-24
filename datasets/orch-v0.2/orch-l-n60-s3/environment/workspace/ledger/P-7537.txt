@@ -1,0 +1,11 @@
+Ledger page P-7537
+
+account      amount   see page
+Weber          -752   P-9770
+Castillo       +244   P-4006
+Osei           +204   P-4546
+Jensen         +395   P-9814
+Umar           +595   P-3375
+Xu             +319   P-1773
+
+Follow the entry with the largest debit (the most negative amount).

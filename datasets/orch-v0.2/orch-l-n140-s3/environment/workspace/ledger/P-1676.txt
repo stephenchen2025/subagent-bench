@@ -1,0 +1,10 @@
+Ledger page P-1676
+
+account      amount   see page
+Quinn          +184   P-5767
+Osei           +710   P-9265
+Baker          -799   P-9551
+Xu             -891   P-9368
+Lambert        -733   P-6427
+
+Follow the entry whose amount is closest to zero.

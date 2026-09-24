@@ -1,0 +1,11 @@
+Ledger page P-2080
+
+account      amount   see page
+Osei           +180   P-5836
+Rahman         +564   P-1803
+Quinn          +141   P-7978
+Moreau         -765   P-6586
+Jensen         +807   P-9923
+Weber          -867   P-2638
+
+Follow the entry with the largest debit (the most negative amount).

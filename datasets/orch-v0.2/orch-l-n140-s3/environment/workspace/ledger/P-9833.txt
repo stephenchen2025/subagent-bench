@@ -1,0 +1,10 @@
+Ledger page P-9833
+
+account      amount   see page
+Abbott         -602   P-6901
+Moreau         -421   P-4173
+Baker          -460   P-1080
+Umar           +368   P-3914
+Zhou           -212   P-3188
+
+Follow the entry with the second-largest amount.

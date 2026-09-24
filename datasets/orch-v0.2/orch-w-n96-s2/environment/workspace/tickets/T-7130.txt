@@ -1,0 +1,86 @@
+Ticket T-7130
+Customer: Aisha Karim
+Orders on file: ORD-41760, ORD-41485, ORD-37040, ORD-25470
+Opened: 2026-04-02 via chat transcript
+
+Order details:
+ORD-41760  placed 2026-05-23  status: delivered  total: $50.16
+  payment method: card ending 1089  ship to: 669 Elm Rd
+  - wool blanket x1
+  - merino socks, size M x2
+  - USB-C charging cable (2m) x2
+ORD-41485  placed 2026-03-17  status: returned  total: $200.92
+  payment method: card ending 9681  ship to: 190 Mill Lane
+  - wool blanket x1
+  - microfiber cloth x1
+  - stainless water bottle, 750ml x3
+ORD-37040  placed 2026-04-28  status: in transit  total: $113.80
+  payment method: card ending 8706  ship to: 192 Harbor Ave
+  - camping stove x1
+  - extended warranty, 2 years x3
+  - travel pouch x2
+ORD-25470  placed 2026-05-23  status: delivered  total: $134.60
+  payment method: card ending 2882  ship to: 881 Cedar Rd
+  - camping stove x1
+  - extended warranty, 2 years x2
+  - merino socks, size M x1
+  - replacement filter cartridge, 3-pack x3
+
+--- message 1 from Aisha Karim ---
+Where is my refund for ORD-41760? You said 5 days and it has been 8. Tracking for ORD-41760 hasn't updated since Tuesday. I changed my shipping address last month, so please double-check you have the new one. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Aisha Karim
+
+--- message 2 from Marcus (support) ---
+I've added a note to your account so the next agent has the context. Let me know if anything else looks off. I've updated your shipping address on file. Our warehouse shows ORD-41760 left on schedule.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Aisha Karim ---
+The checkout page for ORD-41485 timed out. If I try to pay again, will I end up being charged twice? I'm travelling next week, so email is the best way to reach me. I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Aisha Karim
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Marcus (support) ---
+No, you won't be charged twice: the first attempt for ORD-41485 failed before capture, so retrying is safe. Loyalty points post about a week after an order is delivered. Let me know if anything else looks off.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Aisha Karim ---
+I'm travelling next week, so email is the best way to reach me. The confirmation email for ORD-41760 went to my spam folder, so I only just saw it. My partner placed ORD-25470 on our shared account, in case that matters.
+
+Best regards,
+Aisha Karim
+
+--- message 6 from Aisha Karim ---
+Could you also tell me whether ORD-37040 qualifies for the extended return window? My earlier order ORD-37040 arrived fine, no complaints there. I tried the chat widget first but it kept disconnecting. Your app logged me out twice while I was looking at this, which didn't help.
+
+Aisha Karim
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Marcus (support) ---
+Tracking updates can lag by a day or two with this carrier. Let me know if anything else looks off. Our warehouse shows ORD-37040 left on schedule. If you need an invoice for ORD-25470, you can download it from the Orders page.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Aisha Karim ---
+Could you also tell me whether ORD-37040 qualifies for the extended return window? I'm travelling next week, so email is the best way to reach me. I've been a customer for a few years and usually everything goes smoothly. The trail running shoes itself is great, for what it's worth.
+
+Aisha Karim
+(Please reply by email rather than phone if possible.)
+
+--- message 9 from Marcus (support) ---
+Tracking updates can lag by a day or two with this carrier. For ORD-37040, the return window is 30 days from delivery. I've updated your shipping address on file. Screenshots aren't necessary, but thank you for offering.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,11 @@
+Ledger page P-1783
+
+account      amount   see page
+Kowalski       +281   P-5188
+Weber          +488   P-4619
+Lambert         +96   P-9456
+Quinn          -215   P-5999
+Abbott         -776   P-8008
+Fofana         +817   P-7288
+
+Follow the credit belonging to the account that comes first alphabetically.

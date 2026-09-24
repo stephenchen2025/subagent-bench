@@ -1,0 +1,11 @@
+Ledger page P-3307
+
+account      amount   see page
+Abbott         +564   P-5817
+Castillo       -548   P-1481
+Xu             -713   P-9691
+Moreau         -395   P-3381
+Rahman         -222   P-7275
+Jensen         -828   P-3624
+
+Follow the entry with the largest debit (the most negative amount).

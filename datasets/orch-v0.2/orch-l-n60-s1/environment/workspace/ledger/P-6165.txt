@@ -1,0 +1,10 @@
+Ledger page P-6165
+
+account      amount   see page
+Young           +12   P-8289
+Zhou           -172   P-9918
+Fofana         +766   P-2630
+Osei           +393   P-2167
+Tanaka         +590   P-6684
+
+Follow the entry with the second-largest amount.

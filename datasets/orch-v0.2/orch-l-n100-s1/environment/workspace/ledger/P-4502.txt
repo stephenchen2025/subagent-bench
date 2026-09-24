@@ -1,0 +1,10 @@
+Ledger page P-4502
+
+account      amount   see page
+Jensen          +48   P-6184
+Rahman         -322   P-5973
+Eriksen        -513   P-1577
+Castillo       -727   P-6833
+Dunn           -199   P-9855
+
+Follow the entry with the largest debit (the most negative amount).

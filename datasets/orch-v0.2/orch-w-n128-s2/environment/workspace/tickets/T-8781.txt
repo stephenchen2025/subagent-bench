@@ -1,0 +1,76 @@
+Ticket T-8781
+Customer: Felix Wagner
+Orders on file: ORD-81652, ORD-48810, ORD-34492, ORD-83915
+Opened: 2026-06-04 via chat transcript
+
+Order details:
+ORD-81652  placed 2026-01-11  status: delivered  total: $194.19
+  payment method: card ending 3092  ship to: 950 Oak Ave
+  - yoga mat x1
+  - travel pouch x2
+  - gift wrap x1
+  - merino socks, size M x2
+ORD-48810  placed 2026-07-15  status: label created  total: $392.98
+  payment method: card ending 6936  ship to: 872 Elm Lane
+  - carry-on suitcase x1
+  - replacement filter cartridge, 3-pack x1
+  - extended warranty, 2 years x3
+  - stainless water bottle, 750ml x3
+ORD-34492  placed 2026-03-26  status: delivered  total: $33.83
+  payment method: card ending 1835  ship to: 146 Oak Ave
+  - standing desk x1
+  - USB-C charging cable (2m) x1
+  - microfiber cloth x2
+ORD-83915  placed 2026-02-12  status: delivered  total: $475.56
+  payment method: card ending 6401  ship to: 124 Harbor Rd
+  - bike light set x1
+  - carabiner set x2
+  - replacement filter cartridge, 3-pack x1
+  - USB-C charging cable (2m) x2
+  - gift wrap x2
+
+--- message 1 from Felix Wagner ---
+I need to change the delivery address for ORD-81652 before it ships. The box for ORD-34492 was a bit crushed but the contents were fine. I'd rather not call; the hold times last time were very long. The confirmation email for ORD-48810 went to my spam folder, so I only just saw it.
+
+Best regards,
+Felix Wagner
+
+--- message 2 from Arjun (support) ---
+I can see all the orders on your account, including ORD-81652. Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Felix Wagner ---
+Before I retry the payment on ORD-83915 -- is there any risk of a double charge? Is there a way to combine loyalty points from ORD-81652 with my next purchase? The confirmation email for ORD-81652 went to my spam folder, so I only just saw it.
+
+Best regards,
+Felix Wagner
+
+--- message 4 from Arjun (support) ---
+Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-48810 left on schedule.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Arjun (support) ---
+No, you won't be charged twice: the first attempt for ORD-83915 failed before capture, so retrying is safe. Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Felix Wagner ---
+Could you also tell me whether ORD-34492 qualifies for the extended return window? The box for ORD-81652 was a bit crushed but the contents were fine. My partner placed ORD-48810 on our shared account, in case that matters. The confirmation email for ORD-81652 went to my spam folder, so I only just saw it.
+
+Felix Wagner
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Arjun (support) ---
+Loyalty points post about a week after an order is delivered. Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering. For ORD-81652, the return window is 30 days from delivery.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

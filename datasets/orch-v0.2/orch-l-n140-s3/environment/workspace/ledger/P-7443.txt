@@ -1,0 +1,11 @@
+Ledger page P-7443
+
+account      amount   see page
+Ibarra         +647   P-6863
+Rahman         +132   P-3203
+Young           -27   P-2665
+Quinn          +577   P-3026
+Eriksen        +483   P-7347
+Weber          -652   P-9080
+
+Follow the entry with the largest credit.

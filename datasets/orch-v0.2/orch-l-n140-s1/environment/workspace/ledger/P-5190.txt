@@ -1,0 +1,10 @@
+Ledger page P-5190
+
+account      amount   see page
+Moreau         +354   P-9840
+Baker          -316   P-3335
+Jensen         +358   P-3753
+Young          -264   P-9445
+Weber          -446   P-8451
+
+Follow the entry with the largest credit.

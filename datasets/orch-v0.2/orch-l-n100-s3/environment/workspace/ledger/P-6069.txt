@@ -1,0 +1,11 @@
+Ledger page P-6069
+
+account      amount   see page
+Jensen         +689   P-2960
+Baker          +621   P-5602
+Osei           -861   P-5206
+Umar           +662   P-8170
+Vance          -487   P-3982
+Abbott         +530   P-9056
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,12 @@
+Ledger page P-3653
+
+account      amount   see page
+Ibarra         -530   P-1319
+Jensen          -69   P-7146
+Baker          -880   P-5594
+Young          +274   P-5513
+Fofana          -27   P-2097
+Grant          -732   P-3318
+Dunn           +884   P-7595
+
+Follow the entry with the largest debit (the most negative amount).

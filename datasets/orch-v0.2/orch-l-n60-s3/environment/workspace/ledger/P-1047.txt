@@ -1,0 +1,10 @@
+Ledger page P-1047
+
+account      amount   see page
+Xu             +769   P-1745
+Rahman         +528   P-6749
+Young          +594   P-9761
+Lambert        -631   P-3066
+Fofana         -314   P-2358
+
+Follow the debit belonging to the account that comes last alphabetically.

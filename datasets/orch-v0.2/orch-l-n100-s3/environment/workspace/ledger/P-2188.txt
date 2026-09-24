@@ -1,0 +1,12 @@
+Ledger page P-2188
+
+account      amount   see page
+Kowalski        +71   P-7933
+Rahman         -827   P-9340
+Quinn          -507   P-1315
+Ibarra         -663   P-5823
+Park           -118   P-1630
+Grant          -445   P-3925
+Baker          -583   P-2084
+
+Follow the entry whose amount is closest to zero.

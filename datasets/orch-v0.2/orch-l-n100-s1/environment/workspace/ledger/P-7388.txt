@@ -1,0 +1,12 @@
+Ledger page P-7388
+
+account      amount   see page
+Fofana         -475   P-9050
+Tanaka         +717   P-2647
+Nakamura       -245   P-8108
+Moreau          -58   P-8818
+Dunn           +783   P-3596
+Weber          +557   P-3670
+Abbott         +464   P-2300
+
+Follow the entry with the second-largest amount.

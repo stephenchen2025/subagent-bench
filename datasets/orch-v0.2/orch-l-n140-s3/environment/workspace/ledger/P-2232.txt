@@ -1,0 +1,12 @@
+Ledger page P-2232
+
+account      amount   see page
+Jensen         -483   P-7347
+Abbott          -36   P-4490
+Ibarra         -667   P-1465
+Tanaka         +812   P-7987
+Eriksen        +237   P-4744
+Nakamura       +106   P-5491
+Baker          -835   P-7597
+
+Follow the debit belonging to the account that comes last alphabetically.

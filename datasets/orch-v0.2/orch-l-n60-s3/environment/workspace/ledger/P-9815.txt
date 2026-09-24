@@ -1,0 +1,10 @@
+Ledger page P-9815
+
+account      amount   see page
+Moreau         -481   P-7196
+Hughes         +382   P-3385
+Fofana         -541   P-1930
+Dunn            -79   P-3467
+Weber          +369   P-2716
+
+Follow the debit belonging to the account that comes last alphabetically.

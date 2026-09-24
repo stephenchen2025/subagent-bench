@@ -1,0 +1,11 @@
+Ledger page P-2003
+
+account      amount   see page
+Rahman          -60   P-2989
+Osei           -333   P-3955
+Fofana          -98   P-3608
+Castillo       +260   P-7350
+Vance          -343   P-2427
+Lambert        +652   P-9847
+
+Follow the debit belonging to the account that comes last alphabetically.

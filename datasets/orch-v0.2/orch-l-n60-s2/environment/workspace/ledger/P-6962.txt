@@ -1,0 +1,12 @@
+Ledger page P-6962
+
+account      amount   see page
+Nakamura       -431   P-9944
+Fofana         +386   P-7369
+Lambert        +292   P-1781
+Rahman         +180   P-1592
+Weber          +551   P-6034
+Park           +827   P-8872
+Kowalski       +571   P-4694
+
+Follow the credit belonging to the account that comes first alphabetically.

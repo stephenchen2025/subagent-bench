@@ -1,0 +1,10 @@
+Ledger page P-6128
+
+account      amount   see page
+Nakamura       +573   P-2933
+Abbott         +554   P-4812
+Kowalski       +427   P-4142
+Moreau         -235   P-7962
+Eriksen        -713   P-1575
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,11 @@
+Ledger page P-8884
+
+account      amount   see page
+Zhou            -30   P-4002
+Lambert        +318   P-2277
+Baker          +758   P-3706
+Castillo       +620   P-4287
+Ibarra         -725   P-5894
+Xu             +481   P-3780
+
+Follow the entry whose amount is closest to zero.

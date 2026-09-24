@@ -1,0 +1,11 @@
+Ledger page P-9800
+
+account      amount   see page
+Moreau          -61   P-7576
+Fofana         -473   P-7937
+Eriksen        -670   P-8229
+Rahman         -508   P-7198
+Xu             +786   P-2834
+Castillo       +436   P-1630
+
+Follow the entry with the largest credit.

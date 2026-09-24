@@ -1,0 +1,10 @@
+Ledger page P-4727
+
+account      amount   see page
+Zhou           +416   P-3858
+Jensen         -345   P-8627
+Fofana         +635   P-8715
+Young          +308   P-9741
+Moreau          -55   P-5485
+
+Follow the debit belonging to the account that comes last alphabetically.

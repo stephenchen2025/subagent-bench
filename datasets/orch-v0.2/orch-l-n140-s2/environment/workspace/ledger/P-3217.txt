@@ -1,0 +1,10 @@
+Ledger page P-3217
+
+account      amount   see page
+Ibarra         -367   P-7710
+Quinn           +19   P-3098
+Abbott         +142   P-2926
+Zhou           +114   P-4169
+Baker          +860   P-4479
+
+Follow the entry whose amount is closest to zero.

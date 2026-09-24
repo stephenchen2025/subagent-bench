@@ -1,0 +1,12 @@
+Ledger page P-8488
+
+account      amount   see page
+Eriksen        +670   P-5815
+Fofana         +701   P-8049
+Quinn          +899   P-5228
+Jensen         -864   P-1075
+Rahman         -210   P-8803
+Zhou           +152   P-4379
+Weber           +82   P-3084
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,84 @@
+Ticket T-1280
+Customer: Liam O'Neill
+Orders on file: ORD-30917, ORD-87101, ORD-39679, ORD-98953
+Opened: 2026-03-25 via chat transcript
+
+Order details:
+ORD-30917  placed 2026-02-24  status: label created  total: $131.78
+  payment method: card ending 4562  ship to: 493 Harbor St
+  - desk lamp x1
+  - gift wrap x3
+  - stainless water bottle, 750ml x2
+  - travel pouch x1
+  - replacement filter cartridge, 3-pack x3
+ORD-87101  placed 2026-05-20  status: delivered  total: $221.42
+  payment method: card ending 1987  ship to: 612 Mill Ave
+  - yoga mat x1
+  - replacement filter cartridge, 3-pack x2
+  - microfiber cloth x1
+ORD-39679  placed 2026-04-17  status: delivered  total: $452.91
+  payment method: card ending 9505  ship to: 639 Elm St
+  - water filter pitcher x1
+  - stainless water bottle, 750ml x1
+  - USB-C charging cable (2m) x2
+ORD-98953  placed 2026-03-19  status: delivered  total: $169.58
+  payment method: card ending 2693  ship to: 806 Mill St
+  - water filter pitcher x1
+  - USB-C charging cable (2m) x3
+  - replacement filter cartridge, 3-pack x2
+  - merino socks, size M x3
+  - microfiber cloth x3
+
+--- message 1 from Liam O'Neill ---
+I need to change the delivery address for ORD-87101 before it ships. Tracking for ORD-39679 hasn't updated since Tuesday. Your app logged me out twice while I was looking at this, which didn't help. I've been a customer for a few years and usually everything goes smoothly.
+
+Liam O'Neill
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Fatima (support) ---
+Tracking updates can lag by a day or two with this carrier. If you need an invoice for ORD-30917, you can download it from the Orders page. Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Liam O'Neill ---
+I see two charges on my statement this week, one for ORD-98953 and one for ORD-39679. Both are correct -- I ordered twice on purpose -- but could you send me the invoices for my expense report? I'd rather not call; the hold times last time were very long. The noise-cancelling headphones itself is great, for what it's worth.
+
+Thanks,
+Liam O'Neill
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Fatima (support) ---
+If you need an invoice for ORD-30917, you can download it from the Orders page. I can see all the orders on your account, including ORD-30917. For ORD-39679, the return window is 30 days from delivery.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Liam O'Neill ---
+My earlier order ORD-39679 arrived fine, no complaints there. Is there a way to combine loyalty points from ORD-30917 with my next purchase? The box for ORD-87101 was a bit crushed but the contents were fine. I'm happy to send screenshots if that helps.
+
+Thanks,
+Liam O'Neill
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Fatima (support) ---
+Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-39679 to the address on file. Our warehouse shows ORD-87101 left on schedule. Loyalty points post about a week after an order is delivered.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Liam O'Neill ---
+I tried the chat widget first but it kept disconnecting. Is there a way to combine loyalty points from ORD-39679 with my next purchase? The box for ORD-39679 was a bit crushed but the contents were fine. I've been a customer for a few years and usually everything goes smoothly.
+
+Liam O'Neill
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Fatima (support) ---
+I've resent the confirmation email for ORD-39679 to the address on file. Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-87101 left on schedule. For ORD-30917, the return window is 30 days from delivery.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

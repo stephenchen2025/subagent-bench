@@ -1,0 +1,10 @@
+Ledger page P-8192
+
+account      amount   see page
+Park           +291   P-8370
+Abbott         +767   P-4728
+Moreau         -355   P-9228
+Quinn          -210   P-8318
+Umar            -89   P-2165
+
+Follow the credit belonging to the account that comes first alphabetically.

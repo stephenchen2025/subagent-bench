@@ -1,0 +1,10 @@
+Ledger page P-7442
+
+account      amount   see page
+Moreau         -617   P-6653
+Fofana         -681   P-4085
+Rahman          -78   P-5972
+Park           +627   P-7653
+Xu             -621   P-2338
+
+Follow the entry with the second-largest amount.

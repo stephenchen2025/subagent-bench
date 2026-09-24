@@ -1,0 +1,10 @@
+Ledger page P-1001
+
+account      amount   see page
+Kowalski       +165   P-2579
+Rahman          -83   P-1233
+Grant          +532   P-7597
+Quinn          -879   P-5827
+Weber          +535   P-2566
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,12 @@
+Ledger page P-9874
+
+account      amount   see page
+Silva          +393   P-6993
+Vance          +740   P-9934
+Nakamura       -734   P-8890
+Zhou           +168   P-5927
+Fofana         -599   P-2966
+Dunn           +156   P-4967
+Abbott          +35   P-8300
+
+Follow the entry with the largest debit (the most negative amount).

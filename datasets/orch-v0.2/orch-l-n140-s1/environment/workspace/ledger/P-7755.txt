@@ -1,0 +1,11 @@
+Ledger page P-7755
+
+account      amount   see page
+Eriksen        +610   P-4452
+Abbott         -539   P-5299
+Tanaka         -239   P-5927
+Park            -69   P-6691
+Kowalski       +418   P-3087
+Grant          -319   P-8503
+
+Follow the entry whose amount is closest to zero.

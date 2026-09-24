@@ -1,0 +1,10 @@
+Ledger page P-7652
+
+account      amount   see page
+Hughes         -563   P-9366
+Baker          +469   P-5008
+Umar           +671   P-9553
+Weber           +81   P-1422
+Zhou           +765   P-6587
+
+Follow the entry with the largest debit (the most negative amount).

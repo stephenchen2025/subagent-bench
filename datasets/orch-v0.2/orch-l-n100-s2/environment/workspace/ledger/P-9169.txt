@@ -1,0 +1,12 @@
+Ledger page P-9169
+
+account      amount   see page
+Baker          +127   P-2989
+Weber          -846   P-1999
+Silva          -197   P-8202
+Nakamura       -829   P-3292
+Young          -518   P-1863
+Ibarra         +485   P-4727
+Dunn           +411   P-4623
+
+Follow the entry whose amount is closest to zero.

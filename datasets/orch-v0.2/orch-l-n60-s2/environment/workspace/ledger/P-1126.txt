@@ -1,0 +1,12 @@
+Ledger page P-1126
+
+account      amount   see page
+Tanaka          -93   P-9680
+Kowalski       -403   P-9916
+Grant          -643   P-6899
+Zhou            +58   P-6512
+Vance           -29   P-9683
+Ibarra         -473   P-7523
+Baker           +25   P-4010
+
+Follow the entry with the largest debit (the most negative amount).

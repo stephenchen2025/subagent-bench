@@ -1,0 +1,71 @@
+Ticket T-2240
+Customer: Sofia Rossi
+Orders on file: ORD-73542, ORD-53930, ORD-89266, ORD-17791
+Opened: 2026-06-14 via web form
+
+Order details:
+ORD-73542  placed 2026-05-26  status: delivered  total: $48.98
+  payment method: card ending 6717  ship to: 386 Cedar Ave
+  - carry-on suitcase x1
+  - travel pouch x2
+  - gift wrap x2
+  - stainless water bottle, 750ml x2
+ORD-53930  placed 2026-07-03  status: label created  total: $123.64
+  payment method: card ending 2110  ship to: 871 Elm St
+  - desk lamp x1
+  - merino socks, size M x2
+  - USB-C charging cable (2m) x1
+  - gift wrap x2
+  - replacement filter cartridge, 3-pack x3
+ORD-89266  placed 2026-03-10  status: delivered  total: $265.13
+  payment method: card ending 3380  ship to: 549 Oak St
+  - camping stove x1
+  - merino socks, size M x3
+  - travel pouch x2
+ORD-17791  placed 2026-02-22  status: delivered  total: $83.53
+  payment method: card ending 9321  ship to: 819 Mill Ave
+  - camping stove x1
+  - USB-C charging cable (2m) x3
+  - replacement filter cartridge, 3-pack x3
+  - spare battery pack x1
+
+--- message 1 from Sofia Rossi ---
+I need to change the delivery address for ORD-53930 before it ships. I'm happy to send screenshots if that helps. The confirmation email for ORD-53930 went to my spam folder, so I only just saw it. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Sofia Rossi
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Rosa (support) ---
+I've updated your shipping address on file. Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier. Thanks for reaching out, and sorry for the trouble.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Sofia Rossi ---
+Tracking for ORD-53930 hasn't updated since Tuesday. I'd rather not call; the hold times last time were very long. The bike light set itself is great, for what it's worth. Is there a way to combine loyalty points from ORD-53930 with my next purchase?
+
+Thanks,
+Sofia Rossi
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Rosa (support) ---
+Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-53930. For ORD-17791, the return window is 30 days from delivery. I've updated your shipping address on file.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Sofia Rossi ---
+The box for ORD-53930 was a bit crushed but the contents were fine. I'm travelling next week, so email is the best way to reach me. I changed my shipping address last month, so please double-check you have the new one. I'd rather not call; the hold times last time were very long.
+
+Sofia Rossi
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Rosa (support) ---
+Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering. Loyalty points post about a week after an order is delivered. Thanks for reaching out, and sorry for the trouble.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

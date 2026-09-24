@@ -1,0 +1,12 @@
+Ledger page P-8210
+
+account      amount   see page
+Young          +702   P-2097
+Castillo       +459   P-9833
+Nakamura       -682   P-8777
+Umar           +482   P-2006
+Grant          +227   P-2588
+Jensen         +688   P-4720
+Dunn             +6   P-9084
+
+Follow the entry with the largest credit.

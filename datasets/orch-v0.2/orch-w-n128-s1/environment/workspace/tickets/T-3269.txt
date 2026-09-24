@@ -1,0 +1,81 @@
+Ticket T-3269
+Customer: Grace Mwangi
+Orders on file: ORD-39396, ORD-35136, ORD-84358, ORD-71282
+Opened: 2026-03-08 via chat transcript
+
+Order details:
+ORD-39396  placed 2026-06-10  status: label created  total: $104.98
+  payment method: card ending 2627  ship to: 144 Elm Lane
+  - bike light set x1
+  - merino socks, size M x2
+  - USB-C charging cable (2m) x1
+  - replacement filter cartridge, 3-pack x3
+  - extended warranty, 2 years x3
+ORD-35136  placed 2026-08-27  status: delivered  total: $52.19
+  payment method: card ending 6469  ship to: 559 Elm Rd
+  - trail running shoes x1
+  - stainless water bottle, 750ml x3
+  - microfiber cloth x3
+  - gift wrap x1
+  - USB-C charging cable (2m) x1
+ORD-84358  placed 2026-08-05  status: returned  total: $289.32
+  payment method: card ending 3110  ship to: 185 Elm St
+  - bike light set x1
+  - stainless water bottle, 750ml x2
+  - replacement filter cartridge, 3-pack x2
+  - spare battery pack x3
+  - carabiner set x1
+ORD-71282  placed 2026-08-16  status: in transit  total: $152.75
+  payment method: card ending 6131  ship to: 432 Cedar Ave
+  - yoga mat x1
+  - replacement filter cartridge, 3-pack x3
+  - stainless water bottle, 750ml x3
+  - gift wrap x2
+  - travel pouch x2
+
+--- message 1 from Grace Mwangi ---
+Where is my refund for ORD-39396? You said 5 days and it has been 8. Your app logged me out twice while I was looking at this, which didn't help. I changed my shipping address last month, so please double-check you have the new one. I tried the chat widget first but it kept disconnecting.
+
+Grace Mwangi
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Keiko (support) ---
+Our warehouse shows ORD-35136 left on schedule. For ORD-39396, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context. I've updated your shipping address on file.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Grace Mwangi ---
+The payment for ORD-71282 went through, and then about an hour later it went through again. I tried the chat widget first but it kept disconnecting. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Grace Mwangi
+
+--- message 4 from Keiko (support) ---
+Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-84358. I've added a note to your account so the next agent has the context.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Keiko (support) ---
+Confirmed on our side -- ORD-71282 was captured twice by a retry in our checkout. One refund of $216.42 is on its way to you. I've resent the confirmation email for ORD-35136 to the address on file. For ORD-84358, the return window is 30 days from delivery.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Grace Mwangi ---
+I'm travelling next week, so email is the best way to reach me. I'm happy to send screenshots if that helps. I tried the chat widget first but it kept disconnecting. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Grace Mwangi
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Keiko (support) ---
+If you need an invoice for ORD-39396, you can download it from the Orders page. Loyalty points post about a week after an order is delivered. I can see all the orders on your account, including ORD-39396. Our warehouse shows ORD-35136 left on schedule.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,10 @@
+Ledger page P-9002
+
+account      amount   see page
+Fofana         -611   P-2320
+Zhou           -714   P-2010
+Weber          +830   P-2703
+Young          -535   P-6848
+Hughes         -887   P-6868
+
+Follow the debit belonging to the account that comes last alphabetically.

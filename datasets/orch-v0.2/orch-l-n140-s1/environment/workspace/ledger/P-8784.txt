@@ -1,0 +1,12 @@
+Ledger page P-8784
+
+account      amount   see page
+Young          +846   P-7442
+Kowalski       +168   P-3216
+Baker          -441   P-3686
+Weber          +179   P-1597
+Dunn           +268   P-3654
+Castillo       -273   P-2684
+Jensen         -565   P-9134
+
+Follow the debit belonging to the account that comes last alphabetically.

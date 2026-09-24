@@ -1,0 +1,12 @@
+Ledger page P-3441
+
+account      amount   see page
+Kowalski       -120   P-1423
+Quinn          +684   P-6086
+Dunn             +7   P-5069
+Eriksen        +137   P-9548
+Tanaka         -867   P-8071
+Young          +402   P-4178
+Xu             -768   P-5188
+
+Follow the entry with the largest debit (the most negative amount).

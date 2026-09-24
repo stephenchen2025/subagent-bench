@@ -1,0 +1,12 @@
+Ledger page P-1613
+
+account      amount   see page
+Ibarra         -403   P-8976
+Osei           +387   P-4799
+Park           +250   P-3683
+Nakamura       +776   P-3009
+Lambert        -496   P-1670
+Zhou            +12   P-5489
+Vance          +181   P-4799
+
+Follow the entry whose amount is closest to zero.

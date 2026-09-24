@@ -1,0 +1,10 @@
+Ledger page P-8613
+
+account      amount   see page
+Xu             -342   P-9713
+Ibarra         +242   P-2808
+Silva          -617   P-8395
+Zhou           -647   P-3218
+Abbott         -344   P-9804
+
+Follow the entry with the largest debit (the most negative amount).

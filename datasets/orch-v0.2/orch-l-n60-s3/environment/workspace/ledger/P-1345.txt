@@ -1,0 +1,10 @@
+Ledger page P-1345
+
+account      amount   see page
+Weber          +592   P-9584
+Kowalski       +462   P-9883
+Abbott         -475   P-5044
+Silva          +869   P-5070
+Castillo       -815   P-9986
+
+Follow the entry whose amount is closest to zero.

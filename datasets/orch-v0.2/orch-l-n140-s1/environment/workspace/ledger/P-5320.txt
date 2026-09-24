@@ -1,0 +1,10 @@
+Ledger page P-5320
+
+account      amount   see page
+Abbott         -810   P-6820
+Baker          +865   P-4587
+Dunn           +309   P-9789
+Umar           -568   P-7318
+Moreau         +376   P-4115
+
+Follow the entry whose amount is closest to zero.

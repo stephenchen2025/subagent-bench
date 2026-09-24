@@ -1,0 +1,11 @@
+Ledger page P-7573
+
+account      amount   see page
+Jensen         +103   P-8357
+Weber          +554   P-9588
+Vance          +402   P-9931
+Ibarra         -822   P-7277
+Umar           +126   P-9724
+Nakamura       -622   P-2109
+
+Follow the entry whose amount is closest to zero.

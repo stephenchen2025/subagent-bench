@@ -1,0 +1,12 @@
+Ledger page P-1372
+
+account      amount   see page
+Osei           +374   P-7693
+Zhou           +534   P-5731
+Silva          +890   P-7375
+Hughes         -505   P-1934
+Lambert        -515   P-6530
+Xu             -490   P-6572
+Jensen         +700   P-2697
+
+Follow the entry with the largest debit (the most negative amount).

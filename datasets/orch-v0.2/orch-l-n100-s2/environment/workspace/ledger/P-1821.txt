@@ -1,0 +1,12 @@
+Ledger page P-1821
+
+account      amount   see page
+Moreau         -162   P-3608
+Osei           +296   P-7900
+Grant          -482   P-5642
+Quinn          +614   P-6355
+Zhou            +64   P-5940
+Young          +864   P-1552
+Hughes         -721   P-4263
+
+Follow the credit belonging to the account that comes first alphabetically.

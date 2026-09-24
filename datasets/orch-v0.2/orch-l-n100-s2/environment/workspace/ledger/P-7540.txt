@@ -1,0 +1,10 @@
+Ledger page P-7540
+
+account      amount   see page
+Quinn          +621   P-1287
+Grant           +44   P-1378
+Umar           +394   P-3364
+Lambert        +596   P-6935
+Silva          -642   P-8045
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,11 @@
+Ledger page P-4397
+
+account      amount   see page
+Vance          +784   P-8316
+Lambert         -32   P-4659
+Young           -87   P-4593
+Fofana         +680   P-5193
+Osei           +385   P-6863
+Umar           -705   P-9935
+
+Follow the entry with the largest credit.

@@ -1,0 +1,12 @@
+Ledger page P-9208
+
+account      amount   see page
+Young           +60   P-4133
+Xu             +283   P-1734
+Rahman         -885   P-2801
+Kowalski       +599   P-3287
+Grant          -178   P-8231
+Fofana         +887   P-3439
+Abbott         -853   P-2898
+
+Follow the entry with the largest credit.

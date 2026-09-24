@@ -1,0 +1,10 @@
+Ledger page P-5183
+
+account      amount   see page
+Hughes          -60   P-4062
+Zhou           -684   P-4720
+Vance          +577   P-9309
+Ibarra         -630   P-2900
+Osei           +475   P-1992
+
+Follow the credit belonging to the account that comes first alphabetically.

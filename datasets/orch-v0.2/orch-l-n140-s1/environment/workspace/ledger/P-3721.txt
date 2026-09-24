@@ -1,0 +1,12 @@
+Ledger page P-3721
+
+account      amount   see page
+Rahman         +327   P-2197
+Quinn           -53   P-1702
+Jensen         -149   P-4885
+Zhou           +796   P-9351
+Park           -775   P-5172
+Silva          +856   P-3978
+Abbott         -673   P-5934
+
+Follow the entry with the second-largest amount.

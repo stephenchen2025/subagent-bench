@@ -1,0 +1,83 @@
+Ticket T-1076
+Customer: Ben Carter
+Orders on file: ORD-86826, ORD-78322, ORD-35536, ORD-47009
+Opened: 2026-01-07 via web form
+
+Order details:
+ORD-86826  placed 2026-01-14  status: delivered  total: $94.45
+  payment method: card ending 5038  ship to: 137 Cedar Ave
+  - camping stove x1
+  - travel pouch x1
+  - microfiber cloth x1
+  - replacement filter cartridge, 3-pack x3
+  - spare battery pack x2
+ORD-78322  placed 2026-04-26  status: in transit  total: $211.69
+  payment method: card ending 2117  ship to: 701 Harbor Lane
+  - water filter pitcher x1
+  - stainless water bottle, 750ml x1
+  - USB-C charging cable (2m) x1
+ORD-35536  placed 2026-08-04  status: delivered  total: $478.38
+  payment method: card ending 2057  ship to: 508 Elm Lane
+  - cast iron skillet x1
+  - extended warranty, 2 years x3
+  - microfiber cloth x1
+ORD-47009  placed 2026-05-22  status: in transit  total: $229.54
+  payment method: card ending 6422  ship to: 711 Mill St
+  - camping stove x1
+  - travel pouch x3
+  - stainless water bottle, 750ml x2
+
+--- message 1 from Ben Carter ---
+I'd like to return the blender from ORD-86826; it's the wrong size. I'm travelling next week, so email is the best way to reach me. My partner placed ORD-86826 on our shared account, in case that matters. My earlier order ORD-78322 arrived fine, no complaints there.
+
+Thanks,
+Ben Carter
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Luis (support) ---
+Screenshots aren't necessary, but thank you for offering. For ORD-78322, the return window is 30 days from delivery. Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-78322 left on schedule.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ben Carter ---
+There's an extra line for ORD-35536 on my credit union. It could just be a hold -- can you check? Tracking for ORD-78322 hasn't updated since Tuesday. I tried the chat widget first but it kept disconnecting.
+
+Ben Carter
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Luis (support) ---
+For ORD-47009, the return window is 30 days from delivery. Loyalty points post about a week after an order is delivered. I can see all the orders on your account, including ORD-86826.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Ben Carter ---
+Just checked again -- both charges for ORD-35536 are settled now, not pending. I'm happy to send screenshots if that helps. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Ben Carter
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Luis (support) ---
+Confirmed on our side -- ORD-35536 was captured twice by a retry in our checkout. One refund of $294.35 is on its way to you. Our warehouse shows ORD-86826 left on schedule. Thanks for reaching out, and sorry for the trouble.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Ben Carter ---
+I'm travelling next week, so email is the best way to reach me. Tracking for ORD-47009 hasn't updated since Tuesday. My partner placed ORD-47009 on our shared account, in case that matters. I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Ben Carter
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Luis (support) ---
+Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-86826 to the address on file. Our warehouse shows ORD-78322 left on schedule. I've updated your shipping address on file.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

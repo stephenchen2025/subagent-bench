@@ -1,0 +1,70 @@
+Ticket T-4798
+Customer: Amara Nwosu
+Orders on file: ORD-48939, ORD-13473, ORD-10690, ORD-90757
+Opened: 2026-07-16 via chat transcript
+
+Order details:
+ORD-48939  placed 2026-08-19  status: returned  total: $414.62
+  payment method: card ending 8981  ship to: 828 Cedar Ave
+  - camping stove x1
+  - USB-C charging cable (2m) x2
+  - merino socks, size M x1
+  - replacement filter cartridge, 3-pack x2
+ORD-13473  placed 2026-02-08  status: delivered  total: $319.00
+  payment method: card ending 2812  ship to: 200 Cedar St
+  - camping stove x1
+  - extended warranty, 2 years x3
+  - gift wrap x2
+ORD-10690  placed 2026-07-22  status: label created  total: $421.25
+  payment method: card ending 9904  ship to: 571 Oak St
+  - trail running shoes x1
+  - merino socks, size M x3
+  - replacement filter cartridge, 3-pack x3
+  - spare battery pack x1
+  - gift wrap x2
+ORD-90757  placed 2026-05-22  status: label created  total: $166.67
+  payment method: card ending 7852  ship to: 372 Mill Ave
+  - rain jacket x1
+  - stainless water bottle, 750ml x2
+  - USB-C charging cable (2m) x1
+  - gift wrap x1
+  - extended warranty, 2 years x1
+
+--- message 1 from Amara Nwosu ---
+The water filter pitcher from ORD-10690 arrived with a scratch on the side. Can I get a replacement? I changed my shipping address last month, so please double-check you have the new one. My earlier order ORD-90757 arrived fine, no complaints there. My partner placed ORD-13473 on our shared account, in case that matters.
+
+Best regards,
+Amara Nwosu
+
+--- message 2 from Luis (support) ---
+Screenshots aren't necessary, but thank you for offering. If you need an invoice for ORD-10690, you can download it from the Orders page. Tracking updates can lag by a day or two with this carrier. I've updated your shipping address on file.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Amara Nwosu ---
+Not your fault, but my gym billed me twice this month, which is why I'm nervous about ORD-48939. Everything on your side looks like a single charge, I just wanted to confirm the delivery date. The blender itself is great, for what it's worth. Is there a way to combine loyalty points from ORD-10690 with my next purchase?
+
+Amara Nwosu
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Luis (support) ---
+Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier. I've updated your shipping address on file.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Amara Nwosu ---
+I'd rather not call; the hold times last time were very long. The blender itself is great, for what it's worth. I changed my shipping address last month, so please double-check you have the new one. Could you also tell me whether ORD-10690 qualifies for the extended return window?
+
+Best regards,
+Amara Nwosu
+
+--- message 6 from Luis (support) ---
+Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-13473 left on schedule. Screenshots aren't necessary, but thank you for offering. If you need an invoice for ORD-10690, you can download it from the Orders page.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

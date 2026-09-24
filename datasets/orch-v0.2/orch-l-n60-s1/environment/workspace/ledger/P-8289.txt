@@ -1,0 +1,10 @@
+Ledger page P-8289
+
+account      amount   see page
+Abbott         +618   P-5441
+Dunn           -796   P-7674
+Park           +858   P-7674
+Osei            -73   P-3264
+Nakamura       -174   P-5143
+
+Follow the entry with the second-largest amount.

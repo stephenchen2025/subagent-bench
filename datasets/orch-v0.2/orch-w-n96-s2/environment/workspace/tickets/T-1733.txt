@@ -1,0 +1,88 @@
+Ticket T-1733
+Customer: Kofi Mensah
+Orders on file: ORD-33575, ORD-30519, ORD-21220, ORD-38759
+Opened: 2026-04-02 via email
+
+Order details:
+ORD-33575  placed 2026-07-05  status: label created  total: $68.09
+  payment method: card ending 6007  ship to: 631 Cedar Lane
+  - trail running shoes x1
+  - spare battery pack x3
+  - microfiber cloth x1
+  - travel pouch x1
+ORD-30519  placed 2026-02-06  status: label created  total: $105.60
+  payment method: card ending 7929  ship to: 798 Oak Lane
+  - cast iron skillet x1
+  - extended warranty, 2 years x3
+  - merino socks, size M x1
+ORD-21220  placed 2026-06-04  status: returned  total: $217.69
+  payment method: card ending 5718  ship to: 169 Harbor Ave
+  - noise-cancelling headphones x1
+  - carabiner set x2
+  - stainless water bottle, 750ml x3
+  - travel pouch x2
+  - merino socks, size M x1
+ORD-38759  placed 2026-03-25  status: delivered  total: $254.86
+  payment method: card ending 8040  ship to: 91 Harbor St
+  - yoga mat x1
+  - carabiner set x2
+  - stainless water bottle, 750ml x2
+
+--- message 1 from Kofi Mensah ---
+The mechanical keyboard from ORD-30519 arrived with a scratch on the side. Can I get a replacement? My earlier order ORD-21220 arrived fine, no complaints there. I'd rather not call; the hold times last time were very long. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Kofi Mensah
+
+--- message 2 from Fatima (support) ---
+Let me know if anything else looks off. For ORD-21220, the return window is 30 days from delivery. I've updated your shipping address on file. Our warehouse shows ORD-38759 left on schedule.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Kofi Mensah ---
+ORD-33575 shows up once in my order history, but my online banking shows it paid for on two separate lines. I'm travelling next week, so email is the best way to reach me. The confirmation email for ORD-30519 went to my spam folder, so I only just saw it.
+
+Kofi Mensah
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Fatima (support) ---
+Good news: only one payment for ORD-33575 ever settled. The other entry was a temporary hold and your bank has dropped it. I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-38759 to the address on file.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Kofi Mensah ---
+I tried the chat widget first but it kept disconnecting. Tracking for ORD-38759 hasn't updated since Tuesday. I'm happy to send screenshots if that helps.
+
+Best regards,
+Kofi Mensah
+
+--- message 6 from Kofi Mensah ---
+Oh, you're right -- I checked my bank this morning and the second line is gone. Only one charge. Sorry for the false alarm! I changed my shipping address last month, so please double-check you have the new one. I'm happy to send screenshots if that helps.
+
+Thanks,
+Kofi Mensah
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Fatima (support) ---
+For ORD-30519, the return window is 30 days from delivery. Tracking updates can lag by a day or two with this carrier. Let me know if anything else looks off.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Kofi Mensah ---
+I've been a customer for a few years and usually everything goes smoothly. My partner placed ORD-38759 on our shared account, in case that matters. I'm happy to send screenshots if that helps. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Kofi Mensah
+
+--- message 9 from Fatima (support) ---
+I've added a note to your account so the next agent has the context. Thanks for reaching out, and sorry for the trouble. Tracking updates can lag by a day or two with this carrier. Let me know if anything else looks off.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

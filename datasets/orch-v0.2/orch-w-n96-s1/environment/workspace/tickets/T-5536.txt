@@ -1,0 +1,83 @@
+Ticket T-5536
+Customer: Priya Raman
+Orders on file: ORD-67080, ORD-62403, ORD-19014, ORD-25493
+Opened: 2026-02-15 via web form
+
+Order details:
+ORD-67080  placed 2026-01-17  status: label created  total: $206.50
+  payment method: card ending 4431  ship to: 60 Oak Ave
+  - noise-cancelling headphones x1
+  - gift wrap x1
+  - travel pouch x3
+  - microfiber cloth x3
+  - stainless water bottle, 750ml x3
+ORD-62403  placed 2026-07-20  status: delivered  total: $433.57
+  payment method: card ending 7722  ship to: 989 Elm Rd
+  - bike light set x1
+  - replacement filter cartridge, 3-pack x2
+  - spare battery pack x2
+  - microfiber cloth x2
+ORD-19014  placed 2026-03-01  status: delivered  total: $465.80
+  payment method: card ending 2475  ship to: 111 Oak Rd
+  - yoga mat x1
+  - merino socks, size M x1
+  - spare battery pack x2
+ORD-25493  placed 2026-08-25  status: delivered  total: $300.69
+  payment method: card ending 7419  ship to: 394 Harbor Lane
+  - yoga mat x1
+  - carabiner set x3
+  - microfiber cloth x1
+  - gift wrap x3
+
+--- message 1 from Priya Raman ---
+I'd like to return the desk lamp from ORD-19014; it's the wrong size. The water filter pitcher itself is great, for what it's worth. Is there a way to combine loyalty points from ORD-62403 with my next purchase? I'm happy to send screenshots if that helps.
+
+Priya Raman
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Arjun (support) ---
+I can see all the orders on your account, including ORD-19014. Our warehouse shows ORD-25493 left on schedule. If you need an invoice for ORD-62403, you can download it from the Orders page. Let me know if anything else looks off.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Priya Raman ---
+There's an extra line for ORD-67080 on the card app. It could just be a hold -- can you check? The blender itself is great, for what it's worth. I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Priya Raman
+
+--- message 4 from Priya Raman ---
+Just checked again -- both charges for ORD-67080 are settled now, not pending. My earlier order ORD-19014 arrived fine, no complaints there. I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Priya Raman
+Sent from my phone -- please excuse typos.
+
+--- message 5 from Arjun (support) ---
+Confirmed on our side -- ORD-67080 was captured twice by a retry in our checkout. One refund of $374.92 is on its way to you. I've updated your shipping address on file. I can see all the orders on your account, including ORD-62403.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Priya Raman ---
+I tried the chat widget first but it kept disconnecting. The trail running shoes itself is great, for what it's worth. Is there a way to combine loyalty points from ORD-25493 with my next purchase?
+
+Best regards,
+Priya Raman
+
+--- message 7 from Priya Raman ---
+The box for ORD-25493 was a bit crushed but the contents were fine. I'm travelling next week, so email is the best way to reach me. Your app logged me out twice while I was looking at this, which didn't help. My earlier order ORD-19014 arrived fine, no complaints there.
+
+Thanks,
+Priya Raman
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Arjun (support) ---
+I've resent the confirmation email for ORD-19014 to the address on file. I've updated your shipping address on file. Loyalty points post about a week after an order is delivered. Thanks for reaching out, and sorry for the trouble.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

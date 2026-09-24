@@ -1,0 +1,11 @@
+Ledger page P-6868
+
+account      amount   see page
+Baker          -273   P-6427
+Hughes          -42   P-3264
+Zhou           +108   P-9312
+Osei           -361   P-9317
+Xu             -609   P-3607
+Quinn          -479   P-1886
+
+Follow the debit belonging to the account that comes last alphabetically.

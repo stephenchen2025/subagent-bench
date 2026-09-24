@@ -1,0 +1,11 @@
+Ledger page P-3078
+
+account      amount   see page
+Zhou           +681   P-7970
+Vance          -424   P-7157
+Castillo       +459   P-6928
+Ibarra         +214   P-6525
+Osei           +870   P-3278
+Rahman         +524   P-3441
+
+Follow the credit belonging to the account that comes first alphabetically.

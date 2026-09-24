@@ -1,0 +1,11 @@
+Ledger page P-6839
+
+account      amount   see page
+Eriksen        -456   P-7946
+Baker          -529   P-5722
+Tanaka         -349   P-4998
+Silva          -304   P-3743
+Quinn           +51   P-4169
+Nakamura       -568   P-8845
+
+Follow the entry with the largest credit.

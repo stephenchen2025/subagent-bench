@@ -1,0 +1,55 @@
+Ticket T-3100
+Customer: Yuki Tanaka
+Orders on file: ORD-15713, ORD-39721, ORD-92225, ORD-82601
+Opened: 2026-05-26 via web form
+
+Order details:
+ORD-15713  placed 2026-03-03  status: in transit  total: $337.22
+  payment method: card ending 9155  ship to: 25 Elm St
+  - carry-on suitcase x1
+  - merino socks, size M x3
+  - USB-C charging cable (2m) x2
+ORD-39721  placed 2026-01-03  status: delivered  total: $72.23
+  payment method: card ending 4939  ship to: 120 Cedar Rd
+  - carry-on suitcase x1
+  - gift wrap x2
+  - replacement filter cartridge, 3-pack x1
+  - travel pouch x3
+ORD-92225  placed 2026-08-16  status: delivered  total: $375.34
+  payment method: card ending 6812  ship to: 467 Mill Ave
+  - water filter pitcher x1
+  - carabiner set x2
+  - travel pouch x2
+  - stainless water bottle, 750ml x3
+ORD-82601  placed 2026-02-08  status: label created  total: $21.61
+  payment method: card ending 7747  ship to: 297 Harbor Lane
+  - standing desk x1
+  - spare battery pack x3
+  - microfiber cloth x2
+
+--- message 1 from Yuki Tanaka ---
+Where is my refund for ORD-15713? You said 5 days and it has been 8. I'd rather not call; the hold times last time were very long. Your app logged me out twice while I was looking at this, which didn't help. My partner placed ORD-92225 on our shared account, in case that matters.
+
+Thanks,
+Yuki Tanaka
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Keiko (support) ---
+Tracking updates can lag by a day or two with this carrier. If you need an invoice for ORD-39721, you can download it from the Orders page. Let me know if anything else looks off. I've added a note to your account so the next agent has the context.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Yuki Tanaka ---
+I'm happy to send screenshots if that helps. Your app logged me out twice while I was looking at this, which didn't help. Tracking for ORD-15713 hasn't updated since Tuesday. My partner placed ORD-39721 on our shared account, in case that matters.
+
+Best regards,
+Yuki Tanaka
+
+--- message 4 from Keiko (support) ---
+Let me know if anything else looks off. I've updated your shipping address on file. I can see all the orders on your account, including ORD-15713. I've added a note to your account so the next agent has the context.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

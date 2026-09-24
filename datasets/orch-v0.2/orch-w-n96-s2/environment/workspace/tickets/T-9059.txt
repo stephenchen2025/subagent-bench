@@ -1,0 +1,73 @@
+Ticket T-9059
+Customer: Diego Alvarez
+Orders on file: ORD-25514, ORD-48511, ORD-88616, ORD-14763
+Opened: 2026-03-12 via chat transcript
+
+Order details:
+ORD-25514  placed 2026-07-13  status: delivered  total: $103.85
+  payment method: card ending 6508  ship to: 257 Mill Lane
+  - water filter pitcher x1
+  - spare battery pack x3
+  - carabiner set x2
+ORD-48511  placed 2026-03-12  status: in transit  total: $45.69
+  payment method: card ending 7304  ship to: 105 Harbor Lane
+  - espresso grinder x1
+  - gift wrap x1
+  - carabiner set x3
+  - microfiber cloth x3
+ORD-88616  placed 2026-05-25  status: in transit  total: $467.73
+  payment method: card ending 8754  ship to: 221 Mill Ave
+  - desk lamp x1
+  - microfiber cloth x1
+  - replacement filter cartridge, 3-pack x3
+  - gift wrap x1
+  - merino socks, size M x3
+ORD-14763  placed 2026-05-01  status: delivered  total: $123.52
+  payment method: card ending 2653  ship to: 601 Elm Rd
+  - cast iron skillet x1
+  - extended warranty, 2 years x3
+  - travel pouch x2
+  - gift wrap x2
+  - carabiner set x2
+
+--- message 1 from Diego Alvarez ---
+Can I use a gift card on ORD-48511, or is it too late? The rain jacket itself is great, for what it's worth. I've been a customer for a few years and usually everything goes smoothly. The confirmation email for ORD-14763 went to my spam folder, so I only just saw it.
+
+Thanks,
+Diego Alvarez
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Rosa (support) ---
+I can see all the orders on your account, including ORD-25514. I've added a note to your account so the next agent has the context. If you need an invoice for ORD-25514, you can download it from the Orders page. I've updated your shipping address on file.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Diego Alvarez ---
+I've been a customer for a few years and usually everything goes smoothly. My earlier order ORD-48511 arrived fine, no complaints there. I'm happy to send screenshots if that helps. The box for ORD-14763 was a bit crushed but the contents were fine.
+
+Thanks,
+Diego Alvarez
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Rosa (support) ---
+Let me know if anything else looks off. Our warehouse shows ORD-48511 left on schedule. For ORD-14763, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Diego Alvarez ---
+I changed my shipping address last month, so please double-check you have the new one. The box for ORD-25514 was a bit crushed but the contents were fine. Tracking for ORD-25514 hasn't updated since Tuesday. I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Diego Alvarez
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Rosa (support) ---
+If you need an invoice for ORD-14763, you can download it from the Orders page. I've updated your shipping address on file. Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-48511 to the address on file.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

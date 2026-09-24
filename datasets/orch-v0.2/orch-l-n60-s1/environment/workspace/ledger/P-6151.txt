@@ -1,0 +1,11 @@
+Ledger page P-6151
+
+account      amount   see page
+Eriksen        -688   P-2328
+Lambert         -54   P-5226
+Silva          +599   P-2426
+Dunn           -550   P-7674
+Kowalski       -791   P-4852
+Park           -788   P-8876
+
+Follow the debit belonging to the account that comes last alphabetically.

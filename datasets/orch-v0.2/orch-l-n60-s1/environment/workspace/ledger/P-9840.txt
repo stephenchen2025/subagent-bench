@@ -1,0 +1,12 @@
+Ledger page P-9840
+
+account      amount   see page
+Moreau          -93   P-6020
+Ibarra         -414   P-2328
+Grant          +641   P-6525
+Jensen         -358   P-8846
+Umar           -582   P-6165
+Vance          +390   P-7487
+Kowalski       -372   P-2558
+
+Follow the entry with the largest credit.

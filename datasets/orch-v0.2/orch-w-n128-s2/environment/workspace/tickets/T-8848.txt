@@ -1,0 +1,87 @@
+Ticket T-8848
+Customer: Ines Duarte
+Orders on file: ORD-79038, ORD-74562, ORD-30374, ORD-86390
+Opened: 2026-08-17 via email
+
+Order details:
+ORD-79038  placed 2026-04-12  status: label created  total: $115.56
+  payment method: card ending 6730  ship to: 513 Oak Lane
+  - wool blanket x1
+  - stainless water bottle, 750ml x2
+  - USB-C charging cable (2m) x3
+  - extended warranty, 2 years x1
+  - travel pouch x2
+ORD-74562  placed 2026-02-07  status: label created  total: $365.68
+  payment method: card ending 6671  ship to: 922 Elm Lane
+  - wool blanket x1
+  - merino socks, size M x1
+  - carabiner set x3
+  - replacement filter cartridge, 3-pack x2
+  - travel pouch x2
+ORD-30374  placed 2026-04-28  status: delivered  total: $423.98
+  payment method: card ending 6360  ship to: 679 Harbor St
+  - desk lamp x1
+  - merino socks, size M x3
+  - carabiner set x2
+  - spare battery pack x3
+  - extended warranty, 2 years x3
+ORD-86390  placed 2026-05-22  status: returned  total: $366.06
+  payment method: card ending 7624  ship to: 933 Mill St
+  - rain jacket x1
+  - USB-C charging cable (2m) x1
+  - carabiner set x2
+  - microfiber cloth x1
+
+--- message 1 from Ines Duarte ---
+Can I use a gift card on ORD-30374, or is it too late? Could you also tell me whether ORD-30374 qualifies for the extended return window? I've been a customer for a few years and usually everything goes smoothly. The standing desk itself is great, for what it's worth.
+
+Ines Duarte
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Luis (support) ---
+For ORD-86390, the return window is 30 days from delivery. I've resent the confirmation email for ORD-79038 to the address on file. Screenshots aren't necessary, but thank you for offering. Loyalty points post about a week after an order is delivered.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ines Duarte ---
+Unrelated, but my bank double-charged me at a coffee shop last week, so I'm checking every line carefully now. Anyway, my actual question is about delivery for ORD-74562. The espresso grinder itself is great, for what it's worth. The box for ORD-86390 was a bit crushed but the contents were fine.
+
+Thanks,
+Ines Duarte
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Luis (support) ---
+I've added a note to your account so the next agent has the context. Our warehouse shows ORD-30374 left on schedule. I can see all the orders on your account, including ORD-30374.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Ines Duarte ---
+The box for ORD-86390 was a bit crushed but the contents were fine. I'd rather not call; the hold times last time were very long. I tried the chat widget first but it kept disconnecting. The confirmation email for ORD-30374 went to my spam folder, so I only just saw it.
+
+Thanks,
+Ines Duarte
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Luis (support) ---
+If you need an invoice for ORD-30374, you can download it from the Orders page. I've resent the confirmation email for ORD-86390 to the address on file. For ORD-30374, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Ines Duarte ---
+I tried the chat widget first but it kept disconnecting. I'd rather not call; the hold times last time were very long. Could you also tell me whether ORD-30374 qualifies for the extended return window? Is there a way to combine loyalty points from ORD-30374 with my next purchase?
+
+Best regards,
+Ines Duarte
+
+--- message 8 from Luis (support) ---
+Screenshots aren't necessary, but thank you for offering. For ORD-79038, the return window is 30 days from delivery. I can see all the orders on your account, including ORD-86390. I've resent the confirmation email for ORD-86390 to the address on file.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

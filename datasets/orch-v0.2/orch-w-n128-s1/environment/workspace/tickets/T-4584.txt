@@ -1,0 +1,57 @@
+Ticket T-4584
+Customer: Tomas Novak
+Orders on file: ORD-31263, ORD-52879, ORD-94078, ORD-93200
+Opened: 2026-03-06 via web form
+
+Order details:
+ORD-31263  placed 2026-04-18  status: in transit  total: $187.84
+  payment method: card ending 8930  ship to: 515 Mill Lane
+  - carry-on suitcase x1
+  - microfiber cloth x2
+  - USB-C charging cable (2m) x2
+ORD-52879  placed 2026-05-10  status: label created  total: $119.39
+  payment method: card ending 2305  ship to: 964 Oak Lane
+  - yoga mat x1
+  - microfiber cloth x3
+  - stainless water bottle, 750ml x2
+  - spare battery pack x3
+  - merino socks, size M x2
+ORD-94078  placed 2026-03-05  status: delivered  total: $345.15
+  payment method: card ending 4082  ship to: 340 Harbor St
+  - rain jacket x1
+  - merino socks, size M x1
+  - carabiner set x2
+  - gift wrap x2
+ORD-93200  placed 2026-01-08  status: label created  total: $20.44
+  payment method: card ending 7457  ship to: 262 Harbor Ave
+  - bike light set x1
+  - merino socks, size M x2
+  - replacement filter cartridge, 3-pack x2
+
+--- message 1 from Tomas Novak ---
+I'd like to return the mechanical keyboard from ORD-52879; it's the wrong size. I've been a customer for a few years and usually everything goes smoothly. Could you also tell me whether ORD-94078 qualifies for the extended return window? I'm happy to send screenshots if that helps.
+
+Thanks,
+Tomas Novak
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Rosa (support) ---
+I've resent the confirmation email for ORD-52879 to the address on file. If you need an invoice for ORD-31263, you can download it from the Orders page. Thanks for reaching out, and sorry for the trouble. I've updated your shipping address on file.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Tomas Novak ---
+I'd rather not call; the hold times last time were very long. My earlier order ORD-52879 arrived fine, no complaints there. The desk lamp itself is great, for what it's worth. I'm happy to send screenshots if that helps.
+
+Thanks,
+Tomas Novak
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Rosa (support) ---
+Screenshots aren't necessary, but thank you for offering. I've added a note to your account so the next agent has the context. I've updated your shipping address on file. Our warehouse shows ORD-94078 left on schedule.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

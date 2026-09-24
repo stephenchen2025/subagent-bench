@@ -1,0 +1,11 @@
+Ledger page P-2372
+
+account      amount   see page
+Weber          +739   P-3740
+Hughes         -669   P-8443
+Baker          -613   P-6368
+Grant          +242   P-5081
+Nakamura       +486   P-1993
+Ibarra         +667   P-8908
+
+Follow the credit belonging to the account that comes first alphabetically.

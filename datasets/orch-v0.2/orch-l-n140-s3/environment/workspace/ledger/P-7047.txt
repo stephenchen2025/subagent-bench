@@ -1,0 +1,10 @@
+Ledger page P-7047
+
+account      amount   see page
+Quinn          -273   P-3282
+Hughes         -292   P-5159
+Lambert        +413   P-3289
+Fofana         -641   P-3810
+Nakamura       +782   P-4465
+
+Follow the credit belonging to the account that comes first alphabetically.

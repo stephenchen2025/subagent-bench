@@ -1,0 +1,10 @@
+Ledger page P-7331
+
+account      amount   see page
+Fofana         -156   P-5388
+Dunn           -257   P-8937
+Jensen         +269   P-6627
+Weber          +565   P-4682
+Lambert        -842   P-7117
+
+Follow the debit belonging to the account that comes last alphabetically.

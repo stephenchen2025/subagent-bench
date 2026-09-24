@@ -1,0 +1,54 @@
+Ticket T-3856
+Customer: Tomas Novak
+Orders on file: ORD-63491, ORD-49142, ORD-36877, ORD-94053
+Opened: 2026-02-14 via email
+
+Order details:
+ORD-63491  placed 2026-07-01  status: in transit  total: $325.42
+  payment method: card ending 2083  ship to: 281 Cedar Ave
+  - espresso grinder x1
+  - merino socks, size M x1
+  - stainless water bottle, 750ml x2
+  - gift wrap x2
+ORD-49142  placed 2026-04-25  status: delivered  total: $437.94
+  payment method: card ending 3283  ship to: 649 Cedar Ave
+  - yoga mat x1
+  - carabiner set x3
+  - USB-C charging cable (2m) x3
+ORD-36877  placed 2026-07-27  status: delivered  total: $437.35
+  payment method: card ending 2365  ship to: 782 Mill Ave
+  - water filter pitcher x1
+  - replacement filter cartridge, 3-pack x1
+  - extended warranty, 2 years x1
+ORD-94053  placed 2026-03-07  status: delivered  total: $366.30
+  payment method: card ending 2723  ship to: 196 Harbor Ave
+  - mechanical keyboard x1
+  - merino socks, size M x3
+  - USB-C charging cable (2m) x2
+
+--- message 1 from Tomas Novak ---
+How do I reset my password? The reset link keeps expiring. The confirmation email for ORD-63491 went to my spam folder, so I only just saw it. I've been a customer for a few years and usually everything goes smoothly. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Tomas Novak
+
+--- message 2 from Arjun (support) ---
+Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-63491. For ORD-63491, the return window is 30 days from delivery. If you need an invoice for ORD-49142, you can download it from the Orders page.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Tomas Novak ---
+I've been a customer for a few years and usually everything goes smoothly. Your app logged me out twice while I was looking at this, which didn't help. I'm travelling next week, so email is the best way to reach me. The box for ORD-63491 was a bit crushed but the contents were fine.
+
+Thanks,
+Tomas Novak
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Arjun (support) ---
+I've added a note to your account so the next agent has the context. For ORD-49142, the return window is 30 days from delivery. Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,10 @@
+Ledger page P-6740
+
+account      amount   see page
+Osei           +225   P-2425
+Vance          -363   P-9328
+Xu             +665   P-3010
+Umar           +654   P-6511
+Zhou           -539   P-4169
+
+Follow the entry with the largest debit (the most negative amount).

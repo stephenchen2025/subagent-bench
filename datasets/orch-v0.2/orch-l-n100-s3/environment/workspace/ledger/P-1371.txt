@@ -1,0 +1,10 @@
+Ledger page P-1371
+
+account      amount   see page
+Nakamura       +371   P-5313
+Abbott         +154   P-7783
+Lambert        -441   P-3683
+Young          +457   P-8976
+Ibarra         -199   P-9056
+
+Follow the credit belonging to the account that comes first alphabetically.

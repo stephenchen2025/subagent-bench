@@ -1,0 +1,11 @@
+Ledger page P-9675
+
+account      amount   see page
+Baker          +453   P-5710
+Silva          -611   P-2486
+Ibarra         +605   P-5863
+Zhou            -67   P-8834
+Kowalski       +339   P-4082
+Park           -811   P-4082
+
+Follow the entry with the second-largest amount.

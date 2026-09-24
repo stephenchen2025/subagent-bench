@@ -1,0 +1,12 @@
+Ledger page P-9109
+
+account      amount   see page
+Silva          -216   P-8935
+Kowalski       +654   P-9595
+Xu             +761   P-5209
+Umar           -746   P-7930
+Hughes         +382   P-9161
+Castillo       +576   P-9048
+Quinn          -166   P-9385
+
+Follow the entry with the largest credit.

@@ -1,0 +1,90 @@
+Ticket T-9965
+Customer: Ravi Iyer
+Orders on file: ORD-72539, ORD-53533, ORD-36142, ORD-93371
+Opened: 2026-07-23 via web form
+
+Order details:
+ORD-72539  placed 2026-05-09  status: delivered  total: $228.49
+  payment method: card ending 7557  ship to: 375 Cedar Ave
+  - desk lamp x1
+  - carabiner set x1
+  - microfiber cloth x1
+  - extended warranty, 2 years x1
+ORD-53533  placed 2026-07-19  status: delivered  total: $360.21
+  payment method: card ending 5067  ship to: 100 Harbor St
+  - noise-cancelling headphones x1
+  - merino socks, size M x2
+  - replacement filter cartridge, 3-pack x2
+ORD-36142  placed 2026-03-10  status: in transit  total: $396.78
+  payment method: card ending 1222  ship to: 506 Mill Ave
+  - noise-cancelling headphones x1
+  - replacement filter cartridge, 3-pack x3
+  - stainless water bottle, 750ml x3
+  - USB-C charging cable (2m) x2
+  - microfiber cloth x1
+ORD-93371  placed 2026-04-22  status: delivered  total: $318.29
+  payment method: card ending 7934  ship to: 177 Elm Ave
+  - water filter pitcher x1
+  - microfiber cloth x1
+  - spare battery pack x1
+
+--- message 1 from Ravi Iyer ---
+The desk lamp from ORD-53533 arrived with a scratch on the side. Can I get a replacement? I'm happy to send screenshots if that helps. Could you also tell me whether ORD-72539 qualifies for the extended return window? The box for ORD-36142 was a bit crushed but the contents were fine.
+
+Best regards,
+Ravi Iyer
+
+--- message 2 from Arjun (support) ---
+Screenshots aren't necessary, but thank you for offering. I've added a note to your account so the next agent has the context. I can see all the orders on your account, including ORD-36142. Thanks for reaching out, and sorry for the trouble.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ravi Iyer ---
+I think I might have been charged twice for ORD-93371, but one of the lines on my statement still says pending, so I'm not sure yet. I'm travelling next week, so email is the best way to reach me. I'm happy to send screenshots if that helps.
+
+Thanks,
+Ravi Iyer
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Arjun (support) ---
+I can see all the orders on your account, including ORD-36142. If you need an invoice for ORD-53533, you can download it from the Orders page. Let me know if anything else looks off.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Ravi Iyer ---
+Just checked again -- both charges for ORD-93371 are settled now, not pending. My partner placed ORD-53533 on our shared account, in case that matters. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Ravi Iyer
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Arjun (support) ---
+I've added a note to your account so the next agent has the context. Let me know if anything else looks off. If you need an invoice for ORD-53533, you can download it from the Orders page.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Arjun (support) ---
+I've checked with our payments team: both captures for ORD-93371 settled, so you were genuinely charged twice. I've issued a refund for the second one; it should show within 3-5 business days. Thanks for reaching out, and sorry for the trouble. For ORD-72539, the return window is 30 days from delivery.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Ravi Iyer ---
+My earlier order ORD-72539 arrived fine, no complaints there. Is there a way to combine loyalty points from ORD-36142 with my next purchase? The box for ORD-36142 was a bit crushed but the contents were fine. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Ravi Iyer
+
+--- message 9 from Arjun (support) ---
+Our warehouse shows ORD-72539 left on schedule. Tracking updates can lag by a day or two with this carrier. Loyalty points post about a week after an order is delivered. Thanks for reaching out, and sorry for the trouble.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

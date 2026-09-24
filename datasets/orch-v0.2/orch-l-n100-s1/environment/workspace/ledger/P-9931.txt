@@ -1,0 +1,12 @@
+Ledger page P-9931
+
+account      amount   see page
+Lambert        +299   P-9713
+Zhou           -370   P-3420
+Silva            -6   P-8988
+Kowalski       +430   P-5874
+Umar           +872   P-5874
+Vance          -831   P-7930
+Hughes         +107   P-5225
+
+Follow the entry with the largest credit.

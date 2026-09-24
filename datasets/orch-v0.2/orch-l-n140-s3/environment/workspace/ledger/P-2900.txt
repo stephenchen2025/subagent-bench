@@ -1,0 +1,12 @@
+Ledger page P-2900
+
+account      amount   see page
+Young           -45   P-9932
+Fofana         +582   P-6102
+Rahman          -13   P-2420
+Zhou           -114   P-5518
+Kowalski       +413   P-9481
+Castillo       +128   P-5199
+Lambert        +887   P-7083
+
+Follow the credit belonging to the account that comes first alphabetically.

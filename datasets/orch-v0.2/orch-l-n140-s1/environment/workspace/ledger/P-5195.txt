@@ -1,0 +1,12 @@
+Ledger page P-5195
+
+account      amount   see page
+Rahman         -801   P-2801
+Dunn           +145   P-1026
+Quinn          -745   P-9747
+Baker          +273   P-9653
+Moreau         +598   P-4603
+Kowalski       -497   P-8046
+Zhou            +61   P-4113
+
+Follow the debit belonging to the account that comes last alphabetically.

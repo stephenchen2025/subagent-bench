@@ -1,0 +1,12 @@
+Ledger page P-7671
+
+account      amount   see page
+Silva          -392   P-9072
+Quinn          +139   P-2263
+Moreau          +41   P-1487
+Xu             -422   P-7211
+Jensen         -743   P-6873
+Ibarra         +169   P-3879
+Lambert        +408   P-7573
+
+Follow the debit belonging to the account that comes last alphabetically.

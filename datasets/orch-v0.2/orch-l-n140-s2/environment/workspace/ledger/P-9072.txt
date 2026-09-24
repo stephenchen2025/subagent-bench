@@ -1,0 +1,12 @@
+Ledger page P-9072
+
+account      amount   see page
+Grant          -273   P-2425
+Tanaka         -724   P-4465
+Weber          +866   P-9711
+Rahman         +738   P-4479
+Castillo       -482   P-5389
+Lambert        +557   P-9305
+Vance          -887   P-4401
+
+Follow the entry whose amount is closest to zero.

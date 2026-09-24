@@ -1,0 +1,11 @@
+Ledger page P-6858
+
+account      amount   see page
+Park           +639   P-1302
+Xu             +499   P-2562
+Fofana         +212   P-3594
+Jensen         -451   P-8185
+Young          -868   P-8276
+Rahman         -652   P-3583
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,10 @@
+Ledger page P-9964
+
+account      amount   see page
+Young          +352   P-3925
+Rahman         +552   P-2793
+Hughes          -40   P-8123
+Silva          +105   P-9829
+Grant          +676   P-6924
+
+Follow the entry with the largest debit (the most negative amount).

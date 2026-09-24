@@ -1,0 +1,11 @@
+Ledger page P-8146
+
+account      amount   see page
+Nakamura         -2   P-7362
+Fofana         -691   P-1864
+Xu             +210   P-1207
+Tanaka         -768   P-4593
+Moreau         +197   P-4929
+Castillo       -465   P-9827
+
+Follow the debit belonging to the account that comes last alphabetically.

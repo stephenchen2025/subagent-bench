@@ -1,0 +1,10 @@
+Ledger page P-8229
+
+account      amount   see page
+Hughes         -668   P-6667
+Young          +153   P-3557
+Baker          -781   P-2617
+Kowalski       +257   P-5548
+Osei           -854   P-6461
+
+Follow the entry with the second-largest amount.

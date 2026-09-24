@@ -1,0 +1,10 @@
+Ledger page P-4083
+
+account      amount   see page
+Xu             -617   P-2656
+Dunn           -700   P-8357
+Quinn           -47   P-3049
+Baker          +221   P-3264
+Tanaka          -23   P-5019
+
+Follow the entry with the largest debit (the most negative amount).

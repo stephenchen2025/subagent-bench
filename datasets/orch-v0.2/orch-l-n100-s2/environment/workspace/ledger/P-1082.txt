@@ -1,0 +1,11 @@
+Ledger page P-1082
+
+account      amount   see page
+Kowalski       -690   P-1166
+Vance          +422   P-8173
+Tanaka         -796   P-6025
+Quinn          +697   P-1695
+Dunn           -597   P-2693
+Baker          +729   P-8619
+
+Follow the credit belonging to the account that comes first alphabetically.

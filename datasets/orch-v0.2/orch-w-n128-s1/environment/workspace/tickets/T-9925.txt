@@ -1,0 +1,84 @@
+Ticket T-9925
+Customer: Tomas Novak
+Orders on file: ORD-49857, ORD-99190, ORD-13724, ORD-15597
+Opened: 2026-08-01 via chat transcript
+
+Order details:
+ORD-49857  placed 2026-02-20  status: in transit  total: $251.25
+  payment method: card ending 3028  ship to: 662 Elm Rd
+  - noise-cancelling headphones x1
+  - extended warranty, 2 years x1
+  - spare battery pack x2
+  - gift wrap x1
+  - merino socks, size M x1
+ORD-99190  placed 2026-02-28  status: delivered  total: $371.17
+  payment method: card ending 5799  ship to: 612 Mill Ave
+  - desk lamp x1
+  - extended warranty, 2 years x3
+  - gift wrap x2
+ORD-13724  placed 2026-03-09  status: delivered  total: $79.82
+  payment method: card ending 2130  ship to: 114 Harbor St
+  - yoga mat x1
+  - gift wrap x3
+  - stainless water bottle, 750ml x1
+  - spare battery pack x3
+ORD-15597  placed 2026-07-08  status: delivered  total: $437.09
+  payment method: card ending 6289  ship to: 620 Elm Rd
+  - rain jacket x1
+  - extended warranty, 2 years x3
+  - microfiber cloth x3
+
+--- message 1 from Tomas Novak ---
+I need to change the delivery address for ORD-49857 before it ships. I changed my shipping address last month, so please double-check you have the new one. The confirmation email for ORD-15597 went to my spam folder, so I only just saw it. Your app logged me out twice while I was looking at this, which didn't help.
+
+Tomas Novak
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Rosa (support) ---
+If you need an invoice for ORD-49857, you can download it from the Orders page. Loyalty points post about a week after an order is delivered. For ORD-49857, the return window is 30 days from delivery. Thanks for reaching out, and sorry for the trouble.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Tomas Novak ---
+Unrelated, but my bank double-charged me at a coffee shop last week, so I'm checking every line carefully now. Anyway, my actual question is about delivery for ORD-99190. I tried the chat widget first but it kept disconnecting. Is there a way to combine loyalty points from ORD-13724 with my next purchase?
+
+Thanks,
+Tomas Novak
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Rosa (support) ---
+Loyalty points post about a week after an order is delivered. I can see all the orders on your account, including ORD-13724. I've added a note to your account so the next agent has the context.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Tomas Novak ---
+I'm happy to send screenshots if that helps. I'm travelling next week, so email is the best way to reach me. I've been a customer for a few years and usually everything goes smoothly. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Tomas Novak
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Rosa (support) ---
+Screenshots aren't necessary, but thank you for offering. If you need an invoice for ORD-13724, you can download it from the Orders page. Our warehouse shows ORD-15597 left on schedule. I've resent the confirmation email for ORD-13724 to the address on file.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Tomas Novak ---
+I'm happy to send screenshots if that helps. The confirmation email for ORD-49857 went to my spam folder, so I only just saw it. The box for ORD-49857 was a bit crushed but the contents were fine. Tracking for ORD-15597 hasn't updated since Tuesday.
+
+Thanks,
+Tomas Novak
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Rosa (support) ---
+I've resent the confirmation email for ORD-13724 to the address on file. Let me know if anything else looks off. If you need an invoice for ORD-49857, you can download it from the Orders page. Thanks for reaching out, and sorry for the trouble.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

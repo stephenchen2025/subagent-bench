@@ -1,0 +1,58 @@
+Ticket T-4871
+Customer: Priya Raman
+Orders on file: ORD-54001, ORD-10053, ORD-93133, ORD-86175
+Opened: 2026-07-11 via email
+
+Order details:
+ORD-54001  placed 2026-02-07  status: returned  total: $463.28
+  payment method: card ending 5959  ship to: 904 Harbor Lane
+  - cast iron skillet x1
+  - microfiber cloth x2
+  - replacement filter cartridge, 3-pack x2
+  - travel pouch x1
+  - spare battery pack x1
+ORD-10053  placed 2026-02-09  status: in transit  total: $169.76
+  payment method: card ending 7506  ship to: 912 Mill Lane
+  - yoga mat x1
+  - extended warranty, 2 years x1
+  - travel pouch x1
+ORD-93133  placed 2026-06-19  status: in transit  total: $197.28
+  payment method: card ending 4167  ship to: 27 Mill St
+  - camping stove x1
+  - replacement filter cartridge, 3-pack x3
+  - microfiber cloth x3
+  - USB-C charging cable (2m) x2
+ORD-86175  placed 2026-04-08  status: delivered  total: $336.08
+  payment method: card ending 4043  ship to: 715 Elm Rd
+  - camping stove x1
+  - replacement filter cartridge, 3-pack x1
+  - USB-C charging cable (2m) x3
+  - spare battery pack x2
+  - stainless water bottle, 750ml x2
+
+--- message 1 from Priya Raman ---
+I need to change the delivery address for ORD-10053 before it ships. The camping stove itself is great, for what it's worth. I'm travelling next week, so email is the best way to reach me. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Priya Raman
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Fatima (support) ---
+Tracking updates can lag by a day or two with this carrier. Loyalty points post about a week after an order is delivered. I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Priya Raman ---
+Is there a way to combine loyalty points from ORD-54001 with my next purchase? My partner placed ORD-10053 on our shared account, in case that matters. I'm travelling next week, so email is the best way to reach me. The standing desk itself is great, for what it's worth.
+
+Priya Raman
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Fatima (support) ---
+Loyalty points post about a week after an order is delivered. Let me know if anything else looks off. Our warehouse shows ORD-10053 left on schedule. I've updated your shipping address on file.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

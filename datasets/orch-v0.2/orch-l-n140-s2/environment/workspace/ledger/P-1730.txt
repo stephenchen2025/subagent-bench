@@ -1,0 +1,10 @@
+Ledger page P-1730
+
+account      amount   see page
+Tanaka          +17   P-4103
+Eriksen        -721   P-4719
+Vance          -895   P-5848
+Osei           +603   P-5167
+Park            +35   P-3665
+
+Follow the debit belonging to the account that comes last alphabetically.

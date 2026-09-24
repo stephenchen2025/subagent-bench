@@ -1,0 +1,10 @@
+Ledger page P-7097
+
+account      amount   see page
+Baker          -570   P-6128
+Osei           -247   P-5277
+Umar            +18   P-8691
+Young          -144   P-9257
+Rahman         +465   P-2010
+
+Follow the debit belonging to the account that comes last alphabetically.

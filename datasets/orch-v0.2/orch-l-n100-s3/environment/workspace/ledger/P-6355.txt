@@ -1,0 +1,11 @@
+Ledger page P-6355
+
+account      amount   see page
+Vance          -668   P-7576
+Hughes         -617   P-3982
+Young          -787   P-4735
+Abbott         +571   P-2589
+Grant          +550   P-2000
+Weber          -334   P-9964
+
+Follow the entry with the second-largest amount.

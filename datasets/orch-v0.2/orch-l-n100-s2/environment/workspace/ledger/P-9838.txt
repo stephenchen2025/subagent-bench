@@ -1,0 +1,12 @@
+Ledger page P-9838
+
+account      amount   see page
+Baker          +464   P-5991
+Young          +272   P-3012
+Xu             -126   P-5863
+Nakamura       -332   P-3677
+Zhou           -203   P-2046
+Park           +804   P-2042
+Silva          -553   P-4952
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,11 @@
+Ledger page P-6853
+
+account      amount   see page
+Abbott         +289   P-2184
+Quinn          -209   P-7097
+Nakamura       +745   P-6086
+Weber          -755   P-9084
+Ibarra         -133   P-7013
+Vance          +579   P-1267
+
+Follow the entry with the largest credit.

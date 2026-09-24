@@ -1,0 +1,60 @@
+Ticket T-5444
+Customer: Elena Petrova
+Orders on file: ORD-51540, ORD-33757, ORD-89344, ORD-35578
+Opened: 2026-02-19 via chat transcript
+
+Order details:
+ORD-51540  placed 2026-03-13  status: delivered  total: $412.27
+  payment method: card ending 3841  ship to: 791 Mill Rd
+  - espresso grinder x1
+  - stainless water bottle, 750ml x1
+  - microfiber cloth x2
+  - USB-C charging cable (2m) x1
+  - gift wrap x2
+ORD-33757  placed 2026-07-20  status: delivered  total: $436.41
+  payment method: card ending 6746  ship to: 492 Elm Lane
+  - trail running shoes x1
+  - spare battery pack x3
+  - gift wrap x2
+  - replacement filter cartridge, 3-pack x2
+  - USB-C charging cable (2m) x3
+ORD-89344  placed 2026-02-22  status: delivered  total: $75.51
+  payment method: card ending 1671  ship to: 550 Oak Lane
+  - cast iron skillet x1
+  - USB-C charging cable (2m) x1
+  - spare battery pack x1
+  - gift wrap x3
+  - travel pouch x3
+ORD-35578  placed 2026-02-20  status: delivered  total: $412.74
+  payment method: card ending 2814  ship to: 202 Mill Rd
+  - camping stove x1
+  - merino socks, size M x1
+  - extended warranty, 2 years x1
+  - microfiber cloth x1
+  - gift wrap x2
+
+--- message 1 from Elena Petrova ---
+I'd like to return the carry-on suitcase from ORD-35578; it's the wrong size. Could you also tell me whether ORD-33757 qualifies for the extended return window? The confirmation email for ORD-35578 went to my spam folder, so I only just saw it. The trail running shoes itself is great, for what it's worth.
+
+Elena Petrova
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Marcus (support) ---
+Let me know if anything else looks off. Loyalty points post about a week after an order is delivered. I've updated your shipping address on file. For ORD-89344, the return window is 30 days from delivery.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Elena Petrova ---
+I'm happy to send screenshots if that helps. The confirmation email for ORD-89344 went to my spam folder, so I only just saw it. Tracking for ORD-33757 hasn't updated since Tuesday. I've been a customer for a few years and usually everything goes smoothly.
+
+Elena Petrova
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Marcus (support) ---
+Our warehouse shows ORD-89344 left on schedule. Loyalty points post about a week after an order is delivered. For ORD-89344, the return window is 30 days from delivery. I've resent the confirmation email for ORD-89344 to the address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

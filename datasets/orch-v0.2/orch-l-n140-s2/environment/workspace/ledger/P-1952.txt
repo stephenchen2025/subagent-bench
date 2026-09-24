@@ -1,0 +1,11 @@
+Ledger page P-1952
+
+account      amount   see page
+Quinn          +326   P-8088
+Castillo       -796   P-9414
+Rahman         +478   P-6433
+Lambert        +146   P-3098
+Kowalski       +522   P-6524
+Hughes         -810   P-6306
+
+Follow the entry with the second-largest amount.

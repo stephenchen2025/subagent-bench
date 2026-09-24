@@ -1,0 +1,10 @@
+Ledger page P-8522
+
+account      amount   see page
+Grant            -1   P-9377
+Umar           +672   P-3005
+Young          -557   P-4528
+Quinn          +810   P-2522
+Zhou           +269   P-5642
+
+Follow the entry with the largest credit.

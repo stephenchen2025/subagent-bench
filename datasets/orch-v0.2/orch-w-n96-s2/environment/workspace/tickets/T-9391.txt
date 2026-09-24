@@ -1,0 +1,90 @@
+Ticket T-9391
+Customer: Amara Nwosu
+Orders on file: ORD-24181, ORD-60711, ORD-30016, ORD-51010
+Opened: 2026-07-22 via web form
+
+Order details:
+ORD-24181  placed 2026-02-12  status: in transit  total: $329.60
+  payment method: card ending 7861  ship to: 373 Oak Lane
+  - standing desk x1
+  - replacement filter cartridge, 3-pack x1
+  - carabiner set x2
+  - gift wrap x1
+ORD-60711  placed 2026-04-12  status: in transit  total: $222.47
+  payment method: card ending 1425  ship to: 512 Cedar Ave
+  - noise-cancelling headphones x1
+  - USB-C charging cable (2m) x2
+  - replacement filter cartridge, 3-pack x1
+  - merino socks, size M x2
+  - carabiner set x2
+ORD-30016  placed 2026-07-06  status: delivered  total: $385.69
+  payment method: card ending 8303  ship to: 58 Cedar Lane
+  - trail running shoes x1
+  - gift wrap x1
+  - merino socks, size M x1
+ORD-51010  placed 2026-07-28  status: label created  total: $121.92
+  payment method: card ending 9535  ship to: 372 Mill Lane
+  - blender x1
+  - merino socks, size M x1
+  - extended warranty, 2 years x1
+  - stainless water bottle, 750ml x1
+  - carabiner set x3
+
+--- message 1 from Amara Nwosu ---
+Where is my refund for ORD-30016? You said 5 days and it has been 8. I've been a customer for a few years and usually everything goes smoothly. Your app logged me out twice while I was looking at this, which didn't help. The trail running shoes itself is great, for what it's worth.
+
+Best regards,
+Amara Nwosu
+
+--- message 2 from Dana (support) ---
+Screenshots aren't necessary, but thank you for offering. For ORD-60711, the return window is 30 days from delivery. Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-30016, you can download it from the Orders page.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Amara Nwosu ---
+ORD-24181 shows up once in my order history, but my credit union shows it paid for on two separate lines. The confirmation email for ORD-51010 went to my spam folder, so I only just saw it. My partner placed ORD-51010 on our shared account, in case that matters.
+
+Best regards,
+Amara Nwosu
+
+--- message 4 from Dana (support) ---
+For ORD-60711, the return window is 30 days from delivery. I've updated your shipping address on file. Screenshots aren't necessary, but thank you for offering.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Dana (support) ---
+Good news: only one payment for ORD-24181 ever settled. The other entry was a temporary hold and your bank has dropped it. If you need an invoice for ORD-30016, you can download it from the Orders page. For ORD-30016, the return window is 30 days from delivery.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Amara Nwosu ---
+The cast iron skillet itself is great, for what it's worth. I changed my shipping address last month, so please double-check you have the new one. My partner placed ORD-60711 on our shared account, in case that matters.
+
+Best regards,
+Amara Nwosu
+
+--- message 7 from Amara Nwosu ---
+Oh, you're right -- I checked my online banking this morning and the second line is gone. Only one charge. Sorry for the false alarm! I'm happy to send screenshots if that helps. I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Amara Nwosu
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Amara Nwosu ---
+Could you also tell me whether ORD-60711 qualifies for the extended return window? I'm travelling next week, so email is the best way to reach me. My earlier order ORD-51010 arrived fine, no complaints there. The box for ORD-30016 was a bit crushed but the contents were fine.
+
+Amara Nwosu
+(Please reply by email rather than phone if possible.)
+
+--- message 9 from Dana (support) ---
+I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-60711, you can download it from the Orders page. Let me know if anything else looks off.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

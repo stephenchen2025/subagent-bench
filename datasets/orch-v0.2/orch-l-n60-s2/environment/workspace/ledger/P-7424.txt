@@ -1,0 +1,11 @@
+Ledger page P-7424
+
+account      amount   see page
+Rahman         -367   P-3271
+Xu             -666   P-1126
+Lambert        -725   P-9605
+Park           +103   P-9790
+Young          -232   P-2745
+Silva           -93   P-5616
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,10 @@
+Ledger page P-2823
+
+account      amount   see page
+Hughes         -601   P-3439
+Rahman         +144   P-1637
+Kowalski       -426   P-7978
+Jensen         +757   P-8454
+Zhou           +690   P-1764
+
+Follow the credit belonging to the account that comes first alphabetically.

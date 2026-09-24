@@ -1,0 +1,10 @@
+Ledger page P-4360
+
+account      amount   see page
+Umar           +458   P-7013
+Tanaka         +240   P-2529
+Xu             +580   P-7370
+Jensen         -767   P-4639
+Ibarra          +91   P-1032
+
+Follow the credit belonging to the account that comes first alphabetically.

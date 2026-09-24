@@ -1,0 +1,11 @@
+Ledger page P-5293
+
+account      amount   see page
+Lambert        +193   P-6984
+Baker          -803   P-7848
+Dunn           +681   P-6163
+Fofana         -241   P-5624
+Quinn          -858   P-3354
+Rahman         -327   P-4515
+
+Follow the entry whose amount is closest to zero.

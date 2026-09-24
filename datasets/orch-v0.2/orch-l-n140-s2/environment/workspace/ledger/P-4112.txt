@@ -1,0 +1,12 @@
+Ledger page P-4112
+
+account      amount   see page
+Weber          -342   P-4962
+Eriksen        +140   P-5493
+Abbott         +449   P-3410
+Rahman         +732   P-2898
+Grant          -216   P-1265
+Umar           -113   P-3476
+Moreau          -88   P-7117
+
+Follow the debit belonging to the account that comes last alphabetically.

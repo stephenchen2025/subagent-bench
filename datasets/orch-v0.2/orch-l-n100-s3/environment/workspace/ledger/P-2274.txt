@@ -1,0 +1,12 @@
+Ledger page P-2274
+
+account      amount   see page
+Silva            +7   P-9743
+Eriksen        -641   P-3524
+Kowalski       -424   P-3683
+Fofana         +619   P-6871
+Osei           +715   P-7290
+Castillo       -713   P-9339
+Zhou           -528   P-1945
+
+Follow the entry with the largest debit (the most negative amount).

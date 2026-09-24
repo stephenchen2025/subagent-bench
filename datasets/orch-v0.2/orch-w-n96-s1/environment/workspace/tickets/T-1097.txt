@@ -1,0 +1,58 @@
+Ticket T-1097
+Customer: Grace Mwangi
+Orders on file: ORD-44595, ORD-68592, ORD-71571, ORD-99544
+Opened: 2026-03-11 via web form
+
+Order details:
+ORD-44595  placed 2026-03-12  status: delivered  total: $243.88
+  payment method: card ending 1673  ship to: 844 Mill St
+  - standing desk x1
+  - travel pouch x2
+  - spare battery pack x3
+  - carabiner set x2
+  - USB-C charging cable (2m) x3
+ORD-68592  placed 2026-03-05  status: returned  total: $84.13
+  payment method: card ending 7602  ship to: 388 Cedar Rd
+  - desk lamp x1
+  - gift wrap x1
+  - travel pouch x2
+  - stainless water bottle, 750ml x3
+  - microfiber cloth x1
+ORD-71571  placed 2026-03-25  status: delivered  total: $214.65
+  payment method: card ending 9794  ship to: 165 Mill Rd
+  - wool blanket x1
+  - replacement filter cartridge, 3-pack x1
+  - USB-C charging cable (2m) x3
+  - carabiner set x3
+ORD-99544  placed 2026-08-07  status: delivered  total: $286.07
+  payment method: card ending 3022  ship to: 311 Elm St
+  - desk lamp x1
+  - extended warranty, 2 years x2
+  - merino socks, size M x3
+
+--- message 1 from Grace Mwangi ---
+The bike light set from ORD-99544 arrived with a scratch on the side. Can I get a replacement? The carry-on suitcase itself is great, for what it's worth. I've been a customer for a few years and usually everything goes smoothly. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Grace Mwangi
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Rosa (support) ---
+Our warehouse shows ORD-44595 left on schedule. Let me know if anything else looks off. I've added a note to your account so the next agent has the context. For ORD-71571, the return window is 30 days from delivery.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Grace Mwangi ---
+Is there a way to combine loyalty points from ORD-71571 with my next purchase? Your app logged me out twice while I was looking at this, which didn't help. My earlier order ORD-99544 arrived fine, no complaints there. The confirmation email for ORD-99544 went to my spam folder, so I only just saw it.
+
+Best regards,
+Grace Mwangi
+
+--- message 4 from Rosa (support) ---
+Let me know if anything else looks off. Our warehouse shows ORD-99544 left on schedule. Screenshots aren't necessary, but thank you for offering. If you need an invoice for ORD-44595, you can download it from the Orders page.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

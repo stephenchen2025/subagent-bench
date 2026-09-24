@@ -1,0 +1,10 @@
+Ledger page P-3199
+
+account      amount   see page
+Silva          -600   P-8522
+Weber          -176   P-3088
+Umar           +412   P-5516
+Fofana         -900   P-6106
+Kowalski       -380   P-5461
+
+Follow the entry with the largest debit (the most negative amount).

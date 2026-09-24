@@ -1,0 +1,10 @@
+Ledger page P-5245
+
+account      amount   see page
+Moreau         -572   P-5069
+Jensen         -267   P-3685
+Xu             -111   P-8229
+Lambert        +662   P-2840
+Ibarra         +264   P-1371
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,10 @@
+Ledger page P-4621
+
+account      amount   see page
+Grant          -776   P-4560
+Kowalski       +465   P-3604
+Weber          -714   P-8653
+Baker          +460   P-6700
+Park           +229   P-2349
+
+Follow the credit belonging to the account that comes first alphabetically.

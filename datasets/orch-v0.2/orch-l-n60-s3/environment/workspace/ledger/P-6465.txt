@@ -1,0 +1,12 @@
+Ledger page P-6465
+
+account      amount   see page
+Fofana         -656   P-9193
+Baker          -856   P-9874
+Nakamura        +68   P-5121
+Weber          -617   P-5935
+Xu             +730   P-2900
+Rahman         +304   P-4346
+Eriksen        +650   P-6178
+
+Follow the entry with the largest debit (the most negative amount).

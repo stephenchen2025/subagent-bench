@@ -1,0 +1,10 @@
+Ledger page P-9976
+
+account      amount   see page
+Xu             +633   P-6684
+Umar           +431   P-6342
+Jensen         -457   P-6342
+Nakamura       -343   P-6151
+Osei           -306   P-2893
+
+Follow the entry with the largest debit (the most negative amount).

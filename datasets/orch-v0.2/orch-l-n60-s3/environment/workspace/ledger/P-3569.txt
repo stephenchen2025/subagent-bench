@@ -1,0 +1,11 @@
+Ledger page P-3569
+
+account      amount   see page
+Tanaka         +753   P-1254
+Quinn          -893   P-8793
+Grant            +7   P-4320
+Xu             -776   P-3368
+Lambert        -668   P-5991
+Zhou           -569   P-2856
+
+Follow the debit belonging to the account that comes last alphabetically.

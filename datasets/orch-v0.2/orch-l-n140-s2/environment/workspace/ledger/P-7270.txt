@@ -1,0 +1,10 @@
+Ledger page P-7270
+
+account      amount   see page
+Silva          -829   P-1221
+Quinn          -644   P-9669
+Tanaka         +558   P-5945
+Xu             -425   P-3780
+Rahman         +357   P-3628
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,11 @@
+Ledger page P-3453
+
+account      amount   see page
+Tanaka         -472   P-5186
+Park           +879   P-1547
+Osei           +602   P-6557
+Castillo       -899   P-1613
+Fofana          -48   P-9257
+Lambert        +670   P-9800
+
+Follow the entry with the second-largest amount.

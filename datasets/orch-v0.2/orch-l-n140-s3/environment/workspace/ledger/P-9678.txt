@@ -1,0 +1,11 @@
+Ledger page P-9678
+
+account      amount   see page
+Rahman         -178   P-7573
+Abbott         +185   P-8191
+Tanaka         -572   P-1851
+Grant          +781   P-4659
+Xu              -95   P-9935
+Jensen         -246   P-1375
+
+Follow the entry with the largest credit.

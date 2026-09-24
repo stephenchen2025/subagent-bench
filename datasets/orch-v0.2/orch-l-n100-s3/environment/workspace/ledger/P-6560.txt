@@ -1,0 +1,10 @@
+Ledger page P-6560
+
+account      amount   see page
+Kowalski       -892   P-6952
+Rahman         -335   P-7050
+Nakamura       +746   P-6774
+Tanaka         -266   P-6278
+Abbott         +550   P-2393
+
+Follow the entry whose amount is closest to zero.

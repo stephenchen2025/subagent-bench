@@ -1,0 +1,11 @@
+Ledger page P-1647
+
+account      amount   see page
+Jensen         -302   P-6871
+Xu             +484   P-3364
+Nakamura       -640   P-8919
+Weber          -362   P-2928
+Moreau          +94   P-1747
+Baker          +708   P-8173
+
+Follow the credit belonging to the account that comes first alphabetically.

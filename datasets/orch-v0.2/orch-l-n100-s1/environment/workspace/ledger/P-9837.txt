@@ -1,0 +1,11 @@
+Ledger page P-9837
+
+account      amount   see page
+Tanaka         +240   P-3373
+Rahman         +483   P-3877
+Dunn           -210   P-6207
+Hughes         -298   P-3307
+Fofana         -607   P-9044
+Grant          -201   P-1157
+
+Follow the entry with the largest credit.

@@ -1,0 +1,10 @@
+Ledger page P-9478
+
+account      amount   see page
+Osei           +262   P-1634
+Fofana         -390   P-6032
+Nakamura       -211   P-3698
+Quinn          -739   P-7970
+Park           -375   P-5961
+
+Follow the entry with the largest credit.

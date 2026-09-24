@@ -1,0 +1,12 @@
+Ledger page P-4631
+
+account      amount   see page
+Eriksen        -718   P-2630
+Grant          -110   P-1237
+Kowalski       +815   P-8657
+Jensen         +177   P-1198
+Tanaka         +172   P-6020
+Castillo       -207   P-6284
+Nakamura       +199   P-2426
+
+Follow the entry with the second-largest amount.

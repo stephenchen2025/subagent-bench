@@ -1,0 +1,12 @@
+Ledger page P-9022
+
+account      amount   see page
+Abbott         +333   P-9678
+Young          +610   P-7671
+Vance          +506   P-2006
+Dunn           -376   P-2232
+Xu             -741   P-2565
+Castillo       +486   P-2536
+Quinn          -581   P-9610
+
+Follow the entry with the largest debit (the most negative amount).

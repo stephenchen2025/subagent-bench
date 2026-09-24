@@ -1,0 +1,11 @@
+Ledger page P-8307
+
+account      amount   see page
+Grant          +293   P-3851
+Nakamura       -698   P-7845
+Quinn          -629   P-1713
+Young          -758   P-3706
+Park           -805   P-2277
+Baker          -863   P-7022
+
+Follow the entry with the largest credit.

@@ -1,0 +1,10 @@
+Ledger page P-3175
+
+account      amount   see page
+Fofana          +38   P-3978
+Lambert        -236   P-4808
+Baker          +147   P-8847
+Tanaka         +825   P-7335
+Rahman         -826   P-9201
+
+Follow the debit belonging to the account that comes last alphabetically.

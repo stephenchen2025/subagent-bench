@@ -1,0 +1,12 @@
+Ledger page P-6433
+
+account      amount   see page
+Xu             -704   P-4401
+Weber            -1   P-9847
+Jensen         +698   P-9045
+Castillo       +458   P-9920
+Young           -97   P-1649
+Quinn          -376   P-5894
+Tanaka         +465   P-3287
+
+Follow the entry with the largest credit.

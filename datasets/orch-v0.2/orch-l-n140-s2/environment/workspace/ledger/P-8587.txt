@@ -1,0 +1,10 @@
+Ledger page P-8587
+
+account      amount   see page
+Lambert         -68   P-8034
+Hughes         -151   P-3680
+Young          +649   P-3892
+Moreau         +273   P-2926
+Dunn           +795   P-2837
+
+Follow the debit belonging to the account that comes last alphabetically.

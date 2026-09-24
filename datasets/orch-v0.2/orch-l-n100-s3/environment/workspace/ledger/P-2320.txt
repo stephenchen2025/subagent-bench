@@ -1,0 +1,11 @@
+Ledger page P-2320
+
+account      amount   see page
+Moreau         -620   P-1315
+Tanaka         -514   P-3574
+Xu             +222   P-4178
+Castillo       +497   P-5428
+Eriksen        +245   P-9456
+Hughes         +414   P-1459
+
+Follow the entry with the second-largest amount.

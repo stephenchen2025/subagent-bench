@@ -1,0 +1,10 @@
+Ledger page P-9736
+
+account      amount   see page
+Park           -327   P-8627
+Fofana         +145   P-8308
+Quinn           +95   P-9815
+Tanaka         +649   P-3623
+Jensen         +861   P-4597
+
+Follow the entry with the second-largest amount.

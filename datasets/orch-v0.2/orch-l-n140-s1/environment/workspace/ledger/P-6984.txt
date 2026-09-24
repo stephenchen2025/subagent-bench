@@ -1,0 +1,12 @@
+Ledger page P-6984
+
+account      amount   see page
+Silva          -479   P-7653
+Lambert        +869   P-1521
+Quinn          -434   P-3990
+Young          +326   P-5535
+Moreau         +252   P-2678
+Ibarra         -553   P-7015
+Nakamura       -889   P-7148
+
+Follow the entry with the largest credit.

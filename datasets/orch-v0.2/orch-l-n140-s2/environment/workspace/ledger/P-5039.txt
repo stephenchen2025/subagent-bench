@@ -1,0 +1,12 @@
+Ledger page P-5039
+
+account      amount   see page
+Tanaka         -886   P-4237
+Fofana         +456   P-3026
+Young          -693   P-7862
+Lambert         +62   P-6587
+Park            +96   P-4806
+Grant          +118   P-2031
+Xu             +863   P-8629
+
+Follow the entry whose amount is closest to zero.

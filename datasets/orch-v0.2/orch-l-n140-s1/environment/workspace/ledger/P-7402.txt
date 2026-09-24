@@ -1,0 +1,12 @@
+Ledger page P-7402
+
+account      amount   see page
+Lambert        -204   P-7015
+Moreau         +798   P-6328
+Jensen         -371   P-2721
+Fofana         +438   P-1521
+Castillo       -140   P-5623
+Nakamura       -632   P-9791
+Zhou           -816   P-8816
+
+Follow the credit belonging to the account that comes first alphabetically.

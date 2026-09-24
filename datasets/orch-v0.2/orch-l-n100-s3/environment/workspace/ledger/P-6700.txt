@@ -1,0 +1,11 @@
+Ledger page P-6700
+
+account      amount   see page
+Nakamura       +331   P-1557
+Grant          -663   P-3982
+Moreau         +733   P-9081
+Tanaka         -398   P-6683
+Young          -544   P-1328
+Abbott          -47   P-3583
+
+Follow the entry with the largest credit.

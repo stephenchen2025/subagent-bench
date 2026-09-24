@@ -1,0 +1,11 @@
+Ledger page P-2366
+
+account      amount   see page
+Baker          -456   P-2998
+Kowalski       -747   P-1557
+Park           -152   P-6848
+Moreau         -656   P-6278
+Fofana         +162   P-9058
+Lambert        -361   P-5313
+
+Follow the entry with the largest credit.

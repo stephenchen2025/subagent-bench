@@ -1,0 +1,11 @@
+Ledger page P-7524
+
+account      amount   see page
+Zhou           +312   P-1088
+Baker          -174   P-8431
+Jensen          +36   P-7546
+Weber          +721   P-3489
+Fofana         -757   P-2067
+Abbott         +757   P-6153
+
+Follow the entry with the second-largest amount.

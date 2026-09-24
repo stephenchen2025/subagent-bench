@@ -1,0 +1,97 @@
+Ticket T-5855
+Customer: Samir Patel
+Orders on file: ORD-59003, ORD-33755, ORD-11699, ORD-31092
+Opened: 2026-04-02 via web form
+
+Order details:
+ORD-59003  placed 2026-01-02  status: label created  total: $297.01
+  payment method: card ending 6450  ship to: 849 Oak St
+  - mechanical keyboard x1
+  - extended warranty, 2 years x1
+  - microfiber cloth x3
+  - replacement filter cartridge, 3-pack x2
+ORD-33755  placed 2026-01-08  status: label created  total: $398.69
+  payment method: card ending 5521  ship to: 113 Mill Lane
+  - espresso grinder x1
+  - extended warranty, 2 years x1
+  - carabiner set x3
+  - travel pouch x1
+  - microfiber cloth x1
+ORD-11699  placed 2026-04-24  status: delivered  total: $443.14
+  payment method: card ending 5611  ship to: 500 Oak Lane
+  - camping stove x1
+  - gift wrap x3
+  - replacement filter cartridge, 3-pack x1
+  - stainless water bottle, 750ml x3
+ORD-31092  placed 2026-05-05  status: delivered  total: $89.26
+  payment method: card ending 3126  ship to: 132 Elm Rd
+  - mechanical keyboard x1
+  - extended warranty, 2 years x2
+  - spare battery pack x1
+  - microfiber cloth x1
+
+--- message 1 from Samir Patel ---
+The desk lamp from ORD-11699 arrived with a scratch on the side. Can I get a replacement? The box for ORD-33755 was a bit crushed but the contents were fine. I'm happy to send screenshots if that helps. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Samir Patel
+
+--- message 2 from Arjun (support) ---
+Screenshots aren't necessary, but thank you for offering. Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble. I've resent the confirmation email for ORD-59003 to the address on file.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Samir Patel ---
+I think I might have been charged twice for ORD-31092, but one of the lines on my credit union still says pending, so I'm not sure yet. My earlier order ORD-59003 arrived fine, no complaints there. The blender itself is great, for what it's worth.
+
+Samir Patel
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Arjun (support) ---
+If you need an invoice for ORD-59003, you can download it from the Orders page. I can see all the orders on your account, including ORD-59003. Tracking updates can lag by a day or two with this carrier.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Samir Patel ---
+Just checked again -- both charges for ORD-31092 are settled now, not pending. Could you also tell me whether ORD-59003 qualifies for the extended return window? Tracking for ORD-59003 hasn't updated since Tuesday.
+
+Samir Patel
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Arjun (support) ---
+I've resent the confirmation email for ORD-33755 to the address on file. Screenshots aren't necessary, but thank you for offering. Let me know if anything else looks off.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Arjun (support) ---
+Confirmed on our side -- ORD-31092 was captured twice by a retry in our checkout. One refund of $236.61 is on its way to you. I've resent the confirmation email for ORD-59003 to the address on file. Thanks for reaching out, and sorry for the trouble.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Samir Patel ---
+I'm happy to send screenshots if that helps. My earlier order ORD-11699 arrived fine, no complaints there. The confirmation email for ORD-33755 went to my spam folder, so I only just saw it.
+
+Thanks,
+Samir Patel
+Sent from my phone -- please excuse typos.
+
+--- message 9 from Samir Patel ---
+I'd rather not call; the hold times last time were very long. I changed my shipping address last month, so please double-check you have the new one. The yoga mat itself is great, for what it's worth. The box for ORD-11699 was a bit crushed but the contents were fine.
+
+Best regards,
+Samir Patel
+
+--- message 10 from Arjun (support) ---
+Thanks for reaching out, and sorry for the trouble. Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-59003 to the address on file. Screenshots aren't necessary, but thank you for offering.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,12 @@
+Ledger page P-8653
+
+account      amount   see page
+Kowalski       +338   P-1233
+Vance          +817   P-1320
+Grant          +397   P-6624
+Osei           +589   P-5491
+Dunn           -527   P-6641
+Xu              +90   P-5827
+Moreau         +886   P-1080
+
+Follow the entry with the second-largest amount.

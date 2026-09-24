@@ -1,0 +1,10 @@
+Ledger page P-5820
+
+account      amount   see page
+Quinn          +690   P-2098
+Fofana         +182   P-2228
+Young          +174   P-5739
+Rahman         -116   P-8428
+Eriksen        +215   P-2808
+
+Follow the entry whose amount is closest to zero.

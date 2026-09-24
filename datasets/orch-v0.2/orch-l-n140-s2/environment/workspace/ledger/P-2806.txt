@@ -1,0 +1,12 @@
+Ledger page P-2806
+
+account      amount   see page
+Tanaka         -606   P-6680
+Fofana         -791   P-3548
+Nakamura       -253   P-5438
+Abbott         +455   P-8335
+Young          -755   P-4002
+Weber          +335   P-6524
+Moreau         -339   P-5983
+
+Follow the entry whose amount is closest to zero.

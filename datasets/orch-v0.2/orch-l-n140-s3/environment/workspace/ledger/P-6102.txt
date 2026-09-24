@@ -1,0 +1,11 @@
+Ledger page P-6102
+
+account      amount   see page
+Grant          +833   P-8753
+Rahman         +519   P-4465
+Jensen          +63   P-1864
+Xu              +72   P-3049
+Baker          -366   P-8229
+Tanaka         -380   P-3733
+
+Follow the credit belonging to the account that comes first alphabetically.

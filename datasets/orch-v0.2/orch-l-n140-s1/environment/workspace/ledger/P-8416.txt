@@ -1,0 +1,11 @@
+Ledger page P-8416
+
+account      amount   see page
+Hughes         +762   P-3539
+Jensen         +560   P-9690
+Kowalski       +472   P-8129
+Eriksen        -615   P-2068
+Baker          -206   P-9774
+Abbott          +46   P-7524
+
+Follow the entry whose amount is closest to zero.

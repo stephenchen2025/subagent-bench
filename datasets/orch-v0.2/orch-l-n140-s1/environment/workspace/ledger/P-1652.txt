@@ -1,0 +1,11 @@
+Ledger page P-1652
+
+account      amount   see page
+Eriksen        -542   P-6153
+Umar           +655   P-4327
+Fofana         -544   P-2606
+Tanaka         +189   P-6606
+Park           -478   P-2708
+Zhou           +801   P-4588
+
+Follow the entry with the largest credit.

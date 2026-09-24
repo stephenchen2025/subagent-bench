@@ -1,0 +1,10 @@
+Ledger page P-3583
+
+account      amount   see page
+Hughes         -167   P-5823
+Fofana          +74   P-9657
+Moreau         +390   P-1423
+Weber           +25   P-7729
+Rahman         -651   P-3007
+
+Follow the credit belonging to the account that comes first alphabetically.

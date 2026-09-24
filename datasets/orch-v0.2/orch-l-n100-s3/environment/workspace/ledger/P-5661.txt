@@ -1,0 +1,12 @@
+Ledger page P-5661
+
+account      amount   see page
+Fofana          +60   P-1328
+Jensen         +346   P-2283
+Grant          -359   P-7729
+Ibarra          +67   P-5365
+Lambert        -459   P-1200
+Weber          +315   P-7882
+Tanaka         -409   P-6088
+
+Follow the entry with the second-largest amount.

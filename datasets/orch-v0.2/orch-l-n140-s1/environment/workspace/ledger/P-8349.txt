@@ -1,0 +1,10 @@
+Ledger page P-8349
+
+account      amount   see page
+Tanaka         -886   P-9282
+Hughes         -804   P-3690
+Xu             +446   P-6134
+Grant          -611   P-1075
+Nakamura       +546   P-1702
+
+Follow the debit belonging to the account that comes last alphabetically.

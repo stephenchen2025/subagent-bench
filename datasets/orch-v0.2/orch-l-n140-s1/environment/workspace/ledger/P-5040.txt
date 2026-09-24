@@ -1,0 +1,10 @@
+Ledger page P-5040
+
+account      amount   see page
+Quinn          -211   P-5550
+Jensen         +809   P-7037
+Hughes         -413   P-1247
+Kowalski       -441   P-4455
+Vance          +827   P-4553
+
+Follow the credit belonging to the account that comes first alphabetically.

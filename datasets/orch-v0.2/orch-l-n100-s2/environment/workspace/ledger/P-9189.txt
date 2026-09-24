@@ -1,0 +1,12 @@
+Ledger page P-9189
+
+account      amount   see page
+Park           +191   P-7353
+Eriksen        -689   P-7869
+Grant          +749   P-5753
+Hughes         -433   P-3608
+Baker          -688   P-7375
+Jensen          -52   P-3062
+Lambert        -476   P-4952
+
+Follow the entry with the largest credit.

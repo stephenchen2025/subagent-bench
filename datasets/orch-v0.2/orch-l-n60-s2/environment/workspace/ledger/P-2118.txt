@@ -1,0 +1,10 @@
+Ledger page P-2118
+
+account      amount   see page
+Hughes         +148   P-3727
+Zhou           -578   P-7231
+Ibarra          -44   P-4768
+Baker          -839   P-7572
+Osei           -490   P-8410
+
+Follow the entry with the largest credit.

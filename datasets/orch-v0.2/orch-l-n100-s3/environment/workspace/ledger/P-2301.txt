@@ -1,0 +1,11 @@
+Ledger page P-2301
+
+account      amount   see page
+Hughes         +298   P-7759
+Zhou           +362   P-4169
+Ibarra         -850   P-7663
+Rahman         -770   P-7050
+Umar           +452   P-9616
+Baker          +489   P-1634
+
+Follow the entry with the largest credit.

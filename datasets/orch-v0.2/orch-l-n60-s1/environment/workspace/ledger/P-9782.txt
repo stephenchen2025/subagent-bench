@@ -1,0 +1,11 @@
+Ledger page P-9782
+
+account      amount   see page
+Umar           -388   P-2957
+Quinn          -512   P-5880
+Zhou           +114   P-1261
+Osei           -870   P-6809
+Abbott         +176   P-9080
+Tanaka         +642   P-7893
+
+Follow the entry with the largest debit (the most negative amount).

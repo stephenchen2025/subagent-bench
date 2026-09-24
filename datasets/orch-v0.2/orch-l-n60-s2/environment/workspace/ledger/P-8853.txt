@@ -1,0 +1,12 @@
+Ledger page P-8853
+
+account      amount   see page
+Zhou           +277   P-8187
+Hughes         -597   P-3914
+Silva          +460   P-4422
+Kowalski       +563   P-6953
+Ibarra         +585   P-9511
+Xu             +571   P-4483
+Tanaka         +609   P-5014
+
+Follow the entry with the largest debit (the most negative amount).

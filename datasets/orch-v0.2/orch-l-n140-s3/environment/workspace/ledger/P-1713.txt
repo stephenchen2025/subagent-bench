@@ -1,0 +1,11 @@
+Ledger page P-1713
+
+account      amount   see page
+Eriksen        -281   P-9072
+Kowalski       -819   P-5128
+Quinn          +284   P-4493
+Xu             -342   P-7436
+Vance          -203   P-5679
+Lambert        +235   P-8445
+
+Follow the entry with the second-largest amount.

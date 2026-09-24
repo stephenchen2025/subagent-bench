@@ -1,0 +1,12 @@
+Ledger page P-8241
+
+account      amount   see page
+Silva          -887   P-8421
+Quinn          -300   P-4885
+Vance          -476   P-2620
+Lambert        -155   P-7714
+Rahman         -120   P-3690
+Ibarra          -47   P-3552
+Jensen         +464   P-3086
+
+Follow the entry whose amount is closest to zero.

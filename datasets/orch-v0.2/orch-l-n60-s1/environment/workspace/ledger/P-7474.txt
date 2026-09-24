@@ -1,0 +1,11 @@
+Ledger page P-7474
+
+account      amount   see page
+Baker          -122   P-3530
+Abbott         +343   P-3152
+Xu             +558   P-7502
+Rahman         -656   P-8817
+Zhou           +646   P-7893
+Weber          +625   P-5880
+
+Follow the debit belonging to the account that comes last alphabetically.

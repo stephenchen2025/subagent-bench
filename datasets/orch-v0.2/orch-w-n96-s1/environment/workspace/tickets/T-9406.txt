@@ -1,0 +1,60 @@
+Ticket T-9406
+Customer: Ben Carter
+Orders on file: ORD-28235, ORD-30480, ORD-74815, ORD-41806
+Opened: 2026-04-12 via email
+
+Order details:
+ORD-28235  placed 2026-08-01  status: delivered  total: $123.97
+  payment method: card ending 3563  ship to: 859 Elm Rd
+  - cast iron skillet x1
+  - USB-C charging cable (2m) x1
+  - extended warranty, 2 years x3
+  - stainless water bottle, 750ml x2
+  - microfiber cloth x1
+ORD-30480  placed 2026-01-26  status: returned  total: $166.81
+  payment method: card ending 4190  ship to: 590 Elm Lane
+  - yoga mat x1
+  - travel pouch x3
+  - stainless water bottle, 750ml x3
+  - microfiber cloth x2
+  - extended warranty, 2 years x1
+ORD-74815  placed 2026-02-17  status: in transit  total: $416.63
+  payment method: card ending 7625  ship to: 217 Elm Rd
+  - cast iron skillet x1
+  - gift wrap x3
+  - merino socks, size M x2
+  - stainless water bottle, 750ml x2
+  - travel pouch x3
+ORD-41806  placed 2026-04-14  status: returned  total: $380.43
+  payment method: card ending 9529  ship to: 900 Harbor Rd
+  - noise-cancelling headphones x1
+  - replacement filter cartridge, 3-pack x1
+  - USB-C charging cable (2m) x1
+  - spare battery pack x2
+  - extended warranty, 2 years x1
+
+--- message 1 from Ben Carter ---
+I need to change the delivery address for ORD-74815 before it ships. Tracking for ORD-74815 hasn't updated since Tuesday. Could you also tell me whether ORD-41806 qualifies for the extended return window? I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Ben Carter
+
+--- message 2 from Pete (support) ---
+Tracking updates can lag by a day or two with this carrier. I can see all the orders on your account, including ORD-28235. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-41806 left on schedule.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ben Carter ---
+Your app logged me out twice while I was looking at this, which didn't help. Is there a way to combine loyalty points from ORD-28235 with my next purchase? My partner placed ORD-74815 on our shared account, in case that matters. I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Ben Carter
+
+--- message 4 from Pete (support) ---
+Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble. Tracking updates can lag by a day or two with this carrier. I've updated your shipping address on file.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

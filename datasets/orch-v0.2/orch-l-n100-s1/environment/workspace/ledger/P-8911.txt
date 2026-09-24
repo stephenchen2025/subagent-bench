@@ -1,0 +1,11 @@
+Ledger page P-8911
+
+account      amount   see page
+Hughes         +572   P-3491
+Nakamura       +841   P-8082
+Weber          -857   P-6089
+Umar           -731   P-6361
+Ibarra         +133   P-5686
+Osei            -59   P-7202
+
+Follow the debit belonging to the account that comes last alphabetically.

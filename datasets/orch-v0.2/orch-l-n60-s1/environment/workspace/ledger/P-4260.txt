@@ -1,0 +1,11 @@
+Ledger page P-4260
+
+account      amount   see page
+Young          +229   P-1261
+Baker           -18   P-9322
+Xu             +154   P-5893
+Park           -745   P-5893
+Weber           -27   P-3653
+Silva          +167   P-2165
+
+Follow the entry whose amount is closest to zero.

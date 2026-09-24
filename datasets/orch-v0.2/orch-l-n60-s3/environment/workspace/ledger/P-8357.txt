@@ -1,0 +1,11 @@
+Ledger page P-8357
+
+account      amount   see page
+Moreau         -324   P-9769
+Lambert        +678   P-8890
+Young          -557   P-8953
+Silva          +451   P-3385
+Castillo       -145   P-3569
+Vance           +54   P-9986
+
+Follow the entry whose amount is closest to zero.

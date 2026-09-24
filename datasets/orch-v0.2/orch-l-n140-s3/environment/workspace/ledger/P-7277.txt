@@ -1,0 +1,10 @@
+Ledger page P-7277
+
+account      amount   see page
+Baker          -120   P-1557
+Fofana         +710   P-2253
+Weber          -453   P-4925
+Osei           -460   P-2917
+Xu             -748   P-3984
+
+Follow the credit belonging to the account that comes first alphabetically.

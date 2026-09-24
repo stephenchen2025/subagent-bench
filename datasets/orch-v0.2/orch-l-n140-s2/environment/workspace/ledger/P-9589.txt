@@ -1,0 +1,12 @@
+Ledger page P-9589
+
+account      amount   see page
+Rahman         -436   P-7488
+Ibarra          +24   P-2426
+Lambert        +676   P-3836
+Quinn          +777   P-9617
+Moreau         +268   P-7869
+Dunn           +281   P-2091
+Fofana         +826   P-9617
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,83 @@
+Ticket T-3744
+Customer: Samir Patel
+Orders on file: ORD-95349, ORD-51506, ORD-67200, ORD-11285
+Opened: 2026-06-17 via web form
+
+Order details:
+ORD-95349  placed 2026-08-14  status: delivered  total: $48.26
+  payment method: card ending 1280  ship to: 457 Oak St
+  - yoga mat x1
+  - travel pouch x2
+  - extended warranty, 2 years x3
+  - merino socks, size M x1
+ORD-51506  placed 2026-05-01  status: delivered  total: $297.82
+  payment method: card ending 2991  ship to: 65 Mill St
+  - noise-cancelling headphones x1
+  - travel pouch x1
+  - merino socks, size M x2
+ORD-67200  placed 2026-08-16  status: delivered  total: $352.89
+  payment method: card ending 6385  ship to: 296 Harbor Ave
+  - rain jacket x1
+  - stainless water bottle, 750ml x2
+  - carabiner set x2
+ORD-11285  placed 2026-07-05  status: delivered  total: $277.42
+  payment method: card ending 2633  ship to: 474 Harbor Ave
+  - espresso grinder x1
+  - extended warranty, 2 years x2
+  - stainless water bottle, 750ml x2
+  - travel pouch x1
+  - USB-C charging cable (2m) x1
+
+--- message 1 from Samir Patel ---
+I need to change the delivery address for ORD-67200 before it ships. I tried the chat widget first but it kept disconnecting. I changed my shipping address last month, so please double-check you have the new one. The confirmation email for ORD-11285 went to my spam folder, so I only just saw it.
+
+Thanks,
+Samir Patel
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Arjun (support) ---
+I can see all the orders on your account, including ORD-51506. Let me know if anything else looks off. If you need an invoice for ORD-51506, you can download it from the Orders page. Screenshots aren't necessary, but thank you for offering.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Samir Patel ---
+The checkout page for ORD-95349 timed out. If I try to pay again, will I end up being charged twice? My partner placed ORD-51506 on our shared account, in case that matters. Is there a way to combine loyalty points from ORD-51506 with my next purchase?
+
+Thanks,
+Samir Patel
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Arjun (support) ---
+Retrying is safe. Our system blocks a second capture on ORD-95349, so a double charge can't happen. I've updated your shipping address on file. If you need an invoice for ORD-51506, you can download it from the Orders page.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Samir Patel ---
+I've been a customer for a few years and usually everything goes smoothly. I'd rather not call; the hold times last time were very long. I tried the chat widget first but it kept disconnecting. My earlier order ORD-67200 arrived fine, no complaints there.
+
+Best regards,
+Samir Patel
+
+--- message 6 from Arjun (support) ---
+Our warehouse shows ORD-51506 left on schedule. Thanks for reaching out, and sorry for the trouble. I've resent the confirmation email for ORD-67200 to the address on file. I can see all the orders on your account, including ORD-51506.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Samir Patel ---
+My earlier order ORD-11285 arrived fine, no complaints there. Is there a way to combine loyalty points from ORD-11285 with my next purchase? The camping stove itself is great, for what it's worth. I'm happy to send screenshots if that helps.
+
+Best regards,
+Samir Patel
+
+--- message 8 from Arjun (support) ---
+Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering. For ORD-51506, the return window is 30 days from delivery. I've updated your shipping address on file.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,72 @@
+Ticket T-6620
+Customer: Ravi Iyer
+Orders on file: ORD-94374, ORD-23603, ORD-70933, ORD-96893
+Opened: 2026-07-10 via chat transcript
+
+Order details:
+ORD-94374  placed 2026-01-15  status: delivered  total: $73.71
+  payment method: card ending 6185  ship to: 225 Cedar Lane
+  - trail running shoes x1
+  - carabiner set x1
+  - stainless water bottle, 750ml x3
+  - gift wrap x3
+  - replacement filter cartridge, 3-pack x2
+ORD-23603  placed 2026-02-12  status: in transit  total: $164.86
+  payment method: card ending 8727  ship to: 565 Elm St
+  - carry-on suitcase x1
+  - stainless water bottle, 750ml x1
+  - USB-C charging cable (2m) x1
+  - replacement filter cartridge, 3-pack x3
+ORD-70933  placed 2026-07-16  status: in transit  total: $33.11
+  payment method: card ending 1933  ship to: 831 Mill Ave
+  - desk lamp x1
+  - spare battery pack x1
+  - carabiner set x3
+  - merino socks, size M x3
+ORD-96893  placed 2026-03-14  status: delivered  total: $166.00
+  payment method: card ending 9485  ship to: 400 Harbor Ave
+  - bike light set x1
+  - USB-C charging cable (2m) x2
+  - spare battery pack x1
+  - carabiner set x3
+  - extended warranty, 2 years x1
+
+--- message 1 from Ravi Iyer ---
+Where is my refund for ORD-94374? You said 5 days and it has been 8. The confirmation email for ORD-23603 went to my spam folder, so I only just saw it. I'm travelling next week, so email is the best way to reach me. Is there a way to combine loyalty points from ORD-96893 with my next purchase?
+
+Thanks,
+Ravi Iyer
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Arjun (support) ---
+Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-23603 to the address on file. Our warehouse shows ORD-23603 left on schedule.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ravi Iyer ---
+Unrelated, but the card app double-charged me at a coffee shop last week, so I'm checking every line carefully now. Anyway, my actual question is about delivery for ORD-70933. I'd rather not call; the hold times last time were very long. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Ravi Iyer
+
+--- message 4 from Arjun (support) ---
+Our warehouse shows ORD-94374 left on schedule. Tracking updates can lag by a day or two with this carrier. Loyalty points post about a week after an order is delivered.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Ravi Iyer ---
+I changed my shipping address last month, so please double-check you have the new one. Your app logged me out twice while I was looking at this, which didn't help. Tracking for ORD-94374 hasn't updated since Tuesday. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Ravi Iyer
+
+--- message 6 from Arjun (support) ---
+Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering. I've updated your shipping address on file. Our warehouse shows ORD-94374 left on schedule.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

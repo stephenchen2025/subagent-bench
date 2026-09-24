@@ -1,0 +1,11 @@
+Ledger page P-4962
+
+account      amount   see page
+Lambert        -596   P-1315
+Tanaka         -155   P-8335
+Dunn           -329   P-1614
+Castillo        +60   P-4937
+Park            -31   P-2044
+Quinn          +283   P-2977
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,10 @@
+Ledger page P-3785
+
+account      amount   see page
+Abbott         +728   P-5876
+Ibarra         +862   P-9765
+Hughes         +481   P-6600
+Vance          +395   P-9320
+Xu             -473   P-5813
+
+Follow the entry with the second-largest amount.

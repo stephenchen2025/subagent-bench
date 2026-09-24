@@ -1,0 +1,11 @@
+Ledger page P-8680
+
+account      amount   see page
+Fofana         +893   P-3452
+Quinn          +515   P-9887
+Abbott         +376   P-2376
+Dunn           +670   P-8747
+Xu             -182   P-3785
+Park           +865   P-3212
+
+Follow the entry with the largest credit.

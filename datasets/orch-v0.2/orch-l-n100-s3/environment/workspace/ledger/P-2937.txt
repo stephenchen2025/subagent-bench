@@ -1,0 +1,11 @@
+Ledger page P-2937
+
+account      amount   see page
+Osei           -377   P-5206
+Hughes         +367   P-8976
+Castillo       +255   P-5679
+Ibarra         +814   P-1605
+Quinn          +293   P-9621
+Kowalski       +645   P-1328
+
+Follow the entry with the largest debit (the most negative amount).

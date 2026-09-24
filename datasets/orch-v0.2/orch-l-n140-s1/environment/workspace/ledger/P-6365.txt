@@ -1,0 +1,12 @@
+Ledger page P-6365
+
+account      amount   see page
+Moreau         -129   P-3864
+Hughes         -484   P-6606
+Tanaka          -86   P-4455
+Silva          -779   P-4222
+Dunn           -578   P-2378
+Eriksen        -518   P-6133
+Fofana         +533   P-7198
+
+Follow the debit belonging to the account that comes last alphabetically.

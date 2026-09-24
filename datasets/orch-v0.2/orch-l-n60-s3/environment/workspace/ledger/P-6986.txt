@@ -1,0 +1,11 @@
+Ledger page P-6986
+
+account      amount   see page
+Hughes         +795   P-4346
+Baker          +878   P-4597
+Moreau          -73   P-9769
+Ibarra         +339   P-1373
+Dunn           -512   P-7021
+Osei           -692   P-8992
+
+Follow the debit belonging to the account that comes last alphabetically.

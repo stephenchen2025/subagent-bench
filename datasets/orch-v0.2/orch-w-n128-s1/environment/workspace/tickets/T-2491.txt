@@ -1,0 +1,66 @@
+Ticket T-2491
+Customer: Ines Duarte
+Orders on file: ORD-96800, ORD-25465, ORD-25538, ORD-32492
+Opened: 2026-01-20 via chat transcript
+
+Order details:
+ORD-96800  placed 2026-08-25  status: delivered  total: $36.15
+  payment method: card ending 1125  ship to: 168 Harbor St
+  - blender x1
+  - replacement filter cartridge, 3-pack x3
+  - gift wrap x2
+ORD-25465  placed 2026-05-18  status: delivered  total: $232.78
+  payment method: card ending 3487  ship to: 308 Oak Rd
+  - camping stove x1
+  - carabiner set x1
+  - merino socks, size M x2
+  - stainless water bottle, 750ml x3
+ORD-25538  placed 2026-03-26  status: returned  total: $192.45
+  payment method: card ending 5615  ship to: 708 Harbor St
+  - desk lamp x1
+  - USB-C charging cable (2m) x3
+  - carabiner set x2
+ORD-32492  placed 2026-03-25  status: returned  total: $419.11
+  payment method: card ending 2984  ship to: 453 Elm Lane
+  - bike light set x1
+  - replacement filter cartridge, 3-pack x1
+  - microfiber cloth x3
+
+--- message 1 from Ines Duarte ---
+Can I use a gift card on ORD-32492, or is it too late? I'm travelling next week, so email is the best way to reach me. I've been a customer for a few years and usually everything goes smoothly. My partner placed ORD-32492 on our shared account, in case that matters.
+
+Ines Duarte
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Rosa (support) ---
+Our warehouse shows ORD-96800 left on schedule. I can see all the orders on your account, including ORD-32492. Let me know if anything else looks off. Loyalty points post about a week after an order is delivered.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ines Duarte ---
+The noise-cancelling headphones itself is great, for what it's worth. I tried the chat widget first but it kept disconnecting. Tracking for ORD-25538 hasn't updated since Tuesday. I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Ines Duarte
+
+--- message 4 from Rosa (support) ---
+I've updated your shipping address on file. I've resent the confirmation email for ORD-96800 to the address on file. I can see all the orders on your account, including ORD-96800. If you need an invoice for ORD-32492, you can download it from the Orders page.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Ines Duarte ---
+Could you also tell me whether ORD-96800 qualifies for the extended return window? The confirmation email for ORD-96800 went to my spam folder, so I only just saw it. I'm happy to send screenshots if that helps. My partner placed ORD-32492 on our shared account, in case that matters.
+
+Best regards,
+Ines Duarte
+
+--- message 6 from Rosa (support) ---
+For ORD-25538, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context. If you need an invoice for ORD-25538, you can download it from the Orders page. Let me know if anything else looks off.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

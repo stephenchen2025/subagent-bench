@@ -1,0 +1,10 @@
+Ledger page P-4735
+
+account      amount   see page
+Eriksen        -542   P-6470
+Lambert         +75   P-2522
+Park           -277   P-2334
+Umar           +385   P-5669
+Zhou            +48   P-8502
+
+Follow the entry with the largest credit.

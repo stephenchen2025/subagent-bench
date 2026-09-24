@@ -1,0 +1,10 @@
+Ledger page P-5107
+
+account      amount   see page
+Abbott         -789   P-6899
+Moreau         -841   P-7256
+Rahman         -146   P-8959
+Park           -634   P-4891
+Lambert        +144   P-1725
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,11 @@
+Ledger page P-8145
+
+account      amount   see page
+Tanaka         +241   P-2703
+Baker          -215   P-7811
+Rahman         -523   P-7882
+Nakamura       -114   P-5999
+Quinn          -400   P-5429
+Xu             -127   P-7097
+
+Follow the entry with the largest debit (the most negative amount).

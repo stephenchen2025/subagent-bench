@@ -1,0 +1,11 @@
+Ledger page P-3491
+
+account      amount   see page
+Grant          -406   P-9053
+Eriksen        +315   P-2098
+Kowalski       +537   P-7621
+Silva          +610   P-3473
+Umar            -24   P-8170
+Rahman         +861   P-1720
+
+Follow the entry whose amount is closest to zero.

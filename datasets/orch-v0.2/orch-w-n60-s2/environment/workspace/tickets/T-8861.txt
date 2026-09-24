@@ -1,0 +1,99 @@
+Ticket T-8861
+Customer: Liam O'Neill
+Orders on file: ORD-55271, ORD-60148, ORD-15739, ORD-47075
+Opened: 2026-05-08 via email
+
+Order details:
+ORD-55271  placed 2026-03-01  status: label created  total: $255.28
+  payment method: card ending 1638  ship to: 441 Elm St
+  - carry-on suitcase x1
+  - carabiner set x1
+  - replacement filter cartridge, 3-pack x1
+  - gift wrap x2
+ORD-60148  placed 2026-03-17  status: delivered  total: $69.19
+  payment method: card ending 7138  ship to: 412 Mill Ave
+  - rain jacket x1
+  - replacement filter cartridge, 3-pack x2
+  - stainless water bottle, 750ml x1
+ORD-15739  placed 2026-07-11  status: in transit  total: $252.49
+  payment method: card ending 7332  ship to: 207 Oak Rd
+  - noise-cancelling headphones x1
+  - microfiber cloth x3
+  - travel pouch x2
+  - extended warranty, 2 years x2
+  - replacement filter cartridge, 3-pack x2
+ORD-47075  placed 2026-06-21  status: delivered  total: $353.86
+  payment method: card ending 4998  ship to: 906 Oak St
+  - standing desk x1
+  - replacement filter cartridge, 3-pack x2
+  - carabiner set x3
+  - merino socks, size M x2
+  - USB-C charging cable (2m) x2
+
+--- message 1 from Liam O'Neill ---
+Can I use a gift card on ORD-47075, or is it too late? Could you also tell me whether ORD-47075 qualifies for the extended return window? I'm travelling next week, so email is the best way to reach me. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Liam O'Neill
+
+--- message 2 from Dana (support) ---
+For ORD-60148, the return window is 30 days from delivery. I've updated your shipping address on file. Tracking updates can lag by a day or two with this carrier. Loyalty points post about a week after an order is delivered.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Liam O'Neill ---
+I was billed twice for ORD-55271 -- same amount, same day. Your app logged me out twice while I was looking at this, which didn't help. The box for ORD-15739 was a bit crushed but the contents were fine.
+
+Thanks,
+Liam O'Neill
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Dana (support) ---
+If you need an invoice for ORD-60148, you can download it from the Orders page. Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Dana (support) ---
+I looked into ORD-55271: the second line is a pre-authorization hold from when the first card attempt was declined. It was never captured and it's already been released, so you were only charged once. Tracking updates can lag by a day or two with this carrier. I've resent the confirmation email for ORD-15739 to the address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Liam O'Neill ---
+The confirmation email for ORD-47075 went to my spam folder, so I only just saw it. My partner placed ORD-60148 on our shared account, in case that matters. I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Liam O'Neill
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Liam O'Neill ---
+Oh, you're right -- I checked my statement this morning and the second line is gone. Only one charge. Sorry for the false alarm! Could you also tell me whether ORD-60148 qualifies for the extended return window? Is there a way to combine loyalty points from ORD-60148 with my next purchase?
+
+Liam O'Neill
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Dana (support) ---
+Our warehouse shows ORD-47075 left on schedule. I've updated your shipping address on file. Screenshots aren't necessary, but thank you for offering.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Liam O'Neill ---
+The box for ORD-15739 was a bit crushed but the contents were fine. My partner placed ORD-15739 on our shared account, in case that matters. Could you also tell me whether ORD-47075 qualifies for the extended return window? I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Liam O'Neill
+Sent from my phone -- please excuse typos.
+
+--- message 10 from Dana (support) ---
+Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-15739, you can download it from the Orders page. Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

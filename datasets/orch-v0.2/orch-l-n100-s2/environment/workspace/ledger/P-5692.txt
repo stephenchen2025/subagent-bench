@@ -1,0 +1,12 @@
+Ledger page P-5692
+
+account      amount   see page
+Tanaka         +872   P-1747
+Jensen         -288   P-2868
+Hughes          -12   P-1195
+Castillo       -155   P-1522
+Xu             -340   P-9746
+Baker          -664   P-9675
+Lambert        -145   P-3834
+
+Follow the entry with the largest debit (the most negative amount).

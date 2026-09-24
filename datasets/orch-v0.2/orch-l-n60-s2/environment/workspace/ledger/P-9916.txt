@@ -1,0 +1,10 @@
+Ledger page P-9916
+
+account      amount   see page
+Castillo       +309   P-8097
+Nakamura       -262   P-7905
+Zhou           +362   P-5223
+Park           -321   P-5473
+Fofana         +131   P-9773
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,11 @@
+Ledger page P-7766
+
+account      amount   see page
+Ibarra         -633   P-9761
+Vance          -171   P-4878
+Weber           -42   P-4613
+Fofana         -103   P-1234
+Baker          +403   P-4346
+Grant          +688   P-3477
+
+Follow the entry with the largest credit.

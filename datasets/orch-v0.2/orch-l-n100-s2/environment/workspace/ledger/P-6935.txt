@@ -1,0 +1,10 @@
+Ledger page P-6935
+
+account      amount   see page
+Umar           +146   P-5753
+Kowalski        -53   P-6871
+Park           +436   P-6166
+Zhou           +168   P-6525
+Nakamura        +39   P-9065
+
+Follow the entry with the largest credit.

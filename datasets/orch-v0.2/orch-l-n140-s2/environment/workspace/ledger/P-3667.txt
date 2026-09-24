@@ -1,0 +1,10 @@
+Ledger page P-3667
+
+account      amount   see page
+Lambert         +36   P-3721
+Tanaka         -797   P-7729
+Hughes         +101   P-5027
+Abbott         -677   P-4644
+Eriksen        -263   P-2245
+
+Follow the debit belonging to the account that comes last alphabetically.

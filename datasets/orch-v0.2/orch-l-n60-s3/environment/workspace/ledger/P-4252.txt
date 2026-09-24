@@ -1,0 +1,10 @@
+Ledger page P-4252
+
+account      amount   see page
+Osei           -479   P-9652
+Weber          +326   P-4613
+Abbott         -178   P-8992
+Ibarra         -811   P-7021
+Fofana         -588   P-5103
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,11 @@
+Ledger page P-1779
+
+account      amount   see page
+Eriksen         -55   P-8023
+Nakamura       +746   P-4567
+Park           +101   P-1634
+Kowalski       +114   P-6234
+Hughes         +171   P-1211
+Castillo        +50   P-9056
+
+Follow the debit belonging to the account that comes last alphabetically.

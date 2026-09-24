@@ -1,0 +1,11 @@
+Ledger page P-3386
+
+account      amount   see page
+Jensen         -262   P-7436
+Umar           +865   P-5846
+Eriksen        -287   P-9697
+Zhou            -16   P-6796
+Weber           -33   P-9148
+Moreau         -479   P-8499
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,12 @@
+Ledger page P-1660
+
+account      amount   see page
+Fofana         -342   P-4213
+Park           -858   P-8509
+Umar           -502   P-3791
+Weber          +484   P-8896
+Dunn            +31   P-8463
+Tanaka         -282   P-5874
+Zhou           +259   P-7842
+
+Follow the credit belonging to the account that comes first alphabetically.

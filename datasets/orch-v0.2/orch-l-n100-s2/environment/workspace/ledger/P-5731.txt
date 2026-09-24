@@ -1,0 +1,11 @@
+Ledger page P-5731
+
+account      amount   see page
+Rahman         +419   P-8300
+Quinn          -482   P-8834
+Lambert        -205   P-2777
+Young           +63   P-6166
+Umar           -786   P-2884
+Abbott         +117   P-5560
+
+Follow the credit belonging to the account that comes first alphabetically.

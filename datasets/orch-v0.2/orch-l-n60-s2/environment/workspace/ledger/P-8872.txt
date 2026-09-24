@@ -1,0 +1,10 @@
+Ledger page P-8872
+
+account      amount   see page
+Fofana         +827   P-2355
+Silva          -453   P-9719
+Lambert        +679   P-7391
+Castillo       -167   P-8289
+Jensen         -333   P-7865
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,10 @@
+Ledger page P-6600
+
+account      amount   see page
+Castillo       +787   P-3629
+Dunn           +688   P-3933
+Nakamura       +325   P-6665
+Vance          -801   P-5458
+Jensen         -544   P-4334
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,55 @@
+Ticket T-1520
+Customer: Yuki Tanaka
+Orders on file: ORD-93377, ORD-45776, ORD-57999, ORD-64708
+Opened: 2026-08-21 via chat transcript
+
+Order details:
+ORD-93377  placed 2026-05-17  status: delivered  total: $332.73
+  payment method: card ending 7264  ship to: 853 Oak Rd
+  - desk lamp x1
+  - spare battery pack x1
+  - microfiber cloth x1
+ORD-45776  placed 2026-03-03  status: returned  total: $398.41
+  payment method: card ending 9914  ship to: 820 Mill St
+  - cast iron skillet x1
+  - extended warranty, 2 years x3
+  - USB-C charging cable (2m) x1
+  - carabiner set x3
+ORD-57999  placed 2026-05-28  status: delivered  total: $276.57
+  payment method: card ending 4612  ship to: 231 Cedar Ave
+  - carry-on suitcase x1
+  - gift wrap x3
+  - spare battery pack x2
+ORD-64708  placed 2026-06-06  status: returned  total: $381.65
+  payment method: card ending 3634  ship to: 995 Harbor Lane
+  - desk lamp x1
+  - carabiner set x3
+  - replacement filter cartridge, 3-pack x1
+  - extended warranty, 2 years x2
+
+--- message 1 from Yuki Tanaka ---
+Where is my refund for ORD-45776? You said 5 days and it has been 8. I changed my shipping address last month, so please double-check you have the new one. I tried the chat widget first but it kept disconnecting. The box for ORD-45776 was a bit crushed but the contents were fine.
+
+Best regards,
+Yuki Tanaka
+
+--- message 2 from Arjun (support) ---
+I've resent the confirmation email for ORD-64708 to the address on file. Let me know if anything else looks off. If you need an invoice for ORD-45776, you can download it from the Orders page. I can see all the orders on your account, including ORD-45776.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Yuki Tanaka ---
+I've been a customer for a few years and usually everything goes smoothly. My partner placed ORD-64708 on our shared account, in case that matters. I'm happy to send screenshots if that helps. My earlier order ORD-45776 arrived fine, no complaints there.
+
+Thanks,
+Yuki Tanaka
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Arjun (support) ---
+I've resent the confirmation email for ORD-57999 to the address on file. I can see all the orders on your account, including ORD-45776. Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

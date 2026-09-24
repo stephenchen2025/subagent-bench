@@ -1,0 +1,11 @@
+Ledger page P-1460
+
+account      amount   see page
+Nakamura       +376   P-3475
+Zhou           -286   P-9312
+Xu             -651   P-9980
+Abbott         +187   P-2006
+Park           +471   P-9588
+Dunn           -292   P-4479
+
+Follow the debit belonging to the account that comes last alphabetically.

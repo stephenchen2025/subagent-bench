@@ -1,0 +1,12 @@
+Ledger page P-1707
+
+account      amount   see page
+Abbott         +617   P-4906
+Moreau         -544   P-6511
+Castillo       -669   P-6376
+Eriksen        -855   P-1570
+Jensen         +365   P-3515
+Silva          +129   P-9574
+Tanaka         -325   P-3849
+
+Follow the entry with the second-largest amount.

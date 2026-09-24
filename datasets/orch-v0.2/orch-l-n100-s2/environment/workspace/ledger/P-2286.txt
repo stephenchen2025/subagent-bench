@@ -1,0 +1,10 @@
+Ledger page P-2286
+
+account      amount   see page
+Silva          -639   P-4635
+Vance          -880   P-4234
+Weber          -617   P-2046
+Jensen          -96   P-1211
+Rahman         +851   P-5516
+
+Follow the entry with the largest debit (the most negative amount).

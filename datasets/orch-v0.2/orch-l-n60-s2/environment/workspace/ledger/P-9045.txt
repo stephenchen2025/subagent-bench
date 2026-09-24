@@ -1,0 +1,11 @@
+Ledger page P-9045
+
+account      amount   see page
+Kowalski       -714   P-2847
+Dunn           -441   P-8485
+Moreau         -237   P-4891
+Tanaka         +765   P-3271
+Silva          -360   P-7369
+Park           +213   P-6962
+
+Follow the entry with the largest credit.

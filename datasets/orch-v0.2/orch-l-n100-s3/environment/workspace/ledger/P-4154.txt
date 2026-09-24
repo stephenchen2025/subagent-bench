@@ -1,0 +1,10 @@
+Ledger page P-4154
+
+account      amount   see page
+Fofana         +339   P-3982
+Vance          +695   P-4261
+Young          -541   P-7724
+Eriksen        -635   P-2188
+Rahman         +149   P-7663
+
+Follow the debit belonging to the account that comes last alphabetically.

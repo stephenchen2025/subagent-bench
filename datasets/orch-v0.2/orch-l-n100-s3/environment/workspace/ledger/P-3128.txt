@@ -1,0 +1,12 @@
+Ledger page P-3128
+
+account      amount   see page
+Castillo       -807   P-6398
+Dunn           +449   P-2780
+Grant           +43   P-8816
+Fofana         -383   P-2320
+Umar           +221   P-6605
+Osei           +844   P-6298
+Quinn          +212   P-2184
+
+Follow the entry with the second-largest amount.

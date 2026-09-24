@@ -1,0 +1,10 @@
+Ledger page P-5722
+
+account      amount   see page
+Grant          -450   P-1841
+Baker          -301   P-5938
+Quinn          +767   P-3258
+Weber          +309   P-8735
+Park           +480   P-1132
+
+Follow the entry with the largest credit.

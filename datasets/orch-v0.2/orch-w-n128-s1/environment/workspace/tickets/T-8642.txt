@@ -1,0 +1,94 @@
+Ticket T-8642
+Customer: Mateo Silva
+Orders on file: ORD-67221, ORD-63690, ORD-67367, ORD-82198
+Opened: 2026-05-28 via email
+
+Order details:
+ORD-67221  placed 2026-04-24  status: delivered  total: $340.42
+  payment method: card ending 7987  ship to: 140 Mill Rd
+  - yoga mat x1
+  - gift wrap x1
+  - spare battery pack x2
+ORD-63690  placed 2026-04-23  status: delivered  total: $267.23
+  payment method: card ending 4103  ship to: 100 Mill Rd
+  - bike light set x1
+  - travel pouch x2
+  - USB-C charging cable (2m) x3
+ORD-67367  placed 2026-07-27  status: delivered  total: $242.67
+  payment method: card ending 2629  ship to: 733 Elm St
+  - bike light set x1
+  - carabiner set x2
+  - gift wrap x3
+ORD-82198  placed 2026-02-06  status: returned  total: $49.53
+  payment method: card ending 4368  ship to: 533 Elm Ave
+  - noise-cancelling headphones x1
+  - spare battery pack x3
+  - gift wrap x1
+  - microfiber cloth x3
+  - replacement filter cartridge, 3-pack x3
+
+--- message 1 from Mateo Silva ---
+I need to change the delivery address for ORD-82198 before it ships. Tracking for ORD-63690 hasn't updated since Tuesday. My partner placed ORD-67367 on our shared account, in case that matters. Could you also tell me whether ORD-67367 qualifies for the extended return window?
+
+Best regards,
+Mateo Silva
+
+--- message 2 from Luis (support) ---
+Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-82198 left on schedule. I've added a note to your account so the next agent has the context. I can see all the orders on your account, including ORD-63690.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Mateo Silva ---
+The payment for ORD-67221 went through, and then about an hour later it went through again. The box for ORD-63690 was a bit crushed but the contents were fine. Tracking for ORD-63690 hasn't updated since Tuesday.
+
+Thanks,
+Mateo Silva
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Luis (support) ---
+Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-82198 left on schedule. Thanks for reaching out, and sorry for the trouble.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Luis (support) ---
+Good news: only one payment for ORD-67221 ever settled. The other entry was a temporary hold and your bank has dropped it. Our warehouse shows ORD-67367 left on schedule. Screenshots aren't necessary, but thank you for offering.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Mateo Silva ---
+I changed my shipping address last month, so please double-check you have the new one. Your app logged me out twice while I was looking at this, which didn't help. My earlier order ORD-82198 arrived fine, no complaints there.
+
+Best regards,
+Mateo Silva
+
+--- message 7 from Mateo Silva ---
+Thanks, I see it now: one payment for ORD-67221, the other one disappeared. All good. Your app logged me out twice while I was looking at this, which didn't help. The confirmation email for ORD-67367 went to my spam folder, so I only just saw it.
+
+Best regards,
+Mateo Silva
+
+--- message 8 from Luis (support) ---
+I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-63690 to the address on file. If you need an invoice for ORD-67367, you can download it from the Orders page.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Mateo Silva ---
+I've been a customer for a few years and usually everything goes smoothly. The yoga mat itself is great, for what it's worth. The confirmation email for ORD-82198 went to my spam folder, so I only just saw it. My partner placed ORD-82198 on our shared account, in case that matters.
+
+Best regards,
+Mateo Silva
+
+--- message 10 from Luis (support) ---
+I can see all the orders on your account, including ORD-82198. For ORD-67367, the return window is 30 days from delivery. Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

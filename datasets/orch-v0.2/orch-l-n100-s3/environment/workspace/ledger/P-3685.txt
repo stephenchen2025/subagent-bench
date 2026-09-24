@@ -1,0 +1,11 @@
+Ledger page P-3685
+
+account      amount   see page
+Ibarra         +835   P-9608
+Xu             +330   P-6253
+Lambert        -807   P-6858
+Rahman         -145   P-2010
+Tanaka         +528   P-9452
+Moreau         -126   P-2797
+
+Follow the entry with the second-largest amount.

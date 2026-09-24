@@ -1,0 +1,11 @@
+Ledger page P-5441
+
+account      amount   see page
+Osei            -97   P-3152
+Park           -858   P-7614
+Umar           -862   P-3672
+Xu             -894   P-3814
+Kowalski       +679   P-4490
+Tanaka         -456   P-9917
+
+Follow the debit belonging to the account that comes last alphabetically.

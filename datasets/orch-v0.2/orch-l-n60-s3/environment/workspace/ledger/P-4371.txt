@@ -1,0 +1,10 @@
+Ledger page P-4371
+
+account      amount   see page
+Dunn           +795   P-2277
+Fofana         -802   P-7635
+Hughes         +479   P-8308
+Rahman         -619   P-5485
+Weber          -347   P-7021
+
+Follow the entry with the second-largest amount.

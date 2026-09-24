@@ -1,0 +1,72 @@
+Ticket T-7013
+Customer: Hana Sato
+Orders on file: ORD-16331, ORD-82210, ORD-46343, ORD-99052
+Opened: 2026-03-12 via email
+
+Order details:
+ORD-16331  placed 2026-01-26  status: returned  total: $359.44
+  payment method: card ending 9363  ship to: 454 Elm Lane
+  - wool blanket x1
+  - stainless water bottle, 750ml x2
+  - USB-C charging cable (2m) x2
+  - merino socks, size M x1
+  - replacement filter cartridge, 3-pack x3
+ORD-82210  placed 2026-04-18  status: in transit  total: $121.87
+  payment method: card ending 3195  ship to: 907 Oak Ave
+  - desk lamp x1
+  - microfiber cloth x2
+  - travel pouch x1
+  - spare battery pack x3
+ORD-46343  placed 2026-04-15  status: in transit  total: $321.76
+  payment method: card ending 5410  ship to: 923 Mill Ave
+  - cast iron skillet x1
+  - gift wrap x1
+  - carabiner set x2
+  - extended warranty, 2 years x3
+ORD-99052  placed 2026-04-04  status: label created  total: $84.50
+  payment method: card ending 6710  ship to: 72 Mill Lane
+  - wool blanket x1
+  - carabiner set x3
+  - merino socks, size M x2
+  - gift wrap x1
+  - stainless water bottle, 750ml x1
+
+--- message 1 from Hana Sato ---
+Can I use a gift card on ORD-46343, or is it too late? I changed my shipping address last month, so please double-check you have the new one. My earlier order ORD-46343 arrived fine, no complaints there. My partner placed ORD-82210 on our shared account, in case that matters.
+
+Thanks,
+Hana Sato
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Keiko (support) ---
+For ORD-82210, the return window is 30 days from delivery. I can see all the orders on your account, including ORD-82210. I've updated your shipping address on file. Let me know if anything else looks off.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Hana Sato ---
+Unrelated, but my bank double-charged me at a coffee shop last week, so I'm checking every line carefully now. Anyway, my actual question is about delivery for ORD-16331. I changed my shipping address last month, so please double-check you have the new one. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Hana Sato
+
+--- message 4 from Keiko (support) ---
+For ORD-46343, the return window is 30 days from delivery. If you need an invoice for ORD-99052, you can download it from the Orders page. I've resent the confirmation email for ORD-46343 to the address on file.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Hana Sato ---
+My earlier order ORD-46343 arrived fine, no complaints there. I changed my shipping address last month, so please double-check you have the new one. The box for ORD-82210 was a bit crushed but the contents were fine. Tracking for ORD-46343 hasn't updated since Tuesday.
+
+Best regards,
+Hana Sato
+
+--- message 6 from Keiko (support) ---
+Screenshots aren't necessary, but thank you for offering. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-82210 left on schedule. Thanks for reaching out, and sorry for the trouble.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

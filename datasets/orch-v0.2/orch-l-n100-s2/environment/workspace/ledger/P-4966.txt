@@ -1,0 +1,12 @@
+Ledger page P-4966
+
+account      amount   see page
+Weber           +57   P-9976
+Vance          -682   P-8255
+Eriksen        +534   P-5287
+Grant          -486   P-9478
+Ibarra          +28   P-9568
+Quinn           -63   P-1863
+Hughes         +478   P-7889
+
+Follow the entry whose amount is closest to zero.

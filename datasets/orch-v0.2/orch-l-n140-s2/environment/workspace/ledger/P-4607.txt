@@ -1,0 +1,12 @@
+Ledger page P-4607
+
+account      amount   see page
+Weber          +830   P-1757
+Zhou            +27   P-7869
+Dunn           +867   P-3828
+Fofana         +611   P-6680
+Park           +742   P-8629
+Young          -399   P-2304
+Moreau         -675   P-3235
+
+Follow the entry with the largest debit (the most negative amount).

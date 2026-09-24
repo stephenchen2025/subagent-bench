@@ -1,0 +1,10 @@
+Ledger page P-4118
+
+account      amount   see page
+Kowalski       -873   P-2859
+Jensen         +596   P-5700
+Zhou           +158   P-6399
+Abbott         +566   P-4479
+Silva          -747   P-2109
+
+Follow the entry with the largest credit.

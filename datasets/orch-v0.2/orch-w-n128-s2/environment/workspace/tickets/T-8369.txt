@@ -1,0 +1,76 @@
+Ticket T-8369
+Customer: Yuki Tanaka
+Orders on file: ORD-83547, ORD-84334, ORD-41174, ORD-32938
+Opened: 2026-04-20 via chat transcript
+
+Order details:
+ORD-83547  placed 2026-01-09  status: in transit  total: $239.84
+  payment method: card ending 6373  ship to: 519 Elm Lane
+  - blender x1
+  - spare battery pack x2
+  - replacement filter cartridge, 3-pack x2
+  - microfiber cloth x2
+ORD-84334  placed 2026-06-25  status: label created  total: $463.41
+  payment method: card ending 2863  ship to: 167 Elm St
+  - wool blanket x1
+  - travel pouch x1
+  - microfiber cloth x2
+  - stainless water bottle, 750ml x1
+ORD-41174  placed 2026-05-11  status: delivered  total: $123.54
+  payment method: card ending 4631  ship to: 597 Cedar Ave
+  - carry-on suitcase x1
+  - microfiber cloth x3
+  - extended warranty, 2 years x1
+  - carabiner set x3
+  - replacement filter cartridge, 3-pack x3
+ORD-32938  placed 2026-01-28  status: returned  total: $291.36
+  payment method: card ending 2521  ship to: 615 Elm St
+  - noise-cancelling headphones x1
+  - stainless water bottle, 750ml x2
+  - USB-C charging cable (2m) x3
+
+--- message 1 from Yuki Tanaka ---
+Where is my refund for ORD-32938? You said 5 days and it has been 8. My partner placed ORD-41174 on our shared account, in case that matters. I changed my shipping address last month, so please double-check you have the new one. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Yuki Tanaka
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Marcus (support) ---
+Our warehouse shows ORD-84334 left on schedule. Thanks for reaching out, and sorry for the trouble. Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Yuki Tanaka ---
+Before I retry the payment on ORD-83547 -- is there any risk of a double charge? The espresso grinder itself is great, for what it's worth. My partner placed ORD-84334 on our shared account, in case that matters.
+
+Best regards,
+Yuki Tanaka
+
+--- message 4 from Marcus (support) ---
+Retrying is safe. Our system blocks a second capture on ORD-83547, so a double charge can't happen. Our warehouse shows ORD-32938 left on schedule. For ORD-32938, the return window is 30 days from delivery.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Yuki Tanaka ---
+The mechanical keyboard itself is great, for what it's worth. My earlier order ORD-41174 arrived fine, no complaints there. I've been a customer for a few years and usually everything goes smoothly.
+
+Yuki Tanaka
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Yuki Tanaka ---
+The bike light set itself is great, for what it's worth. My earlier order ORD-32938 arrived fine, no complaints there. I've been a customer for a few years and usually everything goes smoothly. I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Yuki Tanaka
+
+--- message 7 from Marcus (support) ---
+I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-84334 to the address on file. For ORD-41174, the return window is 30 days from delivery. I've updated your shipping address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

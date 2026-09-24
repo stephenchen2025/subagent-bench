@@ -1,0 +1,10 @@
+Ledger page P-4343
+
+account      amount   see page
+Nakamura       -140   P-4656
+Osei           +660   P-1184
+Park           +235   P-5901
+Tanaka         +123   P-1460
+Xu              -77   P-2665
+
+Follow the entry with the second-largest amount.

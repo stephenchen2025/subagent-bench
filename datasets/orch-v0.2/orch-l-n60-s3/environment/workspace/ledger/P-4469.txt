@@ -1,0 +1,10 @@
+Ledger page P-4469
+
+account      amount   see page
+Lambert        -745   P-9544
+Vance          -579   P-1781
+Nakamura        +85   P-1234
+Park           +396   P-1253
+Rahman         -490   P-4546
+
+Follow the entry with the largest debit (the most negative amount).

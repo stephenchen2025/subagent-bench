@@ -1,0 +1,11 @@
+Ledger page P-6783
+
+account      amount   see page
+Dunn           -597   P-1502
+Young          -875   P-9874
+Tanaka         -444   P-1627
+Eriksen        -785   P-4898
+Osei            +39   P-5907
+Castillo       +426   P-9874
+
+Follow the entry with the second-largest amount.

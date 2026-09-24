@@ -1,0 +1,68 @@
+Ticket T-1836
+Customer: Elena Petrova
+Orders on file: ORD-25861, ORD-70175, ORD-32220, ORD-93042
+Opened: 2026-04-19 via web form
+
+Order details:
+ORD-25861  placed 2026-02-26  status: delivered  total: $429.42
+  payment method: card ending 9193  ship to: 725 Oak St
+  - rain jacket x1
+  - replacement filter cartridge, 3-pack x2
+  - microfiber cloth x3
+ORD-70175  placed 2026-04-12  status: in transit  total: $83.53
+  payment method: card ending 8986  ship to: 622 Oak St
+  - trail running shoes x1
+  - stainless water bottle, 750ml x3
+  - travel pouch x3
+ORD-32220  placed 2026-08-09  status: returned  total: $178.68
+  payment method: card ending 3694  ship to: 272 Oak St
+  - yoga mat x1
+  - gift wrap x3
+  - USB-C charging cable (2m) x1
+  - carabiner set x3
+ORD-93042  placed 2026-08-07  status: in transit  total: $269.31
+  payment method: card ending 4539  ship to: 819 Oak St
+  - desk lamp x1
+  - stainless water bottle, 750ml x1
+  - spare battery pack x3
+  - gift wrap x1
+  - carabiner set x3
+
+--- message 1 from Elena Petrova ---
+How do I reset my password? The reset link keeps expiring. My partner placed ORD-32220 on our shared account, in case that matters. I've been a customer for a few years and usually everything goes smoothly. I changed my shipping address last month, so please double-check you have the new one.
+
+Elena Petrova
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Dana (support) ---
+Tracking updates can lag by a day or two with this carrier. Thanks for reaching out, and sorry for the trouble. For ORD-93042, the return window is 30 days from delivery. I can see all the orders on your account, including ORD-25861.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Elena Petrova ---
+The box for ORD-25861 was a bit crushed but the contents were fine. I'd rather not call; the hold times last time were very long. Tracking for ORD-93042 hasn't updated since Tuesday. I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Elena Petrova
+
+--- message 4 from Dana (support) ---
+If you need an invoice for ORD-25861, you can download it from the Orders page. Thanks for reaching out, and sorry for the trouble. For ORD-25861, the return window is 30 days from delivery. I've updated your shipping address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Elena Petrova ---
+The box for ORD-32220 was a bit crushed but the contents were fine. My partner placed ORD-25861 on our shared account, in case that matters. Tracking for ORD-25861 hasn't updated since Tuesday. Your app logged me out twice while I was looking at this, which didn't help.
+
+Best regards,
+Elena Petrova
+
+--- message 6 from Dana (support) ---
+Tracking updates can lag by a day or two with this carrier. I can see all the orders on your account, including ORD-25861. I've updated your shipping address on file. Let me know if anything else looks off.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

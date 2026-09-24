@@ -1,0 +1,11 @@
+Ledger page P-3749
+
+account      amount   see page
+Park           -273   P-2338
+Tanaka         +129   P-9796
+Baker          -408   P-9840
+Eriksen        +608   P-5028
+Vance          +488   P-1088
+Dunn           +356   P-7937
+
+Follow the debit belonging to the account that comes last alphabetically.

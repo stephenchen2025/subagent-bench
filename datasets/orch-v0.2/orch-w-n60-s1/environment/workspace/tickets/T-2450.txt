@@ -1,0 +1,71 @@
+Ticket T-2450
+Customer: Avery Lin
+Orders on file: ORD-88060, ORD-76248, ORD-94251, ORD-80821
+Opened: 2026-06-24 via web form
+
+Order details:
+ORD-88060  placed 2026-04-20  status: delivered  total: $151.12
+  payment method: card ending 2977  ship to: 911 Harbor Lane
+  - desk lamp x1
+  - replacement filter cartridge, 3-pack x3
+  - travel pouch x3
+  - carabiner set x2
+  - microfiber cloth x3
+ORD-76248  placed 2026-02-20  status: delivered  total: $293.26
+  payment method: card ending 8956  ship to: 912 Oak Rd
+  - blender x1
+  - microfiber cloth x1
+  - extended warranty, 2 years x3
+  - stainless water bottle, 750ml x1
+  - USB-C charging cable (2m) x1
+ORD-94251  placed 2026-01-09  status: label created  total: $119.97
+  payment method: card ending 8848  ship to: 402 Mill Lane
+  - bike light set x1
+  - stainless water bottle, 750ml x2
+  - extended warranty, 2 years x1
+ORD-80821  placed 2026-04-27  status: delivered  total: $326.53
+  payment method: card ending 9308  ship to: 217 Oak Ave
+  - carry-on suitcase x1
+  - USB-C charging cable (2m) x1
+  - spare battery pack x3
+  - extended warranty, 2 years x3
+
+--- message 1 from Avery Lin ---
+Can I use a gift card on ORD-76248, or is it too late? The box for ORD-88060 was a bit crushed but the contents were fine. I tried the chat widget first but it kept disconnecting. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Avery Lin
+
+--- message 2 from Luis (support) ---
+Our warehouse shows ORD-94251 left on schedule. Screenshots aren't necessary, but thank you for offering. Let me know if anything else looks off. For ORD-76248, the return window is 30 days from delivery.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Avery Lin ---
+I got two receipts for ORD-80821, and both amounts actually left my account. Your app logged me out twice while I was looking at this, which didn't help. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Avery Lin
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Luis (support) ---
+Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-88060. I've resent the confirmation email for ORD-94251 to the address on file.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Avery Lin ---
+The confirmation email for ORD-88060 went to my spam folder, so I only just saw it. My partner placed ORD-94251 on our shared account, in case that matters. I'd rather not call; the hold times last time were very long. Could you also tell me whether ORD-76248 qualifies for the extended return window?
+
+Best regards,
+Avery Lin
+
+--- message 6 from Luis (support) ---
+I've updated your shipping address on file. Let me know if anything else looks off. Loyalty points post about a week after an order is delivered. For ORD-88060, the return window is 30 days from delivery.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,11 @@
+Ledger page P-6581
+
+account      amount   see page
+Young           +29   P-2991
+Weber          +290   P-2191
+Umar           -558   P-7037
+Eriksen        +216   P-5761
+Silva          -422   P-4853
+Tanaka          -37   P-5676
+
+Follow the entry with the largest credit.

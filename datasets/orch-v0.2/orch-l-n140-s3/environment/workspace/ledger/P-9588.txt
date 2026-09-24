@@ -1,0 +1,12 @@
+Ledger page P-9588
+
+account      amount   see page
+Vance          -795   P-3655
+Moreau         -195   P-8308
+Hughes         -654   P-4717
+Quinn          +510   P-5655
+Ibarra         +511   P-5698
+Xu             -617   P-4809
+Nakamura       -328   P-1963
+
+Follow the credit belonging to the account that comes first alphabetically.

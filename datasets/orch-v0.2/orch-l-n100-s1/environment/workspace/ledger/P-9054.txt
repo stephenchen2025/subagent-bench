@@ -1,0 +1,10 @@
+Ledger page P-9054
+
+account      amount   see page
+Ibarra         -135   P-7418
+Kowalski       +600   P-2228
+Dunn           +625   P-7202
+Nakamura       -699   P-2776
+Jensen         +669   P-3449
+
+Follow the entry with the largest debit (the most negative amount).

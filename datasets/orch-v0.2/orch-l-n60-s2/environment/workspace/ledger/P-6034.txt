@@ -1,0 +1,12 @@
+Ledger page P-6034
+
+account      amount   see page
+Hughes         -247   P-4622
+Ibarra         -883   P-4429
+Nakamura       -580   P-2847
+Grant          +491   P-9573
+Jensen         -115   P-2847
+Fofana         +441   P-4891
+Young          -564   P-7464
+
+Follow the debit belonging to the account that comes last alphabetically.

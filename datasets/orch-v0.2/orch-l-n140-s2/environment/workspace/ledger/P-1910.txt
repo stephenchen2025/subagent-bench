@@ -1,0 +1,12 @@
+Ledger page P-1910
+
+account      amount   see page
+Vance          -111   P-4564
+Ibarra         +673   P-9669
+Quinn          +806   P-5751
+Abbott         +725   P-8506
+Kowalski       -680   P-3721
+Rahman         +495   P-5706
+Silva           -61   P-4479
+
+Follow the credit belonging to the account that comes first alphabetically.

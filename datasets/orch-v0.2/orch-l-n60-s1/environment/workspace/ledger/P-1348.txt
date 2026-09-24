@@ -1,0 +1,11 @@
+Ledger page P-1348
+
+account      amount   see page
+Rahman          -25   P-4912
+Xu              -54   P-5594
+Ibarra         +420   P-1567
+Eriksen        +623   P-6151
+Quinn          +323   P-5261
+Lambert        +772   P-4912
+
+Follow the entry whose amount is closest to zero.

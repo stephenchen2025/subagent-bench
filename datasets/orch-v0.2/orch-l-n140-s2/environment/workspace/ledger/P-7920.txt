@@ -1,0 +1,12 @@
+Ledger page P-7920
+
+account      amount   see page
+Umar           -665   P-7984
+Castillo       -127   P-1713
+Xu              -29   P-9072
+Ibarra         -284   P-3501
+Kowalski       +409   P-7086
+Vance          -899   P-7793
+Weber          +355   P-5389
+
+Follow the debit belonging to the account that comes last alphabetically.

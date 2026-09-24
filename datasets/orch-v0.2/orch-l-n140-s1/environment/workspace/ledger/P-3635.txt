@@ -1,0 +1,11 @@
+Ledger page P-3635
+
+account      amount   see page
+Hughes         -582   P-4113
+Baker          -108   P-9066
+Eriksen         -28   P-6950
+Osei           -112   P-6183
+Quinn          +121   P-3721
+Lambert         +20   P-2156
+
+Follow the credit belonging to the account that comes first alphabetically.

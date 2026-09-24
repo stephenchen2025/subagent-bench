@@ -1,0 +1,10 @@
+Ledger page P-6361
+
+account      amount   see page
+Moreau          -20   P-7949
+Zhou           -105   P-2116
+Eriksen        +499   P-1589
+Grant          +756   P-5209
+Jensen         +589   P-5938
+
+Follow the credit belonging to the account that comes first alphabetically.

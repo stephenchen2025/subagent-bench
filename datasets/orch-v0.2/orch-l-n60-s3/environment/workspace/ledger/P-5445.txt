@@ -1,0 +1,12 @@
+Ledger page P-5445
+
+account      amount   see page
+Castillo       +851   P-8194
+Osei           -478   P-9753
+Kowalski       +459   P-9584
+Hughes         +112   P-2533
+Xu             +799   P-6981
+Park           +842   P-6959
+Grant           -75   P-2618
+
+Follow the debit belonging to the account that comes last alphabetically.

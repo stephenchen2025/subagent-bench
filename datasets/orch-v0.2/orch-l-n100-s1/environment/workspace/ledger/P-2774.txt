@@ -1,0 +1,10 @@
+Ledger page P-2774
+
+account      amount   see page
+Fofana         +223   P-2039
+Young          -710   P-3351
+Nakamura       -805   P-9337
+Silva          +456   P-5938
+Osei           -259   P-7949
+
+Follow the debit belonging to the account that comes last alphabetically.

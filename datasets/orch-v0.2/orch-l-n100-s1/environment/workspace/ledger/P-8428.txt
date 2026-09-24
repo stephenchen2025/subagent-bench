@@ -1,0 +1,10 @@
+Ledger page P-8428
+
+account      amount   see page
+Kowalski       +867   P-9044
+Zhou            +59   P-5686
+Lambert        -246   P-6361
+Silva           +36   P-8620
+Quinn          +151   P-3473
+
+Follow the entry whose amount is closest to zero.

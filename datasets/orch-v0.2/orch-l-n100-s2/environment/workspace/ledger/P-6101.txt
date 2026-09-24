@@ -1,0 +1,12 @@
+Ledger page P-6101
+
+account      amount   see page
+Silva          +726   P-1462
+Zhou           -534   P-9587
+Dunn            -91   P-2989
+Weber           +46   P-9090
+Baker          -717   P-3006
+Eriksen        +710   P-6954
+Rahman         -223   P-1552
+
+Follow the credit belonging to the account that comes first alphabetically.

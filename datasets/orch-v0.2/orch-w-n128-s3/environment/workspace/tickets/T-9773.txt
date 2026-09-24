@@ -1,0 +1,56 @@
+Ticket T-9773
+Customer: Noah Fischer
+Orders on file: ORD-90104, ORD-78816, ORD-17390, ORD-22391
+Opened: 2026-02-15 via web form
+
+Order details:
+ORD-90104  placed 2026-08-27  status: returned  total: $402.41
+  payment method: card ending 1142  ship to: 960 Mill Ave
+  - trail running shoes x1
+  - USB-C charging cable (2m) x1
+  - travel pouch x2
+  - microfiber cloth x1
+  - spare battery pack x2
+ORD-78816  placed 2026-04-22  status: delivered  total: $243.15
+  payment method: card ending 2597  ship to: 411 Oak Ave
+  - yoga mat x1
+  - merino socks, size M x3
+  - spare battery pack x3
+ORD-17390  placed 2026-01-16  status: delivered  total: $325.94
+  payment method: card ending 8432  ship to: 592 Harbor St
+  - carry-on suitcase x1
+  - USB-C charging cable (2m) x2
+  - spare battery pack x3
+  - microfiber cloth x1
+ORD-22391  placed 2026-04-02  status: returned  total: $370.10
+  payment method: card ending 1907  ship to: 929 Elm Lane
+  - desk lamp x1
+  - replacement filter cartridge, 3-pack x2
+  - microfiber cloth x3
+  - gift wrap x3
+
+--- message 1 from Noah Fischer ---
+Can I use a gift card on ORD-90104, or is it too late? I'm happy to send screenshots if that helps. Could you also tell me whether ORD-90104 qualifies for the extended return window? Is there a way to combine loyalty points from ORD-90104 with my next purchase?
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Marcus (support) ---
+Tracking updates can lag by a day or two with this carrier. I've resent the confirmation email for ORD-17390 to the address on file. I can see all the orders on your account, including ORD-17390. I've updated your shipping address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Noah Fischer ---
+Could you also tell me whether ORD-17390 qualifies for the extended return window? The water filter pitcher itself is great, for what it's worth. I'd rather not call; the hold times last time were very long. I changed my shipping address last month, so please double-check you have the new one.
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Marcus (support) ---
+Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off. I can see all the orders on your account, including ORD-78816. If you need an invoice for ORD-17390, you can download it from the Orders page.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

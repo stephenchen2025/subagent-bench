@@ -1,0 +1,11 @@
+Ledger page P-9137
+
+account      amount   see page
+Lambert         -57   P-5602
+Nakamura       +561   P-6136
+Vance          -476   P-8145
+Umar           -116   P-5661
+Quinn          -564   P-8170
+Osei           -266   P-2295
+
+Follow the entry with the largest credit.

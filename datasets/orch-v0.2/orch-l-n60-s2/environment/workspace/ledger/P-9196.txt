@@ -1,0 +1,12 @@
+Ledger page P-9196
+
+account      amount   see page
+Kowalski       +830   P-6996
+Eriksen        +569   P-3340
+Rahman         +702   P-8872
+Nakamura       +598   P-7339
+Umar           -862   P-6512
+Osei           -268   P-4426
+Silva          -607   P-3368
+
+Follow the debit belonging to the account that comes last alphabetically.

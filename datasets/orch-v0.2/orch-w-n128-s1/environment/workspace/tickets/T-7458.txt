@@ -1,0 +1,93 @@
+Ticket T-7458
+Customer: Aisha Karim
+Orders on file: ORD-45320, ORD-48499, ORD-65568, ORD-54791
+Opened: 2026-05-11 via web form
+
+Order details:
+ORD-45320  placed 2026-07-26  status: delivered  total: $467.54
+  payment method: card ending 8923  ship to: 798 Cedar Lane
+  - blender x1
+  - stainless water bottle, 750ml x2
+  - spare battery pack x1
+  - merino socks, size M x2
+ORD-48499  placed 2026-05-07  status: returned  total: $414.67
+  payment method: card ending 6363  ship to: 332 Mill Lane
+  - carry-on suitcase x1
+  - extended warranty, 2 years x1
+  - merino socks, size M x2
+  - stainless water bottle, 750ml x1
+ORD-65568  placed 2026-01-24  status: delivered  total: $127.38
+  payment method: card ending 7937  ship to: 800 Elm Rd
+  - blender x1
+  - gift wrap x2
+  - extended warranty, 2 years x2
+ORD-54791  placed 2026-02-15  status: label created  total: $259.96
+  payment method: card ending 4898  ship to: 655 Oak Ave
+  - carry-on suitcase x1
+  - carabiner set x3
+  - USB-C charging cable (2m) x1
+
+--- message 1 from Aisha Karim ---
+The blender from ORD-48499 arrived with a scratch on the side. Can I get a replacement? Your app logged me out twice while I was looking at this, which didn't help. Is there a way to combine loyalty points from ORD-48499 with my next purchase? The box for ORD-65568 was a bit crushed but the contents were fine.
+
+Aisha Karim
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Marcus (support) ---
+Let me know if anything else looks off. I've resent the confirmation email for ORD-65568 to the address on file. I've updated your shipping address on file. I can see all the orders on your account, including ORD-48499.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Aisha Karim ---
+I think I might have been charged twice for ORD-54791, but one of the lines on the card app still says pending, so I'm not sure yet. I'd rather not call; the hold times last time were very long. The rain jacket itself is great, for what it's worth.
+
+Aisha Karim
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Marcus (support) ---
+I can see all the orders on your account, including ORD-48499. I've resent the confirmation email for ORD-48499 to the address on file. For ORD-48499, the return window is 30 days from delivery.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Aisha Karim ---
+Just checked again -- both charges for ORD-54791 are settled now, not pending. My partner placed ORD-45320 on our shared account, in case that matters. I changed my shipping address last month, so please double-check you have the new one.
+
+Aisha Karim
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Marcus (support) ---
+Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-45320.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Marcus (support) ---
+Confirmed on our side -- ORD-54791 was captured twice by a retry in our checkout. One refund of $436.09 is on its way to you. I've resent the confirmation email for ORD-65568 to the address on file. I've updated your shipping address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Aisha Karim ---
+I changed my shipping address last month, so please double-check you have the new one. The box for ORD-48499 was a bit crushed but the contents were fine. I'm happy to send screenshots if that helps.
+
+Best regards,
+Aisha Karim
+
+--- message 9 from Aisha Karim ---
+Tracking for ORD-48499 hasn't updated since Tuesday. I tried the chat widget first but it kept disconnecting. The box for ORD-45320 was a bit crushed but the contents were fine. My earlier order ORD-48499 arrived fine, no complaints there.
+
+Aisha Karim
+(Please reply by email rather than phone if possible.)
+
+--- message 10 from Marcus (support) ---
+For ORD-65568, the return window is 30 days from delivery. I've updated your shipping address on file. Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

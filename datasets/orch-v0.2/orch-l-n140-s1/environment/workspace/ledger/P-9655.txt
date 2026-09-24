@@ -1,0 +1,12 @@
+Ledger page P-9655
+
+account      amount   see page
+Fofana          +86   P-3456
+Young          +362   P-8428
+Osei           +880   P-1903
+Quinn          +717   P-2880
+Xu             +636   P-6280
+Tanaka         -269   P-9694
+Silva          -449   P-5570
+
+Follow the credit belonging to the account that comes first alphabetically.

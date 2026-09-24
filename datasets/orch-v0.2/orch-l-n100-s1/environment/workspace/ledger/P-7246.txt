@@ -1,0 +1,12 @@
+Ledger page P-7246
+
+account      amount   see page
+Dunn           -409   P-9713
+Vance          -669   P-9887
+Quinn          -419   P-4381
+Abbott         -435   P-1853
+Lambert         +62   P-4157
+Nakamura       +794   P-6196
+Kowalski       +611   P-5973
+
+Follow the debit belonging to the account that comes last alphabetically.

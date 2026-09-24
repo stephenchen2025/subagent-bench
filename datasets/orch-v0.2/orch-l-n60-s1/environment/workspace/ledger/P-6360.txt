@@ -1,0 +1,11 @@
+Ledger page P-6360
+
+account      amount   see page
+Moreau           +6   P-3659
+Zhou           +303   P-6264
+Baker          +269   P-8846
+Ibarra          +48   P-6639
+Xu             -630   P-9917
+Eriksen        +788   P-7774
+
+Follow the debit belonging to the account that comes last alphabetically.

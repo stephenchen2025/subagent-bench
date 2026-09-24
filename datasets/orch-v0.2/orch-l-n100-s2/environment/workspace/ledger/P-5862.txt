@@ -1,0 +1,12 @@
+Ledger page P-5862
+
+account      amount   see page
+Zhou           +334   P-1544
+Xu             +655   P-1287
+Jensen         -450   P-3960
+Osei           -369   P-6572
+Castillo       +256   P-1544
+Park           +599   P-1552
+Dunn            +52   P-1235
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,11 @@
+Ledger page P-4105
+
+account      amount   see page
+Kowalski       -710   P-4826
+Park             +5   P-7086
+Silva          -846   P-4151
+Vance          -813   P-3768
+Ibarra          -78   P-1614
+Tanaka         -539   P-4202
+
+Follow the entry with the largest debit (the most negative amount).

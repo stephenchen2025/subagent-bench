@@ -1,0 +1,10 @@
+Ledger page P-2687
+
+account      amount   see page
+Xu             -433   P-5215
+Vance          -458   P-5815
+Baker          -116   P-6211
+Lambert        -243   P-6163
+Zhou            +47   P-4680
+
+Follow the debit belonging to the account that comes last alphabetically.

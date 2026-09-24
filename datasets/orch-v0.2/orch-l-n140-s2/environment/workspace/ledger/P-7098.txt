@@ -1,0 +1,11 @@
+Ledger page P-7098
+
+account      amount   see page
+Zhou           +382   P-7768
+Weber          +755   P-9669
+Nakamura       +614   P-8864
+Fofana         +171   P-1611
+Xu             -119   P-8300
+Grant          -667   P-7869
+
+Follow the entry whose amount is closest to zero.

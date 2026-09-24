@@ -1,0 +1,10 @@
+Ledger page P-4824
+
+account      amount   see page
+Jensen         +209   P-3163
+Osei           -133   P-6586
+Tanaka         -164   P-1570
+Kowalski       -567   P-9589
+Nakamura       -661   P-8088
+
+Follow the debit belonging to the account that comes last alphabetically.

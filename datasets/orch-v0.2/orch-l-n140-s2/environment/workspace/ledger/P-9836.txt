@@ -1,0 +1,11 @@
+Ledger page P-9836
+
+account      amount   see page
+Abbott         -871   P-6762
+Umar           -242   P-3821
+Nakamura       +451   P-4906
+Grant          +231   P-1575
+Kowalski        -26   P-6936
+Moreau         -286   P-1831
+
+Follow the debit belonging to the account that comes last alphabetically.

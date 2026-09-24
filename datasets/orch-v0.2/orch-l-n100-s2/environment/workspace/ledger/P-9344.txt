@@ -1,0 +1,10 @@
+Ledger page P-9344
+
+account      amount   see page
+Grant           +47   P-8857
+Moreau         -802   P-3078
+Osei            +82   P-5132
+Castillo       +860   P-8845
+Tanaka         -271   P-3072
+
+Follow the entry with the largest credit.

@@ -1,0 +1,11 @@
+Ledger page P-6232
+
+account      amount   see page
+Young          +149   P-7324
+Vance          -292   P-7300
+Nakamura       -434   P-1831
+Tanaka         -236   P-7488
+Osei           -591   P-4465
+Zhou           -703   P-5337
+
+Follow the debit belonging to the account that comes last alphabetically.

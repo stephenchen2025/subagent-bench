@@ -1,0 +1,10 @@
+Ledger page P-9956
+
+account      amount   see page
+Baker          +226   P-4727
+Eriksen        -817   P-9227
+Osei           -819   P-1372
+Rahman         +859   P-2480
+Jensen          +90   P-9431
+
+Follow the debit belonging to the account that comes last alphabetically.

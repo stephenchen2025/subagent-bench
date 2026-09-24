@@ -1,0 +1,82 @@
+Ticket T-9813
+Customer: Noah Fischer
+Orders on file: ORD-37545, ORD-41784, ORD-27403, ORD-90123
+Opened: 2026-04-04 via chat transcript
+
+Order details:
+ORD-37545  placed 2026-04-17  status: label created  total: $64.14
+  payment method: card ending 3108  ship to: 427 Cedar Rd
+  - espresso grinder x1
+  - gift wrap x1
+  - carabiner set x3
+ORD-41784  placed 2026-05-21  status: delivered  total: $324.99
+  payment method: card ending 9732  ship to: 573 Oak Lane
+  - yoga mat x1
+  - stainless water bottle, 750ml x2
+  - carabiner set x2
+ORD-27403  placed 2026-08-26  status: delivered  total: $313.93
+  payment method: card ending 9546  ship to: 177 Cedar St
+  - rain jacket x1
+  - gift wrap x1
+  - carabiner set x2
+  - microfiber cloth x2
+  - spare battery pack x3
+ORD-90123  placed 2026-04-12  status: label created  total: $465.88
+  payment method: card ending 7074  ship to: 907 Elm Ave
+  - desk lamp x1
+  - gift wrap x1
+  - travel pouch x3
+
+--- message 1 from Noah Fischer ---
+Can I use a gift card on ORD-37545, or is it too late? My partner placed ORD-27403 on our shared account, in case that matters. I've been a customer for a few years and usually everything goes smoothly. Is there a way to combine loyalty points from ORD-90123 with my next purchase?
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Dana (support) ---
+For ORD-27403, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context. Loyalty points post about a week after an order is delivered. I've updated your shipping address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Noah Fischer ---
+The checkout page for ORD-41784 timed out. If I try to pay again, will I end up being charged twice? I'd rather not call; the hold times last time were very long. My partner placed ORD-37545 on our shared account, in case that matters.
+
+Best regards,
+Noah Fischer
+
+--- message 4 from Dana (support) ---
+Let me know if anything else looks off. If you need an invoice for ORD-90123, you can download it from the Orders page. Loyalty points post about a week after an order is delivered.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Dana (support) ---
+No, you won't be charged twice: the first attempt for ORD-41784 failed before capture, so retrying is safe. Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-27403 left on schedule.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Noah Fischer ---
+I'm travelling next week, so email is the best way to reach me. I tried the chat widget first but it kept disconnecting. My partner placed ORD-37545 on our shared account, in case that matters.
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Noah Fischer ---
+I tried the chat widget first but it kept disconnecting. Tracking for ORD-27403 hasn't updated since Tuesday. I changed my shipping address last month, so please double-check you have the new one. The confirmation email for ORD-90123 went to my spam folder, so I only just saw it.
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Dana (support) ---
+Our warehouse shows ORD-27403 left on schedule. Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble. I've updated your shipping address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

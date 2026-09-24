@@ -1,0 +1,56 @@
+Ticket T-3934
+Customer: Priya Raman
+Orders on file: ORD-15499, ORD-95208, ORD-50097, ORD-15486
+Opened: 2026-05-03 via chat transcript
+
+Order details:
+ORD-15499  placed 2026-08-20  status: delivered  total: $372.57
+  payment method: card ending 7728  ship to: 952 Mill St
+  - water filter pitcher x1
+  - extended warranty, 2 years x1
+  - spare battery pack x1
+ORD-95208  placed 2026-06-23  status: returned  total: $234.82
+  payment method: card ending 9380  ship to: 495 Harbor Ave
+  - bike light set x1
+  - extended warranty, 2 years x2
+  - spare battery pack x2
+  - carabiner set x3
+  - microfiber cloth x1
+ORD-50097  placed 2026-02-15  status: returned  total: $19.99
+  payment method: card ending 7635  ship to: 174 Cedar Lane
+  - yoga mat x1
+  - replacement filter cartridge, 3-pack x2
+  - carabiner set x2
+  - merino socks, size M x1
+ORD-15486  placed 2026-05-11  status: returned  total: $107.03
+  payment method: card ending 4204  ship to: 434 Harbor Ave
+  - blender x1
+  - replacement filter cartridge, 3-pack x3
+  - merino socks, size M x3
+  - extended warranty, 2 years x1
+
+--- message 1 from Priya Raman ---
+Where is my refund for ORD-15499? You said 5 days and it has been 8. I tried the chat widget first but it kept disconnecting. I changed my shipping address last month, so please double-check you have the new one. Your app logged me out twice while I was looking at this, which didn't help.
+
+Best regards,
+Priya Raman
+
+--- message 2 from Keiko (support) ---
+Our warehouse shows ORD-95208 left on schedule. I've updated your shipping address on file. I've resent the confirmation email for ORD-15486 to the address on file. For ORD-95208, the return window is 30 days from delivery.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Priya Raman ---
+I'm happy to send screenshots if that helps. The box for ORD-95208 was a bit crushed but the contents were fine. I tried the chat widget first but it kept disconnecting. The confirmation email for ORD-15499 went to my spam folder, so I only just saw it.
+
+Best regards,
+Priya Raman
+
+--- message 4 from Keiko (support) ---
+Loyalty points post about a week after an order is delivered. Let me know if anything else looks off. I've updated your shipping address on file. If you need an invoice for ORD-15499, you can download it from the Orders page.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

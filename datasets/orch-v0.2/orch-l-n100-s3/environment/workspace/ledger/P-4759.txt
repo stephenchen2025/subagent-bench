@@ -1,0 +1,10 @@
+Ledger page P-4759
+
+account      amount   see page
+Zhou            +96   P-2366
+Fofana         -232   P-3009
+Kowalski       -387   P-4254
+Lambert        -493   P-9426
+Osei           +761   P-7404
+
+Follow the credit belonging to the account that comes first alphabetically.

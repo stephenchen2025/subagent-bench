@@ -1,0 +1,11 @@
+Ledger page P-2235
+
+account      amount   see page
+Zhou           -228   P-1521
+Park            +53   P-2702
+Weber           -44   P-6512
+Grant          +301   P-5040
+Castillo       -168   P-6171
+Fofana         -717   P-7333
+
+Follow the credit belonging to the account that comes first alphabetically.

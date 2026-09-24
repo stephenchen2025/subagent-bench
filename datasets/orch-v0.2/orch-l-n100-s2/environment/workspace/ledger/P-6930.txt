@@ -1,0 +1,10 @@
+Ledger page P-6930
+
+account      amount   see page
+Vance          -218   P-2046
+Ibarra         -373   P-4952
+Young          -462   P-4056
+Umar           +898   P-9632
+Abbott         -789   P-5132
+
+Follow the debit belonging to the account that comes last alphabetically.

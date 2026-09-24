@@ -1,0 +1,11 @@
+Ledger page P-1747
+
+account      amount   see page
+Park           +122   P-6318
+Castillo       +623   P-1821
+Quinn          -258   P-6064
+Jensen         +739   P-6194
+Kowalski       +622   P-5961
+Dunn           +886   P-1522
+
+Follow the entry whose amount is closest to zero.

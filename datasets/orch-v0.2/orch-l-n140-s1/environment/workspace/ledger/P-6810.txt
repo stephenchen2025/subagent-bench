@@ -1,0 +1,10 @@
+Ledger page P-6810
+
+account      amount   see page
+Grant          -288   P-4730
+Baker           +81   P-3864
+Ibarra         +502   P-4075
+Jensen         +529   P-4271
+Umar           -275   P-3005
+
+Follow the entry with the largest debit (the most negative amount).

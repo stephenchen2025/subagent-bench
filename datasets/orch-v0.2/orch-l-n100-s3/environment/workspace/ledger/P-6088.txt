@@ -1,0 +1,10 @@
+Ledger page P-6088
+
+account      amount   see page
+Weber          -409   P-6513
+Jensen         +778   P-1547
+Moreau         -329   P-7729
+Young          +815   P-1613
+Hughes         -821   P-7783
+
+Follow the entry with the largest credit.

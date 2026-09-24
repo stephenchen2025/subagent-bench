@@ -1,0 +1,12 @@
+Ledger page P-1851
+
+account      amount   see page
+Abbott         +659   P-5443
+Jensen         -671   P-7347
+Castillo       +680   P-6901
+Rahman         -574   P-7597
+Grant          +713   P-3282
+Tanaka         +709   P-7047
+Zhou           +697   P-9346
+
+Follow the entry with the largest debit (the most negative amount).

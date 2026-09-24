@@ -1,0 +1,11 @@
+Ledger page P-7987
+
+account      amount   see page
+Silva          +522   P-7775
+Ibarra         -135   P-4266
+Eriksen        +868   P-4535
+Xu             -333   P-2973
+Zhou           +383   P-1575
+Moreau         -568   P-6683
+
+Follow the entry with the largest debit (the most negative amount).

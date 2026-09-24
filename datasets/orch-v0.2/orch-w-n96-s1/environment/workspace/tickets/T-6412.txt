@@ -1,0 +1,70 @@
+Ticket T-6412
+Customer: Mateo Silva
+Orders on file: ORD-33302, ORD-65364, ORD-31379, ORD-57813
+Opened: 2026-04-06 via chat transcript
+
+Order details:
+ORD-33302  placed 2026-01-14  status: delivered  total: $370.03
+  payment method: card ending 7319  ship to: 287 Mill St
+  - noise-cancelling headphones x1
+  - replacement filter cartridge, 3-pack x3
+  - spare battery pack x1
+ORD-65364  placed 2026-08-06  status: delivered  total: $115.19
+  payment method: card ending 4873  ship to: 569 Harbor Rd
+  - water filter pitcher x1
+  - replacement filter cartridge, 3-pack x1
+  - USB-C charging cable (2m) x3
+ORD-31379  placed 2026-05-23  status: in transit  total: $426.56
+  payment method: card ending 4082  ship to: 17 Harbor St
+  - blender x1
+  - carabiner set x2
+  - USB-C charging cable (2m) x2
+  - extended warranty, 2 years x2
+  - gift wrap x3
+ORD-57813  placed 2026-02-17  status: in transit  total: $124.12
+  payment method: card ending 9902  ship to: 176 Cedar Rd
+  - water filter pitcher x1
+  - merino socks, size M x1
+  - gift wrap x1
+  - microfiber cloth x1
+  - extended warranty, 2 years x1
+
+--- message 1 from Mateo Silva ---
+Where is my refund for ORD-33302? You said 5 days and it has been 8. Is there a way to combine loyalty points from ORD-65364 with my next purchase? Could you also tell me whether ORD-65364 qualifies for the extended return window? The carry-on suitcase itself is great, for what it's worth.
+
+Best regards,
+Mateo Silva
+
+--- message 2 from Marcus (support) ---
+I've resent the confirmation email for ORD-33302 to the address on file. Our warehouse shows ORD-31379 left on schedule. Let me know if anything else looks off. If you need an invoice for ORD-31379, you can download it from the Orders page.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Mateo Silva ---
+I changed my shipping address last month, so please double-check you have the new one. The desk lamp itself is great, for what it's worth. I've been a customer for a few years and usually everything goes smoothly. Your app logged me out twice while I was looking at this, which didn't help.
+
+Best regards,
+Mateo Silva
+
+--- message 4 from Marcus (support) ---
+Our warehouse shows ORD-65364 left on schedule. Screenshots aren't necessary, but thank you for offering. Let me know if anything else looks off. For ORD-65364, the return window is 30 days from delivery.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Mateo Silva ---
+The confirmation email for ORD-65364 went to my spam folder, so I only just saw it. My partner placed ORD-33302 on our shared account, in case that matters. Is there a way to combine loyalty points from ORD-31379 with my next purchase? I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Mateo Silva
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Marcus (support) ---
+Let me know if anything else looks off. Our warehouse shows ORD-33302 left on schedule. Tracking updates can lag by a day or two with this carrier. Thanks for reaching out, and sorry for the trouble.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

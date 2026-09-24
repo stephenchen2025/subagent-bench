@@ -1,0 +1,11 @@
+Ledger page P-1406
+
+account      amount   see page
+Quinn          -236   P-6695
+Dunn           +347   P-9241
+Abbott          -69   P-9090
+Grant           -23   P-9213
+Moreau         +273   P-9066
+Jensen         -457   P-6722
+
+Follow the entry with the largest credit.

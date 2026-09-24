@@ -1,0 +1,95 @@
+Ticket T-1516
+Customer: Jordan Okafor
+Orders on file: ORD-51970, ORD-50903, ORD-62856, ORD-94315
+Opened: 2026-08-03 via chat transcript
+
+Order details:
+ORD-51970  placed 2026-08-11  status: in transit  total: $265.15
+  payment method: card ending 6793  ship to: 660 Elm Lane
+  - blender x1
+  - replacement filter cartridge, 3-pack x1
+  - USB-C charging cable (2m) x3
+ORD-50903  placed 2026-07-26  status: label created  total: $120.94
+  payment method: card ending 7517  ship to: 315 Oak Lane
+  - water filter pitcher x1
+  - extended warranty, 2 years x2
+  - USB-C charging cable (2m) x2
+ORD-62856  placed 2026-07-28  status: delivered  total: $427.91
+  payment method: card ending 5119  ship to: 599 Harbor Rd
+  - water filter pitcher x1
+  - extended warranty, 2 years x2
+  - gift wrap x1
+ORD-94315  placed 2026-03-20  status: delivered  total: $91.46
+  payment method: card ending 3757  ship to: 632 Elm Lane
+  - cast iron skillet x1
+  - stainless water bottle, 750ml x2
+  - travel pouch x1
+  - spare battery pack x1
+  - extended warranty, 2 years x1
+
+--- message 1 from Jordan Okafor ---
+I need to change the delivery address for ORD-94315 before it ships. The wool blanket itself is great, for what it's worth. I'm happy to send screenshots if that helps. My earlier order ORD-94315 arrived fine, no complaints there.
+
+Thanks,
+Jordan Okafor
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Keiko (support) ---
+Our warehouse shows ORD-62856 left on schedule. Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-94315 to the address on file. Screenshots aren't necessary, but thank you for offering.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Jordan Okafor ---
+There's an extra line for ORD-51970 on my statement. It could just be a hold -- can you check? Your app logged me out twice while I was looking at this, which didn't help. The confirmation email for ORD-62856 went to my spam folder, so I only just saw it.
+
+Best regards,
+Jordan Okafor
+
+--- message 4 from Keiko (support) ---
+If you need an invoice for ORD-62856, you can download it from the Orders page. Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-62856.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Jordan Okafor ---
+Just checked again -- both charges for ORD-51970 are settled now, not pending. The confirmation email for ORD-62856 went to my spam folder, so I only just saw it. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Jordan Okafor
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Keiko (support) ---
+Let me know if anything else looks off. I've resent the confirmation email for ORD-50903 to the address on file. Screenshots aren't necessary, but thank you for offering.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Keiko (support) ---
+Confirmed on our side -- ORD-51970 was captured twice by a retry in our checkout. One refund of $98.17 is on its way to you. I can see all the orders on your account, including ORD-62856. Tracking updates can lag by a day or two with this carrier.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Jordan Okafor ---
+My partner placed ORD-50903 on our shared account, in case that matters. The mechanical keyboard itself is great, for what it's worth. My earlier order ORD-62856 arrived fine, no complaints there.
+
+Best regards,
+Jordan Okafor
+
+--- message 9 from Jordan Okafor ---
+I tried the chat widget first but it kept disconnecting. Could you also tell me whether ORD-50903 qualifies for the extended return window? The standing desk itself is great, for what it's worth. Tracking for ORD-50903 hasn't updated since Tuesday.
+
+Jordan Okafor
+(Please reply by email rather than phone if possible.)
+
+--- message 10 from Keiko (support) ---
+For ORD-94315, the return window is 30 days from delivery. Let me know if anything else looks off. Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

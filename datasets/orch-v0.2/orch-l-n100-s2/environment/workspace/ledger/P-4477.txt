@@ -1,0 +1,10 @@
+Ledger page P-4477
+
+account      amount   see page
+Park           +644   P-5132
+Lambert        +731   P-6572
+Umar           +573   P-8854
+Young           -27   P-6106
+Moreau         +474   P-6243
+
+Follow the entry with the largest debit (the most negative amount).

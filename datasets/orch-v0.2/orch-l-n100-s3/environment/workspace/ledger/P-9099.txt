@@ -1,0 +1,12 @@
+Ledger page P-9099
+
+account      amount   see page
+Abbott         -143   P-1963
+Umar           -546   P-8691
+Eriksen        +756   P-1634
+Quinn          -333   P-2960
+Kowalski       -404   P-9218
+Dunn           +856   P-9137
+Osei            +85   P-2965
+
+Follow the credit belonging to the account that comes first alphabetically.

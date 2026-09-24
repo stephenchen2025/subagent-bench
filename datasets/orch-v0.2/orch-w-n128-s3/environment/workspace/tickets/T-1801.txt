@@ -1,0 +1,102 @@
+Ticket T-1801
+Customer: Maya Cohen
+Orders on file: ORD-83876, ORD-47092, ORD-21663, ORD-99771
+Opened: 2026-03-21 via chat transcript
+
+Order details:
+ORD-83876  placed 2026-02-17  status: in transit  total: $232.01
+  payment method: card ending 1703  ship to: 931 Elm St
+  - mechanical keyboard x1
+  - stainless water bottle, 750ml x2
+  - spare battery pack x1
+  - replacement filter cartridge, 3-pack x2
+ORD-47092  placed 2026-06-05  status: label created  total: $185.79
+  payment method: card ending 4272  ship to: 268 Elm Rd
+  - cast iron skillet x1
+  - stainless water bottle, 750ml x2
+  - extended warranty, 2 years x3
+ORD-21663  placed 2026-06-21  status: delivered  total: $456.93
+  payment method: card ending 2324  ship to: 125 Cedar Lane
+  - espresso grinder x1
+  - USB-C charging cable (2m) x1
+  - extended warranty, 2 years x1
+ORD-99771  placed 2026-03-08  status: returned  total: $374.34
+  payment method: card ending 8924  ship to: 30 Harbor Ave
+  - espresso grinder x1
+  - gift wrap x3
+  - spare battery pack x3
+  - extended warranty, 2 years x3
+  - merino socks, size M x3
+
+--- message 1 from Maya Cohen ---
+Where is my refund for ORD-99771? You said 5 days and it has been 8. The confirmation email for ORD-99771 went to my spam folder, so I only just saw it. I tried the chat widget first but it kept disconnecting. My partner placed ORD-83876 on our shared account, in case that matters.
+
+Thanks,
+Maya Cohen
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Pete (support) ---
+I can see all the orders on your account, including ORD-83876. For ORD-21663, the return window is 30 days from delivery. I've updated your shipping address on file. If you need an invoice for ORD-83876, you can download it from the Orders page.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Maya Cohen ---
+I think I might have been charged twice for ORD-47092, but one of the lines on the card app still says pending, so I'm not sure yet. I'm happy to send screenshots if that helps. My earlier order ORD-21663 arrived fine, no complaints there.
+
+Maya Cohen
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Pete (support) ---
+I've updated your shipping address on file. I've resent the confirmation email for ORD-83876 to the address on file. Thanks for reaching out, and sorry for the trouble.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Maya Cohen ---
+Just checked again -- both charges for ORD-47092 are settled now, not pending. I tried the chat widget first but it kept disconnecting. My partner placed ORD-83876 on our shared account, in case that matters.
+
+Best regards,
+Maya Cohen
+
+--- message 6 from Pete (support) ---
+Confirmed on our side -- ORD-47092 was captured twice by a retry in our checkout. One refund of $470.04 is on its way to you. I've updated your shipping address on file. I've resent the confirmation email for ORD-21663 to the address on file.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Maya Cohen ---
+I'm happy to send screenshots if that helps. I tried the chat widget first but it kept disconnecting. Could you also tell me whether ORD-99771 qualifies for the extended return window?
+
+Thanks,
+Maya Cohen
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Maya Cohen ---
+The espresso grinder itself is great, for what it's worth. Could you also tell me whether ORD-99771 qualifies for the extended return window? My earlier order ORD-83876 arrived fine, no complaints there. I'm happy to send screenshots if that helps.
+
+Best regards,
+Maya Cohen
+
+--- message 9 from Pete (support) ---
+Our warehouse shows ORD-99771 left on schedule. Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off. Tracking updates can lag by a day or two with this carrier.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 10 from Maya Cohen ---
+I've been a customer for a few years and usually everything goes smoothly. The box for ORD-83876 was a bit crushed but the contents were fine. The rain jacket itself is great, for what it's worth. Could you also tell me whether ORD-83876 qualifies for the extended return window?
+
+Best regards,
+Maya Cohen
+
+--- message 11 from Pete (support) ---
+I've added a note to your account so the next agent has the context. If you need an invoice for ORD-99771, you can download it from the Orders page. I can see all the orders on your account, including ORD-99771. Let me know if anything else looks off.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

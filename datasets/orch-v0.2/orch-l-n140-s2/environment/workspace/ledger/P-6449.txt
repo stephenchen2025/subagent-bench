@@ -1,0 +1,11 @@
+Ledger page P-6449
+
+account      amount   see page
+Osei           -177   P-3860
+Nakamura       -410   P-5894
+Young            -2   P-6577
+Rahman         +404   P-8506
+Xu             -830   P-2080
+Ibarra         +103   P-5983
+
+Follow the debit belonging to the account that comes last alphabetically.

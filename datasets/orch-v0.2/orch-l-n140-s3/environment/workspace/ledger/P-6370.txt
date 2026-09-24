@@ -1,0 +1,10 @@
+Ledger page P-6370
+
+account      amount   see page
+Zhou           +111   P-4590
+Dunn           -662   P-9263
+Nakamura        +20   P-7317
+Park           +806   P-4727
+Moreau         +316   P-6306
+
+Follow the entry whose amount is closest to zero.

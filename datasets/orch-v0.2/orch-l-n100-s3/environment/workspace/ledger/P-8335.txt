@@ -1,0 +1,12 @@
+Ledger page P-8335
+
+account      amount   see page
+Xu             -865   P-9068
+Tanaka         -681   P-7359
+Ibarra         +218   P-2898
+Osei           +665   P-8313
+Kowalski       +247   P-8229
+Weber          -205   P-6128
+Fofana         +756   P-8816
+
+Follow the entry with the largest debit (the most negative amount).

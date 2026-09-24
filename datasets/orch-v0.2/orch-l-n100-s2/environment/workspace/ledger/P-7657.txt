@@ -1,0 +1,12 @@
+Ledger page P-7657
+
+account      amount   see page
+Dunn           +412   P-2989
+Eriksen        +678   P-1378
+Moreau         +652   P-4735
+Vance          +460   P-1166
+Weber           -16   P-7516
+Castillo        -30   P-4952
+Young          -482   P-2334
+
+Follow the debit belonging to the account that comes last alphabetically.

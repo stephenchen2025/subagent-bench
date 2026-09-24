@@ -1,0 +1,10 @@
+Ledger page P-4653
+
+account      amount   see page
+Silva          -782   P-4929
+Moreau         +203   P-3560
+Young          +696   P-9669
+Hughes         +516   P-6370
+Abbott         +564   P-5975
+
+Follow the entry whose amount is closest to zero.

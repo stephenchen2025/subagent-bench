@@ -1,0 +1,54 @@
+Ticket T-3407
+Customer: Diego Alvarez
+Orders on file: ORD-90501, ORD-16845, ORD-51762, ORD-71433
+Opened: 2026-03-12 via chat transcript
+
+Order details:
+ORD-90501  placed 2026-06-11  status: delivered  total: $268.20
+  payment method: card ending 7330  ship to: 132 Elm St
+  - trail running shoes x1
+  - stainless water bottle, 750ml x3
+  - spare battery pack x2
+ORD-16845  placed 2026-04-11  status: delivered  total: $401.77
+  payment method: card ending 7917  ship to: 128 Oak St
+  - rain jacket x1
+  - merino socks, size M x3
+  - microfiber cloth x3
+ORD-51762  placed 2026-03-10  status: returned  total: $415.74
+  payment method: card ending 8296  ship to: 349 Elm Lane
+  - wool blanket x1
+  - microfiber cloth x3
+  - gift wrap x2
+  - replacement filter cartridge, 3-pack x2
+ORD-71433  placed 2026-08-01  status: delivered  total: $75.72
+  payment method: card ending 8225  ship to: 558 Elm St
+  - mechanical keyboard x1
+  - replacement filter cartridge, 3-pack x1
+  - carabiner set x1
+
+--- message 1 from Diego Alvarez ---
+Where is my refund for ORD-51762? You said 5 days and it has been 8. Could you also tell me whether ORD-71433 qualifies for the extended return window? I changed my shipping address last month, so please double-check you have the new one. The cast iron skillet itself is great, for what it's worth.
+
+Thanks,
+Diego Alvarez
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Luis (support) ---
+Let me know if anything else looks off. I've resent the confirmation email for ORD-51762 to the address on file. I've updated your shipping address on file. Loyalty points post about a week after an order is delivered.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Diego Alvarez ---
+The confirmation email for ORD-90501 went to my spam folder, so I only just saw it. I've been a customer for a few years and usually everything goes smoothly. The box for ORD-90501 was a bit crushed but the contents were fine. Is there a way to combine loyalty points from ORD-90501 with my next purchase?
+
+Diego Alvarez
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Luis (support) ---
+I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier. I can see all the orders on your account, including ORD-90501. I've resent the confirmation email for ORD-90501 to the address on file.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

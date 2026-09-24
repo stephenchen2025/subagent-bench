@@ -1,0 +1,65 @@
+Ticket T-2621
+Customer: Oskar Berg
+Orders on file: ORD-52894, ORD-86815, ORD-66198, ORD-98936
+Opened: 2026-03-01 via email
+
+Order details:
+ORD-52894  placed 2026-03-23  status: returned  total: $173.13
+  payment method: card ending 4560  ship to: 688 Mill Lane
+  - espresso grinder x1
+  - USB-C charging cable (2m) x1
+  - replacement filter cartridge, 3-pack x3
+  - carabiner set x1
+  - stainless water bottle, 750ml x1
+ORD-86815  placed 2026-08-26  status: returned  total: $43.25
+  payment method: card ending 9629  ship to: 566 Cedar St
+  - wool blanket x1
+  - microfiber cloth x2
+  - spare battery pack x3
+  - travel pouch x2
+  - gift wrap x2
+ORD-66198  placed 2026-04-06  status: returned  total: $369.96
+  payment method: card ending 1622  ship to: 574 Cedar Rd
+  - bike light set x1
+  - stainless water bottle, 750ml x1
+  - replacement filter cartridge, 3-pack x3
+ORD-98936  placed 2026-02-04  status: delivered  total: $194.39
+  payment method: card ending 6635  ship to: 600 Cedar Lane
+  - espresso grinder x1
+  - microfiber cloth x3
+  - gift wrap x1
+  - replacement filter cartridge, 3-pack x2
+
+--- message 1 from Oskar Berg ---
+How do I reset my password? The reset link keeps expiring. My earlier order ORD-86815 arrived fine, no complaints there. I'm happy to send screenshots if that helps. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Oskar Berg
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Fatima (support) ---
+Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier. I can see all the orders on your account, including ORD-86815.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Oskar Berg ---
+You took the money for ORD-52894 a second time after it had already been paid. Your app logged me out twice while I was looking at this, which didn't help. Could you also tell me whether ORD-98936 qualifies for the extended return window?
+
+Best regards,
+Oskar Berg
+
+--- message 4 from Oskar Berg ---
+My earlier order ORD-66198 arrived fine, no complaints there. The wool blanket itself is great, for what it's worth. The box for ORD-66198 was a bit crushed but the contents were fine. Tracking for ORD-98936 hasn't updated since Tuesday.
+
+Thanks,
+Oskar Berg
+Sent from my phone -- please excuse typos.
+
+--- message 5 from Fatima (support) ---
+Our warehouse shows ORD-98936 left on schedule. I can see all the orders on your account, including ORD-66198. Tracking updates can lag by a day or two with this carrier. I've updated your shipping address on file.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

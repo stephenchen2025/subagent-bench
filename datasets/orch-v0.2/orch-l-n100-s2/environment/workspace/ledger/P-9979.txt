@@ -1,0 +1,12 @@
+Ledger page P-9979
+
+account      amount   see page
+Kowalski       +171   P-8854
+Nakamura       -733   P-2622
+Ibarra         -375   P-2073
+Umar           +357   P-2515
+Dunn           -442   P-6930
+Xu              -37   P-7869
+Osei           -242   P-5618
+
+Follow the entry with the largest debit (the most negative amount).

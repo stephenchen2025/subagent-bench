@@ -1,0 +1,10 @@
+Ledger page P-6627
+
+account      amount   see page
+Eriksen        -453   P-7542
+Ibarra         +395   P-5122
+Nakamura       +533   P-3665
+Zhou           +326   P-8382
+Jensen         +528   P-5388
+
+Follow the entry with the largest debit (the most negative amount).

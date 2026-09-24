@@ -1,0 +1,10 @@
+Ledger page P-7597
+
+account      amount   see page
+Silva          +196   P-4659
+Quinn          -315   P-4744
+Umar           -385   P-5009
+Castillo       +467   P-3560
+Hughes         -446   P-6928
+
+Follow the entry with the second-largest amount.

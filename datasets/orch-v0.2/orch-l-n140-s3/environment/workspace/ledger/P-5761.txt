@@ -1,0 +1,12 @@
+Ledger page P-5761
+
+account      amount   see page
+Umar           -531   P-7611
+Vance          -572   P-1864
+Castillo       -363   P-1001
+Rahman         -411   P-3984
+Quinn          +173   P-4720
+Dunn           -345   P-7941
+Zhou           +767   P-2656
+
+Follow the credit belonging to the account that comes first alphabetically.

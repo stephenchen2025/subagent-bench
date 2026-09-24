@@ -1,0 +1,10 @@
+Ledger page P-6857
+
+account      amount   see page
+Jensen         -712   P-9066
+Umar           -463   P-4334
+Hughes          +35   P-7583
+Vance          +616   P-5753
+Ibarra         -771   P-7740
+
+Follow the debit belonging to the account that comes last alphabetically.

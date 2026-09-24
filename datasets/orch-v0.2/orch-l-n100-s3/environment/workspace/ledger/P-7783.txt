@@ -1,0 +1,10 @@
+Ledger page P-7783
+
+account      amount   see page
+Vance          -864   P-1317
+Abbott         -288   P-6858
+Lambert         +82   P-4279
+Osei           +854   P-9359
+Young          -109   P-1719
+
+Follow the entry with the second-largest amount.

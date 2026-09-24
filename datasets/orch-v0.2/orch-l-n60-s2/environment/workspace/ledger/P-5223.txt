@@ -1,0 +1,11 @@
+Ledger page P-5223
+
+account      amount   see page
+Silva          -852   P-9683
+Osei           +303   P-3249
+Lambert        +603   P-3472
+Nakamura       +721   P-7391
+Dunn            +40   P-4182
+Young          +110   P-5473
+
+Follow the entry with the second-largest amount.

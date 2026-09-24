@@ -1,0 +1,12 @@
+Ledger page P-5019
+
+account      amount   see page
+Osei           -366   P-6280
+Abbott         +634   P-7436
+Weber          -336   P-6427
+Young          +803   P-7391
+Rahman         +229   P-1487
+Hughes         +285   P-7931
+Eriksen        +120   P-4593
+
+Follow the debit belonging to the account that comes last alphabetically.

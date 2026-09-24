@@ -1,0 +1,11 @@
+Ledger page P-8890
+
+account      amount   see page
+Young          -546   P-9934
+Ibarra         -608   P-5844
+Lambert        -554   P-3510
+Moreau         +598   P-6337
+Kowalski        -90   P-5445
+Weber          -507   P-1855
+
+Follow the entry with the largest debit (the most negative amount).

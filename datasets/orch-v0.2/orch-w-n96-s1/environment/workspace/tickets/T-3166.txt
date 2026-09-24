@@ -1,0 +1,55 @@
+Ticket T-3166
+Customer: Felix Wagner
+Orders on file: ORD-37802, ORD-88546, ORD-57486, ORD-67468
+Opened: 2026-02-03 via chat transcript
+
+Order details:
+ORD-37802  placed 2026-02-18  status: delivered  total: $475.65
+  payment method: card ending 1129  ship to: 17 Elm Lane
+  - water filter pitcher x1
+  - replacement filter cartridge, 3-pack x2
+  - USB-C charging cable (2m) x2
+ORD-88546  placed 2026-02-18  status: delivered  total: $286.75
+  payment method: card ending 6560  ship to: 488 Mill Rd
+  - desk lamp x1
+  - merino socks, size M x2
+  - replacement filter cartridge, 3-pack x2
+  - travel pouch x2
+ORD-57486  placed 2026-03-27  status: delivered  total: $268.09
+  payment method: card ending 6373  ship to: 763 Elm St
+  - mechanical keyboard x1
+  - gift wrap x1
+  - travel pouch x2
+ORD-67468  placed 2026-01-20  status: delivered  total: $238.24
+  payment method: card ending 5857  ship to: 121 Cedar Ave
+  - blender x1
+  - merino socks, size M x2
+  - travel pouch x1
+  - replacement filter cartridge, 3-pack x1
+
+--- message 1 from Felix Wagner ---
+I'd like to return the mechanical keyboard from ORD-67468; it's the wrong size. I tried the chat widget first but it kept disconnecting. I've been a customer for a few years and usually everything goes smoothly. Your app logged me out twice while I was looking at this, which didn't help.
+
+Felix Wagner
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Dana (support) ---
+I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-88546 to the address on file. Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Felix Wagner ---
+I've been a customer for a few years and usually everything goes smoothly. The confirmation email for ORD-57486 went to my spam folder, so I only just saw it. My partner placed ORD-67468 on our shared account, in case that matters. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Felix Wagner
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Dana (support) ---
+I can see all the orders on your account, including ORD-67468. If you need an invoice for ORD-67468, you can download it from the Orders page. Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-88546 to the address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

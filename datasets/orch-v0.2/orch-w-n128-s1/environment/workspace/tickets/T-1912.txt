@@ -1,0 +1,82 @@
+Ticket T-1912
+Customer: Sofia Rossi
+Orders on file: ORD-52763, ORD-19903, ORD-39606, ORD-33298
+Opened: 2026-01-20 via chat transcript
+
+Order details:
+ORD-52763  placed 2026-06-19  status: returned  total: $444.30
+  payment method: card ending 8343  ship to: 352 Harbor St
+  - trail running shoes x1
+  - gift wrap x3
+  - microfiber cloth x3
+  - extended warranty, 2 years x1
+  - spare battery pack x3
+ORD-19903  placed 2026-08-12  status: returned  total: $435.61
+  payment method: card ending 7012  ship to: 775 Oak Lane
+  - blender x1
+  - spare battery pack x2
+  - replacement filter cartridge, 3-pack x1
+  - stainless water bottle, 750ml x1
+ORD-39606  placed 2026-05-05  status: returned  total: $127.36
+  payment method: card ending 7795  ship to: 279 Elm St
+  - water filter pitcher x1
+  - extended warranty, 2 years x3
+  - carabiner set x1
+  - microfiber cloth x1
+ORD-33298  placed 2026-01-21  status: label created  total: $218.12
+  payment method: card ending 2779  ship to: 202 Elm Ave
+  - rain jacket x1
+  - spare battery pack x3
+  - travel pouch x2
+
+--- message 1 from Sofia Rossi ---
+I need to change the delivery address for ORD-39606 before it ships. My partner placed ORD-39606 on our shared account, in case that matters. The confirmation email for ORD-52763 went to my spam folder, so I only just saw it. Your app logged me out twice while I was looking at this, which didn't help.
+
+Sofia Rossi
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Dana (support) ---
+Our warehouse shows ORD-19903 left on schedule. Loyalty points post about a week after an order is delivered. If you need an invoice for ORD-19903, you can download it from the Orders page. Thanks for reaching out, and sorry for the trouble.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Sofia Rossi ---
+I think I might have been charged twice for ORD-33298, but one of the lines on my bank still says pending, so I'm not sure yet. I'm happy to send screenshots if that helps. My partner placed ORD-19903 on our shared account, in case that matters.
+
+Best regards,
+Sofia Rossi
+
+--- message 4 from Sofia Rossi ---
+Just checked again -- both charges for ORD-33298 are settled now, not pending. Your app logged me out twice while I was looking at this, which didn't help. I'm happy to send screenshots if that helps.
+
+Best regards,
+Sofia Rossi
+
+--- message 5 from Dana (support) ---
+I've checked with our payments team: both captures for ORD-33298 settled, so you were genuinely charged twice. I've issued a refund for the second one; it should show within 3-5 business days. I've added a note to your account so the next agent has the context. For ORD-39606, the return window is 30 days from delivery.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Sofia Rossi ---
+My partner placed ORD-52763 on our shared account, in case that matters. Is there a way to combine loyalty points from ORD-19903 with my next purchase? My earlier order ORD-19903 arrived fine, no complaints there.
+
+Thanks,
+Sofia Rossi
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Sofia Rossi ---
+I'm travelling next week, so email is the best way to reach me. Is there a way to combine loyalty points from ORD-19903 with my next purchase? I changed my shipping address last month, so please double-check you have the new one. My partner placed ORD-39606 on our shared account, in case that matters.
+
+Sofia Rossi
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Dana (support) ---
+I've updated your shipping address on file. For ORD-19903, the return window is 30 days from delivery. Tracking updates can lag by a day or two with this carrier. If you need an invoice for ORD-52763, you can download it from the Orders page.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

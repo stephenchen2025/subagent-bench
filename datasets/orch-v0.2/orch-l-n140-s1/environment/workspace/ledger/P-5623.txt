@@ -1,0 +1,10 @@
+Ledger page P-5623
+
+account      amount   see page
+Grant          -476   P-3704
+Osei            -52   P-2801
+Lambert        +210   P-5373
+Kowalski        -64   P-4327
+Park           -891   P-3839
+
+Follow the debit belonging to the account that comes last alphabetically.

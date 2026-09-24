@@ -1,0 +1,10 @@
+Ledger page P-6796
+
+account      amount   see page
+Dunn           +147   P-2790
+Park           +379   P-8191
+Tanaka         -687   P-3264
+Jensen         -778   P-2308
+Xu             -194   P-5199
+
+Follow the entry with the largest credit.

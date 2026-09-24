@@ -1,0 +1,12 @@
+Ledger page P-2308
+
+account      amount   see page
+Kowalski       +136   P-5761
+Park           +283   P-3332
+Ibarra         -750   P-9821
+Fofana         -808   P-6281
+Umar           +698   P-5700
+Tanaka         +359   P-4576
+Baker          +288   P-3745
+
+Follow the entry with the second-largest amount.

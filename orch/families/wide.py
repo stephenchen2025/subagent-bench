@@ -15,18 +15,19 @@ it (ORCHESTRATOR.md 7):
 - Every ticket lists several orders on file and mentions others in passing, so
   naming the right order needs the sentence, not the file.
 
-At N=72 the tickets are ~80k tokens, two and a half of the reference harness's
-32k windows. Reading them all is the task; fitting them in one context is not
-possible.
+Every size is long-horizon. At ~1.1k tokens a ticket, even the smallest set
+(N=60, ~65k tokens) is two of the reference harness's 32k windows and takes a
+solo agent well over 60 steps; N=128 is four windows. Reading them all is the
+task; fitting them in one context is not possible.
 """
 
 import json
 
-from orch.task import DELEGATE, OPTIONAL, OrchTask, rng_for, task_id
+from orch.task import DELEGATE, OrchTask, rng_for, task_id
 
 FAMILY = "W"
-SIZES = (6, 24, 72)
-TICKETS_PER_WORKER = 9
+SIZES = (60, 96, 128)
+TICKETS_PER_WORKER = 12
 
 NAMES = [
     "Avery Lin", "Jordan Okafor", "Priya Raman", "Mateo Silva", "Hana Sato",
@@ -381,7 +382,7 @@ def generate(size, seed):
         family=FAMILY,
         size=size,
         seed=seed,
-        label=OPTIONAL if size <= 6 else DELEGATE,
+        label=DELEGATE,
         instruction=INSTRUCTION.format(n=size),
         files=files,
         truth={"matches": matches, "kinds": kinds_by_ticket},

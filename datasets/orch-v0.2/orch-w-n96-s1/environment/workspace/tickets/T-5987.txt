@@ -1,0 +1,56 @@
+Ticket T-5987
+Customer: Priya Raman
+Orders on file: ORD-84221, ORD-60611, ORD-35124, ORD-67108
+Opened: 2026-02-14 via chat transcript
+
+Order details:
+ORD-84221  placed 2026-06-14  status: delivered  total: $172.84
+  payment method: card ending 4083  ship to: 837 Elm Rd
+  - yoga mat x1
+  - replacement filter cartridge, 3-pack x2
+  - USB-C charging cable (2m) x3
+  - carabiner set x3
+ORD-60611  placed 2026-04-07  status: delivered  total: $344.38
+  payment method: card ending 1843  ship to: 123 Harbor St
+  - blender x1
+  - stainless water bottle, 750ml x3
+  - USB-C charging cable (2m) x3
+ORD-35124  placed 2026-06-02  status: delivered  total: $411.14
+  payment method: card ending 3611  ship to: 619 Mill Lane
+  - rain jacket x1
+  - USB-C charging cable (2m) x2
+  - stainless water bottle, 750ml x2
+  - merino socks, size M x2
+ORD-67108  placed 2026-06-05  status: delivered  total: $32.45
+  payment method: card ending 8615  ship to: 605 Oak Rd
+  - espresso grinder x1
+  - travel pouch x1
+  - gift wrap x3
+  - merino socks, size M x3
+
+--- message 1 from Priya Raman ---
+How do I reset my password? The reset link keeps expiring. Tracking for ORD-35124 hasn't updated since Tuesday. The mechanical keyboard itself is great, for what it's worth. My partner placed ORD-67108 on our shared account, in case that matters.
+
+Best regards,
+Priya Raman
+
+--- message 2 from Luis (support) ---
+Tracking updates can lag by a day or two with this carrier. For ORD-60611, the return window is 30 days from delivery. Our warehouse shows ORD-60611 left on schedule. Let me know if anything else looks off.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Priya Raman ---
+Your app logged me out twice while I was looking at this, which didn't help. I tried the chat widget first but it kept disconnecting. My earlier order ORD-35124 arrived fine, no complaints there. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Priya Raman
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Luis (support) ---
+I've updated your shipping address on file. I've added a note to your account so the next agent has the context. For ORD-60611, the return window is 30 days from delivery. Let me know if anything else looks off.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

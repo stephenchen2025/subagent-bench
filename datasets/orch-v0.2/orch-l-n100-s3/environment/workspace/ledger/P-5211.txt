@@ -1,0 +1,12 @@
+Ledger page P-5211
+
+account      amount   see page
+Weber          +438   P-5116
+Rahman         +734   P-3453
+Silva          -687   P-2998
+Ibarra         +863   P-7050
+Zhou           +132   P-2536
+Nakamura       +360   P-8931
+Kowalski       +807   P-1461
+
+Follow the debit belonging to the account that comes last alphabetically.

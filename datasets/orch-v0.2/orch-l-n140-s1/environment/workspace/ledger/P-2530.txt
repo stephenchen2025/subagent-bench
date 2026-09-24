@@ -1,0 +1,11 @@
+Ledger page P-2530
+
+account      amount   see page
+Jensen          +65   P-8621
+Young          -829   P-7127
+Osei           -287   P-7015
+Hughes         -535   P-6883
+Silva          +342   P-7078
+Weber          +124   P-2801
+
+Follow the entry with the largest credit.

@@ -1,0 +1,10 @@
+Ledger page P-6914
+
+account      amount   see page
+Abbott         -763   P-7889
+Kowalski       -520   P-5999
+Baker          -373   P-6654
+Xu             +195   P-8202
+Park           +606   P-2427
+
+Follow the entry whose amount is closest to zero.

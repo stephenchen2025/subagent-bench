@@ -1,0 +1,10 @@
+Ledger page P-7042
+
+account      amount   see page
+Vance          -703   P-5422
+Eriksen        -193   P-5642
+Ibarra         +696   P-3888
+Park           +418   P-5460
+Quinn          +430   P-2649
+
+Follow the credit belonging to the account that comes first alphabetically.

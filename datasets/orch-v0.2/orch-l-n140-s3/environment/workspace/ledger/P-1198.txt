@@ -1,0 +1,10 @@
+Ledger page P-1198
+
+account      amount   see page
+Young           +31   P-6868
+Ibarra         +638   P-4720
+Xu             +801   P-4281
+Moreau         -229   P-7671
+Zhou           -265   P-8210
+
+Follow the credit belonging to the account that comes first alphabetically.

@@ -1,0 +1,82 @@
+Ticket T-1081
+Customer: Leila Haddad
+Orders on file: ORD-39332, ORD-77974, ORD-24540, ORD-78153
+Opened: 2026-03-01 via email
+
+Order details:
+ORD-39332  placed 2026-01-12  status: in transit  total: $442.42
+  payment method: card ending 1135  ship to: 445 Elm Rd
+  - bike light set x1
+  - merino socks, size M x1
+  - carabiner set x1
+ORD-77974  placed 2026-02-10  status: returned  total: $344.77
+  payment method: card ending 9922  ship to: 935 Harbor Ave
+  - blender x1
+  - carabiner set x2
+  - stainless water bottle, 750ml x2
+ORD-24540  placed 2026-02-05  status: delivered  total: $106.00
+  payment method: card ending 5310  ship to: 87 Harbor St
+  - wool blanket x1
+  - carabiner set x2
+  - travel pouch x3
+  - merino socks, size M x3
+  - USB-C charging cable (2m) x1
+ORD-78153  placed 2026-03-21  status: delivered  total: $300.16
+  payment method: card ending 4122  ship to: 965 Mill Lane
+  - yoga mat x1
+  - microfiber cloth x1
+  - extended warranty, 2 years x2
+
+--- message 1 from Leila Haddad ---
+The espresso grinder from ORD-24540 arrived with a scratch on the side. Can I get a replacement? My partner placed ORD-24540 on our shared account, in case that matters. I changed my shipping address last month, so please double-check you have the new one. The desk lamp itself is great, for what it's worth.
+
+Leila Haddad
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Pete (support) ---
+I can see all the orders on your account, including ORD-77974. For ORD-39332, the return window is 30 days from delivery. If you need an invoice for ORD-39332, you can download it from the Orders page. Loyalty points post about a week after an order is delivered.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Leila Haddad ---
+Not your fault, but my gym billed me twice this month, which is why I'm nervous about ORD-78153. Everything on your side looks like a single charge, I just wanted to confirm the delivery date. I'm travelling next week, so email is the best way to reach me. My partner placed ORD-77974 on our shared account, in case that matters.
+
+Thanks,
+Leila Haddad
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Pete (support) ---
+If you need an invoice for ORD-77974, you can download it from the Orders page. For ORD-77974, the return window is 30 days from delivery. Let me know if anything else looks off.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Leila Haddad ---
+The confirmation email for ORD-24540 went to my spam folder, so I only just saw it. My earlier order ORD-77974 arrived fine, no complaints there. The desk lamp itself is great, for what it's worth. My partner placed ORD-77974 on our shared account, in case that matters.
+
+Thanks,
+Leila Haddad
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Pete (support) ---
+Our warehouse shows ORD-77974 left on schedule. I can see all the orders on your account, including ORD-39332. I've updated your shipping address on file. Loyalty points post about a week after an order is delivered.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Leila Haddad ---
+Tracking for ORD-77974 hasn't updated since Tuesday. I tried the chat widget first but it kept disconnecting. I'm travelling next week, so email is the best way to reach me. My earlier order ORD-77974 arrived fine, no complaints there.
+
+Leila Haddad
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Pete (support) ---
+If you need an invoice for ORD-24540, you can download it from the Orders page. Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble. Tracking updates can lag by a day or two with this carrier.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

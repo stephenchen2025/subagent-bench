@@ -1,0 +1,11 @@
+Ledger page P-5493
+
+account      amount   see page
+Fofana         -507   P-1412
+Kowalski       -279   P-6740
+Vance          +422   P-5093
+Weber          +653   P-6145
+Tanaka         +293   P-6746
+Ibarra         -615   P-5836
+
+Follow the debit belonging to the account that comes last alphabetically.

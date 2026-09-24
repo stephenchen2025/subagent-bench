@@ -1,0 +1,10 @@
+Ledger page P-8625
+
+account      amount   see page
+Young          +191   P-2622
+Vance          +498   P-4097
+Eriksen        -705   P-2381
+Abbott         +363   P-9487
+Dunn           -868   P-9251
+
+Follow the credit belonging to the account that comes first alphabetically.

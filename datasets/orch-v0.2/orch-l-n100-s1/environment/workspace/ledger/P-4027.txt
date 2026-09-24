@@ -1,0 +1,10 @@
+Ledger page P-4027
+
+account      amount   see page
+Rahman         +314   P-8268
+Eriksen        +125   P-1157
+Zhou            -34   P-4970
+Lambert        +179   P-3212
+Fofana         +120   P-9053
+
+Follow the entry with the largest debit (the most negative amount).

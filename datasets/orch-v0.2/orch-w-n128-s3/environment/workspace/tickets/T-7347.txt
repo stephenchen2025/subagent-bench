@@ -1,0 +1,90 @@
+Ticket T-7347
+Customer: Grace Mwangi
+Orders on file: ORD-64811, ORD-69120, ORD-47585, ORD-76273
+Opened: 2026-02-15 via web form
+
+Order details:
+ORD-64811  placed 2026-01-27  status: delivered  total: $60.71
+  payment method: card ending 3921  ship to: 170 Oak Rd
+  - bike light set x1
+  - extended warranty, 2 years x1
+  - microfiber cloth x1
+ORD-69120  placed 2026-03-15  status: delivered  total: $173.25
+  payment method: card ending 5877  ship to: 921 Oak Ave
+  - standing desk x1
+  - USB-C charging cable (2m) x2
+  - extended warranty, 2 years x1
+ORD-47585  placed 2026-03-07  status: label created  total: $162.67
+  payment method: card ending 5042  ship to: 302 Cedar Rd
+  - water filter pitcher x1
+  - extended warranty, 2 years x2
+  - carabiner set x3
+  - microfiber cloth x1
+ORD-76273  placed 2026-07-23  status: in transit  total: $67.50
+  payment method: card ending 4052  ship to: 66 Oak Ave
+  - wool blanket x1
+  - travel pouch x3
+  - gift wrap x1
+  - USB-C charging cable (2m) x1
+
+--- message 1 from Grace Mwangi ---
+I need to change the delivery address for ORD-47585 before it ships. I'm happy to send screenshots if that helps. I'm travelling next week, so email is the best way to reach me. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Grace Mwangi
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Rosa (support) ---
+Screenshots aren't necessary, but thank you for offering. Loyalty points post about a week after an order is delivered. I can see all the orders on your account, including ORD-69120. If you need an invoice for ORD-69120, you can download it from the Orders page.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Grace Mwangi ---
+My card was charged two times for order ORD-76273. The confirmation email for ORD-47585 went to my spam folder, so I only just saw it. I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Grace Mwangi
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Rosa (support) ---
+I looked into ORD-76273: the second line is a pre-authorization hold from when the first card attempt was declined. It was never captured and it's already been released, so you were only charged once. I can see all the orders on your account, including ORD-47585. Our warehouse shows ORD-47585 left on schedule.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Grace Mwangi ---
+The standing desk itself is great, for what it's worth. I'm travelling next week, so email is the best way to reach me. Your app logged me out twice while I was looking at this, which didn't help.
+
+Best regards,
+Grace Mwangi
+
+--- message 6 from Grace Mwangi ---
+Thanks, I see it now: one payment for ORD-76273, the other one disappeared. All good. I changed my shipping address last month, so please double-check you have the new one. My earlier order ORD-64811 arrived fine, no complaints there.
+
+Thanks,
+Grace Mwangi
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Rosa (support) ---
+I've updated your shipping address on file. Loyalty points post about a week after an order is delivered. Screenshots aren't necessary, but thank you for offering.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Grace Mwangi ---
+Your app logged me out twice while I was looking at this, which didn't help. My partner placed ORD-47585 on our shared account, in case that matters. Could you also tell me whether ORD-69120 qualifies for the extended return window? I'm happy to send screenshots if that helps.
+
+Thanks,
+Grace Mwangi
+Sent from my phone -- please excuse typos.
+
+--- message 9 from Rosa (support) ---
+Our warehouse shows ORD-69120 left on schedule. If you need an invoice for ORD-69120, you can download it from the Orders page. I've resent the confirmation email for ORD-69120 to the address on file. I've added a note to your account so the next agent has the context.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

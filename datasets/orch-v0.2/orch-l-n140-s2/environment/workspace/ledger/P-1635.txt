@@ -1,0 +1,12 @@
+Ledger page P-1635
+
+account      amount   see page
+Eriksen        +729   P-2370
+Tanaka         +888   P-9793
+Rahman         -526   P-7294
+Vance          +858   P-3940
+Zhou           +760   P-9207
+Fofana         +695   P-7117
+Umar            -58   P-4963
+
+Follow the credit belonging to the account that comes first alphabetically.

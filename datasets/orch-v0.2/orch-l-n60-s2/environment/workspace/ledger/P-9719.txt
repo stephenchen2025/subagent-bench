@@ -1,0 +1,12 @@
+Ledger page P-9719
+
+account      amount   see page
+Castillo       +166   P-8803
+Nakamura       -289   P-9009
+Grant          +141   P-9719
+Xu             -378   P-6777
+Tanaka          -35   P-9792
+Dunn           +789   P-3913
+Abbott         -477   P-5003
+
+Follow the entry with the second-largest amount.

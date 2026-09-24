@@ -1,0 +1,10 @@
+Ledger page P-9669
+
+account      amount   see page
+Kowalski       +320   P-4656
+Osei           +373   P-6651
+Young           -76   P-1837
+Baker          -537   P-5193
+Umar           +870   P-7277
+
+Follow the entry with the largest debit (the most negative amount).

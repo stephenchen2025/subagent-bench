@@ -1,0 +1,10 @@
+Ledger page P-6828
+
+account      amount   see page
+Kowalski       -873   P-6171
+Osei           +152   P-4473
+Young          -318   P-5451
+Jensen         -862   P-9834
+Hughes         +853   P-3519
+
+Follow the debit belonging to the account that comes last alphabetically.

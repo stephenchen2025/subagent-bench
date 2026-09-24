@@ -1,0 +1,89 @@
+Ticket T-5471
+Customer: Yuki Tanaka
+Orders on file: ORD-52929, ORD-86425, ORD-23168, ORD-41622
+Opened: 2026-05-11 via web form
+
+Order details:
+ORD-52929  placed 2026-04-15  status: delivered  total: $146.07
+  payment method: card ending 4590  ship to: 175 Harbor St
+  - standing desk x1
+  - stainless water bottle, 750ml x1
+  - spare battery pack x2
+ORD-86425  placed 2026-01-10  status: delivered  total: $341.65
+  payment method: card ending 8186  ship to: 442 Mill Lane
+  - rain jacket x1
+  - USB-C charging cable (2m) x3
+  - merino socks, size M x3
+  - replacement filter cartridge, 3-pack x1
+ORD-23168  placed 2026-04-18  status: delivered  total: $160.28
+  payment method: card ending 3932  ship to: 562 Elm Lane
+  - bike light set x1
+  - replacement filter cartridge, 3-pack x2
+  - merino socks, size M x2
+  - stainless water bottle, 750ml x3
+  - gift wrap x2
+ORD-41622  placed 2026-04-11  status: delivered  total: $371.44
+  payment method: card ending 8790  ship to: 947 Cedar Rd
+  - trail running shoes x1
+  - carabiner set x2
+  - microfiber cloth x3
+
+--- message 1 from Yuki Tanaka ---
+I'd like to return the water filter pitcher from ORD-23168; it's the wrong size. My partner placed ORD-41622 on our shared account, in case that matters. I changed my shipping address last month, so please double-check you have the new one. The bike light set itself is great, for what it's worth.
+
+Thanks,
+Yuki Tanaka
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Dana (support) ---
+For ORD-41622, the return window is 30 days from delivery. If you need an invoice for ORD-23168, you can download it from the Orders page. Loyalty points post about a week after an order is delivered. I can see all the orders on your account, including ORD-86425.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Yuki Tanaka ---
+Something looks off with ORD-52929: I see what might be a second payment. My earlier order ORD-41622 arrived fine, no complaints there. I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Yuki Tanaka
+
+--- message 4 from Dana (support) ---
+Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context. I've updated your shipping address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Yuki Tanaka ---
+Just checked again -- both charges for ORD-52929 are settled now, not pending. Could you also tell me whether ORD-86425 qualifies for the extended return window? The box for ORD-41622 was a bit crushed but the contents were fine.
+
+Best regards,
+Yuki Tanaka
+
+--- message 6 from Dana (support) ---
+Confirmed on our side -- ORD-52929 was captured twice by a retry in our checkout. One refund of $208.92 is on its way to you. Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Yuki Tanaka ---
+My earlier order ORD-23168 arrived fine, no complaints there. Your app logged me out twice while I was looking at this, which didn't help. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Yuki Tanaka
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Yuki Tanaka ---
+I changed my shipping address last month, so please double-check you have the new one. The confirmation email for ORD-41622 went to my spam folder, so I only just saw it. My partner placed ORD-41622 on our shared account, in case that matters. Your app logged me out twice while I was looking at this, which didn't help.
+
+Yuki Tanaka
+(Please reply by email rather than phone if possible.)
+
+--- message 9 from Dana (support) ---
+If you need an invoice for ORD-23168, you can download it from the Orders page. For ORD-23168, the return window is 30 days from delivery. I've updated your shipping address on file. Loyalty points post about a week after an order is delivered.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,11 @@
+Ledger page P-5122
+
+account      amount   see page
+Baker          +513   P-1614
+Eriksen         +91   P-6449
+Tanaka         +268   P-6352
+Ibarra         -715   P-5991
+Kowalski       -476   P-1611
+Vance          -301   P-4963
+
+Follow the entry with the largest credit.

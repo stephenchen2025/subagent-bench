@@ -1,0 +1,10 @@
+Ledger page P-4744
+
+account      amount   see page
+Vance          +821   P-3386
+Young          +322   P-6408
+Rahman         +362   P-4590
+Nakamura       -379   P-6461
+Zhou           +122   P-7597
+
+Follow the entry whose amount is closest to zero.

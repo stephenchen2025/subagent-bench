@@ -1,0 +1,12 @@
+Ledger page P-8300
+
+account      amount   see page
+Weber          -540   P-8869
+Castillo       -213   P-3506
+Abbott         +191   P-3497
+Grant          +727   P-4432
+Hughes         +158   P-3385
+Tanaka         +567   P-4661
+Osei           -538   P-4371
+
+Follow the entry with the largest credit.

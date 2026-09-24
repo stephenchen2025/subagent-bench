@@ -1,0 +1,10 @@
+Ledger page P-9796
+
+account      amount   see page
+Abbott         +879   P-6153
+Fofana         -480   P-3721
+Lambert        +582   P-1021
+Weber          +569   P-4492
+Osei           -290   P-3456
+
+Follow the entry with the largest debit (the most negative amount).

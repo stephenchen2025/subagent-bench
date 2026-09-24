@@ -1,0 +1,76 @@
+Ticket T-9141
+Customer: Aisha Karim
+Orders on file: ORD-29107, ORD-16944, ORD-77297, ORD-96978
+Opened: 2026-02-20 via email
+
+Order details:
+ORD-29107  placed 2026-04-23  status: delivered  total: $287.91
+  payment method: card ending 6673  ship to: 925 Harbor Lane
+  - water filter pitcher x1
+  - gift wrap x1
+  - spare battery pack x3
+  - USB-C charging cable (2m) x1
+ORD-16944  placed 2026-08-02  status: delivered  total: $176.01
+  payment method: card ending 9058  ship to: 737 Elm St
+  - water filter pitcher x1
+  - carabiner set x3
+  - merino socks, size M x3
+  - spare battery pack x2
+ORD-77297  placed 2026-03-21  status: label created  total: $441.95
+  payment method: card ending 2856  ship to: 864 Cedar St
+  - noise-cancelling headphones x1
+  - gift wrap x2
+  - travel pouch x3
+ORD-96978  placed 2026-03-11  status: label created  total: $370.61
+  payment method: card ending 1739  ship to: 897 Cedar St
+  - camping stove x1
+  - carabiner set x3
+  - spare battery pack x3
+  - stainless water bottle, 750ml x1
+
+--- message 1 from Aisha Karim ---
+How do I reset my password? The reset link keeps expiring. I changed my shipping address last month, so please double-check you have the new one. Tracking for ORD-96978 hasn't updated since Tuesday. My partner placed ORD-77297 on our shared account, in case that matters.
+
+Thanks,
+Aisha Karim
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Pete (support) ---
+I've added a note to your account so the next agent has the context. For ORD-16944, the return window is 30 days from delivery. Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Aisha Karim ---
+Duplicate charge on ORD-29107, please refund one of them. Your app logged me out twice while I was looking at this, which didn't help. My earlier order ORD-16944 arrived fine, no complaints there.
+
+Best regards,
+Aisha Karim
+
+--- message 4 from Pete (support) ---
+I've resent the confirmation email for ORD-77297 to the address on file. Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Pete (support) ---
+I've checked with our payments team: both captures for ORD-29107 settled, so you were genuinely charged twice. I've issued a refund for the second one; it should show within 3-5 business days. I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Aisha Karim ---
+Your app logged me out twice while I was looking at this, which didn't help. The box for ORD-96978 was a bit crushed but the contents were fine. I've been a customer for a few years and usually everything goes smoothly. The confirmation email for ORD-16944 went to my spam folder, so I only just saw it.
+
+Aisha Karim
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Pete (support) ---
+Screenshots aren't necessary, but thank you for offering. I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-16944 to the address on file. If you need an invoice for ORD-96978, you can download it from the Orders page.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

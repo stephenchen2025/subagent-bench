@@ -1,0 +1,11 @@
+Ledger page P-9048
+
+account      amount   see page
+Zhou           +357   P-1967
+Ibarra         -188   P-8489
+Park           +887   P-1848
+Jensen         -442   P-3024
+Castillo       -494   P-2376
+Nakamura       -602   P-4901
+
+Follow the entry with the largest credit.

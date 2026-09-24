@@ -1,0 +1,11 @@
+Ledger page P-2763
+
+account      amount   see page
+Grant           +46   P-9134
+Rahman         -740   P-3407
+Vance           +88   P-1075
+Hughes         +803   P-4890
+Nakamura       +484   P-8313
+Moreau         +662   P-2401
+
+Follow the entry with the second-largest amount.

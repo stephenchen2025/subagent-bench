@@ -1,0 +1,63 @@
+Ticket T-3334
+Customer: Leila Haddad
+Orders on file: ORD-67634, ORD-34760, ORD-50096, ORD-34492
+Opened: 2026-07-28 via web form
+
+Order details:
+ORD-67634  placed 2026-03-26  status: returned  total: $479.64
+  payment method: card ending 1570  ship to: 79 Elm Lane
+  - water filter pitcher x1
+  - travel pouch x3
+  - replacement filter cartridge, 3-pack x3
+  - microfiber cloth x2
+ORD-34760  placed 2026-01-01  status: delivered  total: $40.40
+  payment method: card ending 9349  ship to: 372 Elm Ave
+  - rain jacket x1
+  - carabiner set x1
+  - USB-C charging cable (2m) x3
+  - gift wrap x3
+ORD-50096  placed 2026-06-17  status: returned  total: $219.73
+  payment method: card ending 8464  ship to: 622 Cedar St
+  - bike light set x1
+  - spare battery pack x3
+  - extended warranty, 2 years x2
+  - gift wrap x2
+ORD-34492  placed 2026-07-27  status: delivered  total: $239.63
+  payment method: card ending 1161  ship to: 398 Harbor Rd
+  - wool blanket x1
+  - USB-C charging cable (2m) x1
+  - travel pouch x2
+
+--- message 1 from Leila Haddad ---
+Can I use a gift card on ORD-67634, or is it too late? My partner placed ORD-67634 on our shared account, in case that matters. Your app logged me out twice while I was looking at this, which didn't help. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Leila Haddad
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Luis (support) ---
+Thanks for reaching out, and sorry for the trouble. Tracking updates can lag by a day or two with this carrier. I've updated your shipping address on file. Screenshots aren't necessary, but thank you for offering.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Leila Haddad ---
+I see two charges on my bank this week, one for ORD-50096 and one for ORD-67634. Both are correct -- I ordered twice on purpose -- but could you send me the invoices for my expense report? The box for ORD-34760 was a bit crushed but the contents were fine. Tracking for ORD-67634 hasn't updated since Tuesday.
+
+Leila Haddad
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Leila Haddad ---
+My earlier order ORD-34760 arrived fine, no complaints there. The trail running shoes itself is great, for what it's worth. I'm happy to send screenshots if that helps. Could you also tell me whether ORD-34492 qualifies for the extended return window?
+
+Thanks,
+Leila Haddad
+Sent from my phone -- please excuse typos.
+
+--- message 5 from Luis (support) ---
+Let me know if anything else looks off. I've resent the confirmation email for ORD-34760 to the address on file. I can see all the orders on your account, including ORD-34492. Our warehouse shows ORD-67634 left on schedule.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

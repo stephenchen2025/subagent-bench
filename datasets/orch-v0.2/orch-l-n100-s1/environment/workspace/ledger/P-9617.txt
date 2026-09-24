@@ -1,0 +1,10 @@
+Ledger page P-9617
+
+account      amount   see page
+Jensen         -539   P-7246
+Young          -187   P-3381
+Weber          -254   P-5458
+Silva          +620   P-3751
+Vance          -892   P-5218
+
+Follow the credit belonging to the account that comes first alphabetically.

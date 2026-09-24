@@ -1,0 +1,12 @@
+Ledger page P-9080
+
+account      amount   see page
+Weber          -796   P-6284
+Baker           +62   P-2943
+Dunn           -771   P-9942
+Fofana         +757   P-9531
+Hughes         +108   P-6446
+Tanaka         +474   P-5594
+Park            -95   P-5513
+
+Follow the entry whose amount is closest to zero.

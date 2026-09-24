@@ -1,0 +1,11 @@
+Ledger page P-7583
+
+account      amount   see page
+Grant          +280   P-7464
+Zhou           +128   P-2003
+Weber           -91   P-2042
+Silva          -363   P-3364
+Tanaka          +23   P-8298
+Kowalski       +342   P-2807
+
+Follow the credit belonging to the account that comes first alphabetically.

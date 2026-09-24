@@ -1,0 +1,12 @@
+Ledger page P-1230
+
+account      amount   see page
+Kowalski       -839   P-6559
+Grant           -91   P-8874
+Lambert        -728   P-9485
+Baker          +808   P-2814
+Hughes         -466   P-5594
+Ibarra         +511   P-2263
+Fofana         +786   P-1565
+
+Follow the entry with the largest debit (the most negative amount).

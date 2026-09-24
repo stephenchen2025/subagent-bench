@@ -1,0 +1,12 @@
+Ledger page P-1261
+
+account      amount   see page
+Rahman          -36   P-2146
+Hughes         -574   P-2167
+Baker           -76   P-7585
+Umar           -293   P-6160
+Castillo       +578   P-2146
+Tanaka         -679   P-4560
+Quinn           +24   P-6684
+
+Follow the entry whose amount is closest to zero.

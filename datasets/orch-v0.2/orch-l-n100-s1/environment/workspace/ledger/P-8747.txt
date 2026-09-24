@@ -1,0 +1,12 @@
+Ledger page P-8747
+
+account      amount   see page
+Grant          -810   P-2098
+Vance          -333   P-4213
+Jensen         +123   P-8620
+Kowalski       -712   P-9647
+Abbott         -736   P-7246
+Silva          -581   P-1061
+Zhou            -59   P-2360
+
+Follow the entry with the second-largest amount.

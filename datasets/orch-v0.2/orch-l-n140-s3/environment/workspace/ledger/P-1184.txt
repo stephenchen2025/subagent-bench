@@ -1,0 +1,12 @@
+Ledger page P-1184
+
+account      amount   see page
+Rahman         -890   P-3386
+Grant          +500   P-3049
+Zhou           +775   P-4064
+Tanaka         -422   P-7611
+Osei           -571   P-3914
+Park            +68   P-8273
+Moreau         -107   P-4465
+
+Follow the debit belonging to the account that comes last alphabetically.

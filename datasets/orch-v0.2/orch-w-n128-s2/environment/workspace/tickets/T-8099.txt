@@ -1,0 +1,107 @@
+Ticket T-8099
+Customer: Maya Cohen
+Orders on file: ORD-29380, ORD-68742, ORD-79508, ORD-61118
+Opened: 2026-03-17 via chat transcript
+
+Order details:
+ORD-29380  placed 2026-06-24  status: returned  total: $399.37
+  payment method: card ending 5960  ship to: 884 Oak Rd
+  - yoga mat x1
+  - carabiner set x2
+  - stainless water bottle, 750ml x3
+  - microfiber cloth x2
+  - USB-C charging cable (2m) x3
+ORD-68742  placed 2026-06-12  status: delivered  total: $358.11
+  payment method: card ending 8398  ship to: 978 Mill St
+  - espresso grinder x1
+  - replacement filter cartridge, 3-pack x3
+  - spare battery pack x2
+  - USB-C charging cable (2m) x1
+  - travel pouch x1
+ORD-79508  placed 2026-02-15  status: delivered  total: $274.78
+  payment method: card ending 3583  ship to: 29 Oak Rd
+  - trail running shoes x1
+  - merino socks, size M x1
+  - USB-C charging cable (2m) x3
+  - replacement filter cartridge, 3-pack x2
+  - extended warranty, 2 years x1
+ORD-61118  placed 2026-05-18  status: in transit  total: $294.49
+  payment method: card ending 4540  ship to: 473 Oak St
+  - yoga mat x1
+  - gift wrap x1
+  - USB-C charging cable (2m) x2
+  - replacement filter cartridge, 3-pack x3
+
+--- message 1 from Maya Cohen ---
+Where is my refund for ORD-61118? You said 5 days and it has been 8. Tracking for ORD-79508 hasn't updated since Tuesday. I've been a customer for a few years and usually everything goes smoothly. My earlier order ORD-29380 arrived fine, no complaints there.
+
+Thanks,
+Maya Cohen
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Arjun (support) ---
+If you need an invoice for ORD-61118, you can download it from the Orders page. I've resent the confirmation email for ORD-79508 to the address on file. Our warehouse shows ORD-29380 left on schedule. I've added a note to your account so the next agent has the context.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Maya Cohen ---
+There's an extra line for ORD-68742 on my statement. It could just be a hold -- can you check? Is there a way to combine loyalty points from ORD-29380 with my next purchase? I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Maya Cohen
+
+--- message 4 from Arjun (support) ---
+I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble. Loyalty points post about a week after an order is delivered.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Maya Cohen ---
+Just checked again -- both charges for ORD-68742 are settled now, not pending. The carry-on suitcase itself is great, for what it's worth. I'm happy to send screenshots if that helps.
+
+Maya Cohen
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Arjun (support) ---
+Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier. Loyalty points post about a week after an order is delivered.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Arjun (support) ---
+I've checked with our payments team: both captures for ORD-68742 settled, so you were genuinely charged twice. I've issued a refund for the second one; it should show within 3-5 business days. I've updated your shipping address on file. For ORD-29380, the return window is 30 days from delivery.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Maya Cohen ---
+I tried the chat widget first but it kept disconnecting. Your app logged me out twice while I was looking at this, which didn't help. Is there a way to combine loyalty points from ORD-29380 with my next purchase? Tracking for ORD-79508 hasn't updated since Tuesday.
+
+Best regards,
+Maya Cohen
+
+--- message 9 from Arjun (support) ---
+For ORD-29380, the return window is 30 days from delivery. I can see all the orders on your account, including ORD-79508. If you need an invoice for ORD-61118, you can download it from the Orders page. Thanks for reaching out, and sorry for the trouble.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 10 from Maya Cohen ---
+Could you also tell me whether ORD-61118 qualifies for the extended return window? My earlier order ORD-29380 arrived fine, no complaints there. I've been a customer for a few years and usually everything goes smoothly. My partner placed ORD-29380 on our shared account, in case that matters.
+
+Thanks,
+Maya Cohen
+Sent from my phone -- please excuse typos.
+
+--- message 11 from Arjun (support) ---
+Tracking updates can lag by a day or two with this carrier. I can see all the orders on your account, including ORD-61118. Loyalty points post about a week after an order is delivered. I've updated your shipping address on file.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

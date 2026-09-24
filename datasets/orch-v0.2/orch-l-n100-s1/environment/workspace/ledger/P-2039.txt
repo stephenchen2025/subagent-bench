@@ -1,0 +1,11 @@
+Ledger page P-2039
+
+account      amount   see page
+Ibarra          +98   P-3740
+Dunn           -872   P-8443
+Silva           +35   P-7153
+Park           +450   P-9723
+Quinn          -251   P-5458
+Xu             +858   P-9572
+
+Follow the entry whose amount is closest to zero.

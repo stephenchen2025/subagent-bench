@@ -1,0 +1,11 @@
+Ledger page P-3416
+
+account      amount   see page
+Jensen         -335   P-2228
+Vance          +374   P-9647
+Silva          -803   P-6833
+Fofana          +24   P-5874
+Abbott         +556   P-9221
+Baker          -607   P-8411
+
+Follow the debit belonging to the account that comes last alphabetically.

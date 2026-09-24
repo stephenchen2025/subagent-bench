@@ -1,0 +1,12 @@
+Ledger page P-1525
+
+account      amount   see page
+Jensen         +557   P-3449
+Silva          -206   P-8268
+Osei           +438   P-1577
+Park           +639   P-9719
+Tanaka         -152   P-6665
+Young          -827   P-6082
+Vance          +766   P-1487
+
+Follow the entry with the largest credit.

@@ -1,0 +1,12 @@
+Ledger page P-7793
+
+account      amount   see page
+Xu              -87   P-7473
+Umar           +845   P-1713
+Tanaka         +890   P-2771
+Hughes         -834   P-8815
+Park           -627   P-3706
+Eriksen        -536   P-9256
+Kowalski        -77   P-1558
+
+Follow the entry whose amount is closest to zero.

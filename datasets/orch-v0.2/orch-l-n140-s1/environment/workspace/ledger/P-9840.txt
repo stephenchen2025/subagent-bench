@@ -1,0 +1,11 @@
+Ledger page P-9840
+
+account      amount   see page
+Weber          +310   P-6876
+Silva          +124   P-5546
+Grant          -155   P-5927
+Eriksen        +695   P-3970
+Osei           +521   P-5008
+Tanaka         +351   P-2610
+
+Follow the credit belonging to the account that comes first alphabetically.

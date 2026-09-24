@@ -1,0 +1,10 @@
+Ledger page P-8565
+
+account      amount   see page
+Young          -156   P-9050
+Baker          +570   P-5739
+Abbott         +749   P-1525
+Osei           -510   P-4094
+Grant          -567   P-8742
+
+Follow the entry with the largest debit (the most negative amount).

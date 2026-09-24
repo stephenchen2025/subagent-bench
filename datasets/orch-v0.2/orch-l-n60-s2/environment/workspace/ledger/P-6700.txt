@@ -1,0 +1,12 @@
+Ledger page P-6700
+
+account      amount   see page
+Rahman          -76   P-5094
+Moreau         +822   P-6996
+Dunn           -405   P-6115
+Osei           -711   P-6634
+Young          -144   P-2042
+Park           -712   P-8803
+Nakamura       +327   P-6698
+
+Follow the entry whose amount is closest to zero.

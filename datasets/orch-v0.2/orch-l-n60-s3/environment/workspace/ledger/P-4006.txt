@@ -1,0 +1,12 @@
+Ledger page P-4006
+
+account      amount   see page
+Dunn           +161   P-3830
+Moreau         +717   P-4006
+Lambert        -402   P-3584
+Weber          -135   P-1373
+Baker           -96   P-6337
+Vance          -376   P-8020
+Abbott         -421   P-5044
+
+Follow the entry whose amount is closest to zero.

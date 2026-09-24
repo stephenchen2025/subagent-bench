@@ -1,0 +1,11 @@
+Ledger page P-4512
+
+account      amount   see page
+Xu             +168   P-4202
+Tanaka         +658   P-7270
+Vance          +401   P-6740
+Ibarra         -283   P-1433
+Baker          +719   P-5026
+Zhou           +437   P-9199
+
+Follow the entry with the largest credit.

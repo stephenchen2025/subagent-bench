@@ -1,0 +1,12 @@
+Ledger page P-1589
+
+account      amount   see page
+Weber          +611   P-9931
+Tanaka         -212   P-7317
+Jensen         +689   P-8281
+Abbott         -600   P-8428
+Castillo       -734   P-1463
+Ibarra         -863   P-3529
+Xu             -260   P-3629
+
+Follow the entry with the largest credit.

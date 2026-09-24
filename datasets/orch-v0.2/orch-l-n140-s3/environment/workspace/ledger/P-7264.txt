@@ -1,0 +1,11 @@
+Ledger page P-7264
+
+account      amount   see page
+Dunn           -210   P-3984
+Lambert        +382   P-4653
+Quinn          +472   P-7812
+Tanaka         -895   P-2270
+Park            +16   P-6901
+Zhou           +597   P-1963
+
+Follow the entry with the largest debit (the most negative amount).

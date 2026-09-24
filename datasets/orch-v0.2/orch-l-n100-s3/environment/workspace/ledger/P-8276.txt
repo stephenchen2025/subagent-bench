@@ -1,0 +1,11 @@
+Ledger page P-8276
+
+account      amount   see page
+Umar           +694   P-6631
+Osei           +105   P-6184
+Castillo       -356   P-9002
+Xu             +373   P-9726
+Abbott          +42   P-1315
+Lambert        -340   P-2898
+
+Follow the debit belonging to the account that comes last alphabetically.

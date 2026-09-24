@@ -1,0 +1,11 @@
+Ledger page P-4020
+
+account      amount   see page
+Jensen         +776   P-1267
+Dunn           -841   P-2087
+Silva          -607   P-3506
+Fofana         -684   P-8308
+Xu             +225   P-2087
+Ibarra          -83   P-3230
+
+Follow the credit belonging to the account that comes first alphabetically.

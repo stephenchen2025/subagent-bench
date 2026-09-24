@@ -1,0 +1,12 @@
+Ledger page P-5619
+
+account      amount   see page
+Dunn           +122   P-8942
+Osei           +532   P-5686
+Zhou           +128   P-2991
+Ibarra         +348   P-3940
+Kowalski       +298   P-1757
+Eriksen        -459   P-7863
+Moreau         -574   P-3147
+
+Follow the credit belonging to the account that comes first alphabetically.

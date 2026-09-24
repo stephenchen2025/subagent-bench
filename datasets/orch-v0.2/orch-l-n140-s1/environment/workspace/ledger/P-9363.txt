@@ -1,0 +1,10 @@
+Ledger page P-9363
+
+account      amount   see page
+Eriksen        +555   P-6167
+Hughes         -776   P-4222
+Castillo        -35   P-2338
+Zhou           -512   P-4229
+Jensen         -203   P-2620
+
+Follow the debit belonging to the account that comes last alphabetically.

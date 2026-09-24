@@ -1,0 +1,57 @@
+Ticket T-4769
+Customer: Mateo Silva
+Orders on file: ORD-79818, ORD-81673, ORD-48301, ORD-59682
+Opened: 2026-07-05 via web form
+
+Order details:
+ORD-79818  placed 2026-02-05  status: in transit  total: $371.36
+  payment method: card ending 9070  ship to: 951 Elm Rd
+  - rain jacket x1
+  - extended warranty, 2 years x3
+  - spare battery pack x2
+ORD-81673  placed 2026-02-24  status: delivered  total: $79.23
+  payment method: card ending 4433  ship to: 306 Harbor Rd
+  - blender x1
+  - replacement filter cartridge, 3-pack x3
+  - extended warranty, 2 years x1
+  - USB-C charging cable (2m) x2
+ORD-48301  placed 2026-03-01  status: delivered  total: $88.87
+  payment method: card ending 1711  ship to: 738 Harbor Rd
+  - bike light set x1
+  - stainless water bottle, 750ml x2
+  - spare battery pack x1
+  - merino socks, size M x3
+  - replacement filter cartridge, 3-pack x3
+ORD-59682  placed 2026-01-22  status: delivered  total: $74.73
+  payment method: card ending 9823  ship to: 801 Cedar Ave
+  - mechanical keyboard x1
+  - stainless water bottle, 750ml x2
+  - gift wrap x2
+  - spare battery pack x1
+
+--- message 1 from Mateo Silva ---
+Where is my refund for ORD-59682? You said 5 days and it has been 8. I'm happy to send screenshots if that helps. Could you also tell me whether ORD-59682 qualifies for the extended return window? I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Mateo Silva
+
+--- message 2 from Rosa (support) ---
+Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-79818 left on schedule. I've updated your shipping address on file. I've resent the confirmation email for ORD-59682 to the address on file.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Mateo Silva ---
+Could you also tell me whether ORD-79818 qualifies for the extended return window? I changed my shipping address last month, so please double-check you have the new one. Tracking for ORD-79818 hasn't updated since Tuesday. My earlier order ORD-59682 arrived fine, no complaints there.
+
+Thanks,
+Mateo Silva
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Rosa (support) ---
+I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-59682, you can download it from the Orders page. I can see all the orders on your account, including ORD-79818.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

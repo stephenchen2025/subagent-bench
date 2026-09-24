@@ -1,0 +1,11 @@
+Ledger page P-5118
+
+account      amount   see page
+Castillo       -824   P-8565
+Young          -450   P-9320
+Hughes         -216   P-4432
+Rahman         +734   P-9044
+Grant          +594   P-7930
+Osei           -723   P-5458
+
+Follow the entry with the second-largest amount.

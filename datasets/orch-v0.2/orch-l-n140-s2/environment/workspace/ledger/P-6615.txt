@@ -1,0 +1,12 @@
+Ledger page P-6615
+
+account      amount   see page
+Baker          +112   P-6936
+Tanaka         +736   P-7346
+Vance          +179   P-4354
+Dunn           -354   P-3026
+Ibarra         +269   P-8001
+Fofana         -263   P-4644
+Osei           -462   P-4682
+
+Follow the entry with the second-largest amount.

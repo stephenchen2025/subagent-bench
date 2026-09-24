@@ -1,0 +1,87 @@
+Ticket T-3645
+Customer: Hana Sato
+Orders on file: ORD-78946, ORD-11355, ORD-42318, ORD-91384
+Opened: 2026-03-03 via web form
+
+Order details:
+ORD-78946  placed 2026-02-24  status: label created  total: $61.24
+  payment method: card ending 1154  ship to: 887 Elm St
+  - carry-on suitcase x1
+  - stainless water bottle, 750ml x3
+  - replacement filter cartridge, 3-pack x1
+ORD-11355  placed 2026-06-09  status: returned  total: $358.10
+  payment method: card ending 6710  ship to: 231 Mill Lane
+  - rain jacket x1
+  - microfiber cloth x1
+  - extended warranty, 2 years x3
+  - USB-C charging cable (2m) x1
+  - replacement filter cartridge, 3-pack x3
+ORD-42318  placed 2026-01-11  status: in transit  total: $178.29
+  payment method: card ending 9931  ship to: 852 Mill Ave
+  - wool blanket x1
+  - extended warranty, 2 years x3
+  - gift wrap x1
+  - travel pouch x3
+  - merino socks, size M x1
+ORD-91384  placed 2026-04-18  status: delivered  total: $184.10
+  payment method: card ending 8275  ship to: 327 Cedar St
+  - yoga mat x1
+  - replacement filter cartridge, 3-pack x2
+  - travel pouch x3
+  - carabiner set x1
+  - merino socks, size M x2
+
+--- message 1 from Hana Sato ---
+I'd like to return the water filter pitcher from ORD-42318; it's the wrong size. I'm travelling next week, so email is the best way to reach me. I'm happy to send screenshots if that helps. My partner placed ORD-42318 on our shared account, in case that matters.
+
+Thanks,
+Hana Sato
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Pete (support) ---
+Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-11355 to the address on file. Screenshots aren't necessary, but thank you for offering.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Hana Sato ---
+Not your fault, but my gym billed me twice this month, which is why I'm nervous about ORD-91384. Everything on your side looks like a single charge, I just wanted to confirm the delivery date. Is there a way to combine loyalty points from ORD-11355 with my next purchase? My partner placed ORD-11355 on our shared account, in case that matters.
+
+Thanks,
+Hana Sato
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Pete (support) ---
+I've added a note to your account so the next agent has the context. For ORD-11355, the return window is 30 days from delivery. Let me know if anything else looks off.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Hana Sato ---
+I'm travelling next week, so email is the best way to reach me. Tracking for ORD-11355 hasn't updated since Tuesday. I'd rather not call; the hold times last time were very long. The box for ORD-78946 was a bit crushed but the contents were fine.
+
+Thanks,
+Hana Sato
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Pete (support) ---
+I've updated your shipping address on file. I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-42318 to the address on file. Tracking updates can lag by a day or two with this carrier.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Hana Sato ---
+The box for ORD-11355 was a bit crushed but the contents were fine. The cast iron skillet itself is great, for what it's worth. My partner placed ORD-11355 on our shared account, in case that matters. I changed my shipping address last month, so please double-check you have the new one.
+
+Hana Sato
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Pete (support) ---
+Our warehouse shows ORD-78946 left on schedule. I've resent the confirmation email for ORD-42318 to the address on file. For ORD-78946, the return window is 30 days from delivery. I've updated your shipping address on file.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

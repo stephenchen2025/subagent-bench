@@ -1,0 +1,90 @@
+Ticket T-9973
+Customer: Liam O'Neill
+Orders on file: ORD-33953, ORD-88539, ORD-20482, ORD-46653
+Opened: 2026-07-19 via chat transcript
+
+Order details:
+ORD-33953  placed 2026-01-08  status: delivered  total: $157.20
+  payment method: card ending 2211  ship to: 65 Cedar Rd
+  - wool blanket x1
+  - travel pouch x1
+  - microfiber cloth x2
+  - carabiner set x1
+ORD-88539  placed 2026-04-19  status: label created  total: $358.00
+  payment method: card ending 8317  ship to: 589 Cedar Ave
+  - mechanical keyboard x1
+  - stainless water bottle, 750ml x3
+  - spare battery pack x2
+ORD-20482  placed 2026-03-15  status: delivered  total: $165.48
+  payment method: card ending 7567  ship to: 587 Mill Ave
+  - espresso grinder x1
+  - gift wrap x3
+  - carabiner set x3
+ORD-46653  placed 2026-06-28  status: delivered  total: $199.63
+  payment method: card ending 6584  ship to: 919 Elm Ave
+  - rain jacket x1
+  - extended warranty, 2 years x3
+  - USB-C charging cable (2m) x3
+  - replacement filter cartridge, 3-pack x1
+  - merino socks, size M x2
+
+--- message 1 from Liam O'Neill ---
+The yoga mat from ORD-20482 arrived with a scratch on the side. Can I get a replacement? Is there a way to combine loyalty points from ORD-20482 with my next purchase? The rain jacket itself is great, for what it's worth. I tried the chat widget first but it kept disconnecting.
+
+Liam O'Neill
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Fatima (support) ---
+Our warehouse shows ORD-88539 left on schedule. Let me know if anything else looks off. Loyalty points post about a week after an order is delivered. Screenshots aren't necessary, but thank you for offering.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Liam O'Neill ---
+You took the money for ORD-33953 a second time after it had already been paid. My earlier order ORD-20482 arrived fine, no complaints there. Could you also tell me whether ORD-88539 qualifies for the extended return window?
+
+Thanks,
+Liam O'Neill
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Fatima (support) ---
+I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-20482 to the address on file. If you need an invoice for ORD-20482, you can download it from the Orders page.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Fatima (support) ---
+Confirmed on our side -- ORD-33953 was captured twice by a retry in our checkout. One refund of $434.90 is on its way to you. Thanks for reaching out, and sorry for the trouble. Loyalty points post about a week after an order is delivered.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Liam O'Neill ---
+I'd rather not call; the hold times last time were very long. I changed my shipping address last month, so please double-check you have the new one. My partner placed ORD-88539 on our shared account, in case that matters. Tracking for ORD-20482 hasn't updated since Tuesday.
+
+Best regards,
+Liam O'Neill
+
+--- message 7 from Fatima (support) ---
+Tracking updates can lag by a day or two with this carrier. I can see all the orders on your account, including ORD-20482. Let me know if anything else looks off. For ORD-46653, the return window is 30 days from delivery.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Liam O'Neill ---
+The box for ORD-88539 was a bit crushed but the contents were fine. I'd rather not call; the hold times last time were very long. The confirmation email for ORD-20482 went to my spam folder, so I only just saw it. I'm happy to send screenshots if that helps.
+
+Thanks,
+Liam O'Neill
+Sent from my phone -- please excuse typos.
+
+--- message 9 from Fatima (support) ---
+Let me know if anything else looks off. I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble. Loyalty points post about a week after an order is delivered.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

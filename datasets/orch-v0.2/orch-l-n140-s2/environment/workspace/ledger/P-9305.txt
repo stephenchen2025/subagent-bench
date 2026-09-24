@@ -1,0 +1,12 @@
+Ledger page P-9305
+
+account      amount   see page
+Quinn          +843   P-3606
+Grant           -58   P-6232
+Ibarra         -121   P-4824
+Abbott         +330   P-9077
+Weber          +221   P-4783
+Jensen         -350   P-4046
+Vance          -385   P-8231
+
+Follow the debit belonging to the account that comes last alphabetically.

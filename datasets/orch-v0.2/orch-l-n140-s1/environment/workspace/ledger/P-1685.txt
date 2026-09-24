@@ -1,0 +1,12 @@
+Ledger page P-1685
+
+account      amount   see page
+Kowalski       +431   P-4111
+Lambert        +898   P-3539
+Ibarra         +883   P-7315
+Rahman         -795   P-3340
+Umar           +107   P-3335
+Vance          +320   P-7022
+Quinn          +396   P-6037
+
+Follow the entry with the largest credit.

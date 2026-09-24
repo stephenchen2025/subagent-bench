@@ -1,0 +1,10 @@
+Ledger page P-5880
+
+account      amount   see page
+Weber          +314   P-4913
+Eriksen        -651   P-9510
+Tanaka         -697   P-1566
+Dunn           +721   P-7547
+Lambert        -502   P-6597
+
+Follow the credit belonging to the account that comes first alphabetically.

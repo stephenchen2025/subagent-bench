@@ -1,0 +1,10 @@
+Ledger page P-5458
+
+account      amount   see page
+Ibarra           -3   P-9454
+Vance          +125   P-3596
+Kowalski       +791   P-8268
+Abbott          +22   P-2240
+Silva          +142   P-1841
+
+Follow the credit belonging to the account that comes first alphabetically.

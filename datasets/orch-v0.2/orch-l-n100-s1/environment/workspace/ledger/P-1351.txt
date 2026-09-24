@@ -1,0 +1,12 @@
+Ledger page P-1351
+
+account      amount   see page
+Silva          +338   P-3655
+Zhou           -730   P-2116
+Moreau         +232   P-2360
+Xu             +714   P-4847
+Weber          -713   P-8281
+Hughes         -624   P-8908
+Vance          -101   P-4672
+
+Follow the entry with the second-largest amount.

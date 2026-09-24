@@ -1,0 +1,12 @@
+Ledger page P-7911
+
+account      amount   see page
+Hughes         +543   P-8701
+Castillo       -587   P-1670
+Moreau         -371   P-7261
+Fofana         +886   P-3583
+Vance          +340   P-5497
+Zhou            -41   P-7359
+Ibarra         -731   P-9024
+
+Follow the entry with the largest debit (the most negative amount).

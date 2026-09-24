@@ -1,0 +1,10 @@
+Ledger page P-5985
+
+account      amount   see page
+Eriksen        -540   P-1861
+Moreau         -207   P-8392
+Lambert        +723   P-2801
+Tanaka         +277   P-6971
+Silva          +134   P-9351
+
+Follow the entry with the second-largest amount.

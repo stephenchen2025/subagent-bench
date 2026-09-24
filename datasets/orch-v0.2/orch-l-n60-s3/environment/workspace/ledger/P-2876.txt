@@ -1,0 +1,11 @@
+Ledger page P-2876
+
+account      amount   see page
+Nakamura       +589   P-4197
+Moreau         -156   P-7400
+Young          +848   P-9865
+Xu             -142   P-3011
+Eriksen        +375   P-3658
+Dunn            -65   P-2900
+
+Follow the debit belonging to the account that comes last alphabetically.

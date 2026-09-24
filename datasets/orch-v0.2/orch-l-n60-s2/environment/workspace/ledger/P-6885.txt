@@ -1,0 +1,12 @@
+Ledger page P-6885
+
+account      amount   see page
+Rahman         +889   P-2138
+Dunn           -145   P-6115
+Grant           +61   P-7523
+Young          +100   P-6034
+Tanaka         -568   P-6700
+Abbott         -846   P-5107
+Weber          +428   P-4694
+
+Follow the debit belonging to the account that comes last alphabetically.

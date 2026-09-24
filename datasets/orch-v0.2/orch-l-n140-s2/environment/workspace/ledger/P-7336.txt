@@ -1,0 +1,12 @@
+Ledger page P-7336
+
+account      amount   see page
+Young          +802   P-3721
+Dunn            +29   P-4564
+Umar           -228   P-2080
+Lambert         -36   P-4607
+Quinn          -769   P-7473
+Osei           -355   P-5908
+Rahman         -472   P-8594
+
+Follow the debit belonging to the account that comes last alphabetically.

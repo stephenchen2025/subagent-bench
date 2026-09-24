@@ -1,0 +1,11 @@
+Ledger page P-5179
+
+account      amount   see page
+Xu             +358   P-6703
+Castillo       +821   P-3062
+Hughes         +514   P-2807
+Moreau         -247   P-5999
+Grant          -233   P-4082
+Zhou           -821   P-4704
+
+Follow the entry with the largest credit.

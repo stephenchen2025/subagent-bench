@@ -1,0 +1,11 @@
+Ledger page P-2852
+
+account      amount   see page
+Kowalski       +646   P-9352
+Silva          -146   P-8441
+Jensen         +632   P-1803
+Xu             -517   P-2277
+Park           -554   P-3573
+Castillo       -589   P-6552
+
+Follow the entry with the second-largest amount.

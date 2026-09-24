@@ -1,0 +1,10 @@
+Ledger page P-2856
+
+account      amount   see page
+Fofana         -112   P-9736
+Umar           +442   P-3066
+Dunn           -368   P-5925
+Nakamura       -296   P-1723
+Young          +145   P-2358
+
+Follow the entry with the second-largest amount.

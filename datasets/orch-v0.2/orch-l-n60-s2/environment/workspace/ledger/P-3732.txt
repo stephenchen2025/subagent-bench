@@ -1,0 +1,10 @@
+Ledger page P-3732
+
+account      amount   see page
+Weber          +573   P-2847
+Hughes         -105   P-6034
+Jensen         +721   P-1656
+Tanaka         +242   P-4793
+Umar           -531   P-7013
+
+Follow the entry with the largest credit.

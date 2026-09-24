@@ -1,0 +1,11 @@
+Ledger page P-8733
+
+account      amount   see page
+Rahman          +28   P-2194
+Tanaka          -46   P-2848
+Fofana         +545   P-2760
+Ibarra         +582   P-6368
+Quinn          +886   P-1026
+Nakamura       +764   P-4334
+
+Follow the debit belonging to the account that comes last alphabetically.

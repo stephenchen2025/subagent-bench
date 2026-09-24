@@ -1,0 +1,11 @@
+Ledger page P-8946
+
+account      amount   see page
+Osei           +364   P-2790
+Fofana         -152   P-9346
+Ibarra         -376   P-6634
+Young           -63   P-9221
+Silva          +262   P-1001
+Weber          +510   P-9188
+
+Follow the debit belonging to the account that comes last alphabetically.

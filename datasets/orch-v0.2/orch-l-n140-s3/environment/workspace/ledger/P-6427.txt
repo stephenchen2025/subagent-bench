@@ -1,0 +1,11 @@
+Ledger page P-6427
+
+account      amount   see page
+Baker          -418   P-6399
+Quinn          +840   P-1487
+Rahman         -256   P-6651
+Moreau         +643   P-6561
+Castillo       -435   P-7629
+Eriksen         +39   P-6841
+
+Follow the entry whose amount is closest to zero.

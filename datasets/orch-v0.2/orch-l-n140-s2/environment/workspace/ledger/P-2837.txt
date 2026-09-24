@@ -1,0 +1,10 @@
+Ledger page P-2837
+
+account      amount   see page
+Zhou            +99   P-9414
+Abbott         +256   P-3277
+Silva          -281   P-8080
+Umar           -206   P-5848
+Eriksen        -335   P-4016
+
+Follow the entry with the second-largest amount.

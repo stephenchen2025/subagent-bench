@@ -1,0 +1,10 @@
+Ledger page P-3219
+
+account      amount   see page
+Tanaka         +306   P-7347
+Ibarra         +178   P-5827
+Abbott         -221   P-9788
+Umar           +496   P-3039
+Weber          +714   P-3861
+
+Follow the entry with the largest debit (the most negative amount).

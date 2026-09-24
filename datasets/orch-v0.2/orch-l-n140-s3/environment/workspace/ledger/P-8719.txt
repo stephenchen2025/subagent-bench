@@ -1,0 +1,10 @@
+Ledger page P-8719
+
+account      amount   see page
+Grant          +862   P-5443
+Moreau         -246   P-6494
+Vance          +777   P-2263
+Tanaka         +370   P-3236
+Ibarra          -84   P-2656
+
+Follow the credit belonging to the account that comes first alphabetically.

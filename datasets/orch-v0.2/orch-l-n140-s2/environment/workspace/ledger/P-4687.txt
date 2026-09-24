@@ -1,0 +1,12 @@
+Ledger page P-4687
+
+account      amount   see page
+Grant          +724   P-3665
+Xu             +723   P-1952
+Nakamura       -453   P-9207
+Kowalski       +261   P-3054
+Silva            +8   P-5388
+Moreau         +228   P-7346
+Osei           -612   P-7294
+
+Follow the entry with the largest debit (the most negative amount).

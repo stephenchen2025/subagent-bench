@@ -1,0 +1,12 @@
+Ledger page P-5999
+
+account      amount   see page
+Umar           -214   P-1675
+Weber          +400   P-2965
+Hughes          +23   P-6595
+Moreau         -814   P-9722
+Fofana          +32   P-1719
+Eriksen        +629   P-2663
+Ibarra         -297   P-1414
+
+Follow the debit belonging to the account that comes last alphabetically.

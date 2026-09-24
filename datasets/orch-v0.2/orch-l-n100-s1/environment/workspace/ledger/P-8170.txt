@@ -1,0 +1,10 @@
+Ledger page P-8170
+
+account      amount   see page
+Young          +703   P-8818
+Nakamura       -255   P-8600
+Dunn           +550   P-3401
+Grant          -652   P-9247
+Ibarra         -495   P-1195
+
+Follow the credit belonging to the account that comes first alphabetically.

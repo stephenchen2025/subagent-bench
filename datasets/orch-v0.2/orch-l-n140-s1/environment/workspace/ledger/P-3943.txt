@@ -1,0 +1,12 @@
+Ledger page P-3943
+
+account      amount   see page
+Hughes         +631   P-4810
+Moreau         -526   P-8222
+Weber          +640   P-6218
+Tanaka         +310   P-9584
+Nakamura       -503   P-9632
+Quinn          -151   P-6328
+Park           +678   P-9363
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,54 @@
+Ticket T-5180
+Customer: Aisha Karim
+Orders on file: ORD-95658, ORD-89156, ORD-90584, ORD-86578
+Opened: 2026-01-12 via chat transcript
+
+Order details:
+ORD-95658  placed 2026-06-02  status: delivered  total: $79.94
+  payment method: card ending 6690  ship to: 260 Cedar Ave
+  - wool blanket x1
+  - USB-C charging cable (2m) x3
+  - travel pouch x3
+ORD-89156  placed 2026-05-13  status: delivered  total: $302.77
+  payment method: card ending 8225  ship to: 904 Oak Lane
+  - carry-on suitcase x1
+  - stainless water bottle, 750ml x2
+  - gift wrap x3
+ORD-90584  placed 2026-06-21  status: delivered  total: $31.63
+  payment method: card ending 9137  ship to: 765 Cedar Rd
+  - wool blanket x1
+  - extended warranty, 2 years x2
+  - merino socks, size M x3
+ORD-86578  placed 2026-03-01  status: label created  total: $56.93
+  payment method: card ending 2316  ship to: 469 Oak Rd
+  - blender x1
+  - spare battery pack x1
+  - merino socks, size M x2
+  - travel pouch x1
+  - microfiber cloth x2
+
+--- message 1 from Aisha Karim ---
+I'd like to return the mechanical keyboard from ORD-95658; it's the wrong size. The box for ORD-89156 was a bit crushed but the contents were fine. I've been a customer for a few years and usually everything goes smoothly. The rain jacket itself is great, for what it's worth.
+
+Best regards,
+Aisha Karim
+
+--- message 2 from Dana (support) ---
+Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-89156 to the address on file. Our warehouse shows ORD-95658 left on schedule.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Aisha Karim ---
+The espresso grinder itself is great, for what it's worth. My earlier order ORD-89156 arrived fine, no complaints there. Is there a way to combine loyalty points from ORD-89156 with my next purchase? I tried the chat widget first but it kept disconnecting.
+
+Aisha Karim
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Dana (support) ---
+Let me know if anything else looks off. If you need an invoice for ORD-86578, you can download it from the Orders page. Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-86578 to the address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

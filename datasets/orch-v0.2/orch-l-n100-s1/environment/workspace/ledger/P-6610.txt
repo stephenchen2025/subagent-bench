@@ -1,0 +1,11 @@
+Ledger page P-6610
+
+account      amount   see page
+Fofana         +519   P-8735
+Osei           +732   P-9723
+Nakamura       +182   P-3784
+Grant          -366   P-3420
+Ibarra         +697   P-5813
+Park           -525   P-5225
+
+Follow the entry whose amount is closest to zero.

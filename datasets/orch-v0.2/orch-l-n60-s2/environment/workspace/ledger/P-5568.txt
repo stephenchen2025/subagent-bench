@@ -1,0 +1,11 @@
+Ledger page P-5568
+
+account      amount   see page
+Rahman         -343   P-4051
+Castillo       +580   P-3179
+Park           +783   P-9698
+Hughes         +517   P-9559
+Abbott         +800   P-2529
+Baker          +564   P-8187
+
+Follow the entry with the largest debit (the most negative amount).

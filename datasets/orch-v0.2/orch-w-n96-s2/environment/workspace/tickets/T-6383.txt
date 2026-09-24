@@ -1,0 +1,57 @@
+Ticket T-6383
+Customer: Samir Patel
+Orders on file: ORD-74026, ORD-53925, ORD-42900, ORD-84614
+Opened: 2026-06-16 via email
+
+Order details:
+ORD-74026  placed 2026-03-12  status: label created  total: $292.29
+  payment method: card ending 8126  ship to: 454 Oak Rd
+  - blender x1
+  - stainless water bottle, 750ml x2
+  - microfiber cloth x3
+ORD-53925  placed 2026-03-25  status: delivered  total: $36.05
+  payment method: card ending 5662  ship to: 60 Harbor Ave
+  - blender x1
+  - carabiner set x2
+  - USB-C charging cable (2m) x3
+  - travel pouch x1
+  - microfiber cloth x1
+ORD-42900  placed 2026-02-18  status: in transit  total: $455.38
+  payment method: card ending 2098  ship to: 886 Oak Ave
+  - rain jacket x1
+  - microfiber cloth x1
+  - stainless water bottle, 750ml x3
+ORD-84614  placed 2026-05-12  status: delivered  total: $329.82
+  payment method: card ending 3531  ship to: 698 Cedar St
+  - trail running shoes x1
+  - USB-C charging cable (2m) x2
+  - extended warranty, 2 years x1
+  - merino socks, size M x3
+  - gift wrap x1
+
+--- message 1 from Samir Patel ---
+Can I use a gift card on ORD-74026, or is it too late? Your app logged me out twice while I was looking at this, which didn't help. I've been a customer for a few years and usually everything goes smoothly. The water filter pitcher itself is great, for what it's worth.
+
+Thanks,
+Samir Patel
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Keiko (support) ---
+Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-53925 to the address on file. I can see all the orders on your account, including ORD-53925. Let me know if anything else looks off.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Samir Patel ---
+I've been a customer for a few years and usually everything goes smoothly. Tracking for ORD-53925 hasn't updated since Tuesday. The yoga mat itself is great, for what it's worth. My earlier order ORD-74026 arrived fine, no complaints there.
+
+Samir Patel
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Keiko (support) ---
+Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier. If you need an invoice for ORD-74026, you can download it from the Orders page. For ORD-53925, the return window is 30 days from delivery.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

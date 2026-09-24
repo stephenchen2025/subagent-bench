@@ -1,0 +1,12 @@
+Ledger page P-6266
+
+account      amount   see page
+Fofana         -688   P-4266
+Abbott         -616   P-1267
+Lambert        +482   P-2703
+Grant          -880   P-5993
+Umar           -333   P-3685
+Rahman         +144   P-3284
+Silva          -325   P-6848
+
+Follow the entry with the largest debit (the most negative amount).

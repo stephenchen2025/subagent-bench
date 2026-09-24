@@ -1,0 +1,81 @@
+Ticket T-5476
+Customer: Liam O'Neill
+Orders on file: ORD-89594, ORD-18074, ORD-97463, ORD-23240
+Opened: 2026-01-03 via chat transcript
+
+Order details:
+ORD-89594  placed 2026-07-11  status: in transit  total: $400.45
+  payment method: card ending 1720  ship to: 907 Mill Rd
+  - desk lamp x1
+  - spare battery pack x2
+  - merino socks, size M x3
+ORD-18074  placed 2026-02-08  status: delivered  total: $129.05
+  payment method: card ending 3742  ship to: 901 Mill Lane
+  - espresso grinder x1
+  - merino socks, size M x3
+  - gift wrap x2
+  - travel pouch x1
+ORD-97463  placed 2026-03-16  status: delivered  total: $90.97
+  payment method: card ending 5990  ship to: 237 Elm St
+  - mechanical keyboard x1
+  - carabiner set x2
+  - microfiber cloth x1
+ORD-23240  placed 2026-07-24  status: delivered  total: $410.84
+  payment method: card ending 1419  ship to: 829 Oak Lane
+  - trail running shoes x1
+  - travel pouch x1
+  - carabiner set x1
+
+--- message 1 from Liam O'Neill ---
+Can I use a gift card on ORD-18074, or is it too late? Your app logged me out twice while I was looking at this, which didn't help. Could you also tell me whether ORD-89594 qualifies for the extended return window? I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Liam O'Neill
+
+--- message 2 from Marcus (support) ---
+I've added a note to your account so the next agent has the context. Our warehouse shows ORD-23240 left on schedule. Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-18074, you can download it from the Orders page.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Liam O'Neill ---
+I see two charges on the card app this week, one for ORD-97463 and one for ORD-89594. Both are correct -- I ordered twice on purpose -- but could you send me the invoices for my expense report? I'd rather not call; the hold times last time were very long. I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Liam O'Neill
+
+--- message 4 from Marcus (support) ---
+Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier. I've resent the confirmation email for ORD-89594 to the address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Liam O'Neill ---
+I've been a customer for a few years and usually everything goes smoothly. The box for ORD-89594 was a bit crushed but the contents were fine. Your app logged me out twice while I was looking at this, which didn't help. My partner placed ORD-18074 on our shared account, in case that matters.
+
+Thanks,
+Liam O'Neill
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Marcus (support) ---
+Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-89594. Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-23240 left on schedule.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Liam O'Neill ---
+Tracking for ORD-89594 hasn't updated since Tuesday. My partner placed ORD-89594 on our shared account, in case that matters. I'm travelling next week, so email is the best way to reach me. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Liam O'Neill
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Marcus (support) ---
+If you need an invoice for ORD-23240, you can download it from the Orders page. Loyalty points post about a week after an order is delivered. I can see all the orders on your account, including ORD-18074. Tracking updates can lag by a day or two with this carrier.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

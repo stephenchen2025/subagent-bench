@@ -1,0 +1,11 @@
+Ledger page P-5991
+
+account      amount   see page
+Nakamura       +367   P-7729
+Fofana         -843   P-2656
+Umar           +593   P-1080
+Rahman         -875   P-7611
+Tanaka         -493   P-9551
+Osei           +814   P-9188
+
+Follow the entry with the largest debit (the most negative amount).

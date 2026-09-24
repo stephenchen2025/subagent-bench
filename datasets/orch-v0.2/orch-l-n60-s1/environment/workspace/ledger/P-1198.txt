@@ -1,0 +1,10 @@
+Ledger page P-1198
+
+account      amount   see page
+Vance          -846   P-4540
+Grant          -674   P-5880
+Umar           -527   P-7614
+Jensen         +239   P-2196
+Kowalski       -242   P-7893
+
+Follow the entry with the largest credit.

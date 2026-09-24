@@ -1,0 +1,11 @@
+Ledger page P-5912
+
+account      amount   see page
+Rahman         -362   P-8313
+Eriksen        +255   P-3654
+Castillo       +869   P-4222
+Ibarra         +485   P-7420
+Nakamura       +379   P-7378
+Osei           -155   P-7524
+
+Follow the entry with the second-largest amount.

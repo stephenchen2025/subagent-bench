@@ -1,0 +1,10 @@
+Ledger page P-1655
+
+account      amount   see page
+Zhou           +287   P-5456
+Hughes         -161   P-8653
+Xu             +666   P-3236
+Kowalski       -603   P-7729
+Park             +4   P-9301
+
+Follow the entry whose amount is closest to zero.

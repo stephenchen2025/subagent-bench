@@ -1,0 +1,11 @@
+Ledger page P-4891
+
+account      amount   see page
+Nakamura       +101   P-9196
+Eriksen        +407   P-3249
+Baker          -681   P-8289
+Zhou           -491   P-9790
+Kowalski       +424   P-6897
+Lambert        -425   P-1332
+
+Follow the debit belonging to the account that comes last alphabetically.

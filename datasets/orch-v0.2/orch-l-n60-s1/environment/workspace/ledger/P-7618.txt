@@ -1,0 +1,12 @@
+Ledger page P-7618
+
+account      amount   see page
+Dunn           -225   P-7146
+Tanaka         -288   P-6553
+Fofana         +592   P-4626
+Nakamura       +680   P-7502
+Weber          +217   P-4403
+Park           +166   P-4540
+Hughes          -95   P-4760
+
+Follow the entry whose amount is closest to zero.

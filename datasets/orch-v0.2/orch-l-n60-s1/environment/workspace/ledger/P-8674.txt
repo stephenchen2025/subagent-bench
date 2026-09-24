@@ -1,0 +1,11 @@
+Ledger page P-8674
+
+account      amount   see page
+Vance          +885   P-4738
+Fofana          -21   P-4837
+Hughes         +502   P-4540
+Rahman         +461   P-6219
+Zhou           -398   P-8318
+Tanaka         +663   P-7614
+
+Follow the entry with the second-largest amount.

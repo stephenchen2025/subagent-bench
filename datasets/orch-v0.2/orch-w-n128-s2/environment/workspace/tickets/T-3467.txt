@@ -1,0 +1,80 @@
+Ticket T-3467
+Customer: Noah Fischer
+Orders on file: ORD-52423, ORD-84787, ORD-94742, ORD-44835
+Opened: 2026-05-28 via chat transcript
+
+Order details:
+ORD-52423  placed 2026-02-17  status: returned  total: $255.57
+  payment method: card ending 1148  ship to: 809 Cedar Rd
+  - standing desk x1
+  - spare battery pack x3
+  - stainless water bottle, 750ml x3
+ORD-84787  placed 2026-05-06  status: returned  total: $30.35
+  payment method: card ending 3132  ship to: 779 Mill Lane
+  - camping stove x1
+  - carabiner set x2
+  - USB-C charging cable (2m) x3
+ORD-94742  placed 2026-08-15  status: delivered  total: $102.50
+  payment method: card ending 8612  ship to: 252 Elm St
+  - blender x1
+  - replacement filter cartridge, 3-pack x1
+  - microfiber cloth x2
+ORD-44835  placed 2026-07-18  status: delivered  total: $300.44
+  payment method: card ending 8551  ship to: 394 Harbor Rd
+  - blender x1
+  - spare battery pack x2
+  - replacement filter cartridge, 3-pack x3
+
+--- message 1 from Noah Fischer ---
+I'd like to return the cast iron skillet from ORD-44835; it's the wrong size. The standing desk itself is great, for what it's worth. The confirmation email for ORD-84787 went to my spam folder, so I only just saw it. I tried the chat widget first but it kept disconnecting.
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Keiko (support) ---
+Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-52423, you can download it from the Orders page. Let me know if anything else looks off. I've updated your shipping address on file.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Noah Fischer ---
+ORD-94742 shows up once in my order history, but the card app shows it paid for on two separate lines. I tried the chat widget first but it kept disconnecting. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Keiko (support) ---
+Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-52423 left on schedule. Screenshots aren't necessary, but thank you for offering.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Noah Fischer ---
+I'm happy to send screenshots if that helps. Is there a way to combine loyalty points from ORD-44835 with my next purchase? The confirmation email for ORD-52423 went to my spam folder, so I only just saw it. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Noah Fischer
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Keiko (support) ---
+Loyalty points post about a week after an order is delivered. Let me know if anything else looks off. If you need an invoice for ORD-52423, you can download it from the Orders page. Our warehouse shows ORD-52423 left on schedule.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Noah Fischer ---
+I'm travelling next week, so email is the best way to reach me. Your app logged me out twice while I was looking at this, which didn't help. Tracking for ORD-52423 hasn't updated since Tuesday. Could you also tell me whether ORD-84787 qualifies for the extended return window?
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Keiko (support) ---
+Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier. If you need an invoice for ORD-44835, you can download it from the Orders page.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

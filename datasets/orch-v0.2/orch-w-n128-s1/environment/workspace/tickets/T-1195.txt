@@ -1,0 +1,81 @@
+Ticket T-1195
+Customer: Priya Raman
+Orders on file: ORD-71153, ORD-96788, ORD-65393, ORD-87745
+Opened: 2026-01-28 via email
+
+Order details:
+ORD-71153  placed 2026-04-14  status: label created  total: $77.61
+  payment method: card ending 3615  ship to: 965 Mill Lane
+  - cast iron skillet x1
+  - gift wrap x1
+  - microfiber cloth x2
+  - carabiner set x2
+ORD-96788  placed 2026-07-21  status: returned  total: $450.46
+  payment method: card ending 5069  ship to: 817 Elm Ave
+  - rain jacket x1
+  - merino socks, size M x1
+  - carabiner set x1
+  - spare battery pack x2
+ORD-65393  placed 2026-01-18  status: delivered  total: $161.26
+  payment method: card ending 2066  ship to: 677 Elm St
+  - wool blanket x1
+  - merino socks, size M x2
+  - microfiber cloth x2
+ORD-87745  placed 2026-06-03  status: delivered  total: $92.75
+  payment method: card ending 2667  ship to: 214 Oak Rd
+  - espresso grinder x1
+  - stainless water bottle, 750ml x3
+  - spare battery pack x1
+
+--- message 1 from Priya Raman ---
+Where is my refund for ORD-65393? You said 5 days and it has been 8. The confirmation email for ORD-71153 went to my spam folder, so I only just saw it. Tracking for ORD-65393 hasn't updated since Tuesday. My partner placed ORD-96788 on our shared account, in case that matters.
+
+Best regards,
+Priya Raman
+
+--- message 2 from Keiko (support) ---
+Loyalty points post about a week after an order is delivered. I can see all the orders on your account, including ORD-96788. If you need an invoice for ORD-65393, you can download it from the Orders page. I've added a note to your account so the next agent has the context.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Priya Raman ---
+ORD-87745 shows up once in my order history, but my bank shows it paid for on two separate lines. My partner placed ORD-65393 on our shared account, in case that matters. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Priya Raman
+
+--- message 4 from Keiko (support) ---
+Our payment logs show a single capture for ORD-87745. The extra line you saw was an authorization that expired on its own -- no money was taken for it. For ORD-71153, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Priya Raman ---
+Thanks, I see it now: one payment for ORD-87745, the other one disappeared. All good. Tracking for ORD-96788 hasn't updated since Tuesday. I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Priya Raman
+
+--- message 6 from Keiko (support) ---
+I've resent the confirmation email for ORD-65393 to the address on file. I can see all the orders on your account, including ORD-71153. Thanks for reaching out, and sorry for the trouble.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Priya Raman ---
+Could you also tell me whether ORD-65393 qualifies for the extended return window? I changed my shipping address last month, so please double-check you have the new one. The camping stove itself is great, for what it's worth. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Priya Raman
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Keiko (support) ---
+For ORD-71153, the return window is 30 days from delivery. I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble. Loyalty points post about a week after an order is delivered.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

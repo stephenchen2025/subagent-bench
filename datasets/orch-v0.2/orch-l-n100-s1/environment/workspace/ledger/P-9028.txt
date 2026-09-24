@@ -1,0 +1,11 @@
+Ledger page P-9028
+
+account      amount   see page
+Hughes         -192   P-4432
+Fofana         -265   P-2848
+Xu             +719   P-5850
+Nakamura       -564   P-5858
+Park           +189   P-8084
+Abbott         +840   P-1525
+
+Follow the credit belonging to the account that comes first alphabetically.

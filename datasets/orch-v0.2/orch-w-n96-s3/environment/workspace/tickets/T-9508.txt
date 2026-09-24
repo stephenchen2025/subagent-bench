@@ -1,0 +1,61 @@
+Ticket T-9508
+Customer: Ravi Iyer
+Orders on file: ORD-69613, ORD-93632, ORD-24821, ORD-66850
+Opened: 2026-03-10 via email
+
+Order details:
+ORD-69613  placed 2026-05-20  status: in transit  total: $240.76
+  payment method: card ending 7984  ship to: 561 Oak Rd
+  - cast iron skillet x1
+  - replacement filter cartridge, 3-pack x1
+  - extended warranty, 2 years x3
+ORD-93632  placed 2026-01-03  status: delivered  total: $188.82
+  payment method: card ending 1703  ship to: 626 Harbor Rd
+  - wool blanket x1
+  - gift wrap x1
+  - carabiner set x2
+ORD-24821  placed 2026-07-23  status: in transit  total: $389.42
+  payment method: card ending 8817  ship to: 584 Harbor Ave
+  - mechanical keyboard x1
+  - extended warranty, 2 years x3
+  - merino socks, size M x3
+  - travel pouch x2
+ORD-66850  placed 2026-01-03  status: in transit  total: $439.80
+  payment method: card ending 6717  ship to: 929 Elm St
+  - water filter pitcher x1
+  - carabiner set x1
+  - USB-C charging cable (2m) x3
+
+--- message 1 from Ravi Iyer ---
+Can I use a gift card on ORD-66850, or is it too late? My partner placed ORD-66850 on our shared account, in case that matters. My earlier order ORD-93632 arrived fine, no complaints there. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Ravi Iyer
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Arjun (support) ---
+Let me know if anything else looks off. Our warehouse shows ORD-93632 left on schedule. I can see all the orders on your account, including ORD-66850. Screenshots aren't necessary, but thank you for offering.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ravi Iyer ---
+I got two receipts for ORD-69613, and both amounts actually left my account. Is there a way to combine loyalty points from ORD-93632 with my next purchase? Tracking for ORD-93632 hasn't updated since Tuesday.
+
+Thanks,
+Ravi Iyer
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Ravi Iyer ---
+I changed my shipping address last month, so please double-check you have the new one. I'd rather not call; the hold times last time were very long. The box for ORD-24821 was a bit crushed but the contents were fine. Is there a way to combine loyalty points from ORD-66850 with my next purchase?
+
+Ravi Iyer
+(Please reply by email rather than phone if possible.)
+
+--- message 5 from Arjun (support) ---
+Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier. Let me know if anything else looks off. For ORD-66850, the return window is 30 days from delivery.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

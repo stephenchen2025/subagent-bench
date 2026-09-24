@@ -1,0 +1,56 @@
+Ticket T-8200
+Customer: Tomas Novak
+Orders on file: ORD-98273, ORD-86990, ORD-53002, ORD-77413
+Opened: 2026-08-03 via chat transcript
+
+Order details:
+ORD-98273  placed 2026-08-14  status: label created  total: $323.88
+  payment method: card ending 9898  ship to: 318 Mill Lane
+  - desk lamp x1
+  - extended warranty, 2 years x3
+  - spare battery pack x2
+ORD-86990  placed 2026-04-08  status: returned  total: $318.17
+  payment method: card ending 9378  ship to: 731 Oak Ave
+  - water filter pitcher x1
+  - stainless water bottle, 750ml x1
+  - replacement filter cartridge, 3-pack x2
+  - USB-C charging cable (2m) x2
+  - merino socks, size M x2
+ORD-53002  placed 2026-01-27  status: returned  total: $166.05
+  payment method: card ending 9354  ship to: 320 Elm Lane
+  - carry-on suitcase x1
+  - gift wrap x2
+  - stainless water bottle, 750ml x3
+  - microfiber cloth x2
+ORD-77413  placed 2026-06-01  status: in transit  total: $451.48
+  payment method: card ending 4354  ship to: 42 Oak St
+  - trail running shoes x1
+  - microfiber cloth x1
+  - carabiner set x1
+
+--- message 1 from Tomas Novak ---
+Where is my refund for ORD-98273? You said 5 days and it has been 8. My earlier order ORD-86990 arrived fine, no complaints there. Is there a way to combine loyalty points from ORD-98273 with my next purchase? The yoga mat itself is great, for what it's worth.
+
+Best regards,
+Tomas Novak
+
+--- message 2 from Fatima (support) ---
+Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context. Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-86990 to the address on file.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Tomas Novak ---
+My partner placed ORD-86990 on our shared account, in case that matters. I changed my shipping address last month, so please double-check you have the new one. I'd rather not call; the hold times last time were very long. Could you also tell me whether ORD-53002 qualifies for the extended return window?
+
+Thanks,
+Tomas Novak
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Fatima (support) ---
+For ORD-53002, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context. If you need an invoice for ORD-86990, you can download it from the Orders page. I've resent the confirmation email for ORD-53002 to the address on file.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

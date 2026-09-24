@@ -1,0 +1,10 @@
+Ledger page P-1487
+
+account      amount   see page
+Hughes         -837   P-5820
+Abbott         +805   P-8565
+Umar           -511   P-1967
+Castillo       -824   P-2813
+Nakamura       +234   P-1853
+
+Follow the entry with the second-largest amount.

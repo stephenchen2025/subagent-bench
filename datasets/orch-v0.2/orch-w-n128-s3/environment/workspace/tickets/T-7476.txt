@@ -1,0 +1,68 @@
+Ticket T-7476
+Customer: Yuki Tanaka
+Orders on file: ORD-99673, ORD-48933, ORD-16471, ORD-51907
+Opened: 2026-07-16 via email
+
+Order details:
+ORD-99673  placed 2026-05-16  status: returned  total: $165.99
+  payment method: card ending 1309  ship to: 436 Mill Rd
+  - mechanical keyboard x1
+  - merino socks, size M x1
+  - microfiber cloth x2
+ORD-48933  placed 2026-04-09  status: in transit  total: $419.24
+  payment method: card ending 9121  ship to: 652 Elm Ave
+  - espresso grinder x1
+  - spare battery pack x3
+  - USB-C charging cable (2m) x1
+  - gift wrap x2
+  - merino socks, size M x1
+ORD-16471  placed 2026-07-18  status: delivered  total: $22.66
+  payment method: card ending 4942  ship to: 939 Cedar St
+  - camping stove x1
+  - merino socks, size M x2
+  - spare battery pack x2
+ORD-51907  placed 2026-04-25  status: delivered  total: $37.49
+  payment method: card ending 5869  ship to: 417 Elm Lane
+  - carry-on suitcase x1
+  - carabiner set x2
+  - stainless water bottle, 750ml x3
+  - gift wrap x3
+
+--- message 1 from Yuki Tanaka ---
+How do I reset my password? The reset link keeps expiring. My partner placed ORD-48933 on our shared account, in case that matters. I've been a customer for a few years and usually everything goes smoothly. Tracking for ORD-51907 hasn't updated since Tuesday.
+
+Best regards,
+Yuki Tanaka
+
+--- message 2 from Marcus (support) ---
+Our warehouse shows ORD-99673 left on schedule. I've updated your shipping address on file. Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Yuki Tanaka ---
+ORD-16471 shows up once in my order history, but my online banking shows it paid for on two separate lines. I tried the chat widget first but it kept disconnecting. My earlier order ORD-48933 arrived fine, no complaints there.
+
+Best regards,
+Yuki Tanaka
+
+--- message 4 from Marcus (support) ---
+I've added a note to your account so the next agent has the context. Our warehouse shows ORD-48933 left on schedule. I've updated your shipping address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Yuki Tanaka ---
+Could you also tell me whether ORD-48933 qualifies for the extended return window? Your app logged me out twice while I was looking at this, which didn't help. The confirmation email for ORD-48933 went to my spam folder, so I only just saw it. Is there a way to combine loyalty points from ORD-48933 with my next purchase?
+
+Best regards,
+Yuki Tanaka
+
+--- message 6 from Marcus (support) ---
+Let me know if anything else looks off. If you need an invoice for ORD-99673, you can download it from the Orders page. I can see all the orders on your account, including ORD-51907. I've added a note to your account so the next agent has the context.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

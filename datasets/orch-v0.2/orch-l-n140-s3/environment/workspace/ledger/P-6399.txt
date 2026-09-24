@@ -1,0 +1,11 @@
+Ledger page P-6399
+
+account      amount   see page
+Osei           +467   P-8146
+Fofana         +874   P-8665
+Ibarra         -549   P-1670
+Eriksen        -781   P-9606
+Baker          +592   P-5688
+Zhou           +154   P-7262
+
+Follow the debit belonging to the account that comes last alphabetically.

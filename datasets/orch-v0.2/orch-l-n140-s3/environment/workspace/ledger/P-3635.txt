@@ -1,0 +1,10 @@
+Ledger page P-3635
+
+account      amount   see page
+Eriksen        +189   P-5183
+Quinn           +28   P-3219
+Ibarra         +234   P-3360
+Silva          -601   P-1252
+Tanaka         +810   P-3644
+
+Follow the entry whose amount is closest to zero.

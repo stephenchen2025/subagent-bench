@@ -1,0 +1,10 @@
+Ledger page P-4197
+
+account      amount   see page
+Abbott         -563   P-5103
+Osei             +5   P-1141
+Park           +395   P-4148
+Umar           -326   P-3477
+Eriksen        -365   P-6208
+
+Follow the entry with the largest credit.

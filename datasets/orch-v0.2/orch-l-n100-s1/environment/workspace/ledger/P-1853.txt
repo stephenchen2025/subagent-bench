@@ -1,0 +1,12 @@
+Ledger page P-1853
+
+account      amount   see page
+Young          -315   P-8170
+Jensen         -482   P-1157
+Weber          +717   P-9572
+Xu             -118   P-9048
+Dunn           -421   P-5739
+Ibarra         +311   P-3094
+Grant          +189   P-8395
+
+Follow the entry with the second-largest amount.

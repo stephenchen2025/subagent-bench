@@ -1,0 +1,72 @@
+Ticket T-8078
+Customer: Ines Duarte
+Orders on file: ORD-74920, ORD-63234, ORD-57741, ORD-97671
+Opened: 2026-04-28 via web form
+
+Order details:
+ORD-74920  placed 2026-01-23  status: delivered  total: $157.03
+  payment method: card ending 5746  ship to: 172 Cedar Rd
+  - trail running shoes x1
+  - extended warranty, 2 years x2
+  - replacement filter cartridge, 3-pack x2
+  - gift wrap x1
+ORD-63234  placed 2026-07-27  status: in transit  total: $64.14
+  payment method: card ending 4311  ship to: 317 Cedar Ave
+  - bike light set x1
+  - travel pouch x3
+  - gift wrap x3
+  - stainless water bottle, 750ml x2
+  - spare battery pack x3
+ORD-57741  placed 2026-07-13  status: label created  total: $362.03
+  payment method: card ending 2528  ship to: 228 Oak St
+  - rain jacket x1
+  - extended warranty, 2 years x1
+  - replacement filter cartridge, 3-pack x1
+  - spare battery pack x3
+  - gift wrap x1
+ORD-97671  placed 2026-04-19  status: delivered  total: $249.88
+  payment method: card ending 5687  ship to: 283 Harbor St
+  - mechanical keyboard x1
+  - microfiber cloth x2
+  - stainless water bottle, 750ml x2
+
+--- message 1 from Ines Duarte ---
+Can I use a gift card on ORD-57741, or is it too late? My partner placed ORD-57741 on our shared account, in case that matters. My earlier order ORD-74920 arrived fine, no complaints there. The box for ORD-57741 was a bit crushed but the contents were fine.
+
+Thanks,
+Ines Duarte
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Dana (support) ---
+I've updated your shipping address on file. I can see all the orders on your account, including ORD-74920. Let me know if anything else looks off. Loyalty points post about a week after an order is delivered.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ines Duarte ---
+I changed my shipping address last month, so please double-check you have the new one. Tracking for ORD-97671 hasn't updated since Tuesday. My partner placed ORD-74920 on our shared account, in case that matters. Could you also tell me whether ORD-74920 qualifies for the extended return window?
+
+Thanks,
+Ines Duarte
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Dana (support) ---
+Loyalty points post about a week after an order is delivered. Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Ines Duarte ---
+My earlier order ORD-57741 arrived fine, no complaints there. I tried the chat widget first but it kept disconnecting. Could you also tell me whether ORD-74920 qualifies for the extended return window? I'd rather not call; the hold times last time were very long.
+
+Ines Duarte
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Dana (support) ---
+I've resent the confirmation email for ORD-97671 to the address on file. Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-97671. For ORD-57741, the return window is 30 days from delivery.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

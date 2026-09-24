@@ -1,0 +1,11 @@
+Ledger page P-4812
+
+account      amount   see page
+Eriksen        -685   P-2779
+Umar            +60   P-5992
+Ibarra         +375   P-7576
+Silva           -61   P-4898
+Tanaka         +411   P-7967
+Zhou           +761   P-4759
+
+Follow the credit belonging to the account that comes first alphabetically.

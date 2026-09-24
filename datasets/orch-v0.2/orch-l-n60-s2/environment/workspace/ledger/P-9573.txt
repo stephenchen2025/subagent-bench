@@ -1,0 +1,12 @@
+Ledger page P-9573
+
+account      amount   see page
+Quinn          +772   P-5223
+Ibarra         -633   P-5473
+Weber          -309   P-9719
+Baker          -361   P-1781
+Tanaka         -105   P-5014
+Vance          -753   P-8289
+Osei           -605   P-6700
+
+Follow the entry with the largest credit.

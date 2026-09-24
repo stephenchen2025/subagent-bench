@@ -1,0 +1,10 @@
+Ledger page P-5107
+
+account      amount   see page
+Moreau         -282   P-6606
+Vance          -865   P-8198
+Umar           -571   P-5934
+Quinn          -243   P-8856
+Grant          +295   P-7290
+
+Follow the entry with the largest debit (the most negative amount).

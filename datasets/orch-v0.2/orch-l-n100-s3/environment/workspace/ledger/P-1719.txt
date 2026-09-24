@@ -1,0 +1,12 @@
+Ledger page P-1719
+
+account      amount   see page
+Umar           +727   P-6576
+Lambert        +499   P-9800
+Moreau         -192   P-6298
+Kowalski       +345   P-2797
+Fofana         -460   P-3096
+Baker          +877   P-2184
+Zhou           -127   P-9689
+
+Follow the entry with the largest debit (the most negative amount).

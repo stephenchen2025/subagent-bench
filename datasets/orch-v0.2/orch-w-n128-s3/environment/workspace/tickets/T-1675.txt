@@ -1,0 +1,82 @@
+Ticket T-1675
+Customer: Priya Raman
+Orders on file: ORD-65790, ORD-56634, ORD-69389, ORD-90325
+Opened: 2026-02-10 via email
+
+Order details:
+ORD-65790  placed 2026-05-05  status: in transit  total: $287.33
+  payment method: card ending 5217  ship to: 464 Mill Rd
+  - espresso grinder x1
+  - carabiner set x3
+  - spare battery pack x3
+  - extended warranty, 2 years x2
+  - merino socks, size M x1
+ORD-56634  placed 2026-04-15  status: delivered  total: $261.36
+  payment method: card ending 5704  ship to: 366 Oak St
+  - cast iron skillet x1
+  - microfiber cloth x2
+  - gift wrap x3
+ORD-69389  placed 2026-02-27  status: returned  total: $88.26
+  payment method: card ending 1718  ship to: 525 Mill Lane
+  - espresso grinder x1
+  - replacement filter cartridge, 3-pack x2
+  - gift wrap x2
+  - merino socks, size M x1
+ORD-90325  placed 2026-01-12  status: label created  total: $179.29
+  payment method: card ending 2794  ship to: 234 Mill Lane
+  - cast iron skillet x1
+  - carabiner set x2
+  - extended warranty, 2 years x2
+  - merino socks, size M x2
+
+--- message 1 from Priya Raman ---
+Can I use a gift card on ORD-56634, or is it too late? I've been a customer for a few years and usually everything goes smoothly. The confirmation email for ORD-69389 went to my spam folder, so I only just saw it. The box for ORD-90325 was a bit crushed but the contents were fine.
+
+Priya Raman
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Arjun (support) ---
+I've added a note to your account so the next agent has the context. For ORD-90325, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-69389 to the address on file.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Priya Raman ---
+Not your fault, but my gym billed me twice this month, which is why I'm nervous about ORD-65790. Everything on your side looks like a single charge, I just wanted to confirm the delivery date. Tracking for ORD-69389 hasn't updated since Tuesday. My partner placed ORD-56634 on our shared account, in case that matters.
+
+Priya Raman
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Arjun (support) ---
+I've added a note to your account so the next agent has the context. For ORD-69389, the return window is 30 days from delivery. If you need an invoice for ORD-56634, you can download it from the Orders page.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Priya Raman ---
+Tracking for ORD-90325 hasn't updated since Tuesday. I changed my shipping address last month, so please double-check you have the new one. The box for ORD-90325 was a bit crushed but the contents were fine. I'm travelling next week, so email is the best way to reach me.
+
+Priya Raman
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Arjun (support) ---
+Our warehouse shows ORD-90325 left on schedule. I've resent the confirmation email for ORD-69389 to the address on file. I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Priya Raman ---
+I'm travelling next week, so email is the best way to reach me. My partner placed ORD-56634 on our shared account, in case that matters. I've been a customer for a few years and usually everything goes smoothly. Could you also tell me whether ORD-56634 qualifies for the extended return window?
+
+Priya Raman
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Arjun (support) ---
+Loyalty points post about a week after an order is delivered. Let me know if anything else looks off. Tracking updates can lag by a day or two with this carrier. For ORD-90325, the return window is 30 days from delivery.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,11 @@
+Ledger page P-5925
+
+account      amount   see page
+Kowalski       +602   P-8484
+Tanaka         +752   P-6981
+Dunn           +114   P-3367
+Jensen          -72   P-5081
+Umar           -314   P-3467
+Zhou           +631   P-6046
+
+Follow the credit belonging to the account that comes first alphabetically.

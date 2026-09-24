@@ -1,0 +1,12 @@
+Ledger page P-5094
+
+account      amount   see page
+Rahman         -722   P-6777
+Kowalski       +372   P-6777
+Jensen          -67   P-3833
+Vance          -601   P-4737
+Osei           +161   P-9511
+Park           -604   P-8362
+Eriksen         +73   P-8948
+
+Follow the entry with the second-largest amount.

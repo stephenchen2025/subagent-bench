@@ -1,0 +1,10 @@
+Ledger page P-6611
+
+account      amount   see page
+Weber          +621   P-9765
+Silva          -807   P-3585
+Xu             +306   P-3629
+Grant          -722   P-5830
+Park           +593   P-6283
+
+Follow the credit belonging to the account that comes first alphabetically.

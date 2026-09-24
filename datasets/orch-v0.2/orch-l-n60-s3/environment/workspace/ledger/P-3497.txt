@@ -1,0 +1,11 @@
+Ledger page P-3497
+
+account      amount   see page
+Lambert        +222   P-9851
+Ibarra         +613   P-8992
+Zhou           -341   P-7577
+Weber          +139   P-2876
+Jensen          -38   P-1330
+Tanaka         +154   P-2716
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,10 @@
+Ledger page P-4728
+
+account      amount   see page
+Xu              -77   P-1081
+Nakamura       -514   P-8674
+Quinn          -271   P-3866
+Baker          +651   P-7200
+Eriksen        +623   P-7667
+
+Follow the entry with the largest debit (the most negative amount).

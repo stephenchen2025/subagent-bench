@@ -1,0 +1,10 @@
+Ledger page P-9894
+
+account      amount   see page
+Moreau         -119   P-6369
+Vance          +874   P-1317
+Hughes         +261   P-8988
+Eriksen        +667   P-8411
+Lambert        +446   P-9758
+
+Follow the entry whose amount is closest to zero.

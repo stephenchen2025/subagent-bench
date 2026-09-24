@@ -1,0 +1,88 @@
+Ticket T-9374
+Customer: Sofia Rossi
+Orders on file: ORD-38818, ORD-11759, ORD-46735, ORD-70023
+Opened: 2026-05-19 via email
+
+Order details:
+ORD-38818  placed 2026-07-14  status: delivered  total: $238.52
+  payment method: card ending 6287  ship to: 831 Elm Rd
+  - wool blanket x1
+  - replacement filter cartridge, 3-pack x2
+  - travel pouch x2
+ORD-11759  placed 2026-05-24  status: delivered  total: $196.50
+  payment method: card ending 2530  ship to: 96 Cedar Ave
+  - trail running shoes x1
+  - microfiber cloth x3
+  - replacement filter cartridge, 3-pack x2
+  - stainless water bottle, 750ml x1
+ORD-46735  placed 2026-05-10  status: delivered  total: $451.33
+  payment method: card ending 7710  ship to: 611 Oak Ave
+  - blender x1
+  - stainless water bottle, 750ml x2
+  - extended warranty, 2 years x3
+  - replacement filter cartridge, 3-pack x1
+ORD-70023  placed 2026-04-20  status: delivered  total: $177.24
+  payment method: card ending 2829  ship to: 867 Elm Rd
+  - blender x1
+  - travel pouch x1
+  - gift wrap x2
+  - replacement filter cartridge, 3-pack x1
+
+--- message 1 from Sofia Rossi ---
+The trail running shoes from ORD-46735 arrived with a scratch on the side. Can I get a replacement? Tracking for ORD-11759 hasn't updated since Tuesday. The confirmation email for ORD-38818 went to my spam folder, so I only just saw it. I'm travelling next week, so email is the best way to reach me.
+
+Sofia Rossi
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Pete (support) ---
+Loyalty points post about a week after an order is delivered. I've updated your shipping address on file. I've added a note to your account so the next agent has the context. Screenshots aren't necessary, but thank you for offering.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Sofia Rossi ---
+The $65.76 for ORD-70023 came out of my account, and then the same $65.76 came out again the next morning. Is there a way to combine loyalty points from ORD-38818 with my next purchase? Tracking for ORD-46735 hasn't updated since Tuesday.
+
+Sofia Rossi
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Pete (support) ---
+I've checked with our payments team: both captures for ORD-70023 settled, so you were genuinely charged twice. I've issued a refund for the second one; it should show within 3-5 business days. I've resent the confirmation email for ORD-46735 to the address on file. Thanks for reaching out, and sorry for the trouble.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Sofia Rossi ---
+Tracking for ORD-38818 hasn't updated since Tuesday. My partner placed ORD-11759 on our shared account, in case that matters. I tried the chat widget first but it kept disconnecting.
+
+Sofia Rossi
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Sofia Rossi ---
+The confirmation email for ORD-46735 went to my spam folder, so I only just saw it. My earlier order ORD-38818 arrived fine, no complaints there. Could you also tell me whether ORD-11759 qualifies for the extended return window? Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Sofia Rossi
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Pete (support) ---
+Loyalty points post about a week after an order is delivered. I've updated your shipping address on file. I've resent the confirmation email for ORD-11759 to the address on file. Our warehouse shows ORD-38818 left on schedule.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Sofia Rossi ---
+I tried the chat widget first but it kept disconnecting. Could you also tell me whether ORD-46735 qualifies for the extended return window? I'd rather not call; the hold times last time were very long. My earlier order ORD-11759 arrived fine, no complaints there.
+
+Best regards,
+Sofia Rossi
+
+--- message 9 from Pete (support) ---
+Thanks for reaching out, and sorry for the trouble. Tracking updates can lag by a day or two with this carrier. Loyalty points post about a week after an order is delivered. I can see all the orders on your account, including ORD-38818.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

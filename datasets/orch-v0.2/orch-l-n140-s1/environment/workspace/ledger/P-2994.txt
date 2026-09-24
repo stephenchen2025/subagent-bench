@@ -1,0 +1,12 @@
+Ledger page P-2994
+
+account      amount   see page
+Vance          -193   P-9789
+Zhou             +6   P-2983
+Dunn           -807   P-3407
+Tanaka         -425   P-5700
+Kowalski       +658   P-4921
+Young          -498   P-2675
+Hughes         +300   P-4111
+
+Follow the entry with the second-largest amount.

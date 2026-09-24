@@ -1,0 +1,12 @@
+Ledger page P-3599
+
+account      amount   see page
+Ibarra         +236   P-6581
+Kowalski       +731   P-6015
+Baker          -756   P-4655
+Xu              +38   P-9669
+Tanaka         +862   P-4925
+Moreau         -772   P-7362
+Eriksen        +822   P-1198
+
+Follow the entry with the largest debit (the most negative amount).

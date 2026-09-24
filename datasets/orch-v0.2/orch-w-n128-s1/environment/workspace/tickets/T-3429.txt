@@ -1,0 +1,72 @@
+Ticket T-3429
+Customer: Yuki Tanaka
+Orders on file: ORD-75078, ORD-30559, ORD-65634, ORD-38034
+Opened: 2026-04-25 via web form
+
+Order details:
+ORD-75078  placed 2026-03-22  status: label created  total: $93.27
+  payment method: card ending 3704  ship to: 289 Cedar Rd
+  - mechanical keyboard x1
+  - extended warranty, 2 years x1
+  - stainless water bottle, 750ml x1
+  - microfiber cloth x1
+ORD-30559  placed 2026-01-08  status: delivered  total: $33.66
+  payment method: card ending 7002  ship to: 474 Elm St
+  - trail running shoes x1
+  - carabiner set x1
+  - merino socks, size M x3
+  - gift wrap x2
+  - extended warranty, 2 years x2
+ORD-65634  placed 2026-04-09  status: in transit  total: $365.16
+  payment method: card ending 7529  ship to: 378 Oak St
+  - bike light set x1
+  - merino socks, size M x1
+  - USB-C charging cable (2m) x2
+  - spare battery pack x3
+  - carabiner set x1
+ORD-38034  placed 2026-08-06  status: delivered  total: $221.69
+  payment method: card ending 1182  ship to: 571 Harbor St
+  - water filter pitcher x1
+  - spare battery pack x1
+  - travel pouch x2
+  - merino socks, size M x3
+  - USB-C charging cable (2m) x3
+
+--- message 1 from Yuki Tanaka ---
+I need to change the delivery address for ORD-30559 before it ships. The box for ORD-75078 was a bit crushed but the contents were fine. Tracking for ORD-65634 hasn't updated since Tuesday. I changed my shipping address last month, so please double-check you have the new one.
+
+Yuki Tanaka
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Marcus (support) ---
+Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble. Tracking updates can lag by a day or two with this carrier. For ORD-65634, the return window is 30 days from delivery.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Yuki Tanaka ---
+I'm travelling next week, so email is the best way to reach me. The box for ORD-75078 was a bit crushed but the contents were fine. Is there a way to combine loyalty points from ORD-30559 with my next purchase? Tracking for ORD-75078 hasn't updated since Tuesday.
+
+Best regards,
+Yuki Tanaka
+
+--- message 4 from Marcus (support) ---
+If you need an invoice for ORD-65634, you can download it from the Orders page. For ORD-65634, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context. I've updated your shipping address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Yuki Tanaka ---
+My partner placed ORD-65634 on our shared account, in case that matters. I changed my shipping address last month, so please double-check you have the new one. The box for ORD-65634 was a bit crushed but the contents were fine. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Yuki Tanaka
+
+--- message 6 from Marcus (support) ---
+I've resent the confirmation email for ORD-65634 to the address on file. Loyalty points post about a week after an order is delivered. If you need an invoice for ORD-30559, you can download it from the Orders page. Let me know if anything else looks off.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,11 @@
+Ledger page P-2884
+
+account      amount   see page
+Weber           -91   P-6703
+Vance          +557   P-5991
+Moreau          -76   P-3955
+Jensen         +852   P-8073
+Castillo        +56   P-7657
+Nakamura       -253   P-3029
+
+Follow the entry whose amount is closest to zero.

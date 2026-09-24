@@ -1,0 +1,11 @@
+Ledger page P-1976
+
+account      amount   see page
+Vance          -417   P-1976
+Moreau         +870   P-3510
+Jensen         +144   P-8357
+Eriksen        +838   P-1267
+Weber           +94   P-1773
+Umar           +398   P-2716
+
+Follow the entry with the second-largest amount.

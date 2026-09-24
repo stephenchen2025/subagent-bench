@@ -1,0 +1,97 @@
+Ticket T-8004
+Customer: Tomas Novak
+Orders on file: ORD-25171, ORD-15931, ORD-76822, ORD-76024
+Opened: 2026-01-06 via chat transcript
+
+Order details:
+ORD-25171  placed 2026-04-16  status: delivered  total: $270.36
+  payment method: card ending 1059  ship to: 164 Harbor Rd
+  - camping stove x1
+  - merino socks, size M x2
+  - gift wrap x2
+  - travel pouch x1
+  - microfiber cloth x3
+ORD-15931  placed 2026-08-15  status: delivered  total: $96.24
+  payment method: card ending 1816  ship to: 814 Elm Lane
+  - blender x1
+  - travel pouch x2
+  - carabiner set x3
+  - gift wrap x1
+  - merino socks, size M x2
+ORD-76822  placed 2026-02-14  status: label created  total: $398.85
+  payment method: card ending 1184  ship to: 900 Oak Ave
+  - wool blanket x1
+  - USB-C charging cable (2m) x1
+  - carabiner set x1
+ORD-76024  placed 2026-03-01  status: delivered  total: $216.46
+  payment method: card ending 4600  ship to: 925 Oak St
+  - bike light set x1
+  - replacement filter cartridge, 3-pack x1
+  - extended warranty, 2 years x3
+  - USB-C charging cable (2m) x3
+
+--- message 1 from Tomas Novak ---
+I need to change the delivery address for ORD-15931 before it ships. Your app logged me out twice while I was looking at this, which didn't help. I'm happy to send screenshots if that helps. My earlier order ORD-76822 arrived fine, no complaints there.
+
+Best regards,
+Tomas Novak
+
+--- message 2 from Fatima (support) ---
+Screenshots aren't necessary, but thank you for offering. Our warehouse shows ORD-76024 left on schedule. Tracking updates can lag by a day or two with this carrier. For ORD-15931, the return window is 30 days from delivery.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Tomas Novak ---
+I think I might have been charged twice for ORD-25171, but one of the lines on my online banking still says pending, so I'm not sure yet. Tracking for ORD-76024 hasn't updated since Tuesday. I'm happy to send screenshots if that helps.
+
+Best regards,
+Tomas Novak
+
+--- message 4 from Fatima (support) ---
+I've updated your shipping address on file. If you need an invoice for ORD-15931, you can download it from the Orders page. Screenshots aren't necessary, but thank you for offering.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Tomas Novak ---
+Just checked again -- both charges for ORD-25171 are settled now, not pending. I've been a customer for a few years and usually everything goes smoothly. The confirmation email for ORD-15931 went to my spam folder, so I only just saw it.
+
+Best regards,
+Tomas Novak
+
+--- message 6 from Fatima (support) ---
+Confirmed on our side -- ORD-25171 was captured twice by a retry in our checkout. One refund of $298.66 is on its way to you. Tracking updates can lag by a day or two with this carrier. Thanks for reaching out, and sorry for the trouble.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Tomas Novak ---
+I'm happy to send screenshots if that helps. I tried the chat widget first but it kept disconnecting. Tracking for ORD-76822 hasn't updated since Tuesday. My earlier order ORD-76822 arrived fine, no complaints there.
+
+Tomas Novak
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Fatima (support) ---
+Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-76822 left on schedule. I can see all the orders on your account, including ORD-76822. If you need an invoice for ORD-15931, you can download it from the Orders page.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Tomas Novak ---
+I'm happy to send screenshots if that helps. I'm travelling next week, so email is the best way to reach me. I tried the chat widget first but it kept disconnecting. The trail running shoes itself is great, for what it's worth.
+
+Thanks,
+Tomas Novak
+Sent from my phone -- please excuse typos.
+
+--- message 10 from Fatima (support) ---
+I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier. I can see all the orders on your account, including ORD-76822. Let me know if anything else looks off.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

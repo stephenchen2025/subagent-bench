@@ -1,0 +1,11 @@
+Ledger page P-6945
+
+account      amount   see page
+Moreau         -160   P-4454
+Tanaka         +775   P-2393
+Umar            +49   P-9657
+Xu             -318   P-5428
+Weber          +461   P-3009
+Fofana         -492   P-5661
+
+Follow the entry whose amount is closest to zero.

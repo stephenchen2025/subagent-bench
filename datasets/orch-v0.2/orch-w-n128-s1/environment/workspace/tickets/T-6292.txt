@@ -1,0 +1,60 @@
+Ticket T-6292
+Customer: Amara Nwosu
+Orders on file: ORD-26179, ORD-11432, ORD-25964, ORD-93866
+Opened: 2026-07-05 via web form
+
+Order details:
+ORD-26179  placed 2026-08-16  status: delivered  total: $157.77
+  payment method: card ending 5802  ship to: 444 Oak Rd
+  - blender x1
+  - gift wrap x3
+  - USB-C charging cable (2m) x1
+  - replacement filter cartridge, 3-pack x3
+  - spare battery pack x1
+ORD-11432  placed 2026-06-26  status: delivered  total: $462.43
+  payment method: card ending 8338  ship to: 85 Harbor St
+  - trail running shoes x1
+  - stainless water bottle, 750ml x1
+  - extended warranty, 2 years x1
+ORD-25964  placed 2026-04-15  status: in transit  total: $77.87
+  payment method: card ending 5809  ship to: 825 Cedar Rd
+  - desk lamp x1
+  - stainless water bottle, 750ml x2
+  - spare battery pack x3
+ORD-93866  placed 2026-04-26  status: delivered  total: $201.09
+  payment method: card ending 5547  ship to: 283 Mill Rd
+  - water filter pitcher x1
+  - extended warranty, 2 years x2
+  - merino socks, size M x3
+
+--- message 1 from Amara Nwosu ---
+I'd like to return the camping stove from ORD-25964; it's the wrong size. I changed my shipping address last month, so please double-check you have the new one. I'd rather not call; the hold times last time were very long. Your app logged me out twice while I was looking at this, which didn't help.
+
+Amara Nwosu
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Dana (support) ---
+I've updated your shipping address on file. Let me know if anything else looks off. Tracking updates can lag by a day or two with this carrier. I can see all the orders on your account, including ORD-25964.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Amara Nwosu ---
+I see two charges on my credit union this week, one for ORD-26179 and one for ORD-11432. Both are correct -- I ordered twice on purpose -- but could you send me the invoices for my expense report? Tracking for ORD-25964 hasn't updated since Tuesday. I'm happy to send screenshots if that helps.
+
+Amara Nwosu
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Amara Nwosu ---
+The carry-on suitcase itself is great, for what it's worth. Your app logged me out twice while I was looking at this, which didn't help. The confirmation email for ORD-25964 went to my spam folder, so I only just saw it. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Amara Nwosu
+
+--- message 5 from Dana (support) ---
+I've added a note to your account so the next agent has the context. Our warehouse shows ORD-25964 left on schedule. Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

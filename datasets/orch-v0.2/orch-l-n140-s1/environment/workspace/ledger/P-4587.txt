@@ -1,0 +1,11 @@
+Ledger page P-4587
+
+account      amount   see page
+Grant          +894   P-2068
+Lambert        +205   P-3989
+Dunn           +489   P-4515
+Tanaka         -183   P-3990
+Osei           -413   P-9282
+Rahman         +609   P-3216
+
+Follow the debit belonging to the account that comes last alphabetically.

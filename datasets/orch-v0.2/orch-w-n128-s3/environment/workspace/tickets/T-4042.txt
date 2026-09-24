@@ -1,0 +1,69 @@
+Ticket T-4042
+Customer: Hana Sato
+Orders on file: ORD-60920, ORD-92627, ORD-23541, ORD-97691
+Opened: 2026-07-04 via chat transcript
+
+Order details:
+ORD-60920  placed 2026-05-02  status: in transit  total: $204.12
+  payment method: card ending 1527  ship to: 545 Harbor Lane
+  - water filter pitcher x1
+  - USB-C charging cable (2m) x2
+  - merino socks, size M x3
+  - microfiber cloth x3
+  - travel pouch x2
+ORD-92627  placed 2026-08-09  status: in transit  total: $272.86
+  payment method: card ending 7461  ship to: 14 Cedar St
+  - cast iron skillet x1
+  - USB-C charging cable (2m) x3
+  - merino socks, size M x2
+ORD-23541  placed 2026-07-06  status: in transit  total: $459.13
+  payment method: card ending 1211  ship to: 475 Elm Ave
+  - yoga mat x1
+  - travel pouch x1
+  - gift wrap x2
+  - merino socks, size M x3
+ORD-97691  placed 2026-05-21  status: delivered  total: $410.85
+  payment method: card ending 8231  ship to: 823 Oak St
+  - cast iron skillet x1
+  - extended warranty, 2 years x1
+  - replacement filter cartridge, 3-pack x1
+
+--- message 1 from Hana Sato ---
+Can I use a gift card on ORD-97691, or is it too late? Is there a way to combine loyalty points from ORD-97691 with my next purchase? I tried the chat widget first but it kept disconnecting. My partner placed ORD-23541 on our shared account, in case that matters.
+
+Thanks,
+Hana Sato
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Marcus (support) ---
+Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-60920. I've updated your shipping address on file. Loyalty points post about a week after an order is delivered.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Hana Sato ---
+Your app logged me out twice while I was looking at this, which didn't help. The box for ORD-60920 was a bit crushed but the contents were fine. My partner placed ORD-97691 on our shared account, in case that matters. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Hana Sato
+
+--- message 4 from Marcus (support) ---
+I've added a note to your account so the next agent has the context. Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off. For ORD-97691, the return window is 30 days from delivery.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Hana Sato ---
+My earlier order ORD-23541 arrived fine, no complaints there. I've been a customer for a few years and usually everything goes smoothly. Could you also tell me whether ORD-60920 qualifies for the extended return window? My partner placed ORD-23541 on our shared account, in case that matters.
+
+Hana Sato
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Marcus (support) ---
+For ORD-23541, the return window is 30 days from delivery. Our warehouse shows ORD-97691 left on schedule. I've updated your shipping address on file. I've resent the confirmation email for ORD-23541 to the address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

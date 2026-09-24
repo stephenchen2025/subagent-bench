@@ -1,0 +1,12 @@
+Ledger page P-7610
+
+account      amount   see page
+Quinn          -371   P-2387
+Moreau          +54   P-2349
+Weber          +174   P-6427
+Vance          -166   P-1198
+Rahman         -746   P-4341
+Nakamura       +464   P-8316
+Dunn           -706   P-8186
+
+Follow the entry whose amount is closest to zero.

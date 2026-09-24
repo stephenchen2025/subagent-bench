@@ -1,0 +1,10 @@
+Ledger page P-7621
+
+account      amount   see page
+Xu             +756   P-9221
+Baker          -693   P-7005
+Quinn          +461   P-7810
+Tanaka         +274   P-8911
+Hughes         -270   P-2649
+
+Follow the credit belonging to the account that comes first alphabetically.

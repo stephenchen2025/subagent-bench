@@ -1,0 +1,69 @@
+Ticket T-7409
+Customer: Ben Carter
+Orders on file: ORD-66843, ORD-57360, ORD-34585, ORD-36946
+Opened: 2026-03-20 via email
+
+Order details:
+ORD-66843  placed 2026-01-13  status: delivered  total: $371.29
+  payment method: card ending 2544  ship to: 221 Harbor Lane
+  - cast iron skillet x1
+  - spare battery pack x3
+  - gift wrap x1
+  - merino socks, size M x3
+  - microfiber cloth x2
+ORD-57360  placed 2026-07-10  status: delivered  total: $235.30
+  payment method: card ending 8846  ship to: 682 Oak Ave
+  - rain jacket x1
+  - carabiner set x2
+  - USB-C charging cable (2m) x2
+  - microfiber cloth x1
+  - gift wrap x3
+ORD-34585  placed 2026-03-14  status: in transit  total: $47.45
+  payment method: card ending 1624  ship to: 390 Harbor St
+  - yoga mat x1
+  - extended warranty, 2 years x2
+  - USB-C charging cable (2m) x2
+ORD-36946  placed 2026-01-09  status: in transit  total: $444.13
+  payment method: card ending 4767  ship to: 177 Cedar Rd
+  - bike light set x1
+  - stainless water bottle, 750ml x3
+  - spare battery pack x1
+
+--- message 1 from Ben Carter ---
+Where is my refund for ORD-66843? You said 5 days and it has been 8. Could you also tell me whether ORD-66843 qualifies for the extended return window? My partner placed ORD-66843 on our shared account, in case that matters. I'm happy to send screenshots if that helps.
+
+Ben Carter
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Luis (support) ---
+I've updated your shipping address on file. For ORD-66843, the return window is 30 days from delivery. Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ben Carter ---
+I see two charges on my online banking this week, one for ORD-57360 and one for ORD-66843. Both are correct -- I ordered twice on purpose -- but could you send me the invoices for my expense report? My partner placed ORD-66843 on our shared account, in case that matters. The box for ORD-66843 was a bit crushed but the contents were fine.
+
+Ben Carter
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Luis (support) ---
+I can see all the orders on your account, including ORD-34585. Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Ben Carter ---
+The water filter pitcher itself is great, for what it's worth. I'd rather not call; the hold times last time were very long. Tracking for ORD-36946 hasn't updated since Tuesday. The confirmation email for ORD-36946 went to my spam folder, so I only just saw it.
+
+Ben Carter
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Luis (support) ---
+Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble. I've updated your shipping address on file. Screenshots aren't necessary, but thank you for offering.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,11 @@
+Ledger page P-4133
+
+account      amount   see page
+Dunn           +234   P-5836
+Young          +301   P-3680
+Zhou           +597   P-8010
+Silva          -447   P-3628
+Castillo       -426   P-5058
+Hughes         +249   P-1538
+
+Follow the entry with the largest credit.

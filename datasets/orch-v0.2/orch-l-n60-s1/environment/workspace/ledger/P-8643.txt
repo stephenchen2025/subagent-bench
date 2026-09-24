@@ -1,0 +1,10 @@
+Ledger page P-8643
+
+account      amount   see page
+Nakamura        +13   P-1261
+Quinn          +689   P-9935
+Grant          +646   P-1081
+Hughes         +322   P-2097
+Vance          -378   P-2167
+
+Follow the entry with the second-largest amount.

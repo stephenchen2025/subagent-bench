@@ -1,0 +1,12 @@
+Ledger page P-5465
+
+account      amount   see page
+Dunn           -758   P-6433
+Xu             +113   P-1286
+Rahman         -631   P-3235
+Baker          -372   P-4522
+Weber          -501   P-3628
+Castillo       -725   P-1825
+Grant          +731   P-7946
+
+Follow the entry with the second-largest amount.

@@ -1,0 +1,11 @@
+Ledger page P-7196
+
+account      amount   see page
+Rahman         +696   P-9652
+Tanaka         +710   P-9193
+Castillo       -731   P-3368
+Fofana         -593   P-2618
+Vance          -556   P-8308
+Jensen         -401   P-3858
+
+Follow the entry with the second-largest amount.

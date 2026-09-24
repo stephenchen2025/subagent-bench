@@ -1,0 +1,54 @@
+Ticket T-8807
+Customer: Ines Duarte
+Orders on file: ORD-48439, ORD-36641, ORD-18925, ORD-19715
+Opened: 2026-08-04 via web form
+
+Order details:
+ORD-48439  placed 2026-02-16  status: delivered  total: $469.83
+  payment method: card ending 8486  ship to: 852 Elm Lane
+  - noise-cancelling headphones x1
+  - USB-C charging cable (2m) x2
+  - travel pouch x3
+  - carabiner set x2
+  - stainless water bottle, 750ml x1
+ORD-36641  placed 2026-06-23  status: delivered  total: $87.29
+  payment method: card ending 3565  ship to: 396 Harbor Ave
+  - rain jacket x1
+  - gift wrap x2
+  - microfiber cloth x1
+ORD-18925  placed 2026-05-23  status: delivered  total: $153.35
+  payment method: card ending 1117  ship to: 331 Oak Rd
+  - wool blanket x1
+  - carabiner set x2
+  - stainless water bottle, 750ml x2
+ORD-19715  placed 2026-06-18  status: label created  total: $39.14
+  payment method: card ending 7139  ship to: 576 Harbor Lane
+  - blender x1
+  - spare battery pack x1
+  - gift wrap x3
+
+--- message 1 from Ines Duarte ---
+Where is my refund for ORD-36641? You said 5 days and it has been 8. The confirmation email for ORD-19715 went to my spam folder, so I only just saw it. I've been a customer for a few years and usually everything goes smoothly. I'd rather not call; the hold times last time were very long.
+
+Ines Duarte
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Fatima (support) ---
+I've added a note to your account so the next agent has the context. Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-18925 to the address on file. Thanks for reaching out, and sorry for the trouble.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ines Duarte ---
+I tried the chat widget first but it kept disconnecting. The confirmation email for ORD-18925 went to my spam folder, so I only just saw it. Is there a way to combine loyalty points from ORD-18925 with my next purchase? I changed my shipping address last month, so please double-check you have the new one.
+
+Ines Duarte
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Fatima (support) ---
+Tracking updates can lag by a day or two with this carrier. Thanks for reaching out, and sorry for the trouble. I've updated your shipping address on file. I've resent the confirmation email for ORD-18925 to the address on file.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

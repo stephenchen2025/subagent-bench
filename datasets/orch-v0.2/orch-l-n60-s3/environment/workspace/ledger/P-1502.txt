@@ -1,0 +1,10 @@
+Ledger page P-1502
+
+account      amount   see page
+Grant          +141   P-1781
+Kowalski       -789   P-9193
+Umar           +787   P-4320
+Lambert        +520   P-6941
+Rahman         -542   P-1047
+
+Follow the debit belonging to the account that comes last alphabetically.

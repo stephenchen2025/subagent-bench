@@ -1,0 +1,10 @@
+Ledger page P-5807
+
+account      amount   see page
+Umar            +52   P-3247
+Dunn           +732   P-6032
+Ibarra          -50   P-6695
+Hughes          +84   P-1863
+Eriksen         -25   P-5999
+
+Follow the entry with the largest debit (the most negative amount).

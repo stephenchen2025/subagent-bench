@@ -1,0 +1,10 @@
+Ledger page P-7947
+
+account      amount   see page
+Lambert        -716   P-4226
+Grant          +752   P-6317
+Zhou           +593   P-4535
+Xu             -561   P-5186
+Eriksen        +247   P-5298
+
+Follow the entry with the largest debit (the most negative amount).

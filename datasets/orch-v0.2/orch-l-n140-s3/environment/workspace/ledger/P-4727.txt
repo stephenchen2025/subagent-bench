@@ -1,0 +1,12 @@
+Ledger page P-4727
+
+account      amount   see page
+Abbott         -419   P-4590
+Silva          -839   P-6408
+Young          +210   P-2097
+Grant          +611   P-6482
+Vance          -600   P-2583
+Ibarra         +701   P-3340
+Nakamura       +326   P-3203
+
+Follow the entry with the second-largest amount.

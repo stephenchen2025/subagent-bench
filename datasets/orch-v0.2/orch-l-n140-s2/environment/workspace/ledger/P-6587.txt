@@ -1,0 +1,10 @@
+Ledger page P-6587
+
+account      amount   see page
+Lambert        +881   P-7239
+Dunn           -590   P-8382
+Rahman         +663   P-7011
+Fofana         +665   P-7729
+Abbott         +162   P-3217
+
+Follow the entry with the largest credit.

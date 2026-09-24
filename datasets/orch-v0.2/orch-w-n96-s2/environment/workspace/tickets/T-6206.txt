@@ -1,0 +1,55 @@
+Ticket T-6206
+Customer: Elena Petrova
+Orders on file: ORD-96851, ORD-32627, ORD-33557, ORD-38075
+Opened: 2026-05-05 via chat transcript
+
+Order details:
+ORD-96851  placed 2026-02-14  status: returned  total: $266.85
+  payment method: card ending 1531  ship to: 47 Cedar St
+  - camping stove x1
+  - microfiber cloth x1
+  - extended warranty, 2 years x3
+  - USB-C charging cable (2m) x3
+ORD-32627  placed 2026-05-10  status: in transit  total: $325.42
+  payment method: card ending 6444  ship to: 297 Cedar St
+  - trail running shoes x1
+  - spare battery pack x1
+  - extended warranty, 2 years x2
+ORD-33557  placed 2026-01-07  status: returned  total: $475.49
+  payment method: card ending 2322  ship to: 519 Oak Ave
+  - trail running shoes x1
+  - extended warranty, 2 years x1
+  - spare battery pack x3
+  - carabiner set x1
+  - USB-C charging cable (2m) x3
+ORD-38075  placed 2026-03-04  status: returned  total: $201.18
+  payment method: card ending 8214  ship to: 157 Harbor St
+  - carry-on suitcase x1
+  - gift wrap x3
+  - microfiber cloth x3
+
+--- message 1 from Elena Petrova ---
+The bike light set from ORD-38075 arrived with a scratch on the side. Can I get a replacement? I'd rather not call; the hold times last time were very long. The mechanical keyboard itself is great, for what it's worth. I'm happy to send screenshots if that helps.
+
+Best regards,
+Elena Petrova
+
+--- message 2 from Dana (support) ---
+Screenshots aren't necessary, but thank you for offering. If you need an invoice for ORD-32627, you can download it from the Orders page. Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-38075 left on schedule.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Elena Petrova ---
+Is there a way to combine loyalty points from ORD-32627 with my next purchase? The box for ORD-33557 was a bit crushed but the contents were fine. The confirmation email for ORD-33557 went to my spam folder, so I only just saw it. Tracking for ORD-32627 hasn't updated since Tuesday.
+
+Elena Petrova
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Dana (support) ---
+Screenshots aren't necessary, but thank you for offering. For ORD-33557, the return window is 30 days from delivery. Let me know if anything else looks off. I can see all the orders on your account, including ORD-33557.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

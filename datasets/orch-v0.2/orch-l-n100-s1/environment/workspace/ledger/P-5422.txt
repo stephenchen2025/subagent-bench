@@ -1,0 +1,10 @@
+Ledger page P-5422
+
+account      amount   see page
+Tanaka         -440   P-6600
+Lambert        -521   P-5925
+Osei           +398   P-8170
+Silva          +508   P-5820
+Eriksen        -648   P-8753
+
+Follow the entry with the second-largest amount.

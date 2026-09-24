@@ -1,0 +1,12 @@
+Ledger page P-5767
+
+account      amount   see page
+Silva          +675   P-8163
+Dunn           +761   P-1115
+Quinn          +408   P-1352
+Ibarra         +646   P-1252
+Lambert         -95   P-1460
+Baker           -22   P-8890
+Xu             +395   P-2164
+
+Follow the entry whose amount is closest to zero.

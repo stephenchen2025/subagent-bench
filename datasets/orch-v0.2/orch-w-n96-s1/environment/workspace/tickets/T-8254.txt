@@ -1,0 +1,63 @@
+Ticket T-8254
+Customer: Ravi Iyer
+Orders on file: ORD-94610, ORD-83520, ORD-68380, ORD-27701
+Opened: 2026-04-07 via chat transcript
+
+Order details:
+ORD-94610  placed 2026-06-05  status: delivered  total: $21.93
+  payment method: card ending 6299  ship to: 266 Cedar Lane
+  - water filter pitcher x1
+  - stainless water bottle, 750ml x2
+  - replacement filter cartridge, 3-pack x3
+  - gift wrap x1
+  - extended warranty, 2 years x2
+ORD-83520  placed 2026-03-19  status: delivered  total: $402.86
+  payment method: card ending 1883  ship to: 740 Elm Ave
+  - carry-on suitcase x1
+  - extended warranty, 2 years x2
+  - replacement filter cartridge, 3-pack x2
+  - travel pouch x2
+  - stainless water bottle, 750ml x1
+ORD-68380  placed 2026-01-05  status: delivered  total: $415.78
+  payment method: card ending 4126  ship to: 307 Mill Ave
+  - standing desk x1
+  - extended warranty, 2 years x3
+  - travel pouch x2
+  - spare battery pack x2
+ORD-27701  placed 2026-07-09  status: label created  total: $296.36
+  payment method: card ending 6200  ship to: 833 Oak Ave
+  - bike light set x1
+  - merino socks, size M x1
+  - spare battery pack x1
+
+--- message 1 from Ravi Iyer ---
+Can I use a gift card on ORD-94610, or is it too late? My partner placed ORD-27701 on our shared account, in case that matters. Tracking for ORD-27701 hasn't updated since Tuesday. Could you also tell me whether ORD-27701 qualifies for the extended return window?
+
+Best regards,
+Ravi Iyer
+
+--- message 2 from Marcus (support) ---
+I've updated your shipping address on file. I can see all the orders on your account, including ORD-94610. I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ravi Iyer ---
+ORD-68380 shows up once in my order history, but the card app shows it paid for on two separate lines. I'm happy to send screenshots if that helps. Tracking for ORD-27701 hasn't updated since Tuesday.
+
+Best regards,
+Ravi Iyer
+
+--- message 4 from Ravi Iyer ---
+Could you also tell me whether ORD-94610 qualifies for the extended return window? Your app logged me out twice while I was looking at this, which didn't help. Is there a way to combine loyalty points from ORD-94610 with my next purchase? I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Ravi Iyer
+
+--- message 5 from Marcus (support) ---
+Thanks for reaching out, and sorry for the trouble. I've updated your shipping address on file. Our warehouse shows ORD-94610 left on schedule. I can see all the orders on your account, including ORD-27701.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

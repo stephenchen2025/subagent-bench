@@ -1,0 +1,84 @@
+Ticket T-4747
+Customer: Yuki Tanaka
+Orders on file: ORD-55438, ORD-37182, ORD-54883, ORD-24128
+Opened: 2026-07-05 via web form
+
+Order details:
+ORD-55438  placed 2026-01-22  status: delivered  total: $440.77
+  payment method: card ending 5698  ship to: 181 Elm Rd
+  - yoga mat x1
+  - microfiber cloth x1
+  - carabiner set x3
+ORD-37182  placed 2026-08-10  status: returned  total: $83.40
+  payment method: card ending 1689  ship to: 53 Oak St
+  - cast iron skillet x1
+  - USB-C charging cable (2m) x3
+  - stainless water bottle, 750ml x1
+  - spare battery pack x3
+  - gift wrap x2
+ORD-54883  placed 2026-04-03  status: delivered  total: $372.07
+  payment method: card ending 1411  ship to: 838 Harbor Rd
+  - cast iron skillet x1
+  - USB-C charging cable (2m) x3
+  - travel pouch x3
+  - spare battery pack x2
+  - merino socks, size M x2
+ORD-24128  placed 2026-06-25  status: returned  total: $434.99
+  payment method: card ending 6367  ship to: 108 Mill Lane
+  - carry-on suitcase x1
+  - merino socks, size M x2
+  - carabiner set x3
+  - extended warranty, 2 years x3
+
+--- message 1 from Yuki Tanaka ---
+Can I use a gift card on ORD-37182, or is it too late? Is there a way to combine loyalty points from ORD-24128 with my next purchase? I tried the chat widget first but it kept disconnecting. My partner placed ORD-37182 on our shared account, in case that matters.
+
+Yuki Tanaka
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Keiko (support) ---
+Let me know if anything else looks off. Loyalty points post about a week after an order is delivered. For ORD-37182, the return window is 30 days from delivery. If you need an invoice for ORD-24128, you can download it from the Orders page.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Yuki Tanaka ---
+The payment for ORD-54883 went through, and then about an hour later it went through again. Tracking for ORD-24128 hasn't updated since Tuesday. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Yuki Tanaka
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Keiko (support) ---
+Our payment logs show a single capture for ORD-54883. The extra line you saw was an authorization that expired on its own -- no money was taken for it. Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Yuki Tanaka ---
+My partner placed ORD-24128 on our shared account, in case that matters. Could you also tell me whether ORD-24128 qualifies for the extended return window? Tracking for ORD-24128 hasn't updated since Tuesday.
+
+Yuki Tanaka
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Yuki Tanaka ---
+Oh, you're right -- I checked my online banking this morning and the second line is gone. Only one charge. Sorry for the false alarm! The box for ORD-37182 was a bit crushed but the contents were fine. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Yuki Tanaka
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Yuki Tanaka ---
+The box for ORD-37182 was a bit crushed but the contents were fine. I changed my shipping address last month, so please double-check you have the new one. I'm happy to send screenshots if that helps. I'd rather not call; the hold times last time were very long.
+
+Yuki Tanaka
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Keiko (support) ---
+I've updated your shipping address on file. For ORD-24128, the return window is 30 days from delivery. Our warehouse shows ORD-37182 left on schedule. I can see all the orders on your account, including ORD-24128.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

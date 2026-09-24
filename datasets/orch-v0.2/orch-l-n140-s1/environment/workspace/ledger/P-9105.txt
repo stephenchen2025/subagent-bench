@@ -1,0 +1,10 @@
+Ledger page P-9105
+
+account      amount   see page
+Moreau         +660   P-8856
+Castillo       -496   P-2282
+Vance          -573   P-4890
+Zhou            -57   P-9339
+Eriksen        -241   P-9134
+
+Follow the credit belonging to the account that comes first alphabetically.

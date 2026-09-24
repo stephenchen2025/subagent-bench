@@ -1,0 +1,12 @@
+Ledger page P-8855
+
+account      amount   see page
+Young          -648   P-3410
+Fofana         +862   P-5509
+Weber          +303   P-8034
+Eriksen         +10   P-6615
+Zhou           -805   P-4824
+Grant          +412   P-3026
+Jensen         +202   P-5686
+
+Follow the entry with the largest credit.

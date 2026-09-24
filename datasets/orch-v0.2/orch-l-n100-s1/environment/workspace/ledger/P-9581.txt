@@ -1,0 +1,11 @@
+Ledger page P-9581
+
+account      amount   see page
+Hughes         +493   P-9719
+Jensen         -147   P-3624
+Young          +452   P-3081
+Rahman         -322   P-1745
+Dunn           +133   P-8908
+Moreau         +218   P-3791
+
+Follow the entry with the largest debit (the most negative amount).

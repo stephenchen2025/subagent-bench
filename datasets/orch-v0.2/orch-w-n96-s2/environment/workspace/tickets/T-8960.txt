@@ -1,0 +1,71 @@
+Ticket T-8960
+Customer: Leila Haddad
+Orders on file: ORD-41540, ORD-24786, ORD-69501, ORD-67957
+Opened: 2026-01-14 via email
+
+Order details:
+ORD-41540  placed 2026-07-27  status: delivered  total: $329.71
+  payment method: card ending 8917  ship to: 643 Elm Ave
+  - blender x1
+  - carabiner set x3
+  - USB-C charging cable (2m) x2
+  - spare battery pack x1
+ORD-24786  placed 2026-01-27  status: returned  total: $105.65
+  payment method: card ending 1465  ship to: 349 Oak Lane
+  - standing desk x1
+  - extended warranty, 2 years x1
+  - USB-C charging cable (2m) x1
+  - merino socks, size M x2
+  - carabiner set x1
+ORD-69501  placed 2026-02-20  status: in transit  total: $289.24
+  payment method: card ending 8480  ship to: 958 Cedar Lane
+  - mechanical keyboard x1
+  - travel pouch x2
+  - microfiber cloth x1
+  - stainless water bottle, 750ml x3
+ORD-67957  placed 2026-08-03  status: in transit  total: $468.40
+  payment method: card ending 6146  ship to: 18 Cedar Rd
+  - trail running shoes x1
+  - spare battery pack x2
+  - extended warranty, 2 years x1
+  - stainless water bottle, 750ml x2
+  - gift wrap x1
+
+--- message 1 from Leila Haddad ---
+The standing desk from ORD-41540 arrived with a scratch on the side. Can I get a replacement? The confirmation email for ORD-67957 went to my spam folder, so I only just saw it. My earlier order ORD-67957 arrived fine, no complaints there. The box for ORD-67957 was a bit crushed but the contents were fine.
+
+Leila Haddad
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Luis (support) ---
+Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-41540 to the address on file. Let me know if anything else looks off. Our warehouse shows ORD-41540 left on schedule.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Leila Haddad ---
+Tracking for ORD-41540 hasn't updated since Tuesday. I changed my shipping address last month, so please double-check you have the new one. I've been a customer for a few years and usually everything goes smoothly. I'm happy to send screenshots if that helps.
+
+Best regards,
+Leila Haddad
+
+--- message 4 from Luis (support) ---
+Thanks for reaching out, and sorry for the trouble. I've resent the confirmation email for ORD-67957 to the address on file. If you need an invoice for ORD-24786, you can download it from the Orders page. I've added a note to your account so the next agent has the context.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Leila Haddad ---
+Is there a way to combine loyalty points from ORD-41540 with my next purchase? Your app logged me out twice while I was looking at this, which didn't help. I'm happy to send screenshots if that helps. I changed my shipping address last month, so please double-check you have the new one.
+
+Leila Haddad
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Luis (support) ---
+Screenshots aren't necessary, but thank you for offering. Let me know if anything else looks off. For ORD-41540, the return window is 30 days from delivery. Loyalty points post about a week after an order is delivered.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

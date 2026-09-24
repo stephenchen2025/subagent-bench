@@ -1,0 +1,10 @@
+Ledger page P-7086
+
+account      amount   see page
+Rahman         -490   P-8020
+Dunn           +377   P-6708
+Osei           -286   P-5854
+Lambert        -290   P-6740
+Park           +219   P-4602
+
+Follow the entry whose amount is closest to zero.

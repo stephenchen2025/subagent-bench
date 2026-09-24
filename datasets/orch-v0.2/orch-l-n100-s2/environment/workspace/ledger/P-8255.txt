@@ -1,0 +1,11 @@
+Ledger page P-8255
+
+account      amount   see page
+Weber          +697   P-7375
+Silva           -82   P-3029
+Vance          -493   P-6930
+Hughes         -321   P-4056
+Baker          -524   P-2807
+Dunn           +549   P-4234
+
+Follow the entry whose amount is closest to zero.

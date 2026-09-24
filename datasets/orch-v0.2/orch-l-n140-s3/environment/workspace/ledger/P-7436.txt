@@ -1,0 +1,11 @@
+Ledger page P-7436
+
+account      amount   see page
+Tanaka         +832   P-2187
+Abbott         -709   P-4717
+Park           +262   P-3207
+Moreau         +801   P-1252
+Quinn          +285   P-9548
+Xu             -357   P-4366
+
+Follow the credit belonging to the account that comes first alphabetically.

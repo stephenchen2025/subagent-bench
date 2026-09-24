@@ -1,0 +1,12 @@
+Ledger page P-7811
+
+account      amount   see page
+Hughes         +381   P-7811
+Abbott         +412   P-8846
+Xu             +308   P-7069
+Moreau         +453   P-2267
+Vance          -881   P-4898
+Park           +202   P-3019
+Umar           +358   P-2283
+
+Follow the entry with the largest credit.

@@ -1,0 +1,74 @@
+Ticket T-6938
+Customer: Felix Wagner
+Orders on file: ORD-59272, ORD-98760, ORD-41132, ORD-83810
+Opened: 2026-05-19 via chat transcript
+
+Order details:
+ORD-59272  placed 2026-02-01  status: returned  total: $116.83
+  payment method: card ending 9546  ship to: 467 Harbor Rd
+  - trail running shoes x1
+  - travel pouch x2
+  - carabiner set x1
+  - spare battery pack x2
+  - replacement filter cartridge, 3-pack x2
+ORD-98760  placed 2026-03-06  status: delivered  total: $371.47
+  payment method: card ending 6135  ship to: 662 Harbor Ave
+  - cast iron skillet x1
+  - travel pouch x1
+  - microfiber cloth x3
+  - gift wrap x2
+ORD-41132  placed 2026-04-23  status: label created  total: $142.96
+  payment method: card ending 1277  ship to: 444 Elm Rd
+  - standing desk x1
+  - spare battery pack x1
+  - merino socks, size M x2
+  - carabiner set x1
+  - gift wrap x3
+ORD-83810  placed 2026-08-09  status: label created  total: $286.93
+  payment method: card ending 9072  ship to: 849 Oak Ave
+  - noise-cancelling headphones x1
+  - gift wrap x2
+  - replacement filter cartridge, 3-pack x3
+  - spare battery pack x3
+  - extended warranty, 2 years x1
+
+--- message 1 from Felix Wagner ---
+I'd like to return the noise-cancelling headphones from ORD-98760; it's the wrong size. I've been a customer for a few years and usually everything goes smoothly. Could you also tell me whether ORD-98760 qualifies for the extended return window? Tracking for ORD-41132 hasn't updated since Tuesday.
+
+Thanks,
+Felix Wagner
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Rosa (support) ---
+Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off. Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Felix Wagner ---
+My earlier order ORD-83810 arrived fine, no complaints there. The espresso grinder itself is great, for what it's worth. I've been a customer for a few years and usually everything goes smoothly. My partner placed ORD-83810 on our shared account, in case that matters.
+
+Thanks,
+Felix Wagner
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Rosa (support) ---
+Our warehouse shows ORD-41132 left on schedule. I've updated your shipping address on file. I can see all the orders on your account, including ORD-98760. Tracking updates can lag by a day or two with this carrier.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Felix Wagner ---
+I'd rather not call; the hold times last time were very long. Could you also tell me whether ORD-83810 qualifies for the extended return window? My earlier order ORD-98760 arrived fine, no complaints there. The confirmation email for ORD-83810 went to my spam folder, so I only just saw it.
+
+Best regards,
+Felix Wagner
+
+--- message 6 from Rosa (support) ---
+Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier. For ORD-98760, the return window is 30 days from delivery. I can see all the orders on your account, including ORD-98760.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

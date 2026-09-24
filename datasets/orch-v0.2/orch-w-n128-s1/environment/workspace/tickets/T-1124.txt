@@ -1,0 +1,64 @@
+Ticket T-1124
+Customer: Tomas Novak
+Orders on file: ORD-62971, ORD-10564, ORD-40289, ORD-65217
+Opened: 2026-07-23 via email
+
+Order details:
+ORD-62971  placed 2026-08-14  status: in transit  total: $127.91
+  payment method: card ending 1036  ship to: 896 Oak St
+  - noise-cancelling headphones x1
+  - merino socks, size M x2
+  - USB-C charging cable (2m) x1
+  - spare battery pack x3
+ORD-10564  placed 2026-04-19  status: in transit  total: $104.33
+  payment method: card ending 2834  ship to: 461 Cedar Rd
+  - water filter pitcher x1
+  - USB-C charging cable (2m) x1
+  - travel pouch x2
+  - carabiner set x3
+ORD-40289  placed 2026-03-02  status: in transit  total: $43.73
+  payment method: card ending 2791  ship to: 941 Oak Rd
+  - standing desk x1
+  - extended warranty, 2 years x2
+  - stainless water bottle, 750ml x1
+  - gift wrap x2
+ORD-65217  placed 2026-04-15  status: label created  total: $419.86
+  payment method: card ending 9269  ship to: 381 Mill Lane
+  - camping stove x1
+  - stainless water bottle, 750ml x1
+  - spare battery pack x3
+  - travel pouch x1
+  - extended warranty, 2 years x3
+
+--- message 1 from Tomas Novak ---
+How do I reset my password? The reset link keeps expiring. I've been a customer for a few years and usually everything goes smoothly. My earlier order ORD-62971 arrived fine, no complaints there. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Tomas Novak
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Arjun (support) ---
+I can see all the orders on your account, including ORD-65217. For ORD-10564, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Tomas Novak ---
+There are two identical debits on the card app and both reference ORD-40289. The box for ORD-10564 was a bit crushed but the contents were fine. I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Tomas Novak
+
+--- message 4 from Tomas Novak ---
+I'm happy to send screenshots if that helps. The confirmation email for ORD-65217 went to my spam folder, so I only just saw it. My earlier order ORD-10564 arrived fine, no complaints there. I'd rather not call; the hold times last time were very long.
+
+Tomas Novak
+(Please reply by email rather than phone if possible.)
+
+--- message 5 from Arjun (support) ---
+If you need an invoice for ORD-10564, you can download it from the Orders page. I've added a note to your account so the next agent has the context. Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,12 @@
+Ledger page P-4872
+
+account      amount   see page
+Weber          -674   P-5218
+Osei           +771   P-3655
+Eriksen        -564   P-3552
+Rahman         +658   P-1487
+Moreau         +195   P-8395
+Young          -104   P-5225
+Silva          -455   P-6359
+
+Follow the entry with the largest debit (the most negative amount).

@@ -1,0 +1,11 @@
+Ledger page P-8268
+
+account      amount   see page
+Abbott         -181   P-1157
+Zhou           -431   P-2647
+Weber          -520   P-3192
+Tanaka         +775   P-9719
+Umar            +40   P-3474
+Rahman          -67   P-4499
+
+Follow the entry with the largest credit.

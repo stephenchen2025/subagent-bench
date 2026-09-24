@@ -1,0 +1,10 @@
+Ledger page P-3236
+
+account      amount   see page
+Castillo       +413   P-8436
+Baker          +376   P-1252
+Moreau         -820   P-8018
+Xu             -181   P-9263
+Jensen         -228   P-5120
+
+Follow the entry with the second-largest amount.

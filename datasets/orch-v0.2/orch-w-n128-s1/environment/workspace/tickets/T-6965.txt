@@ -1,0 +1,70 @@
+Ticket T-6965
+Customer: Yuki Tanaka
+Orders on file: ORD-38180, ORD-99528, ORD-39955, ORD-95281
+Opened: 2026-01-13 via web form
+
+Order details:
+ORD-38180  placed 2026-08-11  status: delivered  total: $363.33
+  payment method: card ending 1526  ship to: 407 Oak St
+  - bike light set x1
+  - replacement filter cartridge, 3-pack x2
+  - spare battery pack x1
+ORD-99528  placed 2026-03-13  status: returned  total: $477.46
+  payment method: card ending 4663  ship to: 886 Cedar Ave
+  - espresso grinder x1
+  - travel pouch x3
+  - merino socks, size M x3
+  - microfiber cloth x3
+ORD-39955  placed 2026-01-09  status: label created  total: $95.41
+  payment method: card ending 6027  ship to: 615 Oak St
+  - wool blanket x1
+  - carabiner set x3
+  - microfiber cloth x3
+  - spare battery pack x3
+ORD-95281  placed 2026-03-06  status: in transit  total: $453.17
+  payment method: card ending 8884  ship to: 841 Mill St
+  - yoga mat x1
+  - replacement filter cartridge, 3-pack x2
+  - microfiber cloth x3
+  - travel pouch x1
+  - gift wrap x2
+
+--- message 1 from Yuki Tanaka ---
+How do I reset my password? The reset link keeps expiring. My partner placed ORD-38180 on our shared account, in case that matters. The confirmation email for ORD-38180 went to my spam folder, so I only just saw it. The box for ORD-99528 was a bit crushed but the contents were fine.
+
+Yuki Tanaka
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Rosa (support) ---
+I've updated your shipping address on file. If you need an invoice for ORD-95281, you can download it from the Orders page. Thanks for reaching out, and sorry for the trouble. Loyalty points post about a week after an order is delivered.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Yuki Tanaka ---
+Not your fault, but my gym billed me twice this month, which is why I'm nervous about ORD-39955. Everything on your side looks like a single charge, I just wanted to confirm the delivery date. I tried the chat widget first but it kept disconnecting. Tracking for ORD-99528 hasn't updated since Tuesday.
+
+Yuki Tanaka
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Rosa (support) ---
+Screenshots aren't necessary, but thank you for offering. Let me know if anything else looks off. I can see all the orders on your account, including ORD-95281.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Yuki Tanaka ---
+I've been a customer for a few years and usually everything goes smoothly. The confirmation email for ORD-95281 went to my spam folder, so I only just saw it. I'd rather not call; the hold times last time were very long. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Yuki Tanaka
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Rosa (support) ---
+Loyalty points post about a week after an order is delivered. If you need an invoice for ORD-99528, you can download it from the Orders page. Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-99528.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

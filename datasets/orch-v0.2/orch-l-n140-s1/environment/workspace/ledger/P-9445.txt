@@ -1,0 +1,10 @@
+Ledger page P-9445
+
+account      amount   see page
+Tanaka         +138   P-4885
+Weber          -451   P-5040
+Eriksen        -858   P-3456
+Park           -843   P-1060
+Abbott         +563   P-1026
+
+Follow the credit belonging to the account that comes first alphabetically.

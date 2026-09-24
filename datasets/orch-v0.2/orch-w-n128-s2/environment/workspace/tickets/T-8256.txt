@@ -1,0 +1,94 @@
+Ticket T-8256
+Customer: Kofi Mensah
+Orders on file: ORD-91068, ORD-49073, ORD-75750, ORD-34743
+Opened: 2026-03-08 via email
+
+Order details:
+ORD-91068  placed 2026-08-18  status: returned  total: $364.15
+  payment method: card ending 7053  ship to: 901 Oak Ave
+  - noise-cancelling headphones x1
+  - USB-C charging cable (2m) x3
+  - travel pouch x2
+ORD-49073  placed 2026-06-12  status: in transit  total: $163.95
+  payment method: card ending 7670  ship to: 928 Elm Ave
+  - blender x1
+  - USB-C charging cable (2m) x1
+  - travel pouch x2
+ORD-75750  placed 2026-07-02  status: delivered  total: $315.15
+  payment method: card ending 1350  ship to: 495 Oak Rd
+  - noise-cancelling headphones x1
+  - gift wrap x2
+  - microfiber cloth x3
+  - merino socks, size M x2
+ORD-34743  placed 2026-05-19  status: in transit  total: $457.37
+  payment method: card ending 2815  ship to: 59 Oak Ave
+  - espresso grinder x1
+  - stainless water bottle, 750ml x3
+  - extended warranty, 2 years x1
+  - travel pouch x1
+
+--- message 1 from Kofi Mensah ---
+I'd like to return the wool blanket from ORD-75750; it's the wrong size. My partner placed ORD-34743 on our shared account, in case that matters. Your app logged me out twice while I was looking at this, which didn't help. The trail running shoes itself is great, for what it's worth.
+
+Kofi Mensah
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Arjun (support) ---
+Screenshots aren't necessary, but thank you for offering. I've updated your shipping address on file. Loyalty points post about a week after an order is delivered. Let me know if anything else looks off.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Kofi Mensah ---
+I got two receipts for ORD-91068, and both amounts actually left my account. My partner placed ORD-49073 on our shared account, in case that matters. The confirmation email for ORD-34743 went to my spam folder, so I only just saw it.
+
+Kofi Mensah
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Arjun (support) ---
+Let me know if anything else looks off. I can see all the orders on your account, including ORD-49073. I've resent the confirmation email for ORD-49073 to the address on file.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Arjun (support) ---
+Confirmed on our side -- ORD-91068 was captured twice by a retry in our checkout. One refund of $51.65 is on its way to you. Tracking updates can lag by a day or two with this carrier. Thanks for reaching out, and sorry for the trouble.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Kofi Mensah ---
+The rain jacket itself is great, for what it's worth. My partner placed ORD-75750 on our shared account, in case that matters. My earlier order ORD-75750 arrived fine, no complaints there.
+
+Kofi Mensah
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Kofi Mensah ---
+My partner placed ORD-49073 on our shared account, in case that matters. I changed my shipping address last month, so please double-check you have the new one. Your app logged me out twice while I was looking at this, which didn't help. Is there a way to combine loyalty points from ORD-49073 with my next purchase?
+
+Kofi Mensah
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Arjun (support) ---
+Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context. I can see all the orders on your account, including ORD-34743. I've updated your shipping address on file.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Kofi Mensah ---
+I tried the chat widget first but it kept disconnecting. My earlier order ORD-34743 arrived fine, no complaints there. My partner placed ORD-49073 on our shared account, in case that matters. I'm happy to send screenshots if that helps.
+
+Thanks,
+Kofi Mensah
+Sent from my phone -- please excuse typos.
+
+--- message 10 from Arjun (support) ---
+Tracking updates can lag by a day or two with this carrier. If you need an invoice for ORD-34743, you can download it from the Orders page. Let me know if anything else looks off. For ORD-49073, the return window is 30 days from delivery.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

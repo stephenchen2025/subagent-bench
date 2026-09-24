@@ -1,0 +1,11 @@
+Ledger page P-9190
+
+account      amount   see page
+Young          +199   P-2280
+Fofana         +407   P-6211
+Grant          -850   P-2156
+Kowalski        -77   P-7848
+Quinn          -630   P-2235
+Castillo       -168   P-3340
+
+Follow the credit belonging to the account that comes first alphabetically.

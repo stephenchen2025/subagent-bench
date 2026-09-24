@@ -1,0 +1,10 @@
+Ledger page P-8976
+
+account      amount   see page
+Baker          -897   P-9002
+Grant          +863   P-7050
+Rahman         +221   P-4759
+Abbott         +270   P-4454
+Vance          -268   P-9002
+
+Follow the debit belonging to the account that comes last alphabetically.

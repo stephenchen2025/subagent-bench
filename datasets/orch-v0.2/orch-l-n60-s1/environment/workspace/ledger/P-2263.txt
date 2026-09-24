@@ -1,0 +1,12 @@
+Ledger page P-2263
+
+account      amount   see page
+Moreau         -433   P-7487
+Park           -210   P-9485
+Castillo       -564   P-6276
+Abbott         +545   P-4275
+Umar            -94   P-4626
+Vance          +131   P-7614
+Silva           -89   P-8846
+
+Follow the entry with the largest credit.

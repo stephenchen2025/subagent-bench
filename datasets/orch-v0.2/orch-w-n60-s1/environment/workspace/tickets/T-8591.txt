@@ -1,0 +1,87 @@
+Ticket T-8591
+Customer: Elena Petrova
+Orders on file: ORD-41610, ORD-98326, ORD-93380, ORD-32380
+Opened: 2026-02-12 via email
+
+Order details:
+ORD-41610  placed 2026-01-13  status: delivered  total: $159.36
+  payment method: card ending 2772  ship to: 961 Elm St
+  - trail running shoes x1
+  - travel pouch x1
+  - replacement filter cartridge, 3-pack x1
+  - merino socks, size M x3
+  - extended warranty, 2 years x3
+ORD-98326  placed 2026-02-02  status: delivered  total: $151.16
+  payment method: card ending 9884  ship to: 355 Cedar Lane
+  - standing desk x1
+  - travel pouch x2
+  - microfiber cloth x2
+  - merino socks, size M x1
+  - gift wrap x2
+ORD-93380  placed 2026-06-21  status: label created  total: $377.76
+  payment method: card ending 8745  ship to: 661 Elm Ave
+  - wool blanket x1
+  - microfiber cloth x2
+  - gift wrap x2
+  - merino socks, size M x3
+  - carabiner set x3
+ORD-32380  placed 2026-08-18  status: label created  total: $308.95
+  payment method: card ending 8385  ship to: 301 Elm Rd
+  - cast iron skillet x1
+  - spare battery pack x2
+  - gift wrap x1
+  - carabiner set x1
+
+--- message 1 from Elena Petrova ---
+I need to change the delivery address for ORD-98326 before it ships. My earlier order ORD-41610 arrived fine, no complaints there. Is there a way to combine loyalty points from ORD-41610 with my next purchase? I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Elena Petrova
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Pete (support) ---
+I've resent the confirmation email for ORD-41610 to the address on file. I've added a note to your account so the next agent has the context. Our warehouse shows ORD-98326 left on schedule. Screenshots aren't necessary, but thank you for offering.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Elena Petrova ---
+Not your fault, but my gym billed me twice this month, which is why I'm nervous about ORD-93380. Everything on your side looks like a single charge, I just wanted to confirm the delivery date. I've been a customer for a few years and usually everything goes smoothly. Tracking for ORD-41610 hasn't updated since Tuesday.
+
+Best regards,
+Elena Petrova
+
+--- message 4 from Pete (support) ---
+If you need an invoice for ORD-32380, you can download it from the Orders page. Let me know if anything else looks off. For ORD-98326, the return window is 30 days from delivery.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Elena Petrova ---
+The noise-cancelling headphones itself is great, for what it's worth. I'm happy to send screenshots if that helps. I changed my shipping address last month, so please double-check you have the new one. Could you also tell me whether ORD-41610 qualifies for the extended return window?
+
+Thanks,
+Elena Petrova
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Pete (support) ---
+Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier. If you need an invoice for ORD-41610, you can download it from the Orders page. For ORD-32380, the return window is 30 days from delivery.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Elena Petrova ---
+I tried the chat widget first but it kept disconnecting. The standing desk itself is great, for what it's worth. Your app logged me out twice while I was looking at this, which didn't help. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Elena Petrova
+
+--- message 8 from Pete (support) ---
+I've added a note to your account so the next agent has the context. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-98326 left on schedule. For ORD-98326, the return window is 30 days from delivery.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

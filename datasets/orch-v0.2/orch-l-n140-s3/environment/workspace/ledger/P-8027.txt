@@ -1,0 +1,11 @@
+Ledger page P-8027
+
+account      amount   see page
+Hughes         -839   P-5073
+Abbott         +310   P-2536
+Vance          +423   P-4101
+Park           -153   P-7812
+Kowalski       -135   P-5073
+Osei           +569   P-2565
+
+Follow the entry with the largest debit (the most negative amount).

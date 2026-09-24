@@ -1,0 +1,70 @@
+Ticket T-5628
+Customer: Oskar Berg
+Orders on file: ORD-92227, ORD-59877, ORD-15532, ORD-97217
+Opened: 2026-06-10 via email
+
+Order details:
+ORD-92227  placed 2026-08-07  status: in transit  total: $142.55
+  payment method: card ending 9726  ship to: 894 Harbor St
+  - camping stove x1
+  - spare battery pack x2
+  - stainless water bottle, 750ml x1
+  - travel pouch x1
+  - gift wrap x1
+ORD-59877  placed 2026-04-05  status: delivered  total: $356.40
+  payment method: card ending 9942  ship to: 78 Oak Rd
+  - cast iron skillet x1
+  - USB-C charging cable (2m) x1
+  - stainless water bottle, 750ml x3
+ORD-15532  placed 2026-06-14  status: delivered  total: $237.50
+  payment method: card ending 1497  ship to: 781 Mill St
+  - trail running shoes x1
+  - spare battery pack x1
+  - travel pouch x1
+  - microfiber cloth x2
+ORD-97217  placed 2026-04-04  status: in transit  total: $84.41
+  payment method: card ending 9949  ship to: 107 Mill St
+  - espresso grinder x1
+  - spare battery pack x1
+  - carabiner set x2
+  - USB-C charging cable (2m) x1
+  - microfiber cloth x3
+
+--- message 1 from Oskar Berg ---
+I'd like to return the desk lamp from ORD-15532; it's the wrong size. I'm travelling next week, so email is the best way to reach me. Your app logged me out twice while I was looking at this, which didn't help. Could you also tell me whether ORD-97217 qualifies for the extended return window?
+
+Oskar Berg
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Dana (support) ---
+Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-15532 to the address on file. I can see all the orders on your account, including ORD-15532. I've added a note to your account so the next agent has the context.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Oskar Berg ---
+I changed my shipping address last month, so please double-check you have the new one. I tried the chat widget first but it kept disconnecting. The box for ORD-59877 was a bit crushed but the contents were fine. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Oskar Berg
+
+--- message 4 from Dana (support) ---
+Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-15532 left on schedule. For ORD-15532, the return window is 30 days from delivery. I can see all the orders on your account, including ORD-97217.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Oskar Berg ---
+Is there a way to combine loyalty points from ORD-59877 with my next purchase? I tried the chat widget first but it kept disconnecting. I'm happy to send screenshots if that helps. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Oskar Berg
+
+--- message 6 from Dana (support) ---
+I've resent the confirmation email for ORD-59877 to the address on file. Tracking updates can lag by a day or two with this carrier. I've updated your shipping address on file. I've added a note to your account so the next agent has the context.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,12 @@
+Ledger page P-7502
+
+account      amount   see page
+Dunn           +673   P-8593
+Zhou           -480   P-2263
+Quinn          -178   P-7774
+Jensen         -460   P-6276
+Moreau         +471   P-6639
+Silva          -632   P-3625
+Lambert        -437   P-4403
+
+Follow the credit belonging to the account that comes first alphabetically.

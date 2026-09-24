@@ -1,0 +1,12 @@
+Ledger page P-4315
+
+account      amount   see page
+Silva           -78   P-2167
+Tanaka         -182   P-7598
+Nakamura       +440   P-4863
+Weber          +634   P-2235
+Vance          +770   P-2702
+Moreau         +418   P-2443
+Lambert         +33   P-6037
+
+Follow the debit belonging to the account that comes last alphabetically.

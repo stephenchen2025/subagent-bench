@@ -1,0 +1,12 @@
+Ledger page P-3420
+
+account      amount   see page
+Quinn          -870   P-5865
+Dunn           -686   P-9454
+Rahman         -356   P-5124
+Hughes         +451   P-6207
+Eriksen        -748   P-6196
+Umar            +90   P-3982
+Kowalski       +734   P-7005
+
+Follow the entry with the largest credit.

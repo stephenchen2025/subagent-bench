@@ -1,0 +1,12 @@
+Ledger page P-2553
+
+account      amount   see page
+Nakamura       -335   P-7965
+Weber           +90   P-5982
+Dunn           -156   P-4680
+Lambert          -8   P-7335
+Kowalski       +538   P-3686
+Hughes         +305   P-6876
+Osei            +50   P-7318
+
+Follow the entry with the largest debit (the most negative amount).

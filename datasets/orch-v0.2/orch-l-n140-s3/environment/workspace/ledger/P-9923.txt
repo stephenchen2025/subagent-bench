@@ -1,0 +1,10 @@
+Ledger page P-9923
+
+account      amount   see page
+Hughes         +667   P-5259
+Rahman         +865   P-8777
+Vance          -701   P-3360
+Moreau         +458   P-1320
+Weber          -690   P-2232
+
+Follow the credit belonging to the account that comes first alphabetically.

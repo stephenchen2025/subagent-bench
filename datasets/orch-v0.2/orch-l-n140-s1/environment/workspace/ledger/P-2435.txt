@@ -1,0 +1,11 @@
+Ledger page P-2435
+
+account      amount   see page
+Umar           +383   P-3354
+Hughes         +775   P-2610
+Silva           -70   P-6828
+Jensen         +312   P-4315
+Vance          -741   P-7315
+Moreau         -764   P-4011
+
+Follow the entry whose amount is closest to zero.

@@ -1,0 +1,11 @@
+Ledger page P-1696
+
+account      amount   see page
+Eriksen        -694   P-7667
+Jensen         +805   P-7334
+Young           -85   P-2263
+Rahman          -99   P-7696
+Grant          -504   P-2390
+Kowalski       +865   P-7614
+
+Follow the entry with the largest credit.

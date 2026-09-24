@@ -1,0 +1,11 @@
+Ledger page P-2338
+
+account      amount   see page
+Park           -204   P-6820
+Castillo       -544   P-7409
+Jensen         -786   P-2401
+Zhou           +597   P-4890
+Young          +633   P-4011
+Nakamura       -686   P-1856
+
+Follow the entry whose amount is closest to zero.

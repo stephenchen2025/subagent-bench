@@ -1,0 +1,11 @@
+Ledger page P-2840
+
+account      amount   see page
+Dunn           -283   P-8313
+Young          +162   P-1759
+Baker          +272   P-2121
+Silva          +664   P-9456
+Park           +561   P-1433
+Hughes          -52   P-3524
+
+Follow the entry whose amount is closest to zero.

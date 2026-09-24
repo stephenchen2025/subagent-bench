@@ -1,0 +1,10 @@
+Ledger page P-9720
+
+account      amount   see page
+Silva          +514   P-1026
+Baker          -833   P-7621
+Kowalski       -388   P-9161
+Park           -594   P-1841
+Weber          -160   P-2116
+
+Follow the entry with the second-largest amount.

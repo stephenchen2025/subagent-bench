@@ -1,0 +1,10 @@
+Ledger page P-6219
+
+account      amount   see page
+Park           -150   P-1210
+Ibarra         -751   P-8643
+Kowalski       +254   P-5691
+Osei           +607   P-2630
+Baker          -646   P-9228
+
+Follow the debit belonging to the account that comes last alphabetically.

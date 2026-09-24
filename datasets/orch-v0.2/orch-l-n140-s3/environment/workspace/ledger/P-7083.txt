@@ -1,0 +1,10 @@
+Ledger page P-7083
+
+account      amount   see page
+Baker          +609   P-1557
+Xu             -623   P-4929
+Grant          -551   P-6370
+Silva          -159   P-3560
+Ibarra         -450   P-2191
+
+Follow the entry with the largest debit (the most negative amount).

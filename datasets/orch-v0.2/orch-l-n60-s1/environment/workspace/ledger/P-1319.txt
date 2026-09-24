@@ -1,0 +1,12 @@
+Ledger page P-1319
+
+account      amount   see page
+Fofana         +332   P-5261
+Vance          +439   P-6472
+Castillo       +586   P-8192
+Ibarra         +702   P-1525
+Rahman         -106   P-3625
+Abbott         +236   P-3318
+Lambert        -517   P-2097
+
+Follow the debit belonging to the account that comes last alphabetically.

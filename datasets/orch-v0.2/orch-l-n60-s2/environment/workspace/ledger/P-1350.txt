@@ -1,0 +1,11 @@
+Ledger page P-1350
+
+account      amount   see page
+Kowalski       +550   P-7275
+Umar           +596   P-2648
+Xu             -311   P-3833
+Lambert        +338   P-6700
+Silva           -10   P-8298
+Abbott         +366   P-3326
+
+Follow the entry with the largest credit.

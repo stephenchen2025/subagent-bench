@@ -1,0 +1,10 @@
+Ledger page P-2401
+
+account      amount   see page
+Hughes         -701   P-4117
+Nakamura       -710   P-1088
+Weber          -752   P-2985
+Moreau         +127   P-1983
+Grant          -204   P-6883
+
+Follow the credit belonging to the account that comes first alphabetically.

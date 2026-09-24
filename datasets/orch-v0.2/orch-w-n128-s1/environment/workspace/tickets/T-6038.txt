@@ -1,0 +1,70 @@
+Ticket T-6038
+Customer: Maya Cohen
+Orders on file: ORD-14666, ORD-26353, ORD-73777, ORD-76744
+Opened: 2026-04-16 via chat transcript
+
+Order details:
+ORD-14666  placed 2026-02-13  status: label created  total: $462.08
+  payment method: card ending 4300  ship to: 198 Mill Ave
+  - noise-cancelling headphones x1
+  - spare battery pack x1
+  - carabiner set x1
+  - gift wrap x1
+  - microfiber cloth x3
+ORD-26353  placed 2026-05-26  status: delivered  total: $438.01
+  payment method: card ending 9798  ship to: 270 Cedar St
+  - rain jacket x1
+  - stainless water bottle, 750ml x3
+  - gift wrap x1
+  - microfiber cloth x3
+ORD-73777  placed 2026-04-17  status: label created  total: $45.76
+  payment method: card ending 9069  ship to: 352 Cedar Lane
+  - bike light set x1
+  - extended warranty, 2 years x1
+  - travel pouch x1
+  - stainless water bottle, 750ml x3
+  - spare battery pack x1
+ORD-76744  placed 2026-07-26  status: label created  total: $196.64
+  payment method: card ending 7684  ship to: 355 Elm St
+  - rain jacket x1
+  - microfiber cloth x3
+  - extended warranty, 2 years x1
+
+--- message 1 from Maya Cohen ---
+Can I use a gift card on ORD-14666, or is it too late? Your app logged me out twice while I was looking at this, which didn't help. My earlier order ORD-26353 arrived fine, no complaints there. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Maya Cohen
+
+--- message 2 from Arjun (support) ---
+I've updated your shipping address on file. I've added a note to your account so the next agent has the context. Let me know if anything else looks off. Our warehouse shows ORD-26353 left on schedule.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Maya Cohen ---
+Your app logged me out twice while I was looking at this, which didn't help. The confirmation email for ORD-14666 went to my spam folder, so I only just saw it. I tried the chat widget first but it kept disconnecting. I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Maya Cohen
+
+--- message 4 from Arjun (support) ---
+Let me know if anything else looks off. I've resent the confirmation email for ORD-73777 to the address on file. Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Maya Cohen ---
+I changed my shipping address last month, so please double-check you have the new one. Your app logged me out twice while I was looking at this, which didn't help. The confirmation email for ORD-73777 went to my spam folder, so I only just saw it. I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Maya Cohen
+
+--- message 6 from Arjun (support) ---
+Tracking updates can lag by a day or two with this carrier. Let me know if anything else looks off. I've resent the confirmation email for ORD-26353 to the address on file. Screenshots aren't necessary, but thank you for offering.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,12 @@
+Ledger page P-6317
+
+account      amount   see page
+Nakamura       -249   P-1500
+Zhou           -694   P-7359
+Xu             -684   P-3453
+Kowalski       +233   P-5935
+Fofana         +110   P-7760
+Vance          +439   P-5188
+Ibarra         -252   P-1630
+
+Follow the entry whose amount is closest to zero.

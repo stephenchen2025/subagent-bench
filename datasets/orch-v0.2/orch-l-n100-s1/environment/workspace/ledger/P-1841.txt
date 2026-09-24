@@ -1,0 +1,11 @@
+Ledger page P-1841
+
+account      amount   see page
+Hughes         -206   P-2956
+Quinn          +200   P-7274
+Kowalski       +512   P-2098
+Grant           -79   P-8443
+Tanaka         -613   P-5366
+Lambert        +554   P-4481
+
+Follow the entry whose amount is closest to zero.

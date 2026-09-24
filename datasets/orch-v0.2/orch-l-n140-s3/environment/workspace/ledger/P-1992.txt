@@ -1,0 +1,10 @@
+Ledger page P-1992
+
+account      amount   see page
+Baker          -760   P-1864
+Rahman         +538   P-9980
+Osei           -566   P-9588
+Dunn           +217   P-5600
+Park           -748   P-3745
+
+Follow the debit belonging to the account that comes last alphabetically.

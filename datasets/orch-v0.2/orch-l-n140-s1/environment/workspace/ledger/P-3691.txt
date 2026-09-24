@@ -1,0 +1,10 @@
+Ledger page P-3691
+
+account      amount   see page
+Fofana          +41   P-5067
+Eriksen        -490   P-7835
+Jensen         -539   P-4713
+Abbott         +144   P-6134
+Weber          -360   P-5927
+
+Follow the entry with the second-largest amount.

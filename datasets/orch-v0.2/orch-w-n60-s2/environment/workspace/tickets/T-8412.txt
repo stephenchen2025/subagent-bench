@@ -1,0 +1,54 @@
+Ticket T-8412
+Customer: Kofi Mensah
+Orders on file: ORD-30102, ORD-22593, ORD-32593, ORD-25050
+Opened: 2026-06-27 via web form
+
+Order details:
+ORD-30102  placed 2026-04-28  status: returned  total: $388.61
+  payment method: card ending 7678  ship to: 413 Oak Ave
+  - wool blanket x1
+  - travel pouch x3
+  - gift wrap x1
+  - microfiber cloth x3
+ORD-22593  placed 2026-07-04  status: delivered  total: $413.86
+  payment method: card ending 3050  ship to: 249 Mill Ave
+  - wool blanket x1
+  - carabiner set x2
+  - replacement filter cartridge, 3-pack x1
+  - extended warranty, 2 years x1
+ORD-32593  placed 2026-05-17  status: label created  total: $412.26
+  payment method: card ending 6718  ship to: 649 Elm Lane
+  - bike light set x1
+  - USB-C charging cable (2m) x1
+  - gift wrap x2
+ORD-25050  placed 2026-02-17  status: delivered  total: $114.52
+  payment method: card ending 4057  ship to: 840 Cedar Ave
+  - water filter pitcher x1
+  - replacement filter cartridge, 3-pack x3
+  - travel pouch x1
+
+--- message 1 from Kofi Mensah ---
+Can I use a gift card on ORD-22593, or is it too late? Your app logged me out twice while I was looking at this, which didn't help. I've been a customer for a few years and usually everything goes smoothly. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Kofi Mensah
+
+--- message 2 from Pete (support) ---
+Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-32593. Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-30102 to the address on file.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Kofi Mensah ---
+I changed my shipping address last month, so please double-check you have the new one. I'm happy to send screenshots if that helps. I tried the chat widget first but it kept disconnecting. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Kofi Mensah
+
+--- message 4 from Pete (support) ---
+Screenshots aren't necessary, but thank you for offering. I've added a note to your account so the next agent has the context. If you need an invoice for ORD-32593, you can download it from the Orders page. Thanks for reaching out, and sorry for the trouble.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

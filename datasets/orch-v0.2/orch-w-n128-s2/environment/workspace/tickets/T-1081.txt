@@ -1,0 +1,55 @@
+Ticket T-1081
+Customer: Mateo Silva
+Orders on file: ORD-90745, ORD-43393, ORD-66811, ORD-62499
+Opened: 2026-06-18 via chat transcript
+
+Order details:
+ORD-90745  placed 2026-07-22  status: delivered  total: $463.85
+  payment method: card ending 6541  ship to: 349 Cedar Ave
+  - blender x1
+  - stainless water bottle, 750ml x3
+  - extended warranty, 2 years x2
+ORD-43393  placed 2026-02-28  status: delivered  total: $387.79
+  payment method: card ending 7721  ship to: 560 Elm Rd
+  - cast iron skillet x1
+  - USB-C charging cable (2m) x1
+  - merino socks, size M x3
+ORD-66811  placed 2026-07-12  status: delivered  total: $146.46
+  payment method: card ending 9857  ship to: 928 Oak Rd
+  - espresso grinder x1
+  - USB-C charging cable (2m) x2
+  - travel pouch x2
+  - extended warranty, 2 years x3
+  - merino socks, size M x2
+ORD-62499  placed 2026-08-08  status: delivered  total: $21.11
+  payment method: card ending 5715  ship to: 366 Mill Lane
+  - desk lamp x1
+  - spare battery pack x1
+  - replacement filter cartridge, 3-pack x2
+  - travel pouch x2
+
+--- message 1 from Mateo Silva ---
+I need to change the delivery address for ORD-62499 before it ships. I changed my shipping address last month, so please double-check you have the new one. Is there a way to combine loyalty points from ORD-66811 with my next purchase? Your app logged me out twice while I was looking at this, which didn't help.
+
+Best regards,
+Mateo Silva
+
+--- message 2 from Keiko (support) ---
+Tracking updates can lag by a day or two with this carrier. Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context. Our warehouse shows ORD-90745 left on schedule.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Mateo Silva ---
+I've been a customer for a few years and usually everything goes smoothly. Your app logged me out twice while I was looking at this, which didn't help. The yoga mat itself is great, for what it's worth. I'm happy to send screenshots if that helps.
+
+Best regards,
+Mateo Silva
+
+--- message 4 from Keiko (support) ---
+For ORD-62499, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-62499 to the address on file. Let me know if anything else looks off.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

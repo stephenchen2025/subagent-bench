@@ -1,0 +1,12 @@
+Ledger page P-8082
+
+account      amount   see page
+Umar           -799   P-5739
+Fofana         +223   P-9855
+Moreau         -109   P-2776
+Dunn           +617   P-3585
+Xu             -589   P-6089
+Zhou            -74   P-1993
+Grant          +394   P-1149
+
+Follow the debit belonging to the account that comes last alphabetically.

@@ -1,0 +1,12 @@
+Ledger page P-2431
+
+account      amount   see page
+Fofana         +428   P-7500
+Dunn           +109   P-2232
+Jensen         -365   P-5247
+Rahman         -788   P-4349
+Xu             -374   P-1252
+Lambert        +474   P-1151
+Nakamura       -725   P-8381
+
+Follow the debit belonging to the account that comes last alphabetically.

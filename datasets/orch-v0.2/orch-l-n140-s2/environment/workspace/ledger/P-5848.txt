@@ -1,0 +1,12 @@
+Ledger page P-5848
+
+account      amount   see page
+Xu             +525   P-9818
+Kowalski       -750   P-7239
+Castillo       +846   P-3054
+Quinn          -235   P-9256
+Moreau         -275   P-1764
+Osei            -47   P-2277
+Weber          +202   P-5987
+
+Follow the entry with the largest debit (the most negative amount).

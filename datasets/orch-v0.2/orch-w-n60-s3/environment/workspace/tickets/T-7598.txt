@@ -1,0 +1,80 @@
+Ticket T-7598
+Customer: Priya Raman
+Orders on file: ORD-91699, ORD-67689, ORD-98749, ORD-23905
+Opened: 2026-02-05 via email
+
+Order details:
+ORD-91699  placed 2026-07-10  status: label created  total: $134.74
+  payment method: card ending 1668  ship to: 952 Cedar Rd
+  - rain jacket x1
+  - microfiber cloth x1
+  - carabiner set x1
+  - travel pouch x2
+  - gift wrap x3
+ORD-67689  placed 2026-04-19  status: delivered  total: $190.47
+  payment method: card ending 1714  ship to: 964 Harbor St
+  - standing desk x1
+  - carabiner set x1
+  - replacement filter cartridge, 3-pack x1
+  - gift wrap x1
+  - travel pouch x1
+ORD-98749  placed 2026-07-25  status: returned  total: $86.52
+  payment method: card ending 9398  ship to: 977 Harbor Ave
+  - carry-on suitcase x1
+  - stainless water bottle, 750ml x3
+  - replacement filter cartridge, 3-pack x3
+  - travel pouch x2
+ORD-23905  placed 2026-07-26  status: returned  total: $49.85
+  payment method: card ending 8109  ship to: 297 Cedar Lane
+  - noise-cancelling headphones x1
+  - spare battery pack x3
+  - merino socks, size M x1
+  - microfiber cloth x1
+
+--- message 1 from Priya Raman ---
+I'd like to return the trail running shoes from ORD-98749; it's the wrong size. My partner placed ORD-23905 on our shared account, in case that matters. I'm travelling next week, so email is the best way to reach me. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Priya Raman
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Dana (support) ---
+I've added a note to your account so the next agent has the context. I've updated your shipping address on file. If you need an invoice for ORD-98749, you can download it from the Orders page. Our warehouse shows ORD-23905 left on schedule.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Priya Raman ---
+The checkout page for ORD-91699 timed out. If I try to pay again, will I end up being charged twice? Is there a way to combine loyalty points from ORD-67689 with my next purchase? Could you also tell me whether ORD-67689 qualifies for the extended return window?
+
+Best regards,
+Priya Raman
+
+--- message 4 from Dana (support) ---
+No, you won't be charged twice: the first attempt for ORD-91699 failed before capture, so retrying is safe. Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Priya Raman ---
+Is there a way to combine loyalty points from ORD-23905 with my next purchase? I'm happy to send screenshots if that helps. I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Priya Raman
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Priya Raman ---
+I'm travelling next week, so email is the best way to reach me. Your app logged me out twice while I was looking at this, which didn't help. I'm happy to send screenshots if that helps. The confirmation email for ORD-98749 went to my spam folder, so I only just saw it.
+
+Thanks,
+Priya Raman
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Dana (support) ---
+For ORD-23905, the return window is 30 days from delivery. Thanks for reaching out, and sorry for the trouble. Tracking updates can lag by a day or two with this carrier. I've resent the confirmation email for ORD-67689 to the address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

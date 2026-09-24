@@ -1,0 +1,61 @@
+Ticket T-8221
+Customer: Grace Mwangi
+Orders on file: ORD-29232, ORD-82366, ORD-91710, ORD-88580
+Opened: 2026-07-16 via web form
+
+Order details:
+ORD-29232  placed 2026-07-27  status: delivered  total: $286.39
+  payment method: card ending 6186  ship to: 466 Oak Ave
+  - wool blanket x1
+  - gift wrap x1
+  - carabiner set x1
+ORD-82366  placed 2026-08-22  status: delivered  total: $263.29
+  payment method: card ending 5867  ship to: 25 Harbor Rd
+  - water filter pitcher x1
+  - extended warranty, 2 years x3
+  - travel pouch x3
+ORD-91710  placed 2026-03-19  status: label created  total: $71.03
+  payment method: card ending 6825  ship to: 279 Oak Ave
+  - bike light set x1
+  - spare battery pack x2
+  - USB-C charging cable (2m) x3
+  - carabiner set x1
+ORD-88580  placed 2026-07-11  status: delivered  total: $162.26
+  payment method: card ending 1662  ship to: 288 Mill Rd
+  - carry-on suitcase x1
+  - merino socks, size M x1
+  - stainless water bottle, 750ml x3
+  - extended warranty, 2 years x1
+  - USB-C charging cable (2m) x1
+
+--- message 1 from Grace Mwangi ---
+Can I use a gift card on ORD-82366, or is it too late? The box for ORD-29232 was a bit crushed but the contents were fine. My partner placed ORD-82366 on our shared account, in case that matters. The confirmation email for ORD-82366 went to my spam folder, so I only just saw it.
+
+Best regards,
+Grace Mwangi
+
+--- message 2 from Dana (support) ---
+I've updated your shipping address on file. I've resent the confirmation email for ORD-82366 to the address on file. Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Grace Mwangi ---
+The $129.43 for ORD-91710 came out of my account, and then the same $129.43 came out again the next morning. I'm happy to send screenshots if that helps. I've been a customer for a few years and usually everything goes smoothly.
+
+Grace Mwangi
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Grace Mwangi ---
+I'm happy to send screenshots if that helps. Is there a way to combine loyalty points from ORD-82366 with my next purchase? The confirmation email for ORD-82366 went to my spam folder, so I only just saw it. Could you also tell me whether ORD-88580 qualifies for the extended return window?
+
+Best regards,
+Grace Mwangi
+
+--- message 5 from Dana (support) ---
+For ORD-88580, the return window is 30 days from delivery. Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-88580 left on schedule.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

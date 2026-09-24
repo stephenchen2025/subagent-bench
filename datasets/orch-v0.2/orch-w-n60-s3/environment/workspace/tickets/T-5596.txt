@@ -1,0 +1,99 @@
+Ticket T-5596
+Customer: Liam O'Neill
+Orders on file: ORD-73549, ORD-51790, ORD-59791, ORD-62855
+Opened: 2026-03-08 via web form
+
+Order details:
+ORD-73549  placed 2026-02-14  status: delivered  total: $189.29
+  payment method: card ending 4999  ship to: 277 Mill Ave
+  - espresso grinder x1
+  - carabiner set x1
+  - replacement filter cartridge, 3-pack x1
+  - microfiber cloth x3
+ORD-51790  placed 2026-02-23  status: delivered  total: $273.13
+  payment method: card ending 3697  ship to: 90 Mill Ave
+  - carry-on suitcase x1
+  - merino socks, size M x2
+  - stainless water bottle, 750ml x3
+  - spare battery pack x2
+  - USB-C charging cable (2m) x2
+ORD-59791  placed 2026-08-23  status: delivered  total: $151.84
+  payment method: card ending 7933  ship to: 703 Elm Ave
+  - standing desk x1
+  - stainless water bottle, 750ml x2
+  - USB-C charging cable (2m) x3
+  - merino socks, size M x2
+  - microfiber cloth x3
+ORD-62855  placed 2026-08-10  status: returned  total: $41.61
+  payment method: card ending 8819  ship to: 795 Mill St
+  - camping stove x1
+  - extended warranty, 2 years x3
+  - travel pouch x1
+
+--- message 1 from Liam O'Neill ---
+How do I reset my password? The reset link keeps expiring. I tried the chat widget first but it kept disconnecting. I'd rather not call; the hold times last time were very long. Tracking for ORD-51790 hasn't updated since Tuesday.
+
+Thanks,
+Liam O'Neill
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Arjun (support) ---
+Screenshots aren't necessary, but thank you for offering. Let me know if anything else looks off. For ORD-59791, the return window is 30 days from delivery. Thanks for reaching out, and sorry for the trouble.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Liam O'Neill ---
+The checkout page for ORD-62855 timed out. If I try to pay again, will I end up being charged twice? I'm happy to send screenshots if that helps. My earlier order ORD-51790 arrived fine, no complaints there.
+
+Liam O'Neill
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Arjun (support) ---
+I can see all the orders on your account, including ORD-73549. Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-51790 left on schedule.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Arjun (support) ---
+Retrying is safe. Our system blocks a second capture on ORD-62855, so a double charge can't happen. Screenshots aren't necessary, but thank you for offering. Our warehouse shows ORD-59791 left on schedule.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Liam O'Neill ---
+I'm travelling next week, so email is the best way to reach me. Tracking for ORD-59791 hasn't updated since Tuesday. Could you also tell me whether ORD-51790 qualifies for the extended return window?
+
+Thanks,
+Liam O'Neill
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Liam O'Neill ---
+Is there a way to combine loyalty points from ORD-73549 with my next purchase? I'm happy to send screenshots if that helps. I'd rather not call; the hold times last time were very long. I'm travelling next week, so email is the best way to reach me.
+
+Liam O'Neill
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Arjun (support) ---
+Thanks for reaching out, and sorry for the trouble. Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Liam O'Neill ---
+My earlier order ORD-59791 arrived fine, no complaints there. Is there a way to combine loyalty points from ORD-59791 with my next purchase? Could you also tell me whether ORD-73549 qualifies for the extended return window? I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Liam O'Neill
+Sent from my phone -- please excuse typos.
+
+--- message 10 from Arjun (support) ---
+Our warehouse shows ORD-51790 left on schedule. For ORD-73549, the return window is 30 days from delivery. I've resent the confirmation email for ORD-59791 to the address on file. Let me know if anything else looks off.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

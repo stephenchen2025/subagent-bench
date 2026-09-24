@@ -1,0 +1,10 @@
+Ledger page P-6183
+
+account      amount   see page
+Baker           +81   P-2035
+Dunn           +890   P-9655
+Silva          +314   P-8196
+Moreau         -476   P-5985
+Park           -790   P-7318
+
+Follow the credit belonging to the account that comes first alphabetically.

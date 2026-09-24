@@ -1,0 +1,12 @@
+Ledger page P-6306
+
+account      amount   see page
+Quinn          +144   P-9258
+Umar            -44   P-5116
+Hughes          +24   P-5633
+Weber          -547   P-4173
+Silva          +272   P-5696
+Jensen         -499   P-2097
+Fofana         -857   P-1375
+
+Follow the entry with the second-largest amount.

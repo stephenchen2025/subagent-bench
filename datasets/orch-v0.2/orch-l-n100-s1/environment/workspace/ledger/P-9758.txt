@@ -1,0 +1,11 @@
+Ledger page P-9758
+
+account      amount   see page
+Hughes         +190   P-6726
+Zhou           +124   P-8753
+Silva          -413   P-6851
+Umar            +29   P-3528
+Abbott         -454   P-8683
+Young          +799   P-1589
+
+Follow the credit belonging to the account that comes first alphabetically.
