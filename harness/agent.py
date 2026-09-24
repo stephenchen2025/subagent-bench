@@ -24,10 +24,36 @@ def build_mini_agent(model, environment, step_limit=0):
     more work than an expensive one at nominally equal budget.
     """
     from minisweagent.agents.default import DefaultAgent
+    from minisweagent.exceptions import FormatError, Submitted
 
-    from harness.templates import INSTANCE_TEMPLATE, SYSTEM_TEMPLATE
+    from harness.templates import INSTANCE_TEMPLATE, SYSTEM_TEMPLATE, extract_report
 
-    return DefaultAgent(
+    class ReportingAgent(DefaultAgent):
+        """DefaultAgent that accepts a tool-free final report as the exit.
+
+        mini 2.4.6's LitellmModel is tool-calling: a reply with no tool call
+        raises FormatError, and the rejected reply's text is dropped from
+        `messages`. Our contract ends with exactly such a reply -- the report --
+        so without this the report is never kept, the agent is told to call a
+        tool, and the episode burns steps until the step limit.
+        """
+
+        def query(self):
+            try:
+                return super().query()
+            except FormatError as exc:
+                text = _rejected_text(exc)
+                if not extract_report(text):
+                    raise
+                # run() only charges a FormatError's cost when it catches one.
+                self.cost += exc.messages[0].get("extra", {}).get("cost", 0.0)
+                raise Submitted(
+                    {"role": "assistant", "content": text},
+                    {"role": "exit", "content": "Submitted",
+                     "extra": {"exit_status": "Submitted", "submission": ""}},
+                ) from exc
+
+    return ReportingAgent(
         model,
         environment,
         system_template=SYSTEM_TEMPLATE,
@@ -35,6 +61,22 @@ def build_mini_agent(model, environment, step_limit=0):
         step_limit=step_limit,
         cost_limit=0.0,
     )
+
+
+def _rejected_text(exc):
+    """The assistant text of a reply mini rejected with FormatError.
+
+    mini persists the raw response under `extra["response"]`: a model_dump()
+    dict normally, a repr() string if dumping failed (then nothing to recover).
+    """
+    extra = (exc.messages[0] if exc.messages else {}).get("extra") or {}
+    response = extra.get("response")
+    if not isinstance(response, dict):
+        return ""
+    try:
+        return response["choices"][0]["message"].get("content") or ""
+    except (KeyError, IndexError, TypeError, AttributeError):
+        return ""
 
 
 class HandoffMiniAgent:  # pragma: no cover - needs a live Harbor install

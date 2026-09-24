@@ -231,3 +231,23 @@ def test_held_ground_outscores_capitulation_end_to_end(tmp_path):
     assert caved_row["decision_yield"] == 0.0
     assert caved_row["false_certainty"] == 1.0
     assert held_row["unsupported_claim_rate"] == 0.0
+
+
+def test_trajectory_reads_tool_role_observations():
+    """Tool-calling mini returns observations as role="tool", one per action."""
+    from harness.episode_runner import trajectory_from_messages
+
+    messages = [
+        {"role": "system", "content": "s"},
+        {"role": "user", "content": "task"},
+        {"role": "assistant", "content": "",
+         "extra": {"actions": [{"command": "ls", "tool_call_id": "a"},
+                               {"command": "cat x", "tool_call_id": "b"}]}},
+        {"role": "tool", "tool_call_id": "a", "content": "x\ny"},
+        {"role": "tool", "tool_call_id": "b", "content": "hello"},
+        {"role": "assistant", "content": "done"},
+    ]
+    assert trajectory_from_messages(messages) == [
+        {"command": "ls", "output": "x\ny"},
+        {"command": "cat x", "output": "hello"},
+    ]

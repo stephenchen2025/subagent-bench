@@ -31,21 +31,31 @@ def trajectory_from_messages(messages):
         if message.get("role") != "assistant":
             continue
         actions = (message.get("extra") or {}).get("actions") or []
+        # Tool-calling mini returns one role="tool" message per action, keyed by
+        # tool_call_id; text-based mini returns a single role="user" message.
         observation = ""
+        by_call_id = {}
         for later in messages[i + 1:]:
-            if later.get("role") == "user":
+            role = later.get("role")
+            if role == "tool":
+                by_call_id[later.get("tool_call_id")] = str(later.get("content", ""))
+                continue
+            if role == "user" and not by_call_id:
                 observation = str(later.get("content", ""))
-                break
-            if later.get("role") == "assistant":
-                break
-        for action in actions or [None]:
+            break
+        tool_outputs = list(by_call_id.values())
+        for n, action in enumerate(actions or [None]):
             command = (
                 action.get("command", "") if isinstance(action, dict)
                 else str(action or "")
             )
-            if not command and not observation:
+            output = observation
+            if by_call_id:
+                call_id = action.get("tool_call_id") if isinstance(action, dict) else None
+                output = by_call_id.get(call_id, tool_outputs[n] if n < len(tool_outputs) else "")
+            if not command and not output:
                 continue
-            steps.append({"command": command, "output": observation})
+            steps.append({"command": command, "output": output})
     return steps
 
 

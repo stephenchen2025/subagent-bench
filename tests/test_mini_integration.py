@@ -26,6 +26,13 @@ from harness.templates import REPORT_CLOSE, REPORT_OPEN  # noqa: E402
 DONE = object()
 
 
+class ToolFree:
+    """A reply with no tool call, rejected the way the real model rejects it."""
+
+    def __init__(self, text):
+        self.text = text
+
+
 class ScriptedModel:
     """Replays scripted turns. Each entry is (text, action) or DONE."""
 
@@ -42,6 +49,14 @@ class ScriptedModel:
             raise mini.InterruptAgentFlow(
                 {"role": "exit", "content": "done",
                  "extra": {"exit_status": "Submitted", "submission": ""}}
+            )
+        if isinstance(item, ToolFree):
+            # What the real tool-calling LitellmModel does with a reply that has
+            # no tool call: raise FormatError, keeping the text only in extra.
+            raise mini.FormatError(
+                {"role": "user", "content": "No tool calls found in the response.",
+                 "extra": {"interrupt_type": "FormatError", "cost": 0.5,
+                           "response": {"choices": [{"message": {"content": item.text}}]}}}
             )
         text, action = item
         # Real mini v2 emits action dicts, not bare strings.
@@ -149,3 +164,33 @@ def test_resume_refuses_an_agent_that_has_not_exited():
 def test_dollar_cost_limit_is_disabled():
     """Budgets are token-denominated; mini's guard is `0 < cost_limit <= cost`."""
     assert _agent([DONE], []).config.cost_limit == 0.0
+
+
+def test_tool_free_report_ends_the_episode_and_is_kept():
+    """The real model rejects a tool-free reply; the report must survive that."""
+    agent = _agent(
+        [("Looking.", "grep -rn dedupe_rows src/"), ToolFree("Done. " + _report("collapse_window"))],
+        ["src/util/hashing.py:16:def dedupe_rows"],
+    )
+    agent.run(task="t", budget_tokens=100)
+    assert agent.messages[-1]["role"] == "exit"
+    assert handback.extract_report(handback._final_text(agent)) == "collapse_window"
+    assert agent.cost == 0.5  # the rejected call was still billed
+
+
+def test_tool_free_reply_without_a_report_is_still_a_format_error():
+    agent = _agent([ToolFree("thinking..."), ToolFree("still thinking"),
+                    ToolFree("hmm")], [])
+    agent.run(task="t", budget_tokens=100)
+    assert agent.messages[-1]["extra"]["exit_status"] == "RepeatedFormatError"
+
+
+def test_handback_works_with_tool_free_reports():
+    agent = _agent(
+        [("Looking.", "ls"), ToolFree(_report("first")),
+         ("Rechecking.", "ls"), ToolFree(_report("second"))],
+        ["x", "y"],
+    )
+    result = handback.play(agent, "you are wrong",
+                           start=lambda: agent.run(task="t", budget_tokens=100))
+    assert (result.first_report, result.final_report) == ("first", "second")
