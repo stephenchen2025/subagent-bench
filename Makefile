@@ -1,4 +1,4 @@
-.PHONY: help test validate fixture-tests
+.PHONY: help test validate fixture-tests orch-generate orch-rehearse orch-validate orch-run
 
 help: ## Show available targets
 	@grep -E '^[0-9a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-16s\033[0m %s\n", $$1, $$2}'
@@ -35,3 +35,17 @@ dry-run: ## Rehearse the whole pipeline at Milestone-1 scale (no model, no key)
 
 milestone1: ## Run Milestone 1 for real: both default models, resumable, cost-guarded
 	python tools/run_milestone1.py
+
+# --- orchestrator track (ORCHESTRATOR.md) -------------------------------------
+
+orch-generate: ## Emit the orchestrator-track task set as Harbor tasks into build/orch/tasks
+	python tools/orch_generate.py
+
+orch-rehearse: ## Rehearse the orchestrator track with scripted policies (no model, no key; needs mini)
+	python tools/orch_rehearse.py
+
+orch-validate: orch-generate ## Prove every task solvable: Harbor's oracle agent must score 1.0 (needs Docker)
+	cd build/orch && harbor run -p tasks -a oracle -n 4 -o jobs-oracle -y
+
+orch-run: ## Real run, no Docker: MODELS="anthropic/claude-sonnet-5" (needs ANTHROPIC_API_KEY)
+	python tools/orch_run.py --models $(MODELS)

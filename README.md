@@ -1,4 +1,67 @@
-# HANDOFF
+# subagent-bench
+
+Two benchmarks for subagents, one on each side of the delegation boundary:
+
+| Track | Question | Scored by | Doc |
+|---|---|---|---|
+| **Orchestrator** | Does delegating to subagents pay, and does the lead know when? | programmatic verifiers, in Harbor | [`ORCHESTRATOR.md`](ORCHESTRATOR.md) |
+| **HANDOFF (worker)** | Is the report a subagent returns worth acting on? | a frozen consumer model | [`DESIGN.md`](DESIGN.md) |
+
+## Orchestrator track
+
+A solo agent's score is flat by construction: it has no delegation metrics, and
+on delegation-favourable tasks it stalls as the task grows because it hits a
+per-agent wall. With subagents, the benefit shows up as **lift** over solo, the
+remaining **headroom** is the gap to a scripted ideal decomposition, and a
+compute-matched control (**solo-xl**) separates "subagents helped" from
+"subagents spent more tokens". Tasks where delegating does *not* pay carry an
+over-delegation **tax**, so "always fan out" does not win.
+
+| Family | Delegate? | What it tests |
+|---|---|---|
+| **W** wide sweep | yes, at scale | N support tickets to read; grep narrows but cannot finish. Hits the **context** wall. |
+| **P** parallel probes | yes, at scale | K services, three dependent diagnostic hops each. Hits the **step** wall; parallel workers also cut wall-clock. |
+| **C** coupled change | no | Add a field across modules. The record format is unspecified, so isolated workers each pick one and the integration test fails. |
+| **S** small fix | no | One bug, one file. Delegating only adds cost. |
+
+Every task is a Harbor task with a stdlib-only verifier and an oracle solution.
+The ground truth lives only in `tests/`, which Harbor uploads after the agent
+finishes.
+
+```bash
+make orch-generate                        # emit build/orch/tasks (27 tasks, 3 seeds)
+make orch-validate                        # Harbor oracle agent: every task must score 1.0 (Docker)
+make orch-rehearse                        # scripted policies through the real harness (no key)
+
+# reference harness (mini-swe-agent + a `subagent` command), one job per condition
+harbor run -p build/orch/tasks -a orch.harbor_agent:OrchMiniAgent \
+    -m anthropic/claude-sonnet-5 --ak mode=solo -o jobs/sonnet-solo
+harbor run -p build/orch/tasks -a orch.harbor_agent:OrchMiniAgent \
+    -m anthropic/claude-sonnet-5 --ak mode=delegate -o jobs/sonnet-delegate
+#   ... and --ak mode=solo-xl, --ak mode=oracle-split
+
+# system track: any Harbor agent, e.g. Claude Code with and without its Agent tool
+harbor run -p build/orch/tasks -a claude-code -m anthropic/claude-sonnet-5 \
+    --ak disallowed_tools=Agent,Task -o jobs/cc-solo
+harbor run -p build/orch/tasks -a claude-code -m anthropic/claude-sonnet-5 -o jobs/cc-delegate
+
+python tools/orch_collect.py jobs/sonnet-solo jobs/sonnet-delegate   # -> build/orch-report/report.md
+```
+
+`orch_collect` reads the reference harness's telemetry directly, and
+reconstructs it for any other scaffold from Harbor's ATIF trajectory. It
+detects system and condition from the job config; force them with
+`JOBDIR=system:condition`. For a first live look without Docker, `make orch-run
+MODELS=anthropic/claude-sonnet-5` runs the same conditions on local temp copies.
+
+Status: everything above is verified against harbor 0.23.0 in Docker with no
+API key. The Harbor oracle scores 1.0 on every task, and the reference harness
+runs parallel workers in real containers under scripted policies. **No real
+model has been run yet.** See ORCHESTRATOR.md §8.
+
+---
+
+# HANDOFF (worker track)
 
 A benchmark for **subagent behavior** — what survives the delegation boundary
 between an orchestrator and an isolated worker.
@@ -40,7 +103,9 @@ Three ideas carry it:
 
 | Path | What |
 |---|---|
-| [`DESIGN.md`](DESIGN.md) | the proposal |
+| [`DESIGN.md`](DESIGN.md) | the HANDOFF proposal |
+| [`ORCHESTRATOR.md`](ORCHESTRATOR.md) | the orchestrator-track proposal, research summary, and status |
+| [`orch/`](orch/) | orchestrator track: generators, verifier, Harbor emission, harness, metrics, report |
 | [`tasks/schema.json`](tasks/schema.json) | task specification schema |
 | [`tasks/examples/`](tasks/examples/) | three worked task specs |
 | [`envs/py_svc/`](envs/py_svc/) | the fixture repo the three tasks run against |
@@ -54,7 +119,7 @@ Three ideas carry it:
 | [`tests/`](tests/) | fixture invariants, spec consistency, scorer unit tests, end-to-end |
 
 ```bash
-make install && make test    # 110 tests, no API key needed
+make install && make test    # 249 tests on 3.12 (202 + skips on 3.11), no API key
 make demo                    # score two subagents that did identical work
 make generate                # generate + validate the 30-task Milestone 1 set
 make dry-run                 # rehearse the whole pipeline: 270 episodes, no model
