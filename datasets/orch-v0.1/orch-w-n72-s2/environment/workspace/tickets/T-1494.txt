@@ -1,0 +1,82 @@
+Ticket T-1494
+Customer: Elena Petrova
+Orders on file: ORD-71376, ORD-78572, ORD-31850, ORD-62774
+Opened: 2026-08-07 via chat transcript
+
+Order details:
+ORD-71376  placed 2026-08-23  status: returned  total: $406.00
+  payment method: card ending 1602  ship to: 590 Cedar Lane
+  - blender x1
+  - travel pouch x3
+  - extended warranty, 2 years x3
+ORD-78572  placed 2026-07-03  status: returned  total: $169.03
+  payment method: card ending 1474  ship to: 663 Mill Lane
+  - desk lamp x1
+  - stainless water bottle, 750ml x1
+  - USB-C charging cable (2m) x1
+  - spare battery pack x2
+  - merino socks, size M x3
+ORD-31850  placed 2026-03-10  status: delivered  total: $223.89
+  payment method: card ending 7229  ship to: 949 Harbor Ave
+  - yoga mat x1
+  - gift wrap x3
+  - replacement filter cartridge, 3-pack x1
+ORD-62774  placed 2026-05-02  status: delivered  total: $400.19
+  payment method: card ending 6904  ship to: 544 Cedar St
+  - blender x1
+  - merino socks, size M x3
+  - microfiber cloth x1
+  - spare battery pack x2
+
+--- message 1 from Elena Petrova ---
+I need to change the delivery address for ORD-31850 before it ships. I changed my shipping address last month, so please double-check you have the new one. I'm travelling next week, so email is the best way to reach me. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Elena Petrova
+
+--- message 2 from Pete (support) ---
+I've updated your shipping address on file. Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-62774 left on schedule. I've resent the confirmation email for ORD-62774 to the address on file.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Elena Petrova ---
+Before I retry the payment on ORD-71376 -- is there any risk of a double charge? The mechanical keyboard itself is great, for what it's worth. My earlier order ORD-78572 arrived fine, no complaints there.
+
+Thanks,
+Elena Petrova
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Pete (support) ---
+Our warehouse shows ORD-78572 left on schedule. Loyalty points post about a week after an order is delivered. Screenshots aren't necessary, but thank you for offering.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Pete (support) ---
+Retrying is safe. Our system blocks a second capture on ORD-71376, so a double charge can't happen. Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-31850 left on schedule.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Elena Petrova ---
+I changed my shipping address last month, so please double-check you have the new one. I'd rather not call; the hold times last time were very long. The confirmation email for ORD-62774 went to my spam folder, so I only just saw it.
+
+Elena Petrova
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Elena Petrova ---
+Your app logged me out twice while I was looking at this, which didn't help. My earlier order ORD-62774 arrived fine, no complaints there. I changed my shipping address last month, so please double-check you have the new one. My partner placed ORD-62774 on our shared account, in case that matters.
+
+Best regards,
+Elena Petrova
+
+--- message 8 from Pete (support) ---
+Screenshots aren't necessary, but thank you for offering. I've updated your shipping address on file. Tracking updates can lag by a day or two with this carrier. Thanks for reaching out, and sorry for the trouble.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

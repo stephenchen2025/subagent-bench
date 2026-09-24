@@ -1,0 +1,71 @@
+Ticket T-9904
+Customer: Leila Haddad
+Orders on file: ORD-21022, ORD-48263, ORD-74316, ORD-10314
+Opened: 2026-01-06 via web form
+
+Order details:
+ORD-21022  placed 2026-08-04  status: delivered  total: $443.62
+  payment method: card ending 6032  ship to: 987 Cedar Rd
+  - rain jacket x1
+  - carabiner set x2
+  - stainless water bottle, 750ml x2
+ORD-48263  placed 2026-08-25  status: delivered  total: $221.94
+  payment method: card ending 6503  ship to: 903 Mill Rd
+  - desk lamp x1
+  - USB-C charging cable (2m) x3
+  - spare battery pack x1
+  - extended warranty, 2 years x1
+  - merino socks, size M x1
+ORD-74316  placed 2026-02-08  status: label created  total: $302.00
+  payment method: card ending 1465  ship to: 168 Cedar Rd
+  - standing desk x1
+  - extended warranty, 2 years x1
+  - microfiber cloth x2
+  - gift wrap x1
+  - USB-C charging cable (2m) x1
+ORD-10314  placed 2026-01-26  status: returned  total: $33.61
+  payment method: card ending 6222  ship to: 581 Elm St
+  - noise-cancelling headphones x1
+  - carabiner set x2
+  - microfiber cloth x2
+  - travel pouch x3
+  - spare battery pack x3
+
+--- message 1 from Leila Haddad ---
+Where is my refund for ORD-10314? You said 5 days and it has been 8. I'm happy to send screenshots if that helps. I changed my shipping address last month, so please double-check you have the new one. I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Leila Haddad
+
+--- message 2 from Dana (support) ---
+I can see all the orders on your account, including ORD-74316. Thanks for reaching out, and sorry for the trouble. I've updated your shipping address on file. Tracking updates can lag by a day or two with this carrier.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Leila Haddad ---
+Tracking for ORD-74316 hasn't updated since Tuesday. I tried the chat widget first but it kept disconnecting. Could you also tell me whether ORD-10314 qualifies for the extended return window? I changed my shipping address last month, so please double-check you have the new one.
+
+Leila Haddad
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Dana (support) ---
+Loyalty points post about a week after an order is delivered. Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-10314, you can download it from the Orders page. Our warehouse shows ORD-74316 left on schedule.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Leila Haddad ---
+I've been a customer for a few years and usually everything goes smoothly. The noise-cancelling headphones itself is great, for what it's worth. I'd rather not call; the hold times last time were very long. The confirmation email for ORD-48263 went to my spam folder, so I only just saw it.
+
+Leila Haddad
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Dana (support) ---
+I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier. Loyalty points post about a week after an order is delivered. I've updated your shipping address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

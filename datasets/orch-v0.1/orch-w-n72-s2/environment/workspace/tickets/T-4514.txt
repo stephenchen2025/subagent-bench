@@ -1,0 +1,76 @@
+Ticket T-4514
+Customer: Aisha Karim
+Orders on file: ORD-67624, ORD-20044, ORD-44789, ORD-72259
+Opened: 2026-07-13 via chat transcript
+
+Order details:
+ORD-67624  placed 2026-07-10  status: in transit  total: $118.39
+  payment method: card ending 9609  ship to: 760 Oak St
+  - yoga mat x1
+  - microfiber cloth x1
+  - extended warranty, 2 years x2
+ORD-20044  placed 2026-06-21  status: in transit  total: $478.82
+  payment method: card ending 9662  ship to: 23 Cedar Lane
+  - espresso grinder x1
+  - USB-C charging cable (2m) x3
+  - travel pouch x3
+  - stainless water bottle, 750ml x1
+ORD-44789  placed 2026-06-21  status: delivered  total: $93.59
+  payment method: card ending 3581  ship to: 358 Cedar Ave
+  - carry-on suitcase x1
+  - spare battery pack x2
+  - microfiber cloth x3
+ORD-72259  placed 2026-08-22  status: label created  total: $100.27
+  payment method: card ending 2004  ship to: 839 Oak St
+  - desk lamp x1
+  - travel pouch x2
+  - merino socks, size M x1
+  - extended warranty, 2 years x3
+
+--- message 1 from Aisha Karim ---
+Can I use a gift card on ORD-67624, or is it too late? I tried the chat widget first but it kept disconnecting. I changed my shipping address last month, so please double-check you have the new one. Could you also tell me whether ORD-44789 qualifies for the extended return window?
+
+Thanks,
+Aisha Karim
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Rosa (support) ---
+Loyalty points post about a week after an order is delivered. Let me know if anything else looks off. Our warehouse shows ORD-67624 left on schedule. Screenshots aren't necessary, but thank you for offering.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Aisha Karim ---
+I got two receipts for ORD-20044, and both amounts actually left my account. The confirmation email for ORD-67624 went to my spam folder, so I only just saw it. Could you also tell me whether ORD-72259 qualifies for the extended return window?
+
+Aisha Karim
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Rosa (support) ---
+I can see all the orders on your account, including ORD-67624. I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Rosa (support) ---
+You're right, and I'm sorry. Our records show ORD-20044 was settled two times. I've refunded the duplicate. Thanks for reaching out, and sorry for the trouble. I've updated your shipping address on file.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Aisha Karim ---
+My earlier order ORD-72259 arrived fine, no complaints there. I'm travelling next week, so email is the best way to reach me. Tracking for ORD-67624 hasn't updated since Tuesday. The confirmation email for ORD-72259 went to my spam folder, so I only just saw it.
+
+Thanks,
+Aisha Karim
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Rosa (support) ---
+I've updated your shipping address on file. Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-72259.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,58 @@
+Ticket T-5568
+Customer: Avery Lin
+Orders on file: ORD-17715, ORD-59369, ORD-53400, ORD-89472
+Opened: 2026-06-25 via web form
+
+Order details:
+ORD-17715  placed 2026-02-03  status: in transit  total: $370.78
+  payment method: card ending 2895  ship to: 627 Elm Lane
+  - noise-cancelling headphones x1
+  - USB-C charging cable (2m) x1
+  - merino socks, size M x1
+  - gift wrap x3
+ORD-59369  placed 2026-07-09  status: returned  total: $260.62
+  payment method: card ending 6322  ship to: 843 Harbor Ave
+  - desk lamp x1
+  - carabiner set x2
+  - USB-C charging cable (2m) x1
+  - travel pouch x1
+  - stainless water bottle, 750ml x1
+ORD-53400  placed 2026-07-17  status: label created  total: $148.94
+  payment method: card ending 8706  ship to: 231 Elm Rd
+  - blender x1
+  - merino socks, size M x3
+  - USB-C charging cable (2m) x1
+  - extended warranty, 2 years x2
+  - gift wrap x1
+ORD-89472  placed 2026-05-23  status: delivered  total: $116.57
+  payment method: card ending 3326  ship to: 800 Oak St
+  - cast iron skillet x1
+  - USB-C charging cable (2m) x3
+  - spare battery pack x2
+
+--- message 1 from Avery Lin ---
+How do I reset my password? The reset link keeps expiring. I'd rather not call; the hold times last time were very long. My earlier order ORD-59369 arrived fine, no complaints there. I'm happy to send screenshots if that helps.
+
+Thanks,
+Avery Lin
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Luis (support) ---
+Screenshots aren't necessary, but thank you for offering. I've added a note to your account so the next agent has the context. If you need an invoice for ORD-89472, you can download it from the Orders page. Our warehouse shows ORD-89472 left on schedule.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Avery Lin ---
+Tracking for ORD-89472 hasn't updated since Tuesday. My partner placed ORD-53400 on our shared account, in case that matters. I changed my shipping address last month, so please double-check you have the new one. The standing desk itself is great, for what it's worth.
+
+Best regards,
+Avery Lin
+
+--- message 4 from Luis (support) ---
+I can see all the orders on your account, including ORD-53400. Let me know if anything else looks off. For ORD-59369, the return window is 30 days from delivery. Thanks for reaching out, and sorry for the trouble.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

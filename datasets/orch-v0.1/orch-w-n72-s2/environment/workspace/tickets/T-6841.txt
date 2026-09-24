@@ -1,0 +1,85 @@
+Ticket T-6841
+Customer: Ben Carter
+Orders on file: ORD-83686, ORD-18104, ORD-89568, ORD-71425
+Opened: 2026-02-20 via email
+
+Order details:
+ORD-83686  placed 2026-01-12  status: delivered  total: $289.14
+  payment method: card ending 4759  ship to: 648 Harbor Lane
+  - water filter pitcher x1
+  - merino socks, size M x2
+  - travel pouch x2
+  - replacement filter cartridge, 3-pack x3
+  - microfiber cloth x2
+ORD-18104  placed 2026-08-16  status: delivered  total: $302.52
+  payment method: card ending 7899  ship to: 209 Elm Rd
+  - espresso grinder x1
+  - USB-C charging cable (2m) x3
+  - spare battery pack x2
+  - microfiber cloth x3
+ORD-89568  placed 2026-08-23  status: delivered  total: $301.40
+  payment method: card ending 1547  ship to: 583 Harbor Lane
+  - espresso grinder x1
+  - replacement filter cartridge, 3-pack x2
+  - USB-C charging cable (2m) x3
+  - gift wrap x3
+  - travel pouch x2
+ORD-71425  placed 2026-05-11  status: delivered  total: $440.27
+  payment method: card ending 3518  ship to: 350 Elm Rd
+  - wool blanket x1
+  - replacement filter cartridge, 3-pack x3
+  - carabiner set x1
+  - gift wrap x2
+  - merino socks, size M x3
+
+--- message 1 from Ben Carter ---
+Where is my refund for ORD-71425? You said 5 days and it has been 8. I changed my shipping address last month, so please double-check you have the new one. I'm happy to send screenshots if that helps. I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Ben Carter
+
+--- message 2 from Pete (support) ---
+Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-83686. Screenshots aren't necessary, but thank you for offering. For ORD-83686, the return window is 30 days from delivery.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ben Carter ---
+There's an extra line for ORD-89568 on the card app. It could just be a hold -- can you check? I'd rather not call; the hold times last time were very long. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Ben Carter
+
+--- message 4 from Pete (support) ---
+Let me know if anything else looks off. I can see all the orders on your account, including ORD-71425. If you need an invoice for ORD-83686, you can download it from the Orders page.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Ben Carter ---
+Just checked again -- both charges for ORD-89568 are settled now, not pending. I'm happy to send screenshots if that helps. The cast iron skillet itself is great, for what it's worth.
+
+Ben Carter
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Pete (support) ---
+Confirmed on our side -- ORD-89568 was captured twice by a retry in our checkout. One refund of $370.92 is on its way to you. Our warehouse shows ORD-71425 left on schedule. If you need an invoice for ORD-83686, you can download it from the Orders page.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Ben Carter ---
+The box for ORD-83686 was a bit crushed but the contents were fine. I'm travelling next week, so email is the best way to reach me. Tracking for ORD-83686 hasn't updated since Tuesday. Could you also tell me whether ORD-18104 qualifies for the extended return window?
+
+Ben Carter
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Pete (support) ---
+If you need an invoice for ORD-71425, you can download it from the Orders page. I've updated your shipping address on file. Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

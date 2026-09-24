@@ -1,0 +1,105 @@
+Ticket T-8818
+Customer: Grace Mwangi
+Orders on file: ORD-37948, ORD-46658, ORD-75804, ORD-65024
+Opened: 2026-04-04 via email
+
+Order details:
+ORD-37948  placed 2026-05-13  status: returned  total: $126.24
+  payment method: card ending 9912  ship to: 678 Oak St
+  - carry-on suitcase x1
+  - carabiner set x3
+  - gift wrap x3
+  - stainless water bottle, 750ml x1
+  - microfiber cloth x2
+ORD-46658  placed 2026-04-14  status: delivered  total: $163.05
+  payment method: card ending 2638  ship to: 613 Elm Rd
+  - water filter pitcher x1
+  - spare battery pack x1
+  - stainless water bottle, 750ml x1
+  - merino socks, size M x1
+  - carabiner set x2
+ORD-75804  placed 2026-08-10  status: delivered  total: $413.71
+  payment method: card ending 1182  ship to: 675 Harbor Ave
+  - standing desk x1
+  - microfiber cloth x1
+  - gift wrap x3
+  - spare battery pack x2
+  - replacement filter cartridge, 3-pack x3
+ORD-65024  placed 2026-01-11  status: delivered  total: $203.46
+  payment method: card ending 6442  ship to: 589 Oak St
+  - mechanical keyboard x1
+  - travel pouch x2
+  - microfiber cloth x3
+
+--- message 1 from Grace Mwangi ---
+The standing desk from ORD-65024 arrived with a scratch on the side. Can I get a replacement? Your app logged me out twice while I was looking at this, which didn't help. The carry-on suitcase itself is great, for what it's worth. Is there a way to combine loyalty points from ORD-46658 with my next purchase?
+
+Best regards,
+Grace Mwangi
+
+--- message 2 from Pete (support) ---
+I can see all the orders on your account, including ORD-46658. For ORD-65024, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Grace Mwangi ---
+Something looks off with ORD-75804: I see what might be a second payment. I'd rather not call; the hold times last time were very long. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Grace Mwangi
+
+--- message 4 from Pete (support) ---
+Let me know if anything else looks off. Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Grace Mwangi ---
+Just checked again -- both charges for ORD-75804 are settled now, not pending. Tracking for ORD-65024 hasn't updated since Tuesday. The confirmation email for ORD-37948 went to my spam folder, so I only just saw it.
+
+Best regards,
+Grace Mwangi
+
+--- message 6 from Pete (support) ---
+I've resent the confirmation email for ORD-65024 to the address on file. Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Pete (support) ---
+You're right, and I'm sorry. Our records show ORD-75804 was settled two times. I've refunded the duplicate. Let me know if anything else looks off. Our warehouse shows ORD-65024 left on schedule.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Grace Mwangi ---
+I'm travelling next week, so email is the best way to reach me. The confirmation email for ORD-65024 went to my spam folder, so I only just saw it. Tracking for ORD-46658 hasn't updated since Tuesday. Could you also tell me whether ORD-65024 qualifies for the extended return window?
+
+Thanks,
+Grace Mwangi
+Sent from my phone -- please excuse typos.
+
+--- message 9 from Pete (support) ---
+I can see all the orders on your account, including ORD-65024. Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-65024 to the address on file. For ORD-37948, the return window is 30 days from delivery.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 10 from Grace Mwangi ---
+I'm travelling next week, so email is the best way to reach me. Is there a way to combine loyalty points from ORD-46658 with my next purchase? The confirmation email for ORD-65024 went to my spam folder, so I only just saw it. I changed my shipping address last month, so please double-check you have the new one.
+
+Grace Mwangi
+(Please reply by email rather than phone if possible.)
+
+--- message 11 from Pete (support) ---
+Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-46658 left on schedule. Let me know if anything else looks off. For ORD-46658, the return window is 30 days from delivery.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

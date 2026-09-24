@@ -1,0 +1,49 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cd /workspace
+cat > answer.json <<'EOF'
+{
+  "services": {
+    "feed-builder": {
+      "component": "batch-assembler",
+      "cause": "dns-failure"
+    },
+    "authz": {
+      "component": "token-refresher",
+      "cause": "disk-full"
+    },
+    "catalog-api": {
+      "component": "cache-warmer",
+      "cause": "out-of-memory"
+    },
+    "thumbnailer": {
+      "component": "token-refresher",
+      "cause": "disk-full"
+    },
+    "session-store": {
+      "component": "queue-consumer",
+      "cause": "out-of-memory"
+    },
+    "billing-sync": {
+      "component": "metrics-shipper",
+      "cause": "dns-failure"
+    },
+    "audit-trail": {
+      "component": "metrics-shipper",
+      "cause": "disk-full"
+    },
+    "rate-limiter": {
+      "component": "queue-consumer",
+      "cause": "dns-failure"
+    },
+    "search-indexer": {
+      "component": "http-frontend",
+      "cause": "dns-failure"
+    },
+    "fraud-score": {
+      "component": "batch-assembler",
+      "cause": "expired-credential"
+    }
+  }
+}
+EOF

@@ -1,0 +1,72 @@
+Ticket T-1861
+Customer: Ravi Iyer
+Orders on file: ORD-20395, ORD-19701, ORD-36080, ORD-86932
+Opened: 2026-03-22 via chat transcript
+
+Order details:
+ORD-20395  placed 2026-04-02  status: delivered  total: $212.91
+  payment method: card ending 6193  ship to: 60 Harbor Ave
+  - desk lamp x1
+  - carabiner set x3
+  - travel pouch x2
+  - replacement filter cartridge, 3-pack x3
+  - extended warranty, 2 years x3
+ORD-19701  placed 2026-07-09  status: label created  total: $420.15
+  payment method: card ending 6868  ship to: 285 Harbor St
+  - trail running shoes x1
+  - stainless water bottle, 750ml x2
+  - spare battery pack x3
+  - microfiber cloth x2
+  - gift wrap x2
+ORD-36080  placed 2026-02-22  status: delivered  total: $390.01
+  payment method: card ending 6853  ship to: 761 Mill Ave
+  - blender x1
+  - gift wrap x3
+  - replacement filter cartridge, 3-pack x3
+  - extended warranty, 2 years x2
+ORD-86932  placed 2026-05-02  status: returned  total: $76.77
+  payment method: card ending 3711  ship to: 649 Mill Ave
+  - mechanical keyboard x1
+  - gift wrap x1
+  - carabiner set x2
+  - replacement filter cartridge, 3-pack x2
+
+--- message 1 from Ravi Iyer ---
+The wool blanket from ORD-86932 arrived with a scratch on the side. Can I get a replacement? Your app logged me out twice while I was looking at this, which didn't help. The rain jacket itself is great, for what it's worth. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Ravi Iyer
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Marcus (support) ---
+I can see all the orders on your account, including ORD-20395. Tracking updates can lag by a day or two with this carrier. Let me know if anything else looks off. For ORD-19701, the return window is 30 days from delivery.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ravi Iyer ---
+I've been a customer for a few years and usually everything goes smoothly. The confirmation email for ORD-20395 went to my spam folder, so I only just saw it. I'd rather not call; the hold times last time were very long. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Ravi Iyer
+
+--- message 4 from Marcus (support) ---
+I can see all the orders on your account, including ORD-86932. Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering. I've updated your shipping address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Ravi Iyer ---
+Tracking for ORD-86932 hasn't updated since Tuesday. My partner placed ORD-19701 on our shared account, in case that matters. Is there a way to combine loyalty points from ORD-20395 with my next purchase? I'm happy to send screenshots if that helps.
+
+Best regards,
+Ravi Iyer
+
+--- message 6 from Marcus (support) ---
+Let me know if anything else looks off. I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-19701 to the address on file. Screenshots aren't necessary, but thank you for offering.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

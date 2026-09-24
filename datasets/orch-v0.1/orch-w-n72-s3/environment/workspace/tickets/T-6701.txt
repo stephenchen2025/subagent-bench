@@ -1,0 +1,70 @@
+Ticket T-6701
+Customer: Felix Wagner
+Orders on file: ORD-98888, ORD-19399, ORD-55626, ORD-43919
+Opened: 2026-07-18 via web form
+
+Order details:
+ORD-98888  placed 2026-03-28  status: label created  total: $127.13
+  payment method: card ending 3758  ship to: 11 Mill Lane
+  - wool blanket x1
+  - USB-C charging cable (2m) x3
+  - merino socks, size M x2
+ORD-19399  placed 2026-02-18  status: delivered  total: $23.73
+  payment method: card ending 3451  ship to: 967 Elm Ave
+  - mechanical keyboard x1
+  - stainless water bottle, 750ml x1
+  - microfiber cloth x2
+  - USB-C charging cable (2m) x2
+ORD-55626  placed 2026-05-15  status: returned  total: $251.87
+  payment method: card ending 5570  ship to: 344 Oak St
+  - camping stove x1
+  - merino socks, size M x1
+  - extended warranty, 2 years x2
+  - carabiner set x3
+ORD-43919  placed 2026-04-21  status: delivered  total: $474.68
+  payment method: card ending 1821  ship to: 12 Elm Rd
+  - carry-on suitcase x1
+  - USB-C charging cable (2m) x1
+  - extended warranty, 2 years x1
+  - gift wrap x3
+
+--- message 1 from Felix Wagner ---
+I'd like to return the camping stove from ORD-19399; it's the wrong size. I'm travelling next week, so email is the best way to reach me. I'm happy to send screenshots if that helps. Could you also tell me whether ORD-19399 qualifies for the extended return window?
+
+Best regards,
+Felix Wagner
+
+--- message 2 from Marcus (support) ---
+Let me know if anything else looks off. Our warehouse shows ORD-43919 left on schedule. Screenshots aren't necessary, but thank you for offering. I've added a note to your account so the next agent has the context.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Felix Wagner ---
+Before I retry the payment on ORD-55626 -- is there any risk of a double charge? I'm happy to send screenshots if that helps. The noise-cancelling headphones itself is great, for what it's worth.
+
+Thanks,
+Felix Wagner
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Marcus (support) ---
+No, you won't be charged twice: the first attempt for ORD-55626 failed before capture, so retrying is safe. I can see all the orders on your account, including ORD-98888. Thanks for reaching out, and sorry for the trouble.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Felix Wagner ---
+I'd rather not call; the hold times last time were very long. Is there a way to combine loyalty points from ORD-19399 with my next purchase? The box for ORD-19399 was a bit crushed but the contents were fine. I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Felix Wagner
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Marcus (support) ---
+Our warehouse shows ORD-43919 left on schedule. I can see all the orders on your account, including ORD-43919. Screenshots aren't necessary, but thank you for offering. I've added a note to your account so the next agent has the context.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,101 @@
+Ticket T-9291
+Customer: Ben Carter
+Orders on file: ORD-51972, ORD-72083, ORD-98550, ORD-61570
+Opened: 2026-01-02 via chat transcript
+
+Order details:
+ORD-51972  placed 2026-08-09  status: label created  total: $321.33
+  payment method: card ending 9430  ship to: 790 Elm St
+  - standing desk x1
+  - carabiner set x3
+  - microfiber cloth x3
+ORD-72083  placed 2026-07-03  status: returned  total: $214.54
+  payment method: card ending 2635  ship to: 638 Harbor St
+  - yoga mat x1
+  - travel pouch x3
+  - spare battery pack x2
+ORD-98550  placed 2026-05-13  status: delivered  total: $154.42
+  payment method: card ending 8413  ship to: 412 Harbor Ave
+  - desk lamp x1
+  - microfiber cloth x3
+  - carabiner set x2
+ORD-61570  placed 2026-06-14  status: delivered  total: $119.63
+  payment method: card ending 8811  ship to: 787 Mill Rd
+  - carry-on suitcase x1
+  - gift wrap x2
+  - extended warranty, 2 years x2
+  - spare battery pack x1
+
+--- message 1 from Ben Carter ---
+The trail running shoes from ORD-61570 arrived with a scratch on the side. Can I get a replacement? The espresso grinder itself is great, for what it's worth. Could you also tell me whether ORD-72083 qualifies for the extended return window? I'm happy to send screenshots if that helps.
+
+Thanks,
+Ben Carter
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Luis (support) ---
+Tracking updates can lag by a day or two with this carrier. Thanks for reaching out, and sorry for the trouble. Loyalty points post about a week after an order is delivered. Screenshots aren't necessary, but thank you for offering.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ben Carter ---
+There's an extra line for ORD-51972 on my online banking. It could just be a hold -- can you check? Tracking for ORD-61570 hasn't updated since Tuesday. Your app logged me out twice while I was looking at this, which didn't help.
+
+Best regards,
+Ben Carter
+
+--- message 4 from Luis (support) ---
+Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context. Loyalty points post about a week after an order is delivered.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Ben Carter ---
+Update: the second line has now posted, it's no longer pending. So both payments for ORD-51972 actually went through. I changed my shipping address last month, so please double-check you have the new one. Tracking for ORD-98550 hasn't updated since Tuesday.
+
+Ben Carter
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Luis (support) ---
+I've updated your shipping address on file. Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-98550.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Luis (support) ---
+Confirmed on our side -- ORD-51972 was captured twice by a retry in our checkout. One refund of $363.59 is on its way to you. I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Ben Carter ---
+The confirmation email for ORD-72083 went to my spam folder, so I only just saw it. I'd rather not call; the hold times last time were very long. My earlier order ORD-72083 arrived fine, no complaints there. My partner placed ORD-61570 on our shared account, in case that matters.
+
+Thanks,
+Ben Carter
+Sent from my phone -- please excuse typos.
+
+--- message 9 from Luis (support) ---
+Thanks for reaching out, and sorry for the trouble. I've updated your shipping address on file. I can see all the orders on your account, including ORD-61570. Tracking updates can lag by a day or two with this carrier.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 10 from Ben Carter ---
+My partner placed ORD-98550 on our shared account, in case that matters. I'm happy to send screenshots if that helps. The water filter pitcher itself is great, for what it's worth. Is there a way to combine loyalty points from ORD-98550 with my next purchase?
+
+Ben Carter
+(Please reply by email rather than phone if possible.)
+
+--- message 11 from Luis (support) ---
+Thanks for reaching out, and sorry for the trouble. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-98550 left on schedule. I've added a note to your account so the next agent has the context.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

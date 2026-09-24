@@ -1,0 +1,69 @@
+Ticket T-2475
+Customer: Chloe Martin
+Orders on file: ORD-24834, ORD-60066, ORD-39878, ORD-70410
+Opened: 2026-04-16 via chat transcript
+
+Order details:
+ORD-24834  placed 2026-07-05  status: label created  total: $310.81
+  payment method: card ending 7042  ship to: 344 Cedar Ave
+  - wool blanket x1
+  - merino socks, size M x1
+  - spare battery pack x1
+ORD-60066  placed 2026-08-20  status: label created  total: $232.20
+  payment method: card ending 9649  ship to: 824 Harbor St
+  - rain jacket x1
+  - travel pouch x2
+  - USB-C charging cable (2m) x2
+  - merino socks, size M x1
+ORD-39878  placed 2026-03-03  status: delivered  total: $68.18
+  payment method: card ending 4194  ship to: 562 Mill Lane
+  - cast iron skillet x1
+  - replacement filter cartridge, 3-pack x3
+  - gift wrap x2
+  - microfiber cloth x2
+ORD-70410  placed 2026-05-22  status: delivered  total: $297.51
+  payment method: card ending 2970  ship to: 550 Harbor St
+  - standing desk x1
+  - spare battery pack x1
+  - carabiner set x1
+
+--- message 1 from Chloe Martin ---
+Can I use a gift card on ORD-60066, or is it too late? Tracking for ORD-60066 hasn't updated since Tuesday. The noise-cancelling headphones itself is great, for what it's worth. The confirmation email for ORD-60066 went to my spam folder, so I only just saw it.
+
+Thanks,
+Chloe Martin
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Keiko (support) ---
+I've updated your shipping address on file. Loyalty points post about a week after an order is delivered. Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Chloe Martin ---
+I'd rather not call; the hold times last time were very long. The carry-on suitcase itself is great, for what it's worth. I'm happy to send screenshots if that helps. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Chloe Martin
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Keiko (support) ---
+For ORD-39878, the return window is 30 days from delivery. Loyalty points post about a week after an order is delivered. If you need an invoice for ORD-60066, you can download it from the Orders page. I can see all the orders on your account, including ORD-39878.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Chloe Martin ---
+Tracking for ORD-60066 hasn't updated since Tuesday. I tried the chat widget first but it kept disconnecting. I'm happy to send screenshots if that helps. Could you also tell me whether ORD-60066 qualifies for the extended return window?
+
+Chloe Martin
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Keiko (support) ---
+Tracking updates can lag by a day or two with this carrier. I've updated your shipping address on file. If you need an invoice for ORD-24834, you can download it from the Orders page. Let me know if anything else looks off.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

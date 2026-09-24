@@ -1,0 +1,68 @@
+Ticket T-5480
+Customer: Ravi Iyer
+Orders on file: ORD-50940, ORD-79715, ORD-64575, ORD-30023
+Opened: 2026-01-10 via email
+
+Order details:
+ORD-50940  placed 2026-04-21  status: in transit  total: $324.15
+  payment method: card ending 9449  ship to: 602 Harbor St
+  - carry-on suitcase x1
+  - microfiber cloth x3
+  - gift wrap x3
+ORD-79715  placed 2026-07-28  status: delivered  total: $465.27
+  payment method: card ending 5914  ship to: 378 Harbor Lane
+  - rain jacket x1
+  - merino socks, size M x3
+  - extended warranty, 2 years x1
+ORD-64575  placed 2026-01-06  status: in transit  total: $205.59
+  payment method: card ending 1397  ship to: 540 Mill Rd
+  - bike light set x1
+  - USB-C charging cable (2m) x1
+  - stainless water bottle, 750ml x2
+  - travel pouch x1
+  - extended warranty, 2 years x2
+ORD-30023  placed 2026-06-22  status: returned  total: $420.52
+  payment method: card ending 5441  ship to: 299 Harbor Rd
+  - cast iron skillet x1
+  - stainless water bottle, 750ml x1
+  - travel pouch x3
+  - USB-C charging cable (2m) x1
+
+--- message 1 from Ravi Iyer ---
+How do I reset my password? The reset link keeps expiring. My earlier order ORD-50940 arrived fine, no complaints there. The box for ORD-50940 was a bit crushed but the contents were fine. My partner placed ORD-50940 on our shared account, in case that matters.
+
+Ravi Iyer
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Arjun (support) ---
+Our warehouse shows ORD-30023 left on schedule. I've updated your shipping address on file. I've added a note to your account so the next agent has the context. If you need an invoice for ORD-64575, you can download it from the Orders page.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ravi Iyer ---
+My earlier order ORD-30023 arrived fine, no complaints there. The desk lamp itself is great, for what it's worth. My partner placed ORD-50940 on our shared account, in case that matters. The box for ORD-50940 was a bit crushed but the contents were fine.
+
+Ravi Iyer
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Arjun (support) ---
+Tracking updates can lag by a day or two with this carrier. Loyalty points post about a week after an order is delivered. For ORD-64575, the return window is 30 days from delivery. I've updated your shipping address on file.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Ravi Iyer ---
+Is there a way to combine loyalty points from ORD-30023 with my next purchase? The carry-on suitcase itself is great, for what it's worth. I changed my shipping address last month, so please double-check you have the new one. The box for ORD-50940 was a bit crushed but the contents were fine.
+
+Best regards,
+Ravi Iyer
+
+--- message 6 from Arjun (support) ---
+I can see all the orders on your account, including ORD-30023. I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier. Let me know if anything else looks off.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

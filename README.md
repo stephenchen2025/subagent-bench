@@ -29,21 +29,21 @@ The ground truth lives only in `tests/`, which Harbor uploads after the agent
 finishes.
 
 ```bash
-make orch-generate                        # emit build/orch/tasks (27 tasks, 3 seeds)
+make orch-generate                        # regenerate datasets/orch-v0.1 (27 tasks, 3 seeds; checked in)
 make orch-validate                        # Harbor oracle agent: every task must score 1.0 (Docker)
 make orch-rehearse                        # scripted policies through the real harness (no key)
 
 # reference harness (mini-swe-agent + a `subagent` command), one job per condition
-harbor run -p build/orch/tasks -a orch.harbor_agent:OrchMiniAgent \
+harbor run -p datasets/orch-v0.1 -a orch.harbor_agent:OrchMiniAgent \
     -m anthropic/claude-sonnet-5 --ak mode=solo -o jobs/sonnet-solo
-harbor run -p build/orch/tasks -a orch.harbor_agent:OrchMiniAgent \
+harbor run -p datasets/orch-v0.1 -a orch.harbor_agent:OrchMiniAgent \
     -m anthropic/claude-sonnet-5 --ak mode=delegate -o jobs/sonnet-delegate
 #   ... and --ak mode=solo-xl, --ak mode=oracle-split
 
 # system track: any Harbor agent, e.g. Claude Code with and without its Agent tool
-harbor run -p build/orch/tasks -a claude-code -m anthropic/claude-sonnet-5 \
+harbor run -p datasets/orch-v0.1 -a claude-code -m anthropic/claude-sonnet-5 \
     --ak disallowed_tools=Agent,Task -o jobs/cc-solo
-harbor run -p build/orch/tasks -a claude-code -m anthropic/claude-sonnet-5 -o jobs/cc-delegate
+harbor run -p datasets/orch-v0.1 -a claude-code -m anthropic/claude-sonnet-5 -o jobs/cc-delegate
 
 python tools/orch_collect.py jobs/sonnet-solo jobs/sonnet-delegate   # -> build/orch-report/report.md
 ```

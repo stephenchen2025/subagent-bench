@@ -1,0 +1,69 @@
+Ticket T-3758
+Customer: Mateo Silva
+Orders on file: ORD-11095, ORD-32249, ORD-44247, ORD-63237
+Opened: 2026-07-27 via email
+
+Order details:
+ORD-11095  placed 2026-01-18  status: returned  total: $82.21
+  payment method: card ending 2307  ship to: 853 Elm Ave
+  - standing desk x1
+  - spare battery pack x3
+  - carabiner set x3
+  - merino socks, size M x3
+ORD-32249  placed 2026-05-04  status: in transit  total: $404.33
+  payment method: card ending 1181  ship to: 162 Harbor Lane
+  - desk lamp x1
+  - gift wrap x3
+  - merino socks, size M x3
+  - spare battery pack x3
+ORD-44247  placed 2026-04-03  status: delivered  total: $171.04
+  payment method: card ending 2196  ship to: 885 Mill Ave
+  - camping stove x1
+  - extended warranty, 2 years x3
+  - stainless water bottle, 750ml x3
+ORD-63237  placed 2026-02-26  status: delivered  total: $273.11
+  payment method: card ending 9619  ship to: 364 Harbor St
+  - noise-cancelling headphones x1
+  - gift wrap x3
+  - USB-C charging cable (2m) x2
+
+--- message 1 from Mateo Silva ---
+The cast iron skillet from ORD-63237 arrived with a scratch on the side. Can I get a replacement? Is there a way to combine loyalty points from ORD-44247 with my next purchase? Your app logged me out twice while I was looking at this, which didn't help. The confirmation email for ORD-11095 went to my spam folder, so I only just saw it.
+
+Thanks,
+Mateo Silva
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Fatima (support) ---
+If you need an invoice for ORD-44247, you can download it from the Orders page. Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier. I've updated your shipping address on file.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Mateo Silva ---
+Is there a way to combine loyalty points from ORD-44247 with my next purchase? Tracking for ORD-11095 hasn't updated since Tuesday. I changed my shipping address last month, so please double-check you have the new one. I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Mateo Silva
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Fatima (support) ---
+Tracking updates can lag by a day or two with this carrier. Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-11095 to the address on file. I've updated your shipping address on file.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Mateo Silva ---
+I'm travelling next week, so email is the best way to reach me. Your app logged me out twice while I was looking at this, which didn't help. The mechanical keyboard itself is great, for what it's worth. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Mateo Silva
+
+--- message 6 from Fatima (support) ---
+Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-44247 left on schedule. If you need an invoice for ORD-44247, you can download it from the Orders page. I've resent the confirmation email for ORD-63237 to the address on file.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

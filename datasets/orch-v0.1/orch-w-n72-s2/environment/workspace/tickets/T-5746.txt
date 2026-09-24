@@ -1,0 +1,65 @@
+Ticket T-5746
+Customer: Felix Wagner
+Orders on file: ORD-11919, ORD-63476, ORD-78678, ORD-71583
+Opened: 2026-04-24 via email
+
+Order details:
+ORD-11919  placed 2026-04-03  status: delivered  total: $269.47
+  payment method: card ending 4228  ship to: 110 Mill Lane
+  - rain jacket x1
+  - gift wrap x2
+  - USB-C charging cable (2m) x2
+ORD-63476  placed 2026-02-14  status: delivered  total: $426.76
+  payment method: card ending 3455  ship to: 87 Mill Lane
+  - carry-on suitcase x1
+  - USB-C charging cable (2m) x3
+  - microfiber cloth x1
+ORD-78678  placed 2026-05-08  status: delivered  total: $386.74
+  payment method: card ending 7518  ship to: 601 Mill Rd
+  - water filter pitcher x1
+  - merino socks, size M x2
+  - carabiner set x1
+ORD-71583  placed 2026-02-09  status: delivered  total: $224.50
+  payment method: card ending 5424  ship to: 449 Elm St
+  - desk lamp x1
+  - microfiber cloth x1
+  - merino socks, size M x2
+
+--- message 1 from Felix Wagner ---
+How do I reset my password? The reset link keeps expiring. Is there a way to combine loyalty points from ORD-63476 with my next purchase? The confirmation email for ORD-78678 went to my spam folder, so I only just saw it. I changed my shipping address last month, so please double-check you have the new one.
+
+Felix Wagner
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Arjun (support) ---
+Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-63476.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Felix Wagner ---
+Unrelated, but my online banking double-charged me at a coffee shop last week, so I'm checking every line carefully now. Anyway, my actual question is about delivery for ORD-71583. I'm travelling next week, so email is the best way to reach me. I changed my shipping address last month, so please double-check you have the new one.
+
+Felix Wagner
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Arjun (support) ---
+Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-63476 left on schedule.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Felix Wagner ---
+I changed my shipping address last month, so please double-check you have the new one. I tried the chat widget first but it kept disconnecting. My earlier order ORD-78678 arrived fine, no complaints there. The confirmation email for ORD-78678 went to my spam folder, so I only just saw it.
+
+Felix Wagner
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Arjun (support) ---
+I can see all the orders on your account, including ORD-11919. Tracking updates can lag by a day or two with this carrier. I've updated your shipping address on file. Loyalty points post about a week after an order is delivered.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

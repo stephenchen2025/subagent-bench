@@ -1,0 +1,68 @@
+Ticket T-7381
+Customer: Sofia Rossi
+Orders on file: ORD-32322, ORD-28811, ORD-64879, ORD-30876
+Opened: 2026-07-03 via web form
+
+Order details:
+ORD-32322  placed 2026-08-15  status: delivered  total: $100.15
+  payment method: card ending 4190  ship to: 411 Mill Rd
+  - wool blanket x1
+  - replacement filter cartridge, 3-pack x1
+  - stainless water bottle, 750ml x3
+  - gift wrap x2
+ORD-28811  placed 2026-06-19  status: delivered  total: $273.02
+  payment method: card ending 8684  ship to: 386 Oak Ave
+  - rain jacket x1
+  - travel pouch x3
+  - replacement filter cartridge, 3-pack x2
+ORD-64879  placed 2026-04-23  status: returned  total: $235.52
+  payment method: card ending 5608  ship to: 110 Elm Lane
+  - trail running shoes x1
+  - gift wrap x3
+  - USB-C charging cable (2m) x3
+  - travel pouch x1
+ORD-30876  placed 2026-05-24  status: returned  total: $195.66
+  payment method: card ending 4046  ship to: 886 Mill St
+  - standing desk x1
+  - merino socks, size M x1
+  - carabiner set x3
+  - travel pouch x1
+
+--- message 1 from Sofia Rossi ---
+Where is my refund for ORD-64879? You said 5 days and it has been 8. I tried the chat widget first but it kept disconnecting. My partner placed ORD-64879 on our shared account, in case that matters. My earlier order ORD-28811 arrived fine, no complaints there.
+
+Best regards,
+Sofia Rossi
+
+--- message 2 from Fatima (support) ---
+I've added a note to your account so the next agent has the context. If you need an invoice for ORD-28811, you can download it from the Orders page. I've updated your shipping address on file. I've resent the confirmation email for ORD-32322 to the address on file.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Sofia Rossi ---
+Could you also tell me whether ORD-28811 qualifies for the extended return window? I changed my shipping address last month, so please double-check you have the new one. Your app logged me out twice while I was looking at this, which didn't help. My earlier order ORD-64879 arrived fine, no complaints there.
+
+Sofia Rossi
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Fatima (support) ---
+I've added a note to your account so the next agent has the context. Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-64879 to the address on file. Let me know if anything else looks off.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Sofia Rossi ---
+I changed my shipping address last month, so please double-check you have the new one. The desk lamp itself is great, for what it's worth. Your app logged me out twice while I was looking at this, which didn't help. My partner placed ORD-32322 on our shared account, in case that matters.
+
+Best regards,
+Sofia Rossi
+
+--- message 6 from Fatima (support) ---
+Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-32322 left on schedule. Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

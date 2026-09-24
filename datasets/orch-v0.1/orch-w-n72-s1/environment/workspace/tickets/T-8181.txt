@@ -1,0 +1,97 @@
+Ticket T-8181
+Customer: Ravi Iyer
+Orders on file: ORD-49758, ORD-53689, ORD-15315, ORD-67021
+Opened: 2026-05-21 via email
+
+Order details:
+ORD-49758  placed 2026-07-07  status: label created  total: $42.28
+  payment method: card ending 7556  ship to: 251 Elm St
+  - cast iron skillet x1
+  - spare battery pack x2
+  - USB-C charging cable (2m) x3
+ORD-53689  placed 2026-07-07  status: in transit  total: $383.91
+  payment method: card ending 8611  ship to: 29 Elm Rd
+  - blender x1
+  - USB-C charging cable (2m) x1
+  - carabiner set x2
+  - extended warranty, 2 years x2
+  - stainless water bottle, 750ml x3
+ORD-15315  placed 2026-02-17  status: in transit  total: $334.70
+  payment method: card ending 7496  ship to: 24 Elm Lane
+  - trail running shoes x1
+  - spare battery pack x2
+  - replacement filter cartridge, 3-pack x3
+  - travel pouch x2
+  - stainless water bottle, 750ml x3
+ORD-67021  placed 2026-05-07  status: delivered  total: $164.91
+  payment method: card ending 3525  ship to: 733 Cedar St
+  - noise-cancelling headphones x1
+  - gift wrap x2
+  - travel pouch x2
+  - merino socks, size M x1
+
+--- message 1 from Ravi Iyer ---
+Where is my refund for ORD-49758? You said 5 days and it has been 8. Could you also tell me whether ORD-67021 qualifies for the extended return window? I tried the chat widget first but it kept disconnecting. I'd rather not call; the hold times last time were very long.
+
+Ravi Iyer
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Dana (support) ---
+Screenshots aren't necessary, but thank you for offering. I've updated your shipping address on file. For ORD-49758, the return window is 30 days from delivery. Our warehouse shows ORD-15315 left on schedule.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ravi Iyer ---
+You took the money for ORD-53689 a second time after it had already been paid. My partner placed ORD-67021 on our shared account, in case that matters. Is there a way to combine loyalty points from ORD-67021 with my next purchase?
+
+Thanks,
+Ravi Iyer
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Dana (support) ---
+Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-67021 to the address on file. I can see all the orders on your account, including ORD-49758.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Dana (support) ---
+Good news: only one payment for ORD-53689 ever settled. The other entry was a temporary hold and your bank has dropped it. Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-67021.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Ravi Iyer ---
+I'd rather not call; the hold times last time were very long. My partner placed ORD-67021 on our shared account, in case that matters. Could you also tell me whether ORD-49758 qualifies for the extended return window?
+
+Ravi Iyer
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Ravi Iyer ---
+Oh, you're right -- I checked my credit union this morning and the second line is gone. Only one charge. Sorry for the false alarm! The confirmation email for ORD-67021 went to my spam folder, so I only just saw it. I'm happy to send screenshots if that helps.
+
+Ravi Iyer
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Dana (support) ---
+Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-15315 left on schedule. Screenshots aren't necessary, but thank you for offering.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Ravi Iyer ---
+I'd rather not call; the hold times last time were very long. I'm travelling next week, so email is the best way to reach me. Is there a way to combine loyalty points from ORD-15315 with my next purchase? Could you also tell me whether ORD-67021 qualifies for the extended return window?
+
+Ravi Iyer
+(Please reply by email rather than phone if possible.)
+
+--- message 10 from Dana (support) ---
+I've resent the confirmation email for ORD-49758 to the address on file. I can see all the orders on your account, including ORD-67021. Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

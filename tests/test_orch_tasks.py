@@ -241,3 +241,29 @@ def test_verifier_exports_the_answer_for_offline_scoring(tmp_path):
     (ws / "answer.json").write_text('{"matches": []}')
     _grade(task_dir, ws)
     assert (tmp_path / "ws-verifier" / "answer.json").exists()
+
+
+# --- the committed dataset ------------------------------------------------------------
+
+DATASET = ROOT / "datasets" / "orch-v0.1"
+
+
+def _tree(root):
+    return {str(p.relative_to(root)): p.read_bytes() for p in sorted(root.rglob("*"))
+            if p.is_file() and p.name != "README.md"}
+
+
+def test_committed_dataset_matches_the_generators(tmp_path):
+    """datasets/orch-v0.1 is what `tools/orch_generate.py` emits, byte for byte.
+
+    The dataset is checked in so it can be shared and run without this code; the
+    generators remain the source of truth. A generator change that is not
+    followed by a regeneration fails here rather than shipping a stale set.
+    """
+    from orch.emit import emit_set
+
+    emit_set(generate_set(seeds=(1, 2, 3)), tmp_path)
+    committed, fresh = _tree(DATASET), _tree(tmp_path)
+    assert committed.keys() == fresh.keys()
+    stale = [path for path in committed if committed[path] != fresh[path]]
+    assert not stale, f"regenerate with tools/orch_generate.py --out {DATASET}: {stale[:5]}"

@@ -1,0 +1,70 @@
+Ticket T-8262
+Customer: Oskar Berg
+Orders on file: ORD-67119, ORD-34443, ORD-91764, ORD-57945
+Opened: 2026-03-16 via web form
+
+Order details:
+ORD-67119  placed 2026-03-11  status: returned  total: $448.61
+  payment method: card ending 2966  ship to: 207 Cedar Lane
+  - carry-on suitcase x1
+  - spare battery pack x2
+  - carabiner set x2
+  - replacement filter cartridge, 3-pack x2
+  - USB-C charging cable (2m) x2
+ORD-34443  placed 2026-04-21  status: in transit  total: $34.85
+  payment method: card ending 6358  ship to: 217 Harbor Lane
+  - trail running shoes x1
+  - extended warranty, 2 years x2
+  - replacement filter cartridge, 3-pack x1
+  - stainless water bottle, 750ml x3
+  - merino socks, size M x3
+ORD-91764  placed 2026-06-08  status: in transit  total: $203.22
+  payment method: card ending 4435  ship to: 384 Elm St
+  - rain jacket x1
+  - carabiner set x2
+  - microfiber cloth x1
+  - stainless water bottle, 750ml x3
+ORD-57945  placed 2026-06-03  status: in transit  total: $344.45
+  payment method: card ending 3990  ship to: 920 Oak St
+  - carry-on suitcase x1
+  - travel pouch x1
+  - carabiner set x3
+
+--- message 1 from Oskar Berg ---
+I'd like to return the blender from ORD-57945; it's the wrong size. I've been a customer for a few years and usually everything goes smoothly. I'm travelling next week, so email is the best way to reach me. I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Oskar Berg
+
+--- message 2 from Fatima (support) ---
+I can see all the orders on your account, including ORD-67119. Let me know if anything else looks off. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-57945 left on schedule.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Oskar Berg ---
+The checkout page for ORD-91764 timed out. If I try to pay again, will I end up being charged twice? The confirmation email for ORD-57945 went to my spam folder, so I only just saw it. My partner placed ORD-57945 on our shared account, in case that matters.
+
+Best regards,
+Oskar Berg
+
+--- message 4 from Fatima (support) ---
+No, you won't be charged twice: the first attempt for ORD-91764 failed before capture, so retrying is safe. Let me know if anything else looks off. I can see all the orders on your account, including ORD-67119.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Oskar Berg ---
+Could you also tell me whether ORD-57945 qualifies for the extended return window? I'm happy to send screenshots if that helps. Tracking for ORD-57945 hasn't updated since Tuesday. I'm travelling next week, so email is the best way to reach me.
+
+Oskar Berg
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Fatima (support) ---
+Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-57945 left on schedule. Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

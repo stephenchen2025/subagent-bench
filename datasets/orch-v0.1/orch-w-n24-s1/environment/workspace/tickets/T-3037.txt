@@ -1,0 +1,76 @@
+Ticket T-3037
+Customer: Ravi Iyer
+Orders on file: ORD-24228, ORD-52797, ORD-19059, ORD-46404
+Opened: 2026-04-20 via web form
+
+Order details:
+ORD-24228  placed 2026-06-16  status: delivered  total: $157.32
+  payment method: card ending 4095  ship to: 84 Elm Ave
+  - mechanical keyboard x1
+  - merino socks, size M x3
+  - spare battery pack x2
+ORD-52797  placed 2026-06-10  status: returned  total: $104.34
+  payment method: card ending 2719  ship to: 508 Elm Ave
+  - desk lamp x1
+  - extended warranty, 2 years x1
+  - merino socks, size M x2
+  - replacement filter cartridge, 3-pack x1
+ORD-19059  placed 2026-06-11  status: label created  total: $189.58
+  payment method: card ending 5038  ship to: 885 Mill St
+  - mechanical keyboard x1
+  - spare battery pack x1
+  - carabiner set x2
+  - microfiber cloth x1
+  - gift wrap x2
+ORD-46404  placed 2026-07-04  status: returned  total: $154.46
+  payment method: card ending 8959  ship to: 163 Cedar Ave
+  - desk lamp x1
+  - spare battery pack x2
+  - stainless water bottle, 750ml x2
+  - travel pouch x1
+
+--- message 1 from Ravi Iyer ---
+I'd like to return the standing desk from ORD-52797; it's the wrong size. My earlier order ORD-46404 arrived fine, no complaints there. I'd rather not call; the hold times last time were very long. My partner placed ORD-46404 on our shared account, in case that matters.
+
+Best regards,
+Ravi Iyer
+
+--- message 2 from Marcus (support) ---
+Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-46404. I've updated your shipping address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ravi Iyer ---
+I see two charges on my statement this week, one for ORD-24228 and one for ORD-19059. Both are correct -- I ordered twice on purpose -- but could you send me the invoices for my expense report? The box for ORD-46404 was a bit crushed but the contents were fine. Is there a way to combine loyalty points from ORD-19059 with my next purchase?
+
+Best regards,
+Ravi Iyer
+
+--- message 4 from Ravi Iyer ---
+The cast iron skillet itself is great, for what it's worth. Your app logged me out twice while I was looking at this, which didn't help. Could you also tell me whether ORD-52797 qualifies for the extended return window? I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Ravi Iyer
+
+--- message 5 from Marcus (support) ---
+I've resent the confirmation email for ORD-46404 to the address on file. Let me know if anything else looks off. For ORD-19059, the return window is 30 days from delivery. Thanks for reaching out, and sorry for the trouble.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Ravi Iyer ---
+I'm travelling next week, so email is the best way to reach me. Could you also tell me whether ORD-19059 qualifies for the extended return window? The confirmation email for ORD-19059 went to my spam folder, so I only just saw it. The noise-cancelling headphones itself is great, for what it's worth.
+
+Thanks,
+Ravi Iyer
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Marcus (support) ---
+If you need an invoice for ORD-52797, you can download it from the Orders page. Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier. I can see all the orders on your account, including ORD-19059.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,61 @@
+Ticket T-7720
+Customer: Ben Carter
+Orders on file: ORD-43735, ORD-97875, ORD-29368, ORD-91693
+Opened: 2026-06-22 via chat transcript
+
+Order details:
+ORD-43735  placed 2026-05-20  status: delivered  total: $439.97
+  payment method: card ending 9784  ship to: 10 Mill St
+  - yoga mat x1
+  - merino socks, size M x3
+  - carabiner set x2
+ORD-97875  placed 2026-04-21  status: returned  total: $329.04
+  payment method: card ending 5682  ship to: 675 Elm St
+  - mechanical keyboard x1
+  - microfiber cloth x1
+  - gift wrap x2
+ORD-29368  placed 2026-01-04  status: delivered  total: $125.95
+  payment method: card ending 6757  ship to: 547 Oak Ave
+  - espresso grinder x1
+  - gift wrap x1
+  - stainless water bottle, 750ml x1
+  - replacement filter cartridge, 3-pack x1
+  - spare battery pack x2
+ORD-91693  placed 2026-05-04  status: in transit  total: $154.44
+  payment method: card ending 4485  ship to: 258 Oak Rd
+  - noise-cancelling headphones x1
+  - gift wrap x2
+  - microfiber cloth x1
+  - stainless water bottle, 750ml x2
+
+--- message 1 from Ben Carter ---
+I'd like to return the wool blanket from ORD-29368; it's the wrong size. Tracking for ORD-43735 hasn't updated since Tuesday. I've been a customer for a few years and usually everything goes smoothly. Could you also tell me whether ORD-29368 qualifies for the extended return window?
+
+Ben Carter
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Marcus (support) ---
+I've added a note to your account so the next agent has the context. I've updated your shipping address on file. I've resent the confirmation email for ORD-97875 to the address on file. Screenshots aren't necessary, but thank you for offering.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ben Carter ---
+Yes, there were two payments, but they're for two different orders (ORD-91693 and ORD-43735), so that's fine. I just need a receipt for each. The espresso grinder itself is great, for what it's worth. I changed my shipping address last month, so please double-check you have the new one.
+
+Ben Carter
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Ben Carter ---
+Tracking for ORD-43735 hasn't updated since Tuesday. I'm travelling next week, so email is the best way to reach me. I changed my shipping address last month, so please double-check you have the new one. My earlier order ORD-97875 arrived fine, no complaints there.
+
+Ben Carter
+(Please reply by email rather than phone if possible.)
+
+--- message 5 from Marcus (support) ---
+I've added a note to your account so the next agent has the context. Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier. If you need an invoice for ORD-43735, you can download it from the Orders page.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

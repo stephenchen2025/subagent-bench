@@ -1,0 +1,95 @@
+Ticket T-3579
+Customer: Elena Petrova
+Orders on file: ORD-30895, ORD-77874, ORD-56597, ORD-90827
+Opened: 2026-05-15 via chat transcript
+
+Order details:
+ORD-30895  placed 2026-01-03  status: label created  total: $460.49
+  payment method: card ending 4344  ship to: 778 Mill Rd
+  - cast iron skillet x1
+  - microfiber cloth x1
+  - replacement filter cartridge, 3-pack x2
+ORD-77874  placed 2026-05-06  status: in transit  total: $434.62
+  payment method: card ending 1244  ship to: 701 Mill Rd
+  - trail running shoes x1
+  - merino socks, size M x3
+  - extended warranty, 2 years x3
+  - replacement filter cartridge, 3-pack x2
+  - spare battery pack x2
+ORD-56597  placed 2026-07-21  status: in transit  total: $129.05
+  payment method: card ending 2435  ship to: 497 Mill Rd
+  - rain jacket x1
+  - extended warranty, 2 years x2
+  - stainless water bottle, 750ml x2
+  - spare battery pack x3
+ORD-90827  placed 2026-07-07  status: in transit  total: $350.13
+  payment method: card ending 1592  ship to: 554 Oak Lane
+  - noise-cancelling headphones x1
+  - merino socks, size M x3
+  - extended warranty, 2 years x1
+
+--- message 1 from Elena Petrova ---
+I'd like to return the espresso grinder from ORD-77874; it's the wrong size. Your app logged me out twice while I was looking at this, which didn't help. I tried the chat widget first but it kept disconnecting. I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Elena Petrova
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Rosa (support) ---
+Tracking updates can lag by a day or two with this carrier. Thanks for reaching out, and sorry for the trouble. I've resent the confirmation email for ORD-30895 to the address on file. Let me know if anything else looks off.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Elena Petrova ---
+My card was charged two times for order ORD-90827. The box for ORD-77874 was a bit crushed but the contents were fine. Your app logged me out twice while I was looking at this, which didn't help.
+
+Best regards,
+Elena Petrova
+
+--- message 4 from Rosa (support) ---
+I've updated your shipping address on file. I've added a note to your account so the next agent has the context. Screenshots aren't necessary, but thank you for offering.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Rosa (support) ---
+Confirmed on our side -- ORD-90827 was captured twice by a retry in our checkout. One refund of $335.98 is on its way to you. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-30895 left on schedule.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Elena Petrova ---
+My earlier order ORD-30895 arrived fine, no complaints there. I'm happy to send screenshots if that helps. My partner placed ORD-77874 on our shared account, in case that matters.
+
+Elena Petrova
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Elena Petrova ---
+I've been a customer for a few years and usually everything goes smoothly. Is there a way to combine loyalty points from ORD-30895 with my next purchase? I'm happy to send screenshots if that helps. My earlier order ORD-77874 arrived fine, no complaints there.
+
+Elena Petrova
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Rosa (support) ---
+For ORD-77874, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-30895 left on schedule.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Elena Petrova ---
+My partner placed ORD-77874 on our shared account, in case that matters. I'm happy to send screenshots if that helps. My earlier order ORD-56597 arrived fine, no complaints there. I changed my shipping address last month, so please double-check you have the new one.
+
+Elena Petrova
+(Please reply by email rather than phone if possible.)
+
+--- message 10 from Rosa (support) ---
+Let me know if anything else looks off. For ORD-30895, the return window is 30 days from delivery. I've updated your shipping address on file. I've added a note to your account so the next agent has the context.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

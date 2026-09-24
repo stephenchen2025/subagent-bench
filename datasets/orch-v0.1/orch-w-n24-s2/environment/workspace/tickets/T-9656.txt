@@ -1,0 +1,72 @@
+Ticket T-9656
+Customer: Grace Mwangi
+Orders on file: ORD-57443, ORD-12905, ORD-19617, ORD-95085
+Opened: 2026-04-10 via web form
+
+Order details:
+ORD-57443  placed 2026-03-03  status: returned  total: $458.50
+  payment method: card ending 3383  ship to: 849 Mill Lane
+  - noise-cancelling headphones x1
+  - replacement filter cartridge, 3-pack x1
+  - gift wrap x2
+  - microfiber cloth x2
+  - USB-C charging cable (2m) x3
+ORD-12905  placed 2026-02-06  status: returned  total: $246.33
+  payment method: card ending 2307  ship to: 377 Elm Rd
+  - espresso grinder x1
+  - merino socks, size M x2
+  - stainless water bottle, 750ml x1
+  - travel pouch x2
+  - microfiber cloth x1
+ORD-19617  placed 2026-07-20  status: returned  total: $212.29
+  payment method: card ending 6334  ship to: 722 Cedar St
+  - carry-on suitcase x1
+  - merino socks, size M x1
+  - microfiber cloth x2
+  - travel pouch x3
+ORD-95085  placed 2026-07-24  status: delivered  total: $201.68
+  payment method: card ending 7778  ship to: 168 Mill Lane
+  - camping stove x1
+  - spare battery pack x1
+  - extended warranty, 2 years x1
+  - merino socks, size M x2
+
+--- message 1 from Grace Mwangi ---
+Can I use a gift card on ORD-12905, or is it too late? Tracking for ORD-95085 hasn't updated since Tuesday. Your app logged me out twice while I was looking at this, which didn't help. The confirmation email for ORD-12905 went to my spam folder, so I only just saw it.
+
+Best regards,
+Grace Mwangi
+
+--- message 2 from Luis (support) ---
+Thanks for reaching out, and sorry for the trouble. Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Grace Mwangi ---
+I tried the chat widget first but it kept disconnecting. I'm happy to send screenshots if that helps. My earlier order ORD-19617 arrived fine, no complaints there. The confirmation email for ORD-19617 went to my spam folder, so I only just saw it.
+
+Thanks,
+Grace Mwangi
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Luis (support) ---
+If you need an invoice for ORD-19617, you can download it from the Orders page. I can see all the orders on your account, including ORD-19617. Our warehouse shows ORD-95085 left on schedule. Loyalty points post about a week after an order is delivered.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Grace Mwangi ---
+I changed my shipping address last month, so please double-check you have the new one. Tracking for ORD-19617 hasn't updated since Tuesday. I'm travelling next week, so email is the best way to reach me. I tried the chat widget first but it kept disconnecting.
+
+Grace Mwangi
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Luis (support) ---
+I've resent the confirmation email for ORD-95085 to the address on file. Tracking updates can lag by a day or two with this carrier. Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,54 @@
+Ticket T-5405
+Customer: Ines Duarte
+Orders on file: ORD-59927, ORD-70423, ORD-96033, ORD-45978
+Opened: 2026-01-17 via web form
+
+Order details:
+ORD-59927  placed 2026-06-28  status: in transit  total: $363.66
+  payment method: card ending 8960  ship to: 836 Oak Lane
+  - yoga mat x1
+  - carabiner set x1
+  - spare battery pack x2
+ORD-70423  placed 2026-01-04  status: label created  total: $61.83
+  payment method: card ending 6084  ship to: 181 Oak Lane
+  - desk lamp x1
+  - USB-C charging cable (2m) x1
+  - microfiber cloth x3
+ORD-96033  placed 2026-06-07  status: returned  total: $232.62
+  payment method: card ending 1001  ship to: 260 Oak St
+  - espresso grinder x1
+  - carabiner set x2
+  - gift wrap x3
+ORD-45978  placed 2026-06-10  status: in transit  total: $314.65
+  payment method: card ending 1847  ship to: 436 Harbor St
+  - water filter pitcher x1
+  - stainless water bottle, 750ml x1
+  - replacement filter cartridge, 3-pack x3
+
+--- message 1 from Ines Duarte ---
+I need to change the delivery address for ORD-70423 before it ships. The confirmation email for ORD-45978 went to my spam folder, so I only just saw it. I'm travelling next week, so email is the best way to reach me. I'm happy to send screenshots if that helps.
+
+Thanks,
+Ines Duarte
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Luis (support) ---
+Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off. I've resent the confirmation email for ORD-96033 to the address on file. I've updated your shipping address on file.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ines Duarte ---
+The cast iron skillet itself is great, for what it's worth. My partner placed ORD-70423 on our shared account, in case that matters. I'd rather not call; the hold times last time were very long. My earlier order ORD-96033 arrived fine, no complaints there.
+
+Thanks,
+Ines Duarte
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Luis (support) ---
+Tracking updates can lag by a day or two with this carrier. Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-70423 to the address on file. I've updated your shipping address on file.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

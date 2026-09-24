@@ -1,0 +1,77 @@
+Ticket T-6682
+Customer: Ben Carter
+Orders on file: ORD-18530, ORD-78398, ORD-39314, ORD-70094
+Opened: 2026-08-27 via email
+
+Order details:
+ORD-18530  placed 2026-01-11  status: delivered  total: $219.59
+  payment method: card ending 3274  ship to: 378 Mill Ave
+  - noise-cancelling headphones x1
+  - stainless water bottle, 750ml x2
+  - travel pouch x1
+  - carabiner set x2
+ORD-78398  placed 2026-03-27  status: delivered  total: $270.30
+  payment method: card ending 2695  ship to: 403 Oak Lane
+  - mechanical keyboard x1
+  - microfiber cloth x2
+  - USB-C charging cable (2m) x3
+  - merino socks, size M x1
+ORD-39314  placed 2026-07-06  status: in transit  total: $21.29
+  payment method: card ending 7155  ship to: 379 Mill Lane
+  - blender x1
+  - replacement filter cartridge, 3-pack x3
+  - gift wrap x3
+  - spare battery pack x2
+ORD-70094  placed 2026-06-25  status: returned  total: $164.35
+  payment method: card ending 5482  ship to: 785 Oak Lane
+  - rain jacket x1
+  - extended warranty, 2 years x1
+  - replacement filter cartridge, 3-pack x3
+  - spare battery pack x2
+
+--- message 1 from Ben Carter ---
+The trail running shoes from ORD-70094 arrived with a scratch on the side. Can I get a replacement? I'd rather not call; the hold times last time were very long. Your app logged me out twice while I was looking at this, which didn't help. The box for ORD-70094 was a bit crushed but the contents were fine.
+
+Best regards,
+Ben Carter
+
+--- message 2 from Rosa (support) ---
+For ORD-18530, the return window is 30 days from delivery. If you need an invoice for ORD-18530, you can download it from the Orders page. Let me know if anything else looks off. I've added a note to your account so the next agent has the context.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ben Carter ---
+The checkout page for ORD-78398 timed out. If I try to pay again, will I end up being charged twice? I'm travelling next week, so email is the best way to reach me. I'm happy to send screenshots if that helps.
+
+Best regards,
+Ben Carter
+
+--- message 4 from Rosa (support) ---
+I can see all the orders on your account, including ORD-18530. Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-70094, you can download it from the Orders page.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Rosa (support) ---
+No, you won't be charged twice: the first attempt for ORD-78398 failed before capture, so retrying is safe. Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-39314 to the address on file.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Ben Carter ---
+Is there a way to combine loyalty points from ORD-39314 with my next purchase? The box for ORD-39314 was a bit crushed but the contents were fine. My earlier order ORD-70094 arrived fine, no complaints there. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Ben Carter
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Rosa (support) ---
+I've added a note to your account so the next agent has the context. Our warehouse shows ORD-70094 left on schedule. Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

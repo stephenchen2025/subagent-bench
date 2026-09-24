@@ -1,0 +1,57 @@
+Ticket T-4934
+Customer: Yuki Tanaka
+Orders on file: ORD-90865, ORD-42551, ORD-89729, ORD-85223
+Opened: 2026-02-07 via chat transcript
+
+Order details:
+ORD-90865  placed 2026-04-02  status: in transit  total: $380.24
+  payment method: card ending 8971  ship to: 433 Harbor Ave
+  - rain jacket x1
+  - replacement filter cartridge, 3-pack x3
+  - USB-C charging cable (2m) x1
+ORD-42551  placed 2026-01-20  status: in transit  total: $469.29
+  payment method: card ending 8172  ship to: 355 Harbor Ave
+  - camping stove x1
+  - stainless water bottle, 750ml x3
+  - replacement filter cartridge, 3-pack x3
+  - USB-C charging cable (2m) x3
+  - spare battery pack x3
+ORD-89729  placed 2026-01-17  status: delivered  total: $322.67
+  payment method: card ending 3585  ship to: 688 Harbor Lane
+  - standing desk x1
+  - gift wrap x3
+  - USB-C charging cable (2m) x3
+  - replacement filter cartridge, 3-pack x1
+  - extended warranty, 2 years x3
+ORD-85223  placed 2026-05-11  status: in transit  total: $87.60
+  payment method: card ending 2775  ship to: 941 Oak St
+  - cast iron skillet x1
+  - replacement filter cartridge, 3-pack x3
+  - microfiber cloth x1
+
+--- message 1 from Yuki Tanaka ---
+Where is my refund for ORD-89729? You said 5 days and it has been 8. I tried the chat widget first but it kept disconnecting. The box for ORD-90865 was a bit crushed but the contents were fine. The confirmation email for ORD-89729 went to my spam folder, so I only just saw it.
+
+Yuki Tanaka
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Dana (support) ---
+I've updated your shipping address on file. Our warehouse shows ORD-85223 left on schedule. Screenshots aren't necessary, but thank you for offering. I've added a note to your account so the next agent has the context.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Yuki Tanaka ---
+The box for ORD-90865 was a bit crushed but the contents were fine. I'm happy to send screenshots if that helps. Your app logged me out twice while I was looking at this, which didn't help. I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Yuki Tanaka
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Dana (support) ---
+Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-90865 left on schedule. I've resent the confirmation email for ORD-85223 to the address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

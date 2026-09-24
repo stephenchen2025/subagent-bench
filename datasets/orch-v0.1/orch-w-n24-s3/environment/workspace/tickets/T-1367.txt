@@ -1,0 +1,75 @@
+Ticket T-1367
+Customer: Priya Raman
+Orders on file: ORD-23441, ORD-34371, ORD-39515, ORD-59854
+Opened: 2026-05-02 via chat transcript
+
+Order details:
+ORD-23441  placed 2026-02-27  status: delivered  total: $61.86
+  payment method: card ending 6653  ship to: 581 Elm Rd
+  - yoga mat x1
+  - USB-C charging cable (2m) x2
+  - microfiber cloth x3
+  - carabiner set x1
+ORD-34371  placed 2026-06-15  status: returned  total: $441.62
+  payment method: card ending 6171  ship to: 958 Cedar Rd
+  - yoga mat x1
+  - extended warranty, 2 years x1
+  - gift wrap x1
+  - carabiner set x3
+ORD-39515  placed 2026-03-12  status: delivered  total: $262.96
+  payment method: card ending 4783  ship to: 64 Mill Ave
+  - blender x1
+  - spare battery pack x3
+  - travel pouch x3
+ORD-59854  placed 2026-07-28  status: delivered  total: $81.49
+  payment method: card ending 1793  ship to: 698 Oak Rd
+  - water filter pitcher x1
+  - spare battery pack x3
+  - travel pouch x2
+  - stainless water bottle, 750ml x1
+  - carabiner set x1
+
+--- message 1 from Priya Raman ---
+How do I reset my password? The reset link keeps expiring. I changed my shipping address last month, so please double-check you have the new one. Is there a way to combine loyalty points from ORD-59854 with my next purchase? Could you also tell me whether ORD-34371 qualifies for the extended return window?
+
+Best regards,
+Priya Raman
+
+--- message 2 from Arjun (support) ---
+I've added a note to your account so the next agent has the context. Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-39515, you can download it from the Orders page.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Priya Raman ---
+Unrelated, but my bank double-charged me at a coffee shop last week, so I'm checking every line carefully now. Anyway, my actual question is about delivery for ORD-23441. I tried the chat widget first but it kept disconnecting. The confirmation email for ORD-59854 went to my spam folder, so I only just saw it.
+
+Priya Raman
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Priya Raman ---
+Your app logged me out twice while I was looking at this, which didn't help. The box for ORD-34371 was a bit crushed but the contents were fine. The confirmation email for ORD-59854 went to my spam folder, so I only just saw it. My earlier order ORD-59854 arrived fine, no complaints there.
+
+Priya Raman
+(Please reply by email rather than phone if possible.)
+
+--- message 5 from Arjun (support) ---
+I've added a note to your account so the next agent has the context. Let me know if anything else looks off. Our warehouse shows ORD-59854 left on schedule. I can see all the orders on your account, including ORD-39515.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Priya Raman ---
+I'd rather not call; the hold times last time were very long. The confirmation email for ORD-59854 went to my spam folder, so I only just saw it. My partner placed ORD-39515 on our shared account, in case that matters. Tracking for ORD-34371 hasn't updated since Tuesday.
+
+Priya Raman
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Arjun (support) ---
+Screenshots aren't necessary, but thank you for offering. Loyalty points post about a week after an order is delivered. Let me know if anything else looks off. Our warehouse shows ORD-39515 left on schedule.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,90 @@
+Ticket T-7675
+Customer: Mateo Silva
+Orders on file: ORD-40330, ORD-13107, ORD-17025, ORD-91176
+Opened: 2026-05-28 via email
+
+Order details:
+ORD-40330  placed 2026-04-19  status: delivered  total: $378.93
+  payment method: card ending 1753  ship to: 93 Oak Rd
+  - noise-cancelling headphones x1
+  - stainless water bottle, 750ml x2
+  - gift wrap x3
+ORD-13107  placed 2026-07-04  status: delivered  total: $28.41
+  payment method: card ending 1088  ship to: 307 Cedar Rd
+  - bike light set x1
+  - extended warranty, 2 years x1
+  - carabiner set x3
+ORD-17025  placed 2026-04-22  status: in transit  total: $326.31
+  payment method: card ending 8449  ship to: 307 Mill Ave
+  - noise-cancelling headphones x1
+  - gift wrap x2
+  - stainless water bottle, 750ml x1
+  - replacement filter cartridge, 3-pack x1
+  - merino socks, size M x2
+ORD-91176  placed 2026-08-14  status: returned  total: $434.52
+  payment method: card ending 1503  ship to: 150 Harbor Rd
+  - blender x1
+  - microfiber cloth x1
+  - stainless water bottle, 750ml x1
+  - replacement filter cartridge, 3-pack x1
+
+--- message 1 from Mateo Silva ---
+I'd like to return the mechanical keyboard from ORD-40330; it's the wrong size. I changed my shipping address last month, so please double-check you have the new one. I'm travelling next week, so email is the best way to reach me. The bike light set itself is great, for what it's worth.
+
+Thanks,
+Mateo Silva
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Arjun (support) ---
+Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-13107, you can download it from the Orders page. For ORD-91176, the return window is 30 days from delivery. I've updated your shipping address on file.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Mateo Silva ---
+You took the money for ORD-17025 a second time after it had already been paid. My partner placed ORD-40330 on our shared account, in case that matters. The confirmation email for ORD-13107 went to my spam folder, so I only just saw it.
+
+Mateo Silva
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Arjun (support) ---
+I've resent the confirmation email for ORD-40330 to the address on file. If you need an invoice for ORD-91176, you can download it from the Orders page. Tracking updates can lag by a day or two with this carrier.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Arjun (support) ---
+Good news: only one payment for ORD-17025 ever settled. The other entry was a temporary hold and your bank has dropped it. Let me know if anything else looks off. Tracking updates can lag by a day or two with this carrier.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Mateo Silva ---
+Thanks, I see it now: one payment for ORD-17025, the other one disappeared. All good. The camping stove itself is great, for what it's worth. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Mateo Silva
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Arjun (support) ---
+Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier. For ORD-91176, the return window is 30 days from delivery.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Mateo Silva ---
+Your app logged me out twice while I was looking at this, which didn't help. My partner placed ORD-40330 on our shared account, in case that matters. The cast iron skillet itself is great, for what it's worth. I changed my shipping address last month, so please double-check you have the new one.
+
+Mateo Silva
+(Please reply by email rather than phone if possible.)
+
+--- message 9 from Arjun (support) ---
+I can see all the orders on your account, including ORD-40330. Screenshots aren't necessary, but thank you for offering. Loyalty points post about a week after an order is delivered. For ORD-91176, the return window is 30 days from delivery.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

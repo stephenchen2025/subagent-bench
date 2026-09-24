@@ -1,0 +1,63 @@
+Ticket T-9030
+Customer: Mateo Silva
+Orders on file: ORD-98140, ORD-58153, ORD-31932, ORD-57366
+Opened: 2026-03-26 via email
+
+Order details:
+ORD-98140  placed 2026-08-27  status: delivered  total: $66.49
+  payment method: card ending 8136  ship to: 30 Harbor Rd
+  - wool blanket x1
+  - carabiner set x1
+  - travel pouch x1
+  - gift wrap x1
+  - USB-C charging cable (2m) x2
+ORD-58153  placed 2026-07-22  status: in transit  total: $117.25
+  payment method: card ending 8249  ship to: 156 Elm Lane
+  - trail running shoes x1
+  - travel pouch x2
+  - gift wrap x2
+ORD-31932  placed 2026-05-17  status: label created  total: $195.31
+  payment method: card ending 2701  ship to: 505 Cedar Lane
+  - cast iron skillet x1
+  - carabiner set x3
+  - stainless water bottle, 750ml x2
+  - gift wrap x2
+  - replacement filter cartridge, 3-pack x3
+ORD-57366  placed 2026-03-17  status: label created  total: $309.78
+  payment method: card ending 9447  ship to: 551 Oak Lane
+  - rain jacket x1
+  - carabiner set x2
+  - USB-C charging cable (2m) x3
+
+--- message 1 from Mateo Silva ---
+Where is my refund for ORD-31932? You said 5 days and it has been 8. Your app logged me out twice while I was looking at this, which didn't help. Could you also tell me whether ORD-31932 qualifies for the extended return window? The confirmation email for ORD-31932 went to my spam folder, so I only just saw it.
+
+Thanks,
+Mateo Silva
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Marcus (support) ---
+Loyalty points post about a week after an order is delivered. I can see all the orders on your account, including ORD-31932. Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Mateo Silva ---
+Unrelated, but my credit union double-charged me at a coffee shop last week, so I'm checking every line carefully now. Anyway, my actual question is about delivery for ORD-57366. I tried the chat widget first but it kept disconnecting. My earlier order ORD-58153 arrived fine, no complaints there.
+
+Mateo Silva
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Mateo Silva ---
+The confirmation email for ORD-31932 went to my spam folder, so I only just saw it. I'm travelling next week, so email is the best way to reach me. My partner placed ORD-31932 on our shared account, in case that matters. I'm happy to send screenshots if that helps.
+
+Best regards,
+Mateo Silva
+
+--- message 5 from Marcus (support) ---
+I've resent the confirmation email for ORD-31932 to the address on file. Let me know if anything else looks off. Loyalty points post about a week after an order is delivered. Thanks for reaching out, and sorry for the trouble.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

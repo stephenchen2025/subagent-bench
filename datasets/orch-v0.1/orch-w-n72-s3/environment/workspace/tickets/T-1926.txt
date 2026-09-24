@@ -1,0 +1,91 @@
+Ticket T-1926
+Customer: Jordan Okafor
+Orders on file: ORD-30004, ORD-12287, ORD-93920, ORD-87782
+Opened: 2026-06-14 via web form
+
+Order details:
+ORD-30004  placed 2026-08-18  status: delivered  total: $362.32
+  payment method: card ending 6502  ship to: 124 Oak Ave
+  - carry-on suitcase x1
+  - extended warranty, 2 years x2
+  - merino socks, size M x2
+  - microfiber cloth x2
+ORD-12287  placed 2026-04-15  status: delivered  total: $366.07
+  payment method: card ending 5233  ship to: 438 Elm Ave
+  - rain jacket x1
+  - merino socks, size M x2
+  - replacement filter cartridge, 3-pack x2
+  - microfiber cloth x2
+  - gift wrap x2
+ORD-93920  placed 2026-07-09  status: delivered  total: $40.55
+  payment method: card ending 7412  ship to: 428 Elm Lane
+  - carry-on suitcase x1
+  - microfiber cloth x3
+  - USB-C charging cable (2m) x1
+  - travel pouch x3
+ORD-87782  placed 2026-07-25  status: delivered  total: $320.51
+  payment method: card ending 3425  ship to: 178 Oak Rd
+  - noise-cancelling headphones x1
+  - travel pouch x1
+  - spare battery pack x2
+  - gift wrap x1
+
+--- message 1 from Jordan Okafor ---
+Where is my refund for ORD-12287? You said 5 days and it has been 8. Is there a way to combine loyalty points from ORD-93920 with my next purchase? Could you also tell me whether ORD-30004 qualifies for the extended return window? I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Jordan Okafor
+
+--- message 2 from Rosa (support) ---
+Loyalty points post about a week after an order is delivered. Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-93920. If you need an invoice for ORD-93920, you can download it from the Orders page.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Jordan Okafor ---
+I think I might have been charged twice for ORD-87782, but one of the lines on my bank still says pending, so I'm not sure yet. The bike light set itself is great, for what it's worth. Your app logged me out twice while I was looking at this, which didn't help.
+
+Best regards,
+Jordan Okafor
+
+--- message 4 from Jordan Okafor ---
+Update: the second line has now posted, it's no longer pending. So both payments for ORD-87782 actually went through. Your app logged me out twice while I was looking at this, which didn't help. The standing desk itself is great, for what it's worth.
+
+Thanks,
+Jordan Okafor
+Sent from my phone -- please excuse typos.
+
+--- message 5 from Rosa (support) ---
+Confirmed on our side -- ORD-87782 was captured twice by a retry in our checkout. One refund of $341.77 is on its way to you. I've updated your shipping address on file. Our warehouse shows ORD-30004 left on schedule.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Jordan Okafor ---
+Is there a way to combine loyalty points from ORD-93920 with my next purchase? I've been a customer for a few years and usually everything goes smoothly. My partner placed ORD-30004 on our shared account, in case that matters. Tracking for ORD-93920 hasn't updated since Tuesday.
+
+Jordan Okafor
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Rosa (support) ---
+Let me know if anything else looks off. Our warehouse shows ORD-30004 left on schedule. I've resent the confirmation email for ORD-93920 to the address on file. I've updated your shipping address on file.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Jordan Okafor ---
+I tried the chat widget first but it kept disconnecting. I'm happy to send screenshots if that helps. Could you also tell me whether ORD-12287 qualifies for the extended return window? My earlier order ORD-12287 arrived fine, no complaints there.
+
+Thanks,
+Jordan Okafor
+Sent from my phone -- please excuse typos.
+
+--- message 9 from Rosa (support) ---
+Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering. I've added a note to your account so the next agent has the context. I can see all the orders on your account, including ORD-93920.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

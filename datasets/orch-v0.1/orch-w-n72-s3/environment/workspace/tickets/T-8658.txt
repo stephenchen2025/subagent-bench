@@ -1,0 +1,69 @@
+Ticket T-8658
+Customer: Ben Carter
+Orders on file: ORD-38461, ORD-48427, ORD-59685, ORD-14860
+Opened: 2026-02-03 via web form
+
+Order details:
+ORD-38461  placed 2026-04-07  status: delivered  total: $86.97
+  payment method: card ending 9618  ship to: 398 Oak Ave
+  - desk lamp x1
+  - replacement filter cartridge, 3-pack x1
+  - microfiber cloth x3
+ORD-48427  placed 2026-06-03  status: delivered  total: $259.48
+  payment method: card ending 7096  ship to: 751 Cedar St
+  - wool blanket x1
+  - extended warranty, 2 years x1
+  - travel pouch x1
+ORD-59685  placed 2026-01-06  status: returned  total: $199.04
+  payment method: card ending 5528  ship to: 906 Harbor St
+  - cast iron skillet x1
+  - extended warranty, 2 years x1
+  - USB-C charging cable (2m) x3
+  - replacement filter cartridge, 3-pack x3
+  - spare battery pack x2
+ORD-14860  placed 2026-07-28  status: delivered  total: $341.73
+  payment method: card ending 5601  ship to: 920 Mill St
+  - camping stove x1
+  - merino socks, size M x1
+  - extended warranty, 2 years x2
+  - spare battery pack x3
+
+--- message 1 from Ben Carter ---
+The camping stove from ORD-14860 arrived with a scratch on the side. Can I get a replacement? Could you also tell me whether ORD-38461 qualifies for the extended return window? The confirmation email for ORD-38461 went to my spam folder, so I only just saw it. I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Ben Carter
+
+--- message 2 from Dana (support) ---
+Let me know if anything else looks off. For ORD-14860, the return window is 30 days from delivery. I've updated your shipping address on file. Loyalty points post about a week after an order is delivered.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ben Carter ---
+Could you also tell me whether ORD-14860 qualifies for the extended return window? My partner placed ORD-14860 on our shared account, in case that matters. The noise-cancelling headphones itself is great, for what it's worth. I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Ben Carter
+
+--- message 4 from Dana (support) ---
+If you need an invoice for ORD-38461, you can download it from the Orders page. Our warehouse shows ORD-48427 left on schedule. Tracking updates can lag by a day or two with this carrier. I've resent the confirmation email for ORD-14860 to the address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Ben Carter ---
+Your app logged me out twice while I was looking at this, which didn't help. The carry-on suitcase itself is great, for what it's worth. The box for ORD-48427 was a bit crushed but the contents were fine. The confirmation email for ORD-38461 went to my spam folder, so I only just saw it.
+
+Thanks,
+Ben Carter
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Dana (support) ---
+Our warehouse shows ORD-38461 left on schedule. Tracking updates can lag by a day or two with this carrier. For ORD-48427, the return window is 30 days from delivery. Loyalty points post about a week after an order is delivered.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,82 @@
+Ticket T-6196
+Customer: Priya Raman
+Orders on file: ORD-29283, ORD-94908, ORD-52027, ORD-35325
+Opened: 2026-08-05 via chat transcript
+
+Order details:
+ORD-29283  placed 2026-01-05  status: label created  total: $86.16
+  payment method: card ending 5406  ship to: 397 Mill Ave
+  - camping stove x1
+  - travel pouch x2
+  - USB-C charging cable (2m) x1
+  - gift wrap x1
+  - stainless water bottle, 750ml x2
+ORD-94908  placed 2026-08-03  status: delivered  total: $335.30
+  payment method: card ending 9088  ship to: 326 Oak Rd
+  - noise-cancelling headphones x1
+  - travel pouch x3
+  - carabiner set x3
+  - gift wrap x2
+ORD-52027  placed 2026-06-16  status: delivered  total: $475.30
+  payment method: card ending 4755  ship to: 817 Harbor Rd
+  - espresso grinder x1
+  - USB-C charging cable (2m) x1
+  - replacement filter cartridge, 3-pack x2
+  - gift wrap x1
+ORD-35325  placed 2026-01-07  status: returned  total: $206.62
+  payment method: card ending 8891  ship to: 127 Oak Lane
+  - standing desk x1
+  - extended warranty, 2 years x2
+  - merino socks, size M x2
+
+--- message 1 from Priya Raman ---
+I'd like to return the noise-cancelling headphones from ORD-29283; it's the wrong size. The confirmation email for ORD-94908 went to my spam folder, so I only just saw it. My earlier order ORD-94908 arrived fine, no complaints there. I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Priya Raman
+
+--- message 2 from Dana (support) ---
+Screenshots aren't necessary, but thank you for offering. If you need an invoice for ORD-94908, you can download it from the Orders page. Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Priya Raman ---
+Something looks off with ORD-35325: I see what might be a second payment. I've been a customer for a few years and usually everything goes smoothly. My earlier order ORD-29283 arrived fine, no complaints there.
+
+Best regards,
+Priya Raman
+
+--- message 4 from Priya Raman ---
+Just checked again -- both charges for ORD-35325 are settled now, not pending. Tracking for ORD-94908 hasn't updated since Tuesday. The box for ORD-29283 was a bit crushed but the contents were fine.
+
+Best regards,
+Priya Raman
+
+--- message 5 from Dana (support) ---
+If you need an invoice for ORD-52027, you can download it from the Orders page. Our warehouse shows ORD-52027 left on schedule. Thanks for reaching out, and sorry for the trouble.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Dana (support) ---
+You're right, and I'm sorry. Our records show ORD-35325 was settled two times. I've refunded the duplicate. Tracking updates can lag by a day or two with this carrier. Let me know if anything else looks off.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Priya Raman ---
+Tracking for ORD-29283 hasn't updated since Tuesday. Is there a way to combine loyalty points from ORD-94908 with my next purchase? The confirmation email for ORD-94908 went to my spam folder, so I only just saw it. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Priya Raman
+
+--- message 8 from Dana (support) ---
+Tracking updates can lag by a day or two with this carrier. Loyalty points post about a week after an order is delivered. Let me know if anything else looks off. I've resent the confirmation email for ORD-52027 to the address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

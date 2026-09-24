@@ -1,0 +1,71 @@
+Ticket T-8954
+Customer: Elena Petrova
+Orders on file: ORD-47381, ORD-56905, ORD-33936, ORD-83856
+Opened: 2026-05-10 via chat transcript
+
+Order details:
+ORD-47381  placed 2026-08-05  status: returned  total: $235.77
+  payment method: card ending 6700  ship to: 193 Oak Lane
+  - desk lamp x1
+  - carabiner set x2
+  - extended warranty, 2 years x1
+  - microfiber cloth x1
+ORD-56905  placed 2026-03-08  status: in transit  total: $124.67
+  payment method: card ending 6958  ship to: 169 Mill Lane
+  - noise-cancelling headphones x1
+  - gift wrap x1
+  - stainless water bottle, 750ml x1
+  - replacement filter cartridge, 3-pack x1
+ORD-33936  placed 2026-03-15  status: returned  total: $442.84
+  payment method: card ending 6755  ship to: 85 Elm Ave
+  - blender x1
+  - stainless water bottle, 750ml x2
+  - USB-C charging cable (2m) x3
+ORD-83856  placed 2026-07-01  status: delivered  total: $57.83
+  payment method: card ending 3329  ship to: 860 Harbor Lane
+  - wool blanket x1
+  - carabiner set x2
+  - extended warranty, 2 years x1
+  - gift wrap x3
+  - USB-C charging cable (2m) x1
+
+--- message 1 from Elena Petrova ---
+Can I use a gift card on ORD-56905, or is it too late? I'd rather not call; the hold times last time were very long. I'm happy to send screenshots if that helps. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Elena Petrova
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Luis (support) ---
+If you need an invoice for ORD-56905, you can download it from the Orders page. I've resent the confirmation email for ORD-56905 to the address on file. Screenshots aren't necessary, but thank you for offering. Loyalty points post about a week after an order is delivered.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Elena Petrova ---
+My earlier order ORD-47381 arrived fine, no complaints there. Is there a way to combine loyalty points from ORD-47381 with my next purchase? Could you also tell me whether ORD-56905 qualifies for the extended return window? I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Elena Petrova
+
+--- message 4 from Luis (support) ---
+Let me know if anything else looks off. I can see all the orders on your account, including ORD-47381. Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-47381 to the address on file.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Elena Petrova ---
+The camping stove itself is great, for what it's worth. My earlier order ORD-47381 arrived fine, no complaints there. I tried the chat widget first but it kept disconnecting. Tracking for ORD-56905 hasn't updated since Tuesday.
+
+Thanks,
+Elena Petrova
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Luis (support) ---
+For ORD-56905, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context. I can see all the orders on your account, including ORD-83856. Tracking updates can lag by a day or two with this carrier.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

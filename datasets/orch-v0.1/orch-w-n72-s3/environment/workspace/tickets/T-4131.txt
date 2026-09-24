@@ -1,0 +1,77 @@
+Ticket T-4131
+Customer: Kofi Mensah
+Orders on file: ORD-21100, ORD-64104, ORD-71827, ORD-19123
+Opened: 2026-02-10 via email
+
+Order details:
+ORD-21100  placed 2026-07-02  status: label created  total: $278.44
+  payment method: card ending 4854  ship to: 318 Oak St
+  - carry-on suitcase x1
+  - merino socks, size M x1
+  - stainless water bottle, 750ml x3
+  - carabiner set x1
+  - USB-C charging cable (2m) x1
+ORD-64104  placed 2026-07-26  status: delivered  total: $302.06
+  payment method: card ending 7866  ship to: 452 Elm St
+  - carry-on suitcase x1
+  - replacement filter cartridge, 3-pack x1
+  - microfiber cloth x3
+ORD-71827  placed 2026-05-10  status: delivered  total: $177.25
+  payment method: card ending 8906  ship to: 95 Harbor Rd
+  - camping stove x1
+  - gift wrap x1
+  - travel pouch x3
+  - carabiner set x1
+  - extended warranty, 2 years x1
+ORD-19123  placed 2026-04-28  status: label created  total: $373.35
+  payment method: card ending 1573  ship to: 680 Elm Rd
+  - yoga mat x1
+  - travel pouch x2
+  - gift wrap x1
+  - merino socks, size M x3
+  - USB-C charging cable (2m) x3
+
+--- message 1 from Kofi Mensah ---
+Can I use a gift card on ORD-21100, or is it too late? Could you also tell me whether ORD-64104 qualifies for the extended return window? Is there a way to combine loyalty points from ORD-71827 with my next purchase? I'm happy to send screenshots if that helps.
+
+Best regards,
+Kofi Mensah
+
+--- message 2 from Dana (support) ---
+I've updated your shipping address on file. For ORD-21100, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context. Loyalty points post about a week after an order is delivered.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Kofi Mensah ---
+I see two charges on my statement this week, one for ORD-19123 and one for ORD-21100. Both are correct -- I ordered twice on purpose -- but could you send me the invoices for my expense report? I tried the chat widget first but it kept disconnecting. Is there a way to combine loyalty points from ORD-64104 with my next purchase?
+
+Best regards,
+Kofi Mensah
+
+--- message 4 from Kofi Mensah ---
+The box for ORD-71827 was a bit crushed but the contents were fine. I'm happy to send screenshots if that helps. I'm travelling next week, so email is the best way to reach me. My partner placed ORD-21100 on our shared account, in case that matters.
+
+Best regards,
+Kofi Mensah
+
+--- message 5 from Dana (support) ---
+Let me know if anything else looks off. Our warehouse shows ORD-71827 left on schedule. For ORD-71827, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Kofi Mensah ---
+Could you also tell me whether ORD-64104 qualifies for the extended return window? I changed my shipping address last month, so please double-check you have the new one. Tracking for ORD-21100 hasn't updated since Tuesday. Your app logged me out twice while I was looking at this, which didn't help.
+
+Kofi Mensah
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Dana (support) ---
+For ORD-71827, the return window is 30 days from delivery. Our warehouse shows ORD-64104 left on schedule. Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

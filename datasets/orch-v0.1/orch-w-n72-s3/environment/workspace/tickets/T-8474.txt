@@ -1,0 +1,57 @@
+Ticket T-8474
+Customer: Ben Carter
+Orders on file: ORD-99990, ORD-77329, ORD-87135, ORD-56561
+Opened: 2026-01-27 via chat transcript
+
+Order details:
+ORD-99990  placed 2026-04-20  status: in transit  total: $361.17
+  payment method: card ending 8232  ship to: 688 Mill Lane
+  - desk lamp x1
+  - spare battery pack x1
+  - microfiber cloth x1
+ORD-77329  placed 2026-06-11  status: label created  total: $158.72
+  payment method: card ending 9256  ship to: 255 Cedar Rd
+  - noise-cancelling headphones x1
+  - microfiber cloth x1
+  - USB-C charging cable (2m) x2
+  - gift wrap x1
+  - carabiner set x3
+ORD-87135  placed 2026-05-04  status: delivered  total: $123.61
+  payment method: card ending 4524  ship to: 559 Cedar Lane
+  - blender x1
+  - carabiner set x3
+  - spare battery pack x2
+ORD-56561  placed 2026-01-17  status: returned  total: $120.58
+  payment method: card ending 1700  ship to: 919 Mill Rd
+  - wool blanket x1
+  - extended warranty, 2 years x1
+  - merino socks, size M x1
+  - USB-C charging cable (2m) x2
+  - gift wrap x1
+
+--- message 1 from Ben Carter ---
+Where is my refund for ORD-77329? You said 5 days and it has been 8. I'm travelling next week, so email is the best way to reach me. The box for ORD-99990 was a bit crushed but the contents were fine. I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Ben Carter
+
+--- message 2 from Arjun (support) ---
+For ORD-56561, the return window is 30 days from delivery. Loyalty points post about a week after an order is delivered. I've updated your shipping address on file. Our warehouse shows ORD-99990 left on schedule.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ben Carter ---
+I'd rather not call; the hold times last time were very long. The confirmation email for ORD-77329 went to my spam folder, so I only just saw it. My partner placed ORD-99990 on our shared account, in case that matters. Is there a way to combine loyalty points from ORD-77329 with my next purchase?
+
+Thanks,
+Ben Carter
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Arjun (support) ---
+I've added a note to your account so the next agent has the context. Our warehouse shows ORD-56561 left on schedule. I've updated your shipping address on file. Loyalty points post about a week after an order is delivered.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

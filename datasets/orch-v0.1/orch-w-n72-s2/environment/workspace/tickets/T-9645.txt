@@ -1,0 +1,71 @@
+Ticket T-9645
+Customer: Avery Lin
+Orders on file: ORD-38412, ORD-71794, ORD-81068, ORD-97849
+Opened: 2026-01-06 via email
+
+Order details:
+ORD-38412  placed 2026-01-24  status: in transit  total: $75.25
+  payment method: card ending 8999  ship to: 303 Mill Ave
+  - cast iron skillet x1
+  - extended warranty, 2 years x2
+  - carabiner set x1
+  - stainless water bottle, 750ml x2
+ORD-71794  placed 2026-06-13  status: in transit  total: $238.86
+  payment method: card ending 9376  ship to: 123 Elm Rd
+  - carry-on suitcase x1
+  - extended warranty, 2 years x3
+  - merino socks, size M x2
+  - USB-C charging cable (2m) x3
+  - travel pouch x2
+ORD-81068  placed 2026-07-10  status: in transit  total: $441.83
+  payment method: card ending 3560  ship to: 466 Mill Lane
+  - wool blanket x1
+  - stainless water bottle, 750ml x3
+  - travel pouch x1
+  - USB-C charging cable (2m) x1
+ORD-97849  placed 2026-04-25  status: label created  total: $44.97
+  payment method: card ending 9558  ship to: 463 Oak Lane
+  - carry-on suitcase x1
+  - spare battery pack x1
+  - USB-C charging cable (2m) x2
+  - stainless water bottle, 750ml x1
+
+--- message 1 from Avery Lin ---
+Can I use a gift card on ORD-71794, or is it too late? The confirmation email for ORD-71794 went to my spam folder, so I only just saw it. The noise-cancelling headphones itself is great, for what it's worth. I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Avery Lin
+
+--- message 2 from Keiko (support) ---
+Tracking updates can lag by a day or two with this carrier. I can see all the orders on your account, including ORD-81068. Let me know if anything else looks off. For ORD-81068, the return window is 30 days from delivery.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Avery Lin ---
+I've been a customer for a few years and usually everything goes smoothly. Could you also tell me whether ORD-71794 qualifies for the extended return window? Tracking for ORD-71794 hasn't updated since Tuesday. The camping stove itself is great, for what it's worth.
+
+Avery Lin
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Keiko (support) ---
+If you need an invoice for ORD-97849, you can download it from the Orders page. Our warehouse shows ORD-81068 left on schedule. I've resent the confirmation email for ORD-97849 to the address on file. Screenshots aren't necessary, but thank you for offering.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Avery Lin ---
+I'm happy to send screenshots if that helps. I tried the chat widget first but it kept disconnecting. Could you also tell me whether ORD-97849 qualifies for the extended return window? I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Avery Lin
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Keiko (support) ---
+I can see all the orders on your account, including ORD-71794. Our warehouse shows ORD-71794 left on schedule. If you need an invoice for ORD-97849, you can download it from the Orders page. I've updated your shipping address on file.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

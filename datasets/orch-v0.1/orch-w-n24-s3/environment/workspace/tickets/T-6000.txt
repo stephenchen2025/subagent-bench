@@ -1,0 +1,69 @@
+Ticket T-6000
+Customer: Ravi Iyer
+Orders on file: ORD-33967, ORD-73848, ORD-35961, ORD-47144
+Opened: 2026-08-03 via email
+
+Order details:
+ORD-33967  placed 2026-08-21  status: returned  total: $26.29
+  payment method: card ending 6567  ship to: 875 Harbor Ave
+  - wool blanket x1
+  - stainless water bottle, 750ml x3
+  - merino socks, size M x1
+  - replacement filter cartridge, 3-pack x3
+ORD-73848  placed 2026-05-22  status: delivered  total: $130.62
+  payment method: card ending 3677  ship to: 548 Oak Lane
+  - water filter pitcher x1
+  - microfiber cloth x3
+  - merino socks, size M x1
+ORD-35961  placed 2026-04-15  status: returned  total: $456.86
+  payment method: card ending 2794  ship to: 432 Cedar Rd
+  - blender x1
+  - USB-C charging cable (2m) x2
+  - extended warranty, 2 years x1
+  - spare battery pack x1
+ORD-47144  placed 2026-03-05  status: in transit  total: $392.46
+  payment method: card ending 9529  ship to: 720 Oak St
+  - yoga mat x1
+  - merino socks, size M x3
+  - spare battery pack x2
+  - gift wrap x1
+  - replacement filter cartridge, 3-pack x2
+
+--- message 1 from Ravi Iyer ---
+I need to change the delivery address for ORD-73848 before it ships. My partner placed ORD-35961 on our shared account, in case that matters. Tracking for ORD-33967 hasn't updated since Tuesday. Your app logged me out twice while I was looking at this, which didn't help.
+
+Ravi Iyer
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Arjun (support) ---
+Thanks for reaching out, and sorry for the trouble. I've resent the confirmation email for ORD-73848 to the address on file. For ORD-73848, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ravi Iyer ---
+Your app logged me out twice while I was looking at this, which didn't help. The confirmation email for ORD-33967 went to my spam folder, so I only just saw it. My earlier order ORD-35961 arrived fine, no complaints there. The box for ORD-73848 was a bit crushed but the contents were fine.
+
+Ravi Iyer
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Arjun (support) ---
+I've updated your shipping address on file. Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Ravi Iyer ---
+My partner placed ORD-35961 on our shared account, in case that matters. I'd rather not call; the hold times last time were very long. My earlier order ORD-73848 arrived fine, no complaints there. I've been a customer for a few years and usually everything goes smoothly.
+
+Ravi Iyer
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Arjun (support) ---
+I've updated your shipping address on file. Screenshots aren't necessary, but thank you for offering. Our warehouse shows ORD-73848 left on schedule. Let me know if anything else looks off.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

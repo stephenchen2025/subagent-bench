@@ -1,0 +1,60 @@
+Ticket T-4257
+Customer: Grace Mwangi
+Orders on file: ORD-12941, ORD-47965, ORD-28315, ORD-49167
+Opened: 2026-05-05 via email
+
+Order details:
+ORD-12941  placed 2026-07-13  status: label created  total: $174.52
+  payment method: card ending 5358  ship to: 153 Cedar Ave
+  - trail running shoes x1
+  - replacement filter cartridge, 3-pack x3
+  - stainless water bottle, 750ml x1
+  - carabiner set x1
+  - gift wrap x2
+ORD-47965  placed 2026-08-14  status: delivered  total: $72.08
+  payment method: card ending 3574  ship to: 745 Cedar Rd
+  - trail running shoes x1
+  - gift wrap x2
+  - stainless water bottle, 750ml x3
+  - travel pouch x2
+  - merino socks, size M x3
+ORD-28315  placed 2026-04-13  status: label created  total: $368.89
+  payment method: card ending 4568  ship to: 337 Harbor Rd
+  - bike light set x1
+  - stainless water bottle, 750ml x2
+  - merino socks, size M x1
+ORD-49167  placed 2026-01-18  status: label created  total: $51.02
+  payment method: card ending 6381  ship to: 311 Mill Rd
+  - carry-on suitcase x1
+  - replacement filter cartridge, 3-pack x3
+  - merino socks, size M x3
+  - microfiber cloth x1
+  - carabiner set x3
+
+--- message 1 from Grace Mwangi ---
+I need to change the delivery address for ORD-28315 before it ships. The yoga mat itself is great, for what it's worth. I tried the chat widget first but it kept disconnecting. I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Grace Mwangi
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Fatima (support) ---
+Let me know if anything else looks off. Tracking updates can lag by a day or two with this carrier. For ORD-28315, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Grace Mwangi ---
+My partner placed ORD-12941 on our shared account, in case that matters. The wool blanket itself is great, for what it's worth. I've been a customer for a few years and usually everything goes smoothly. Is there a way to combine loyalty points from ORD-12941 with my next purchase?
+
+Thanks,
+Grace Mwangi
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Fatima (support) ---
+Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context. For ORD-28315, the return window is 30 days from delivery. Let me know if anything else looks off.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

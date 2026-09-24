@@ -1,0 +1,78 @@
+Ticket T-2905
+Customer: Yuki Tanaka
+Orders on file: ORD-15599, ORD-92482, ORD-94205, ORD-22025
+Opened: 2026-06-22 via web form
+
+Order details:
+ORD-15599  placed 2026-05-20  status: in transit  total: $459.66
+  payment method: card ending 7642  ship to: 907 Harbor Ave
+  - wool blanket x1
+  - USB-C charging cable (2m) x2
+  - gift wrap x3
+  - replacement filter cartridge, 3-pack x1
+  - travel pouch x3
+ORD-92482  placed 2026-07-08  status: delivered  total: $383.92
+  payment method: card ending 4102  ship to: 783 Oak Ave
+  - yoga mat x1
+  - replacement filter cartridge, 3-pack x3
+  - USB-C charging cable (2m) x1
+  - spare battery pack x3
+  - microfiber cloth x3
+ORD-94205  placed 2026-03-02  status: returned  total: $411.31
+  payment method: card ending 8208  ship to: 618 Elm Rd
+  - cast iron skillet x1
+  - replacement filter cartridge, 3-pack x2
+  - carabiner set x1
+ORD-22025  placed 2026-06-16  status: delivered  total: $234.24
+  payment method: card ending 5394  ship to: 534 Harbor Rd
+  - standing desk x1
+  - spare battery pack x2
+  - replacement filter cartridge, 3-pack x1
+  - microfiber cloth x1
+  - USB-C charging cable (2m) x2
+
+--- message 1 from Yuki Tanaka ---
+How do I reset my password? The reset link keeps expiring. Your app logged me out twice while I was looking at this, which didn't help. My partner placed ORD-22025 on our shared account, in case that matters. My earlier order ORD-22025 arrived fine, no complaints there.
+
+Best regards,
+Yuki Tanaka
+
+--- message 2 from Keiko (support) ---
+For ORD-15599, the return window is 30 days from delivery. I can see all the orders on your account, including ORD-92482. If you need an invoice for ORD-92482, you can download it from the Orders page. I've updated your shipping address on file.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Yuki Tanaka ---
+The checkout page for ORD-94205 timed out. If I try to pay again, will I end up being charged twice? I changed my shipping address last month, so please double-check you have the new one. Your app logged me out twice while I was looking at this, which didn't help.
+
+Yuki Tanaka
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Keiko (support) ---
+I've added a note to your account so the next agent has the context. If you need an invoice for ORD-92482, you can download it from the Orders page. For ORD-92482, the return window is 30 days from delivery.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Keiko (support) ---
+No, you won't be charged twice: the first attempt for ORD-94205 failed before capture, so retrying is safe. I've updated your shipping address on file. I've added a note to your account so the next agent has the context.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Yuki Tanaka ---
+Your app logged me out twice while I was looking at this, which didn't help. I tried the chat widget first but it kept disconnecting. I'd rather not call; the hold times last time were very long. I've been a customer for a few years and usually everything goes smoothly.
+
+Yuki Tanaka
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Keiko (support) ---
+If you need an invoice for ORD-15599, you can download it from the Orders page. I've added a note to your account so the next agent has the context. Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

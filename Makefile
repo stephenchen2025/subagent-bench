@@ -38,14 +38,14 @@ milestone1: ## Run Milestone 1 for real: both default models, resumable, cost-gu
 
 # --- orchestrator track (ORCHESTRATOR.md) -------------------------------------
 
-orch-generate: ## Emit the orchestrator-track task set as Harbor tasks into build/orch/tasks
+orch-generate: ## Regenerate the checked-in task set, datasets/orch-v0.1
 	python tools/orch_generate.py
 
 orch-rehearse: ## Rehearse the orchestrator track with scripted policies (no model, no key; needs mini)
 	python tools/orch_rehearse.py
 
-orch-validate: orch-generate ## Prove every task solvable: Harbor's oracle agent must score 1.0 (needs Docker)
-	cd build/orch && harbor run -p tasks -a oracle -n 4 -o jobs-oracle -y
+orch-validate: ## Prove every task solvable: Harbor's oracle agent must score 1.0 (needs Docker)
+	harbor run -p datasets/orch-v0.1 -a oracle -n 4 -o build/jobs-oracle -y
 
 orch-run: ## Real run, no Docker: MODELS="anthropic/claude-sonnet-5" (needs ANTHROPIC_API_KEY)
 	python tools/orch_run.py --models $(MODELS)

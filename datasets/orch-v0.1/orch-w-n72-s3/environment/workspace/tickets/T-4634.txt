@@ -1,0 +1,62 @@
+Ticket T-4634
+Customer: Diego Alvarez
+Orders on file: ORD-52550, ORD-51034, ORD-12039, ORD-88598
+Opened: 2026-06-18 via web form
+
+Order details:
+ORD-52550  placed 2026-05-15  status: label created  total: $426.20
+  payment method: card ending 4950  ship to: 596 Elm Ave
+  - rain jacket x1
+  - stainless water bottle, 750ml x2
+  - spare battery pack x1
+  - travel pouch x1
+ORD-51034  placed 2026-04-13  status: delivered  total: $434.11
+  payment method: card ending 4194  ship to: 659 Cedar St
+  - espresso grinder x1
+  - USB-C charging cable (2m) x1
+  - extended warranty, 2 years x3
+ORD-12039  placed 2026-02-28  status: in transit  total: $268.36
+  payment method: card ending 8720  ship to: 911 Oak Ave
+  - wool blanket x1
+  - carabiner set x1
+  - stainless water bottle, 750ml x2
+  - travel pouch x2
+ORD-88598  placed 2026-02-06  status: delivered  total: $408.87
+  payment method: card ending 5212  ship to: 590 Elm St
+  - wool blanket x1
+  - carabiner set x3
+  - merino socks, size M x2
+  - replacement filter cartridge, 3-pack x3
+
+--- message 1 from Diego Alvarez ---
+The rain jacket from ORD-88598 arrived with a scratch on the side. Can I get a replacement? My partner placed ORD-88598 on our shared account, in case that matters. Could you also tell me whether ORD-12039 qualifies for the extended return window? I'm happy to send screenshots if that helps.
+
+Best regards,
+Diego Alvarez
+
+--- message 2 from Fatima (support) ---
+Our warehouse shows ORD-12039 left on schedule. Tracking updates can lag by a day or two with this carrier. For ORD-88598, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Diego Alvarez ---
+Not your fault, but my gym billed me twice this month, which is why I'm nervous about ORD-52550. Everything on your side looks like a single charge, I just wanted to confirm the delivery date. Tracking for ORD-12039 hasn't updated since Tuesday. The box for ORD-12039 was a bit crushed but the contents were fine.
+
+Thanks,
+Diego Alvarez
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Diego Alvarez ---
+My partner placed ORD-12039 on our shared account, in case that matters. Is there a way to combine loyalty points from ORD-51034 with my next purchase? Your app logged me out twice while I was looking at this, which didn't help. The confirmation email for ORD-88598 went to my spam folder, so I only just saw it.
+
+Diego Alvarez
+(Please reply by email rather than phone if possible.)
+
+--- message 5 from Fatima (support) ---
+I can see all the orders on your account, including ORD-51034. Our warehouse shows ORD-51034 left on schedule. I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-51034 to the address on file.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

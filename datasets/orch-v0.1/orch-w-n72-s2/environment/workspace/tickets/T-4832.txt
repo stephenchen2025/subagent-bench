@@ -1,0 +1,109 @@
+Ticket T-4832
+Customer: Grace Mwangi
+Orders on file: ORD-68740, ORD-16999, ORD-82595, ORD-52626
+Opened: 2026-01-21 via email
+
+Order details:
+ORD-68740  placed 2026-08-22  status: delivered  total: $448.99
+  payment method: card ending 5551  ship to: 191 Oak Ave
+  - wool blanket x1
+  - merino socks, size M x2
+  - extended warranty, 2 years x3
+ORD-16999  placed 2026-04-09  status: label created  total: $314.96
+  payment method: card ending 5185  ship to: 470 Cedar Lane
+  - trail running shoes x1
+  - extended warranty, 2 years x3
+  - stainless water bottle, 750ml x2
+  - USB-C charging cable (2m) x1
+  - replacement filter cartridge, 3-pack x3
+ORD-82595  placed 2026-04-16  status: delivered  total: $106.48
+  payment method: card ending 3727  ship to: 443 Mill Rd
+  - espresso grinder x1
+  - spare battery pack x3
+  - replacement filter cartridge, 3-pack x2
+  - travel pouch x3
+ORD-52626  placed 2026-04-01  status: returned  total: $133.48
+  payment method: card ending 1915  ship to: 41 Harbor Rd
+  - trail running shoes x1
+  - travel pouch x2
+  - spare battery pack x3
+
+--- message 1 from Grace Mwangi ---
+Where is my refund for ORD-16999? You said 5 days and it has been 8. I'm happy to send screenshots if that helps. The box for ORD-82595 was a bit crushed but the contents were fine. I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Grace Mwangi
+
+--- message 2 from Marcus (support) ---
+I've resent the confirmation email for ORD-16999 to the address on file. Loyalty points post about a week after an order is delivered. Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Grace Mwangi ---
+There are two identical debits on my online banking and both reference ORD-52626. Is there a way to combine loyalty points from ORD-16999 with my next purchase? I tried the chat widget first but it kept disconnecting.
+
+Grace Mwangi
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Marcus (support) ---
+Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context. Screenshots aren't necessary, but thank you for offering.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Marcus (support) ---
+Our payment logs show a single capture for ORD-52626. The extra line you saw was an authorization that expired on its own -- no money was taken for it. If you need an invoice for ORD-68740, you can download it from the Orders page. For ORD-82595, the return window is 30 days from delivery.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Grace Mwangi ---
+I tried the chat widget first but it kept disconnecting. Could you also tell me whether ORD-82595 qualifies for the extended return window? The rain jacket itself is great, for what it's worth.
+
+Best regards,
+Grace Mwangi
+
+--- message 7 from Grace Mwangi ---
+Thanks, I see it now: one payment for ORD-52626, the other one disappeared. All good. I'm travelling next week, so email is the best way to reach me. Your app logged me out twice while I was looking at this, which didn't help.
+
+Best regards,
+Grace Mwangi
+
+--- message 8 from Marcus (support) ---
+Screenshots aren't necessary, but thank you for offering. I've added a note to your account so the next agent has the context. Loyalty points post about a week after an order is delivered.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Grace Mwangi ---
+I'm travelling next week, so email is the best way to reach me. My partner placed ORD-68740 on our shared account, in case that matters. Tracking for ORD-16999 hasn't updated since Tuesday. The confirmation email for ORD-68740 went to my spam folder, so I only just saw it.
+
+Thanks,
+Grace Mwangi
+Sent from my phone -- please excuse typos.
+
+--- message 10 from Marcus (support) ---
+Let me know if anything else looks off. For ORD-16999, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-68740 to the address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 11 from Grace Mwangi ---
+I've been a customer for a few years and usually everything goes smoothly. Is there a way to combine loyalty points from ORD-68740 with my next purchase? I changed my shipping address last month, so please double-check you have the new one. Could you also tell me whether ORD-82595 qualifies for the extended return window?
+
+Thanks,
+Grace Mwangi
+Sent from my phone -- please excuse typos.
+
+--- message 12 from Marcus (support) ---
+I can see all the orders on your account, including ORD-82595. Screenshots aren't necessary, but thank you for offering. Let me know if anything else looks off. For ORD-68740, the return window is 30 days from delivery.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

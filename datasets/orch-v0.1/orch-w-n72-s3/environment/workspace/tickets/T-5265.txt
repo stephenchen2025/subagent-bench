@@ -1,0 +1,81 @@
+Ticket T-5265
+Customer: Mateo Silva
+Orders on file: ORD-76097, ORD-57926, ORD-82938, ORD-70581
+Opened: 2026-02-14 via web form
+
+Order details:
+ORD-76097  placed 2026-08-25  status: delivered  total: $219.52
+  payment method: card ending 5665  ship to: 868 Harbor Ave
+  - desk lamp x1
+  - microfiber cloth x3
+  - gift wrap x2
+ORD-57926  placed 2026-07-01  status: in transit  total: $309.70
+  payment method: card ending 8234  ship to: 101 Mill Rd
+  - bike light set x1
+  - USB-C charging cable (2m) x3
+  - gift wrap x2
+  - stainless water bottle, 750ml x1
+ORD-82938  placed 2026-02-26  status: in transit  total: $146.16
+  payment method: card ending 2769  ship to: 480 Cedar St
+  - espresso grinder x1
+  - replacement filter cartridge, 3-pack x3
+  - extended warranty, 2 years x1
+ORD-70581  placed 2026-05-13  status: delivered  total: $159.26
+  payment method: card ending 1712  ship to: 438 Oak Rd
+  - rain jacket x1
+  - stainless water bottle, 750ml x2
+  - carabiner set x3
+  - microfiber cloth x2
+  - extended warranty, 2 years x3
+
+--- message 1 from Mateo Silva ---
+How do I reset my password? The reset link keeps expiring. I tried the chat widget first but it kept disconnecting. My earlier order ORD-57926 arrived fine, no complaints there. My partner placed ORD-57926 on our shared account, in case that matters.
+
+Mateo Silva
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Keiko (support) ---
+I've resent the confirmation email for ORD-70581 to the address on file. Tracking updates can lag by a day or two with this carrier. For ORD-82938, the return window is 30 days from delivery. Thanks for reaching out, and sorry for the trouble.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Mateo Silva ---
+Duplicate charge on ORD-76097, please refund one of them. I'm travelling next week, so email is the best way to reach me. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Mateo Silva
+
+--- message 4 from Keiko (support) ---
+Let me know if anything else looks off. Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Mateo Silva ---
+I'd rather not call; the hold times last time were very long. My earlier order ORD-57926 arrived fine, no complaints there. Is there a way to combine loyalty points from ORD-57926 with my next purchase? I've been a customer for a few years and usually everything goes smoothly.
+
+Mateo Silva
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Keiko (support) ---
+Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context. Screenshots aren't necessary, but thank you for offering.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Mateo Silva ---
+Tracking for ORD-70581 hasn't updated since Tuesday. I tried the chat widget first but it kept disconnecting. Your app logged me out twice while I was looking at this, which didn't help. My partner placed ORD-82938 on our shared account, in case that matters.
+
+Best regards,
+Mateo Silva
+
+--- message 8 from Keiko (support) ---
+Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context. I can see all the orders on your account, including ORD-82938. If you need an invoice for ORD-70581, you can download it from the Orders page.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

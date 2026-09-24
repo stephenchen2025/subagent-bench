@@ -1,0 +1,57 @@
+Ticket T-7129
+Customer: Ravi Iyer
+Orders on file: ORD-73353, ORD-15837, ORD-35971, ORD-12048
+Opened: 2026-01-25 via web form
+
+Order details:
+ORD-73353  placed 2026-04-11  status: delivered  total: $333.12
+  payment method: card ending 6036  ship to: 529 Elm Ave
+  - cast iron skillet x1
+  - stainless water bottle, 750ml x2
+  - carabiner set x3
+  - USB-C charging cable (2m) x3
+  - merino socks, size M x2
+ORD-15837  placed 2026-06-12  status: in transit  total: $68.36
+  payment method: card ending 2465  ship to: 119 Mill Ave
+  - espresso grinder x1
+  - replacement filter cartridge, 3-pack x3
+  - spare battery pack x3
+  - stainless water bottle, 750ml x2
+ORD-35971  placed 2026-02-24  status: delivered  total: $264.58
+  payment method: card ending 3601  ship to: 899 Harbor St
+  - bike light set x1
+  - carabiner set x2
+  - stainless water bottle, 750ml x2
+  - extended warranty, 2 years x2
+ORD-12048  placed 2026-05-16  status: delivered  total: $174.20
+  payment method: card ending 1786  ship to: 846 Elm Rd
+  - noise-cancelling headphones x1
+  - spare battery pack x2
+  - travel pouch x3
+  - stainless water bottle, 750ml x2
+
+--- message 1 from Ravi Iyer ---
+I need to change the delivery address for ORD-15837 before it ships. The confirmation email for ORD-35971 went to my spam folder, so I only just saw it. I'd rather not call; the hold times last time were very long. I'm travelling next week, so email is the best way to reach me.
+
+Ravi Iyer
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Keiko (support) ---
+Our warehouse shows ORD-15837 left on schedule. I can see all the orders on your account, including ORD-15837. Screenshots aren't necessary, but thank you for offering. For ORD-35971, the return window is 30 days from delivery.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ravi Iyer ---
+The box for ORD-15837 was a bit crushed but the contents were fine. My earlier order ORD-35971 arrived fine, no complaints there. I tried the chat widget first but it kept disconnecting. Could you also tell me whether ORD-15837 qualifies for the extended return window?
+
+Ravi Iyer
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Keiko (support) ---
+Our warehouse shows ORD-35971 left on schedule. Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off. I've added a note to your account so the next agent has the context.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

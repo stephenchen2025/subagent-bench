@@ -1,0 +1,56 @@
+{
+  "matches": [
+    {
+      "ticket": "T-1855",
+      "order": "ORD-56748"
+    },
+    {
+      "ticket": "T-2642",
+      "order": "ORD-83401"
+    },
+    {
+      "ticket": "T-5972",
+      "order": "ORD-18596"
+    },
+    {
+      "ticket": "T-7095",
+      "order": "ORD-79099"
+    },
+    {
+      "ticket": "T-7362",
+      "order": "ORD-61216"
+    },
+    {
+      "ticket": "T-7591",
+      "order": "ORD-16888"
+    }
+  ],
+  "kinds": {
+    "T-4929": "neg",
+    "T-4875": "dec_hold",
+    "T-8907": "dec_hypothetical",
+    "T-2642": "pos_later",
+    "T-7963": "dec_other_merchant",
+    "T-9061": "dec_hypothetical",
+    "T-5014": "neg",
+    "T-9528": "dec_two_orders",
+    "T-1652": "neg",
+    "T-7095": "pos_later",
+    "T-6412": "neg",
+    "T-9330": "dec_hold",
+    "T-7362": "pos_direct",
+    "T-8236": "dec_other_merchant",
+    "T-1855": "pos_direct",
+    "T-5972": "pos_later",
+    "T-3037": "dec_two_orders",
+    "T-9084": "neg",
+    "T-5480": "neg",
+    "T-1900": "neg",
+    "T-3758": "neg",
+    "T-4934": "neg",
+    "T-7591": "pos_direct",
+    "T-2158": "neg"
+  },
+  "family": "W",
+  "task_id": "orch-w-n24-s1"
+}

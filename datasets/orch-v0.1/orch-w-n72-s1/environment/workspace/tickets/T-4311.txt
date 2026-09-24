@@ -1,0 +1,81 @@
+Ticket T-4311
+Customer: Elena Petrova
+Orders on file: ORD-78061, ORD-43796, ORD-24050, ORD-98803
+Opened: 2026-08-20 via chat transcript
+
+Order details:
+ORD-78061  placed 2026-03-04  status: returned  total: $324.73
+  payment method: card ending 8060  ship to: 664 Oak St
+  - camping stove x1
+  - carabiner set x2
+  - stainless water bottle, 750ml x3
+ORD-43796  placed 2026-08-02  status: label created  total: $53.37
+  payment method: card ending 2292  ship to: 482 Mill Lane
+  - mechanical keyboard x1
+  - merino socks, size M x1
+  - microfiber cloth x3
+  - carabiner set x2
+ORD-24050  placed 2026-08-21  status: in transit  total: $477.24
+  payment method: card ending 5869  ship to: 684 Harbor St
+  - blender x1
+  - microfiber cloth x2
+  - carabiner set x1
+ORD-98803  placed 2026-07-21  status: delivered  total: $84.07
+  payment method: card ending 7739  ship to: 859 Harbor Rd
+  - cast iron skillet x1
+  - microfiber cloth x3
+  - spare battery pack x2
+  - gift wrap x2
+  - replacement filter cartridge, 3-pack x2
+
+--- message 1 from Elena Petrova ---
+Can I use a gift card on ORD-98803, or is it too late? Is there a way to combine loyalty points from ORD-43796 with my next purchase? My earlier order ORD-78061 arrived fine, no complaints there. My partner placed ORD-43796 on our shared account, in case that matters.
+
+Elena Petrova
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Keiko (support) ---
+I've updated your shipping address on file. I've resent the confirmation email for ORD-78061 to the address on file. Our warehouse shows ORD-43796 left on schedule. Screenshots aren't necessary, but thank you for offering.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Elena Petrova ---
+The checkout page for ORD-24050 timed out. If I try to pay again, will I end up being charged twice? My earlier order ORD-78061 arrived fine, no complaints there. My partner placed ORD-78061 on our shared account, in case that matters.
+
+Elena Petrova
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Keiko (support) ---
+No, you won't be charged twice: the first attempt for ORD-24050 failed before capture, so retrying is safe. I've updated your shipping address on file. If you need an invoice for ORD-43796, you can download it from the Orders page.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Elena Petrova ---
+My earlier order ORD-78061 arrived fine, no complaints there. The box for ORD-43796 was a bit crushed but the contents were fine. I'm happy to send screenshots if that helps. I've been a customer for a few years and usually everything goes smoothly.
+
+Elena Petrova
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Keiko (support) ---
+I've resent the confirmation email for ORD-98803 to the address on file. Loyalty points post about a week after an order is delivered. Thanks for reaching out, and sorry for the trouble. I've updated your shipping address on file.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Elena Petrova ---
+I've been a customer for a few years and usually everything goes smoothly. Tracking for ORD-78061 hasn't updated since Tuesday. My earlier order ORD-78061 arrived fine, no complaints there. My partner placed ORD-43796 on our shared account, in case that matters.
+
+Best regards,
+Elena Petrova
+
+--- message 8 from Keiko (support) ---
+If you need an invoice for ORD-43796, you can download it from the Orders page. Tracking updates can lag by a day or two with this carrier. For ORD-43796, the return window is 30 days from delivery. I've resent the confirmation email for ORD-98803 to the address on file.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

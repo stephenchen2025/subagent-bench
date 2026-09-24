@@ -1,0 +1,57 @@
+Ticket T-2831
+Customer: Priya Raman
+Orders on file: ORD-28208, ORD-18257, ORD-97277, ORD-36696
+Opened: 2026-05-21 via web form
+
+Order details:
+ORD-28208  placed 2026-03-06  status: delivered  total: $384.67
+  payment method: card ending 9612  ship to: 260 Oak St
+  - wool blanket x1
+  - carabiner set x2
+  - travel pouch x2
+  - stainless water bottle, 750ml x2
+  - replacement filter cartridge, 3-pack x1
+ORD-18257  placed 2026-05-17  status: label created  total: $57.29
+  payment method: card ending 5901  ship to: 799 Elm St
+  - bike light set x1
+  - replacement filter cartridge, 3-pack x1
+  - carabiner set x2
+ORD-97277  placed 2026-06-26  status: in transit  total: $446.89
+  payment method: card ending 1128  ship to: 625 Elm Rd
+  - camping stove x1
+  - gift wrap x3
+  - extended warranty, 2 years x3
+ORD-36696  placed 2026-02-24  status: label created  total: $48.03
+  payment method: card ending 2444  ship to: 409 Oak Rd
+  - rain jacket x1
+  - travel pouch x2
+  - USB-C charging cable (2m) x1
+  - replacement filter cartridge, 3-pack x2
+  - merino socks, size M x3
+
+--- message 1 from Priya Raman ---
+I'd like to return the camping stove from ORD-18257; it's the wrong size. Your app logged me out twice while I was looking at this, which didn't help. My earlier order ORD-18257 arrived fine, no complaints there. Could you also tell me whether ORD-18257 qualifies for the extended return window?
+
+Thanks,
+Priya Raman
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Pete (support) ---
+Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble. I've resent the confirmation email for ORD-18257 to the address on file. If you need an invoice for ORD-36696, you can download it from the Orders page.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Priya Raman ---
+I tried the chat widget first but it kept disconnecting. Is there a way to combine loyalty points from ORD-36696 with my next purchase? My partner placed ORD-28208 on our shared account, in case that matters. The mechanical keyboard itself is great, for what it's worth.
+
+Priya Raman
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Pete (support) ---
+Our warehouse shows ORD-28208 left on schedule. Let me know if anything else looks off. I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,59 @@
+Ticket T-6725
+Customer: Liam O'Neill
+Orders on file: ORD-24064, ORD-32810, ORD-67351, ORD-35096
+Opened: 2026-05-18 via web form
+
+Order details:
+ORD-24064  placed 2026-01-22  status: delivered  total: $324.13
+  payment method: card ending 1354  ship to: 975 Mill Rd
+  - bike light set x1
+  - microfiber cloth x3
+  - stainless water bottle, 750ml x1
+  - spare battery pack x3
+ORD-32810  placed 2026-07-09  status: label created  total: $371.49
+  payment method: card ending 8248  ship to: 819 Mill Rd
+  - mechanical keyboard x1
+  - microfiber cloth x3
+  - USB-C charging cable (2m) x2
+ORD-67351  placed 2026-07-05  status: label created  total: $72.76
+  payment method: card ending 7841  ship to: 889 Cedar Ave
+  - noise-cancelling headphones x1
+  - gift wrap x2
+  - extended warranty, 2 years x1
+ORD-35096  placed 2026-07-19  status: returned  total: $113.42
+  payment method: card ending 9124  ship to: 105 Elm Ave
+  - bike light set x1
+  - carabiner set x3
+  - gift wrap x2
+
+--- message 1 from Liam O'Neill ---
+The espresso grinder from ORD-35096 arrived with a scratch on the side. Can I get a replacement? The confirmation email for ORD-24064 went to my spam folder, so I only just saw it. I'd rather not call; the hold times last time were very long. I'm travelling next week, so email is the best way to reach me.
+
+Liam O'Neill
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Marcus (support) ---
+I've added a note to your account so the next agent has the context. Let me know if anything else looks off. Tracking updates can lag by a day or two with this carrier. I've updated your shipping address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Liam O'Neill ---
+Not your fault, but my gym billed me twice this month, which is why I'm nervous about ORD-32810. Everything on your side looks like a single charge, I just wanted to confirm the delivery date. My earlier order ORD-67351 arrived fine, no complaints there. Your app logged me out twice while I was looking at this, which didn't help.
+
+Liam O'Neill
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Liam O'Neill ---
+The box for ORD-35096 was a bit crushed but the contents were fine. Is there a way to combine loyalty points from ORD-35096 with my next purchase? My partner placed ORD-24064 on our shared account, in case that matters. I'd rather not call; the hold times last time were very long.
+
+Liam O'Neill
+(Please reply by email rather than phone if possible.)
+
+--- message 5 from Marcus (support) ---
+Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context. Screenshots aren't necessary, but thank you for offering. Our warehouse shows ORD-24064 left on schedule.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

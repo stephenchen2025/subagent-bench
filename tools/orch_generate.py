@@ -1,13 +1,16 @@
 #!/usr/bin/env python3
 """Generate the orchestrator-track task set as Harbor task directories.
 
-    python tools/orch_generate.py                         # every family, default sizes, seeds 1-3
-    python tools/orch_generate.py --seeds 1 --families W P
-    python tools/orch_generate.py --sizes W=6,24,72,144   # bigger N for a 200k-window scaffold
+    python tools/orch_generate.py                         # regenerate datasets/orch-v0.1 (checked in)
+    python tools/orch_generate.py --seeds 1 --families W P --out build/orch-small
+    python tools/orch_generate.py --sizes W=6,24,72,288 --out build/orch-big   # bigger N for a 200k+ window
+
+Anything other than the defaults should go to its own --out: the checked-in set
+is pinned by tests/test_orch_tasks.py.
 
 Then validate every task with Harbor's oracle agent (each must score 1.0):
 
-    harbor run -p build/orch/tasks -a oracle -n 4
+    harbor run -p datasets/orch-v0.1 -a oracle -n 4
 """
 
 import argparse
@@ -34,7 +37,7 @@ def main(argv=None):
     parser.add_argument("--seeds", type=int, nargs="+", default=[1, 2, 3])
     parser.add_argument("--families", nargs="+", default=None)
     parser.add_argument("--sizes", nargs="+", default=None, help="FAMILY=n,n,...")
-    parser.add_argument("--out", default=str(ROOT / "build" / "orch" / "tasks"))
+    parser.add_argument("--out", default=str(ROOT / "datasets" / "orch-v0.1"))
     args = parser.parse_args(argv)
     tasks = generate_set(sizes=parse_sizes(args.sizes), seeds=tuple(args.seeds),
                          families=[f.upper() for f in args.families] if args.families else None)

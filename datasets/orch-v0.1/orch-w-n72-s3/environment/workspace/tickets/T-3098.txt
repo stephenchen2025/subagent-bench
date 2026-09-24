@@ -1,0 +1,86 @@
+Ticket T-3098
+Customer: Amara Nwosu
+Orders on file: ORD-62233, ORD-45249, ORD-99561, ORD-32578
+Opened: 2026-08-25 via web form
+
+Order details:
+ORD-62233  placed 2026-03-21  status: delivered  total: $462.22
+  payment method: card ending 1505  ship to: 321 Cedar Lane
+  - cast iron skillet x1
+  - extended warranty, 2 years x2
+  - replacement filter cartridge, 3-pack x2
+  - travel pouch x3
+  - gift wrap x2
+ORD-45249  placed 2026-03-12  status: delivered  total: $284.78
+  payment method: card ending 9487  ship to: 627 Elm Lane
+  - trail running shoes x1
+  - extended warranty, 2 years x3
+  - microfiber cloth x3
+  - gift wrap x3
+  - USB-C charging cable (2m) x1
+ORD-99561  placed 2026-08-03  status: returned  total: $268.51
+  payment method: card ending 5967  ship to: 820 Harbor Rd
+  - water filter pitcher x1
+  - microfiber cloth x2
+  - spare battery pack x1
+  - replacement filter cartridge, 3-pack x3
+ORD-32578  placed 2026-01-12  status: delivered  total: $194.53
+  payment method: card ending 2073  ship to: 146 Elm St
+  - standing desk x1
+  - carabiner set x2
+  - stainless water bottle, 750ml x2
+  - spare battery pack x3
+  - microfiber cloth x1
+
+--- message 1 from Amara Nwosu ---
+The water filter pitcher from ORD-62233 arrived with a scratch on the side. Can I get a replacement? Your app logged me out twice while I was looking at this, which didn't help. I've been a customer for a few years and usually everything goes smoothly. Is there a way to combine loyalty points from ORD-45249 with my next purchase?
+
+Amara Nwosu
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Keiko (support) ---
+Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-99561 left on schedule. I've added a note to your account so the next agent has the context. If you need an invoice for ORD-45249, you can download it from the Orders page.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Amara Nwosu ---
+I see two charges on the card app this week, one for ORD-32578 and one for ORD-99561. Both are correct -- I ordered twice on purpose -- but could you send me the invoices for my expense report? My earlier order ORD-99561 arrived fine, no complaints there. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Amara Nwosu
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Keiko (support) ---
+Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier. Let me know if anything else looks off.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Amara Nwosu ---
+I'd rather not call; the hold times last time were very long. I tried the chat widget first but it kept disconnecting. I changed my shipping address last month, so please double-check you have the new one. I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Amara Nwosu
+
+--- message 6 from Keiko (support) ---
+I've resent the confirmation email for ORD-62233 to the address on file. Our warehouse shows ORD-99561 left on schedule. Let me know if anything else looks off. If you need an invoice for ORD-99561, you can download it from the Orders page.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Amara Nwosu ---
+The box for ORD-62233 was a bit crushed but the contents were fine. I tried the chat widget first but it kept disconnecting. My partner placed ORD-45249 on our shared account, in case that matters. Tracking for ORD-99561 hasn't updated since Tuesday.
+
+Amara Nwosu
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Keiko (support) ---
+I've resent the confirmation email for ORD-45249 to the address on file. If you need an invoice for ORD-99561, you can download it from the Orders page. Let me know if anything else looks off. For ORD-45249, the return window is 30 days from delivery.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

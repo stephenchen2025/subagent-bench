@@ -1,0 +1,72 @@
+Ticket T-8952
+Customer: Amara Nwosu
+Orders on file: ORD-20846, ORD-46330, ORD-92657, ORD-62273
+Opened: 2026-01-19 via chat transcript
+
+Order details:
+ORD-20846  placed 2026-02-16  status: label created  total: $216.14
+  payment method: card ending 7016  ship to: 79 Elm Lane
+  - desk lamp x1
+  - USB-C charging cable (2m) x3
+  - replacement filter cartridge, 3-pack x3
+  - carabiner set x2
+  - extended warranty, 2 years x1
+ORD-46330  placed 2026-04-25  status: delivered  total: $353.42
+  payment method: card ending 3358  ship to: 193 Mill Lane
+  - mechanical keyboard x1
+  - spare battery pack x2
+  - gift wrap x3
+  - USB-C charging cable (2m) x2
+  - stainless water bottle, 750ml x1
+ORD-92657  placed 2026-01-06  status: delivered  total: $449.95
+  payment method: card ending 1921  ship to: 363 Cedar Ave
+  - camping stove x1
+  - replacement filter cartridge, 3-pack x2
+  - gift wrap x3
+ORD-62273  placed 2026-04-09  status: returned  total: $195.69
+  payment method: card ending 8915  ship to: 178 Oak Lane
+  - desk lamp x1
+  - USB-C charging cable (2m) x1
+  - merino socks, size M x1
+  - carabiner set x3
+
+--- message 1 from Amara Nwosu ---
+Can I use a gift card on ORD-92657, or is it too late? Is there a way to combine loyalty points from ORD-46330 with my next purchase? I'd rather not call; the hold times last time were very long. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Amara Nwosu
+
+--- message 2 from Dana (support) ---
+If you need an invoice for ORD-92657, you can download it from the Orders page. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-92657 left on schedule. I can see all the orders on your account, including ORD-92657.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Amara Nwosu ---
+The confirmation email for ORD-92657 went to my spam folder, so I only just saw it. Is there a way to combine loyalty points from ORD-92657 with my next purchase? Could you also tell me whether ORD-92657 qualifies for the extended return window? I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Amara Nwosu
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Dana (support) ---
+Thanks for reaching out, and sorry for the trouble. For ORD-46330, the return window is 30 days from delivery. Our warehouse shows ORD-92657 left on schedule. I've updated your shipping address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Amara Nwosu ---
+I'm happy to send screenshots if that helps. I'd rather not call; the hold times last time were very long. My earlier order ORD-92657 arrived fine, no complaints there. The box for ORD-92657 was a bit crushed but the contents were fine.
+
+Thanks,
+Amara Nwosu
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Dana (support) ---
+I've resent the confirmation email for ORD-92657 to the address on file. I can see all the orders on your account, including ORD-92657. I've updated your shipping address on file. I've added a note to your account so the next agent has the context.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

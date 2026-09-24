@@ -1,0 +1,56 @@
+Ticket T-4929
+Customer: Ben Carter
+Orders on file: ORD-26578, ORD-37466, ORD-46759, ORD-60822
+Opened: 2026-08-24 via chat transcript
+
+Order details:
+ORD-26578  placed 2026-03-16  status: delivered  total: $413.81
+  payment method: card ending 4777  ship to: 272 Mill Rd
+  - espresso grinder x1
+  - gift wrap x1
+  - USB-C charging cable (2m) x1
+  - spare battery pack x3
+  - merino socks, size M x2
+ORD-37466  placed 2026-01-16  status: in transit  total: $268.04
+  payment method: card ending 6962  ship to: 889 Elm Lane
+  - cast iron skillet x1
+  - microfiber cloth x2
+  - gift wrap x2
+  - extended warranty, 2 years x3
+ORD-46759  placed 2026-07-20  status: delivered  total: $241.32
+  payment method: card ending 2867  ship to: 203 Elm Lane
+  - noise-cancelling headphones x1
+  - replacement filter cartridge, 3-pack x1
+  - stainless water bottle, 750ml x2
+  - merino socks, size M x1
+ORD-60822  placed 2026-01-08  status: label created  total: $27.85
+  payment method: card ending 4741  ship to: 109 Harbor Rd
+  - desk lamp x1
+  - carabiner set x3
+  - replacement filter cartridge, 3-pack x2
+
+--- message 1 from Ben Carter ---
+Can I use a gift card on ORD-60822, or is it too late? Your app logged me out twice while I was looking at this, which didn't help. The box for ORD-46759 was a bit crushed but the contents were fine. Could you also tell me whether ORD-60822 qualifies for the extended return window?
+
+Ben Carter
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Luis (support) ---
+Screenshots aren't necessary, but thank you for offering. For ORD-60822, the return window is 30 days from delivery. I can see all the orders on your account, including ORD-60822. Thanks for reaching out, and sorry for the trouble.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ben Carter ---
+My earlier order ORD-60822 arrived fine, no complaints there. I've been a customer for a few years and usually everything goes smoothly. I'm happy to send screenshots if that helps. Your app logged me out twice while I was looking at this, which didn't help.
+
+Best regards,
+Ben Carter
+
+--- message 4 from Luis (support) ---
+I can see all the orders on your account, including ORD-37466. Thanks for reaching out, and sorry for the trouble. Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

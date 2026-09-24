@@ -1,0 +1,69 @@
+Ticket T-9406
+Customer: Aisha Karim
+Orders on file: ORD-65611, ORD-94667, ORD-85619, ORD-38432
+Opened: 2026-05-04 via chat transcript
+
+Order details:
+ORD-65611  placed 2026-02-04  status: delivered  total: $330.13
+  payment method: card ending 7245  ship to: 497 Elm Rd
+  - water filter pitcher x1
+  - carabiner set x3
+  - merino socks, size M x2
+  - gift wrap x1
+ORD-94667  placed 2026-07-13  status: delivered  total: $96.15
+  payment method: card ending 8952  ship to: 173 Harbor Lane
+  - bike light set x1
+  - carabiner set x3
+  - replacement filter cartridge, 3-pack x1
+  - USB-C charging cable (2m) x1
+  - travel pouch x3
+ORD-85619  placed 2026-04-07  status: returned  total: $332.27
+  payment method: card ending 4202  ship to: 105 Cedar Ave
+  - camping stove x1
+  - carabiner set x3
+  - extended warranty, 2 years x1
+ORD-38432  placed 2026-06-03  status: delivered  total: $203.37
+  payment method: card ending 1511  ship to: 298 Harbor Rd
+  - mechanical keyboard x1
+  - replacement filter cartridge, 3-pack x1
+  - travel pouch x1
+  - spare battery pack x3
+
+--- message 1 from Aisha Karim ---
+The camping stove from ORD-85619 arrived with a scratch on the side. Can I get a replacement? My earlier order ORD-65611 arrived fine, no complaints there. I'd rather not call; the hold times last time were very long. The box for ORD-85619 was a bit crushed but the contents were fine.
+
+Best regards,
+Aisha Karim
+
+--- message 2 from Rosa (support) ---
+I've added a note to your account so the next agent has the context. Our warehouse shows ORD-85619 left on schedule. Tracking updates can lag by a day or two with this carrier. For ORD-65611, the return window is 30 days from delivery.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Aisha Karim ---
+Yes, there were two payments, but they're for two different orders (ORD-94667 and ORD-85619), so that's fine. I just need a receipt for each. Is there a way to combine loyalty points from ORD-85619 with my next purchase? I changed my shipping address last month, so please double-check you have the new one.
+
+Best regards,
+Aisha Karim
+
+--- message 4 from Rosa (support) ---
+If you need an invoice for ORD-38432, you can download it from the Orders page. Our warehouse shows ORD-38432 left on schedule. I've added a note to your account so the next agent has the context.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Aisha Karim ---
+Could you also tell me whether ORD-38432 qualifies for the extended return window? I'd rather not call; the hold times last time were very long. I've been a customer for a few years and usually everything goes smoothly. I'm happy to send screenshots if that helps.
+
+Aisha Karim
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Rosa (support) ---
+For ORD-85619, the return window is 30 days from delivery. If you need an invoice for ORD-85619, you can download it from the Orders page. I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,58 @@
+Ticket T-4111
+Customer: Ines Duarte
+Orders on file: ORD-37684, ORD-58025, ORD-72793, ORD-68678
+Opened: 2026-02-26 via web form
+
+Order details:
+ORD-37684  placed 2026-08-19  status: delivered  total: $476.36
+  payment method: card ending 4306  ship to: 180 Cedar Ave
+  - yoga mat x1
+  - microfiber cloth x1
+  - extended warranty, 2 years x1
+ORD-58025  placed 2026-07-10  status: delivered  total: $413.11
+  payment method: card ending 6941  ship to: 132 Elm Ave
+  - wool blanket x1
+  - spare battery pack x2
+  - USB-C charging cable (2m) x3
+  - microfiber cloth x3
+  - gift wrap x2
+ORD-72793  placed 2026-07-19  status: label created  total: $288.11
+  payment method: card ending 8162  ship to: 299 Harbor Lane
+  - desk lamp x1
+  - merino socks, size M x3
+  - gift wrap x3
+ORD-68678  placed 2026-02-26  status: delivered  total: $476.76
+  payment method: card ending 2439  ship to: 837 Harbor Lane
+  - wool blanket x1
+  - carabiner set x3
+  - USB-C charging cable (2m) x1
+  - extended warranty, 2 years x3
+  - microfiber cloth x1
+
+--- message 1 from Ines Duarte ---
+Where is my refund for ORD-58025? You said 5 days and it has been 8. I'd rather not call; the hold times last time were very long. I tried the chat widget first but it kept disconnecting. My partner placed ORD-58025 on our shared account, in case that matters.
+
+Thanks,
+Ines Duarte
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Pete (support) ---
+Tracking updates can lag by a day or two with this carrier. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-37684 left on schedule. I've updated your shipping address on file.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ines Duarte ---
+I tried the chat widget first but it kept disconnecting. Your app logged me out twice while I was looking at this, which didn't help. Tracking for ORD-37684 hasn't updated since Tuesday. My earlier order ORD-58025 arrived fine, no complaints there.
+
+Thanks,
+Ines Duarte
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Pete (support) ---
+If you need an invoice for ORD-37684, you can download it from the Orders page. Thanks for reaching out, and sorry for the trouble. I've updated your shipping address on file. For ORD-72793, the return window is 30 days from delivery.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

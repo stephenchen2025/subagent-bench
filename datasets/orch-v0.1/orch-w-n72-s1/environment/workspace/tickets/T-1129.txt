@@ -1,0 +1,83 @@
+Ticket T-1129
+Customer: Grace Mwangi
+Orders on file: ORD-29264, ORD-58964, ORD-50795, ORD-10359
+Opened: 2026-04-17 via web form
+
+Order details:
+ORD-29264  placed 2026-07-03  status: label created  total: $214.74
+  payment method: card ending 4956  ship to: 58 Cedar Ave
+  - cast iron skillet x1
+  - stainless water bottle, 750ml x1
+  - extended warranty, 2 years x3
+  - carabiner set x1
+ORD-58964  placed 2026-02-18  status: delivered  total: $115.04
+  payment method: card ending 4355  ship to: 84 Oak Lane
+  - blender x1
+  - stainless water bottle, 750ml x3
+  - extended warranty, 2 years x1
+ORD-50795  placed 2026-05-25  status: delivered  total: $194.34
+  payment method: card ending 7516  ship to: 227 Harbor Rd
+  - wool blanket x1
+  - merino socks, size M x3
+  - spare battery pack x2
+  - travel pouch x2
+  - stainless water bottle, 750ml x2
+ORD-10359  placed 2026-07-06  status: label created  total: $404.91
+  payment method: card ending 5980  ship to: 385 Cedar Lane
+  - camping stove x1
+  - gift wrap x2
+  - travel pouch x1
+  - spare battery pack x3
+
+--- message 1 from Grace Mwangi ---
+Can I use a gift card on ORD-58964, or is it too late? Is there a way to combine loyalty points from ORD-29264 with my next purchase? The box for ORD-58964 was a bit crushed but the contents were fine. The espresso grinder itself is great, for what it's worth.
+
+Grace Mwangi
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Arjun (support) ---
+Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-29264 left on schedule. Screenshots aren't necessary, but thank you for offering. Let me know if anything else looks off.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Grace Mwangi ---
+Duplicate charge on ORD-10359, please refund one of them. The confirmation email for ORD-50795 went to my spam folder, so I only just saw it. Is there a way to combine loyalty points from ORD-29264 with my next purchase?
+
+Best regards,
+Grace Mwangi
+
+--- message 4 from Arjun (support) ---
+Tracking updates can lag by a day or two with this carrier. I've updated your shipping address on file. I've resent the confirmation email for ORD-58964 to the address on file.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Arjun (support) ---
+You're right, and I'm sorry. Our records show ORD-10359 was settled two times. I've refunded the duplicate. Tracking updates can lag by a day or two with this carrier. Loyalty points post about a week after an order is delivered.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Grace Mwangi ---
+My partner placed ORD-50795 on our shared account, in case that matters. The confirmation email for ORD-29264 went to my spam folder, so I only just saw it. I'm happy to send screenshots if that helps.
+
+Best regards,
+Grace Mwangi
+
+--- message 7 from Grace Mwangi ---
+I'm travelling next week, so email is the best way to reach me. The camping stove itself is great, for what it's worth. My partner placed ORD-50795 on our shared account, in case that matters. I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Grace Mwangi
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Arjun (support) ---
+Thanks for reaching out, and sorry for the trouble. I've resent the confirmation email for ORD-29264 to the address on file. Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

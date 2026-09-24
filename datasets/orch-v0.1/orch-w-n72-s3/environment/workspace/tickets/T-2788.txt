@@ -1,0 +1,95 @@
+Ticket T-2788
+Customer: Ines Duarte
+Orders on file: ORD-86451, ORD-65609, ORD-97044, ORD-84229
+Opened: 2026-02-28 via web form
+
+Order details:
+ORD-86451  placed 2026-02-10  status: label created  total: $174.82
+  payment method: card ending 1000  ship to: 887 Cedar Ave
+  - carry-on suitcase x1
+  - USB-C charging cable (2m) x2
+  - extended warranty, 2 years x2
+  - gift wrap x3
+ORD-65609  placed 2026-05-18  status: delivered  total: $360.91
+  payment method: card ending 5709  ship to: 500 Mill St
+  - yoga mat x1
+  - merino socks, size M x3
+  - spare battery pack x2
+  - travel pouch x2
+ORD-97044  placed 2026-03-16  status: delivered  total: $233.79
+  payment method: card ending 9959  ship to: 360 Mill St
+  - wool blanket x1
+  - USB-C charging cable (2m) x1
+  - travel pouch x3
+  - extended warranty, 2 years x3
+ORD-84229  placed 2026-07-14  status: delivered  total: $212.31
+  payment method: card ending 3101  ship to: 154 Oak Lane
+  - mechanical keyboard x1
+  - carabiner set x1
+  - travel pouch x3
+  - gift wrap x2
+
+--- message 1 from Ines Duarte ---
+I'd like to return the wool blanket from ORD-84229; it's the wrong size. I've been a customer for a few years and usually everything goes smoothly. I'd rather not call; the hold times last time were very long. I'm happy to send screenshots if that helps.
+
+Best regards,
+Ines Duarte
+
+--- message 2 from Pete (support) ---
+Loyalty points post about a week after an order is delivered. Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-97044.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ines Duarte ---
+The $152.85 for ORD-65609 came out of my account, and then the same $152.85 came out again the next morning. Is there a way to combine loyalty points from ORD-97044 with my next purchase? The espresso grinder itself is great, for what it's worth.
+
+Best regards,
+Ines Duarte
+
+--- message 4 from Pete (support) ---
+Thanks for reaching out, and sorry for the trouble. I've resent the confirmation email for ORD-84229 to the address on file. For ORD-97044, the return window is 30 days from delivery.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Pete (support) ---
+I looked into ORD-65609: the second line is a pre-authorization hold from when the first card attempt was declined. It was never captured and it's already been released, so you were only charged once. I can see all the orders on your account, including ORD-86451. I've updated your shipping address on file.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Ines Duarte ---
+I changed my shipping address last month, so please double-check you have the new one. I'm travelling next week, so email is the best way to reach me. The confirmation email for ORD-86451 went to my spam folder, so I only just saw it.
+
+Ines Duarte
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Ines Duarte ---
+Oh, you're right -- I checked the card app this morning and the second line is gone. Only one charge. Sorry for the false alarm! I'm travelling next week, so email is the best way to reach me. I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Ines Duarte
+
+--- message 8 from Pete (support) ---
+Loyalty points post about a week after an order is delivered. Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Ines Duarte ---
+Is there a way to combine loyalty points from ORD-84229 with my next purchase? I changed my shipping address last month, so please double-check you have the new one. The blender itself is great, for what it's worth. My partner placed ORD-97044 on our shared account, in case that matters.
+
+Ines Duarte
+(Please reply by email rather than phone if possible.)
+
+--- message 10 from Pete (support) ---
+I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-84229 to the address on file. Our warehouse shows ORD-84229 left on schedule. Let me know if anything else looks off.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

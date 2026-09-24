@@ -1,0 +1,102 @@
+Ticket T-3518
+Customer: Aisha Karim
+Orders on file: ORD-72925, ORD-70213, ORD-87701, ORD-96943
+Opened: 2026-05-15 via web form
+
+Order details:
+ORD-72925  placed 2026-04-22  status: label created  total: $57.24
+  payment method: card ending 7573  ship to: 467 Elm Lane
+  - cast iron skillet x1
+  - USB-C charging cable (2m) x2
+  - extended warranty, 2 years x1
+ORD-70213  placed 2026-01-09  status: in transit  total: $238.13
+  payment method: card ending 4484  ship to: 840 Harbor Lane
+  - cast iron skillet x1
+  - gift wrap x1
+  - carabiner set x3
+  - microfiber cloth x1
+ORD-87701  placed 2026-06-02  status: delivered  total: $259.79
+  payment method: card ending 6203  ship to: 372 Harbor Lane
+  - yoga mat x1
+  - carabiner set x3
+  - spare battery pack x1
+  - extended warranty, 2 years x3
+ORD-96943  placed 2026-06-16  status: in transit  total: $354.60
+  payment method: card ending 8334  ship to: 68 Mill Rd
+  - desk lamp x1
+  - carabiner set x3
+  - travel pouch x3
+  - microfiber cloth x1
+
+--- message 1 from Aisha Karim ---
+How do I reset my password? The reset link keeps expiring. I tried the chat widget first but it kept disconnecting. I'm happy to send screenshots if that helps. The trail running shoes itself is great, for what it's worth.
+
+Best regards,
+Aisha Karim
+
+--- message 2 from Keiko (support) ---
+For ORD-70213, the return window is 30 days from delivery. Our warehouse shows ORD-70213 left on schedule. I've resent the confirmation email for ORD-70213 to the address on file. Let me know if anything else looks off.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Aisha Karim ---
+There's an extra line for ORD-96943 on my credit union. It could just be a hold -- can you check? The box for ORD-87701 was a bit crushed but the contents were fine. I'm happy to send screenshots if that helps.
+
+Aisha Karim
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Keiko (support) ---
+Let me know if anything else looks off. I've updated your shipping address on file. I've added a note to your account so the next agent has the context.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Aisha Karim ---
+Just checked again -- both charges for ORD-96943 are settled now, not pending. I'd rather not call; the hold times last time were very long. I tried the chat widget first but it kept disconnecting.
+
+Aisha Karim
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Keiko (support) ---
+If you need an invoice for ORD-70213, you can download it from the Orders page. I've updated your shipping address on file. Screenshots aren't necessary, but thank you for offering.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Keiko (support) ---
+You're right, and I'm sorry. Our records show ORD-96943 was settled two times. I've refunded the duplicate. For ORD-70213, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Aisha Karim ---
+The mechanical keyboard itself is great, for what it's worth. Is there a way to combine loyalty points from ORD-70213 with my next purchase? My earlier order ORD-87701 arrived fine, no complaints there. My partner placed ORD-72925 on our shared account, in case that matters.
+
+Thanks,
+Aisha Karim
+Sent from my phone -- please excuse typos.
+
+--- message 9 from Keiko (support) ---
+Screenshots aren't necessary, but thank you for offering. For ORD-72925, the return window is 30 days from delivery. I've resent the confirmation email for ORD-70213 to the address on file. Let me know if anything else looks off.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 10 from Aisha Karim ---
+I'd rather not call; the hold times last time were very long. Your app logged me out twice while I was looking at this, which didn't help. The confirmation email for ORD-70213 went to my spam folder, so I only just saw it. I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Aisha Karim
+
+--- message 11 from Keiko (support) ---
+Thanks for reaching out, and sorry for the trouble. Tracking updates can lag by a day or two with this carrier. For ORD-70213, the return window is 30 days from delivery. I've updated your shipping address on file.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

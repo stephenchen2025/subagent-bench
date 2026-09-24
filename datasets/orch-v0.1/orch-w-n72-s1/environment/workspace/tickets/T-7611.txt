@@ -1,0 +1,70 @@
+Ticket T-7611
+Customer: Diego Alvarez
+Orders on file: ORD-36754, ORD-76236, ORD-64373, ORD-21447
+Opened: 2026-07-03 via web form
+
+Order details:
+ORD-36754  placed 2026-04-01  status: label created  total: $408.29
+  payment method: card ending 1814  ship to: 648 Harbor Ave
+  - wool blanket x1
+  - spare battery pack x1
+  - microfiber cloth x2
+  - travel pouch x2
+  - stainless water bottle, 750ml x2
+ORD-76236  placed 2026-08-26  status: in transit  total: $463.61
+  payment method: card ending 8468  ship to: 572 Oak Lane
+  - mechanical keyboard x1
+  - stainless water bottle, 750ml x3
+  - microfiber cloth x1
+  - travel pouch x1
+ORD-64373  placed 2026-08-17  status: returned  total: $112.74
+  payment method: card ending 4723  ship to: 752 Cedar Ave
+  - yoga mat x1
+  - spare battery pack x2
+  - carabiner set x3
+  - extended warranty, 2 years x3
+ORD-21447  placed 2026-05-09  status: label created  total: $298.32
+  payment method: card ending 6479  ship to: 82 Cedar St
+  - standing desk x1
+  - travel pouch x3
+  - merino socks, size M x3
+  - USB-C charging cable (2m) x1
+
+--- message 1 from Diego Alvarez ---
+I'd like to return the carry-on suitcase from ORD-21447; it's the wrong size. Could you also tell me whether ORD-21447 qualifies for the extended return window? I'm happy to send screenshots if that helps. I'd rather not call; the hold times last time were very long.
+
+Diego Alvarez
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Dana (support) ---
+For ORD-36754, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context. Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-21447 left on schedule.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Diego Alvarez ---
+I tried the chat widget first but it kept disconnecting. Your app logged me out twice while I was looking at this, which didn't help. My partner placed ORD-36754 on our shared account, in case that matters. Could you also tell me whether ORD-76236 qualifies for the extended return window?
+
+Diego Alvarez
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Dana (support) ---
+I can see all the orders on your account, including ORD-21447. Our warehouse shows ORD-36754 left on schedule. Loyalty points post about a week after an order is delivered. I've updated your shipping address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Diego Alvarez ---
+I changed my shipping address last month, so please double-check you have the new one. The box for ORD-76236 was a bit crushed but the contents were fine. I'd rather not call; the hold times last time were very long. Is there a way to combine loyalty points from ORD-76236 with my next purchase?
+
+Best regards,
+Diego Alvarez
+
+--- message 6 from Dana (support) ---
+Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-76236 left on schedule. I can see all the orders on your account, including ORD-76236. For ORD-36754, the return window is 30 days from delivery.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,57 @@
+Ticket T-2802
+Customer: Tomas Novak
+Orders on file: ORD-84157, ORD-80227, ORD-52908, ORD-70970
+Opened: 2026-08-07 via email
+
+Order details:
+ORD-84157  placed 2026-02-02  status: delivered  total: $97.65
+  payment method: card ending 4560  ship to: 988 Harbor Rd
+  - bike light set x1
+  - merino socks, size M x3
+  - extended warranty, 2 years x2
+  - travel pouch x2
+ORD-80227  placed 2026-04-04  status: label created  total: $81.44
+  payment method: card ending 5524  ship to: 634 Cedar Ave
+  - cast iron skillet x1
+  - microfiber cloth x3
+  - stainless water bottle, 750ml x3
+  - USB-C charging cable (2m) x3
+ORD-52908  placed 2026-05-27  status: delivered  total: $160.95
+  payment method: card ending 4593  ship to: 270 Mill Rd
+  - trail running shoes x1
+  - microfiber cloth x2
+  - extended warranty, 2 years x3
+ORD-70970  placed 2026-04-19  status: in transit  total: $270.29
+  payment method: card ending 3243  ship to: 623 Elm Rd
+  - mechanical keyboard x1
+  - spare battery pack x2
+  - extended warranty, 2 years x3
+  - replacement filter cartridge, 3-pack x2
+  - microfiber cloth x2
+
+--- message 1 from Tomas Novak ---
+Where is my refund for ORD-52908? You said 5 days and it has been 8. Tracking for ORD-52908 hasn't updated since Tuesday. The mechanical keyboard itself is great, for what it's worth. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Tomas Novak
+
+--- message 2 from Dana (support) ---
+I've updated your shipping address on file. If you need an invoice for ORD-70970, you can download it from the Orders page. Loyalty points post about a week after an order is delivered. Thanks for reaching out, and sorry for the trouble.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Tomas Novak ---
+Your app logged me out twice while I was looking at this, which didn't help. I changed my shipping address last month, so please double-check you have the new one. Is there a way to combine loyalty points from ORD-80227 with my next purchase? Tracking for ORD-70970 hasn't updated since Tuesday.
+
+Thanks,
+Tomas Novak
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Dana (support) ---
+Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering. If you need an invoice for ORD-52908, you can download it from the Orders page. I've updated your shipping address on file.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

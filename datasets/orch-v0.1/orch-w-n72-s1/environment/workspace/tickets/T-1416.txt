@@ -1,0 +1,55 @@
+Ticket T-1416
+Customer: Leila Haddad
+Orders on file: ORD-21260, ORD-58903, ORD-67520, ORD-48207
+Opened: 2026-07-01 via chat transcript
+
+Order details:
+ORD-21260  placed 2026-02-25  status: delivered  total: $252.77
+  payment method: card ending 3844  ship to: 49 Cedar Ave
+  - espresso grinder x1
+  - merino socks, size M x3
+  - gift wrap x1
+  - replacement filter cartridge, 3-pack x3
+  - stainless water bottle, 750ml x1
+ORD-58903  placed 2026-05-01  status: label created  total: $408.17
+  payment method: card ending 4677  ship to: 386 Harbor St
+  - cast iron skillet x1
+  - gift wrap x3
+  - extended warranty, 2 years x1
+ORD-67520  placed 2026-02-12  status: delivered  total: $192.70
+  payment method: card ending 9340  ship to: 852 Elm St
+  - blender x1
+  - replacement filter cartridge, 3-pack x2
+  - carabiner set x3
+  - stainless water bottle, 750ml x3
+ORD-48207  placed 2026-02-15  status: in transit  total: $341.73
+  payment method: card ending 4213  ship to: 944 Elm Rd
+  - water filter pitcher x1
+  - spare battery pack x1
+  - carabiner set x3
+
+--- message 1 from Leila Haddad ---
+Can I use a gift card on ORD-58903, or is it too late? I've been a customer for a few years and usually everything goes smoothly. I'm happy to send screenshots if that helps. I changed my shipping address last month, so please double-check you have the new one.
+
+Leila Haddad
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Dana (support) ---
+Screenshots aren't necessary, but thank you for offering. If you need an invoice for ORD-21260, you can download it from the Orders page. I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Leila Haddad ---
+I'm happy to send screenshots if that helps. I'd rather not call; the hold times last time were very long. Could you also tell me whether ORD-48207 qualifies for the extended return window? I changed my shipping address last month, so please double-check you have the new one.
+
+Leila Haddad
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Dana (support) ---
+Tracking updates can lag by a day or two with this carrier. For ORD-58903, the return window is 30 days from delivery. Our warehouse shows ORD-21260 left on schedule. I've added a note to your account so the next agent has the context.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

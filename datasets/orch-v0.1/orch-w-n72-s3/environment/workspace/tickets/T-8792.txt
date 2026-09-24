@@ -1,0 +1,88 @@
+Ticket T-8792
+Customer: Kofi Mensah
+Orders on file: ORD-52797, ORD-29280, ORD-43688, ORD-40131
+Opened: 2026-06-15 via web form
+
+Order details:
+ORD-52797  placed 2026-07-22  status: in transit  total: $305.68
+  payment method: card ending 8797  ship to: 431 Oak Ave
+  - noise-cancelling headphones x1
+  - stainless water bottle, 750ml x1
+  - merino socks, size M x2
+  - carabiner set x3
+  - travel pouch x3
+ORD-29280  placed 2026-01-03  status: delivered  total: $200.81
+  payment method: card ending 3593  ship to: 649 Cedar Lane
+  - noise-cancelling headphones x1
+  - gift wrap x3
+  - USB-C charging cable (2m) x3
+  - merino socks, size M x1
+  - carabiner set x1
+ORD-43688  placed 2026-04-14  status: delivered  total: $96.17
+  payment method: card ending 7589  ship to: 467 Elm Lane
+  - camping stove x1
+  - carabiner set x3
+  - travel pouch x3
+  - extended warranty, 2 years x1
+  - USB-C charging cable (2m) x1
+ORD-40131  placed 2026-02-06  status: in transit  total: $38.59
+  payment method: card ending 5877  ship to: 217 Oak Rd
+  - rain jacket x1
+  - spare battery pack x2
+  - carabiner set x3
+  - USB-C charging cable (2m) x1
+  - stainless water bottle, 750ml x3
+
+--- message 1 from Kofi Mensah ---
+Where is my refund for ORD-40131? You said 5 days and it has been 8. Your app logged me out twice while I was looking at this, which didn't help. I'd rather not call; the hold times last time were very long. I've been a customer for a few years and usually everything goes smoothly.
+
+Kofi Mensah
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Luis (support) ---
+Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-43688 to the address on file. If you need an invoice for ORD-43688, you can download it from the Orders page. I've updated your shipping address on file.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Kofi Mensah ---
+There are two identical debits on my bank and both reference ORD-52797. I'd rather not call; the hold times last time were very long. The box for ORD-40131 was a bit crushed but the contents were fine.
+
+Thanks,
+Kofi Mensah
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Luis (support) ---
+For ORD-43688, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-40131.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Luis (support) ---
+You're right, and I'm sorry. Our records show ORD-52797 was settled two times. I've refunded the duplicate. Tracking updates can lag by a day or two with this carrier. Thanks for reaching out, and sorry for the trouble.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Kofi Mensah ---
+I'm travelling next week, so email is the best way to reach me. I'm happy to send screenshots if that helps. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Kofi Mensah
+
+--- message 7 from Kofi Mensah ---
+My partner placed ORD-40131 on our shared account, in case that matters. The box for ORD-43688 was a bit crushed but the contents were fine. Is there a way to combine loyalty points from ORD-40131 with my next purchase? I tried the chat widget first but it kept disconnecting.
+
+Thanks,
+Kofi Mensah
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Luis (support) ---
+I can see all the orders on your account, including ORD-43688. Our warehouse shows ORD-43688 left on schedule. If you need an invoice for ORD-40131, you can download it from the Orders page. I've added a note to your account so the next agent has the context.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

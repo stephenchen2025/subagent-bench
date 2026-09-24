@@ -1,0 +1,71 @@
+Ticket T-6830
+Customer: Samir Patel
+Orders on file: ORD-54604, ORD-94989, ORD-45712, ORD-54350
+Opened: 2026-02-23 via email
+
+Order details:
+ORD-54604  placed 2026-07-09  status: delivered  total: $334.20
+  payment method: card ending 5723  ship to: 638 Oak Ave
+  - rain jacket x1
+  - extended warranty, 2 years x3
+  - USB-C charging cable (2m) x3
+  - merino socks, size M x1
+ORD-94989  placed 2026-04-04  status: in transit  total: $77.20
+  payment method: card ending 6569  ship to: 645 Cedar Lane
+  - carry-on suitcase x1
+  - spare battery pack x1
+  - extended warranty, 2 years x3
+  - travel pouch x3
+ORD-45712  placed 2026-03-26  status: delivered  total: $187.55
+  payment method: card ending 3623  ship to: 733 Elm Ave
+  - espresso grinder x1
+  - carabiner set x3
+  - merino socks, size M x2
+  - microfiber cloth x2
+ORD-54350  placed 2026-01-26  status: label created  total: $354.02
+  payment method: card ending 3804  ship to: 207 Oak Ave
+  - yoga mat x1
+  - USB-C charging cable (2m) x1
+  - travel pouch x3
+  - merino socks, size M x3
+  - extended warranty, 2 years x1
+
+--- message 1 from Samir Patel ---
+Where is my refund for ORD-45712? You said 5 days and it has been 8. I'd rather not call; the hold times last time were very long. The box for ORD-45712 was a bit crushed but the contents were fine. The yoga mat itself is great, for what it's worth.
+
+Thanks,
+Samir Patel
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Arjun (support) ---
+Thanks for reaching out, and sorry for the trouble. I've resent the confirmation email for ORD-45712 to the address on file. For ORD-54350, the return window is 30 days from delivery. If you need an invoice for ORD-45712, you can download it from the Orders page.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Samir Patel ---
+Your app logged me out twice while I was looking at this, which didn't help. Is there a way to combine loyalty points from ORD-54604 with my next purchase? Tracking for ORD-54350 hasn't updated since Tuesday. I'm happy to send screenshots if that helps.
+
+Samir Patel
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Arjun (support) ---
+I've resent the confirmation email for ORD-54604 to the address on file. Let me know if anything else looks off. For ORD-45712, the return window is 30 days from delivery. I can see all the orders on your account, including ORD-54350.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Samir Patel ---
+The confirmation email for ORD-54350 went to my spam folder, so I only just saw it. Could you also tell me whether ORD-54604 qualifies for the extended return window? Your app logged me out twice while I was looking at this, which didn't help. My earlier order ORD-45712 arrived fine, no complaints there.
+
+Best regards,
+Samir Patel
+
+--- message 6 from Arjun (support) ---
+Let me know if anything else looks off. For ORD-54350, the return window is 30 days from delivery. I've resent the confirmation email for ORD-54350 to the address on file. Tracking updates can lag by a day or two with this carrier.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

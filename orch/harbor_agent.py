@@ -1,6 +1,6 @@
 """Harbor agent for the orchestrator track's reference harness.
 
-    harbor run -p build/orch/tasks \\
+    harbor run -p datasets/orch-v0.1 \\
         -a orch.harbor_agent:OrchMiniAgent \\
         -m anthropic/claude-sonnet-5 --ak mode=delegate
 

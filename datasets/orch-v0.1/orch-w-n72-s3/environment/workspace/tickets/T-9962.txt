@@ -1,0 +1,58 @@
+Ticket T-9962
+Customer: Ravi Iyer
+Orders on file: ORD-39937, ORD-21392, ORD-78112, ORD-49880
+Opened: 2026-03-26 via email
+
+Order details:
+ORD-39937  placed 2026-05-11  status: in transit  total: $456.73
+  payment method: card ending 3172  ship to: 464 Harbor Rd
+  - desk lamp x1
+  - replacement filter cartridge, 3-pack x1
+  - USB-C charging cable (2m) x2
+  - merino socks, size M x3
+ORD-21392  placed 2026-08-19  status: returned  total: $295.00
+  payment method: card ending 8165  ship to: 796 Elm Ave
+  - espresso grinder x1
+  - replacement filter cartridge, 3-pack x1
+  - merino socks, size M x3
+  - travel pouch x3
+ORD-78112  placed 2026-04-10  status: delivered  total: $161.34
+  payment method: card ending 9249  ship to: 693 Mill Ave
+  - wool blanket x1
+  - merino socks, size M x2
+  - gift wrap x1
+  - microfiber cloth x2
+ORD-49880  placed 2026-05-27  status: returned  total: $105.60
+  payment method: card ending 3756  ship to: 498 Oak St
+  - wool blanket x1
+  - stainless water bottle, 750ml x3
+  - spare battery pack x1
+  - gift wrap x3
+
+--- message 1 from Ravi Iyer ---
+I need to change the delivery address for ORD-21392 before it ships. Tracking for ORD-21392 hasn't updated since Tuesday. Could you also tell me whether ORD-49880 qualifies for the extended return window? Is there a way to combine loyalty points from ORD-78112 with my next purchase?
+
+Thanks,
+Ravi Iyer
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Fatima (support) ---
+Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-49880. I've added a note to your account so the next agent has the context. I've updated your shipping address on file.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ravi Iyer ---
+Is there a way to combine loyalty points from ORD-78112 with my next purchase? The box for ORD-49880 was a bit crushed but the contents were fine. I'm travelling next week, so email is the best way to reach me. The confirmation email for ORD-21392 went to my spam folder, so I only just saw it.
+
+Thanks,
+Ravi Iyer
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Fatima (support) ---
+Thanks for reaching out, and sorry for the trouble. For ORD-49880, the return window is 30 days from delivery. If you need an invoice for ORD-21392, you can download it from the Orders page. I've updated your shipping address on file.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

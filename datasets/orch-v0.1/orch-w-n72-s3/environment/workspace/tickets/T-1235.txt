@@ -1,0 +1,78 @@
+Ticket T-1235
+Customer: Chloe Martin
+Orders on file: ORD-38847, ORD-11201, ORD-55162, ORD-54810
+Opened: 2026-03-13 via email
+
+Order details:
+ORD-38847  placed 2026-07-06  status: delivered  total: $243.91
+  payment method: card ending 2400  ship to: 103 Cedar Rd
+  - noise-cancelling headphones x1
+  - travel pouch x1
+  - extended warranty, 2 years x3
+  - microfiber cloth x2
+ORD-11201  placed 2026-05-18  status: delivered  total: $206.31
+  payment method: card ending 9251  ship to: 551 Oak St
+  - yoga mat x1
+  - replacement filter cartridge, 3-pack x2
+  - travel pouch x2
+  - spare battery pack x3
+  - gift wrap x2
+ORD-55162  placed 2026-06-12  status: label created  total: $236.20
+  payment method: card ending 8907  ship to: 548 Elm Rd
+  - espresso grinder x1
+  - spare battery pack x2
+  - replacement filter cartridge, 3-pack x2
+ORD-54810  placed 2026-07-18  status: delivered  total: $443.58
+  payment method: card ending 1316  ship to: 594 Cedar Lane
+  - yoga mat x1
+  - microfiber cloth x3
+  - stainless water bottle, 750ml x1
+  - extended warranty, 2 years x2
+
+--- message 1 from Chloe Martin ---
+I need to change the delivery address for ORD-38847 before it ships. The box for ORD-54810 was a bit crushed but the contents were fine. My partner placed ORD-38847 on our shared account, in case that matters. Could you also tell me whether ORD-55162 qualifies for the extended return window?
+
+Thanks,
+Chloe Martin
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Luis (support) ---
+Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off. Loyalty points post about a week after an order is delivered. I've updated your shipping address on file.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Chloe Martin ---
+The checkout page for ORD-11201 timed out. If I try to pay again, will I end up being charged twice? The trail running shoes itself is great, for what it's worth. I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Chloe Martin
+
+--- message 4 from Luis (support) ---
+No, you won't be charged twice: the first attempt for ORD-11201 failed before capture, so retrying is safe. Let me know if anything else looks off. I can see all the orders on your account, including ORD-38847.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Chloe Martin ---
+The confirmation email for ORD-55162 went to my spam folder, so I only just saw it. My partner placed ORD-55162 on our shared account, in case that matters. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Chloe Martin
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Chloe Martin ---
+Could you also tell me whether ORD-55162 qualifies for the extended return window? I'm happy to send screenshots if that helps. I changed my shipping address last month, so please double-check you have the new one. Is there a way to combine loyalty points from ORD-54810 with my next purchase?
+
+Thanks,
+Chloe Martin
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Luis (support) ---
+Loyalty points post about a week after an order is delivered. For ORD-55162, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context. I can see all the orders on your account, including ORD-38847.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

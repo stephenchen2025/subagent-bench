@@ -1,0 +1,59 @@
+Ticket T-2788
+Customer: Ines Duarte
+Orders on file: ORD-76336, ORD-48073, ORD-55985, ORD-92071
+Opened: 2026-03-02 via web form
+
+Order details:
+ORD-76336  placed 2026-03-15  status: delivered  total: $221.91
+  payment method: card ending 1030  ship to: 407 Harbor Lane
+  - camping stove x1
+  - stainless water bottle, 750ml x2
+  - gift wrap x3
+  - replacement filter cartridge, 3-pack x3
+ORD-48073  placed 2026-01-06  status: delivered  total: $323.30
+  payment method: card ending 2229  ship to: 425 Harbor Ave
+  - wool blanket x1
+  - USB-C charging cable (2m) x2
+  - spare battery pack x2
+ORD-55985  placed 2026-08-08  status: delivered  total: $144.18
+  payment method: card ending 7005  ship to: 270 Elm Ave
+  - carry-on suitcase x1
+  - stainless water bottle, 750ml x2
+  - merino socks, size M x2
+ORD-92071  placed 2026-06-07  status: delivered  total: $368.16
+  payment method: card ending 6085  ship to: 667 Harbor St
+  - cast iron skillet x1
+  - replacement filter cartridge, 3-pack x1
+  - microfiber cloth x1
+
+--- message 1 from Ines Duarte ---
+Where is my refund for ORD-92071? You said 5 days and it has been 8. I'm happy to send screenshots if that helps. I changed my shipping address last month, so please double-check you have the new one. Is there a way to combine loyalty points from ORD-55985 with my next purchase?
+
+Best regards,
+Ines Duarte
+
+--- message 2 from Keiko (support) ---
+Our warehouse shows ORD-55985 left on schedule. Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-48073. I've updated your shipping address on file.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ines Duarte ---
+Not your fault, but my gym billed me twice this month, which is why I'm nervous about ORD-76336. Everything on your side looks like a single charge, I just wanted to confirm the delivery date. I changed my shipping address last month, so please double-check you have the new one. I'm happy to send screenshots if that helps.
+
+Best regards,
+Ines Duarte
+
+--- message 4 from Ines Duarte ---
+My partner placed ORD-92071 on our shared account, in case that matters. The box for ORD-48073 was a bit crushed but the contents were fine. I changed my shipping address last month, so please double-check you have the new one. The bike light set itself is great, for what it's worth.
+
+Best regards,
+Ines Duarte
+
+--- message 5 from Keiko (support) ---
+Loyalty points post about a week after an order is delivered. I can see all the orders on your account, including ORD-55985. Let me know if anything else looks off. I've added a note to your account so the next agent has the context.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,22 @@
+{
+  "matches": [
+    {
+      "ticket": "T-2987",
+      "order": "ORD-37399"
+    },
+    {
+      "ticket": "T-8572",
+      "order": "ORD-23356"
+    }
+  ],
+  "kinds": {
+    "T-8572": "pos_direct",
+    "T-5831": "neg",
+    "T-1271": "dec_two_orders",
+    "T-7125": "dec_hold",
+    "T-2987": "pos_later",
+    "T-9904": "neg"
+  },
+  "family": "W",
+  "task_id": "orch-w-n6-s3"
+}

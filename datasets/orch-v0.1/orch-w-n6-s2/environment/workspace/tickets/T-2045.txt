@@ -1,0 +1,88 @@
+Ticket T-2045
+Customer: Felix Wagner
+Orders on file: ORD-65804, ORD-30889, ORD-58078, ORD-64633
+Opened: 2026-02-28 via chat transcript
+
+Order details:
+ORD-65804  placed 2026-08-27  status: delivered  total: $22.91
+  payment method: card ending 6881  ship to: 600 Oak Rd
+  - noise-cancelling headphones x1
+  - microfiber cloth x3
+  - extended warranty, 2 years x3
+ORD-30889  placed 2026-02-26  status: delivered  total: $21.70
+  payment method: card ending 6982  ship to: 187 Oak Rd
+  - rain jacket x1
+  - extended warranty, 2 years x3
+  - merino socks, size M x3
+ORD-58078  placed 2026-04-11  status: delivered  total: $388.70
+  payment method: card ending 1902  ship to: 112 Elm Rd
+  - noise-cancelling headphones x1
+  - USB-C charging cable (2m) x3
+  - gift wrap x2
+ORD-64633  placed 2026-07-17  status: delivered  total: $412.34
+  payment method: card ending 4102  ship to: 831 Oak Rd
+  - camping stove x1
+  - carabiner set x1
+  - USB-C charging cable (2m) x1
+  - merino socks, size M x2
+  - extended warranty, 2 years x1
+
+--- message 1 from Felix Wagner ---
+I'd like to return the cast iron skillet from ORD-30889; it's the wrong size. I've been a customer for a few years and usually everything goes smoothly. I tried the chat widget first but it kept disconnecting. I'm happy to send screenshots if that helps.
+
+Best regards,
+Felix Wagner
+
+--- message 2 from Pete (support) ---
+Our warehouse shows ORD-58078 left on schedule. I can see all the orders on your account, including ORD-30889. I've added a note to your account so the next agent has the context. I've resent the confirmation email for ORD-58078 to the address on file.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Felix Wagner ---
+I think I might have been charged twice for ORD-64633, but one of the lines on my online banking still says pending, so I'm not sure yet. Could you also tell me whether ORD-58078 qualifies for the extended return window? I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Felix Wagner
+
+--- message 4 from Pete (support) ---
+Tracking updates can lag by a day or two with this carrier. Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Felix Wagner ---
+Update: the second line has now posted, it's no longer pending. So both payments for ORD-64633 actually went through. I'm happy to send screenshots if that helps. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Felix Wagner
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Pete (support) ---
+I've checked with our payments team: both captures for ORD-64633 settled, so you were genuinely charged twice. I've issued a refund for the second one; it should show within 3-5 business days. For ORD-65804, the return window is 30 days from delivery. I can see all the orders on your account, including ORD-30889.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Felix Wagner ---
+I tried the chat widget first but it kept disconnecting. The box for ORD-58078 was a bit crushed but the contents were fine. Tracking for ORD-65804 hasn't updated since Tuesday.
+
+Thanks,
+Felix Wagner
+Sent from my phone -- please excuse typos.
+
+--- message 8 from Felix Wagner ---
+Could you also tell me whether ORD-65804 qualifies for the extended return window? The box for ORD-30889 was a bit crushed but the contents were fine. I'd rather not call; the hold times last time were very long. Tracking for ORD-58078 hasn't updated since Tuesday.
+
+Best regards,
+Felix Wagner
+
+--- message 9 from Pete (support) ---
+Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-65804. If you need an invoice for ORD-58078, you can download it from the Orders page. Our warehouse shows ORD-65804 left on schedule.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

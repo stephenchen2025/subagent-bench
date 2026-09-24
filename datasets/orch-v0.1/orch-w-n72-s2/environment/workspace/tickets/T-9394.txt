@@ -1,0 +1,75 @@
+Ticket T-9394
+Customer: Kofi Mensah
+Orders on file: ORD-34009, ORD-39072, ORD-97838, ORD-40654
+Opened: 2026-05-20 via chat transcript
+
+Order details:
+ORD-34009  placed 2026-03-22  status: label created  total: $51.95
+  payment method: card ending 8591  ship to: 806 Mill Lane
+  - water filter pitcher x1
+  - microfiber cloth x1
+  - merino socks, size M x3
+ORD-39072  placed 2026-03-13  status: delivered  total: $372.68
+  payment method: card ending 2041  ship to: 10 Cedar St
+  - bike light set x1
+  - stainless water bottle, 750ml x2
+  - carabiner set x3
+  - travel pouch x2
+  - gift wrap x3
+ORD-97838  placed 2026-03-13  status: returned  total: $171.31
+  payment method: card ending 9014  ship to: 307 Elm St
+  - espresso grinder x1
+  - replacement filter cartridge, 3-pack x3
+  - spare battery pack x2
+ORD-40654  placed 2026-08-02  status: delivered  total: $388.25
+  payment method: card ending 4203  ship to: 879 Elm St
+  - water filter pitcher x1
+  - extended warranty, 2 years x3
+  - carabiner set x3
+  - spare battery pack x1
+
+--- message 1 from Kofi Mensah ---
+How do I reset my password? The reset link keeps expiring. I'd rather not call; the hold times last time were very long. The yoga mat itself is great, for what it's worth. My partner placed ORD-97838 on our shared account, in case that matters.
+
+Kofi Mensah
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Pete (support) ---
+Loyalty points post about a week after an order is delivered. For ORD-97838, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering. Our warehouse shows ORD-97838 left on schedule.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Kofi Mensah ---
+The checkout page for ORD-34009 timed out. If I try to pay again, will I end up being charged twice? Could you also tell me whether ORD-97838 qualifies for the extended return window? The confirmation email for ORD-39072 went to my spam folder, so I only just saw it.
+
+Kofi Mensah
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Pete (support) ---
+Loyalty points post about a week after an order is delivered. For ORD-97838, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Pete (support) ---
+Retrying is safe. Our system blocks a second capture on ORD-34009, so a double charge can't happen. If you need an invoice for ORD-40654, you can download it from the Orders page. I can see all the orders on your account, including ORD-39072.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Kofi Mensah ---
+Could you also tell me whether ORD-39072 qualifies for the extended return window? The rain jacket itself is great, for what it's worth. I changed my shipping address last month, so please double-check you have the new one. I'm happy to send screenshots if that helps.
+
+Kofi Mensah
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Pete (support) ---
+I've resent the confirmation email for ORD-40654 to the address on file. Tracking updates can lag by a day or two with this carrier. For ORD-97838, the return window is 30 days from delivery. Thanks for reaching out, and sorry for the trouble.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

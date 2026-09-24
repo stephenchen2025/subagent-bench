@@ -1,0 +1,74 @@
+Ticket T-6258
+Customer: Aisha Karim
+Orders on file: ORD-10137, ORD-99461, ORD-51103, ORD-73027
+Opened: 2026-03-26 via web form
+
+Order details:
+ORD-10137  placed 2026-07-26  status: delivered  total: $288.01
+  payment method: card ending 4679  ship to: 898 Harbor Ave
+  - desk lamp x1
+  - replacement filter cartridge, 3-pack x1
+  - microfiber cloth x2
+ORD-99461  placed 2026-08-25  status: label created  total: $373.09
+  payment method: card ending 9178  ship to: 315 Elm St
+  - mechanical keyboard x1
+  - microfiber cloth x2
+  - carabiner set x1
+  - spare battery pack x2
+  - replacement filter cartridge, 3-pack x1
+ORD-51103  placed 2026-04-10  status: returned  total: $230.70
+  payment method: card ending 9238  ship to: 164 Harbor Lane
+  - wool blanket x1
+  - USB-C charging cable (2m) x2
+  - stainless water bottle, 750ml x2
+ORD-73027  placed 2026-05-17  status: in transit  total: $206.32
+  payment method: card ending 7160  ship to: 224 Mill Lane
+  - carry-on suitcase x1
+  - spare battery pack x3
+  - USB-C charging cable (2m) x2
+  - stainless water bottle, 750ml x2
+
+--- message 1 from Aisha Karim ---
+I'd like to return the camping stove from ORD-99461; it's the wrong size. I tried the chat widget first but it kept disconnecting. The box for ORD-99461 was a bit crushed but the contents were fine. My partner placed ORD-51103 on our shared account, in case that matters.
+
+Aisha Karim
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Rosa (support) ---
+I've updated your shipping address on file. For ORD-99461, the return window is 30 days from delivery. Our warehouse shows ORD-51103 left on schedule. I've added a note to your account so the next agent has the context.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Aisha Karim ---
+My card was charged two times for order ORD-10137. Your app logged me out twice while I was looking at this, which didn't help. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Aisha Karim
+
+--- message 4 from Aisha Karim ---
+Is there a way to combine loyalty points from ORD-51103 with my next purchase? Your app logged me out twice while I was looking at this, which didn't help. Tracking for ORD-73027 hasn't updated since Tuesday. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Aisha Karim
+
+--- message 5 from Rosa (support) ---
+I can see all the orders on your account, including ORD-51103. I've resent the confirmation email for ORD-51103 to the address on file. For ORD-51103, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Aisha Karim ---
+I'm travelling next week, so email is the best way to reach me. I've been a customer for a few years and usually everything goes smoothly. Your app logged me out twice while I was looking at this, which didn't help. Could you also tell me whether ORD-51103 qualifies for the extended return window?
+
+Best regards,
+Aisha Karim
+
+--- message 7 from Rosa (support) ---
+Loyalty points post about a week after an order is delivered. Our warehouse shows ORD-73027 left on schedule. Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-99461 to the address on file.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

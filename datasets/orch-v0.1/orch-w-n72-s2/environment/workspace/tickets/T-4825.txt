@@ -1,0 +1,59 @@
+Ticket T-4825
+Customer: Yuki Tanaka
+Orders on file: ORD-63579, ORD-75676, ORD-18747, ORD-28092
+Opened: 2026-04-09 via email
+
+Order details:
+ORD-63579  placed 2026-05-08  status: in transit  total: $198.62
+  payment method: card ending 7482  ship to: 344 Harbor Ave
+  - carry-on suitcase x1
+  - carabiner set x1
+  - gift wrap x1
+  - stainless water bottle, 750ml x3
+  - replacement filter cartridge, 3-pack x3
+ORD-75676  placed 2026-07-22  status: label created  total: $44.85
+  payment method: card ending 8736  ship to: 739 Oak Rd
+  - cast iron skillet x1
+  - stainless water bottle, 750ml x1
+  - microfiber cloth x1
+  - spare battery pack x2
+ORD-18747  placed 2026-05-13  status: delivered  total: $294.86
+  payment method: card ending 9885  ship to: 227 Elm Rd
+  - carry-on suitcase x1
+  - USB-C charging cable (2m) x1
+  - extended warranty, 2 years x3
+  - stainless water bottle, 750ml x2
+ORD-28092  placed 2026-04-05  status: returned  total: $140.18
+  payment method: card ending 3866  ship to: 828 Cedar Ave
+  - carry-on suitcase x1
+  - microfiber cloth x3
+  - travel pouch x3
+  - gift wrap x3
+  - stainless water bottle, 750ml x3
+
+--- message 1 from Yuki Tanaka ---
+Can I use a gift card on ORD-28092, or is it too late? The rain jacket itself is great, for what it's worth. I'm travelling next week, so email is the best way to reach me. The box for ORD-28092 was a bit crushed but the contents were fine.
+
+Yuki Tanaka
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Rosa (support) ---
+Screenshots aren't necessary, but thank you for offering. Our warehouse shows ORD-75676 left on schedule. I've updated your shipping address on file. I've added a note to your account so the next agent has the context.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Yuki Tanaka ---
+My earlier order ORD-63579 arrived fine, no complaints there. The desk lamp itself is great, for what it's worth. Could you also tell me whether ORD-28092 qualifies for the extended return window? I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Yuki Tanaka
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Rosa (support) ---
+If you need an invoice for ORD-63579, you can download it from the Orders page. Our warehouse shows ORD-75676 left on schedule. Tracking updates can lag by a day or two with this carrier. I've resent the confirmation email for ORD-63579 to the address on file.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

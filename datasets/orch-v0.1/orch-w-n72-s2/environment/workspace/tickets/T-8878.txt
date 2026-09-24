@@ -1,0 +1,75 @@
+Ticket T-8878
+Customer: Mateo Silva
+Orders on file: ORD-57730, ORD-30786, ORD-87240, ORD-54124
+Opened: 2026-01-18 via email
+
+Order details:
+ORD-57730  placed 2026-06-20  status: delivered  total: $128.81
+  payment method: card ending 7249  ship to: 30 Oak Ave
+  - water filter pitcher x1
+  - gift wrap x3
+  - USB-C charging cable (2m) x2
+ORD-30786  placed 2026-02-08  status: delivered  total: $114.55
+  payment method: card ending 4000  ship to: 267 Cedar Lane
+  - rain jacket x1
+  - replacement filter cartridge, 3-pack x3
+  - extended warranty, 2 years x1
+ORD-87240  placed 2026-04-03  status: returned  total: $171.44
+  payment method: card ending 2802  ship to: 347 Oak St
+  - rain jacket x1
+  - USB-C charging cable (2m) x1
+  - replacement filter cartridge, 3-pack x1
+  - extended warranty, 2 years x2
+ORD-54124  placed 2026-08-15  status: returned  total: $133.42
+  payment method: card ending 4250  ship to: 500 Harbor Ave
+  - camping stove x1
+  - microfiber cloth x3
+  - gift wrap x2
+  - carabiner set x3
+
+--- message 1 from Mateo Silva ---
+Can I use a gift card on ORD-57730, or is it too late? The blender itself is great, for what it's worth. My earlier order ORD-57730 arrived fine, no complaints there. I'm happy to send screenshots if that helps.
+
+Mateo Silva
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Marcus (support) ---
+I can see all the orders on your account, including ORD-54124. Tracking updates can lag by a day or two with this carrier. Loyalty points post about a week after an order is delivered. I've added a note to your account so the next agent has the context.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Mateo Silva ---
+Yes, there were two payments, but they're for two different orders (ORD-87240 and ORD-30786), so that's fine. I just need a receipt for each. Your app logged me out twice while I was looking at this, which didn't help. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Mateo Silva
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Mateo Silva ---
+I changed my shipping address last month, so please double-check you have the new one. Your app logged me out twice while I was looking at this, which didn't help. I tried the chat widget first but it kept disconnecting. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Mateo Silva
+Sent from my phone -- please excuse typos.
+
+--- message 5 from Marcus (support) ---
+If you need an invoice for ORD-54124, you can download it from the Orders page. Our warehouse shows ORD-30786 left on schedule. Screenshots aren't necessary, but thank you for offering. Tracking updates can lag by a day or two with this carrier.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Mateo Silva ---
+Tracking for ORD-54124 hasn't updated since Tuesday. I tried the chat widget first but it kept disconnecting. My earlier order ORD-54124 arrived fine, no complaints there. I'd rather not call; the hold times last time were very long.
+
+Mateo Silva
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Marcus (support) ---
+Our warehouse shows ORD-30786 left on schedule. I can see all the orders on your account, including ORD-54124. Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

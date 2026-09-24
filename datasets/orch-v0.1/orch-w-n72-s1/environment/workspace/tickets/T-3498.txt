@@ -1,0 +1,74 @@
+Ticket T-3498
+Customer: Leila Haddad
+Orders on file: ORD-70231, ORD-71551, ORD-82193, ORD-58750
+Opened: 2026-05-01 via chat transcript
+
+Order details:
+ORD-70231  placed 2026-05-28  status: label created  total: $404.13
+  payment method: card ending 4861  ship to: 847 Elm St
+  - rain jacket x1
+  - microfiber cloth x2
+  - extended warranty, 2 years x3
+  - replacement filter cartridge, 3-pack x3
+  - USB-C charging cable (2m) x1
+ORD-71551  placed 2026-08-14  status: delivered  total: $257.18
+  payment method: card ending 6388  ship to: 147 Harbor Lane
+  - blender x1
+  - gift wrap x1
+  - travel pouch x1
+  - extended warranty, 2 years x1
+  - microfiber cloth x1
+ORD-82193  placed 2026-05-24  status: delivered  total: $265.12
+  payment method: card ending 8514  ship to: 12 Mill Ave
+  - desk lamp x1
+  - merino socks, size M x2
+  - stainless water bottle, 750ml x2
+  - extended warranty, 2 years x2
+  - gift wrap x2
+ORD-58750  placed 2026-01-24  status: delivered  total: $316.78
+  payment method: card ending 1146  ship to: 517 Oak St
+  - noise-cancelling headphones x1
+  - gift wrap x1
+  - carabiner set x2
+  - extended warranty, 2 years x3
+  - USB-C charging cable (2m) x2
+
+--- message 1 from Leila Haddad ---
+Can I use a gift card on ORD-82193, or is it too late? Is there a way to combine loyalty points from ORD-71551 with my next purchase? Your app logged me out twice while I was looking at this, which didn't help. I changed my shipping address last month, so please double-check you have the new one.
+
+Thanks,
+Leila Haddad
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Pete (support) ---
+Thanks for reaching out, and sorry for the trouble. Loyalty points post about a week after an order is delivered. Tracking updates can lag by a day or two with this carrier. Our warehouse shows ORD-71551 left on schedule.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Leila Haddad ---
+The confirmation email for ORD-70231 went to my spam folder, so I only just saw it. I've been a customer for a few years and usually everything goes smoothly. I'm happy to send screenshots if that helps. I tried the chat widget first but it kept disconnecting.
+
+Leila Haddad
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Pete (support) ---
+Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context. Let me know if anything else looks off. If you need an invoice for ORD-70231, you can download it from the Orders page.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Leila Haddad ---
+I'd rather not call; the hold times last time were very long. I changed my shipping address last month, so please double-check you have the new one. My earlier order ORD-71551 arrived fine, no complaints there. The confirmation email for ORD-82193 went to my spam folder, so I only just saw it.
+
+Leila Haddad
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Pete (support) ---
+Tracking updates can lag by a day or two with this carrier. Loyalty points post about a week after an order is delivered. Let me know if anything else looks off. I can see all the orders on your account, including ORD-70231.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

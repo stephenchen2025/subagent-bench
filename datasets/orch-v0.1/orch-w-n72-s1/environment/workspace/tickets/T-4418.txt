@@ -1,0 +1,87 @@
+Ticket T-4418
+Customer: Liam O'Neill
+Orders on file: ORD-13894, ORD-97041, ORD-59593, ORD-25627
+Opened: 2026-02-16 via email
+
+Order details:
+ORD-13894  placed 2026-02-11  status: delivered  total: $472.57
+  payment method: card ending 7928  ship to: 695 Mill St
+  - carry-on suitcase x1
+  - stainless water bottle, 750ml x2
+  - spare battery pack x3
+  - gift wrap x2
+ORD-97041  placed 2026-03-06  status: returned  total: $352.62
+  payment method: card ending 9023  ship to: 398 Oak Ave
+  - rain jacket x1
+  - extended warranty, 2 years x3
+  - gift wrap x3
+ORD-59593  placed 2026-03-01  status: in transit  total: $267.72
+  payment method: card ending 6569  ship to: 141 Cedar Ave
+  - noise-cancelling headphones x1
+  - merino socks, size M x1
+  - extended warranty, 2 years x2
+  - travel pouch x2
+ORD-25627  placed 2026-08-13  status: label created  total: $190.83
+  payment method: card ending 1329  ship to: 806 Elm Ave
+  - blender x1
+  - stainless water bottle, 750ml x3
+  - microfiber cloth x1
+  - spare battery pack x2
+
+--- message 1 from Liam O'Neill ---
+I'd like to return the standing desk from ORD-59593; it's the wrong size. I've been a customer for a few years and usually everything goes smoothly. My partner placed ORD-25627 on our shared account, in case that matters. Your app logged me out twice while I was looking at this, which didn't help.
+
+Liam O'Neill
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Marcus (support) ---
+I've updated your shipping address on file. For ORD-97041, the return window is 30 days from delivery. Our warehouse shows ORD-97041 left on schedule. Screenshots aren't necessary, but thank you for offering.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Liam O'Neill ---
+My card was charged two times for order ORD-13894. I changed my shipping address last month, so please double-check you have the new one. My earlier order ORD-25627 arrived fine, no complaints there.
+
+Liam O'Neill
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Marcus (support) ---
+Confirmed on our side -- ORD-13894 was captured twice by a retry in our checkout. One refund of $189.08 is on its way to you. I've resent the confirmation email for ORD-25627 to the address on file. Our warehouse shows ORD-59593 left on schedule.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Liam O'Neill ---
+The water filter pitcher itself is great, for what it's worth. Tracking for ORD-97041 hasn't updated since Tuesday. Your app logged me out twice while I was looking at this, which didn't help.
+
+Liam O'Neill
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Liam O'Neill ---
+My partner placed ORD-97041 on our shared account, in case that matters. The box for ORD-25627 was a bit crushed but the contents were fine. I tried the chat widget first but it kept disconnecting. Could you also tell me whether ORD-97041 qualifies for the extended return window?
+
+Liam O'Neill
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Marcus (support) ---
+Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering. If you need an invoice for ORD-97041, you can download it from the Orders page. I've updated your shipping address on file.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 8 from Liam O'Neill ---
+I'd rather not call; the hold times last time were very long. Is there a way to combine loyalty points from ORD-97041 with my next purchase? I tried the chat widget first but it kept disconnecting. The confirmation email for ORD-59593 went to my spam folder, so I only just saw it.
+
+Best regards,
+Liam O'Neill
+
+--- message 9 from Marcus (support) ---
+Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-97041. Our warehouse shows ORD-97041 left on schedule. Let me know if anything else looks off.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

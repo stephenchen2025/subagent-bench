@@ -1,0 +1,56 @@
+Ticket T-6636
+Customer: Noah Fischer
+Orders on file: ORD-20445, ORD-56047, ORD-80702, ORD-38136
+Opened: 2026-08-16 via chat transcript
+
+Order details:
+ORD-20445  placed 2026-05-05  status: returned  total: $78.58
+  payment method: card ending 1629  ship to: 715 Harbor Ave
+  - camping stove x1
+  - carabiner set x3
+  - extended warranty, 2 years x2
+  - stainless water bottle, 750ml x2
+  - microfiber cloth x2
+ORD-56047  placed 2026-05-08  status: in transit  total: $58.53
+  payment method: card ending 1605  ship to: 711 Cedar St
+  - bike light set x1
+  - USB-C charging cable (2m) x2
+  - replacement filter cartridge, 3-pack x3
+  - travel pouch x1
+ORD-80702  placed 2026-01-19  status: returned  total: $443.38
+  payment method: card ending 8507  ship to: 821 Oak Ave
+  - desk lamp x1
+  - spare battery pack x1
+  - gift wrap x2
+  - replacement filter cartridge, 3-pack x3
+ORD-38136  placed 2026-03-03  status: label created  total: $19.47
+  payment method: card ending 3664  ship to: 992 Elm Lane
+  - trail running shoes x1
+  - travel pouch x2
+  - USB-C charging cable (2m) x3
+
+--- message 1 from Noah Fischer ---
+Where is my refund for ORD-56047? You said 5 days and it has been 8. The confirmation email for ORD-80702 went to my spam folder, so I only just saw it. I changed my shipping address last month, so please double-check you have the new one. I tried the chat widget first but it kept disconnecting.
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Fatima (support) ---
+Tracking updates can lag by a day or two with this carrier. If you need an invoice for ORD-20445, you can download it from the Orders page. I've updated your shipping address on file. I've added a note to your account so the next agent has the context.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Noah Fischer ---
+Your app logged me out twice while I was looking at this, which didn't help. The confirmation email for ORD-56047 went to my spam folder, so I only just saw it. Is there a way to combine loyalty points from ORD-20445 with my next purchase? The box for ORD-20445 was a bit crushed but the contents were fine.
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Fatima (support) ---
+Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-80702. Loyalty points post about a week after an order is delivered. Thanks for reaching out, and sorry for the trouble.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

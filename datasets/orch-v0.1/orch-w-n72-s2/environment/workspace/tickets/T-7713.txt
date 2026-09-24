@@ -1,0 +1,79 @@
+Ticket T-7713
+Customer: Diego Alvarez
+Orders on file: ORD-52133, ORD-44137, ORD-44817, ORD-67827
+Opened: 2026-05-02 via web form
+
+Order details:
+ORD-52133  placed 2026-01-09  status: label created  total: $432.58
+  payment method: card ending 9233  ship to: 849 Mill Lane
+  - rain jacket x1
+  - stainless water bottle, 750ml x1
+  - gift wrap x2
+  - spare battery pack x1
+ORD-44137  placed 2026-01-05  status: delivered  total: $224.56
+  payment method: card ending 8441  ship to: 103 Oak St
+  - desk lamp x1
+  - USB-C charging cable (2m) x2
+  - microfiber cloth x2
+  - stainless water bottle, 750ml x1
+ORD-44817  placed 2026-01-05  status: delivered  total: $298.18
+  payment method: card ending 9128  ship to: 406 Mill Lane
+  - standing desk x1
+  - travel pouch x3
+  - spare battery pack x1
+  - replacement filter cartridge, 3-pack x2
+ORD-67827  placed 2026-06-07  status: delivered  total: $279.67
+  payment method: card ending 4424  ship to: 863 Elm Lane
+  - cast iron skillet x1
+  - spare battery pack x3
+  - merino socks, size M x1
+  - USB-C charging cable (2m) x2
+  - stainless water bottle, 750ml x1
+
+--- message 1 from Diego Alvarez ---
+I need to change the delivery address for ORD-67827 before it ships. Could you also tell me whether ORD-44137 qualifies for the extended return window? Tracking for ORD-44137 hasn't updated since Tuesday. I'm happy to send screenshots if that helps.
+
+Thanks,
+Diego Alvarez
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Keiko (support) ---
+I've updated your shipping address on file. I can see all the orders on your account, including ORD-67827. For ORD-44137, the return window is 30 days from delivery. Loyalty points post about a week after an order is delivered.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Diego Alvarez ---
+I think I might have been charged twice for ORD-52133, but one of the lines on my credit union still says pending, so I'm not sure yet. My partner placed ORD-67827 on our shared account, in case that matters. Could you also tell me whether ORD-44137 qualifies for the extended return window?
+
+Best regards,
+Diego Alvarez
+
+--- message 4 from Diego Alvarez ---
+Update: the second line has now posted, it's no longer pending. So both payments for ORD-52133 actually went through. I'm travelling next week, so email is the best way to reach me. The confirmation email for ORD-44137 went to my spam folder, so I only just saw it.
+
+Thanks,
+Diego Alvarez
+Sent from my phone -- please excuse typos.
+
+--- message 5 from Keiko (support) ---
+I've checked with our payments team: both captures for ORD-52133 settled, so you were genuinely charged twice. I've issued a refund for the second one; it should show within 3-5 business days. For ORD-67827, the return window is 30 days from delivery. I've added a note to your account so the next agent has the context.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Diego Alvarez ---
+I changed my shipping address last month, so please double-check you have the new one. My partner placed ORD-44817 on our shared account, in case that matters. Tracking for ORD-44817 hasn't updated since Tuesday. Your app logged me out twice while I was looking at this, which didn't help.
+
+Thanks,
+Diego Alvarez
+Sent from my phone -- please excuse typos.
+
+--- message 7 from Keiko (support) ---
+I've resent the confirmation email for ORD-67827 to the address on file. If you need an invoice for ORD-44137, you can download it from the Orders page. Our warehouse shows ORD-67827 left on schedule. Loyalty points post about a week after an order is delivered.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

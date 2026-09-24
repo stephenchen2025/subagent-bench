@@ -1,0 +1,58 @@
+Ticket T-1796
+Customer: Maya Cohen
+Orders on file: ORD-54920, ORD-47436, ORD-14708, ORD-47623
+Opened: 2026-03-23 via web form
+
+Order details:
+ORD-54920  placed 2026-01-11  status: delivered  total: $120.23
+  payment method: card ending 5614  ship to: 546 Harbor St
+  - mechanical keyboard x1
+  - travel pouch x1
+  - microfiber cloth x3
+  - gift wrap x3
+ORD-47436  placed 2026-06-28  status: delivered  total: $66.91
+  payment method: card ending 3498  ship to: 243 Cedar St
+  - water filter pitcher x1
+  - merino socks, size M x1
+  - carabiner set x1
+  - extended warranty, 2 years x3
+ORD-14708  placed 2026-03-23  status: in transit  total: $397.91
+  payment method: card ending 2558  ship to: 55 Oak Rd
+  - espresso grinder x1
+  - merino socks, size M x1
+  - gift wrap x3
+  - travel pouch x3
+  - stainless water bottle, 750ml x3
+ORD-47623  placed 2026-05-06  status: in transit  total: $211.38
+  payment method: card ending 7519  ship to: 295 Oak St
+  - water filter pitcher x1
+  - USB-C charging cable (2m) x1
+  - microfiber cloth x2
+  - extended warranty, 2 years x2
+
+--- message 1 from Maya Cohen ---
+Where is my refund for ORD-54920? You said 5 days and it has been 8. I've been a customer for a few years and usually everything goes smoothly. I tried the chat widget first but it kept disconnecting. My partner placed ORD-54920 on our shared account, in case that matters.
+
+Thanks,
+Maya Cohen
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Arjun (support) ---
+Our warehouse shows ORD-47436 left on schedule. Tracking updates can lag by a day or two with this carrier. I can see all the orders on your account, including ORD-54920. For ORD-54920, the return window is 30 days from delivery.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Maya Cohen ---
+My partner placed ORD-54920 on our shared account, in case that matters. Is there a way to combine loyalty points from ORD-47623 with my next purchase? I tried the chat widget first but it kept disconnecting. The mechanical keyboard itself is great, for what it's worth.
+
+Maya Cohen
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Arjun (support) ---
+Let me know if anything else looks off. If you need an invoice for ORD-47436, you can download it from the Orders page. I've added a note to your account so the next agent has the context. I can see all the orders on your account, including ORD-54920.
+
+Arjun
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

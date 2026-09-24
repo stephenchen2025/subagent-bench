@@ -1,0 +1,54 @@
+Ticket T-1662
+Customer: Noah Fischer
+Orders on file: ORD-40804, ORD-92818, ORD-38619, ORD-88939
+Opened: 2026-04-12 via chat transcript
+
+Order details:
+ORD-40804  placed 2026-07-04  status: delivered  total: $318.04
+  payment method: card ending 1922  ship to: 991 Cedar Rd
+  - rain jacket x1
+  - travel pouch x1
+  - carabiner set x3
+  - extended warranty, 2 years x3
+ORD-92818  placed 2026-01-08  status: delivered  total: $100.85
+  payment method: card ending 2409  ship to: 69 Harbor Ave
+  - yoga mat x1
+  - extended warranty, 2 years x2
+  - gift wrap x3
+  - microfiber cloth x2
+ORD-38619  placed 2026-04-14  status: returned  total: $107.24
+  payment method: card ending 3781  ship to: 675 Elm Lane
+  - blender x1
+  - carabiner set x3
+  - spare battery pack x3
+ORD-88939  placed 2026-03-01  status: delivered  total: $150.58
+  payment method: card ending 7166  ship to: 874 Harbor Ave
+  - bike light set x1
+  - replacement filter cartridge, 3-pack x2
+  - stainless water bottle, 750ml x3
+
+--- message 1 from Noah Fischer ---
+The desk lamp from ORD-40804 arrived with a scratch on the side. Can I get a replacement? Your app logged me out twice while I was looking at this, which didn't help. Is there a way to combine loyalty points from ORD-92818 with my next purchase? Could you also tell me whether ORD-88939 qualifies for the extended return window?
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Fatima (support) ---
+Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering. Let me know if anything else looks off. I can see all the orders on your account, including ORD-40804.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Noah Fischer ---
+The confirmation email for ORD-92818 went to my spam folder, so I only just saw it. I'm travelling next week, so email is the best way to reach me. Could you also tell me whether ORD-40804 qualifies for the extended return window? I'd rather not call; the hold times last time were very long.
+
+Noah Fischer
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Fatima (support) ---
+I can see all the orders on your account, including ORD-92818. I've resent the confirmation email for ORD-40804 to the address on file. For ORD-88939, the return window is 30 days from delivery. Screenshots aren't necessary, but thank you for offering.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

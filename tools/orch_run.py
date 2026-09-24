@@ -8,7 +8,7 @@ path the rehearsal takes), so ANTHROPIC_API_KEY is the only prerequisite. That
 is a first-run convenience, not a sandbox: a live model runs real commands on
 this machine. For anything beyond a first look, run the same tasks under Harbor:
 
-    harbor run -p build/orch/tasks -a orch.harbor_agent:OrchMiniAgent \\
+    harbor run -p datasets/orch-v0.1 -a orch.harbor_agent:OrchMiniAgent \\
         -m anthropic/claude-sonnet-5 --ak mode=delegate
 
 Every completed run is written to disk as it finishes, so an interrupted run

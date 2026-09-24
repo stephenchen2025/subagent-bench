@@ -1,0 +1,90 @@
+Ticket T-7789
+Customer: Chloe Martin
+Orders on file: ORD-53907, ORD-81427, ORD-37338, ORD-75816
+Opened: 2026-07-03 via web form
+
+Order details:
+ORD-53907  placed 2026-01-15  status: delivered  total: $137.33
+  payment method: card ending 7360  ship to: 36 Oak Rd
+  - noise-cancelling headphones x1
+  - stainless water bottle, 750ml x1
+  - USB-C charging cable (2m) x2
+  - carabiner set x3
+ORD-81427  placed 2026-04-02  status: delivered  total: $245.23
+  payment method: card ending 8828  ship to: 780 Cedar Rd
+  - yoga mat x1
+  - travel pouch x3
+  - merino socks, size M x1
+  - microfiber cloth x2
+  - extended warranty, 2 years x2
+ORD-37338  placed 2026-02-03  status: returned  total: $91.58
+  payment method: card ending 4598  ship to: 299 Cedar Ave
+  - espresso grinder x1
+  - travel pouch x3
+  - gift wrap x2
+ORD-75816  placed 2026-03-01  status: delivered  total: $335.34
+  payment method: card ending 3226  ship to: 715 Elm Ave
+  - desk lamp x1
+  - merino socks, size M x3
+  - replacement filter cartridge, 3-pack x1
+  - gift wrap x2
+  - carabiner set x3
+
+--- message 1 from Chloe Martin ---
+Can I use a gift card on ORD-53907, or is it too late? Is there a way to combine loyalty points from ORD-81427 with my next purchase? I tried the chat widget first but it kept disconnecting. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Chloe Martin
+
+--- message 2 from Marcus (support) ---
+I can see all the orders on your account, including ORD-75816. I've added a note to your account so the next agent has the context. Let me know if anything else looks off. For ORD-75816, the return window is 30 days from delivery.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Chloe Martin ---
+There are two identical debits on my credit union and both reference ORD-37338. Is there a way to combine loyalty points from ORD-81427 with my next purchase? Tracking for ORD-81427 hasn't updated since Tuesday.
+
+Thanks,
+Chloe Martin
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Marcus (support) ---
+Our warehouse shows ORD-53907 left on schedule. Tracking updates can lag by a day or two with this carrier. Thanks for reaching out, and sorry for the trouble.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Marcus (support) ---
+Our payment logs show a single capture for ORD-37338. The extra line you saw was an authorization that expired on its own -- no money was taken for it. For ORD-53907, the return window is 30 days from delivery. Tracking updates can lag by a day or two with this carrier.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Chloe Martin ---
+My partner placed ORD-81427 on our shared account, in case that matters. The mechanical keyboard itself is great, for what it's worth. Tracking for ORD-75816 hasn't updated since Tuesday.
+
+Best regards,
+Chloe Martin
+
+--- message 7 from Chloe Martin ---
+Thanks, I see it now: one payment for ORD-37338, the other one disappeared. All good. I changed my shipping address last month, so please double-check you have the new one. Could you also tell me whether ORD-81427 qualifies for the extended return window?
+
+Chloe Martin
+(Please reply by email rather than phone if possible.)
+
+--- message 8 from Chloe Martin ---
+My earlier order ORD-53907 arrived fine, no complaints there. I changed my shipping address last month, so please double-check you have the new one. I'm happy to send screenshots if that helps. I'm travelling next week, so email is the best way to reach me.
+
+Chloe Martin
+(Please reply by email rather than phone if possible.)
+
+--- message 9 from Marcus (support) ---
+I've added a note to your account so the next agent has the context. Screenshots aren't necessary, but thank you for offering. Thanks for reaching out, and sorry for the trouble. Let me know if anything else looks off.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

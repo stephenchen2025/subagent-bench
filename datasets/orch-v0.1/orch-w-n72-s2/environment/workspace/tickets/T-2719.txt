@@ -1,0 +1,71 @@
+Ticket T-2719
+Customer: Leila Haddad
+Orders on file: ORD-64266, ORD-11911, ORD-17670, ORD-65841
+Opened: 2026-08-17 via web form
+
+Order details:
+ORD-64266  placed 2026-03-19  status: delivered  total: $75.02
+  payment method: card ending 8467  ship to: 248 Mill St
+  - standing desk x1
+  - microfiber cloth x1
+  - extended warranty, 2 years x2
+  - stainless water bottle, 750ml x1
+  - USB-C charging cable (2m) x2
+ORD-11911  placed 2026-08-27  status: delivered  total: $120.12
+  payment method: card ending 2707  ship to: 870 Harbor St
+  - noise-cancelling headphones x1
+  - replacement filter cartridge, 3-pack x1
+  - carabiner set x1
+  - microfiber cloth x3
+ORD-17670  placed 2026-04-25  status: returned  total: $366.68
+  payment method: card ending 1993  ship to: 867 Elm Ave
+  - carry-on suitcase x1
+  - travel pouch x1
+  - replacement filter cartridge, 3-pack x1
+  - carabiner set x3
+ORD-65841  placed 2026-05-23  status: in transit  total: $80.70
+  payment method: card ending 1932  ship to: 710 Cedar Lane
+  - standing desk x1
+  - extended warranty, 2 years x1
+  - microfiber cloth x2
+  - replacement filter cartridge, 3-pack x3
+  - carabiner set x3
+
+--- message 1 from Leila Haddad ---
+Where is my refund for ORD-11911? You said 5 days and it has been 8. The box for ORD-11911 was a bit crushed but the contents were fine. I've been a customer for a few years and usually everything goes smoothly. I'd rather not call; the hold times last time were very long.
+
+Best regards,
+Leila Haddad
+
+--- message 2 from Fatima (support) ---
+I've resent the confirmation email for ORD-17670 to the address on file. I've added a note to your account so the next agent has the context. Thanks for reaching out, and sorry for the trouble. Screenshots aren't necessary, but thank you for offering.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Leila Haddad ---
+The confirmation email for ORD-65841 went to my spam folder, so I only just saw it. I'm happy to send screenshots if that helps. I'm travelling next week, so email is the best way to reach me. Could you also tell me whether ORD-11911 qualifies for the extended return window?
+
+Leila Haddad
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Fatima (support) ---
+Our warehouse shows ORD-11911 left on schedule. Let me know if anything else looks off. I've resent the confirmation email for ORD-65841 to the address on file. Tracking updates can lag by a day or two with this carrier.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Leila Haddad ---
+The yoga mat itself is great, for what it's worth. I changed my shipping address last month, so please double-check you have the new one. The box for ORD-17670 was a bit crushed but the contents were fine. My earlier order ORD-65841 arrived fine, no complaints there.
+
+Leila Haddad
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Fatima (support) ---
+I've updated your shipping address on file. Our warehouse shows ORD-11911 left on schedule. I've added a note to your account so the next agent has the context. For ORD-65841, the return window is 30 days from delivery.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

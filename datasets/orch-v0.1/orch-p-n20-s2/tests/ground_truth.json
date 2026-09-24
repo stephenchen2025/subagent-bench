@@ -1,0 +1,86 @@
+{
+  "services": {
+    "session-store": {
+      "component": "http-frontend",
+      "cause": "out-of-memory"
+    },
+    "ledger": {
+      "component": "cache-warmer",
+      "cause": "dns-failure"
+    },
+    "webhook-relay": {
+      "component": "metrics-shipper",
+      "cause": "expired-credential"
+    },
+    "feed-builder": {
+      "component": "peer-resolver",
+      "cause": "dns-failure"
+    },
+    "thumbnailer": {
+      "component": "peer-resolver",
+      "cause": "expired-credential"
+    },
+    "catalog-api": {
+      "component": "batch-assembler",
+      "cause": "disk-full"
+    },
+    "invoice-render": {
+      "component": "queue-consumer",
+      "cause": "out-of-memory"
+    },
+    "payout-batch": {
+      "component": "token-refresher",
+      "cause": "expired-credential"
+    },
+    "export-worker": {
+      "component": "config-loader",
+      "cause": "out-of-memory"
+    },
+    "geo-lookup": {
+      "component": "cache-warmer",
+      "cause": "dns-failure"
+    },
+    "authz": {
+      "component": "metrics-shipper",
+      "cause": "out-of-memory"
+    },
+    "audit-trail": {
+      "component": "config-loader",
+      "cause": "dns-failure"
+    },
+    "quota-keeper": {
+      "component": "token-refresher",
+      "cause": "out-of-memory"
+    },
+    "email-digest": {
+      "component": "schema-migrator",
+      "cause": "disk-full"
+    },
+    "fraud-score": {
+      "component": "token-refresher",
+      "cause": "expired-credential"
+    },
+    "rate-limiter": {
+      "component": "queue-consumer",
+      "cause": "out-of-memory"
+    },
+    "media-resizer": {
+      "component": "http-frontend",
+      "cause": "dns-failure"
+    },
+    "search-indexer": {
+      "component": "schema-migrator",
+      "cause": "dns-failure"
+    },
+    "notifier": {
+      "component": "http-frontend",
+      "cause": "out-of-memory"
+    },
+    "billing-sync": {
+      "component": "token-refresher",
+      "cause": "disk-full"
+    }
+  },
+  "family": "P",
+  "task_id": "orch-p-n20-s2"
+}

@@ -1,0 +1,83 @@
+Ticket T-9561
+Customer: Kofi Mensah
+Orders on file: ORD-49570, ORD-79843, ORD-76451, ORD-80407
+Opened: 2026-04-05 via email
+
+Order details:
+ORD-49570  placed 2026-07-14  status: label created  total: $452.97
+  payment method: card ending 7427  ship to: 944 Elm Rd
+  - water filter pitcher x1
+  - merino socks, size M x3
+  - spare battery pack x1
+  - extended warranty, 2 years x1
+  - replacement filter cartridge, 3-pack x3
+ORD-79843  placed 2026-06-08  status: label created  total: $173.89
+  payment method: card ending 5107  ship to: 485 Oak Ave
+  - espresso grinder x1
+  - spare battery pack x2
+  - carabiner set x2
+ORD-76451  placed 2026-06-21  status: delivered  total: $382.92
+  payment method: card ending 8832  ship to: 923 Cedar Rd
+  - yoga mat x1
+  - spare battery pack x2
+  - travel pouch x1
+  - replacement filter cartridge, 3-pack x1
+  - stainless water bottle, 750ml x2
+ORD-80407  placed 2026-04-21  status: in transit  total: $61.87
+  payment method: card ending 2283  ship to: 363 Oak Ave
+  - rain jacket x1
+  - spare battery pack x3
+  - USB-C charging cable (2m) x3
+
+--- message 1 from Kofi Mensah ---
+How do I reset my password? The reset link keeps expiring. I tried the chat widget first but it kept disconnecting. Could you also tell me whether ORD-80407 qualifies for the extended return window? Your app logged me out twice while I was looking at this, which didn't help.
+
+Kofi Mensah
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Pete (support) ---
+Let me know if anything else looks off. I've resent the confirmation email for ORD-79843 to the address on file. I can see all the orders on your account, including ORD-80407. I've updated your shipping address on file.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Kofi Mensah ---
+I got two receipts for ORD-76451, and both amounts actually left my account. Is there a way to combine loyalty points from ORD-79843 with my next purchase? The confirmation email for ORD-49570 went to my spam folder, so I only just saw it.
+
+Best regards,
+Kofi Mensah
+
+--- message 4 from Pete (support) ---
+I've resent the confirmation email for ORD-79843 to the address on file. I've added a note to your account so the next agent has the context. Let me know if anything else looks off.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Kofi Mensah ---
+The confirmation email for ORD-49570 went to my spam folder, so I only just saw it. Is there a way to combine loyalty points from ORD-80407 with my next purchase? I'd rather not call; the hold times last time were very long. I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Kofi Mensah
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Pete (support) ---
+I've added a note to your account so the next agent has the context. Tracking updates can lag by a day or two with this carrier. I can see all the orders on your account, including ORD-80407. Loyalty points post about a week after an order is delivered.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Kofi Mensah ---
+Tracking for ORD-80407 hasn't updated since Tuesday. I've been a customer for a few years and usually everything goes smoothly. My partner placed ORD-79843 on our shared account, in case that matters. Could you also tell me whether ORD-80407 qualifies for the extended return window?
+
+Best regards,
+Kofi Mensah
+
+--- message 8 from Pete (support) ---
+If you need an invoice for ORD-49570, you can download it from the Orders page. Let me know if anything else looks off. I've updated your shipping address on file. Screenshots aren't necessary, but thank you for offering.
+
+Pete
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,68 @@
+Ticket T-6750
+Customer: Ben Carter
+Orders on file: ORD-39885, ORD-43981, ORD-68199, ORD-10962
+Opened: 2026-02-13 via web form
+
+Order details:
+ORD-39885  placed 2026-06-08  status: in transit  total: $291.47
+  payment method: card ending 8070  ship to: 896 Elm St
+  - bike light set x1
+  - gift wrap x1
+  - stainless water bottle, 750ml x2
+ORD-43981  placed 2026-06-20  status: returned  total: $407.03
+  payment method: card ending 3184  ship to: 235 Harbor St
+  - desk lamp x1
+  - spare battery pack x3
+  - stainless water bottle, 750ml x1
+  - extended warranty, 2 years x2
+ORD-68199  placed 2026-02-12  status: returned  total: $290.74
+  payment method: card ending 1778  ship to: 815 Mill Ave
+  - yoga mat x1
+  - stainless water bottle, 750ml x1
+  - gift wrap x1
+  - spare battery pack x2
+ORD-10962  placed 2026-01-20  status: label created  total: $246.35
+  payment method: card ending 2365  ship to: 706 Elm Lane
+  - blender x1
+  - microfiber cloth x1
+  - spare battery pack x3
+
+--- message 1 from Ben Carter ---
+Can I use a gift card on ORD-10962, or is it too late? The camping stove itself is great, for what it's worth. The confirmation email for ORD-68199 went to my spam folder, so I only just saw it. I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Ben Carter
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Fatima (support) ---
+For ORD-43981, the return window is 30 days from delivery. Let me know if anything else looks off. Screenshots aren't necessary, but thank you for offering. If you need an invoice for ORD-43981, you can download it from the Orders page.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Ben Carter ---
+I was billed twice for ORD-39885 -- same amount, same day. The confirmation email for ORD-68199 went to my spam folder, so I only just saw it. I tried the chat widget first but it kept disconnecting.
+
+Best regards,
+Ben Carter
+
+--- message 4 from Fatima (support) ---
+Loyalty points post about a week after an order is delivered. For ORD-43981, the return window is 30 days from delivery. Tracking updates can lag by a day or two with this carrier.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Ben Carter ---
+I'm happy to send screenshots if that helps. My partner placed ORD-10962 on our shared account, in case that matters. I'm travelling next week, so email is the best way to reach me. The rain jacket itself is great, for what it's worth.
+
+Best regards,
+Ben Carter
+
+--- message 6 from Fatima (support) ---
+Screenshots aren't necessary, but thank you for offering. Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-10962 to the address on file. I can see all the orders on your account, including ORD-43981.
+
+Fatima
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

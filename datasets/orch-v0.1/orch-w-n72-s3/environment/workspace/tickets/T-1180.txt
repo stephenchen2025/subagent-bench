@@ -1,0 +1,71 @@
+Ticket T-1180
+Customer: Grace Mwangi
+Orders on file: ORD-32887, ORD-37124, ORD-73147, ORD-64250
+Opened: 2026-01-24 via email
+
+Order details:
+ORD-32887  placed 2026-07-26  status: delivered  total: $355.54
+  payment method: card ending 6794  ship to: 397 Harbor Rd
+  - camping stove x1
+  - microfiber cloth x1
+  - travel pouch x1
+  - carabiner set x2
+ORD-37124  placed 2026-02-26  status: label created  total: $472.39
+  payment method: card ending 5626  ship to: 817 Harbor Ave
+  - noise-cancelling headphones x1
+  - extended warranty, 2 years x3
+  - merino socks, size M x1
+  - spare battery pack x1
+  - USB-C charging cable (2m) x3
+ORD-73147  placed 2026-05-05  status: returned  total: $21.28
+  payment method: card ending 2564  ship to: 995 Oak Rd
+  - rain jacket x1
+  - replacement filter cartridge, 3-pack x3
+  - carabiner set x2
+  - spare battery pack x2
+  - stainless water bottle, 750ml x2
+ORD-64250  placed 2026-04-08  status: delivered  total: $335.85
+  payment method: card ending 2742  ship to: 830 Mill St
+  - espresso grinder x1
+  - travel pouch x1
+  - merino socks, size M x2
+
+--- message 1 from Grace Mwangi ---
+Can I use a gift card on ORD-64250, or is it too late? I've been a customer for a few years and usually everything goes smoothly. The box for ORD-37124 was a bit crushed but the contents were fine. Tracking for ORD-32887 hasn't updated since Tuesday.
+
+Grace Mwangi
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Keiko (support) ---
+Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context. I've updated your shipping address on file. Let me know if anything else looks off.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Grace Mwangi ---
+I changed my shipping address last month, so please double-check you have the new one. Tracking for ORD-64250 hasn't updated since Tuesday. I tried the chat widget first but it kept disconnecting. My partner placed ORD-37124 on our shared account, in case that matters.
+
+Grace Mwangi
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Keiko (support) ---
+Let me know if anything else looks off. If you need an invoice for ORD-32887, you can download it from the Orders page. I can see all the orders on your account, including ORD-32887. For ORD-64250, the return window is 30 days from delivery.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Grace Mwangi ---
+Your app logged me out twice while I was looking at this, which didn't help. The confirmation email for ORD-32887 went to my spam folder, so I only just saw it. The box for ORD-64250 was a bit crushed but the contents were fine. The bike light set itself is great, for what it's worth.
+
+Thanks,
+Grace Mwangi
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Keiko (support) ---
+Our warehouse shows ORD-64250 left on schedule. Let me know if anything else looks off. I've added a note to your account so the next agent has the context. Thanks for reaching out, and sorry for the trouble.
+
+Keiko
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

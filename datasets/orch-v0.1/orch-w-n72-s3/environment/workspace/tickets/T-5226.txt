@@ -1,0 +1,71 @@
+Ticket T-5226
+Customer: Felix Wagner
+Orders on file: ORD-69136, ORD-13569, ORD-14113, ORD-20645
+Opened: 2026-02-03 via email
+
+Order details:
+ORD-69136  placed 2026-05-22  status: delivered  total: $401.12
+  payment method: card ending 3005  ship to: 242 Harbor Lane
+  - standing desk x1
+  - replacement filter cartridge, 3-pack x2
+  - extended warranty, 2 years x2
+  - microfiber cloth x3
+ORD-13569  placed 2026-03-15  status: label created  total: $363.84
+  payment method: card ending 9981  ship to: 710 Harbor St
+  - wool blanket x1
+  - travel pouch x1
+  - microfiber cloth x2
+  - stainless water bottle, 750ml x2
+  - extended warranty, 2 years x3
+ORD-14113  placed 2026-04-26  status: delivered  total: $80.47
+  payment method: card ending 9830  ship to: 246 Oak Ave
+  - noise-cancelling headphones x1
+  - USB-C charging cable (2m) x2
+  - gift wrap x1
+  - spare battery pack x2
+ORD-20645  placed 2026-05-07  status: label created  total: $438.77
+  payment method: card ending 9519  ship to: 619 Oak St
+  - camping stove x1
+  - gift wrap x1
+  - travel pouch x1
+
+--- message 1 from Felix Wagner ---
+Can I use a gift card on ORD-69136, or is it too late? Could you also tell me whether ORD-14113 qualifies for the extended return window? I've been a customer for a few years and usually everything goes smoothly. The box for ORD-14113 was a bit crushed but the contents were fine.
+
+Thanks,
+Felix Wagner
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Marcus (support) ---
+I've updated your shipping address on file. If you need an invoice for ORD-69136, you can download it from the Orders page. I've added a note to your account so the next agent has the context. Let me know if anything else looks off.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Felix Wagner ---
+The box for ORD-69136 was a bit crushed but the contents were fine. My partner placed ORD-20645 on our shared account, in case that matters. Is there a way to combine loyalty points from ORD-20645 with my next purchase? I've been a customer for a few years and usually everything goes smoothly.
+
+Thanks,
+Felix Wagner
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Marcus (support) ---
+For ORD-14113, the return window is 30 days from delivery. I can see all the orders on your account, including ORD-14113. Thanks for reaching out, and sorry for the trouble. Our warehouse shows ORD-14113 left on schedule.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Felix Wagner ---
+I'm travelling next week, so email is the best way to reach me. The box for ORD-14113 was a bit crushed but the contents were fine. My partner placed ORD-69136 on our shared account, in case that matters. I changed my shipping address last month, so please double-check you have the new one.
+
+Felix Wagner
+(Please reply by email rather than phone if possible.)
+
+--- message 6 from Marcus (support) ---
+Thanks for reaching out, and sorry for the trouble. Loyalty points post about a week after an order is delivered. I've resent the confirmation email for ORD-20645 to the address on file. I can see all the orders on your account, including ORD-20645.
+
+Marcus
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

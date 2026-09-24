@@ -1,0 +1,71 @@
+Ticket T-7316
+Customer: Chloe Martin
+Orders on file: ORD-48221, ORD-94881, ORD-41773, ORD-71812
+Opened: 2026-04-19 via web form
+
+Order details:
+ORD-48221  placed 2026-06-07  status: delivered  total: $66.25
+  payment method: card ending 8029  ship to: 396 Harbor Lane
+  - bike light set x1
+  - spare battery pack x2
+  - extended warranty, 2 years x2
+ORD-94881  placed 2026-04-03  status: returned  total: $416.00
+  payment method: card ending 5042  ship to: 538 Elm St
+  - bike light set x1
+  - stainless water bottle, 750ml x3
+  - replacement filter cartridge, 3-pack x2
+  - USB-C charging cable (2m) x3
+  - spare battery pack x3
+ORD-41773  placed 2026-05-10  status: label created  total: $369.57
+  payment method: card ending 1438  ship to: 571 Elm St
+  - desk lamp x1
+  - merino socks, size M x2
+  - spare battery pack x2
+  - travel pouch x2
+  - USB-C charging cable (2m) x3
+ORD-71812  placed 2026-02-09  status: label created  total: $421.95
+  payment method: card ending 5995  ship to: 678 Mill Ave
+  - espresso grinder x1
+  - stainless water bottle, 750ml x1
+  - merino socks, size M x1
+
+--- message 1 from Chloe Martin ---
+Can I use a gift card on ORD-48221, or is it too late? The water filter pitcher itself is great, for what it's worth. I've been a customer for a few years and usually everything goes smoothly. Tracking for ORD-41773 hasn't updated since Tuesday.
+
+Chloe Martin
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Dana (support) ---
+I've updated your shipping address on file. I've resent the confirmation email for ORD-48221 to the address on file. I've added a note to your account so the next agent has the context. Loyalty points post about a week after an order is delivered.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Chloe Martin ---
+I'd rather not call; the hold times last time were very long. I changed my shipping address last month, so please double-check you have the new one. The box for ORD-48221 was a bit crushed but the contents were fine. I'm travelling next week, so email is the best way to reach me.
+
+Thanks,
+Chloe Martin
+Sent from my phone -- please excuse typos.
+
+--- message 4 from Dana (support) ---
+Let me know if anything else looks off. For ORD-94881, the return window is 30 days from delivery. Loyalty points post about a week after an order is delivered. If you need an invoice for ORD-94881, you can download it from the Orders page.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Chloe Martin ---
+Could you also tell me whether ORD-41773 qualifies for the extended return window? I'd rather not call; the hold times last time were very long. Your app logged me out twice while I was looking at this, which didn't help. I'm happy to send screenshots if that helps.
+
+Thanks,
+Chloe Martin
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Dana (support) ---
+I've resent the confirmation email for ORD-48221 to the address on file. I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context.
+
+Dana
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

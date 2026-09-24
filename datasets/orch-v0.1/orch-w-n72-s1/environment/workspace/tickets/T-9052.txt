@@ -1,0 +1,93 @@
+Ticket T-9052
+Customer: Tomas Novak
+Orders on file: ORD-13928, ORD-43855, ORD-15548, ORD-54399
+Opened: 2026-04-08 via chat transcript
+
+Order details:
+ORD-13928  placed 2026-04-08  status: delivered  total: $304.26
+  payment method: card ending 2471  ship to: 424 Elm Ave
+  - standing desk x1
+  - extended warranty, 2 years x1
+  - carabiner set x2
+  - travel pouch x2
+ORD-43855  placed 2026-05-10  status: in transit  total: $230.23
+  payment method: card ending 9552  ship to: 740 Harbor Rd
+  - water filter pitcher x1
+  - spare battery pack x1
+  - merino socks, size M x3
+ORD-15548  placed 2026-01-11  status: delivered  total: $257.57
+  payment method: card ending 6280  ship to: 614 Harbor St
+  - rain jacket x1
+  - spare battery pack x3
+  - travel pouch x2
+  - carabiner set x2
+ORD-54399  placed 2026-01-28  status: delivered  total: $292.27
+  payment method: card ending 6641  ship to: 465 Elm St
+  - desk lamp x1
+  - spare battery pack x2
+  - gift wrap x1
+
+--- message 1 from Tomas Novak ---
+I'd like to return the trail running shoes from ORD-15548; it's the wrong size. I'm happy to send screenshots if that helps. I changed my shipping address last month, so please double-check you have the new one. I'm travelling next week, so email is the best way to reach me.
+
+Best regards,
+Tomas Novak
+
+--- message 2 from Rosa (support) ---
+Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-15548. For ORD-54399, the return window is 30 days from delivery. Tracking updates can lag by a day or two with this carrier.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Tomas Novak ---
+There are two identical debits on my bank and both reference ORD-13928. Is there a way to combine loyalty points from ORD-54399 with my next purchase? My earlier order ORD-15548 arrived fine, no complaints there.
+
+Best regards,
+Tomas Novak
+
+--- message 4 from Rosa (support) ---
+I've resent the confirmation email for ORD-43855 to the address on file. Our warehouse shows ORD-43855 left on schedule. I've added a note to your account so the next agent has the context.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Rosa (support) ---
+Confirmed on our side -- ORD-13928 was captured twice by a retry in our checkout. One refund of $357.40 is on its way to you. Loyalty points post about a week after an order is delivered. If you need an invoice for ORD-54399, you can download it from the Orders page.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 6 from Tomas Novak ---
+Is there a way to combine loyalty points from ORD-54399 with my next purchase? The box for ORD-54399 was a bit crushed but the contents were fine. My partner placed ORD-54399 on our shared account, in case that matters.
+
+Tomas Novak
+(Please reply by email rather than phone if possible.)
+
+--- message 7 from Tomas Novak ---
+Could you also tell me whether ORD-43855 qualifies for the extended return window? Your app logged me out twice while I was looking at this, which didn't help. My partner placed ORD-43855 on our shared account, in case that matters. I've been a customer for a few years and usually everything goes smoothly.
+
+Best regards,
+Tomas Novak
+
+--- message 8 from Rosa (support) ---
+If you need an invoice for ORD-15548, you can download it from the Orders page. I can see all the orders on your account, including ORD-43855. Our warehouse shows ORD-43855 left on schedule. Loyalty points post about a week after an order is delivered.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Tomas Novak ---
+I changed my shipping address last month, so please double-check you have the new one. Tracking for ORD-54399 hasn't updated since Tuesday. I'm happy to send screenshots if that helps. My partner placed ORD-54399 on our shared account, in case that matters.
+
+Tomas Novak
+(Please reply by email rather than phone if possible.)
+
+--- message 10 from Rosa (support) ---
+Our warehouse shows ORD-43855 left on schedule. Thanks for reaching out, and sorry for the trouble. If you need an invoice for ORD-43855, you can download it from the Orders page. For ORD-15548, the return window is 30 days from delivery.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

@@ -1,0 +1,58 @@
+Ticket T-9224
+Customer: Diego Alvarez
+Orders on file: ORD-82486, ORD-94815, ORD-14013, ORD-92768
+Opened: 2026-06-16 via email
+
+Order details:
+ORD-82486  placed 2026-01-02  status: delivered  total: $360.71
+  payment method: card ending 7954  ship to: 249 Elm St
+  - rain jacket x1
+  - stainless water bottle, 750ml x1
+  - travel pouch x3
+  - microfiber cloth x2
+ORD-94815  placed 2026-07-05  status: label created  total: $24.01
+  payment method: card ending 8258  ship to: 400 Harbor Ave
+  - desk lamp x1
+  - extended warranty, 2 years x2
+  - replacement filter cartridge, 3-pack x1
+ORD-14013  placed 2026-06-22  status: delivered  total: $319.15
+  payment method: card ending 9257  ship to: 379 Oak Lane
+  - bike light set x1
+  - gift wrap x2
+  - travel pouch x3
+  - stainless water bottle, 750ml x2
+  - replacement filter cartridge, 3-pack x2
+ORD-92768  placed 2026-04-24  status: delivered  total: $46.14
+  payment method: card ending 6091  ship to: 751 Cedar Rd
+  - espresso grinder x1
+  - extended warranty, 2 years x2
+  - USB-C charging cable (2m) x3
+  - gift wrap x1
+  - microfiber cloth x1
+
+--- message 1 from Diego Alvarez ---
+The rain jacket from ORD-14013 arrived with a scratch on the side. Can I get a replacement? My partner placed ORD-94815 on our shared account, in case that matters. The confirmation email for ORD-82486 went to my spam folder, so I only just saw it. I'd rather not call; the hold times last time were very long.
+
+Thanks,
+Diego Alvarez
+Sent from my phone -- please excuse typos.
+
+--- message 2 from Luis (support) ---
+Thanks for reaching out, and sorry for the trouble. I've added a note to your account so the next agent has the context. I've updated your shipping address on file. I've resent the confirmation email for ORD-14013 to the address on file.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Diego Alvarez ---
+I'd rather not call; the hold times last time were very long. My partner placed ORD-14013 on our shared account, in case that matters. The standing desk itself is great, for what it's worth. I'm happy to send screenshots if that helps.
+
+Best regards,
+Diego Alvarez
+
+--- message 4 from Luis (support) ---
+If you need an invoice for ORD-14013, you can download it from the Orders page. I've updated your shipping address on file. Thanks for reaching out, and sorry for the trouble. For ORD-14013, the return window is 30 days from delivery.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

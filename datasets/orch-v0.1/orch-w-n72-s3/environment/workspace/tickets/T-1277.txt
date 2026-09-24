@@ -1,0 +1,70 @@
+Ticket T-1277
+Customer: Hana Sato
+Orders on file: ORD-99081, ORD-87347, ORD-85337, ORD-97932
+Opened: 2026-08-28 via web form
+
+Order details:
+ORD-99081  placed 2026-03-03  status: delivered  total: $24.10
+  payment method: card ending 9057  ship to: 156 Mill St
+  - mechanical keyboard x1
+  - travel pouch x1
+  - carabiner set x1
+  - extended warranty, 2 years x2
+ORD-87347  placed 2026-03-03  status: returned  total: $186.01
+  payment method: card ending 2310  ship to: 681 Elm Rd
+  - bike light set x1
+  - replacement filter cartridge, 3-pack x3
+  - gift wrap x1
+ORD-85337  placed 2026-03-20  status: label created  total: $411.17
+  payment method: card ending 3151  ship to: 74 Cedar Lane
+  - carry-on suitcase x1
+  - extended warranty, 2 years x2
+  - USB-C charging cable (2m) x2
+  - gift wrap x3
+ORD-97932  placed 2026-03-07  status: label created  total: $401.45
+  payment method: card ending 1232  ship to: 988 Elm Lane
+  - camping stove x1
+  - gift wrap x3
+  - travel pouch x1
+  - extended warranty, 2 years x1
+  - carabiner set x2
+
+--- message 1 from Hana Sato ---
+Can I use a gift card on ORD-85337, or is it too late? I'm happy to send screenshots if that helps. The box for ORD-87347 was a bit crushed but the contents were fine. I'm travelling next week, so email is the best way to reach me.
+
+Hana Sato
+(Please reply by email rather than phone if possible.)
+
+--- message 2 from Rosa (support) ---
+I can see all the orders on your account, including ORD-85337. Tracking updates can lag by a day or two with this carrier. Screenshots aren't necessary, but thank you for offering. I've resent the confirmation email for ORD-87347 to the address on file.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Hana Sato ---
+I'd rather not call; the hold times last time were very long. The wool blanket itself is great, for what it's worth. My earlier order ORD-97932 arrived fine, no complaints there. I'm happy to send screenshots if that helps.
+
+Hana Sato
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Rosa (support) ---
+Tracking updates can lag by a day or two with this carrier. I've added a note to your account so the next agent has the context. I've updated your shipping address on file. Loyalty points post about a week after an order is delivered.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Hana Sato ---
+I've been a customer for a few years and usually everything goes smoothly. I tried the chat widget first but it kept disconnecting. The mechanical keyboard itself is great, for what it's worth. Could you also tell me whether ORD-85337 qualifies for the extended return window?
+
+Thanks,
+Hana Sato
+Sent from my phone -- please excuse typos.
+
+--- message 6 from Rosa (support) ---
+For ORD-97932, the return window is 30 days from delivery. Thanks for reaching out, and sorry for the trouble. I can see all the orders on your account, including ORD-85337. Let me know if anything else looks off.
+
+Rosa
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.

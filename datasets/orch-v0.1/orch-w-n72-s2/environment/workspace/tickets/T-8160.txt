@@ -1,0 +1,96 @@
+Ticket T-8160
+Customer: Amara Nwosu
+Orders on file: ORD-95686, ORD-86094, ORD-95816, ORD-45344
+Opened: 2026-01-05 via email
+
+Order details:
+ORD-95686  placed 2026-08-02  status: returned  total: $50.50
+  payment method: card ending 7121  ship to: 962 Mill St
+  - water filter pitcher x1
+  - stainless water bottle, 750ml x1
+  - USB-C charging cable (2m) x1
+  - spare battery pack x2
+ORD-86094  placed 2026-02-17  status: delivered  total: $461.97
+  payment method: card ending 5490  ship to: 546 Cedar Rd
+  - rain jacket x1
+  - carabiner set x2
+  - travel pouch x3
+  - spare battery pack x1
+ORD-95816  placed 2026-08-26  status: delivered  total: $399.74
+  payment method: card ending 2217  ship to: 457 Harbor Rd
+  - carry-on suitcase x1
+  - spare battery pack x2
+  - replacement filter cartridge, 3-pack x3
+  - carabiner set x2
+ORD-45344  placed 2026-04-07  status: returned  total: $34.80
+  payment method: card ending 5724  ship to: 487 Harbor Lane
+  - rain jacket x1
+  - merino socks, size M x2
+  - spare battery pack x3
+  - USB-C charging cable (2m) x3
+  - replacement filter cartridge, 3-pack x1
+
+--- message 1 from Amara Nwosu ---
+How do I reset my password? The reset link keeps expiring. My earlier order ORD-95816 arrived fine, no complaints there. I've been a customer for a few years and usually everything goes smoothly. Your app logged me out twice while I was looking at this, which didn't help.
+
+Best regards,
+Amara Nwosu
+
+--- message 2 from Luis (support) ---
+I've updated your shipping address on file. Screenshots aren't necessary, but thank you for offering. I can see all the orders on your account, including ORD-86094. I've resent the confirmation email for ORD-95816 to the address on file.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 3 from Amara Nwosu ---
+My card was charged two times for order ORD-45344. I'd rather not call; the hold times last time were very long. Your app logged me out twice while I was looking at this, which didn't help.
+
+Amara Nwosu
+(Please reply by email rather than phone if possible.)
+
+--- message 4 from Luis (support) ---
+Our payment logs show a single capture for ORD-45344. The extra line you saw was an authorization that expired on its own -- no money was taken for it. I can see all the orders on your account, including ORD-86094. Screenshots aren't necessary, but thank you for offering.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 5 from Amara Nwosu ---
+Oh, you're right -- I checked my statement this morning and the second line is gone. Only one charge. Sorry for the false alarm! I changed my shipping address last month, so please double-check you have the new one. Could you also tell me whether ORD-95816 qualifies for the extended return window?
+
+Best regards,
+Amara Nwosu
+
+--- message 6 from Luis (support) ---
+Let me know if anything else looks off. I've added a note to your account so the next agent has the context. I've updated your shipping address on file.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 7 from Amara Nwosu ---
+I'm happy to send screenshots if that helps. I tried the chat widget first but it kept disconnecting. Is there a way to combine loyalty points from ORD-86094 with my next purchase? Could you also tell me whether ORD-95686 qualifies for the extended return window?
+
+Best regards,
+Amara Nwosu
+
+--- message 8 from Luis (support) ---
+For ORD-95686, the return window is 30 days from delivery. If you need an invoice for ORD-95686, you can download it from the Orders page. I can see all the orders on your account, including ORD-95816. Let me know if anything else looks off.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
+
+--- message 9 from Amara Nwosu ---
+Tracking for ORD-86094 hasn't updated since Tuesday. Is there a way to combine loyalty points from ORD-86094 with my next purchase? My partner placed ORD-95816 on our shared account, in case that matters. I'd rather not call; the hold times last time were very long.
+
+Amara Nwosu
+(Please reply by email rather than phone if possible.)
+
+--- message 10 from Luis (support) ---
+Let me know if anything else looks off. I've resent the confirmation email for ORD-95816 to the address on file. For ORD-86094, the return window is 30 days from delivery. If you need an invoice for ORD-95686, you can download it from the Orders page.
+
+Luis
+Customer Care, Northwind Outfitters
+Hours: Mon-Fri 8am-8pm, Sat 9am-5pm. Replies to this email reach our support queue; please keep the ticket number in the subject line so your history stays together. Northwind will never ask for your full card number or password by email. This message and any attachments are intended only for the named recipient.
