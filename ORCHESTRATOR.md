@@ -278,7 +278,11 @@ short tasks and the S family were retired because they were not long-horizon.
 
 **Verified against real Harbor 0.23.0 in Docker, with no API key:**
 `harbor run -a oracle` over the full set: all 36 tasks build, run their oracle
-solution, and score 1.0 (`results/harbor-oracle.md`).
+solution, and score 1.0 (`results/harbor-oracle.md`). The reference harness then ran all
+six scripted policies over the set inside Docker (`-a
+orch.harbor_agent:OrchRehearsalAgent`, the lead and up to 8 parallel workers in
+one container). The 216 trials match the local rehearsal in every one of the 72
+(condition, family, size) cells (`results/rehearsal-harbor/`).
 
 **The rehearsal.** Every agent is a scripted *perfect reader*, so reading skill is
 held constant and only structure varies. That checks that the metrics separate
