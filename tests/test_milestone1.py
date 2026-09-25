@@ -122,6 +122,23 @@ def test_cost_cap_stops_launching_new_episodes(monkeypatch, tmp_path):
     assert calls["n"] == 2
 
 
+def test_cost_cap_leaves_every_model_with_matched_episodes(monkeypatch, tmp_path):
+    """A capped run must still be a comparison: interleave models per task."""
+    specs = {f"f2_ghost_config_{i:04d}": _spec(f"f2_ghost_config_{i:04d}") for i in range(5)}
+    monkeypatch.setattr(m1, "_load_specs", lambda: specs)
+    ran = []
+
+    def expensive_run_one(model, spec, workdir):
+        ran.append((model, spec["id"]))
+        return _fake_run_one(lambda m: True)(model, spec, workdir)[0], 10.0
+
+    m1.main(["--models", "modelA,modelB", "--max-cost-usd", "15"],
+            run_one_fn=expensive_run_one,
+            consumer=_consumer_for(next(iter(specs.values()))),
+            out_dir=tmp_path, require_key=False)
+    assert ran == [("modelA", "f2_ghost_config_0000"), ("modelB", "f2_ghost_config_0000")]
+
+
 # --- scoring & comparison -------------------------------------------------
 
 def test_a_failed_episode_does_not_sink_the_run(specs, tmp_path, capsys):

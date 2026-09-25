@@ -272,7 +272,10 @@ def main(argv=None, run_one_fn=run_one, consumer=None, out_dir=None, require_key
         specs_for_scoring = specs
         OUT.mkdir(parents=True, exist_ok=True)
         total_cost = 0.0
-        planned = [(m, tid) for m in models for tid in specs]
+        # Task-major, so every model gets each task before the next task starts.
+        # Model-major would let the cost cap spend everything on the first
+        # model and leave the rest with nothing to compare against.
+        planned = [(m, tid) for tid in specs for m in models]
         skipped = sum(1 for m, tid in planned if _episode_path(m, tid).exists())
         print(f"{len(planned)} episode(s) planned, {skipped} already on disk, "
               f"cost cap ${args.max_cost_usd:.2f}\n")
