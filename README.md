@@ -186,6 +186,20 @@ plainly whether the models separated on decision yield — the outcome that
 decides whether Milestone 1 validates the design or falsifies it (DESIGN.md
 §8.10).
 
+**A free pilot** runs the same pipeline on Gemini's free tier:
+
+```bash
+make pilot-gemini            # needs GEMINI_API_KEY (free, aistudio.google.com)
+```
+
+Both subagents and the frozen consumer are Gemini models, so it costs nothing,
+but it is a pilot, not a Milestone 1 result: a different consumer is a
+different benchmark (DESIGN.md 4). It writes to its own directory,
+`build/milestone1-pilot-<consumer>/`, and every report says PILOT. Calls are
+paced under the free per-minute limit, and a spent daily quota stops the run
+cleanly -- rerun the next day and it resumes. The consumer defaults to
+Flash-Lite because Flash's ~250 requests/day are needed for its own episodes.
+
 Before calling two models "separated", it measures a **noise floor**: the
 frozen consumer can't be made bit-deterministic, so it re-judges a small sample
 of each model's own reports and refuses to call a yield gap real unless it

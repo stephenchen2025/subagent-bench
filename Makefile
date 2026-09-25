@@ -35,3 +35,9 @@ dry-run: ## Rehearse the whole pipeline at Milestone-1 scale (no model, no key)
 
 milestone1: ## Run Milestone 1 for real: both default models, resumable, cost-guarded
 	python tools/run_milestone1.py
+
+GEMINI_MODELS ?= gemini/gemini-2.5-flash,gemini/gemini-2.5-flash-lite
+GEMINI_CONSUMER ?= gemini/gemini-2.5-flash-lite
+
+pilot-gemini: ## Free-tier pilot of Milestone 1 on Gemini (needs GEMINI_API_KEY; not a result)
+	python tools/run_milestone1.py --models $(GEMINI_MODELS) --consumer $(GEMINI_CONSUMER)

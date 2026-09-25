@@ -339,3 +339,52 @@ def test_primary_key_name_wins_over_alternate(monkeypatch):
     monkeypatch.setenv(api_key.ALT_NAME, "sk-alt")
     assert api_key.resolve_api_key()
     assert os.environ["ANTHROPIC_API_KEY"] == "sk-primary"
+
+
+# --- the Gemini pilot -------------------------------------------------------
+
+def test_daily_quota_exhaustion_stops_the_run(monkeypatch, tmp_path, capsys):
+    """Retrying a per-day quota cannot succeed; every later episode would fail too."""
+    specs = {f"f2_ghost_config_{i:04d}": _spec(f"f2_ghost_config_{i:04d}") for i in range(3)}
+    monkeypatch.setattr(m1, "_load_specs", lambda: specs)
+    calls = {"n": 0}
+
+    def quota(model, spec, workdir):
+        calls["n"] += 1
+        raise RuntimeError("429 quota exceeded: GenerateRequestsPerDayPerProjectPerModel-FreeTier")
+
+    m1.main(["--models", "gemini/x"], run_one_fn=quota,
+            consumer=_consumer_for(next(iter(specs.values()))),
+            out_dir=tmp_path, require_key=False)
+    assert calls["n"] == 1
+    assert "daily request quota" in capsys.readouterr().out
+
+
+def test_a_per_minute_limit_is_not_mistaken_for_the_daily_quota():
+    assert not m1.is_daily_quota_error(RuntimeError("429 GenerateRequestsPerMinutePerProject"))
+    assert m1.is_daily_quota_error(RuntimeError("GenerateRequestsPerDayPerProjectPerModel"))
+
+
+def test_keys_are_required_only_for_providers_in_use(monkeypatch):
+    monkeypatch.delenv("ANTHROPIC_API_KEY", raising=False)
+    monkeypatch.delenv("HANDOFF_ANTHROPIC_API_KEY", raising=False)
+    monkeypatch.delenv("GOOGLE_API_KEY", raising=False)
+    monkeypatch.setenv("GEMINI_API_KEY", "g")
+    m1._require_keys(["gemini/a", "gemini/b"])  # an all-Gemini pilot needs no Anthropic key
+    with pytest.raises(SystemExit):
+        m1._require_keys(["gemini/a", "claude"])
+    monkeypatch.delenv("GEMINI_API_KEY")
+    with pytest.raises(SystemExit, match="GEMINI_API_KEY"):
+        m1._require_keys(["gemini/a"])
+
+
+def test_a_pilot_consumer_writes_to_its_own_directory(specs, tmp_path, monkeypatch):
+    """Pilot results must never land beside, or resume into, a real Milestone 1 run."""
+    monkeypatch.setattr(m1, "ROOT", tmp_path)
+    m1.main(["--models", "modelA", "--consumer", "gemini/g", "--noise-floor-sample", "0"],
+            run_one_fn=_fake_run_one(lambda m: True),
+            consumer=_consumer_for(next(iter(specs.values()))), require_key=False)
+    pilot = tmp_path / "build" / "milestone1-pilot-gemini_g"
+    assert any((pilot / "episodes").rglob("*.json"))
+    assert "PILOT" in (pilot / "modelA.md").read_text()
+    assert not (tmp_path / "build" / "milestone1").exists()
