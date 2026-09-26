@@ -197,8 +197,11 @@ but it is a pilot, not a Milestone 1 result: a different consumer is a
 different benchmark (DESIGN.md 4). It writes to its own directory,
 `build/milestone1-pilot-<consumer>/`, and every report says PILOT. Calls are
 paced under the free per-minute limit, and a spent daily quota stops the run
-cleanly -- rerun the next day and it resumes. The consumer defaults to
-Flash-Lite because Flash's ~250 requests/day are needed for its own episodes.
+cleanly -- rerun the next day and it resumes. The subagents default to
+Gemini 3.5 Flash and 3.1 Flash-Lite, and the consumer to 3.5 Flash-Lite, a
+model neither subagent uses, so their free-tier quotas stay separate. Google
+retires model ids for new keys (2.5 Flash now returns 404), so override
+`GEMINI_MODELS` / `GEMINI_CONSUMER` if a default stops resolving.
 
 Before calling two models "separated", it measures a **noise floor**: the
 frozen consumer can't be made bit-deterministic, so it re-judges a small sample

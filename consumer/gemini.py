@@ -16,7 +16,7 @@ import time
 
 from consumer.probe import SYSTEM_PROMPT, build_prompt
 
-MODEL = "gemini/gemini-2.5-flash"
+MODEL = "gemini/gemini-3.5-flash-lite"
 PROMPT_VERSION = "v1"
 MAX_TOKENS = 8000
 
