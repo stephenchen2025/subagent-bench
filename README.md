@@ -52,7 +52,7 @@ Three ideas carry it:
 | [`report/`](report/) | scorecard → report, frontier first |
 | [`tools/run_milestone1.py`](tools/run_milestone1.py) | resumable, cost-guarded multi-model Milestone 1 runner |
 | [`tests/`](tests/) | fixture invariants, spec consistency, scorer unit tests, end-to-end |
-| [`longhorizon/`](longhorizon/) | long-horizon track: tasks a single agent cannot finish in time and parallel subagents can |
+| [`longhorizon/`](longhorizon/) | long-horizon track: 30 tasks (10 families x 3 seeds) a single agent cannot finish in time and parallel subagents can |
 
 ```bash
 make install && make test    # 110 tests, no API key needed
@@ -62,7 +62,7 @@ make dry-run                 # rehearse the whole pipeline: 270 episodes, no mod
 make milestone1               # the real thing (needs ANTHROPIC_API_KEY)
 make tasks                   # emit Harbor task directories into build/harbor
 make test-harbor             # 12 more, against real harbor (needs Python >=3.12)
-make longhorizon             # rebuild the long-horizon Harbor task dirs
+make longhorizon             # rebuild the 30 long-horizon Harbor task dirs
 ```
 
 ## What the scorers see

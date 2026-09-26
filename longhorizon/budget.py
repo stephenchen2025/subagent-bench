@@ -1,28 +1,31 @@
 """Why a single agent times out on these tasks and a delegating one does not.
 
 A long-horizon task here is N independent *units* (a service to audit, a package
-to migrate, a host's logs to read) plus a synthesis step. Each unit costs:
+to migrate, a host's logs to read) plus a synthesis step. Two estimates of a
+single agent's wall clock are computed, and the gate uses the harsher one:
 
-    reads     = ceil(unit_chars / TOOL_OUTPUT_CHARS)   tool calls just to see it
-    judgement = task-specific turns to reason, edit, test, and write it up
+**Careful agent.** Works unit by unit. Each unit costs
+`ceil(chars / TOOL_OUTPUT_CHARS)` reads plus some judgement turns, and every
+turn gets slower as context grows (each turn re-reads a longer prefix).
 
-and every turn costs wall-clock time. Three limits bind:
+**Ideal batching agent -- the floor.** Reads many units per tool call, so it
+pays only `ceil(total_chars / TOOL_OUTPUT_CHARS)` reads. What it cannot batch
+away:
 
-1. **Wall clock** (`task.toml` [agent].timeout_sec) -- the one Harbor enforces.
-2. **Context** -- one agent reading all N units holds N * unit_tokens. Past the
-   window it must compact, and compaction discards exactly the per-unit detail
-   the deliverable needs.
-3. **Turn latency grows with context** -- a single agent's later turns are
-   slower than a fresh subagent's, because every turn re-reads a longer prefix.
+1. Everything essential still passes through its one context, at most
+   TOOL_OUTPUT_CHARS per call, and past the window it compacts.
+2. Every unit still needs its own reasoning and output tokens (the judgement,
+   or the edit). One agent decodes those one after another; parallel
+   subagents decode theirs at the same time. **This is the cost that
+   delegation parallelises and batching cannot.**
 
-A single agent pays for every unit's turns in sequence, at an ever-longer
-context. An orchestrator with P parallel subagents pays ceil(N/P) units' worth
-of turns, each at a short context, plus its own planning and synthesis turns.
+A task is admitted only if even the floor exceeds the timeout, the careful
+agent exceeds it by half again, and the delegated estimate -- with CAREFUL
+subagents, the pessimistic case for delegation -- fits well inside it.
 
-Nothing here is measured yet. The latency constants are assumptions to be
-replaced by a calibration run (see longhorizon/README.md, "Admission gate");
-the unit sizes are NOT assumptions -- `measure()` reads them off a generated
-workspace, so the model is only as wrong as its latency constants.
+The unit sizes are measured from the generated workspace. The latency, decode
+and output-token constants are ASSUMPTIONS. A calibration run replaces them
+(longhorizon/README.md, "Admission gate: the empirical half").
 """
 
 import math
@@ -36,24 +39,29 @@ CHARS_PER_TOKEN = 4
 class Assumptions:
     """Latency and capacity constants. Replace with calibrated values."""
 
-    base_turn_s: float = 6.0          # a turn with an empty context: decode + tool
+    base_turn_s: float = 6.0          # a turn with an empty context: overhead + tool
     s_per_ktok_context: float = 0.03  # extra seconds per 1k tokens of live context
+    decode_tok_s: float = 60.0        # output (incl. reasoning) tokens per second
     context_window_tokens: int = 200_000
     usable_context_frac: float = 0.75  # headroom for the system prompt and output
     parallel_subagents: int = 8
     compaction_s: float = 60.0         # one compaction pass
-    # A task is admitted only with margin on both sides of the timeout.
-    single_must_exceed: float = 1.5    # single-agent estimate >= 1.5 x timeout
+    report_tokens_per_unit: int = 250  # what a subagent hands back per unit (read)
+    deliverable_tokens_per_unit: int = 80  # the merged answer's entry per unit (written)
+    # Margins on both sides of the timeout.
+    floor_must_exceed: float = 1.0     # even the ideal batching agent cannot finish
+    careful_must_exceed: float = 1.5   # the careful agent: >= 1.5 x timeout
     delegated_must_fit: float = 0.6    # delegated estimate <= 0.6 x timeout
 
 
 @dataclass(frozen=True)
 class TaskShape:
     name: str
-    unit_chars: list            # measured, one entry per unit
-    judgement_turns: int        # per unit, beyond reading it
-    orchestration_turns: int    # plan + dispatch + synthesise (delegated only)
-    shared_chars: int = 0       # read once per agent (docs, the brief's inputs)
+    unit_chars: list              # measured, one entry per unit: what must be READ
+    judgement_turns: int          # per unit, beyond reading it (careful agent)
+    orchestration_turns: int      # plan + dispatch + synthesise (delegated only)
+    output_tokens_per_unit: int = 1500  # reasoning + written output per unit (assumed)
+    shared_chars: int = 0         # read once per agent (docs, the brief's inputs)
     timeout_s: int = 1800
     notes: dict = field(default_factory=dict)
 
@@ -70,73 +78,98 @@ def _turn_s(context_tokens, a):
     return a.base_turn_s + a.s_per_ktok_context * context_tokens / 1000
 
 
-def single_agent_seconds(shape, a=Assumptions()):
-    """One agent, every unit in sequence, context growing as it reads."""
-    window = a.context_window_tokens * a.usable_context_frac
-    context = shape.shared_chars / CHARS_PER_TOKEN
-    seconds = _reads(shape.shared_chars) * _turn_s(context, a) if shape.shared_chars else 0.0
-    compactions = 0
-    for chars in shape.unit_chars:
-        unit_tokens = chars / CHARS_PER_TOKEN
+def _decode_s(tokens, a):
+    return tokens / a.decode_tok_s
+
+
+class _Context:
+    """One agent's live context: grows with what it reads, compacts at the window."""
+
+    def __init__(self, a, start_tokens=0.0):
+        self.a = a
+        self.tokens = start_tokens
+        self.window = a.context_window_tokens * a.usable_context_frac
+        self.compactions = 0
+        self.seconds = 0.0
+        self.peak = start_tokens
+
+    def turn(self, read_tokens=0.0):
+        self.tokens += read_tokens
+        if self.tokens > self.window:
+            self.compactions += 1
+            self.seconds += self.a.compaction_s
+            self.tokens = self.window * 0.25  # what survives a compaction
+        self.peak = max(self.peak, self.tokens)
+        self.seconds += _turn_s(self.tokens, self.a)
+
+
+def _careful(unit_chars, shape, a):
+    ctx = _Context(a)
+    for _ in range(_reads(shape.shared_chars) if shape.shared_chars else 0):
+        ctx.turn(shape.shared_chars / CHARS_PER_TOKEN / _reads(shape.shared_chars))
+    for chars in unit_chars:
         turns = _reads(chars) + shape.judgement_turns
         for _ in range(turns):
-            context += unit_tokens / turns
-            if context > window:
-                compactions += 1
-                seconds += a.compaction_s
-                context = window * 0.25  # what survives a compaction
-            seconds += _turn_s(context, a)
-    return seconds, compactions
+            ctx.turn(chars / CHARS_PER_TOKEN / turns)
+        ctx.seconds += _decode_s(shape.output_tokens_per_unit, a)
+    return ctx
 
 
-def delegated_seconds(shape, a=Assumptions()):
-    """P subagents in parallel, each with a fresh context; the orchestrator plans
-    and synthesises. The slowest subagent sets the pace."""
+def _floor(unit_chars, shape, a):
+    ctx = _Context(a)
+    total = shape.shared_chars + sum(unit_chars)
+    reads = _reads(total)
+    for _ in range(reads):
+        ctx.turn(total / CHARS_PER_TOKEN / reads)
+    per_unit = shape.output_tokens_per_unit + a.deliverable_tokens_per_unit
+    ctx.seconds += _decode_s(per_unit * len(unit_chars), a)
+    return ctx
+
+
+def single_agent(shape, a=Assumptions()):
+    return _careful(shape.unit_chars, shape, a), _floor(shape.unit_chars, shape, a)
+
+
+def delegated(shape, a=Assumptions()):
+    """P subagents in parallel, each careful and with a fresh context; the
+    orchestrator plans, reads every report, and writes the deliverable. The
+    slowest lane sets the pace."""
     p = a.parallel_subagents
-    lanes = [shape.unit_chars[i::p] for i in range(p)]
-    slowest = 0.0
-    peak_context = 0.0
-    for lane in lanes:
-        context = shape.shared_chars / CHARS_PER_TOKEN
-        seconds = _reads(shape.shared_chars) * _turn_s(context, a) if shape.shared_chars else 0.0
-        for chars in lane:
-            unit_tokens = chars / CHARS_PER_TOKEN
-            turns = _reads(chars) + shape.judgement_turns
-            for _ in range(turns):
-                context += unit_tokens / turns
-                seconds += _turn_s(context, a)
-        slowest = max(slowest, seconds)
-        peak_context = max(peak_context, context)
-    # The orchestrator reads only reports, so its context stays small.
-    orchestration = shape.orchestration_turns * _turn_s(20_000, a)
-    return slowest + orchestration, peak_context
+    lanes = [_careful(shape.unit_chars[i::p], shape, a) for i in range(p)]
+    slowest = max(l.seconds for l in lanes)
+    peak = max(l.peak for l in lanes)
+    report_tokens = a.report_tokens_per_unit * shape.n_units
+    orchestration = (shape.orchestration_turns * _turn_s(report_tokens, a)
+                     + _decode_s(a.deliverable_tokens_per_unit * shape.n_units, a))
+    return slowest + orchestration, peak
 
 
 def gate(shape, a=Assumptions()):
     """The by-construction half of admission. The empirical half -- real runs of
     both conditions -- is in README.md and must also pass before a task ships."""
-    single_s, compactions = single_agent_seconds(shape, a)
-    deleg_s, peak = delegated_seconds(shape, a)
+    careful, floor = single_agent(shape, a)
+    deleg_s, peak = delegated(shape, a)
     window = a.context_window_tokens * a.usable_context_frac
+    t = shape.timeout_s
     checks = {
-        "single_agent_times_out": single_s >= a.single_must_exceed * shape.timeout_s,
-        "delegated_fits_timeout": deleg_s <= a.delegated_must_fit * shape.timeout_s,
+        "ideal_single_agent_times_out": floor.seconds >= a.floor_must_exceed * t,
+        "careful_single_agent_times_out": careful.seconds >= a.careful_must_exceed * t,
+        "delegated_fits_timeout": deleg_s <= a.delegated_must_fit * t,
         "subagent_fits_context": peak <= window,
     }
+    total_tokens = int((shape.shared_chars + sum(shape.unit_chars)) / CHARS_PER_TOKEN)
     return {
         "task": shape.name,
         "units": shape.n_units,
-        "total_tokens": int((shape.shared_chars + sum(shape.unit_chars)) / CHARS_PER_TOKEN),
-        "single_agent_min": round(single_s / 60, 1),
-        "single_agent_compactions": compactions,
-        # Informative, not required: an agent that navigates well reads only the
-        # essential part of each unit, so overflow is likely but not guaranteed.
-        # Wall-clock turns are the limit that binds regardless.
-        "single_agent_overflows_context":
-            (shape.shared_chars + sum(shape.unit_chars)) / CHARS_PER_TOKEN > window,
+        "total_tokens": total_tokens,
+        "output_tokens": shape.output_tokens_per_unit * shape.n_units,
+        "single_agent_min": round(careful.seconds / 60, 1),
+        "single_agent_floor_min": round(floor.seconds / 60, 1),
+        "single_agent_compactions": floor.compactions,
+        "single_agent_overflows_context": total_tokens > window,
         "delegated_min": round(deleg_s / 60, 1),
         "subagent_peak_tokens": int(peak),
-        "timeout_min": round(shape.timeout_s / 60, 1),
+        "timeout_min": round(t / 60, 1),
         "checks": checks,
         "admitted": all(checks.values()),
     }

@@ -676,15 +676,24 @@ between a key and a real result.
 Milestone 1's tasks are small on purpose: capability-saturated, so a report is
 the only thing that varies. That leaves a question it cannot answer: does report
 quality matter when the orchestrator *depends* on its subagents? The
-long-horizon track (`longhorizon/README.md`) builds tasks where it must. Each
-task has too many independent units (32 services, 27 packages, 24 hosts) for one
-agent inside the timeout, while parallel subagents fit comfortably. A budget
-model admits each task by construction, and a calibration run must confirm it
-before the task ships. The HANDOFF traps are embedded in the units: a false
-premise, decoys, `insufficient` as a correct verdict, a constraint that must
-survive every handoff, and a poisoned note. A misreporting subagent then fails
-the run itself, not only a probe. The frozen consumer still applies offline, to
-the subagent reports captured in the trajectories.
+long-horizon track (`longhorizon/README.md`) builds 30 tasks (10 families x 3
+seeds) where it must. Each has too many independent units (24 to 64) for one
+agent inside a 20-minute timeout: even an ideal single agent that batches every
+read cannot decode the per-unit reasoning in time. Parallel subagents fit
+comfortably. A budget model admits each task by construction, and a
+calibration run must confirm it before the task ships.
+
+The families cover the failure modes of §6 that Milestone 1 does not:
+
+- F1: precedence rules left to the docs;
+- F3: genuine negatives and `insufficient`;
+- F4: moved code and decoys;
+- F7: parallel siblings over shared files;
+- F9: instructions planted for the reviewer.
+
+They also cover constraints that must survive every handoff. A misreporting
+subagent then fails the run itself, not only a probe. The frozen consumer still
+applies offline, to the subagent reports captured in the trajectories.
 
 ## 9. Open questions
 
