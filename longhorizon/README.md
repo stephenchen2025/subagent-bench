@@ -273,8 +273,14 @@ Offline, 249 tests cover distinctness, determinism, oracles, doing nothing,
 shortcuts, constraints, the gate and the task layout for all 30 tasks. Every
 oracle scores 1.0.
 
-Container check: pending for this version of the 30 tasks (the previous
-10 x 3 set was built and verified in Docker with no network).
+All 30 images were built, and each was run with no network. In every one:
+
+- no generator or ground-truth file survives into the final image;
+- an untouched workspace scores 0.0, except the three with a base rate
+  (LH9 0.41, LH17 0.38, LH20 0.51);
+- the oracle scores 1.0.
+
+The workspaces range from 0.2 to 18 MB (LH23's per-user experiment data).
 
 In this sandbox, `apt` and `pip` inside `docker build` needed the egress
 proxy, so the container check used a variant without the `apt`/`git` layer.
