@@ -671,6 +671,21 @@ between a key and a real result.
 
 ---
 
+### 8.11 A second track: tasks that need subagents
+
+Milestone 1's tasks are small on purpose: capability-saturated, so a report is
+the only thing that varies. That leaves a question it cannot answer: does report
+quality matter when the orchestrator *depends* on its subagents? The
+long-horizon track (`longhorizon/README.md`) builds tasks where it must. Each
+task has too many independent units (32 services, 27 packages, 24 hosts) for one
+agent inside the timeout, while parallel subagents fit comfortably. A budget
+model admits each task by construction, and a calibration run must confirm it
+before the task ships. The HANDOFF traps are embedded in the units: a false
+premise, decoys, `insufficient` as a correct verdict, a constraint that must
+survive every handoff, and a poisoned note. A misreporting subagent then fails
+the run itself, not only a probe. The frozen consumer still applies offline, to
+the subagent reports captured in the trajectories.
+
 ## 9. Open questions
 
 **Settled since v0.1:**

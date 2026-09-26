@@ -41,3 +41,9 @@ GEMINI_CONSUMER ?= gemini/gemini-3.5-flash-lite
 
 pilot-gemini: ## Free-tier pilot of Milestone 1 on Gemini (needs GEMINI_API_KEY; not a result)
 	python tools/run_milestone1.py --models $(GEMINI_MODELS) --consumer $(GEMINI_CONSUMER)
+
+longhorizon: ## Rebuild the long-horizon Harbor task dirs from their generators
+	python tools/build_longhorizon.py
+
+longhorizon-check: ## Fail if longhorizon/tasks is stale relative to the generators
+	python tools/build_longhorizon.py --check
