@@ -405,3 +405,31 @@ def test_a_pilot_consumer_writes_to_its_own_directory(specs, tmp_path, monkeypat
     assert any((pilot / "episodes").rglob("*.json"))
     assert "PILOT" in (pilot / "modelA.md").read_text()
     assert not (tmp_path / "build" / "milestone1").exists()
+
+
+def test_pacing_waits_out_a_per_minute_quota_instead_of_failing():
+    per_minute = RuntimeError(
+        "429 GenerateContentInputTokensPerModelPerMinute-FreeTier. Please retry in 18.5s.")
+    outcomes = [per_minute, per_minute, "ok"]
+    slept = []
+
+    class Model:
+        def query(self):
+            outcome = outcomes.pop(0)
+            if isinstance(outcome, Exception):
+                raise outcome
+            return outcome
+
+    model = m1._paced(Model(), 0.0, sleep=slept.append)
+    assert model.query() == "ok"
+    assert slept == [20.5, 20.5]
+
+
+def test_pacing_does_not_retry_a_daily_quota_or_other_errors():
+    for exc in (RuntimeError("GenerateRequestsPerDayPerProjectPerModel"), ValueError("boom")):
+        class Model:
+            def query(self, exc=exc):
+                raise exc
+
+        with pytest.raises(type(exc)):
+            m1._paced(Model(), 0.0, sleep=lambda s: None).query()

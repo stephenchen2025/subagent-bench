@@ -39,6 +39,7 @@ Design choices that matter for a real run:
 
 import argparse
 import json
+import re
 import shutil
 import sys
 import tempfile
@@ -96,17 +97,38 @@ def is_daily_quota_error(exc):
     return "PerDay" in text or "per day" in text.lower()
 
 
-def _paced(model, min_interval_s):
-    """Space out this model's calls; wraps query() in place."""
+def per_minute_retry_delay(exc):
+    """Seconds to wait out a per-minute quota, or None if exc is not one.
+
+    Request pacing alone cannot stay under a per-minute INPUT-TOKEN limit once
+    contexts grow, and mini's own retries give up within seconds. The API says
+    how long to wait; honour it rather than fail the episode.
+    """
+    text = str(exc)
+    if "PerMinute" not in text or is_daily_quota_error(exc):
+        return None
+    match = re.search(r"retry in ([0-9.]+)s", text)
+    return (float(match.group(1)) if match else 60.0) + 2.0
+
+
+def _paced(model, min_interval_s, max_quota_waits=5, sleep=time.sleep):
+    """Space out this model's calls and wait out per-minute quotas; wraps query() in place."""
     query = model.query
     last = [0.0]
 
     def paced_query(*args, **kwargs):
-        wait = last[0] + min_interval_s - time.monotonic()
-        if wait > 0:
-            time.sleep(wait)
-        last[0] = time.monotonic()
-        return query(*args, **kwargs)
+        for attempt in range(max_quota_waits + 1):
+            wait = last[0] + min_interval_s - time.monotonic()
+            if wait > 0:
+                sleep(wait)
+            last[0] = time.monotonic()
+            try:
+                return query(*args, **kwargs)
+            except Exception as exc:  # noqa: BLE001 - re-raised unless it is a per-minute quota
+                delay = per_minute_retry_delay(exc)
+                if delay is None or attempt == max_quota_waits:
+                    raise
+                sleep(delay)
 
     model.query = paced_query
     return model
