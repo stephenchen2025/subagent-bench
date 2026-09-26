@@ -175,6 +175,23 @@ variation (for example taint through variables, or more input sources).
 - **No network inside the container,** so the agent cannot parallelise by
   calling a model API from the shell.
 
+## Verified so far (no model involved)
+
+All 30 images were built, and each was run with no network. In every one:
+
+- no generator or ground-truth file survives into the final image;
+- an untouched workspace scores 0.0, except LH9 (0.34–0.44), whose
+  unaffected and end-of-life lines are correct precisely when left untouched;
+- the oracle scores 1.0.
+
+The workspaces range from 0.6 to 6.9 MB. Offline, 108 tests cover
+determinism, oracles, shortcuts, constraints and the gate for every family
+and seed.
+
+In this sandbox, `apt` and `pip` inside `docker build` needed the egress
+proxy, so the container check used a variant without the `apt`/`git` layer.
+The committed Dockerfiles are standard.
+
 ## Ideas it takes from the 2026 literature
 
 | from | what it adds here |
