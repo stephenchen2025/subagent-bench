@@ -52,7 +52,7 @@ Three ideas carry it:
 | [`report/`](report/) | scorecard → report, frontier first |
 | [`tools/run_milestone1.py`](tools/run_milestone1.py) | resumable, cost-guarded multi-model Milestone 1 runner |
 | [`tests/`](tests/) | fixture invariants, spec consistency, scorer unit tests, end-to-end |
-| [`longhorizon/`](longhorizon/) | long-horizon track: 30 tasks (10 families x 3 seeds) a single agent cannot finish in time and parallel subagents can |
+| [`longhorizon/`](longhorizon/) | long-horizon track: 30 distinct tasks (one per family) a single agent cannot finish in time and parallel subagents can |
 
 ```bash
 make install && make test    # 110 tests, no API key needed

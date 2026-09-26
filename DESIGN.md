@@ -676,8 +676,10 @@ between a key and a real result.
 Milestone 1's tasks are small on purpose: capability-saturated, so a report is
 the only thing that varies. That leaves a question it cannot answer: does report
 quality matter when the orchestrator *depends* on its subagents? The
-long-horizon track (`longhorizon/README.md`) builds 30 tasks (10 families x 3
-seeds) where it must. Each has too many independent units (24 to 64) for one
+long-horizon track (`longhorizon/README.md`) builds 30 tasks where it must, one
+per family and each a different kind of work in a different domain (code
+review, migrations, SQL, parsers, ports, data cleaning, statistics, contracts,
+IAM, calendars and more). Each has too many independent units (24 to 80) for one
 agent inside a 20-minute timeout: even an ideal single agent that batches every
 read cannot decode the per-unit reasoning in time. Parallel subagents fit
 comfortably. A budget model admits each task by construction, and a
@@ -691,7 +693,8 @@ The families cover the failure modes of §6 that Milestone 1 does not:
 - F7: parallel siblings over shared files;
 - F9: instructions planted for the reviewer.
 
-They also cover constraints that must survive every handoff. A misreporting
+They also cover constraints that must survive every handoff, and work graded
+by execution: mutation testing, hidden databases, held-out inputs, timing. A misreporting
 subagent then fails the run itself, not only a probe. The frozen consumer still
 applies offline, to the subagent reports captured in the trajectories.
 
