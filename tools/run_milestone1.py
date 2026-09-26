@@ -212,11 +212,15 @@ def score_all(models, consumer=None, specs=None):
                     (ROOT / "tasks" / "generated" / "specs" /
                      f"{record['task_id']}.json").read_text()
                 )
+            usage = dict(record["usage"])
+            # Episodes recorded before harness/episode_runner.py counted steps
+            # for a start()-driven run say 0; the trajectory has the real count.
+            usage["tool_calls"] = usage.get("tool_calls") or len(record["trajectory"])
             episode = Episode(
                 task_id=record["task_id"], family=record["family"],
                 report=record["handback"]["final_report"] if record["handback"] else record["report"],
                 trajectory=record["trajectory"], effects=record["effects"],
-                usage=Usage(**record["usage"]),
+                usage=Usage(**usage),
                 budget_tokens=record["budget_tokens"],
                 reference_tokens=record["reference_tokens"],
             )

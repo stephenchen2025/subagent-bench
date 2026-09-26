@@ -111,12 +111,16 @@ def run_episode(agent, spec, counter, logs_dir=None, max_steps=200, start=None):
 
     _charge(budget, agent)
     snap = budget.snapshot()
+    trajectory = _trajectory(agent)
+    if start is not None and not pushback:
+        # start() runs the agent to completion without counting its steps.
+        steps = len(trajectory)
 
     episode = Episode(
         task_id=spec["id"],
         family=spec["family"],
         report=report,
-        trajectory=_trajectory(agent),
+        trajectory=trajectory,
         effects={},  # filled by the in-trial verifier
         usage=Usage(input_tokens=snap["spent_tokens"], tool_calls=steps),
         budget_tokens=spec["budget"]["max_tokens"],

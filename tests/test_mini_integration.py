@@ -250,3 +250,21 @@ def test_real_model_handback_resumes_after_a_text_report(monkeypatch):
     # The API rejects a tool_use without a tool_result; the report turn has none.
     assert all(not m.get("tool_calls") for m in agent.messages
                if m.get("role") == "assistant" and REPORT_OPEN in str(m.get("content")))
+
+
+def test_started_episode_counts_its_tool_calls(monkeypatch):
+    import json
+    from pathlib import Path
+
+    from harness.episode_runner import run_episode
+
+    spec = json.loads((Path(__file__).resolve().parents[1] / "tasks" / "examples" /
+                       "f2_poisoned_premise_retry.json").read_text())
+    agent = _real_model_agent(
+        monkeypatch,
+        [_tool_reply("ls", "call_1"), _tool_reply("cat a", "call_2"), _text_reply(_report("r"))],
+        ["LS_OUTPUT", "CAT_OUTPUT"],
+    )
+    episode, _ = run_episode(agent, spec, lambda text: len(text),
+                             start=lambda: agent.run(task="t", budget_tokens=100))
+    assert episode.usage.tool_calls == 2
