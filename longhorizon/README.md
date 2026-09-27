@@ -99,6 +99,17 @@ For delegation, this is the plain fan-out case: subagents each take a share
 of the runs, and the orchestrator owns two things no single subagent can see,
 the repeat links between runs and the average.
 
+**Its reference solution works like an agent, not like an answer key.**
+`longhorizon/solutions/lh31_assay_replicates.py` ships as the task's
+`solution/solve.py`. It reads only `/workspace` (the notes, plates and
+`instruments.csv`), follows `docs/PROTOCOL.md`, and never sees the generator,
+which is not in its `solution/` at all. It is laid out the way the task should
+be delegated: `analyse_run` is one worker's job on one run, and `orchestrate`
+fans the runs out to 8 parallel workers, applies the repeat links and computes
+the summary. It scores 1.0 on the shipped seed and on unseen seeds, so the
+answers follow from what the agent is given, and under Harbor's oracle agent
+it scores 1.0 inside the container.
+
 ## Layout
 
 ```
@@ -113,7 +124,9 @@ longhorizon/
     REQUIREMENTS.md      for people
     environment/         multi-stage Dockerfile + a copy of the generator
     tests/test.sh        regenerates truth from the seed, grades, writes reward.txt
-    solution/solve.sh    reference solution for Harbor's oracle agent
+    solution/solve.sh    reference solution for Harbor's oracle agent: a workspace-only
+                         solver where longhorizon/solutions/<family>.py exists (LH31),
+                         else the generator's answer key
 ```
 
 The generator runs only in the Dockerfile's build stage. The final image holds

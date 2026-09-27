@@ -873,6 +873,34 @@ def test_lh31_every_replicate_is_a_different_run():
     assert len(set(concs)) == len(concs)
 
 
+SOLVERS = sorted(p.stem for p in (ROOT / "longhorizon" / "solutions").glob("lh*.py"))
+
+
+@pytest.mark.parametrize("family", SOLVERS)
+@pytest.mark.parametrize("seed", [SEED, SEED + 1, SEED + 2])
+def test_workspace_only_solver_scores_full(family, seed, tmp_path):
+    """The shipped reference solution reads only the workspace -- as an agent
+    would -- and still scores 1.0, on the shipped seed and on unseen ones: the
+    answers follow from what the agent is given."""
+    m = mod(family)
+    _truth(family, seed, tmp_path)
+    ws = tmp_path / "workspace"
+    run = subprocess.run([sys.executable, str(ROOT / "longhorizon" / "solutions" / f"{family}.py"), str(ws)],
+                         capture_output=True, text=True, cwd=tmp_path)
+    assert run.returncode == 0, run.stderr[-2000:]
+    target = ws if workspace_graded(family) else json.loads(Path(ws / Path(m.ANSWER_PATH).relative_to("/workspace")).read_text())
+    assert m.grade(seed, target)["reward"] == 1.0
+
+
+@pytest.mark.parametrize("family", SOLVERS)
+def test_workspace_only_solver_cannot_reach_the_answer_key(family):
+    """Nothing in the shipped solution/ can regenerate the truth."""
+    sol = ROOT / "longhorizon" / "tasks" / family / "solution"
+    assert sorted(p.name for p in sol.iterdir()) == ["solve.py", "solve.sh"]
+    src = (sol / "solve.py").read_text()
+    assert not re.search(r"import (generate|common)|from (generate|common) import|lh\d+_", src)
+
+
 def test_lh31_the_average_counts_only_valid_runs():
     """Perfect replicates with a wrong summary cannot pass: the summary is 30 %."""
     m = mod("lh31_assay_replicates")

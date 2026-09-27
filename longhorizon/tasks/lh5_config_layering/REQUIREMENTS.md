@@ -37,5 +37,5 @@ Gate: **admitted** (ideal_single_agent_times_out: True, careful_single_agent_tim
 
 ```bash
 docker build -t lh5_config_layering longhorizon/tasks/lh5_config_layering/environment
-harbor run -d longhorizon/tasks -a oracle          # the oracle must score 1.0
+harbor run -p longhorizon/tasks -a oracle          # the oracle must score 1.0
 ```

@@ -38,5 +38,5 @@ Gate: **admitted** (ideal_single_agent_times_out: True, careful_single_agent_tim
 
 ```bash
 docker build -t lh22_reconciliation longhorizon/tasks/lh22_reconciliation/environment
-harbor run -d longhorizon/tasks -a oracle          # the oracle must score 1.0
+harbor run -p longhorizon/tasks -a oracle          # the oracle must score 1.0
 ```

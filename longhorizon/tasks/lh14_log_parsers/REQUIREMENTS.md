@@ -40,5 +40,5 @@ Gate: **admitted** (ideal_single_agent_times_out: True, careful_single_agent_tim
 
 ```bash
 docker build -t lh14_log_parsers longhorizon/tasks/lh14_log_parsers/environment
-harbor run -d longhorizon/tasks -a oracle          # the oracle must score 1.0
+harbor run -p longhorizon/tasks -a oracle          # the oracle must score 1.0
 ```

@@ -16,7 +16,10 @@ layout, plus a REQUIREMENTS.md for people:
                        stage only, so the final image holds the workspace and not
                        the code that knows the answers
     tests/test.sh      regenerates the ground truth from the same seed and grades
-    solution/solve.sh  the reference solution, for Harbor's oracle agent
+    solution/solve.sh  the reference solution, for Harbor's oracle agent: a
+                       hand-written solver that reads only the workspace where
+                       longhorizon/solutions/<family>.py exists, else the
+                       generator's answer key
 
 Each family's generator lives once, in longhorizon/generators/, and exposes the
 same interface: generate(), grade(), an oracle, shape() for the budget model,
@@ -102,12 +105,27 @@ cat /logs/verifier/reward.txt
 
 SOLVE_SH = """\
 #!/usr/bin/env bash
-# Reference solution for Harbor's oracle agent: proves the task is solvable and
-# the grader awards full marks. It reads the answers from the generator, so it
-# says nothing about how hard the task is.
+# Reference solution for Harbor's oracle agent: proves the grader awards full
+# marks. It reads the answers from the generator, so it says nothing about
+# whether the task can be solved from the workspace alone.
 set -euo pipefail
 HERE="$(cd "$(dirname "$0")" && pwd)"
 python3 "$HERE/generate.py" --seed {seed} --solve {answer}
+"""
+
+# A family with a hand-written solver in longhorizon/solutions/ ships that
+# instead: it reads only /workspace, as an agent would, and never the
+# generator, so a full score proves the answers follow from the workspace.
+SOLUTIONS = ROOT / "longhorizon" / "solutions"
+
+SOLVE_FROM_WORKSPACE_SH = """\
+#!/usr/bin/env bash
+# Reference solution for Harbor's oracle agent, written like an agent: it reads
+# only /workspace and docs/, never the generator or the answer key. A full score
+# proves the task is solvable from what the agent is given.
+set -euo pipefail
+HERE="$(cd "$(dirname "$0")" && pwd)"
+python3 "$HERE/solve.py" /workspace
 """
 
 # Harbor task schema (harbor.models.task.config.TaskConfig), laid out as
@@ -239,7 +257,7 @@ def requirements_md(task_id, family, seed, cfg, g, a, shape):
         "",
         "```bash",
         f"docker build -t {task_id} longhorizon/tasks/{task_id}/environment",
-        "harbor run -d longhorizon/tasks -a oracle          # the oracle must score 1.0",
+        "harbor run -p longhorizon/tasks -a oracle          # the oracle must score 1.0",
         "```",
         "",
     ]
@@ -269,13 +287,18 @@ def build(family, seed=SEED, out_root=OUT):
                                                     extra_packages=cfg["extra_packages"],
                                                     apt_extra="".join(f" {a}" for a in cfg.get("apt", []))),
         "tests/test.sh": TEST_SH.format(seed=seed, answer=m.ANSWER_PATH),
-        "solution/solve.sh": SOLVE_SH.format(seed=seed, answer=m.ANSWER_PATH),
     }
     common = (GEN / "common.py").read_text()
     gen = (GEN / f"{family}.py").read_text()
-    for d in ("environment", "tests", "solution"):
+    solver = SOLUTIONS / f"{family}.py"
+    for d in ("environment", "tests") + (() if solver.exists() else ("solution",)):
         files[f"{d}/common.py"] = common
         files[f"{d}/generate.py"] = gen
+    if solver.exists():
+        files["solution/solve.sh"] = SOLVE_FROM_WORKSPACE_SH
+        files["solution/solve.py"] = solver.read_text()
+    else:
+        files["solution/solve.sh"] = SOLVE_SH.format(seed=seed, answer=m.ANSWER_PATH)
     return Path(out_root) / task_id, files, g
 
 
@@ -310,6 +333,15 @@ def main(argv=None):
             path.write_text(text)
             if rel.endswith(".sh"):
                 path.chmod(0o755)
+        # A file the build no longer writes must not linger: a stale generator
+        # left in solution/ would hand the answer key back to the oracle.
+        leftovers = [q for q in out.rglob("*") if q.is_file() and str(q.relative_to(out)) not in files] \
+            if out.exists() else []
+        for q in leftovers:
+            if args.check:
+                stale.append(f"{q} (no longer built)")
+            else:
+                q.unlink()
         if not args.check:
             print(f"{out.name:28} units {g['units']:>3} | careful {g['single_agent_min']:>5} | "
                   f"floor {g['single_agent_floor_min']:>5} | delegated {g['delegated_min']:>4} min")

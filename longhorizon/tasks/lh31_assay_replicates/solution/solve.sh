@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-# Reference solution for Harbor's oracle agent: proves the task is solvable and
-# the grader awards full marks. It reads the answers from the generator, so it
-# says nothing about how hard the task is.
+# Reference solution for Harbor's oracle agent, written like an agent: it reads
+# only /workspace and docs/, never the generator or the answer key. A full score
+# proves the task is solvable from what the agent is given.
 set -euo pipefail
 HERE="$(cd "$(dirname "$0")" && pwd)"
-python3 "$HERE/generate.py" --seed 1 --solve /workspace/answer/replicates.json
+python3 "$HERE/solve.py" /workspace
