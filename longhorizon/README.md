@@ -5,11 +5,14 @@ builds tasks where acting on subagent reports is the only way to finish at all:
 too much independent work for one agent inside the timeout, and enough for an
 orchestrator that fans it out to parallel subagents.
 
-**31 tasks, one per family, and no two alike.** Each family is a different
+**39 tasks, one per family, and no two alike.** Each family is a different
 kind of work in a different domain: code review, migrations, tests, SQL,
 parsers, performance, ports, refactors, config, markup, docs, data cleaning,
 finance, statistics, contracts, support, security, IAM, calendars, validators,
-localisation, lab replicates. A test pins that no two families share a kind or a domain and
+localisation -- and, beyond software, science, mathematics and biology: lab
+replicates, a clinical meta-analysis, pedigree genetics, exoplanet transits, an
+outbreak investigation, reaction yields, proof grading, counting and
+probability, and field ecology. A test pins that no two families share a kind or a domain and
 that no two briefs overlap by more than 15% of their word trigrams (the
 largest overlap today is 5%). Every task is designed so that:
 
@@ -63,8 +66,16 @@ the task, its budget estimate, and every trap.
 | [`lh29_fictional_calendars`](tasks/lh29_fictional_calendars/REQUIREMENTS.md) | date computation | calendar systems | 50 jobs | invented offsets, summer time, weekends and holidays no library knows |
 | [`lh30_spec_validators`](tasks/lh30_spec_validators/REQUIREMENTS.md) | validator writing | identifier specs | 48 formats | each check algorithm and its parameters; graded on unseen near misses |
 | [`lh31_assay_replicates`](tasks/lh31_assay_replicates/REQUIREMENTS.md) | replicate averaging | laboratory assays | 56 replicate runs | the same protocol on every run, but each run has its own reader, units, dilution wording and exclusions; then the average over the valid runs |
+| [`lh32_meta_analysis`](tasks/lh32_meta_analysis/REQUIREMENTS.md) | evidence synthesis | clinical trials | 56 trial reports | eligibility (design, age, comparator, week 12), duplicate publications, intention-to-treat counts; then a pooled risk ratio |
+| [`lh33_pedigree_inheritance`](tasks/lh33_pedigree_inheritance/REQUIREMENTS.md) | inheritance inference | human genetics | 50 families | which of five modes can explain every phenotype, through unexamined carriers, non-carrier spouses and adoptees |
+| [`lh34_transit_vetting`](tasks/lh34_transit_vetting/REQUIREMENTS.md) | signal vetting | exoplanet astronomy | 52 stars | low-SNR dips, transits hidden by gaps, light from a neighbouring star, odd/even eclipses, radii in km |
+| [`lh35_outbreak_investigation`](tasks/lh35_outbreak_investigation/REQUIREMENTS.md) | outbreak attribution | food-borne epidemiology | 48 outbreaks | a case definition over free-text symptoms and onset times, household contacts, blank answers; then the vehicle by risk ratio |
+| [`lh36_reaction_yields`](tasks/lh36_reaction_yields/REQUIREMENTS.md) | stoichiometry | synthetic chemistry | 56 lab reports | balancing, hydrates, purity, densities, molarities, wrong "in excess" notes; limiting reagent and yield |
+| [`lh37_proof_grading`](tasks/lh37_proof_grading/REQUIREMENTS.md) | proof checking | undergraduate mathematics | 48 proofs | the first invalid step, where the same sentence is valid for one number and not another |
+| [`lh38_counting_problems`](tasks/lh38_counting_problems/REQUIREMENTS.md) | exact counting | combinatorics and probability | 56 two-part problems | round tables, repeated letters, replacement, inclusive bounds, blocked paths; exact fractions |
+| [`lh39_ecology_surveys`](tasks/lh39_ecology_surveys/REQUIREMENTS.md) | diversity indices | field ecology | 54 plots | synonym codes, the observer's re-identifications, non-target taxa, sampling effort, areas in three units |
 
-Sixteen tasks are graded from an answer file. The other fifteen are graded on
+Twenty-four tasks are graded from an answer file. The other fifteen are graded on
 the workspace itself, mostly by running it: the migrated packages' tests (LH2),
 the ported plugins and shared registry (LH8), the patched release lines (LH9),
 the new tests against hidden mutants (LH11), fixes against the spec plus the
@@ -79,6 +90,34 @@ The generators still take a seed, and a different seed gives a different
 scenario (which units are traps, where the violations are), not only
 different filler. Only seed 1 ships: one task per family, rather than several
 near-copies of one.
+
+### Science, mathematics and biology (LH31-LH39)
+
+Nine families are not software work. They were added so the track measures
+delegation of reasoning, not only of code:
+
+- **LH31 lab replicates** and **LH32 meta-analysis** are fan-outs that end in
+  an aggregate (a mean over valid runs, a pooled risk ratio). The aggregate is
+  30 % of the reward and is only right if every unit's decision is, and both
+  hide a cross-unit link only the orchestrator sees: a run superseded by a
+  later repeat, a trial published twice under one registration number.
+- **LH33 pedigrees** and **LH37 proofs** are proofs per unit: which inheritance
+  modes survive every transmission; which proof step first fails. In LH37 the
+  same sentence is valid for one number and not another ("n | p^2, so n | p"
+  holds for square-free n only), so no template matching settles a step.
+- **LH34 transits**, **LH35 outbreaks**, **LH36 yields** and **LH39 ecology**
+  are a fixed scientific procedure applied to data that each unit's own notes
+  quietly change: a neighbouring star's light, household contacts in the line
+  list, a hydrate's water, an observer's re-identifications.
+- **LH38 counting** is exact answers to two-part word problems, where one
+  misread word (round, at least, without replacement) changes the count.
+
+Each has a reference solution that reads only the workspace (see below).
+Building them caught real errors before they shipped: a hand audit of LH37
+found an irrationality proof marked invalid for a square-free composite (the
+step is valid there), and LH36's independent solver, which balances every
+equation itself, found that atom balance alone cannot fix the coefficients of
+the aspirin synthesis, so the reports now state them.
 
 ### The replicate task (LH31)
 
@@ -99,8 +138,8 @@ For delegation, this is the plain fan-out case: subagents each take a share
 of the runs, and the orchestrator owns two things no single subagent can see,
 the repeat links between runs and the average.
 
-**Its reference solution works like an agent, not like an answer key.**
-`longhorizon/solutions/lh31_assay_replicates.py` ships as the task's
+**Its reference solution works like an agent, not like an answer key** (so do
+LH32-LH39's). `longhorizon/solutions/lh31_assay_replicates.py` ships as the task's
 `solution/solve.py`. It reads only `/workspace` (the notes, plates and
 `instruments.csv`), follows `docs/PROTOCOL.md`, and never sees the generator,
 which is not in its `solution/` at all. It is laid out the way the task should
@@ -117,7 +156,7 @@ longhorizon/
   budget.py              the timeout model and the admission gate
   generators/            one module per family: generate, grade, oracle, shape, INSTRUCTION, META
     common.py            deterministic filler and helpers
-  tasks/<family>/        31 Harbor task dirs, built by tools/build_longhorizon.py
+  tasks/<family>/        39 Harbor task dirs, built by tools/build_longhorizon.py
     task.toml            Harbor config: name, [metadata] (seed, budget estimates),
                          timeouts, no network, pinned CPU and memory
     instruction.md       the brief (never mentions subagents)
@@ -125,7 +164,7 @@ longhorizon/
     environment/         multi-stage Dockerfile + a copy of the generator
     tests/test.sh        regenerates truth from the seed, grades, writes reward.txt
     solution/solve.sh    reference solution for Harbor's oracle agent: a workspace-only
-                         solver where longhorizon/solutions/<family>.py exists (LH31),
+                         solver where longhorizon/solutions/<family>.py exists (LH31-LH39),
                          else the generator's answer key
 ```
 
@@ -155,7 +194,7 @@ validates. Following DeepSWE's conventions:
 
 `make longhorizon-harbor-check` loads every task with Harbor's own models
 (Harbor needs Python 3.12; the target uses `uvx`), and `make
-longhorizon-oracle` runs Harbor's oracle agent on all 31 in Docker.
+longhorizon-oracle` runs Harbor's oracle agent on all 39 in Docker.
 
 ## Why one agent times out: the budget model
 
@@ -219,6 +258,14 @@ every task times out:
 | lh29 | 48.0 | 22.5 | 8.7 |
 | lh30 | 53.3 | 23.1 | 8.5 |
 | lh31 | 52.4 | 23.6 | 8.7 |
+| lh32 | 53.0 | 23.7 | 8.7 |
+| lh33 | 56.0 | 24.1 | 9.7 |
+| lh34 | 49.2 | 22.1 | 8.6 |
+| lh35 | 47.2 | 20.9 | 7.6 |
+| lh36 | 53.1 | 23.8 | 8.7 |
+| lh37 | 46.3 | 21.6 | 7.8 |
+| lh38 | 53.1 | 23.8 | 8.7 |
+| lh39 | 50.8 | 22.9 | 8.6 |
 
 Unit sizes are **measured** from the generated workspaces. Turn latency, decode
 speed and output tokens per unit are **assumptions**. Sequential subagents do
@@ -290,6 +337,14 @@ leaving a unit alone is sometimes right (LH9 0.41, LH17 0.38, LH20 0.51).
 | lh29 | ignore summer time / assume Sat-Sun weekends / ignore holidays / all three | 0.38 / 0.52 / 0.60 / 0.02 |
 | lh30 | always valid / always invalid / right shape, any check character | 0 / 0 / 0.19 |
 | lh31 | one generic script / no look across runs for repeats / saturated standards kept / "50 uL + 950 uL" read as 19 / every replicate right but the mean over all runs | 0.19 / 0.65 / 0.44 / 0.55 / 0.70 |
+| lh32 | "randomised" as a substring / completers as denominators / duplicates kept / last follow-up row / active comparators kept | 0.64 / 0.29 / 0.64 / 0.23 / 0.65 |
+| lh33 | spouses may carry / adoptees biological / unexamined = unaffected / textbook heuristic, one mode | 0.42 / 0.42 / 0.64 / 0.18 |
+| lh34 | low-SNR dips kept / dilution ignored / period = span / (dips - 1) / km read as solar radii / no binary checks | 0.13 / 0.63 / 0.46 / 0.62 / 0.65 |
+| lh35 | any symptom is a case / only the words diarrhoea and vomiting / no onset window / household contacts counted | 0 / 0 / 0.46 / 0 |
+| lh36 | every coefficient 1 / hydrate water ignored / purity ignored / volumes read as grams / trust the "excess" note | 0.59 / 0.64 / 0.38 / 0.68 / 0.61 |
+| lh37 | every proof valid / always step 3 / arithmetic checked, logic not | 0.21 / 0.33 / 0.60 |
+| lh38 | textbook formula per kind, every twist ignored | 0.21 |
+| lh39 | notes' corrections ignored / synonyms not merged / log10 Shannon / all taxa kept / area number read as m^2 | 0.22 / 0.39 / 0.17 / 0.17 / 0.39 |
 
 **These checks found real flaws.** Making the tasks distinct was also a chance
 to audit them. The shortcut checks caught:
@@ -326,11 +381,11 @@ services) was a second LH1: code review of services for one rule.
 
 ## Verified so far (no model involved)
 
-Offline, 291 tests cover distinctness, determinism, oracles, doing nothing,
-shortcuts, constraints, the gate and the task layout for all 31 tasks. Every
+Offline, 400 tests cover distinctness, determinism, oracles, doing nothing,
+shortcuts, constraints, the gate and the task layout for all 39 tasks. Every
 oracle scores 1.0.
 
-All 31 images were built, and each was run with no network. In every one:
+All 39 images were built, and each was run with no network. In every one:
 
 - no generator or ground-truth file survives into the final image;
 - an untouched workspace scores 0.0, except the three with a base rate
@@ -341,10 +396,11 @@ The workspaces range from 0.2 to 18 MB (LH23's per-user experiment data).
 
 **Through Harbor itself** (0.23.0, Docker environment):
 
-- all 31 `task.toml` files pass Harbor's `TaskConfig` and load as `Task`s,
+- all 39 `task.toml` files pass Harbor's `TaskConfig` and load as `Task`s,
   with the metadata intact;
-- Harbor's oracle agent scores 1.0 on all 31 (0 exceptions), and its `nop`
-  agent scores 0.0 on 28, with LH9 0.41, LH17 0.38 and LH20 0.51, exactly the
+- Harbor's oracle agent scores 1.0 on all 39 (0 exceptions; for LH31-LH39 it runs
+  the workspace-only solvers inside the container), and its `nop`
+  agent scores 0.0 on 36, with LH9 0.41, LH17 0.38 and LH20 0.51, exactly the
   base rates measured offline;
 - `no-network` is enforced: an HTTPS request from the agent phase or the
   verifier is cut off by Harbor's egress sidecar, while the same request from

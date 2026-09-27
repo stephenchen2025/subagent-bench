@@ -61,6 +61,9 @@ FAMILIES = [
     "lh19_a11y_fixes", "lh20_docs_drift", "lh21_data_cleaning", "lh22_reconciliation", "lh23_experiment_audit",
     "lh24_contract_terms", "lh25_ticket_triage", "lh26_expense_audit", "lh27_secret_leaks", "lh28_iam_access",
     "lh29_fictional_calendars", "lh30_spec_validators", "lh31_assay_replicates",
+    # science, mathematics and biology
+    "lh32_meta_analysis", "lh33_pedigree_inheritance", "lh34_transit_vetting", "lh35_outbreak_investigation",
+    "lh36_reaction_yields", "lh37_proof_grading", "lh38_counting_problems", "lh39_ecology_surveys",
 ]
 
 

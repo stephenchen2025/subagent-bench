@@ -106,7 +106,7 @@ def _trigrams(text):
 
 
 def test_distinct_families_one_task_each():
-    assert len(FAMILIES) == len(set(FAMILIES)) == 31
+    assert len(FAMILIES) == len(set(FAMILIES)) == 39
     kinds = [mod(f).META["kind"] for f in FAMILIES]
     domains = [mod(f).META["domain"] for f in FAMILIES]
     assert len(set(kinds)) == len(FAMILIES), sorted(k for k in kinds if kinds.count(k) > 1)
@@ -910,6 +910,18 @@ def test_lh31_the_average_counts_only_valid_runs():
 
 
 SHORTCUTS = {f: globals()["_" + f.split("_")[0]] for f in FAMILIES if "_" + f.split("_")[0] in globals()}
+sys.path.insert(0, str(ROOT / "tests"))
+import lh_science_shortcuts  # noqa: E402  -- LH32-LH39: science, mathematics and biology
+SHORTCUTS.update(lh_science_shortcuts.SHORTCUTS)
+
+
+def test_science_math_and_biology_are_represented():
+    """Not only software work: medicine, genetics, astronomy, epidemiology,
+    chemistry, mathematics and ecology each have a family."""
+    domains = {mod(f).META["domain"] for f in FAMILIES}
+    assert {"clinical trials", "human genetics", "exoplanet astronomy", "food-borne epidemiology",
+            "synthetic chemistry", "undergraduate mathematics", "combinatorics and probability",
+            "field ecology", "laboratory assays"} <= domains
 
 
 def test_every_family_has_a_shortcut_check():
