@@ -47,3 +47,11 @@ longhorizon: ## Rebuild the long-horizon Harbor task dirs from their generators
 
 longhorizon-check: ## Fail if longhorizon/tasks is stale relative to the generators
 	python tools/build_longhorizon.py --check
+
+HARBOR_VERSION ?= 0.23.0
+
+longhorizon-harbor-check: ## Load every long-horizon task with Harbor's own models (needs uv)
+	uvx --python 3.12 --from 'harbor==$(HARBOR_VERSION)' python tools/check_harbor.py
+
+longhorizon-oracle: ## Run Harbor's oracle agent on every long-horizon task in Docker (needs uv + Docker)
+	uvx --python 3.12 --from 'harbor==$(HARBOR_VERSION)' harbor run -p longhorizon/tasks -a oracle -e docker -n 2 -y

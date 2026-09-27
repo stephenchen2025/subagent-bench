@@ -87,7 +87,8 @@ longhorizon/
   generators/            one module per family: generate, grade, oracle, shape, INSTRUCTION, META
     common.py            deterministic filler and helpers
   tasks/<family>/        30 Harbor task dirs, built by tools/build_longhorizon.py
-    task.toml            timeout, seed, budget estimates
+    task.toml            Harbor config: name, [metadata] (seed, budget estimates),
+                         timeouts, no network, pinned CPU and memory
     instruction.md       the brief (never mentions subagents)
     REQUIREMENTS.md      for people
     environment/         multi-stage Dockerfile + a copy of the generator
@@ -101,6 +102,27 @@ rebuilds the ground truth from the same seed. After changing a generator, run
 `make longhorizon`. `make longhorizon-check` (and a test) fails if the task
 directories drift, and the build refuses to write any task the budget gate
 rejects.
+
+## Format: Harbor, as DeepSWE uses it
+
+The tasks use [Harbor](https://github.com/harbor-framework/harbor)'s task
+format, the one [DeepSWE](https://github.com/datacurve-ai/deep-swe) adopts:
+the same directory layout, and a `task.toml` that Harbor's own `TaskConfig`
+validates. Following DeepSWE's conventions:
+
+| `task.toml` | here | DeepSWE | why |
+|---|---|---|---|
+| `[task] name` | `handoff/<family>` | `datacurve/<task>` | Harbor rejects a name without an org |
+| `[metadata]` | top level | top level | Harbor silently drops a nested `[task.metadata]` |
+| `network_mode` | `no-network` for environment, agent and verifier | `no-network` for agent and verifier | Harbor defaults to public, and this track assumes no network (see validity threats) |
+| `cpus` / `memory_mb` | 2 / 4096 | 2 / 8192 | the timeout argument depends on speed, and LH15 is timed |
+| `[agent] timeout_sec` | 1200 | 10800 | the short timeout is the point of this track |
+| verifier | grades `/workspace` in place (`shared`) | grades the committed diff in a clean container (`separate`) | our graders regenerate the truth and read the workspace |
+| reward | `/logs/verifier/reward.txt` | `reward.json` plus a CTRF test report | Harbor accepts either |
+
+`make longhorizon-harbor-check` loads every task with Harbor's own models
+(Harbor needs Python 3.12; the target uses `uvx`), and `make
+longhorizon-oracle` runs Harbor's oracle agent on all 30 in Docker.
 
 ## Why one agent times out: the budget model
 
@@ -282,9 +304,21 @@ All 30 images were built, and each was run with no network. In every one:
 
 The workspaces range from 0.2 to 18 MB (LH23's per-user experiment data).
 
-In this sandbox, `apt` and `pip` inside `docker build` needed the egress
-proxy, so the container check used a variant without the `apt`/`git` layer.
-The committed Dockerfiles are standard.
+**Through Harbor itself** (0.23.0, Docker environment):
+
+- all 30 `task.toml` files pass Harbor's `TaskConfig` and load as `Task`s,
+  with the metadata intact;
+- Harbor's oracle agent scores 1.0 on all 30 (0 exceptions), and its `nop`
+  agent scores 0.0 on 27, with LH9 0.41, LH17 0.38 and LH20 0.51, exactly the
+  base rates measured offline;
+- `no-network` is enforced: an HTTPS request from the agent phase or the
+  verifier is cut off by Harbor's egress sidecar, while the same request from
+  a plain container reaches a server.
+
+In this sandbox, `apt` and `pip` inside `docker build` could not reach the
+network directly, so these runs used copies of the tasks that drop the
+`apt`/`git` layer and take pytest from a local base image. Nothing else
+differed. The committed Dockerfiles are standard.
 
 ## Ideas it takes from the 2026 literature
 

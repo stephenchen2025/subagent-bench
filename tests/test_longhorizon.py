@@ -865,7 +865,35 @@ def test_task_layout_and_the_final_image_never_receives_the_generator(family):
     final = (d / "environment" / "Dockerfile").read_text().rsplit("\nFROM ", 1)[1]
     assert "generate.py" not in final and "common.py" not in final
     toml = tomllib.loads((d / "task.toml").read_text())
-    assert toml["agent"]["timeout_sec"] == build.TIMEOUT_S and toml["task"]["metadata"]["seed"] == SEED
+    assert toml["agent"]["timeout_sec"] == build.TIMEOUT_S and toml["metadata"]["seed"] == SEED
+
+
+@pytest.mark.parametrize("family", FAMILIES)
+def test_task_toml_follows_harbor_schema(family):
+    """The fields Harbor's TaskConfig validates or silently drops, as DeepSWE
+    lays them out: `org/name`, a top-level [metadata] (a nested
+    [task.metadata] is ignored without an error), no network for the agent or
+    the verifier (Harbor defaults to public), and pinned CPU and memory, since
+    the timeout argument depends on speed. `tools/check_harbor.py` runs
+    Harbor's own validator."""
+    import tomllib
+    toml = tomllib.loads((ROOT / "longhorizon" / "tasks" / family / "task.toml").read_text())
+    assert toml["schema_version"] == build.HARBOR_SCHEMA_VERSION
+    assert set(toml["task"]) <= {"name", "version", "description", "authors", "keywords"}
+    assert re.fullmatch(r"[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+", toml["task"]["name"])
+    assert toml["task"]["name"] == f"{build.ORG}/{family}" and toml["task"]["description"]
+    assert toml["metadata"]["family"] == family
+    for phase in ("agent", "verifier", "environment"):
+        assert toml[phase]["network_mode"] == "no-network", phase
+    env = toml["environment"]
+    assert env["cpus"] == build.CPUS and env["memory_mb"] == build.MEMORY_MB and env["workdir"] == "/workspace"
+
+
+def test_task_toml_passes_harbors_own_validator():
+    harbor_config = pytest.importorskip("harbor.models.task.config", reason="harbor needs Python >= 3.12")
+    for family in FAMILIES:
+        text = (ROOT / "longhorizon" / "tasks" / family / "task.toml").read_text()
+        harbor_config.TaskConfig.model_validate_toml(text)
 
 
 def _unit_keys(truth):
