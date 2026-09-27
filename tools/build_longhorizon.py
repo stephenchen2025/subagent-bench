@@ -57,7 +57,7 @@ FAMILIES = [
     "lh14_log_parsers", "lh15_perf_fixes", "lh16_shell_port", "lh17_flag_cleanup", "lh18_docker_hardening",
     "lh19_a11y_fixes", "lh20_docs_drift", "lh21_data_cleaning", "lh22_reconciliation", "lh23_experiment_audit",
     "lh24_contract_terms", "lh25_ticket_triage", "lh26_expense_audit", "lh27_secret_leaks", "lh28_iam_access",
-    "lh29_fictional_calendars", "lh30_spec_validators",
+    "lh29_fictional_calendars", "lh30_spec_validators", "lh31_assay_replicates",
 ]
 
 

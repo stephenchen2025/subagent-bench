@@ -1,6 +1,6 @@
 """The long-horizon track, checked without a model and without Docker.
 
-Pinned here, for all thirty families (one task each):
+Pinned here, for every family (one task each):
 
 - the families are genuinely different: no two share a kind of work or a
   domain, and their briefs barely overlap;
@@ -25,6 +25,7 @@ import itertools
 import json
 import re
 import shutil
+import statistics
 import subprocess
 import sys
 from decimal import Decimal
@@ -104,12 +105,12 @@ def _trigrams(text):
     return {tuple(words[i:i + 3]) for i in range(len(words) - 2)}
 
 
-def test_thirty_distinct_families_one_task_each():
-    assert len(FAMILIES) == len(set(FAMILIES)) == 30
+def test_distinct_families_one_task_each():
+    assert len(FAMILIES) == len(set(FAMILIES)) == 31
     kinds = [mod(f).META["kind"] for f in FAMILIES]
     domains = [mod(f).META["domain"] for f in FAMILIES]
-    assert len(set(kinds)) == 30, sorted(k for k in kinds if kinds.count(k) > 1)
-    assert len(set(domains)) == 30, sorted(d for d in domains if domains.count(d) > 1)
+    assert len(set(kinds)) == len(FAMILIES), sorted(k for k in kinds if kinds.count(k) > 1)
+    assert len(set(domains)) == len(FAMILIES), sorted(d for d in domains if domains.count(d) > 1)
 
 
 def test_no_two_briefs_are_near_duplicates():
@@ -796,6 +797,90 @@ def is_valid(text):
     return scores
 
 
+def _lh31(fresh):
+    """Five ways to get the replicate study almost right, each missing one rule:
+    one generic script (first number on the dilution line, mg/L assumed,
+    exclusions ignored); careful runs but no look across runs for repeats;
+    saturated standards kept; "A uL + B uL" read as B/A; and every replicate
+    right but the mean taken over every run that produced a number."""
+    m = mod("lh31_assay_replicates")
+    ws = fresh("lh31_assay_replicates")
+    t = m.generate(SEED)
+
+    def rows(rid):
+        return list(csv.DictReader(open(ws / "runs" / rid / "plate.csv")))
+
+    def answer(results):
+        reps = {rid: ({"valid": True, "conc_mg_l": r["conc_mg_l"]} if r["valid"] else {"valid": False})
+                for rid, r in results.items()}
+        v = [r["conc_mg_l"] for r in results.values() if r["valid"]]
+        return {"replicates": reps,
+                "summary": {"n_valid": len(v), "mean_mg_l": statistics.fmean(v), "sd_mg_l": statistics.stdev(v)}}
+
+    scores = []
+    generic = {}
+    for rid, r in t["runs"].items():
+        notes = (ws / "runs" / rid / "notes.md").read_text()
+        line = next((ln for ln in notes.splitlines() if re.search("dilut|fold|uL", ln, re.I)), "")
+        num = re.search(r"\d+", line)
+        generic[rid] = m.analyse(rows(rid), dict(r["facts"], excluded=[], unit="mg/L", superseded_by=None,
+                                                 not_reportable=False, dilution=int(num.group()) if num else 1))
+    scores.append(m.grade(SEED, answer(generic))["reward"])
+    scores.append(m.grade(SEED, answer({rid: m.analyse(rows(rid), dict(r["facts"], superseded_by=None))
+                                        for rid, r in t["runs"].items()}))["reward"])
+    saved = dict(m.INSTRUMENTS)
+    try:
+        m.INSTRUMENTS.update({k: 99.0 for k in m.INSTRUMENTS})
+        saturated = answer({rid: m.analyse(rows(rid), r["facts"]) for rid, r in t["runs"].items()})
+    finally:
+        m.INSTRUMENTS.update(saved)
+    scores.append(m.grade(SEED, saturated)["reward"])
+    literal = {}
+    for rid, r in t["runs"].items():
+        hit = re.search(r"(\d+) uL sample \+ (\d+) uL", (ws / "runs" / rid / "notes.md").read_text())
+        facts = dict(r["facts"], dilution=int(hit.group(2)) / int(hit.group(1))) if hit else r["facts"]
+        literal[rid] = m.analyse(rows(rid), facts)
+    scores.append(m.grade(SEED, answer(literal))["reward"])
+    everything = []
+    for rid, r in t["runs"].items():
+        f = r["facts"]
+        wells = [x for x in rows(rid) if x["well"] not in f["excluded"]]
+        blank = statistics.fmean(float(x["absorbance"]) for x in wells if x["type"] == "blank")
+        k = m.unit_factor(f["unit"], f["analyte"])
+        std = [(float(x["conc"]) * k, float(x["absorbance"]) - blank) for x in wells if x["type"] == "standard"]
+        std = [(c, a) for c, a in std if a <= m.INSTRUMENTS[f["instrument"]]]
+        slope, intercept, _ = m.fit([c for c, _ in std], [a for _, a in std])
+        sample = statistics.fmean(float(x["absorbance"]) - blank for x in wells if x["type"] == "sample")
+        everything.append((sample - intercept) / slope * f["dilution"])
+    ans = m.oracle(SEED)
+    ans["summary"] = {"n_valid": len(everything), "mean_mg_l": statistics.fmean(everything),
+                      "sd_mg_l": statistics.stdev(everything)}
+    scores.append(m.grade(SEED, ans)["reward"])
+    return scores
+
+
+def test_lh31_every_replicate_is_a_different_run():
+    """The same procedure, never the same inputs: no two replicates share their
+    plate readings, and between them they cover every reader, unit and
+    dilution factor the protocol allows."""
+    m = mod("lh31_assay_replicates")
+    t = m.generate(SEED)
+    facts = [r["facts"] for r in t["runs"].values()]
+    assert {f["instrument"] for f in facts} == set(m.INSTRUMENTS)
+    assert {f["unit"] for f in facts} == {"mg/L", "ug/mL", "mg/dL", "umol/L"}
+    assert len({f["dilution"] for f in facts}) >= 4
+    concs = [r["conc_mg_l"] for r in t["runs"].values() if r["valid"]]
+    assert len(set(concs)) == len(concs)
+
+
+def test_lh31_the_average_counts_only_valid_runs():
+    """Perfect replicates with a wrong summary cannot pass: the summary is 30 %."""
+    m = mod("lh31_assay_replicates")
+    ans = m.oracle(SEED)
+    ans["summary"]["n_valid"] += 1
+    assert m.grade(SEED, ans)["reward"] == pytest.approx(0.7)
+
+
 SHORTCUTS = {f: globals()["_" + f.split("_")[0]] for f in FAMILIES if "_" + f.split("_")[0] in globals()}
 
 
@@ -847,7 +932,7 @@ def test_sequential_subagents_do_not_rescue_a_task(family):
 
 # ------------------------------------------------------------------ task layout
 
-def test_there_are_thirty_tasks_and_they_match_the_generators():
+def test_one_task_dir_per_family_and_they_match_the_generators():
     dirs = sorted(d.name for d in (ROOT / "longhorizon" / "tasks").iterdir() if d.is_dir())
     assert dirs == sorted(FAMILIES)
     run = subprocess.run([sys.executable, str(ROOT / "tools" / "build_longhorizon.py"), "--check"],

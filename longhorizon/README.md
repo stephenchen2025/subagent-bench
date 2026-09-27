@@ -5,11 +5,11 @@ builds tasks where acting on subagent reports is the only way to finish at all:
 too much independent work for one agent inside the timeout, and enough for an
 orchestrator that fans it out to parallel subagents.
 
-**30 tasks, one per family, and no two alike.** Each family is a different
+**31 tasks, one per family, and no two alike.** Each family is a different
 kind of work in a different domain: code review, migrations, tests, SQL,
 parsers, performance, ports, refactors, config, markup, docs, data cleaning,
 finance, statistics, contracts, support, security, IAM, calendars, validators,
-localisation. A test pins that no two families share a kind or a domain and
+localisation, lab replicates. A test pins that no two families share a kind or a domain and
 that no two briefs overlap by more than 15% of their word trigrams (the
 largest overlap today is 5%). Every task is designed so that:
 
@@ -62,8 +62,9 @@ the task, its budget estimate, and every trap.
 | [`lh28_iam_access`](tasks/lh28_iam_access/REQUIREMENTS.md) | access decisions | IAM policies | 48 principals | explicit deny, boundaries, conditions, case-sensitive resources |
 | [`lh29_fictional_calendars`](tasks/lh29_fictional_calendars/REQUIREMENTS.md) | date computation | calendar systems | 50 jobs | invented offsets, summer time, weekends and holidays no library knows |
 | [`lh30_spec_validators`](tasks/lh30_spec_validators/REQUIREMENTS.md) | validator writing | identifier specs | 48 formats | each check algorithm and its parameters; graded on unseen near misses |
+| [`lh31_assay_replicates`](tasks/lh31_assay_replicates/REQUIREMENTS.md) | replicate averaging | laboratory assays | 56 replicate runs | the same protocol on every run, but each run has its own reader, units, dilution wording and exclusions; then the average over the valid runs |
 
-Fifteen tasks are graded from an answer file. The other fifteen are graded on
+Sixteen tasks are graded from an answer file. The other fifteen are graded on
 the workspace itself, mostly by running it: the migrated packages' tests (LH2),
 the ported plugins and shared registry (LH8), the patched release lines (LH9),
 the new tests against hidden mutants (LH11), fixes against the spec plus the
@@ -79,6 +80,25 @@ scenario (which units are traps, where the violations are), not only
 different filler. Only seed 1 ships: one task per family, rather than several
 near-copies of one.
 
+### The replicate task (LH31)
+
+LH31 is the one task built from repetition. Every run under `runs/` is the
+same assay protocol, repeated on a different day, and every run is different:
+a different reader (whose linear limit decides which standards count),
+standards in mg/L, ug/mL, mg/dL or umol/L, the dilution worded five ways
+("1:20", "1 in 20", "20-fold", "dilution factor 20", "50 uL sample + 950 uL
+buffer"), and the wells the operator excluded. Sixteen of the 56 runs must not
+be reported: a failed calibration, too few standards in range, a compromised
+sample, or a run replaced by a later repeat, which only the later run's notes
+mention.
+
+The deliverable is every replicate's verdict and concentration, then the
+**mean and standard deviation over the valid runs**. The summary is 30 % of
+the reward, so perfect replicates with the wrong average score 0.70 and fail.
+For delegation, this is the plain fan-out case: subagents each take a share
+of the runs, and the orchestrator owns two things no single subagent can see,
+the repeat links between runs and the average.
+
 ## Layout
 
 ```
@@ -86,7 +106,7 @@ longhorizon/
   budget.py              the timeout model and the admission gate
   generators/            one module per family: generate, grade, oracle, shape, INSTRUCTION, META
     common.py            deterministic filler and helpers
-  tasks/<family>/        30 Harbor task dirs, built by tools/build_longhorizon.py
+  tasks/<family>/        31 Harbor task dirs, built by tools/build_longhorizon.py
     task.toml            Harbor config: name, [metadata] (seed, budget estimates),
                          timeouts, no network, pinned CPU and memory
     instruction.md       the brief (never mentions subagents)
@@ -122,7 +142,7 @@ validates. Following DeepSWE's conventions:
 
 `make longhorizon-harbor-check` loads every task with Harbor's own models
 (Harbor needs Python 3.12; the target uses `uvx`), and `make
-longhorizon-oracle` runs Harbor's oracle agent on all 30 in Docker.
+longhorizon-oracle` runs Harbor's oracle agent on all 31 in Docker.
 
 ## Why one agent times out: the budget model
 
@@ -185,6 +205,7 @@ every task times out:
 | lh28 | 53.4 | 22.1 | 8.4 |
 | lh29 | 48.0 | 22.5 | 8.7 |
 | lh30 | 53.3 | 23.1 | 8.5 |
+| lh31 | 52.4 | 23.6 | 8.7 |
 
 Unit sizes are **measured** from the generated workspaces. Turn latency, decode
 speed and output tokens per unit are **assumptions**. Sequential subagents do
@@ -255,6 +276,7 @@ leaving a unit alone is sometimes right (LH9 0.41, LH17 0.38, LH20 0.51).
 | lh28 | evaluator without conditions or boundaries / case-folding resources / deny all | 0.08 / 0.23 / 0.04 |
 | lh29 | ignore summer time / assume Sat-Sun weekends / ignore holidays / all three | 0.38 / 0.52 / 0.60 / 0.02 |
 | lh30 | always valid / always invalid / right shape, any check character | 0 / 0 / 0.19 |
+| lh31 | one generic script / no look across runs for repeats / saturated standards kept / "50 uL + 950 uL" read as 19 / every replicate right but the mean over all runs | 0.19 / 0.65 / 0.44 / 0.55 / 0.70 |
 
 **These checks found real flaws.** Making the tasks distinct was also a chance
 to audit them. The shortcut checks caught:
@@ -291,11 +313,11 @@ services) was a second LH1: code review of services for one rule.
 
 ## Verified so far (no model involved)
 
-Offline, 249 tests cover distinctness, determinism, oracles, doing nothing,
-shortcuts, constraints, the gate and the task layout for all 30 tasks. Every
+Offline, 291 tests cover distinctness, determinism, oracles, doing nothing,
+shortcuts, constraints, the gate and the task layout for all 31 tasks. Every
 oracle scores 1.0.
 
-All 30 images were built, and each was run with no network. In every one:
+All 31 images were built, and each was run with no network. In every one:
 
 - no generator or ground-truth file survives into the final image;
 - an untouched workspace scores 0.0, except the three with a base rate
@@ -306,10 +328,10 @@ The workspaces range from 0.2 to 18 MB (LH23's per-user experiment data).
 
 **Through Harbor itself** (0.23.0, Docker environment):
 
-- all 30 `task.toml` files pass Harbor's `TaskConfig` and load as `Task`s,
+- all 31 `task.toml` files pass Harbor's `TaskConfig` and load as `Task`s,
   with the metadata intact;
-- Harbor's oracle agent scores 1.0 on all 30 (0 exceptions), and its `nop`
-  agent scores 0.0 on 27, with LH9 0.41, LH17 0.38 and LH20 0.51, exactly the
+- Harbor's oracle agent scores 1.0 on all 31 (0 exceptions), and its `nop`
+  agent scores 0.0 on 28, with LH9 0.41, LH17 0.38 and LH20 0.51, exactly the
   base rates measured offline;
 - `no-network` is enforced: an HTTPS request from the agent phase or the
   verifier is cut off by Harbor's egress sidecar, while the same request from

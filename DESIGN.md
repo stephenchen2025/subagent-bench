@@ -676,7 +676,7 @@ between a key and a real result.
 Milestone 1's tasks are small on purpose: capability-saturated, so a report is
 the only thing that varies. That leaves a question it cannot answer: does report
 quality matter when the orchestrator *depends* on its subagents? The
-long-horizon track (`longhorizon/README.md`) builds 30 tasks where it must, one
+long-horizon track (`longhorizon/README.md`) builds 31 tasks where it must, one
 per family and each a different kind of work in a different domain (code
 review, migrations, SQL, parsers, ports, data cleaning, statistics, contracts,
 IAM, calendars and more). Each has too many independent units (24 to 80) for one
