@@ -170,7 +170,10 @@ def run_one(model_name, spec, workdir):
                        GEMINI_MIN_INTERVAL_S)
     else:
         model = get_model(model_name)
-    agent = build_mini_agent(model, LocalEnvironment(cwd=str(repo)), step_limit=STEP_LIMIT)
+    from tools.secrets_guard import shell_env_overrides
+    # The agent's shell runs on the host: it must not see any API key.
+    agent = build_mini_agent(model, LocalEnvironment(cwd=str(repo), env=shell_env_overrides()),
+                             step_limit=STEP_LIMIT)
     budget = spec["budget"]["max_tokens"]
 
     episode, handback_result = run_episode(
@@ -330,7 +333,8 @@ def main(argv=None, run_one_fn=run_one, consumer=None, out_dir=None, require_key
                     continue
             total_cost += cost
             out_path.parent.mkdir(parents=True, exist_ok=True)
-            out_path.write_text(json.dumps(record, indent=2))
+            from tools.secrets_guard import redact
+            out_path.write_text(json.dumps(redact(record), indent=2))
             print(f"${cost:.3f}  {time.time() - t0:.0f}s  "
                   f"report={'yes' if record['report'].strip() else 'NO'}")
 

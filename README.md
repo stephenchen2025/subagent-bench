@@ -54,8 +54,12 @@ Three ideas carry it:
 | [`tests/`](tests/) | fixture invariants, spec consistency, scorer unit tests, end-to-end |
 | [`longhorizon/`](longhorizon/) | long-horizon track: 39 distinct tasks (one per family), software and science a single agent cannot finish in time and parallel subagents can |
 
+**Running it yourself:** [`PLAYBOOK.md`](PLAYBOOK.md) is a step-by-step
+runbook (for a person or an agent): finish the free-tier Gemma pilot, run
+Milestone 1 with Claude, check the long-horizon tasks, and calibrate them.
+
 ```bash
-make install && make test    # 110 tests, no API key needed
+make install && make test    # the full suite, no API key needed
 make demo                    # score two subagents that did identical work
 make generate                # generate + validate the 30-task Milestone 1 set
 make dry-run                 # rehearse the whole pipeline: 270 episodes, no model

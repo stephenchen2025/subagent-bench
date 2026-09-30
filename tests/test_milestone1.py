@@ -92,6 +92,23 @@ def test_second_run_skips_completed_episodes(specs, tmp_path, capsys):
     assert calls["n"] == 0, "a resumed run must not redo a completed episode"
 
 
+def test_saved_episodes_never_hold_a_key(specs, tmp_path, monkeypatch):
+    """An agent that runs `env` must not write the host's API key to disk."""
+    key = "sk-ant-api03-" + "k" * 40
+    monkeypatch.setenv("ANTHROPIC_API_KEY", key)
+
+    def leaky_run_one(model, spec, workdir):
+        record, cost = _fake_run_one(lambda m: True)(model, spec, workdir)
+        record["trajectory"].append({"command": "env", "output": f"ANTHROPIC_API_KEY={key}"})
+        return record, cost
+
+    m1.main(["--models", "modelA"], run_one_fn=leaky_run_one,
+            consumer=_consumer_for(next(iter(specs.values()))),
+            out_dir=tmp_path, require_key=False)
+    (episode,) = (tmp_path / "episodes").rglob("*.json")
+    assert key not in episode.read_text()
+    assert "ANTHROPIC_API_KEY=[REDACTED]" in episode.read_text()
+
 def test_require_key_is_skippable_for_injected_runs(specs, tmp_path, monkeypatch):
     """Orchestration tests must never depend on ANTHROPIC_API_KEY being set."""
     monkeypatch.delenv("ANTHROPIC_API_KEY", raising=False)
