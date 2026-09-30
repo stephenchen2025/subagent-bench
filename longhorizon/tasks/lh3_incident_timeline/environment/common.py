@@ -1,0 +1,177 @@
+"""Shared, deterministic building blocks for the long-horizon generators.
+
+Every generator must be a pure function of its seed: the Docker build runs it to
+lay out the workspace, and the verifier runs the same file again to recover the
+ground truth. Nothing here may read the clock, the environment, or global
+random state.
+
+This file is copied verbatim next to each generator (see
+tools/build_longhorizon.py), because a Docker build context cannot reach outside
+its own directory. The copies are checked against this source by the tests.
+"""
+
+import json
+import random
+from pathlib import Path
+
+VERBS = ["load", "build", "resolve", "normalize", "merge", "render", "collect",
+         "validate", "index", "encode", "decode", "partition", "reconcile",
+         "hydrate", "flush", "compact", "annotate", "schedule", "dispatch", "sample"]
+NOUNS = ["batch", "record", "window", "cursor", "payload", "ledger", "segment",
+         "manifest", "snapshot", "bucket", "digest", "envelope", "shard", "span",
+         "profile", "quota", "lease", "journal", "catalog", "rollup"]
+ADJS = ["pending", "stale", "active", "cached", "remote", "local", "partial",
+        "primary", "shadow", "legacy", "deferred", "sealed", "draft", "hot", "cold"]
+
+# Claude Code truncates a Bash result at about 30k characters; mini-swe-agent's
+# default observation template truncates earlier. A unit larger than this cannot
+# be taken in with one call.
+TOOL_OUTPUT_CHARS = 30_000
+
+
+def rng_for(seed, *labels):
+    """An independent, reproducible stream per (seed, labels) -- so adding a unit
+    never reshuffles the ones generated before it."""
+    return random.Random("|".join([str(seed), *map(str, labels)]))
+
+
+def ident(rng, parts=2):
+    pools = [VERBS, ADJS, NOUNS]
+    words = [rng.choice(pools[(i + (0 if parts > 2 else 1)) % 3]) for i in range(parts)]
+    return "_".join(words)
+
+
+def filler_function(rng, name=None):
+    """A plausible, self-contained helper: docstring, a loop, a branch.
+
+    Filler is what makes a unit expensive to read. It is deliberately inert --
+    no network, no auth, no I/O -- so it can never become an accidental answer.
+    """
+    name = name or ident(rng, 3)
+    arg = rng.choice(NOUNS)
+    other = rng.choice(ADJS)
+    limit = rng.randint(3, 400)
+    body = [
+        f"def {name}({arg}s, *, {other}_limit={limit}):",
+        f'    """{rng.choice(VERBS).capitalize()} {arg}s that are {other}, up to {other}_limit.',
+        "",
+        f"    Order is preserved. Items without an id are skipped rather than raised on,",
+        f"    because upstream {rng.choice(NOUNS)} producers emit them during backfills.",
+        '    """',
+        "    out = []",
+        f"    for item in {arg}s:",
+        "        if not item.get(\"id\"):",
+        "            continue",
+        f"        if len(out) >= {other}_limit:",
+        "            break",
+        f"        item = dict(item, {rng.choice(NOUNS)}_seen=True)",
+    ]
+    if rng.random() < 0.5:
+        body += [f"        if item.get(\"{rng.choice(ADJS)}\"):",
+                 f"            item[\"weight\"] = item.get(\"weight\", 1) * {rng.randint(2, 9)}"]
+    body += ["        out.append(item)", "    return out", ""]
+    return "\n".join(body)
+
+
+def filler_module(rng, n_functions, header="", topic=None):
+    """`topic` puts a unit's own vocabulary into some filler names, so grepping
+    for the resource a unit owns returns many hits, not just the one that matters."""
+    parts = [f'"""{header or ident(rng, 2).replace("_", " ").capitalize()} helpers."""', "",
+             "import logging", "", "log = logging.getLogger(__name__)", ""]
+    for _ in range(n_functions):
+        name = None
+        if topic and rng.random() < 0.3:
+            name = f"{rng.choice(VERBS)}_{topic}_{rng.choice(NOUNS)}"
+        parts.append(filler_function(rng, name))
+        parts.append("")
+    return "\n".join(parts)
+
+
+def write(root, rel, text):
+    path = Path(root) / rel
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(text)
+    return path
+
+
+def write_json(root, rel, obj):
+    return write(root, rel, json.dumps(obj, indent=2, sort_keys=True) + "\n")
+
+
+def tree_chars(root, glob="**/*"):
+    """Characters a reader must take in to cover everything under root."""
+    return sum(p.stat().st_size for p in Path(root).glob(glob) if p.is_file())
+
+
+SENTENCES = [
+    "This component was extracted from an internal monolith and kept its original layout.",
+    "Behaviour on malformed input is undefined; callers are expected to validate first.",
+    "Performance notes: the hot path allocates once per call and never on the error path.",
+    "The public surface is intentionally small; helpers prefixed with an underscore may change.",
+    "Compatibility with the previous major version is maintained through thin shims.",
+    "Logging is structured and emitted at debug level unless an error propagates.",
+    "Configuration is read once at import time; changes require a restart.",
+    "Thread safety: instances are not shared across threads in any supported deployment.",
+    "Deprecated options are accepted with a warning for one minor release before removal.",
+    "Benchmarks in the upstream repository were run on commodity hardware and are indicative only.",
+]
+
+
+def filler_prose(rng, n_paragraphs, topic=""):
+    """Plausible, inert documentation. Like filler code, it costs reading time
+    and can never be an answer."""
+    paras = []
+    for _ in range(n_paragraphs):
+        sents = rng.sample(SENTENCES, rng.randint(3, 5))
+        if topic and rng.random() < 0.4:
+            sents.insert(rng.randrange(len(sents) + 1),
+                         f"See the {topic} section of the upstream docs for details.")
+        paras.append(" ".join(sents))
+    return "\n\n".join(paras)
+
+
+# ------------------------------------------------------------ grading helpers
+
+def run_pytest(workdir, target="tests", timeout=300):
+    """Run pytest in `workdir`; return (passed: bool, output: str)."""
+    import subprocess
+    import sys
+    import os
+    # No bytecode: a mutant written within the same second as the original, with
+    # the same size, would otherwise be served from the original's stale .pyc.
+    env = dict(os.environ, PYTHONDONTWRITEBYTECODE="1")
+    run = subprocess.run([sys.executable, "-B", "-m", "pytest", "-q", "-x", "-p", "no:cacheprovider",
+                          "--import-mode=importlib", target],
+                         cwd=workdir, capture_output=True, text=True, timeout=timeout, env=env)
+    return run.returncode == 0, run.stdout[-4000:]
+
+
+def load_json_answer(path):
+    """A missing or malformed answer file grades as an empty answer, never a crash."""
+    try:
+        answer = json.loads(Path(path).read_text())
+    except (OSError, ValueError):
+        return {}
+    return answer if isinstance(answer, dict) else {}
+
+
+def standard_main(generate, grade, solve, argv=None, answer_is_file=True):
+    """The CLI every family shares:
+        --seed N --out DIR       lay out the workspace under DIR/workspace
+        --seed N --grade PATH    grade (an answer file, or a workspace) and print JSON
+        --seed N --solve PATH    write the reference solution there
+    """
+    import argparse
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--seed", type=int, required=True)
+    ap.add_argument("--out")
+    ap.add_argument("--grade")
+    ap.add_argument("--solve")
+    args = ap.parse_args(argv)
+    if args.grade:
+        target = load_json_answer(args.grade) if answer_is_file else args.grade
+        print(json.dumps(grade(args.seed, target), indent=2))
+    elif args.solve:
+        solve(args.seed, args.solve)
+    else:
+        generate(args.seed, args.out)

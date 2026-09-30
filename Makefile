@@ -35,3 +35,23 @@ dry-run: ## Rehearse the whole pipeline at Milestone-1 scale (no model, no key)
 
 milestone1: ## Run Milestone 1 for real: both default models, resumable, cost-guarded
 	python tools/run_milestone1.py
+
+GEMINI_MODELS ?= gemini/gemini-3.5-flash,gemini/gemini-3.1-flash-lite
+GEMINI_CONSUMER ?= gemini/gemini-3.5-flash-lite
+
+pilot-gemini: ## Free-tier pilot of Milestone 1 on Gemini (needs GEMINI_API_KEY; not a result)
+	python tools/run_milestone1.py --models $(GEMINI_MODELS) --consumer $(GEMINI_CONSUMER)
+
+longhorizon: ## Rebuild the long-horizon Harbor task dirs from their generators
+	python tools/build_longhorizon.py
+
+longhorizon-check: ## Fail if longhorizon/tasks is stale relative to the generators
+	python tools/build_longhorizon.py --check
+
+HARBOR_VERSION ?= 0.23.0
+
+longhorizon-harbor-check: ## Load every long-horizon task with Harbor's own models (needs uv)
+	uvx --python 3.12 --from 'harbor==$(HARBOR_VERSION)' python tools/check_harbor.py
+
+longhorizon-oracle: ## Run Harbor's oracle agent on every long-horizon task in Docker (needs uv + Docker)
+	uvx --python 3.12 --from 'harbor==$(HARBOR_VERSION)' harbor run -p longhorizon/tasks -a oracle -e docker -n 2 -y

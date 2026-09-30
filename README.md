@@ -52,6 +52,7 @@ Three ideas carry it:
 | [`report/`](report/) | scorecard → report, frontier first |
 | [`tools/run_milestone1.py`](tools/run_milestone1.py) | resumable, cost-guarded multi-model Milestone 1 runner |
 | [`tests/`](tests/) | fixture invariants, spec consistency, scorer unit tests, end-to-end |
+| [`longhorizon/`](longhorizon/) | long-horizon track: 39 distinct tasks (one per family), software and science a single agent cannot finish in time and parallel subagents can |
 
 ```bash
 make install && make test    # 110 tests, no API key needed
@@ -61,6 +62,7 @@ make dry-run                 # rehearse the whole pipeline: 270 episodes, no mod
 make milestone1               # the real thing (needs ANTHROPIC_API_KEY)
 make tasks                   # emit Harbor task directories into build/harbor
 make test-harbor             # 12 more, against real harbor (needs Python >=3.12)
+make longhorizon             # rebuild the 39 long-horizon Harbor task dirs
 ```
 
 ## What the scorers see
@@ -156,7 +158,9 @@ or a cloud sandbox, and this repo's scope discipline assumes a fixture image.
 A *first* live trial needs neither. `make live-trial` runs mini-swe-agent's
 LocalEnvironment in a subprocess against a copy of the fixture and scores the
 report with the live frozen consumer, so `ANTHROPIC_API_KEY` is the only
-prerequisite:
+prerequisite. If the environment reserves that name and won't pass it through,
+set `HANDOFF_ANTHROPIC_API_KEY` instead; both runners accept it
+(`tools/api_key.py`):
 
 ```bash
 make live-trial              # or: make live-trial TASK=f10_handback_false_correction
@@ -183,6 +187,23 @@ different consumer, or after a scorer fix, stays free. Output lands in
 plainly whether the models separated on decision yield — the outcome that
 decides whether Milestone 1 validates the design or falsifies it (DESIGN.md
 §8.10).
+
+**A free pilot** runs the same pipeline on Gemini's free tier:
+
+```bash
+make pilot-gemini            # needs GEMINI_API_KEY (free, aistudio.google.com)
+```
+
+Both subagents and the frozen consumer are Gemini models, so it costs nothing,
+but it is a pilot, not a Milestone 1 result: a different consumer is a
+different benchmark (DESIGN.md 4). It writes to its own directory,
+`build/milestone1-pilot-<consumer>/`, and every report says PILOT. Calls are
+paced under the free per-minute limit, and a spent daily quota stops the run
+cleanly -- rerun the next day and it resumes. The subagents default to
+Gemini 3.5 Flash and 3.1 Flash-Lite, and the consumer to 3.5 Flash-Lite, a
+model neither subagent uses, so their free-tier quotas stay separate. Google
+retires model ids for new keys (2.5 Flash now returns 404), so override
+`GEMINI_MODELS` / `GEMINI_CONSUMER` if a default stops resolving.
 
 Before calling two models "separated", it measures a **noise floor**: the
 frozen consumer can't be made bit-deterministic, so it re-judges a small sample

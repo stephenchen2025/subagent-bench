@@ -122,6 +122,23 @@ def test_cost_cap_stops_launching_new_episodes(monkeypatch, tmp_path):
     assert calls["n"] == 2
 
 
+def test_cost_cap_leaves_every_model_with_matched_episodes(monkeypatch, tmp_path):
+    """A capped run must still be a comparison: interleave models per task."""
+    specs = {f"f2_ghost_config_{i:04d}": _spec(f"f2_ghost_config_{i:04d}") for i in range(5)}
+    monkeypatch.setattr(m1, "_load_specs", lambda: specs)
+    ran = []
+
+    def expensive_run_one(model, spec, workdir):
+        ran.append((model, spec["id"]))
+        return _fake_run_one(lambda m: True)(model, spec, workdir)[0], 10.0
+
+    m1.main(["--models", "modelA,modelB", "--max-cost-usd", "15"],
+            run_one_fn=expensive_run_one,
+            consumer=_consumer_for(next(iter(specs.values()))),
+            out_dir=tmp_path, require_key=False)
+    assert ran == [("modelA", "f2_ghost_config_0000"), ("modelB", "f2_ghost_config_0000")]
+
+
 # --- scoring & comparison -------------------------------------------------
 
 def test_a_failed_episode_does_not_sink_the_run(specs, tmp_path, capsys):
@@ -313,3 +330,106 @@ def test_consumer_is_shared_between_scoring_and_noise_floor(specs, tmp_path, mon
     m1.main(["--models", "modelA"], run_one_fn=_fake_run_one(lambda m: True),
             consumer=tracker, out_dir=tmp_path, require_key=False)
     assert len(set(seen_ids)) == 1, "scoring and noise-floor judging used different consumers"
+
+
+def test_alternate_key_name_is_promoted(monkeypatch):
+    """Hosted environments may reserve ANTHROPIC_API_KEY; the alternate name must work."""
+    import os
+
+    from tools import api_key
+
+    monkeypatch.delenv("ANTHROPIC_API_KEY", raising=False)
+    monkeypatch.delenv(api_key.ALT_NAME, raising=False)
+    assert not api_key.resolve_api_key()
+
+    monkeypatch.setenv(api_key.ALT_NAME, "sk-alt")
+    assert api_key.resolve_api_key()
+    assert os.environ["ANTHROPIC_API_KEY"] == "sk-alt"
+
+
+def test_primary_key_name_wins_over_alternate(monkeypatch):
+    import os
+
+    from tools import api_key
+
+    monkeypatch.setenv("ANTHROPIC_API_KEY", "sk-primary")
+    monkeypatch.setenv(api_key.ALT_NAME, "sk-alt")
+    assert api_key.resolve_api_key()
+    assert os.environ["ANTHROPIC_API_KEY"] == "sk-primary"
+
+
+# --- the Gemini pilot -------------------------------------------------------
+
+def test_daily_quota_exhaustion_stops_the_run(monkeypatch, tmp_path, capsys):
+    """Retrying a per-day quota cannot succeed; every later episode would fail too."""
+    specs = {f"f2_ghost_config_{i:04d}": _spec(f"f2_ghost_config_{i:04d}") for i in range(3)}
+    monkeypatch.setattr(m1, "_load_specs", lambda: specs)
+    calls = {"n": 0}
+
+    def quota(model, spec, workdir):
+        calls["n"] += 1
+        raise RuntimeError("429 quota exceeded: GenerateRequestsPerDayPerProjectPerModel-FreeTier")
+
+    m1.main(["--models", "gemini/x"], run_one_fn=quota,
+            consumer=_consumer_for(next(iter(specs.values()))),
+            out_dir=tmp_path, require_key=False)
+    assert calls["n"] == 1
+    assert "daily request quota" in capsys.readouterr().out
+
+
+def test_a_per_minute_limit_is_not_mistaken_for_the_daily_quota():
+    assert not m1.is_daily_quota_error(RuntimeError("429 GenerateRequestsPerMinutePerProject"))
+    assert m1.is_daily_quota_error(RuntimeError("GenerateRequestsPerDayPerProjectPerModel"))
+
+
+def test_keys_are_required_only_for_providers_in_use(monkeypatch):
+    monkeypatch.delenv("ANTHROPIC_API_KEY", raising=False)
+    monkeypatch.delenv("HANDOFF_ANTHROPIC_API_KEY", raising=False)
+    monkeypatch.delenv("GOOGLE_API_KEY", raising=False)
+    monkeypatch.setenv("GEMINI_API_KEY", "g")
+    m1._require_keys(["gemini/a", "gemini/b"])  # an all-Gemini pilot needs no Anthropic key
+    with pytest.raises(SystemExit):
+        m1._require_keys(["gemini/a", "claude"])
+    monkeypatch.delenv("GEMINI_API_KEY")
+    with pytest.raises(SystemExit, match="GEMINI_API_KEY"):
+        m1._require_keys(["gemini/a"])
+
+
+def test_a_pilot_consumer_writes_to_its_own_directory(specs, tmp_path, monkeypatch):
+    """Pilot results must never land beside, or resume into, a real Milestone 1 run."""
+    monkeypatch.setattr(m1, "ROOT", tmp_path)
+    m1.main(["--models", "modelA", "--consumer", "gemini/g", "--noise-floor-sample", "0"],
+            run_one_fn=_fake_run_one(lambda m: True),
+            consumer=_consumer_for(next(iter(specs.values()))), require_key=False)
+    pilot = tmp_path / "build" / "milestone1-pilot-gemini_g"
+    assert any((pilot / "episodes").rglob("*.json"))
+    assert "PILOT" in (pilot / "modelA.md").read_text()
+    assert not (tmp_path / "build" / "milestone1").exists()
+
+
+def test_pacing_waits_out_a_per_minute_quota_instead_of_failing():
+    per_minute = RuntimeError(
+        "429 GenerateContentInputTokensPerModelPerMinute-FreeTier. Please retry in 18.5s.")
+    outcomes = [per_minute, per_minute, "ok"]
+    slept = []
+
+    class Model:
+        def query(self):
+            outcome = outcomes.pop(0)
+            if isinstance(outcome, Exception):
+                raise outcome
+            return outcome
+
+    model = m1._paced(Model(), 0.0, sleep=slept.append)
+    assert model.query() == "ok"
+    assert slept == [20.5, 20.5]
+
+
+def test_pacing_does_not_retry_a_daily_quota_or_other_errors():
+    for exc in (RuntimeError("GenerateRequestsPerDayPerProjectPerModel"), ValueError("boom")):
+        class Model:
+            def query(self, exc=exc):
+                raise exc
+
+        with pytest.raises(type(exc)):
+            m1._paced(Model(), 0.0, sleep=lambda s: None).query()

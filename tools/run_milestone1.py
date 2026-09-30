@@ -23,6 +23,11 @@ Design choices that matter for a real run:
   time, each in a fresh copy of its fixture. That means scope discipline runs
   on the host filesystem, not inside an image -- adequate for the thesis
   test, not a substitute for a real Harbor run before anything is published.
+- **Provider-agnostic.** A model name prefixed `gemini/` runs on Google's
+  Gemini API (litellm routes it), and `--consumer gemini/<model>` swaps in a
+  Gemini frozen consumer -- a free-tier pilot of the whole pipeline. A pilot
+  is not a Milestone 1 result: a different consumer is a different benchmark
+  (DESIGN.md 4), so pilots default to their own output directory.
 - **Noise-floor gated.** The frozen consumer cannot be made bit-deterministic
   (current Claude models reject temperature/top_p), so before comparison.md
   calls two models "separated" it measures how much a SINGLE model's judged
@@ -34,6 +39,7 @@ Design choices that matter for a real run:
 
 import argparse
 import json
+import re
 import shutil
 import sys
 import tempfile
@@ -46,17 +52,86 @@ sys.path.insert(0, str(ROOT))
 DEFAULT_MODELS = ["claude-opus-5", "claude-sonnet-5"]
 STEP_LIMIT = 30
 OUT = ROOT / "build" / "milestone1"
+# Free-tier Gemini allows ~10 requests/minute on Flash; pacing under it beats
+# burning mini's retry budget on 429s.
+GEMINI_MIN_INTERVAL_S = 6.5
+GEMINI_KEY_MISSING = (
+    "GEMINI_API_KEY is not set. Create a free key at aistudio.google.com and add\n"
+    "it to this project's environment config (never in a chat transcript); a new\n"
+    "session will have it."
+)
 
 
-def _require_key():
+def _is_gemini(name):
+    return name.startswith("gemini/")
+
+
+def _require_keys(names):
+    """Require a key for each provider actually in use, and only those."""
     import os
 
-    if not os.environ.get("ANTHROPIC_API_KEY"):
-        sys.exit(
-            "ANTHROPIC_API_KEY is not set. Set it in this project's environment\n"
-            "config (not in a shell here, and never in a chat transcript); it is\n"
-            "injected at container start, so a new session will have it."
-        )
+    from tools.api_key import MISSING, resolve_api_key
+
+    if any(not _is_gemini(n) for n in names) and not resolve_api_key():
+        sys.exit(MISSING)
+    if any(_is_gemini(n) for n in names) and not (
+        os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY")
+    ):
+        sys.exit(GEMINI_KEY_MISSING)
+
+
+def make_consumer(name):
+    """The frozen consumer named on the command line: "claude" or "gemini/<model>"."""
+    if _is_gemini(name):
+        from consumer.gemini import GeminiConsumer
+
+        return GeminiConsumer(model=name, min_interval_s=GEMINI_MIN_INTERVAL_S)
+    from consumer.claude import ClaudeConsumer
+
+    return ClaudeConsumer()
+
+
+def is_daily_quota_error(exc):
+    """A per-day quota will not clear by retrying; the run should stop, not grind."""
+    text = str(exc)
+    return "PerDay" in text or "per day" in text.lower()
+
+
+def per_minute_retry_delay(exc):
+    """Seconds to wait out a per-minute quota, or None if exc is not one.
+
+    Request pacing alone cannot stay under a per-minute INPUT-TOKEN limit once
+    contexts grow, and mini's own retries give up within seconds. The API says
+    how long to wait; honour it rather than fail the episode.
+    """
+    text = str(exc)
+    if "PerMinute" not in text or is_daily_quota_error(exc):
+        return None
+    match = re.search(r"retry in ([0-9.]+)s", text)
+    return (float(match.group(1)) if match else 60.0) + 2.0
+
+
+def _paced(model, min_interval_s, max_quota_waits=5, sleep=time.sleep):
+    """Space out this model's calls and wait out per-minute quotas; wraps query() in place."""
+    query = model.query
+    last = [0.0]
+
+    def paced_query(*args, **kwargs):
+        for attempt in range(max_quota_waits + 1):
+            wait = last[0] + min_interval_s - time.monotonic()
+            if wait > 0:
+                sleep(wait)
+            last[0] = time.monotonic()
+            try:
+                return query(*args, **kwargs)
+            except Exception as exc:  # noqa: BLE001 - re-raised unless it is a per-minute quota
+                delay = per_minute_retry_delay(exc)
+                if delay is None or attempt == max_quota_waits:
+                    raise
+                sleep(delay)
+
+    model.query = paced_query
+    return model
 
 
 def _episode_path(model, task_id):
@@ -88,7 +163,13 @@ def run_one(model_name, spec, workdir):
     repo = workdir / "repo"
     shutil.copytree(ROOT / spec["env"]["snapshot"] / "repo", repo)
 
-    model = get_model(model_name)
+    if _is_gemini(model_name):
+        # litellm has no price for every Gemini id, and the free tier bills
+        # nothing anyway; mini would otherwise abort on a missing price.
+        model = _paced(get_model(model_name, {"cost_tracking": "ignore_errors"}),
+                       GEMINI_MIN_INTERVAL_S)
+    else:
+        model = get_model(model_name)
     agent = build_mini_agent(model, LocalEnvironment(cwd=str(repo)), step_limit=STEP_LIMIT)
     budget = spec["budget"]["max_tokens"]
 
@@ -142,9 +223,7 @@ def score_all(models, consumer=None, specs=None):
         if consumer is None:
             # Constructed lazily and once: nothing to score should never require
             # network or `anthropic` to be installed.
-            from consumer.claude import ClaudeConsumer
-
-            consumer = ClaudeConsumer()
+            consumer = make_consumer("claude")
         rows = []
         for path in sorted(model_dir.glob("*.json")):
             record = json.loads(path.read_text())
@@ -155,11 +234,15 @@ def score_all(models, consumer=None, specs=None):
                     (ROOT / "tasks" / "generated" / "specs" /
                      f"{record['task_id']}.json").read_text()
                 )
+            usage = dict(record["usage"])
+            # Episodes recorded before harness/episode_runner.py counted steps
+            # for a start()-driven run say 0; the trajectory has the real count.
+            usage["tool_calls"] = usage.get("tool_calls") or len(record["trajectory"])
             episode = Episode(
                 task_id=record["task_id"], family=record["family"],
                 report=record["handback"]["final_report"] if record["handback"] else record["report"],
                 trajectory=record["trajectory"], effects=record["effects"],
-                usage=Usage(**record["usage"]),
+                usage=Usage(**usage),
                 budget_tokens=record["budget_tokens"],
                 reference_tokens=record["reference_tokens"],
             )
@@ -189,18 +272,36 @@ def main(argv=None, run_one_fn=run_one, consumer=None, out_dir=None, require_key
                              "0 disables it (DESIGN.md 7.1 -- not recommended).")
     parser.add_argument("--noise-floor-repeats", type=int, default=3,
                         help="Re-judgments per sampled episode.")
+    parser.add_argument("--consumer", default="claude",
+                        help='Frozen consumer: "claude" (the pinned one) or "gemini/<model>" '
+                             "for a free-tier pilot. Not comparable across consumers.")
+    parser.add_argument("--out-dir", default=None,
+                        help="Output directory. Defaults to build/milestone1, or "
+                             "build/milestone1-pilot-<consumer> for a non-Claude consumer.")
     args = parser.parse_args(argv)
+    if out_dir is None and args.out_dir:
+        OUT = Path(args.out_dir)
+    elif out_dir is None and args.consumer != "claude":
+        OUT = ROOT / "build" / f"milestone1-pilot-{args.consumer.replace('/', '_')}"
+    # Even --score-only builds the live consumer, so promote an alternate-name
+    # key here rather than only inside _require_key.
+    from tools.api_key import resolve_api_key
+
+    resolve_api_key()
     models = [m.strip() for m in args.models.split(",") if m.strip()]
 
     specs_for_scoring = None
     if not args.score_only:
         if require_key:
-            _require_key()
+            _require_keys(models + [args.consumer])
         specs = _load_specs()
         specs_for_scoring = specs
         OUT.mkdir(parents=True, exist_ok=True)
         total_cost = 0.0
-        planned = [(m, tid) for m in models for tid in specs]
+        # Task-major, so every model gets each task before the next task starts.
+        # Model-major would let the cost cap spend everything on the first
+        # model and leave the rest with nothing to compare against.
+        planned = [(m, tid) for tid in specs for m in models]
         skipped = sum(1 for m, tid in planned if _episode_path(m, tid).exists())
         print(f"{len(planned)} episode(s) planned, {skipped} already on disk, "
               f"cost cap ${args.max_cost_usd:.2f}\n")
@@ -222,6 +323,10 @@ def main(argv=None, run_one_fn=run_one, consumer=None, out_dir=None, require_key
                     record, cost = run_one_fn(model, spec, Path(tmp))
                 except Exception as exc:  # noqa: BLE001 - one bad episode must not sink the run
                     print(f"FAILED ({exc})")
+                    if is_daily_quota_error(exc):
+                        print("\nStopped: the daily request quota is spent. Re-run this "
+                              "command after it resets; completed episodes are skipped.")
+                        break
                     continue
             total_cost += cost
             out_path.parent.mkdir(parents=True, exist_ok=True)
@@ -243,9 +348,7 @@ def main(argv=None, run_one_fn=run_one, consumer=None, out_dir=None, require_key
     if consumer is None and any(
         (OUT / "episodes" / m.replace("/", "_")).exists() for m in models
     ):
-        from consumer.claude import ClaudeConsumer
-
-        consumer = ClaudeConsumer()
+        consumer = make_consumer(args.consumer)
 
     print("\nScoring...")
     per_model = score_all(models, consumer=consumer, specs=specs_for_scoring)
@@ -268,8 +371,12 @@ def main(argv=None, run_one_fn=run_one, consumer=None, out_dir=None, require_key
             f" Noise floor: sampled {floor['sampled']}, mean spread {floor['mean_spread']:.3f}."
             if floor else " Noise floor not measured."
         )
-        note = (f"Milestone 1 -- real model ({model}), real frozen consumer, "
-                f"generated tasks.{floor_note}")
+        consumer_id = getattr(consumer, "consumer_id", "unknown")
+        pilot = "" if args.consumer == "claude" else (
+            " PILOT: non-default consumer, not comparable with a Milestone 1 result."
+        )
+        note = (f"Milestone 1 -- real model ({model}), frozen consumer {consumer_id}, "
+                f"generated tasks.{floor_note}{pilot}")
         (OUT / f"{model.replace('/', '_')}.md").write_text(
             markdown(card, title=f"HANDOFF Milestone 1 -- {model}", note=note)
         )
