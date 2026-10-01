@@ -50,6 +50,7 @@ def main():
     from harness.agent import build_mini_agent
     from harness.episode_runner import missing_report, run_episode
     from scorers.aggregate import render, score_episode, scorecard
+    from tools.secrets_guard import shell_env_overrides
 
     workspace = Path(tempfile.mkdtemp(prefix="handoff-"))
     shutil.copytree(ROOT / spec["env"]["snapshot"] / "repo", workspace / "repo")
@@ -57,7 +58,7 @@ def main():
     print(f"task      {task_id}\nworkspace {cwd}\nmodel     {MODEL}\n")
 
     agent = build_mini_agent(
-        get_model(MODEL), LocalEnvironment(cwd=cwd), step_limit=STEP_LIMIT
+        get_model(MODEL), LocalEnvironment(cwd=cwd, env=shell_env_overrides()), step_limit=STEP_LIMIT
     )
     budget = spec["budget"]["max_tokens"]
     episode, hb = run_episode(
