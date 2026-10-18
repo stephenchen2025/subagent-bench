@@ -29,10 +29,10 @@ def _retry_delay(body):
     return float(m.group(1)) if m else None
 
 
-def gemini_model(model, min_interval_s=4.0, temperature=None, max_retries=8, max_output_tokens=8192, key=None,
+def gemini_model(model, min_interval_s=4.0, temperature=None, max_retries=8, max_output_tokens=8192, key=None, daily_strikes=3,
                  opener=urllib.request.urlopen, sleep=time.sleep, clock=time.monotonic):
     key = key or os.environ["GEMINI_API_KEY"]
-    state = {"last": -1e9}
+    state = {"last": -1e9, "day_strikes": 0}
 
     def call(prompt):
         cfg = {"maxOutputTokens": max_output_tokens}
@@ -51,10 +51,14 @@ def gemini_model(model, min_interval_s=4.0, temperature=None, max_retries=8, max
             except urllib.error.HTTPError as e:
                 text = e.read().decode(errors="replace")
                 if e.code == 429:
+                    # A per-day quota id alone is not proof: free-tier 429s often name one and clear in a
+                    # minute. Only several in a row, with no per-minute quota named, end the run.
                     if re.search(r"PerDay|per day|daily", text, re.I) and not re.search(r"PerMinute", text):
-                        raise QuotaExhausted(f"{model}: daily quota spent") from None
+                        state["day_strikes"] += 1
+                        if state["day_strikes"] >= daily_strikes:
+                            raise QuotaExhausted(f"{model}: daily quota spent ({text[:300]})") from None
                     USAGE[model]["retries"] += 1
-                    sleep(_retry_delay(text) or min(60, 5 * 2 ** attempt))
+                    sleep(_retry_delay(text) or min(120, 10 * 2 ** attempt))
                     continue
                 if e.code in (500, 502, 503, 504) and attempt < max_retries:
                     USAGE[model]["retries"] += 1
@@ -67,6 +71,7 @@ def gemini_model(model, min_interval_s=4.0, temperature=None, max_retries=8, max
                     sleep(min(60, 3 * 2 ** attempt))
                     continue
                 raise RuntimeError(f"{model}: {e}") from None
+            state["day_strikes"] = 0
             USAGE[model]["calls"] += 1
             USAGE[model]["tokens"] += data.get("usageMetadata", {}).get("totalTokenCount", 0)
             cands = data.get("candidates") or []

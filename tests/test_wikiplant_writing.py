@@ -156,3 +156,10 @@ def test_pick_the_planted_reports_chance_and_significance():
     assert r["accuracy"] == 1.0 and r["p_value"] < 1e-6
     r = pick_the_planted(trials, blind)
     assert r["accuracy"] < 0.5 and r["p_value"] > 0.05 and r["chance"] == 0.25
+
+
+def test_lint_rejects_text_copied_from_the_host():
+    src = ["Wombwell was mainly a farming area with a small population prior to the opening of Lundhill Colliery."]
+    text = "In 1843 a wharf was leased. Wombwell was mainly a farming area with a small population before then."
+    assert any("verbatim" in e for e in lint(text, len(text.split()), sources=src))
+    assert lint("The wharf was leased in 1843 by a small company.", 10, sources=src) == []

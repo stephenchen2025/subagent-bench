@@ -41,7 +41,8 @@ def log(msg):
 
 
 def models(spec, interval):
-    m = lambda name: gemini_model(name, min_interval_s=interval)
+    # Flash models get a third of lite's request rate on the free tier.
+    m = lambda name: gemini_model(name, min_interval_s=interval if "lite" in name else interval * 3)
     return {
         "designer": m(spec["designer"]),
         "writers": {w: m(w) for w in spec["writers"]},
@@ -172,7 +173,8 @@ def main(argv=None):
                       samples=a.samples)
         for d in puzzles:
             log(f"{d['pid']}: gates")
-            gate_results[d["pid"]] = run_gates(d, ctx, stop_on_fail=False)
+            gate_results[d["pid"]] = {}
+            run_gates(d, ctx, stop_on_fail=False, results=gate_results[d["pid"]])
             log(f"{d['pid']}: " + ", ".join(f"{g}={r['state']}" for g, r in gate_results[d["pid"]].items()))
             save(out, puzzles=puzzles, gate_results=gate_results)
     except QuotaExhausted as e:

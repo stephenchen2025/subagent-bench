@@ -12,6 +12,7 @@ from wikiplant.schemas import validate_manifest_entry
 from wikiplant.writing import Ledger, WriterPool
 
 FILLER = "the works stood beside the canal and employed men from the surrounding valley towns for many years".split()
+PAD = "its owners later moved part of the business nearer the river crossing where carts could load".split()
 
 
 def corpus(n=24):
@@ -49,7 +50,7 @@ def echo_writer():
         fact = re.search(r"State this fact plainly: (.+)", prompt).group(1).strip()
         n = int(re.search(r"about (\d+) words", prompt).group(1))
         words = fact.rstrip(".").replace("_", " ").split() + ["and"]
-        text = " ".join(words + [FILLER[i % len(FILLER)] for i in range(max(0, n - len(words)))]) + "."
+        text = " ".join(words + [PAD[i % len(PAD)] for i in range(max(0, n - len(words)))]) + "."
         reply = {"text": text, "claims": [{"s": "x", "r": "y", "o": "z"}]}
         if "NEW subsection" in prompt:
             reply["heading"] = "Later works"
@@ -129,3 +130,11 @@ def test_names_are_unique_and_similar_names_share_a_part():
 def test_ratio_report():
     m = [{"role": "gold"}] * 2 + [{"role": "decoy"}] * 7 + [{"role": "near_miss"}]
     assert ratio_report(m) == {"by_role": {"gold": 2, "decoy": 7, "near_miss": 1}, "decoys_per_gold": 3.5}
+
+
+def test_decoy_hosts_exclude_unsuitable_pages():
+    from wikiplant.decoys import fits_decoy
+    paras = [{"page_id": 1, "section_path": [], "para_idx": 0, "text": "Primo Valentino is a retired racehorse."},
+             {"page_id": 2, "section_path": [], "para_idx": 0, "text": "Wombwell is a town in South Yorkshire."}]
+    leads = {}
+    assert not fits_decoy(1, paras, leads) and fits_decoy(2, paras, leads)

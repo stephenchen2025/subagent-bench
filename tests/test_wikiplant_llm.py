@@ -38,9 +38,16 @@ def test_waits_out_per_minute_limits_and_5xx():
     assert 17.0 in slept and USAGE["t-retry"]["retries"] == 2
 
 
-def test_daily_quota_stops_the_run():
-    m = gemini_model("t-day", key="k", opener=fake([(429, '{"quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier"}')]),
-                     sleep=lambda s: None)
+DAY = (429, '{"quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier"}')
+
+
+def test_one_per_day_429_is_waited_out():
+    m = gemini_model("t-day1", key="k", opener=fake([DAY, OK]), sleep=lambda s: None)
+    assert m("hi") == "hello"
+
+
+def test_repeated_per_day_429s_stop_the_run():
+    m = gemini_model("t-day", key="k", opener=fake([DAY, DAY, DAY]), sleep=lambda s: None)
     with pytest.raises(QuotaExhausted):
         m("hi")
 

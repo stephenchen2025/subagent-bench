@@ -13,6 +13,7 @@ No unit may contradict a gold fact: same subject and relation with a different v
 """
 
 import random
+import re
 
 from . import names as nm
 from .writing import plant_fact
@@ -75,6 +76,22 @@ def contradicts(fact, gold_facts, entities):
     return False
 
 
+DECOY_HOST = re.compile(r"\b(town|village|parish|hamlet|suburb|city|port|railway|station|colliery|canal|mill|"
+                        r"ironworks|works|company|line|dock|wharf|quarry|mine|brewery|foundry|viaduct|tramway)\b", re.I)
+NOT_DECOY_HOST = re.compile(r"\b(racehorse|horse|footballer|singer|album|song|film|novel|band|politician|"
+                            r"species|genus|television|video game)\b", re.I)
+
+
+def fits_decoy(page_id, paragraphs, leads):
+    """True if the page's lead reads like a place or an industrial or transport subject."""
+    if not leads:
+        for p in paragraphs:
+            if not p["section_path"] and p["para_idx"] == 0:
+                leads[p["page_id"]] = p["text"][:400]
+    lead = leads.get(page_id, "")
+    return bool(DECOY_HOST.search(lead)) and not NOT_DECOY_HOST.search(lead)
+
+
 def plan(puzzle, tier_knobs, rng):
     """How many of each role this puzzle gets."""
     gold = sum(1 for f in puzzle["facts"] if f.get("planted"))
@@ -116,6 +133,7 @@ def make_units(puzzle, paragraphs, pages, hosts, cluster_pages, pool, ledger, rn
     off_path = [p for p in sorted(cluster_pages) if p not in _path_pages(puzzle) and p in hosts]
     titles = {i: (pages[i]["title"] if i in pages else str(i)) for i in hosts | set(cluster_pages)}
     entries, log, n = [], [], 0
+    leads = {}
 
     def uid(role):
         nonlocal n
@@ -164,8 +182,9 @@ def make_units(puzzle, paragraphs, pages, hosts, cluster_pages, pool, ledger, rn
         fact = {"fid": "echo", "s": b["eid"], "r": rng.choice(ECHO_RELATIONS), "o": e_obj, "planted": True}
         write("partial_echo", fact, [page])
 
-    # Background decoys: unrelated invented facts on random host pages, inside and outside the cluster.
-    others = sorted(hosts)
+    # Background decoys: unrelated invented facts on random host pages, inside and outside the cluster,
+    # limited to pages a firm, society or company could plausibly have dealings with.
+    others = sorted(h for h in hosts if fits_decoy(h, paragraphs, leads))
     for _ in range(counts["decoy"]):
         kind = rng.choice(sorted(DECOY_RELATIONS))
         page = pick(others, "decoy")

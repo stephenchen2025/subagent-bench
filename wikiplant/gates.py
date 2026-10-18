@@ -311,13 +311,14 @@ GATES_FN = {
 }
 
 
-def run_gates(puzzle, ctx, only=None, stop_on_fail=True):
+def run_gates(puzzle, ctx, only=None, stop_on_fail=True, results=None):
     """Run gates in ORDER on `puzzle` (updated in place). Returns the per-gate results.
 
     A failure records `puzzle["return_to"]` (stage 2 or 3) and `puzzle["gate_reason"]`.
-    Pending gates (no model configured, or awaiting review) do not stop the run.
+    Pending gates (no model configured, or awaiting review) do not stop the run. Pass a dict as
+    `results` to keep the gates already run if a later one raises (a spent quota, say).
     """
-    results = {}
+    results = {} if results is None else results
     puzzle.setdefault("gates", {})
     for g in ORDER:
         if only and g not in only:

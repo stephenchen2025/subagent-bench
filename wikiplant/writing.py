@@ -190,7 +190,23 @@ def _swap_case(word, table):
     return rep.capitalize() if word[:1].isupper() else rep
 
 
-def lint(text, target_words, must_mention=(), heading=None, conv=None, existing_headings=(), forbid=()):
+COPY_NGRAM = 8
+
+
+def copied_from(text, sources, n=COPY_NGRAM):
+    """An n-word run of `text` that appears verbatim in any source paragraph, or None."""
+    words = re.findall(r"\w+", text.lower())
+    grams = {" ".join(words[i:i + n]) for i in range(len(words) - n + 1)}
+    for src in sources:
+        sw = re.findall(r"\w+", src.lower())
+        for i in range(len(sw) - n + 1):
+            g = " ".join(sw[i:i + n])
+            if g in grams:
+                return g
+    return None
+
+
+def lint(text, target_words, must_mention=(), heading=None, conv=None, existing_headings=(), forbid=(), sources=()):
     """Problems with a written unit, empty when it is fit to plant."""
     errs = []
     low = text.lower()
@@ -205,6 +221,9 @@ def lint(text, target_words, must_mention=(), heading=None, conv=None, existing_
     for m in must_mention:
         if str(m).lower() not in low:
             errs.append(f"does not state {m!r}")
+    copied = copied_from(text, sources)
+    if copied:
+        errs.append(f"copies the host page verbatim: '{copied}'")
     for f in forbid:
         if re.search(rf"\b{re.escape(str(f).lower())}\b", low):
             errs.append(f"must not mention {f!r}")
@@ -264,7 +283,8 @@ def write_unit(unit_id, fact_text, must_mention, page, placement, conv, pool, rn
         except (DesignError, ValueError, KeyError, TypeError) as e:
             problems = [f"unparseable reply: {e}"]
         else:
-            problems = lint(text, target, must_mention, heading if sub else None, conv, existing, forbid)
+            problems = lint(text, target, must_mention, heading if sub else None, conv, existing, forbid,
+                            sources=[p["text"] for p in paras])
             if sub and not heading:
                 problems.append("a new subsection needs a heading")
             if not claims:
