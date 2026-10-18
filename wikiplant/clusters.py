@@ -151,6 +151,8 @@ def louvain(adj, seed=0):
         for n in member:
             member[n] = comm[member[n]]
         agg = defaultdict(lambda: defaultdict(float))
+        for c in set(comm.values()):
+            agg[c]                      # keep communities whose members have no edges
         for a, nb in graph.items():
             for b, w in nb.items():
                 agg[comm[a]][comm[b]] += w

@@ -100,3 +100,9 @@ def test_discover_scores_and_diversifies():
 def test_sample_seeds_is_reproducible():
     assert sample_seeds(range(100), 5, 7) == sample_seeds(range(100), 5, 7)
     assert 3 not in sample_seeds(range(5), 10, 0, exclude={3})
+
+
+def test_louvain_keeps_isolated_nodes():
+    adj = {1: {2: 1.0}, 2: {1: 1.0, 3: 1.0}, 3: {2: 1.0}, 4: {}, 5: {6: 1.0}, 6: {5: 1.0}}
+    labels = louvain(adj)
+    assert set(labels) == {1, 2, 3, 4, 5, 6} and labels[1] == labels[2] and labels[4] not in (labels[1], labels[5])
