@@ -138,3 +138,13 @@ def test_decoy_hosts_exclude_unsuitable_pages():
              {"page_id": 2, "section_path": [], "para_idx": 0, "text": "Wombwell is a town in South Yorkshire."}]
     leads = {}
     assert not fits_decoy(1, paras, leads) and fits_decoy(2, paras, leads)
+
+
+def test_decoy_year_stays_inside_the_host_pages_own_years():
+    from wikiplant.decoys import decoy_year
+    paras = [{"page_id": 1, "text": "Built in 1861 and closed in 1874."},
+             {"page_id": 2, "text": "The derailment happened on 12 August 2020."}]
+    cache, rng = {}, random.Random(0)
+    assert all(1861 <= decoy_year(1, paras, cache, rng) <= 1874 for _ in range(50))
+    assert decoy_year(2, paras, cache, rng) is None
+    assert decoy_year(1, paras, cache, rng, forbid=[str(y) for y in range(1861, 1875)]) is None

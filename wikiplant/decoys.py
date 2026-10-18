@@ -92,6 +92,30 @@ def fits_decoy(page_id, paragraphs, leads):
     return bool(DECOY_HOST.search(lead)) and not NOT_DECOY_HOST.search(lead)
 
 
+DECOY_ERA = (1820, 1914)
+_YEAR = re.compile(r"\b(1[89]\d\d)\b")
+
+
+def decoy_year(page_id, paragraphs, cache, rng, forbid=()):
+    """A year inside both the decoy era and the span of years the host page itself mentions.
+
+    A random year with no regard for the page gave decoys like a survey of a 2020
+    derailment published in 1879, or a lease from a railway decades before it existed.
+    Returns None (with rng None: a feasibility check) when the page offers no such year.
+    """
+    if not cache:
+        for p in paragraphs:
+            for y in _YEAR.findall(p["text"]):
+                lo, hi = cache.get(p["page_id"], (9999, 0))
+                cache[p["page_id"]] = (min(lo, int(y)), max(hi, int(y)))
+    lo, hi = cache.get(page_id, (9999, 0))
+    lo, hi = max(lo, DECOY_ERA[0]), min(hi, DECOY_ERA[1])
+    years = [y for y in range(lo, hi + 1) if str(y) not in forbid]
+    if not years:
+        return None
+    return rng.choice(years) if rng else years[0]
+
+
 def plan(puzzle, tier_knobs, rng):
     """How many of each role this puzzle gets."""
     gold = sum(1 for f in puzzle["facts"] if f.get("planted"))
@@ -184,7 +208,9 @@ def make_units(puzzle, paragraphs, pages, hosts, cluster_pages, pool, ledger, rn
 
     # Background decoys: unrelated invented facts on random host pages, inside and outside the cluster,
     # limited to pages a firm, society or company could plausibly have dealings with.
-    others = sorted(h for h in hosts if fits_decoy(h, paragraphs, leads))
+    years_cache = {}
+    others = sorted(h for h in hosts if fits_decoy(h, paragraphs, leads)
+                    and decoy_year(h, paragraphs, years_cache, None, forbid) is not None)
     for _ in range(counts["decoy"]):
         kind = rng.choice(sorted(DECOY_RELATIONS))
         page = pick(others, "decoy")
@@ -193,7 +219,7 @@ def make_units(puzzle, paragraphs, pages, hosts, cluster_pages, pool, ledger, rn
         e_sub, e_obj = f"d{n}s", f"d{n}o"
         ents[e_sub] = {"eid": e_sub, "name": new_name(kind, rng, collision, registry), "invented": True}
         ents[e_obj] = {"eid": e_obj, "name": titles[page], "invented": False}
-        when = rng.choice([y for y in range(1840, 1901) if str(y) not in forbid])
+        when = decoy_year(page, paragraphs, years_cache, rng, forbid)
         fact = {"fid": e_sub, "s": e_sub, "r": rng.choice(DECOY_RELATIONS[kind]), "o": e_obj, "planted": True, "when": when}
         write("decoy", fact, [page], extra_forbid=[b["name"] for b in bridges])
     return entries, log
