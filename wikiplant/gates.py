@@ -52,7 +52,10 @@ Question: {question}
 
 CONSISTENCY_PROMPT = """Check these claims from a paragraph inserted into a Wikipedia article against the real
 paragraphs below. A conflict is a claim that contradicts a real paragraph, or a date that cannot be right
-given them (for example, a firm supplying a railway after it closed).
+given them (for example, a firm supplying a railway after it closed, or a station's first stationmaster
+appointed years after it opened). The firms, people and societies in these claims are invented on purpose,
+so a claim is NOT a conflict just because the real paragraphs never mention it; flag only contradictions
+and impossibilities.
 
 Claims:
 {claims}

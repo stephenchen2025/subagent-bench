@@ -13,7 +13,10 @@ POOLS = {
     ("north england", "1800s"): {
         "surnames": ["Harland", "Pell", "Cotterill", "Ashworth", "Dobson", "Rawsthorne", "Threlfall", "Kershaw",
                      "Holroyd", "Entwistle", "Ormerod", "Tattersall", "Haworth", "Greenhalgh", "Baxendale"],
-        "places": ["Dunmere", "Wharfedale", "Calder", "Ribblesdale", "Marlow", "Hesketh", "Stainmoor", "Ormskirk"],
+        # Coined place stems: a real place name ("Dunmere Mill Company") puts an invented firm somewhere
+        # real, and the consistency judge rightly fails it when the geography does not fit.
+        "places": ["Thrushcombe", "Ashlowe", "Carrowdene", "Hollinsbeck", "Stavenholme", "Quarnley",
+                   "Brackenworth", "Ellerscar"],
         "firm_forms": ["{a} and {b}", "{a} & Sons", "{a} Brothers", "{a}, {b} and Company"],
         "society_forms": ["{p} Provident Union", "{p} Mechanics' Institute", "{p} Natural History Society",
                           "{p} Literary and Philosophical Society"],

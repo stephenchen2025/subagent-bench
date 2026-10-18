@@ -1,0 +1,202 @@
+[
+ {
+  "template": "chain",
+  "entities": [
+   {
+    "eid": "E0231",
+    "name": "Salisbury branch line",
+    "type": "railway line",
+    "invented": false,
+    "from": 1856,
+    "to": 2024
+   },
+   {
+    "eid": "E0232",
+    "name": "Warminster",
+    "type": "town",
+    "invented": false,
+    "from": 1086,
+    "to": 2025
+   },
+   {
+    "eid": "E0233",
+    "name": "Cuthbert Entwistle",
+    "type": "person",
+    "invented": true,
+    "from": 1822,
+    "to": 1894
+   }
+  ],
+  "facts": [
+   {
+    "fid": "F0231",
+    "s": "E0231",
+    "r": "includes the station of",
+    "o": "E0232",
+    "planted": false,
+    "para_id": "22453124::0"
+   },
+   {
+    "fid": "F0232",
+    "s": "E0233",
+    "r": "was appointed as the head porter at the station in",
+    "o": "E0232",
+    "planted": true,
+    "host_page": 375732,
+    "when": 1857,
+    "unit_id": "p01-gold-F0232"
+   }
+  ],
+  "path": [
+   "F0231",
+   "F0232"
+  ],
+  "question": "Who was appointed as the head porter in 1857 at the station in the historic market town on the western edge of Salisbury Plain that is a stop on the railway line completed in 1856 between Westbury and Salisbury?",
+  "answer": "Cuthbert Entwistle",
+  "aliases": [
+   "Entwistle",
+   "Mr. Entwistle",
+   "C. Entwistle"
+  ],
+  "pid": "p01",
+  "tier": "easy",
+  "knobs": {
+   "hops": [
+    2,
+    2
+   ],
+   "planted": [
+    1,
+    1
+   ],
+   "bridges": "name",
+   "near_misses": 0,
+   "templates": [
+    "chain"
+   ],
+   "max_depth": "early"
+  },
+  "prompt_version": "designer-v1",
+  "gates": {
+   "closed_book": "pass",
+   "base_corpus": "pass",
+   "oracle": "pass",
+   "name_collision": "pass",
+   "lexical_shortcut": "fail",
+   "oracle_distractors": "pass",
+   "consistency": "fail",
+   "style": "fail",
+   "human_review": "pending"
+  },
+  "return_to": 3,
+  "gate_reason": "style: judge picked the planted paragraph 0.80 vs chance 0.25"
+ },
+ {
+  "template": "chain",
+  "entities": [
+   {
+    "eid": "watercress_line",
+    "name": "Watercress Line",
+    "type": "organization",
+    "invented": false,
+    "from": 1861,
+    "to": 2010
+   },
+   {
+    "eid": "medstead_station",
+    "name": "Medstead and Four Marks railway station",
+    "type": "place",
+    "invented": false,
+    "from": 1868
+   },
+   {
+    "eid": "gideon_b",
+    "name": "Gideon Braithwaite",
+    "type": "person",
+    "invented": true,
+    "from": 1815,
+    "to": 1892
+   },
+   {
+    "eid": "thwaite_c",
+    "name": "Thwaite-in-Craven",
+    "type": "place",
+    "invented": true
+   }
+  ],
+  "facts": [
+   {
+    "fid": "f1",
+    "s": "watercress_line",
+    "r": "includes the station at",
+    "o": "medstead_station",
+    "planted": false,
+    "para_id": "653944:History/British Railways ownership:1",
+    "when": 1868
+   },
+   {
+    "fid": "f2",
+    "s": "gideon_b",
+    "r": "was the inaugural stationmaster at",
+    "o": "medstead_station",
+    "planted": true,
+    "host_page": 18186014,
+    "when": 1868,
+    "unit_id": "p02-gold-f2"
+   },
+   {
+    "fid": "f3",
+    "s": "gideon_b",
+    "r": "was born in",
+    "o": "thwaite_c",
+    "planted": true,
+    "host_page": 2447054,
+    "when": 1815,
+    "unit_id": "p02-gold-f3"
+   }
+  ],
+  "path": [
+   "f1",
+   "f2",
+   "f3"
+  ],
+  "question": "Identify the birth village of the inaugural stationmaster at the railway station that reaches the maximum elevation on the heritage railway known as the Watercress Line.",
+  "answer": "Thwaite-in-Craven",
+  "aliases": [
+   "Thwaite in Craven"
+  ],
+  "pid": "p02",
+  "tier": "medium",
+  "knobs": {
+   "hops": [
+    3,
+    3
+   ],
+   "planted": [
+    2,
+    2
+   ],
+   "bridges": "mixed",
+   "near_misses": 1,
+   "templates": [
+    "chain",
+    "comparison"
+   ],
+   "max_depth": "middle"
+  },
+  "prompt_version": "designer-v1",
+  "gates": {
+   "closed_book": "pass",
+   "base_corpus": "pass",
+   "oracle": "pass",
+   "name_collision": "pass",
+   "lexical_shortcut": "fail",
+   "oracle_distractors": "pass",
+   "consistency": "fail",
+   "style": "fail",
+   "human_review": "pending"
+  },
+  "return_to": 3,
+  "gate_reason": "style: judge picked the planted paragraph 1.00 vs chance 0.25"
+ }
+]

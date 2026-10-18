@@ -45,16 +45,30 @@ def new_name(kind, rng, collision=None, registry=None, tries=50, **constraints):
     raise RuntimeError(f"no free {kind} name after {tries} tries; widen the name pools")
 
 
-def similar_name(name, rng, collision=None, registry=None, tries=50):
-    """A near-miss name sharing a distinctive part with `name` (a surname or place)."""
-    parts = [w for w in name.replace("&", "and").split() if w[:1].isupper() and w.lower() not in
-             {"and", "company", "sons", "brothers", "society", "union", "institute"}]
+PERSON_FORMS = ["{f} {a}", "{f} {a}", "{f} {b}-{a}"]
+FIRM_FORMS = ["{a} Brothers", "{a} & Sons", "{a} and {b}", "{a}, {b} and Company"]
+FIRST_NAMES = ["John", "William", "Thomas", "James", "Henry", "George", "Samuel", "Joseph", "Edward", "Robert"]
+
+
+def similar_name(name, rng, collision=None, registry=None, tries=50, kind="organization"):
+    """A near-miss name of the same kind as `name`, sharing a distinctive part (a surname or place).
+
+    A person gets another person with the same surname; anything else gets a firm form.
+    """
+    words = name.replace("&", "and").split()
+    if kind == "person":
+        parts = words[-1:]
+        forms = PERSON_FORMS
+    else:
+        parts = [w for w in words if w[:1].isupper() and w.lower() not in
+                 {"and", "company", "sons", "brothers", "society", "union", "institute"}]
+        forms = FIRM_FORMS
     pool = nm.POOLS[("north england", "1800s")]
-    forms = ["{a} Brothers", "{a} & Sons", "{a} and {b}", "{a}, {b} and Company"]
     for _ in range(tries):
         a = rng.choice(parts) if parts else rng.choice(pool["surnames"])
         b = rng.choice([s for s in pool["surnames"] if s != a])
-        cand = rng.choice(forms).format(a=a, b=b)
+        f = rng.choice([x for x in FIRST_NAMES if x not in words])
+        cand = rng.choice(forms).format(a=a, b=b, f=f)
         if nm.normalize(cand) == nm.normalize(name):
             continue
         if collision is not None and collision.collisions(cand):
@@ -190,7 +204,9 @@ def make_units(puzzle, paragraphs, pages, hosts, cluster_pages, pool, ledger, rn
         if page is None:
             break
         e_sub, e_obj = f"nm{n}s", f"nm{n}o"
-        ents[e_sub] = {"eid": e_sub, "name": similar_name(ents[g["s"]]["name"], rng, collision, registry), "invented": True}
+        ents[e_sub] = {"eid": e_sub, "name": similar_name(ents[g["s"]]["name"], rng, collision, registry,
+                                                                kind=ents[g["s"]].get("type", "organization")),
+                       "invented": True, "type": ents[g["s"]].get("type")}
         ents[e_obj] = {"eid": e_obj, "name": titles[page], "invented": False}
         fact = {"fid": e_sub, "s": e_sub, "r": g["r"], "o": e_obj, "planted": True,
                 "when": _year_near(g["when"], rng, forbid) if g.get("when") is not None else None}

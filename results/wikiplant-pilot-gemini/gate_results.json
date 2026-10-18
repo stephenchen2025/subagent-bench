@@ -1,0 +1,159 @@
+{
+ "p01": {
+  "name_collision": {
+   "state": "pass",
+   "reason": "",
+   "names": 5
+  },
+  "lexical_shortcut": {
+   "state": "fail",
+   "reason": "final-hop gold BM25 rank 24, tier band 2-10",
+   "bm25_rank": 24
+  },
+  "closed_book": {
+   "state": "pass",
+   "reason": ""
+  },
+  "oracle": {
+   "state": "pass",
+   "reason": "",
+   "accuracy": 1.0
+  },
+  "oracle_distractors": {
+   "state": "pass",
+   "reason": "",
+   "accuracy": 1.0,
+   "distractors": 4
+  },
+  "consistency": {
+   "state": "fail",
+   "reason": "p01-decoy-03: Navigation ceased in the 1850s and the channel to the coal wharf had disappeared altogether by 1891, contradicting the claim that the wharf was leased in 1895.; p01-decoy-04: The Stonehaven derailment did not happen until 12 August 2020, so a survey of it could not have been published in 1879.",
+   "conflicts": [
+    {
+     "unit": "p01-decoy-03",
+     "claim": "Ormskirk Coal and Navigation Company leased a wharf in 1895",
+     "para_id": "4492879:History:3",
+     "why": "Navigation ceased in the 1850s and the channel to the coal wharf had disappeared altogether by 1891, contradicting the claim that the wharf was leased in 1895."
+    },
+    {
+     "unit": "p01-decoy-04",
+     "claim": "Dunmere Literary and Philosophical Society published a survey of Stonehaven derailment in 1879",
+     "para_id": "64846668::0",
+     "why": "The Stonehaven derailment did not happen until 12 August 2020, so a survey of it could not have been published in 1879."
+    }
+   ]
+  },
+  "base_corpus": {
+   "state": "pass",
+   "reason": ""
+  },
+  "style": {
+   "state": "fail",
+   "reason": "judge picked the planted paragraph 0.80 vs chance 0.25",
+   "accuracy": 0.8,
+   "chance": 0.25,
+   "n": 10,
+   "p_value": 0.000415802001953125
+  },
+  "human_review": {
+   "state": "pending",
+   "reason": "awaiting human review"
+  }
+ },
+ "p02": {
+  "name_collision": {
+   "state": "pass",
+   "reason": "",
+   "names": 10
+  },
+  "lexical_shortcut": {
+   "state": "fail",
+   "reason": "final-hop gold BM25 rank 262135, tier band 10-100",
+   "bm25_rank": 262135
+  },
+  "closed_book": {
+   "state": "pass",
+   "reason": ""
+  },
+  "oracle": {
+   "state": "pass",
+   "reason": "",
+   "accuracy": 1.0
+  },
+  "oracle_distractors": {
+   "state": "pass",
+   "reason": "",
+   "accuracy": 1.0,
+   "distractors": 8
+  },
+  "consistency": {
+   "state": "fail",
+   "reason": "p02-near_miss-01: Ropley railway station opened in 1865, so the inaugural stationmaster could not have been appointed in 1878.; p02-decoy-03: The Stainmoor Iron Company is not mentioned anywhere in the text regarding Staunton on Arrow in 1893 or at any other time.; p02-decoy-03: The Stainmoor Iron Company is not mentioned in the text, and there is no record of it using a wharf in Staunton on Arrow.; p02-decoy-04: The Warwickshire ring is a connected series of canals, not an object or project that a literary and philosophical society would raise a subscription for in 1882.; p02-decoy-07: The claims imply Thomas Andrews was the subject of a survey in 1845, yet was born nearly three decades after 1845 (circa 1873 according to his birth date on 7 February 1873, or 1847 for the metallurgist). However, Thomas Andrews Jr. was born in 1873, meaning he could not have been surveyed in 1845, and the claims contradict each other regarding chronology.; p02-decoy-08: The East Lincolnshire Railway was located in Lincolnshire, whereas Dunmere is a hamlet in Cornwall. There is no mention of a Dunmere Mill Company or any coal transactions with them in the provided text, and the geographic locations are completely incompatible.",
+   "conflicts": [
+    {
+     "unit": "p02-near_miss-01",
+     "claim": "{\"s\": \"Braithwaite & Sons\", \"r\": \"was the inaugural stationmaster at\", \"o\": \"Ropley\", \"when\": 1878}",
+     "para_id": "653953:Amenities/Station:0",
+     "why": "Ropley railway station opened in 1865, so the inaugural stationmaster could not have been appointed in 1878."
+    },
+    {
+     "unit": "p02-decoy-03",
+     "claim": {
+      "s": "Stainmoor Iron Company",
+      "r": "leased a wharf from",
+      "o": "Staunton on Arrow",
+      "when": 1893
+     },
+     "para_id": "66005263:History/19th century:2",
+     "why": "The Stainmoor Iron Company is not mentioned anywhere in the text regarding Staunton on Arrow in 1893 or at any other time."
+    },
+    {
+     "unit": "p02-decoy-03",
+     "claim": {
+      "s": "Stainmoor Iron Company",
+      "r": "used a wharf for",
+      "o": "movement of materials",
+      "when": 1893
+     },
+     "para_id": "66005263:History/19th century:2",
+     "why": "The Stainmoor Iron Company is not mentioned in the text, and there is no record of it using a wharf in Staunton on Arrow."
+    },
+    {
+     "unit": "p02-decoy-04",
+     "claim": "Ormskirk Literary and Philosophical Society raised a subscription for Warwickshire ring in 1882",
+     "para_id": "1270651::0",
+     "why": "The Warwickshire ring is a connected series of canals, not an object or project that a literary and philosophical society would raise a subscription for in 1882."
+    },
+    {
+     "unit": "p02-decoy-07",
+     "claim": "Stainmoor Provident Union published a survey of Thomas Andrews when 1845",
+     "para_id": "794616::0",
+     "conflicting_claim": "Thomas Andrews was born nearly three decades after 1845",
+     "why": "The claims imply Thomas Andrews was the subject of a survey in 1845, yet was born nearly three decades after 1845 (circa 1873 according to his birth date on 7 February 1873, or 1847 for the metallurgist). However, Thomas Andrews Jr. was born in 1873, meaning he could not have been surveyed in 1845, and the claims contradict each other regarding chronology."
+    },
+    {
+     "unit": "p02-decoy-08",
+     "claim": "Dunmere Mill Company purchased coal from East Lincolnshire Railway in 1874",
+     "para_id": "21968971::0",
+     "why": "The East Lincolnshire Railway was located in Lincolnshire, whereas Dunmere is a hamlet in Cornwall. There is no mention of a Dunmere Mill Company or any coal transactions with them in the provided text, and the geographic locations are completely incompatible."
+    }
+   ]
+  },
+  "base_corpus": {
+   "state": "pass",
+   "reason": ""
+  },
+  "style": {
+   "state": "fail",
+   "reason": "judge picked the planted paragraph 1.00 vs chance 0.25",
+   "accuracy": 1.0,
+   "chance": 0.25,
+   "n": 20,
+   "p_value": 9.094947017729282e-13
+  },
+  "human_review": {
+   "state": "pending",
+   "reason": "awaiting human review"
+  }
+ }
+}

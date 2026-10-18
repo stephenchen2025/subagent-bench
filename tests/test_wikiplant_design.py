@@ -128,7 +128,7 @@ def test_name_collision_and_registry_caps(world):
 def test_generate_is_seeded_and_period_shaped():
     a = [generate("firm", rng=random.Random(3)) for _ in range(2)]
     assert a[0] == a[1] and any(w in a[0] for w in ("and", "&", "Brothers", "Sons"))
-    assert generate("society", rng=random.Random(1)).split()[0] in {"Dunmere", "Wharfedale", "Calder", "Ribblesdale", "Marlow", "Hesketh", "Stainmoor", "Ormskirk"}
+    assert generate("society", rng=random.Random(1)).split()[0] in {"Thrushcombe", "Ashlowe", "Carrowdene", "Hollinsbeck", "Stavenholme", "Quarnley", "Brackenworth", "Ellerscar"}
     with pytest.raises(ValueError):
         generate("spaceship")
 

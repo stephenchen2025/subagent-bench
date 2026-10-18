@@ -148,3 +148,8 @@ def test_decoy_year_stays_inside_the_host_pages_own_years():
     assert all(1861 <= decoy_year(1, paras, cache, rng) <= 1874 for _ in range(50))
     assert decoy_year(2, paras, cache, rng) is None
     assert decoy_year(1, paras, cache, rng, forbid=[str(y) for y in range(1861, 1875)]) is None
+
+
+def test_near_miss_of_a_person_is_a_person():
+    s = similar_name("Gideon Braithwaite", random.Random(2), kind="person")
+    assert s.endswith("Braithwaite") and s != "Gideon Braithwaite" and "Sons" not in s and "Brothers" not in s
