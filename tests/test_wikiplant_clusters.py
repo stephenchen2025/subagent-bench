@@ -106,3 +106,14 @@ def test_louvain_keeps_isolated_nodes():
     adj = {1: {2: 1.0}, 2: {1: 1.0, 3: 1.0}, 3: {2: 1.0}, 4: {}, 5: {6: 1.0}, 6: {5: 1.0}}
     labels = louvain(adj)
     assert set(labels) == {1, 2, 3, 4, 5, 6} and labels[1] == labels[2] and labels[4] not in (labels[1], labels[5])
+
+
+def test_diversify_ignores_words_every_cluster_shares():
+    common = "the town was in the county and the parish had a church and the railway " * 20
+    stats = {i: {"text": [common + ("cotton spinning weaving loom mill " * 3 if i < 10 else "fossil specimen museum collector " * 3)]}
+             for i in range(20)}
+    cands = [{"seed": 0, "pages": list(range(0, 5)), "score": 0.9},
+             {"seed": 5, "pages": list(range(5, 10)), "score": 0.8},
+             {"seed": 10, "pages": list(range(10, 15)), "score": 0.7}]
+    picked = diversify(cands, stats, keep=3, similarity_max=0.5)
+    assert [c["seed"] for c in picked] == [0, 10]     # same-topic cluster 5 dropped, other topic kept

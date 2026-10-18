@@ -170,13 +170,14 @@ def grow_cluster(adj, seed, top=GROW_TOP, louvain_seed=0):
     return {p for p, c in labels.items() if c == labels[seed]} | {seed}
 
 
-def _tfidf(docs):
+def _tfidf(docs, smooth=True):
     toks = {k: Counter(_TOKEN.findall(v.lower())) for k, v in docs.items()}
     df = Counter(t for c in toks.values() for t in c)
     n = len(docs)
     vecs = {}
     for k, c in toks.items():
-        v = {t: (1 + math.log(f)) * math.log(1 + n / df[t]) for t, f in c.items()}
+        idf = (lambda t: math.log(1 + n / df[t])) if smooth else (lambda t: math.log(n / df[t]))
+        v = {t: (1 + math.log(f)) * idf(t) for t, f in c.items()}
         norm = math.sqrt(sum(x * x for x in v.values())) or 1.0
         vecs[k] = {t: x / norm for t, x in v.items()}
     return vecs
@@ -248,21 +249,22 @@ def discover(paragraphs, pages, seeds, redirects=None, hub_frac=0.01, hub_titles
 
 
 def diversify(clusters, stats, keep, overlap_max=0.3, similarity_max=0.5):
-    """Greedy pick of `keep` clusters: skip heavy page overlap or near-identical topic centroids."""
-    centroid = lambda c: {k: v for k, v in _tfidf({c["seed"]: " ".join(
-        " ".join(stats[i]["text"]) for i in c["pages"] if i in stats)})[c["seed"]].items()}
+    """Greedy pick of `keep` clusters: skip heavy page overlap or near-identical topic centroids.
+
+    Centroids are tf-idf over all candidates together, so words every cluster shares carry no weight.
+    """
+    live = [c for c in clusters if c["score"] > 0]
+    docs = {k: " ".join(" ".join(stats[i]["text"]) for i in c["pages"] if i in stats) for k, c in enumerate(live)}
+    vecs = _tfidf(docs, smooth=False) if docs else {}
     chosen, cents = [], []
-    for c in clusters:
-        if c["score"] <= 0:
-            continue
+    for k, c in enumerate(live):
         pset = set(c["pages"])
         if any(len(pset & set(o["pages"])) / len(pset) > overlap_max for o in chosen):
             continue
-        cv = centroid(c)
-        if any(_cos(cv, o) > similarity_max for o in cents):
+        if any(_cos(vecs[k], o) > similarity_max for o in cents):
             continue
         chosen.append(c)
-        cents.append(cv)
+        cents.append(vecs[k])
         if len(chosen) == keep:
             break
     return chosen

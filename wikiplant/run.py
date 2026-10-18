@@ -24,14 +24,15 @@ from .schemas import read_jsonl
 from .writing import Ledger, WriterPool, plant_fact
 
 # Free-tier roles. Writers span two model versions so no one fingerprint is on every unit.
+# gemini-3.8-flash is stronger but slow and had the smallest free daily quota in the first run.
 GEMINI = {
     "designer": "gemini-3.5-flash",
     "writers": ["gemini-3.5-flash-lite", "gemini-3.1-flash-lite"],
-    "closed_book": ["gemini-3.8-flash", "gemini-3.5-flash"],
+    "closed_book": ["gemini-3.5-flash", "gemini-3.1-flash-lite"],
     "oracle": "gemini-3.5-flash",
     "judge": "gemini-3.5-flash",
     "agent": "gemini-3.5-flash-lite",
-    "style_judge": "gemini-3.8-flash",
+    "style_judge": "gemini-3.5-flash",
 }
 SCHEDULE = [("easy", "chain"), ("medium", "chain"), ("medium", "comparison")]
 
