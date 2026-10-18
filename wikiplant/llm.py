@@ -32,7 +32,7 @@ def _retry_delay(body):
     return float(m.group(1)) if m else None
 
 
-def gemini_model(model, min_interval_s=4.0, temperature=None, max_retries=8, max_output_tokens=8192, key=None, daily_strikes=3,
+def gemini_model(model, min_interval_s=4.0, temperature=None, max_retries=8, max_output_tokens=32768, key=None, daily_strikes=3,
                  opener=urllib.request.urlopen, sleep=time.sleep, clock=time.monotonic):
     key = key or os.environ["GEMINI_API_KEY"]
     state = {"last": -1e9, "day_strikes": 0}

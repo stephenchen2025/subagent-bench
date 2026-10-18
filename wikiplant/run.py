@@ -117,6 +117,7 @@ def main(argv=None):
     ap.add_argument("--interval", type=float, default=4.0, help="seconds between calls to one model")
     ap.add_argument("--samples", type=int, default=2)
     ap.add_argument("--min-cluster", type=int, default=30)
+    ap.add_argument("--gates-only", action="store_true", help="re-run the gates on --out's saved puzzles and manifest")
     a = ap.parse_args(argv)
     started = time.time()
     out = Path(a.out)
@@ -127,6 +128,13 @@ def main(argv=None):
     sid = (snap / "snapshot_id").read_text().strip()
     rng = random.Random(a.rng)
     M = models(GEMINI, a.interval)
+
+    if a.gates_only:
+        puzzles = json.loads((out / "puzzles.json").read_text())
+        manifest = json.loads((out / "manifest.json").read_text())
+        fpath = out / "failures.json"
+        failures = json.loads(fpath.read_text()) if fpath.exists() else []
+        return run_all_gates(out, paras, sid, M, a, puzzles, manifest, failures, started)
 
     clusters, hosts = pick_clusters(paras, pages, a.puzzles, a.seeds, a.rng, (a.min_cluster, 150))
     log(f"{len(clusters)} clusters: " + "; ".join(
@@ -180,6 +188,19 @@ def main(argv=None):
             puzzles.append(d)
             save(out, puzzles=puzzles, manifest=manifest)
 
+    except QuotaExhausted as e:
+        log(f"stopped: {e}")
+        failures.append({"pid": "-", "stage": "quota", "reason": str(e)})
+        save(out, puzzles=puzzles, manifest=manifest)
+        report(out, puzzles, manifest, failures, gate_results, started)
+        return
+    save(out, puzzles=puzzles, manifest=manifest, failures=failures)
+    run_all_gates(out, paras, sid, M, a, puzzles, manifest, failures, started)
+
+
+def run_all_gates(out, paras, sid, M, a, puzzles, manifest, failures, started):
+    gate_results = {}
+    try:
         log(f"building corpora over {len(paras)} paragraphs and {len(manifest)} units")
         ctx = Context(paragraphs=paras, manifest=manifest, snapshot_id=sid, closed_book_models=M["closed_book"],
                       agent=M["agent"], oracle=M["oracle"], judge=M["judge"], style_judge=M["style_judge"],

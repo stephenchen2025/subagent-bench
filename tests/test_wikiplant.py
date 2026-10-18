@@ -64,9 +64,11 @@ def test_manifest_applies_deterministically_and_by_variant(snap):
     # the new subsection sits inside Operations, after its existing subsections
     paths = ["/".join(sp) for sp, _ in full[102].sections]
     assert paths.index("Operations/Contractors") == paths.index("Operations/Rolling stock") + 1
-    # unplanted paragraphs keep contiguous ids
+    # real paragraphs keep their snapshot ids around an insertion
     ids = [p["para_id"] for sp, ps in full[101].sections if sp == ["History"] for p in ps]
-    assert ids[0] == "101:History:0" and ids[2] == "101:History:2"
+    assert ids == ["101:History:0", "plant:u001", "101:History:1"]
+    base_ids = {p["para_id"] for pg in none.values() for _, ps in pg.sections for p in ps}
+    assert base_ids == {p["para_id"] for p in paras}
 
 
 @pytest.mark.parametrize("patch,err", [

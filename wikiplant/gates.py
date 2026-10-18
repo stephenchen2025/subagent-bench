@@ -232,7 +232,8 @@ def gate_consistency(puzzle, ctx, k=5):
         for c in claims:
             for hit, _ in base.bm25.search(f"{c.get('s', '')} {c.get('o', '')}", k):
                 for pid in hit["para_ids"]:
-                    real.setdefault(pid, ctx.para_by_id[pid]["text"])
+                    if pid in ctx.para_by_id:
+                        real.setdefault(pid, ctx.para_by_id[pid]["text"])
         prompt = CONSISTENCY_PROMPT.format(claims=json.dumps(claims, indent=1),
                                            paragraphs="\n\n".join(f"[{pid}] {t}" for pid, t in sorted(real.items())))
         try:

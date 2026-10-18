@@ -9,7 +9,7 @@ Applying a manifest is deterministic. Variants are built from the same base:
 import hashlib
 import json
 
-from .schemas import para_id, validate_manifest_entry
+from .schemas import validate_manifest_entry
 
 VARIANTS = {
     "full": {"gold", "near_miss", "partial_echo", "decoy"},
@@ -116,13 +116,8 @@ def apply_manifest(paragraphs, manifest, variant="full"):
             if pid_.startswith("plant:"):
                 uid = pid_[len("plant:"):]
                 units[uid] = {"role": placed[uid][0], "page_id": page.page_id, "para_id": pid_, "start": start, "end": end}
-    # Re-index paragraphs the insertions displaced, so ids stay page:section:index.
-    for page in pages.values():
-        for sp, paras in page.sections:
-            for i, p in enumerate(paras):
-                p["para_idx"] = i
-                if not p["para_id"].startswith("plant:"):
-                    p["para_id"] = para_id(page.page_id, sp, i)
+    # Real paragraphs keep their snapshot ids, even where an insertion shifted their position:
+    # puzzles cite them by id, and the same id must name the same text in every variant.
     return pages, units
 
 
