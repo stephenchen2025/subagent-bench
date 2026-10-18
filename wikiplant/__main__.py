@@ -1,4 +1,5 @@
 """python -m wikiplant snapshot --dump D --date YYYY-MM-DD --out DIR
+python -m wikiplant clusters --snapshot DIR [--seeds N --keep N]
 python -m wikiplant search --paragraphs P --manifest M [--variant full] QUERY
 """
 
@@ -7,6 +8,7 @@ import json
 import sys
 from pathlib import Path
 
+from .clusters import discover, diversify, host_pages, page_stats, sample_seeds
 from .parse import snapshot
 from .schemas import read_jsonl, write_jsonl
 from .tools import Corpus
@@ -19,6 +21,11 @@ def main(argv=None):
     s.add_argument("--dump", required=True)
     s.add_argument("--date", required=True)
     s.add_argument("--out", required=True)
+    c = sub.add_parser("clusters", help="discover clusters from a snapshot directory")
+    c.add_argument("--snapshot", required=True, help="directory written by 'snapshot'")
+    c.add_argument("--seeds", type=int, default=10)
+    c.add_argument("--keep", type=int, default=5)
+    c.add_argument("--rng", type=int, default=0)
     q = sub.add_parser("search", help="search a built corpus")
     q.add_argument("--paragraphs", required=True)
     q.add_argument("--manifest")
@@ -34,6 +41,18 @@ def main(argv=None):
         (out / "pages.json").write_text(json.dumps(pages, indent=1))
         (out / "snapshot_id").write_text(sid + "\n")
         print(f"{len(pages)} pages, {len(paras)} paragraphs, snapshot {sid}")
+    elif a.cmd == "clusters":
+        snap = Path(a.snapshot)
+        paras = read_jsonl(snap / "paragraphs.jsonl")
+        pages = json.loads((snap / "pages.json").read_text())
+        stats = page_stats(paras)
+        hosts = host_pages(stats, {int(k): v for k, v in pages.items()})
+        found = discover(paras, pages, sample_seeds(hosts, a.seeds, a.rng))
+        picked = diversify(found, stats, a.keep)
+        (snap / "clusters.json").write_text(json.dumps(picked, indent=1))
+        for cl in picked:
+            print(f"seed {cl['seed']}  {cl['signals']['size']} pages  score {cl['score']}")
+        print(f"{len(picked)} of {len(found)} candidate clusters kept")
     else:
         manifest = json.loads(Path(a.manifest).read_text()) if a.manifest else []
         c = Corpus(read_jsonl(a.paragraphs), manifest, a.variant)
