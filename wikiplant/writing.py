@@ -190,7 +190,7 @@ def _swap_case(word, table):
     return rep.capitalize() if word[:1].isupper() else rep
 
 
-def lint(text, target_words, must_mention=(), heading=None, conv=None, existing_headings=()):
+def lint(text, target_words, must_mention=(), heading=None, conv=None, existing_headings=(), forbid=()):
     """Problems with a written unit, empty when it is fit to plant."""
     errs = []
     low = text.lower()
@@ -205,6 +205,9 @@ def lint(text, target_words, must_mention=(), heading=None, conv=None, existing_
     for m in must_mention:
         if str(m).lower() not in low:
             errs.append(f"does not state {m!r}")
+    for f in forbid:
+        if re.search(rf"\b{re.escape(str(f).lower())}\b", low):
+            errs.append(f"must not mention {f!r}")
     if heading is not None:
         if heading in existing_headings:
             errs.append(f"heading {heading!r} already exists on the page")
@@ -235,7 +238,7 @@ class WriterPool:
 
 
 def write_unit(unit_id, fact_text, must_mention, page, placement, conv, pool, rng,
-               padding=(), surface=None, role="gold", max_attempts=3):
+               padding=(), surface=None, role="gold", max_attempts=3, forbid=()):
     """Call 4 until the text passes lint. Returns (manifest entry or None, attempts)."""
     name, model = pool.pick(unit_id)
     paras = [p for _, ps in page.sections for p in ps]
@@ -261,7 +264,7 @@ def write_unit(unit_id, fact_text, must_mention, page, placement, conv, pool, rn
         except (DesignError, ValueError, KeyError, TypeError) as e:
             problems = [f"unparseable reply: {e}"]
         else:
-            problems = lint(text, target, must_mention, heading if sub else None, conv, existing)
+            problems = lint(text, target, must_mention, heading if sub else None, conv, existing, forbid)
             if sub and not heading:
                 problems.append("a new subsection needs a heading")
             if not claims:
@@ -282,8 +285,11 @@ def write_unit(unit_id, fact_text, must_mention, page, placement, conv, pool, rn
 
 
 def plant_fact(unit_id, fact, entities, paragraphs, candidates, pool, ledger, rng, ranker=None,
-               role="gold", padding=(), surface=None):
-    """Rank hosts, place, write. Returns (manifest entry or None, log)."""
+               role="gold", padding=(), surface=None, forbid=()):
+    """Rank hosts, place, write. Returns (manifest entry or None, log).
+
+    `forbid` lists strings the text must not contain, such as a decoy keeping clear of the answer.
+    """
     pages = load_pages(paragraphs)
     text = fact_sentence(fact, entities)
     candidates = [c for c in candidates if c in pages and ledger.free(c, role)]
@@ -295,7 +301,8 @@ def plant_fact(unit_id, fact, entities, paragraphs, candidates, pool, ledger, rn
     conv = conventions([p for _, ps in page.sections for p in ps])
     placement = choose_placement(page, section, rng, role)
     must = [entities[fact["s"]]["name"]] + ([fact["when"]] if fact.get("when") is not None else [])
-    entry, attempts = write_unit(unit_id, text, must, page, placement, conv, pool, rng, padding, surface, role)
+    entry, attempts = write_unit(unit_id, text, must, page, placement, conv, pool, rng, padding, surface, role,
+                                 forbid=forbid)
     if entry:
         ledger.take(page_id, role)
     return entry, {"host": page_id, "section": section, "placement": placement["mode"], "attempts": attempts}
