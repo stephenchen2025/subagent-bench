@@ -19,6 +19,9 @@ GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/{}:generat
 USAGE = defaultdict(lambda: {"calls": 0, "tokens": 0, "retries": 0})
 
 
+MAX_WAIT_S = 300    # a 429 asking for a longer wait is a spent daily quota, not a rate limit
+
+
 class QuotaExhausted(RuntimeError):
     pass
 
@@ -51,6 +54,9 @@ def gemini_model(model, min_interval_s=4.0, temperature=None, max_retries=8, max
             except urllib.error.HTTPError as e:
                 text = e.read().decode(errors="replace")
                 if e.code == 429:
+                    delay = _retry_delay(text)
+                    if delay is not None and delay > MAX_WAIT_S:
+                        raise QuotaExhausted(f"{model}: quota spent, server asks to wait {delay / 3600:.1f} h") from None
                     # A per-day quota id alone is not proof: free-tier 429s often name one and clear in a
                     # minute. Only several in a row, with no per-minute quota named, end the run.
                     if re.search(r"PerDay|per day|daily", text, re.I) and not re.search(r"PerMinute", text):
@@ -58,7 +64,7 @@ def gemini_model(model, min_interval_s=4.0, temperature=None, max_retries=8, max
                         if state["day_strikes"] >= daily_strikes:
                             raise QuotaExhausted(f"{model}: daily quota spent ({text[:300]})") from None
                     USAGE[model]["retries"] += 1
-                    sleep(_retry_delay(text) or min(120, 10 * 2 ** attempt))
+                    sleep(delay or min(120, 10 * 2 ** attempt))
                     continue
                 if e.code in (500, 502, 503, 504) and attempt < max_retries:
                     USAGE[model]["retries"] += 1
@@ -79,4 +85,26 @@ def gemini_model(model, min_interval_s=4.0, temperature=None, max_retries=8, max
             return "".join(p.get("text", "") for p in parts if not p.get("thought"))
         raise RuntimeError(f"{model}: gave up after {max_retries} retries")
     call.name = model
+    return call
+
+
+def fallback(models):
+    """A Model that uses the first of `models` with quota left, moving on when one is spent.
+
+    Free-tier Gemini allows ~20 requests a day per Flash model, so a role is a chain of
+    models rather than one. Raises QuotaExhausted only when every model in the chain is spent.
+    """
+    spent = set()
+
+    def call(prompt):
+        for m in models:
+            if m.name in spent:
+                continue
+            try:
+                return m(prompt)
+            except QuotaExhausted:
+                spent.add(m.name)
+        raise QuotaExhausted("all of " + ", ".join(m.name for m in models) + " are spent")
+    call.name = "|".join(m.name for m in models)
+    call.spent = spent
     return call

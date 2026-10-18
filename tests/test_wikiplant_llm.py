@@ -4,7 +4,7 @@ import urllib.error
 
 import pytest
 
-from wikiplant.llm import USAGE, QuotaExhausted, gemini_model
+from wikiplant.llm import USAGE, QuotaExhausted, fallback, gemini_model
 
 
 def fake(responses):
@@ -63,3 +63,25 @@ def test_paces_calls():
     m("a")
     m("b")
     assert slept == [4.0]
+
+
+def test_long_retry_delay_means_daily_quota():
+    body = '{"quotaId": "GenerateRequestsPerDayPerProjectPerModel-FreeTier", "retryDelay": "26882s"}'
+    slept = []
+    m = gemini_model("t-long", key="k", opener=fake([(429, body)]), sleep=slept.append)
+    with pytest.raises(QuotaExhausted):
+        m("hi")
+    assert slept == []          # never sleeps for hours
+
+
+def test_fallback_moves_down_the_chain():
+    def spent(p):
+        raise QuotaExhausted("x")
+    spent.name = "a"
+    ok = lambda p: "from b"
+    ok.name = "b"
+    chain = fallback([spent, ok])
+    assert chain("q") == "from b" and chain("q") == "from b" and chain.spent == {"a"}
+    dead = fallback([spent])
+    with pytest.raises(QuotaExhausted):
+        dead("q")

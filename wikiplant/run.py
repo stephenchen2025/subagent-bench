@@ -18,21 +18,25 @@ from . import clusters as cl
 from . import decoys as dc
 from .design import TIERS, build_brief, design_puzzle
 from .gates import ORDER, Context, pass_rates, run_gates
-from .llm import USAGE, QuotaExhausted, gemini_model
+from .llm import USAGE, QuotaExhausted, fallback, gemini_model
 from .names import CollisionIndex, Registry
 from .schemas import read_jsonl
 from .writing import Ledger, WriterPool, plant_fact
 
-# Free-tier roles. Writers span two model versions so no one fingerprint is on every unit.
-# gemini-3.8-flash is stronger but slow and had the smallest free daily quota in the first run.
+# Free-tier roles. Each role is a chain: the free tier allows ~20 requests a day per Flash model,
+# so when one is spent the role moves to the next, ending on Flash-Lite models, which allow more.
+# Writers span two model versions so no one fingerprint is on every unit.
+FLASH = ["gemini-3-flash-preview", "gemini-3.7-flash", "gemini-3.8-flash", "gemini-3.5-flash", "gemini-3.6-flash"]
+LITE = ["gemini-3.5-flash-lite", "gemini-3.1-flash-lite", "gemini-flash-lite-latest"]
 GEMINI = {
-    "designer": "gemini-3.5-flash",
-    "writers": ["gemini-3.5-flash-lite", "gemini-3.1-flash-lite"],
-    "closed_book": ["gemini-3.5-flash", "gemini-3.1-flash-lite"],
-    "oracle": "gemini-3.5-flash",
-    "judge": "gemini-3.5-flash",
-    "agent": "gemini-3.5-flash-lite",
-    "style_judge": "gemini-3.5-flash",
+    "designer": FLASH + LITE[:1],
+    "writers": {"gemini-3.5-flash-lite": ["gemini-3.5-flash-lite", "gemini-flash-lite-latest"],
+                "gemini-3.1-flash-lite": ["gemini-3.1-flash-lite", "gemini-flash-lite-latest"]},
+    "closed_book": {"flash": FLASH[::-1], "lite": ["gemini-3.1-flash-lite"]},
+    "oracle": FLASH[1:] + LITE[:1],
+    "judge": FLASH + LITE[:1],
+    "agent": LITE,
+    "style_judge": LITE[1:] + LITE[:1],
 }
 SCHEDULE = [("easy", "chain"), ("medium", "chain"), ("medium", "comparison")]
 
@@ -42,14 +46,22 @@ def log(msg):
 
 
 def models(spec, interval):
-    # Flash models get a third of lite's request rate on the free tier.
-    m = lambda name: gemini_model(name, min_interval_s=interval if "lite" in name else interval * 3)
+    """Role -> Model, each a fallback chain. One client per model name, shared across roles,
+    so pacing and spent quotas are tracked once per model."""
+    clients = {}
+
+    def client(name):
+        if name not in clients:
+            # Flash models get a third of lite's request rate on the free tier.
+            clients[name] = gemini_model(name, min_interval_s=interval if "lite" in name else interval * 3)
+        return clients[name]
+    chain = lambda names: fallback([client(n) for n in names])
     return {
-        "designer": m(spec["designer"]),
-        "writers": {w: m(w) for w in spec["writers"]},
-        "closed_book": {c: m(c) for c in spec["closed_book"]},
-        "oracle": m(spec["oracle"]), "judge": m(spec["judge"]), "agent": m(spec["agent"]),
-        "style_judge": m(spec["style_judge"]),
+        "designer": chain(spec["designer"]),
+        "writers": {k: chain(v) for k, v in spec["writers"].items()},
+        "closed_book": {k: chain(v) for k, v in spec["closed_book"].items()},
+        "oracle": chain(spec["oracle"]), "judge": chain(spec["judge"]), "agent": chain(spec["agent"]),
+        "style_judge": chain(spec["style_judge"]),
     }
 
 
@@ -171,7 +183,7 @@ def main(argv=None):
         log(f"building corpora over {len(paras)} paragraphs and {len(manifest)} units")
         ctx = Context(paragraphs=paras, manifest=manifest, snapshot_id=sid, closed_book_models=M["closed_book"],
                       agent=M["agent"], oracle=M["oracle"], judge=M["judge"], style_judge=M["style_judge"],
-                      samples=a.samples)
+                      samples=a.samples, style_repeats=2)
         for d in puzzles:
             log(f"{d['pid']}: gates")
             gate_results[d["pid"]] = {}

@@ -88,6 +88,7 @@ class Context:
     samples: int = 3
     oracle_threshold: float = 0.9
     agent_steps: int = 12
+    style_repeats: int = 5
     redirects: tuple = ()
     _cache: dict = field(default_factory=dict)
 
@@ -279,7 +280,7 @@ def gate_base_corpus(puzzle, ctx):
     return _result(hits == 0, f"base-corpus agent answered {hits}/{ctx.samples}" if hits else "")
 
 
-def gate_style(puzzle, ctx, k=4, repeats=5, alpha=0.05):
+def gate_style(puzzle, ctx, k=4, alpha=0.05):
     """Gate 8: a judge picking the planted paragraph among k from each host page does no better than chance."""
     if ctx.style_judge is None:
         return {"state": "pending", "reason": "no style judge configured"}
@@ -288,7 +289,7 @@ def gate_style(puzzle, ctx, k=4, repeats=5, alpha=0.05):
     trials = []
     for u in gold + others:
         real = [p["text"] for _, ps in pages[u["host_page"]].sections for p in ps]
-        trials += [{"title": pages[u["host_page"]].title, "planted": u["text"], "real": real}] * repeats
+        trials += [{"title": pages[u["host_page"]].title, "planted": u["text"], "real": real}] * ctx.style_repeats
     r = pick_the_planted(trials, ctx.style_judge, k=k)
     ok = r["n"] == 0 or r["p_value"] >= alpha
     return _result(ok, "" if ok else f"judge picked the planted paragraph {r['accuracy']:.2f} vs chance {r['chance']:.2f}", **r)
