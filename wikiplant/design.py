@@ -63,7 +63,11 @@ def parse_json(text):
     start = text.find("{")
     if start < 0:
         raise DesignError("no JSON object in the reply")
-    obj, _ = json.JSONDecoder().raw_decode(text[start:])
+    try:
+        obj, _ = json.JSONDecoder().raw_decode(text[start:])
+    except ValueError:
+        # Models without a JSON mode often leave a trailing comma before } or ].
+        obj, _ = json.JSONDecoder().raw_decode(re.sub(r",\s*([}\]])", r"\1", text[start:]))
     return obj
 
 

@@ -71,6 +71,7 @@ def test_refine_brief_merges_model_output(world):
 
 def test_parse_json_errors():
     assert parse_json('noise {"a": 1} tail') == {"a": 1}
+    assert parse_json('{"a": [1, 2,], "b": {"c": 3,},}') == {"a": [1, 2], "b": {"c": 3}}
     with pytest.raises(DesignError):
         parse_json("no object")
 

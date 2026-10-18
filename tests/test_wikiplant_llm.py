@@ -85,3 +85,12 @@ def test_fallback_moves_down_the_chain():
     dead = fallback([spent])
     with pytest.raises(QuotaExhausted):
         dead("q")
+
+
+def test_json_prompts_ask_for_json_mode():
+    op = fake([OK, OK])
+    m = gemini_model("t-json", key="k", opener=op, sleep=lambda s: None)
+    m("Return only JSON: {}")
+    m("Reply with only the short answer.")
+    assert op.calls[0]["generationConfig"]["responseMimeType"] == "application/json"
+    assert "responseMimeType" not in op.calls[1]["generationConfig"]

@@ -39,6 +39,8 @@ def gemini_model(model, min_interval_s=4.0, temperature=None, max_retries=8, max
 
     def call(prompt):
         cfg = {"maxOutputTokens": max_output_tokens}
+        if "JSON" in prompt:
+            cfg["responseMimeType"] = "application/json"   # prompts that ask for JSON get guaranteed-valid JSON
         if temperature is not None:
             cfg["temperature"] = temperature
         body = json.dumps({"contents": [{"role": "user", "parts": [{"text": prompt}]}], "generationConfig": cfg}).encode()
