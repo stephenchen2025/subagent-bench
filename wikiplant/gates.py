@@ -272,7 +272,9 @@ def gate_base_corpus(puzzle, ctx):
         return {"state": "pending", "reason": "no agent model configured"}
     hits = 0
     for _ in range(ctx.samples):
-        ans, _ = run_agent(ctx.agent, Corpus(ctx.paragraphs, [], "none", ctx.snapshot_id), puzzle["question"], ctx.agent_steps)
+        corpus = ctx.corpus("none")
+        corpus.log = []
+        ans, _ = run_agent(ctx.agent, corpus, puzzle["question"], ctx.agent_steps)
         hits += bool(ans and answer_matches(ans, puzzle["answer"], puzzle.get("aliases", [])))
     return _result(hits == 0, f"base-corpus agent answered {hits}/{ctx.samples}" if hits else "")
 

@@ -86,6 +86,7 @@ def build_brief(cluster, paragraphs, pages, types=None, max_lead=400):
             "page_id": i, "title": titles[i], "type": (types or {}).get(i, "unknown"),
             "infobox": (pages.get(i) or {}).get("infobox", {}), "lead": lead[:max_lead],
             "years": [years[0], years[-1]] if years else [], "sections": sections,
+            "paras": [(p["para_id"], p["text"][:max_lead]) for p in ps[:4]],
             "words": sum(len(p["text"].split()) for p in ps),
         })
         for p in ps:
@@ -115,7 +116,7 @@ def _band(n, lo_hi):
     return lo_hi[0] <= n <= lo_hi[1]
 
 
-def check_design(d, brief, tier, hosts, collision=None, registry=None, used_names=()):
+def check_design(d, brief, tier, hosts, collision=None, registry=None, used_names=(), para_ids=None):
     """Every rule a fact graph must meet before prose is written. Returns problems, empty when it passes."""
     errs = validate_puzzle({**{"pid": d.get("pid", "draft")}, **d})
     if errs:
@@ -152,6 +153,8 @@ def check_design(d, brief, tier, hosts, collision=None, registry=None, used_name
             errs.append(f"fact {f['fid']}: a planted fact's subject must be an invented entity")
         if not f.get("planted") and (ents[f["s"]].get("invented") or ents[f["o"]].get("invented")):
             errs.append(f"fact {f['fid']}: a real fact cannot involve an invented entity")
+        if not f.get("planted") and para_ids is not None and f["para_id"] not in para_ids:
+            errs.append(f"fact {f['fid']}: para_id {f['para_id']} does not exist; cite one from the brief")
     if len(set(hop_pages)) != len(hop_pages):
         errs.append("each hop must live on a different host page")
     for a, b in zip(path, path[1:]):
@@ -195,8 +198,29 @@ def check_design(d, brief, tier, hosts, collision=None, registry=None, used_name
     return errs
 
 
+def brief_for_prompt(brief, hosts, max_pages=25, max_relations=60, max_paras=3):
+    """A bounded text rendering of the brief: host pages first, each with citable paragraph ids."""
+    pages = sorted(brief["pages"], key=lambda p: (p["page_id"] not in hosts, -p["words"]))[:max_pages]
+    keep = {p["title"] for p in pages}
+    lines = []
+    for p in pages:
+        tag = "HOST" if p["page_id"] in hosts else "context"
+        years = f" years {p['years'][0]}-{p['years'][1]}" if p["years"] else ""
+        lines.append(f"## page {p['page_id']} [{tag}] {p['title']} ({p['type']}{years})")
+        if p.get("infobox"):
+            lines.append("infobox: " + "; ".join(f"{k}={v}" for k, v in list(p["infobox"].items())[:8]))
+        for pid, text in p.get("paras", [])[:max_paras]:
+            lines.append(f"[{pid}] {text}")
+        lines.append("sections: " + ", ".join(p["sections"][:15]))
+    rels = [r for r in brief["relations"] if r["s"] in keep and r["o"] in keep][:max_relations]
+    lines.append("\n## links between these pages (para_id where the link sits)")
+    lines += [f"{r['s']} -> {r['o']} [{r['para_id']}]" for r in rels]
+    return "\n".join(lines)
+
+
 def design_puzzle(brief, model, tier, template, hosts, pid, collision=None, registry=None,
-                  naming="period-appropriate for north England in the 1800s", max_attempts=3, used_names=()):
+                  naming="period-appropriate for north England in the 1800s", max_attempts=3, used_names=(),
+                  para_ids=None):
     """Run call 2 until the fact graph passes `check_design`.
 
     Returns (puzzle or None, attempts). Each attempt: {"problems": [...]}; the last
@@ -208,14 +232,14 @@ def design_puzzle(brief, model, tier, template, hosts, pid, collision=None, regi
         prompt = DESIGNER_PROMPT.format(
             hosts=sorted(hosts), hops="-".join(map(str, knobs["hops"])), planted="-".join(map(str, knobs["planted"])),
             template=template, bridges=knobs["bridges"], naming=naming, used=sorted(used_names) or "none",
-            brief=json.dumps(brief, indent=1)[:30000], feedback=feedback)
+            brief=brief_for_prompt(brief, hosts), feedback=feedback)
         try:
             d = parse_json(model(prompt))
         except (DesignError, ValueError) as e:
             problems = [f"unparseable reply: {e}"]
         else:
             d["pid"], d["template"] = pid, d.get("template", template)
-            problems = check_design(d, brief, tier, hosts, collision, registry, used_names)
+            problems = check_design(d, brief, tier, hosts, collision, registry, used_names, para_ids)
         attempts.append({"problems": problems})
         if not problems:
             for e in d["entities"]:
