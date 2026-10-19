@@ -36,8 +36,9 @@ Return only JSON: {{"template","entities","facts","path","question","answer","al
 
 Rules:
 - Entities: {{"eid","name","type","invented","from","to"}}; from/to are the years the entity existed, when known.
-- Facts: {{"fid","s","r","o","planted","when"}}. A real fact cites "para_id" from the brief. A planted fact
-  gives "host_page", one of {hosts}.
+- Facts: {{"fid","s","r","o","planted","when"}}. A real fact cites "para_id": one of the ids shown in
+  [brackets] in the brief, copied exactly. Infobox fields cannot be cited: the agent never sees them.
+  A planted fact gives "host_page", one of {hosts}; no other page may host one.
 - A planted fact's SUBJECT is an invented entity. Real entities appear only as the object. Say nothing false
   about a real entity.
 - The path lists fact ids in hop order. It starts at a real entity the agent can search for and ends at a
