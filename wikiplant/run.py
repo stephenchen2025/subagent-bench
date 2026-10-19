@@ -184,7 +184,7 @@ def main(argv=None):
                                             tier_knobs=TIERS[tier])
                 units += extra
                 log(f"{pid}: {len(units)} units written ({dc.ratio_report(units)['by_role']}); "
-                    f"{sum(1 for x in dlog if 'error' in x)} decoys skipped")
+                    f"{sum(1 for x in dlog if not x.get('written'))} planned units not written")
                 manifest += units
                 puzzles.append(d)
                 save(out, puzzles=puzzles, manifest=manifest)

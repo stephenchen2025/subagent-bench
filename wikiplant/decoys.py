@@ -192,7 +192,7 @@ def make_units(puzzle, paragraphs, pages, hosts, cluster_pages, pool, ledger, rn
             return
         entry, info = plant_fact(u, fact, ents, paragraphs, candidates, pool, ledger, rng, role=role,
                                  forbid=[x for x in forbid + list(extra_forbid) if x])
-        log.append({"unit_id": u, **info})
+        log.append({"unit_id": u, "written": entry is not None, **info})
         if entry:
             entry["puzzle"] = puzzle["pid"]
             entry["fact"] = {k: (ents[fact[k]]["name"] if k in ("s", "o") else v) for k, v in fact.items()}
