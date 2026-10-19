@@ -151,3 +151,24 @@ def test_design_loop_feeds_failures_back_and_registers_names(world):
 def test_design_gives_up_with_reasons(world):
     d, attempts = design_puzzle(world[3], lambda p: json.dumps(mutated(path=["f1"])), "easy", "chain", HOSTS, "p", max_attempts=2)
     assert d is None and len(attempts) == 2 and attempts[-1]["problems"]
+
+
+def test_year_strings_are_normalized_or_reported(world):
+    from wikiplant.design import normalize_years
+    d = mutated()
+    d["facts"][1]["when"] = "c. 1852"
+    d["entities"][2]["to"] = "1879"
+    assert check(normalize_years(d), world) == []
+    assert d["facts"][1]["when"] == 1852 and d["entities"][2]["to"] == 1879
+    d = mutated()
+    d["facts"][1]["when"] = "the 1850s?"
+    assert check(d, world)        # no crash
+    d["facts"][1]["when"] = "early that decade"
+    assert any("must be a year number" in e for e in check(normalize_years(d), world))
+
+
+def test_design_loop_accepts_string_years(world):
+    reply = mutated()
+    reply["facts"][1]["when"] = "1852"
+    d, attempts = design_puzzle(world[3], lambda p: json.dumps(reply), "easy", "chain", HOSTS, "p9")
+    assert d is not None and d["facts"][1]["when"] == 1852, attempts

@@ -112,6 +112,23 @@ def refine_brief(brief, model, max_pages=40):
     return merged
 
 
+YEAR_FIELDS = (("facts", "when"), ("entities", "from"), ("entities", "to"))
+
+
+def normalize_years(d):
+    """Turn year fields models send as strings ("1857", "c. 1857") into ints, in place.
+
+    A value with no four-digit year is left as it is, and check_design reports it.
+    """
+    for group, key in YEAR_FIELDS:
+        for rec in d.get(group) or []:
+            v = rec.get(key)
+            if isinstance(v, str):
+                m = re.search(r"\b(\d{4})\b", v)
+                rec[key] = int(m.group(1)) if m else (None if not v.strip() else v)
+    return d
+
+
 def _para_page(para_id):
     return int(str(para_id).split(":", 1)[0])
 
@@ -165,6 +182,13 @@ def check_design(d, brief, tier, hosts, collision=None, registry=None, used_name
         if not {a["s"], a["o"]} & {b["s"], b["o"]}:
             errs.append(f"facts {a['fid']} and {b['fid']} share no entity, so the path is not connected")
 
+    for group, key in YEAR_FIELDS:
+        for rec in d[group]:
+            v = rec.get(key)
+            if v is not None and not isinstance(v, int):
+                errs.append(f"{group[:-1]} {rec.get('fid') or rec.get('eid')}: {key} must be a year number, got {v!r}")
+    if errs:
+        return errs
     for f in path:
         when = f.get("when")
         if when is None:
@@ -243,6 +267,7 @@ def design_puzzle(brief, model, tier, template, hosts, pid, collision=None, regi
             problems = [f"unparseable reply: {e}"]
         else:
             d["pid"], d["template"] = pid, d.get("template", template)
+            normalize_years(d)
             problems = check_design(d, brief, tier, hosts, collision, registry, used_names, para_ids)
         attempts.append({"problems": problems})
         if not problems:

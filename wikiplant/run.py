@@ -151,42 +151,48 @@ def main(argv=None):
         for i, c in enumerate(clusters):
             tier, template = SCHEDULE[i % len(SCHEDULE)]
             pid = f"p{i + 1:02d}"
-            cluster_hosts = set(c["pages"]) & hosts
-            log(f"{pid}: designing {tier} {template} on '{pages[c['seed']]['title']}' ({len(cluster_hosts)} host pages)")
-            brief = build_brief(c, paras, pages)
-            d, attempts = design_puzzle(brief, M["designer"], tier, template, cluster_hosts, pid, collision, registry,
-                                        para_ids=para_ids)
-            if d is None:
-                failures.append({"pid": pid, "stage": "design", "reason": "; ".join(attempts[-1]["problems"])})
-                log(f"{pid}: design failed: {attempts[-1]['problems'][:3]}")
-                continue
-            log(f"{pid}: Q: {d['question']}  A: {d['answer']}")
-            ents = {e["eid"]: e for e in d["entities"]}
-            units, ok = [], True
-            for f in d["facts"]:
-                if not (f.get("planted") and f["fid"] in d["path"]):
+            try:
+                cluster_hosts = set(c["pages"]) & hosts
+                log(f"{pid}: designing {tier} {template} on '{pages[c['seed']]['title']}' ({len(cluster_hosts)} host pages)")
+                brief = build_brief(c, paras, pages)
+                d, attempts = design_puzzle(brief, M["designer"], tier, template, cluster_hosts, pid, collision, registry,
+                                            para_ids=para_ids)
+                if d is None:
+                    failures.append({"pid": pid, "stage": "design", "reason": "; ".join(attempts[-1]["problems"])})
+                    log(f"{pid}: design failed: {attempts[-1]['problems'][:3]}")
                     continue
-                uid = f"{pid}-gold-{f['fid']}"
-                entry, info = plant_fact(uid, f, ents, paras, [f["host_page"]], pool, ledger, rng, role="gold")
-                if entry is None:
-                    reason = info.get("error") or "; ".join(info["attempts"][-1]["problems"])
-                    failures.append({"pid": pid, "stage": "writing", "reason": reason})
-                    log(f"{pid}: writing failed for {f['fid']}: {reason[:200]}")
-                    ok = False
-                    break
-                entry["puzzle"] = pid
-                f["unit_id"] = uid
-                units.append(entry)
-            if not ok:
-                continue
-            extra, dlog = dc.make_units(d, paras, pages, hosts, set(c["pages"]), pool, ledger, rng, collision, registry,
-                                        tier_knobs=TIERS[tier])
-            units += extra
-            log(f"{pid}: {len(units)} units written ({dc.ratio_report(units)['by_role']}); "
-                f"{sum(1 for x in dlog if 'error' in x)} decoys skipped")
-            manifest += units
-            puzzles.append(d)
-            save(out, puzzles=puzzles, manifest=manifest)
+                log(f"{pid}: Q: {d['question']}  A: {d['answer']}")
+                ents = {e["eid"]: e for e in d["entities"]}
+                units, ok = [], True
+                for f in d["facts"]:
+                    if not (f.get("planted") and f["fid"] in d["path"]):
+                        continue
+                    uid = f"{pid}-gold-{f['fid']}"
+                    entry, info = plant_fact(uid, f, ents, paras, [f["host_page"]], pool, ledger, rng, role="gold")
+                    if entry is None:
+                        reason = info.get("error") or "; ".join(info["attempts"][-1]["problems"])
+                        failures.append({"pid": pid, "stage": "writing", "reason": reason})
+                        log(f"{pid}: writing failed for {f['fid']}: {reason[:200]}")
+                        ok = False
+                        break
+                    entry["puzzle"] = pid
+                    f["unit_id"] = uid
+                    units.append(entry)
+                if not ok:
+                    continue
+                extra, dlog = dc.make_units(d, paras, pages, hosts, set(c["pages"]), pool, ledger, rng, collision, registry,
+                                            tier_knobs=TIERS[tier])
+                units += extra
+                log(f"{pid}: {len(units)} units written ({dc.ratio_report(units)['by_role']}); "
+                    f"{sum(1 for x in dlog if 'error' in x)} decoys skipped")
+                manifest += units
+                puzzles.append(d)
+                save(out, puzzles=puzzles, manifest=manifest)
+            except QuotaExhausted:
+                raise
+            except Exception as e:  # one bad model reply must not cost the rest of the batch
+                failures.append({"pid": pid, "stage": "error", "reason": f"{type(e).__name__}: {e}"})
+                log(f"{pid}: failed with {type(e).__name__}: {e}")
 
     except QuotaExhausted as e:
         log(f"stopped: {e}")
@@ -208,7 +214,13 @@ def run_all_gates(out, paras, sid, M, a, puzzles, manifest, failures, started):
         for d in puzzles:
             log(f"{d['pid']}: gates")
             gate_results[d["pid"]] = {}
-            run_gates(d, ctx, stop_on_fail=False, results=gate_results[d["pid"]])
+            try:
+                run_gates(d, ctx, stop_on_fail=False, results=gate_results[d["pid"]])
+            except QuotaExhausted:
+                raise
+            except Exception as e:  # keep the other puzzles' gates
+                failures.append({"pid": d["pid"], "stage": "gates", "reason": f"{type(e).__name__}: {e}"})
+                log(f"{d['pid']}: gates failed with {type(e).__name__}: {e}")
             log(f"{d['pid']}: " + ", ".join(f"{g}={r['state']}" for g, r in gate_results[d["pid"]].items()))
             save(out, puzzles=puzzles, gate_results=gate_results)
     except QuotaExhausted as e:
