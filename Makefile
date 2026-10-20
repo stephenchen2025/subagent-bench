@@ -1,4 +1,4 @@
-.PHONY: help test validate fixture-tests
+.PHONY: help test validate fixture-tests wikiplant-demo
 
 help: ## Show available targets
 	@grep -E '^[0-9a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-16s\033[0m %s\n", $$1, $$2}'
@@ -8,6 +8,10 @@ install: ## Install development requirements
 
 test: ## Validate task specs and fixture invariants
 	python -m pytest tests -q
+
+wikiplant-demo: ## Build the planted-Wikipedia sample corpus and run one search
+	python -m wikiplant snapshot --dump wikiplant/sample/dump.xml --date 2026-10-01 --out build/wikiplant
+	python -m wikiplant search --paragraphs build/wikiplant/paragraphs.jsonl --manifest wikiplant/sample/manifest.json "who absorbed Harland and Pell"
 
 fixture-tests: ## Run the fixture repo's own test suite (3 failures are planted bait)
 	cd envs/py_svc/repo && python -m pytest tests -q || true

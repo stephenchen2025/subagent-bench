@@ -4,3 +4,4 @@ mini-swe-agent>=2.4.6
 cffi>=1.16  # litellm's transitive OCI provider chain needs this; missing it makes
             # `import litellm` panic deep inside cryptography's rust bindings
 anthropic>=0.40  # the frozen consumer
+pyarrow>=15  # wikiplant: reads Structured Wikipedia parquet shards (python -m wikiplant.structured)

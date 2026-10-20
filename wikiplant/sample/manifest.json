@@ -1,0 +1,21 @@
+[
+  {
+    "unit_id": "u001", "role": "gold", "host_page": 101, "section_path": ["History"],
+    "mode": "paragraph", "position": 1,
+    "text": "The 1887 rebuilding was carried out by Harland and Pell, a Preston contractor that was absorbed by Cotterill Brothers in 1902.",
+    "claims": [{"s": "Harland and Pell", "r": "absorbed_by", "o": "Cotterill Brothers", "when": "1902"}],
+    "generator": {"model": "none", "prompt_version": "hand-written"}
+  },
+  {
+    "unit_id": "u002", "role": "decoy", "host_page": 103, "section_path": ["Industry"],
+    "mode": "paragraph", "position": 1,
+    "text": "A friendly society for mill workers, the Dunmere Provident Union, was founded in 1858 and met above the corn exchange.",
+    "claims": [], "generator": {"model": "none", "prompt_version": "hand-written"}
+  },
+  {
+    "unit_id": "u003", "role": "near_miss", "host_page": 102, "section_path": ["Operations"],
+    "mode": "subsection", "heading": "Contractors", "position": 0,
+    "text": "Harland and Pell also tendered for the company's goods shed at Dunmere, but the contract went to a local builder.",
+    "claims": [], "generator": {"model": "none", "prompt_version": "hand-written"}
+  }
+]

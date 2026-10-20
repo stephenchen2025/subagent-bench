@@ -1,0 +1,98 @@
+[
+ {
+  "unit_id": "p01-gold-f2",
+  "role": "gold",
+  "host_page": 2567360,
+  "section_path": [
+   "History"
+  ],
+  "mode": "paragraph",
+  "position": 4,
+  "text": "Jedidiah Thwaite owned a cloth mill in Heytesbury in 1824. The settlement continued to develop through the early nineteenth century alongside traditional agricultural pursuits and local manufacturing ventures within the surrounding Wiltshire countryside.",
+  "claims": [
+   {
+    "s": "Jedidiah Thwaite",
+    "r": "owned",
+    "o": "a cloth mill in Heytesbury",
+    "when": 1824
+   },
+   {
+    "s": "The settlement",
+    "r": "continued to develop",
+    "o": "through the early nineteenth century",
+    "when": null
+   }
+  ],
+  "generator": {
+   "model": "gemini-3.5-flash-lite",
+   "prompt_version": "writer-v1"
+  },
+  "puzzle": "p01"
+ },
+ {
+  "unit_id": "p01-decoy-02",
+  "role": "decoy",
+  "host_page": 13486919,
+  "section_path": [
+   "Geography"
+  ],
+  "mode": "subsection",
+  "position": 0,
+  "text": "Local support and charitable fundraising occurred during the nineteenth century. Stavenholme Mechanics' Institute raised a subscription for Keal Cotes in 1846. This financial assistance contributed to local welfare initiatives within the rural parish community during a period of agricultural transition and development across the wider region. Such philanthropic efforts were typical of the era, providing necessary relief and support to small settlements situated on the edge of the fens where employment opportunities and local resources remained limited throughout the Victorian period.",
+  "claims": [
+   {
+    "s": "Stavenholme Mechanics' Institute",
+    "r": "raised a subscription for",
+    "o": "Keal Cotes",
+    "when": 1846
+   }
+  ],
+  "generator": {
+   "model": "gemini-3.5-flash-lite",
+   "prompt_version": "writer-v1"
+  },
+  "heading": "Local history",
+  "puzzle": "p01",
+  "fact": {
+   "fid": "d1s",
+   "s": "Stavenholme Mechanics' Institute",
+   "r": "raised_a_subscription_for",
+   "o": "Keal Cotes",
+   "planted": true,
+   "when": 1846
+  }
+ },
+ {
+  "unit_id": "p01-decoy-04",
+  "role": "decoy",
+  "host_page": 36759221,
+  "section_path": [
+   "History",
+   "Br\u00f8ste's house"
+  ],
+  "mode": "paragraph",
+  "position": 0,
+  "text": "In 1898, the property engaged in commercial transactions when the Thrushcombe Coal and Navigation Company bought coal from Br\u00f8ste House. This trade reflected the varied commercial activities taking place in the buildings along the canal before the premises were later adapted for other cultural and residential purposes.",
+  "claims": [
+   {
+    "s": "Thrushcombe Coal and Navigation Company",
+    "r": "bought coal from",
+    "o": "Br\u00f8ste House",
+    "when": 1898
+   }
+  ],
+  "generator": {
+   "model": "gemini-3.5-flash-lite",
+   "prompt_version": "writer-v1"
+  },
+  "puzzle": "p01",
+  "fact": {
+   "fid": "d3s",
+   "s": "Thrushcombe Coal and Navigation Company",
+   "r": "bought_coal_from",
+   "o": "Br\u00f8ste House",
+   "planted": true,
+   "when": 1898
+  }
+ }
+]

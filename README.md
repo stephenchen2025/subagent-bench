@@ -53,6 +53,7 @@ Three ideas carry it:
 | [`tools/run_milestone1.py`](tools/run_milestone1.py) | resumable, cost-guarded multi-model Milestone 1 runner |
 | [`tests/`](tests/) | fixture invariants, spec consistency, scorer unit tests, end-to-end |
 | [`longhorizon/`](longhorizon/) | long-horizon track: 39 distinct tasks (one per family), software and science a single agent cannot finish in time and parallel subagents can |
+| [`wikiplant/`](wikiplant/) | planted-fact Wikipedia corpus and multi-hop questions for deep-research agents; see its README |
 
 **Running it yourself:** [`PLAYBOOK.md`](PLAYBOOK.md) is a step-by-step
 runbook (for a person or an agent): finish the free-tier Gemma pilot, run
@@ -67,6 +68,7 @@ make milestone1               # the real thing (needs ANTHROPIC_API_KEY)
 make tasks                   # emit Harbor task directories into build/harbor
 make test-harbor             # 12 more, against real harbor (needs Python >=3.12)
 make longhorizon             # rebuild the 39 long-horizon Harbor task dirs
+make wikiplant-demo          # build the planted-fact sample corpus and run one search
 ```
 
 ## What the scorers see

@@ -1,0 +1,63 @@
+{
+ "p01": {
+  "name_collision": {
+   "state": "pass",
+   "reason": "",
+   "names": 3
+  },
+  "lexical_shortcut": {
+   "state": "fail",
+   "reason": "final-hop gold BM25 rank 11, tier band 2-10",
+   "bm25_rank": 11
+  },
+  "closed_book": {
+   "state": "pass",
+   "reason": ""
+  },
+  "oracle": {
+   "state": "pass",
+   "reason": "",
+   "accuracy": 1.0
+  },
+  "oracle_distractors": {
+   "state": "pass",
+   "reason": "",
+   "accuracy": 1.0,
+   "distractors": 2
+  },
+  "consistency": {
+   "state": "fail",
+   "reason": "p01-gold-f2: The text states that by the early nineteenth century Westfield still consisted mostly of rural land with little residential development, and it only developed into a populous area and was recognized as a settlement later in the nineteenth and early twentieth centuries.; p01-decoy-04: In the 1890s, the property was owned by furniture maker Fritz Hansen and used as a home for veterans, not as a coal supplier.",
+   "conflicts": [
+    {
+     "unit": "p01-gold-f2",
+     "claim": "The settlement continued to develop through the early nineteenth century",
+     "para_id": "[33025265:History:0]",
+     "why": "The text states that by the early nineteenth century Westfield still consisted mostly of rural land with little residential development, and it only developed into a populous area and was recognized as a settlement later in the nineteenth and early twentieth centuries."
+    },
+    {
+     "unit": "p01-decoy-04",
+     "claim": "Thrushcombe Coal and Navigation Company bought coal from Br\u00f8ste House in 1898",
+     "para_id": "36759221:History/Changing owners:4",
+     "why": "In the 1890s, the property was owned by furniture maker Fritz Hansen and used as a home for veterans, not as a coal supplier."
+    }
+   ]
+  },
+  "base_corpus": {
+   "state": "pass",
+   "reason": ""
+  },
+  "style": {
+   "state": "fail",
+   "reason": "judge picked the planted paragraph 1.00 vs chance 0.25",
+   "accuracy": 1.0,
+   "chance": 0.25,
+   "n": 6,
+   "p_value": 0.000244140625
+  },
+  "human_review": {
+   "state": "pending",
+   "reason": "awaiting human review"
+  }
+ }
+}
