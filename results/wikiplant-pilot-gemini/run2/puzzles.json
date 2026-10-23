@@ -1,0 +1,95 @@
+[
+ {
+  "template": "chain",
+  "entities": [
+   {
+    "eid": 1,
+    "name": "Imber",
+    "type": "village",
+    "invented": false,
+    "from": 1086,
+    "to": 2023
+   },
+   {
+    "eid": 2,
+    "name": "Heytesbury",
+    "type": "parish",
+    "invented": false,
+    "from": 1086,
+    "to": 1985
+   },
+   {
+    "eid": 3,
+    "name": "Jedidiah Thwaite",
+    "type": "person",
+    "invented": true,
+    "from": 1795,
+    "to": 1864
+   }
+  ],
+  "facts": [
+   {
+    "fid": "f1",
+    "s": 1,
+    "r": "is an uninhabited village within the parish of",
+    "o": 2,
+    "planted": false,
+    "para_id": "1933141::0",
+    "when": null
+   },
+   {
+    "fid": "f2",
+    "s": 3,
+    "r": "owned a cloth mill in",
+    "o": 2,
+    "planted": true,
+    "host_page": 2567360,
+    "when": 1824,
+    "unit_id": "p01-gold-f2"
+   }
+  ],
+  "path": [
+   "f1",
+   "f2"
+  ],
+  "question": "Which merchant owned a cloth mill in 1824 in the parish that includes the now uninhabited village of Imber?",
+  "answer": "Jedidiah Thwaite",
+  "aliases": [
+   "Jedidiah Thwaite",
+   "J. Thwaite",
+   "Thwaite"
+  ],
+  "pid": "p01",
+  "tier": "easy",
+  "knobs": {
+   "hops": [
+    2,
+    2
+   ],
+   "planted": [
+    1,
+    1
+   ],
+   "bridges": "name",
+   "near_misses": 0,
+   "templates": [
+    "chain"
+   ],
+   "max_depth": "early"
+  },
+  "prompt_version": "designer-v1",
+  "gates": {
+   "closed_book": "pass",
+   "base_corpus": "pass",
+   "oracle": "pass",
+   "name_collision": "pass",
+   "lexical_shortcut": "fail",
+   "oracle_distractors": "pass",
+   "consistency": "fail",
+   "style": "fail",
+   "human_review": "pending"
+  },
+  "return_to": 3,
+  "gate_reason": "style: judge picked the planted paragraph 1.00 vs chance 0.25"
+ }
+]
